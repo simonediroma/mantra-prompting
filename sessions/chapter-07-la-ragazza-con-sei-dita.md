@@ -33,3 +33,4 @@ chapters/07-la-ragazza-con-sei-dita.md
 
 Confermato dall'autore il 2026-09-08.
 - 2026-10-10 — Revisione cross-capitolo esterna (`revision-report-2026-10-10.md`), issue ALTA: R-03. Testo portato a v4.0; dettagli nel Cycle 1 del Demolition Log.
+- 2026-10-10 — Revisione cross-capitolo, issue del capitolo: R-70, R-71, R-72, R-73, R-74, R-75, R-76.
