@@ -28,3 +28,4 @@ Sulle note di *Il video sono io*, spense il giradischi e andò a dormire.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | R-05 Chiusura prevedibile con riga sul quaderno, ridondante rispetto al paragrafo precedente | structure | integrated (v3.0) | Rimossa la nota; la domanda su chi ci sia dietro resta implicita. Aggiornata `mappa-eventi.md`. |
+| R-80 "Una cover acustica" su eTv vs cover su eDj (cap. 11) | world consistency | rejected (autore) | Nessun conflitto: le cover video con chitarra acustica sono un formato tipico di YouTube; eDj pubblica solo audio. Reveal futuro (cover di *Vacanze romane*) registrato in `book-memory.md → Open Promises`. |
