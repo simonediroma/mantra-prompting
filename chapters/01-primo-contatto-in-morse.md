@@ -29,7 +29,7 @@ Non si aspettava chiaramente alcuna risposta. Era un rito scaramantico, una sort
 
 Il LED lampeggiò.
 
-Non a caso. Non nel pattern casuale potenzialmente prodotto da un guasto. Lampeggiò con una cadenza precisa, punti e linee, un ritmo che una parte molto vecchia e molto sepolta del cervello di Tom, quella cresciuta a manuali di elettronica amatoriale e vecchie radio a valvole recuperate nei mercatini, riconobbe prima ancora che la parte razionale finisse di elaborare la frase.
+Lampeggiò con una cadenza precisa, troppo regolare per essere il pattern casuale di un guasto: punti e linee, un ritmo che una parte molto vecchia e molto sepolta del cervello di Tom, quella cresciuta a manuali di elettronica amatoriale e vecchie radio a valvole recuperate nei mercatini, riconobbe prima ancora che la parte razionale finisse di elaborare la frase.
 
 *.. --- / ... --- -. --- / --.- ..- ..*
 
