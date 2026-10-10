@@ -1,6 +1,6 @@
 ---
 title: La ragazza con sei dita
-version: 3.0
+version: 4.0
 claim: Tom trova il video citato dalla signora Voss e, riguardandolo più volte senza sapere bene cosa stia cercando, individua un dettaglio impossibile per un corpo umano reale, un piede che cambia anatomia da fotogramma a fotogramma, la prima prova tecnica concreta che quel video non è mai stato girato da una persona in carne e ossa, ma soltanto generato.
 status: complete
 ---
@@ -34,3 +34,13 @@ Tornò indietro alla pagina del video e cliccò sul nome del canale: eTv.
 La pagina del canale era scarna: logo minimale, nessuna descrizione. In compenso, una quantità spropositata di video su argomenti più disparati, tutti con un discreto numero di visualizzazioni. Era evidente che il canale non fosse verticale sullo yoga o sul fitness: qualcosa pensato a tavolino, più probabilmente, per fare soldi con gli annunci pubblicitari di YouTube.
 
 Per un tecnico abituato a smontare le cose una vite alla volta, era già un buon punto di partenza.
+
+---
+
+## Demolition Log
+
+### Cycle 1 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-03 Tic lessicali: 3× "il tipo di", "restò a fissare", "fotogramma per fotogramma… da bambino" ripetuto dal cap. 5 | style / AI-slop | integrated (v4.0) | Ridotti a 1 ("Il tipo di errore"); "Lasciò il fotogramma in pausa"; "tornò indietro un fotogramma alla volta. Contò di nuovo." |

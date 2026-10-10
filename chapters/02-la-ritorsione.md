@@ -1,6 +1,6 @@
 ---
 title: Stallo burocratico
-version: 2.0
+version: 3.0
 claim: Tom scopre il prezzo istituzionale della propria curiosità, una sanzione minima ma precisa: impara non a smettere di indagare, ma a farlo con più cautela, proprio mentre perde l'accesso diretto al televisore anomalo.
 status: draft
 ---
@@ -54,3 +54,10 @@ Da quel momento, decise, non si sarebbe più fatto fregare dai tempi di Meridian
 | La metafora del "temporale/forza della natura" per la firma anonima di Pete gli conferiva una statura mitica in contrasto con il suo profilo (banale, adolescenziale, patetico). | theme coherence | integrated (v2.0) | Sostituita con una metafora triviale e sgradevole (un piccione che non avverte chi ha sotto), coerente con la futura caratterizzazione di Pete come figura piccola e patetica. |
 | Il capitolo faceva promettere a Tom di non parlare più ad alta voce ai televisori guasti, in contraddizione con il cap. 3 già pianificato (un secondo contatto verbale identico). | contradiction | integrated (v2.0) | Rimossa la promessa sul silenzio; l'abitudine di parlare agli elettrodomestici resta invariata (è sua fin da bambino). La promessa è ora circoscritta alla disciplina sui tempi e all'avvio di un archivio segreto delle riparazioni, che aggancia direttamente il cap. 3. |
 | Il testo diceva che Tom aveva "passato" 12 minuti e 41 secondi con l'unità, confondendo lo scostamento con il tempo totale d'intervento (26:41 secondo l'intestazione). | logical | integrated (v2.0) | Corretto a "26 minuti e 41 secondi". Aggiunto anche che il ciclo diagnostico non è mai stato completato, un dettaglio che la comunicazione disciplinare non è in grado di registrare. |
+
+### Cycle 2 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-03 Tic lessicali: 5× "esattamente", 2× "con la stessa… con cui", "restò a fissare" | style / AI-slop | integrated (v3.0) | Ridotti a 1 per tipo; "restò a fissare" → "non staccò gli occhi dallo schermo". Mantenuto "continuassero ad andare esattamente come dovevano andare" (formula fissata in `avoid`). |
+| R-04 Doppia struttura negativa ("Non 'in coda'…" + "Non trentacinque, non un'ora tonda") | style / AI-slop | integrated (v3.0) | Tenuta "In lavorazione"; l'altra → "Un numero storto, contato al minuto; …". |

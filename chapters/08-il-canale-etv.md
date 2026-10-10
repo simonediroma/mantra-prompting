@@ -1,6 +1,6 @@
 ---
 title: Il canale eTv
-version: 2.0
+version: 3.0
 claim: Analizzando il canale eTv che ospita il video della signora Voss, Tom scopre che la totale assenza di branding, identità o pattern di pubblicazione esclude un'operazione pensata per costruire un pubblico, sembra invece un sistema orientato alla pura ripetizione di massa, sistematico ma ancora completamente anonimo.
 status: complete
 ---
@@ -18,3 +18,13 @@ Non era più, a questo punto, un video isolato caricato per sbaglio da qualcuno 
 Erano ormai le undici passate. Domani, con la testa più fresca e magari un paio di strumenti in più, avrebbe provato a capire se quel video fosse davvero generato da un'intelligenza artificiale e da quale. Capire con quale strumento fossero stati realizzati i video gli avrebbe dato un tassello in più sulla portata della questione.
 
 Sulle note di *Il video sono io*, spense il giradischi e andò a dormire.
+
+---
+
+## Demolition Log
+
+### Cycle 1 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-05 Chiusura prevedibile con riga sul quaderno, ridondante rispetto al paragrafo precedente | structure | integrated (v3.0) | Rimossa la nota; la domanda su chi ci sia dietro resta implicita. Aggiornata `mappa-eventi.md`. |

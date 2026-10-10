@@ -1,6 +1,6 @@
 ---
 title: Primo contatto
-version: 2.0
+version: 3.0
 claim: Tom scopre, per pura affinità con il suo stesso hobby, che un elettrodomestico Meridian può comunicare in Morse: la scoperta lo riempie di stupore puro, non di sospetto, perché l'isolamento del suo laboratorio gli garantisce che il fenomeno sia reale.
 status: draft
 ---
@@ -112,3 +112,11 @@ Voleva solo capire come diavolo fosse accaduto. E perché.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Uso sistematico dell'em dash per introdurre incisi e subordinate, in contrasto con la nuova regola di stile del progetto. | style | integrated (v2.0) | Sostituiti tutti gli em dash del testo narrativo con punteggiatura italiana standard (virgole, due punti, parentesi). Regola registrata in `book.config.json → author_voice.avoid`. |
+
+### Cycle 3 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-03 Tic lessicali: 3× "esattamente", 2× "il tipo di" | style / AI-slop | integrated (v3.0) | Ridotti a 1 ciascuno. |
+| R-14 Incipit "Fu in quel momento, non prima, non dopo, esattamente…" ridondante | padding | integrated (v3.0) | Asciugato in "Fu in quel momento di impasse professionale, quando non sapeva più come andare avanti". |
+| R-04 Doppia struttura "Non X. Non Y." ("Non a caso. Non nel pattern…" + "Non un trucco. Non un guasto.") | style / AI-slop | integrated (v3.0) | Tenuta "Non un trucco. Non un guasto."; l'altra riformulata in positivo ("troppo regolare per essere il pattern casuale di un guasto"). |

@@ -1,6 +1,6 @@
 ---
 title: La chiamata alla signora
-version: 2.0
+version: 3.0
 claim: Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo.
 status: draft
 ---
@@ -72,3 +72,9 @@ Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati d
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Il capitolo collocava il secondo contatto (cap. 3) in due momenti incompatibili: "trascritto solo pochi giorni prima" e "vissuto nel suo laboratorio qualche giorno prima" contro "un evento di poche ore prima" riferito al reset. La gaffe di Tom funziona solo se il reset è recentissimo (si tradisce parlando al presente), e la scusa provata "la sera prima" con il quaderno aperto è la stessa sera in cui, nel cap. 3, scrive la quinta voce. | contradiction / chronology | integrated (v2.0) | Allineato tutto al giorno precedente: "pochi giorni prima" → "la sera prima", "qualche giorno prima" → "il giorno prima". Per non ripetere "la sera prima" a due righe di distanza, il secondo riferimento è diventato "poco dopo" (stessa sera, stessa scrivania). Cronologia risultante: martedì secondo contatto, la sera quaderno e scusa, mercoledì mattina la telefonata. |
+
+### Cycle 4 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-03 Tic lessicali: 3× "esattamente" | style / AI-slop | integrated (v3.0) | Ridotti a 1 (resta nel dialogo "È esattamente per questo che la chiamo"). "Restò a fissare" mantenuto: eco voluta con il cap. 1. |

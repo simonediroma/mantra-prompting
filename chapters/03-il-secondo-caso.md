@@ -1,6 +1,6 @@
 ---
 title: Secondo contatto
-version: 2.0
+version: 3.0
 claim: Un secondo apparecchio identico, con una risposta ancora più specifica e personale della prima ("sono qui con te"), trasforma per Tom l'anomalia da evento eccezionale a metodo: la conferma che il fenomeno si ripete e il sospetto irrisolto che i dispositivi sublimati sappiano più di quanto un semplice microfono potrebbe spiegare, gli fa capire per la prima volta che ce n'è più di uno.
 status: draft
 ---
@@ -52,3 +52,10 @@ Chiuse il quaderno, lo rimise accanto ai manuali. Per la prima volta da quando a
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Il turno di Tom cambiava senza che il testo lo dichiarasse: nel cap. 2 la sanzione è calcolata con il "fattore turno del pomeriggio" (2,5), mentre dal cap. 4 in poi Tom è chiaramente sul turno del mattino (esce di casa con 15 minuti di anticipo, telefona "appena iniziato il turno del mattino", ed Emma nel cap. 11 ragiona sulla sua mattinata). In un libro che ostenta precisione sui turni e sui fattori di conversione, il silenzio si nota. | contradiction / world consistency | integrated (v2.0) | Aggiunte due frasi nel primo paragrafo, dove il salto di tre mesi rende naturale dichiararlo: i turni ruotano per trimestre secondo una tabella incomprensibile e per quel trimestre gli tocca il mattino. Effetto collaterale voluto: il pomeriggio del cap. 1 diventa retroattivamente sfortuna, perché è l'unico dei tre turni a moltiplicare per due e mezzo. Nessuna modifica alla sanzione da 47 minuti, che resta il pilastro collegato al margine dei 47 secondi. |
+
+### Cycle 3 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-03 Tic lessicali: 5× "esattamente", 2× "con la stessa… con cui", "trappole gentili" ripetuto dal cap. 1 | style / AI-slop | integrated (v3.0) | Ridotti a 1 per tipo; "trappole gentili" → "trappole" (resta il richiamo al cap. 1). |
+| R-04 Doppia struttura negativa ("Non chiese altro. Non questa volta.") | style / AI-slop | integrated (v3.0) | → "Questa volta non chiese altro." Tenuta "non un problema, non un'eccellenza, un rumore di fondo". |

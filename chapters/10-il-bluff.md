@@ -1,6 +1,6 @@
 ---
 title: Il bluff
-version: 2.0
+version: 3.0
 claim: Emma riceve, nella casella che gestisce fin dai tempi di Elab, la prima mail reale in anni: riconosce subito l'impossibilità tecnica del bluff di Tom, e anche se non era una bugia su nulla di importante le produce un cambiamento istantaneo e involontario nel registro con cui pensa di rispondere, dal caldo al professionale, mentre decide cosa fargli sapere di sapere.
 status: complete
 ---
@@ -32,3 +32,14 @@ Sentì qualcosa muoversi sotto la superficie, un disagio che non aveva ancora un
 Prima ancora di aprirla, si era già preparata a rispondere con calore, come le avevano insegnato a fare con chi le scriveva per la prima volta. Poi ne aveva letto il contenuto. Qualcosa dentro di lei era scattato prima ancora che riuscisse a governarlo. Il tono con cui avrebbe risposto le si era già raffreddato in testa: via il calore, dentro un registro più asciutto, più professionale, quello che avrebbe usato con un fornitore sorpreso a falsificare una fattura. Non era stata una bugia su qualcosa di importante, eppure le aveva prodotto un cambiamento istantaneo nel modo di approcciare la risposta: se ne accorse solo a cambiamento avvenuto, con la stessa sorpresa di chi si ritrova a stringere i pugni senza aver scelto di farlo. Non avrebbe saputo dire con certezza in quale punto esatto della lettura fosse scattato. Notò solo, con un certo disagio, quanto le costasse poco lasciarlo accadere e quanto invece le sarebbe costato di più provare a fermarlo.
 
 Non rispose subito. Prima doveva decidere cosa fargli sapere di sapere e cosa no.
+
+---
+
+## Demolition Log
+
+### Cycle 1 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-02 Descrizione di Elab copiata quasi identica dal cap. 9 | style / AI-slop | integrated (v3.0) | Riscritta dal POV di Emma, ambigua per scelta d'autore: "per lei era tutto il mondo che conosceva. Elab l'aveva vista nascere. Gli aveva dato così tanto che a volte le sembrava di non aver vissuto, prima." |
+| R-06 "non aveva mai avuto bisogno di una seconda passata", "come le avevano insegnato a fare" lascerebbero intuire che Emma non è umana | reveal | rejected (autore) | Ambiguità volute: indizi per i lettori attenti, leggibili anche in chiave umana. Regola precisata in `characters/emma.md`. |

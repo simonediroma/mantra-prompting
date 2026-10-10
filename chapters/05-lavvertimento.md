@@ -1,6 +1,6 @@
 ---
 title: L'avvertimento
-version: 2.0
+version: 3.0
 claim: Il video mostra a Tom una prova diretta e inequivocabile che il fenomeno non è ostile ma protettivo, un salto qualitativo enorme rispetto al semplice sospetto di coscienza, ma la conferma arriva troppo tardi: la signora Voss non risponde più.
 status: draft
 ---
@@ -54,3 +54,12 @@ Tom restò seduto a quella scrivania più a lungo del previsto, con l'ultimo squ
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Contraddizione interna al capitolo: "la telefonata di due giorni prima" (richiamo alla signora Voss) contro "per la seconda volta in due giorni" dieci righe più sotto, che colloca le due mattine in giorni consecutivi. La catena del capitolo (telefonata la mattina, video la sera dello stesso giorno, richiamo la mattina dopo) e il riassunto in `book-memory.md` ("richiama la mattina dopo, stessa ora") confermano la seconda versione. | contradiction / chronology | integrated (v2.0) | Corretto in "della telefonata del giorno prima". Nessun effetto su altri capitoli: restano validi il conteggio dei sei giorni del cap. 6 e il riassunto in `book-memory.md`. |
+
+### Cycle 3 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-01 Perché i dispositivi comunicano solo via LED/Morse se la TV ha schermo e altoparlanti, e perché in Morse a una donna che non lo conosce | logical / world | integrated (v3.0) | Decisione autore: il LED è il canale a più bassa energia, attivo anche in standby. Nuovo paragrafo in cui Tom ci arriva da solo. Registrato "Canale LED" in `book-memory.md → Defined Terms`. |
+| R-03 Tic lessicali: 4× "esattamente", 2× "con la stessa… con cui", "componente guasto" ripetuto dal cap. 3, "restò a fissare" | style / AI-slop | integrated (v3.0) | Ridotti a 1 per tipo; "componente guasto" → "etichetta da scheda d'intervento"; "Rimase chino sul foglio". "Fotogramma per fotogramma… da bambino" resta solo qui. |
+| R-04 Strutture negative in eccesso ("Non alla ribellione, non alla minaccia: alla protezione.", "Non lo chiamò panico…") | style / AI-slop | integrated (v3.0) | Riformulate in positivo; tenuta "Non era un rifiuto. Non era nemmeno lontanamente un rifiuto." |
+| R-05 Chiusura prevedibile con riga sul quaderno; la nota era scritta di mattina contro la regola "trascrive solo la sera" | structure | integrated (v3.0) | La nota *consapevole. Benevolo, non ostile.* spostata alla sera prima; il capitolo chiude sul telefono che squilla a vuoto. Aggiornata `mappa-eventi.md`. |

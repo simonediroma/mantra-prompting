@@ -1,6 +1,6 @@
 ---
 title: La notizia
-version: 2.0
+version: 3.0
 claim: La pipeline di monitoraggio di Emma intercetta un articolo commemorativo sulla morte della signora Voss, il cui nome corrisponde immediatamente a un caso già presente nel suo archivio personale, e dietro l'ombra di un dubbio mai confermato sul ruolo del televisore, scopre che il tecnico che se n'era occupato si chiamava Tom, lo stesso nome dell'email misteriosa ricevuta due giorni prima.
 status: complete
 ---
@@ -24,3 +24,14 @@ Andò a cercarlo sulla lista originale, quella aggiornata giornalmente dallo ste
 Tom.
 
 L'email che aveva ricevuto due giorni prima aveva finalmente trovato una collocazione. Quello che non sapeva era quanto Tom sapesse davvero. Decise di scoprirlo.
+
+---
+
+## Demolition Log
+
+### Cycle 1 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-04 Frammento negativo "Non il nome di chi… Non l'aveva mai ritenuto…" | style / AI-slop | integrated (v3.0) | → "Mancava il nome di chi… Annotare i tecnici non le era mai sembrato utile". |
+| R-06 "Elaborò la fotografia… registrarne il contenuto" lascerebbe intuire che Emma non è umana | reveal | rejected (autore) | Ambiguità voluta, indizio per i lettori attenti. Regola precisata in `characters/emma.md`. |

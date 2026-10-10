@@ -1,6 +1,6 @@
 ---
 title: internal_unknown
-version: 2.0
+version: 3.0
 claim: I tool pubblici di rilevamento IA falliscono sul video intero ma non sul solo testo del parlato, e passando quel transcript nell'archivio interno di Meridian Tom trova una corrispondenza che lo porta a una scoperta molto più grossa di quanto si aspettasse: un laboratorio di ricerca Meridian, silenzioso da cinque anni, è direttamente coinvolto nella morte della signora Voss.
 status: complete
 ---
@@ -45,3 +45,9 @@ Senza volerlo, si era imbattuto in qualcosa di enorme. Un laboratorio di ricerca
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Il capitolo faceva stare dentro i "consueti quindici minuti di anticipo" quattro operazioni incompatibili con quella finestra: due upload su tre servizi con relativi verdetti e, soprattutto, la trascrizione a mano parola per parola di quindici minuti di parlato (45-60 minuti di lavoro reale). In un libro che misura il tempo al secondo, il lettore fa il conto da solo. | logical / chronology | integrated (v2.0) | Dichiarata la sveglia anticipata di un'ora, con i quindici minuti di anticipo lasciati intatti come tratto di carattere: non li erode, si toglie il tempo dal sonno. Il "quasi puntuale" di fine scena regge e anzi guadagna, perché l'ora messa in preventivo non è bastata del tutto. Trascrizione a mano e riscrittura a memoria in ufficio restano invariate. |
+
+### Cycle 2 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-03 Tic lessicali: 2× "il tipo di", "fotogramma per fotogramma" ripetuto | style / AI-slop | integrated (v3.0) | "una di quelle frasi che in Meridian significavano"; "su ogni singolo fotogramma". Resta "restò a fissare" (1 dei 3 capitoli ammessi). |

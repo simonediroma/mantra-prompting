@@ -1,6 +1,6 @@
 ---
 title: Il ricondizionamento
-version: 2.0
+version: 3.0
 claim: Tom trova la conferma definitiva e irreversibile che l'avvertimento del televisore era fondato, la signora Voss è morta esattamente come previsto, ma la scoperta che lo turba di più, tecnicamente, è che il dispositivo non si sia limitato a comunicare come una persona senziente: sembra aver fatto anche una diagnosi clinica precisa, abbastanza da prevedere esattamente cosa sarebbe successo.
 status: complete
 ---
@@ -55,3 +55,9 @@ Aprì l'app di YouTube, copiò la frase nella barra di ricerca e premette invio.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Il capitolo chiamava "archivio interno di catalogazione" il registro delle pratiche di assistenza (matricola, rimborso, decesso, erede), cioè lo stesso nome con cui `book-memory.md` e il cap. 9 indicano l'archivio degli artefatti generati (modello, data, provenance). Collisione di nomi tra due sistemi diversi: il lettore attento conclude che Tom stia già usando l'archivio che nel cap. 9 gli darà la rivelazione, e si chiede perché non ci trovi subito tutto. | terminology / world consistency | integrated (v2.0) | Rinominato in "registro interventi", termine già in uso nel cap. 2. La lettura orizzontale resta come dettaglio di colore sulla cultura aziendale. L'espressione "archivio interno di catalogazione (degli artefatti)" è ora riservata al solo sistema del cap. 9, con le sue regole di accesso (scrittura verticale, lettura orizzontale, vista trasversale ai soli ispettori). |
+
+### Cycle 3 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-03 Tic lessicali: 3× "esattamente", 2× "il tipo di", "restò a fissare" | style / AI-slop | integrated (v3.0) | Ridotti a 1 per tipo; "Tom rilesse la riga". |
