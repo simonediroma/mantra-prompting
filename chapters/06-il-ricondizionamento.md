@@ -25,7 +25,7 @@ Non gli interessava la morte in sé. Non voleva fare giustizia a una signora che
 
 Prima di tutto, però, doveva sapere se la causa fosse compatibile con l'avvertimento che il dispositivo aveva provato a dare. Se fosse morta per un incidente in strada, o per una malattia che non avesse nulla a che fare con l'attività fisica, tutto si sarebbe ridimensionato. Non era un ragionamento razionale, lo sapeva. Ma una cosa era aver trovato la prova che un televisore potesse relazionarsi con l'esterno come una persona senziente. Un'altra, ben diversa, era che quello stesso dispositivo avesse anche imparato a formulare diagnosi cliniche precise, al punto da prevedere quello che poi sarebbe successo.
 
-Lo cercò quella sera, da casa: chiaramente non era il tipo di ricerca da fare a lavoro. Bastò poco: un necrologio locale, un trafiletto di cronaca. Attacco di cuore, aggravato da un'attività fisica intensa. Purtroppo nessuna morte accidentale o improvvisa, nessun incidente o coincidenza sfortunata: la signora Voss era deceduta esattamente per la causa che il televisore aveva previsto.
+Lo cercò quella sera, da casa: chiaramente non era il tipo di ricerca da fare al lavoro. Bastò poco: un necrologio locale, un trafiletto di cronaca. Attacco di cuore, aggravato da un'attività fisica intensa. Purtroppo nessuna morte accidentale o improvvisa, nessun incidente o coincidenza sfortunata: la signora Voss era deceduta esattamente per la causa che il televisore aveva previsto.
 
 Quello che restava ancora poco chiaro era se ci fosse una relazione tra il video rivisto in loop come un mantra dalla signora Voss e l'atto di presa di coscienza del televisore.
 
@@ -61,3 +61,4 @@ Aprì l'app di YouTube, copiò la frase nella barra di ricerca e premette invio.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | R-03 Tic lessicali: 3× "esattamente", 2× "il tipo di", "restò a fissare" | style / AI-slop | integrated (v3.0) | Ridotti a 1 per tipo; "Tom rilesse la riga". |
+| R-53 "a lavoro" | consistency | integrated | → "al lavoro" (uniformato in tutto il libro). |
