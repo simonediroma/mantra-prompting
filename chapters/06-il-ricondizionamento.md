@@ -9,15 +9,15 @@ Il televisore arrivò al suo banco in mezzo a una decina di altri apparecchi des
 
 Lo confrontò con quello stampato sul retro dell'apparecchio. Coincideva. Era il televisore della signora Voss.
 
-Il protocollo standard di Meridian prevedeva un periodo minimo di centoventi giorni di giacenza prima che un apparecchio non ritirato potesse essere dichiarato disponibile per il ricondizionamento, al termine dei quali veniva anche spedito d'ufficio un rimborso forfettario pari al 33% del costo di acquisto originale, a chiusura definitiva della pratica. Tom lo sapeva bene: era lui stesso a occuparsi del ricondizionamento di questi apparecchi quando arrivava il momento, un'informazione che rientrava semplicemente nel suo ambito di competenza. Erano passati sei giorni da quando l'aveva riparato l'ultima volta.
+Il protocollo standard di Meridian prevedeva un periodo minimo di centoventi giorni di giacenza prima che un apparecchio non ritirato potesse essere dichiarato disponibile per il ricondizionamento, al termine dei quali veniva anche spedito d'ufficio un rimborso forfettario pari al 33% del costo di acquisto originale, a chiusura definitiva della pratica. Tom lo sapeva bene: era lui stesso a occuparsi del ricondizionamento di questi apparecchi quando arrivava il momento, un'informazione che rientrava semplicemente nel suo ambito di competenza. Erano passati sei giorni da quando l'aveva resettato l'ultima volta.
 
-Il protocollo prevedeva anche una scorciatoia, per i casi in cui il cliente, ricontattato per il ritiro, rifiutava di riprendersi il bene e accettava subito il rimborso: niente attesa, chiusura immediata della pratica. Non era un'irregolarità. Era una procedura prevista, solo raramente usata, perché richiedeva che qualcuno all'assistenza avesse effettivamente parlato con il cliente, e ottenuto una risposta chiara. Il che significava una cosa sola: la signora Voss, a differenza che con lui, a qualcuno aveva risposto.
+Il protocollo prevedeva anche una scorciatoia, per i casi in cui il cliente, ricontattato per il ritiro, rifiutava di riprendersi il bene e accettava subito il rimborso: niente attesa, chiusura immediata della pratica. Non era un'irregolarità. Era una procedura prevista, solo raramente usata, perché richiedeva che qualcuno all'assistenza avesse effettivamente parlato con il cliente e ottenuto una risposta chiara. Il che significava una cosa sola: la signora Voss, a differenza che con lui, a qualcuno aveva risposto.
 
-Nei giorni precedenti aveva provato a richiamare la signora Voss in altre due occasioni, sempre con la stessa voce annoiata da servizio qualità: due squilli ravvicinati ogni volta, come già la prima mattina, ma mai un tentativo al giorno, per non sembrare troppo insistente. Nessuna risposta, mai. Avrebbe richiamato di nuovo la settimana successiva, se il televisore non fosse arrivato prima sul suo banco per il ricondizionamento.
+Nei giorni precedenti aveva provato a richiamare la signora Voss in altre due occasioni, sempre con la stessa voce annoiata da servizio qualità: due squilli ravvicinati ogni volta, come già la prima mattina, ma mai più di un tentativo al giorno, per non sembrare troppo insistente. Nessuna risposta, mai. Avrebbe richiamato di nuovo la settimana successiva, se il televisore non fosse arrivato prima sul suo banco per il ricondizionamento.
 
 Come tecnico, aveva accesso in lettura all'intero registro interventi, non solo alla porzione che riguardava il proprio reparto: era una delle poche cose, in Meridian, che funzionavano davvero in orizzontale. Cercò il numero di pratica associato al numero di serie e trovò due voci, in ordine cronologico. La prima confermava quello che aveva già dedotto: *cliente ricontattata, rifiuta il ritiro: richiesto il rimborso previsto (33% del valore di acquisto).*
 
-Sotto, una seconda voce, quella che nessun cliente vivo avrebbe mai potuto generare: *causale: decesso cliente, verificata su documentazione fornita. Pagamento reindirizzato a erede designato.*
+Sotto, una seconda voce, registrata pochi giorni dopo, quella che nessun cliente vivo avrebbe mai potuto generare: *causale: decesso cliente, verificata su documentazione fornita. Pagamento reindirizzato a erede designato.*
 
 Tom rilesse la riga con una sensazione che non seppe classificare subito. Non gli capitava spesso di non avere un'etichetta pronta per quello che provava.
 
@@ -29,7 +29,7 @@ Lo cercò quella sera, da casa: chiaramente non era il tipo di ricerca da fare a
 
 Quello che restava ancora poco chiaro era se ci fosse una relazione tra il video rivisto in loop come un mantra dalla signora Voss e l'atto di presa di coscienza del televisore.
 
-E se fosse avvenuto un miracolo dell'era moderna? Qualcosa di inspiegabile come i miracoli della tradizione cristiana: un angelo caduto per sfortuna dentro un televisore, che improvvisamente prendeva vita e provava disperatamente a comunicare con la signora per intimarle di fermarsi, di riposare. Rise sonoramente dentro di sé a quel pensiero quasi mistico, soprattutto perché quella storia stava mettendo a dura prova il suo scetticismo.
+E se fosse avvenuto un miracolo dell'era moderna? Qualcosa di inspiegabile come i miracoli della tradizione cristiana: un angelo caduto per sfortuna dentro un televisore, che improvvisamente prendeva vita e provava disperatamente a comunicare con la signora per intimarle di fermarsi, di riposare. Rise tra sé a quel pensiero quasi mistico, soprattutto perché quella storia stava mettendo a dura prova il suo scetticismo.
 
 Non aveva molte strade davanti a sé: l'unica tangibile era il video. Decise che doveva trovarlo, per capire se nascondesse qualcosa.
 
@@ -62,3 +62,9 @@ Aprì l'app di YouTube, copiò la frase nella barra di ricerca e premette invio.
 |---|---|---|---|
 | R-03 Tic lessicali: 3× "esattamente", 2× "il tipo di", "restò a fissare" | style / AI-slop | integrated (v3.0) | Ridotti a 1 per tipo; "Tom rilesse la riga". |
 | R-53 "a lavoro" | consistency | integrated | → "al lavoro" (uniformato in tutto il libro). |
+| R-60 Non è chiaro chi abbia rifiutato il ritiro né quando la signora sia morta | contradiction | integrated (v3.0) | Allineato a `mappa-eventi.md` (rifiuto da viva tra G2 e G5, morte poco dopo): la seconda voce del registro è "registrata pochi giorni dopo". |
+| R-61 "da quando l'aveva riparato": nel cap. 3 era solo un reset | factual | integrated (v3.0) | → "resettato". |
+| R-62 "ma mai un tentativo al giorno" | grammar | integrated (v3.0) | → "mai più di un tentativo al giorno". |
+| R-63 "il video rivisto in loop come un mantra": anticipa il titolo | rule violation (early reveal) | rejected (autore) | Indizio voluto per il lettore attento: resta invariato. |
+| R-64 "Rise sonoramente dentro di sé" (ossimoro) | style | integrated (v3.0) | → "Rise tra sé". |
+| R-65 "parlato con il cliente, e ottenuto" | rule violation (', e') | integrated (v3.0) | Tolta la virgola. |
