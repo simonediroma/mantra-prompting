@@ -21,11 +21,11 @@ Fece la procedura standard con la stessa efficienza cronometrata di sempre: alim
 
 Il LED lampeggiò.
 
-*NO. / SONO / QUI / CON / TE.*
+*NO / SONO / QUI / CON / TE.*
 
 Prima di lasciarlo spegnere, ripeté la stessa identica domanda, quasi d'istinto, giusto per essere sicuro di non essersela immaginata.
 
-*NO. / SONO / QUI / CON / TE.*
+*NO / SONO / QUI / CON / TE.*
 
 Identica. Non una lettera diversa.
 
@@ -59,3 +59,4 @@ Chiuse il quaderno, lo rimise accanto ai manuali. Per la prima volta da quando a
 |---|---|---|---|
 | R-03 Tic lessicali: 5× "esattamente", 2× "con la stessa… con cui", "trappole gentili" ripetuto dal cap. 1 | style / AI-slop | integrated (v3.0) | Ridotti a 1 per tipo; "trappole gentili" → "trappole" (resta il richiamo al cap. 1). |
 | R-04 Doppia struttura negativa ("Non chiese altro. Non questa volta.") | style / AI-slop | integrated (v3.0) | → "Questa volta non chiese altro." Tenuta "non un problema, non un'eccellenza, un rumore di fondo". |
+| R-32 Punto interno in "NO. / SONO / QUI / CON / TE." | rule violation (Morse) | integrated (v3.0) | → "NO / SONO / QUI / CON / TE." (×2): resta solo il punto finale, come nel cap. 1. Regola registrata in `book-memory.md`. |
