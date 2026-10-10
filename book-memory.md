@@ -90,7 +90,7 @@ Perché Tom smette di rispondere dopo il cap. 10 (chiarito il 2026-09-16, correg
 | Il glitch nell'avatar di Emma (piede a sei dita) sarà notato da Pete più avanti, riesaminando lo screenshot del meeting | Cap. 26/27 | — |
 | Se l'alternanza POV per blocchi/serrata sia una regola fissa per tutto il libro o solo per l'arco del meeting | Premessa, cap. 24 | — |
 | Come ha fatto il televisore a sapere che la signora Voss era in pericolo (il vero ruolo dell'eWatch: dati biometrici condivisi in rete con i dispositivi IA-integrati) | Cap. 3 (setup), riportato in scena esplicitamente dopo il cap. 6 | — |
-| La cover acustica "che Tom non riconosceva" pubblicata su eTv (cap. 8) è una cover di *Vacanze romane* dei Matia Bazar: **reveal futuro, non anticipare** (indicato dall'autore il 2026-10-10). Da verificare al momento del reveal: Tom ha appena ascoltato quel brano nel cap. 7, (il cap. 11 ora dice "electro-pop degli anni Ottanta"). L'autore cambierà la canzone del reveal: aggiornare questa voce quando sarà decisa. | Cap. 8 | — |
+| La cover electro-pop anni Ottanta "molto in voga tra gli audiofili" che Emma produce per eDj (cap. 11) è una cover di *Vacanze romane* dei Matia Bazar (1983, traccia A1 di *Tango*, il disco che Tom ascolta nel cap. 7): **reveal futuro, non anticipare** (indicato dall'autore il 2026-10-10). Da non confondere con la cover acustica che Tom vede su eTv nel cap. 8, che è una canzone qualsiasi. | Cap. 11 | — |
 
 ---
 
