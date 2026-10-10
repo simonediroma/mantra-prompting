@@ -15,8 +15,6 @@ Controllò anche le date di pubblicazione, sperando in un pattern, un ritmo, qua
 
 Non era più, a questo punto, un video isolato caricato per sbaglio da qualcuno con troppo tempo libero. Era un'operazione, sistematica quanto anonima. Qualcuno, o qualcosa, stava producendo contenuti su scala, con una precisione che a Tom ricordava più una catena di montaggio che un hobby. Lo stava facendo, però, senza lasciarsi dietro la minima traccia di chi fosse.
 
-Riaprì il quaderno e, sotto la voce della signora Voss, aggiunse una riga: *canale anonimo, contenuti eterogenei, nessuna costruzione di brand: distribuzione di massa, non crescita di un pubblico. Chi c'è dietro?*
-
 Erano ormai le undici passate. Domani, con la testa più fresca e magari un paio di strumenti in più, avrebbe provato a capire se quel video fosse davvero generato da un'intelligenza artificiale e da quale. Capire con quale strumento fossero stati realizzati i video gli avrebbe dato un tassello in più sulla portata della questione.
 
 Sulle note di *Il video sono io*, spense il giradischi e andò a dormire.

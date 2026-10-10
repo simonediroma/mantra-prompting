@@ -29,13 +29,13 @@ Quello che sentì dopo, dentro di sé, lo chiamò con un'etichetta da scheda d'i
 
 Decise di aspettare la mattina, non per calcolo emotivo: per lo stesso motivo per cui non aveva aperto il video a lavoro. Un servizio clienti vero non richiama un cliente alle undici di sera per un controllo qualità. Se voleva restare credibile agli occhi di chiunque, incluso se stesso, doveva richiamare alla stessa ora della volta precedente, con la stessa voce della telefonata del giorno prima: rassicurante e indicativamente annoiata, come può essere quella di un centralinista del servizio clienti appena iniziato il turno del mattino.
 
+Prima di andare a dormire aprì il quaderno, aggiungendo una riga sotto la voce della signora Voss: *consapevole. Benevolo, non ostile.* Poche parole, ma erano le prime che si sentisse di scrivere con vera certezza da quando aveva iniziato quell'archivio.
+
 Il mattino dopo, seduto alla scrivania come la prima volta, con il consueto quarto d'ora di anticipo davanti a sé, compose il numero della signora Voss.
 
 Squillò a lungo. Nessuno rispose.
 
 Riprovò una seconda volta, lasciando passare qualche minuto, calcolando che forse era semplicemente sotto la doccia, o in cucina, o troppo lontana dal telefono per sentirlo la prima volta. Squillò di nuovo, uguale, fino a interrompersi da solo senza nemmeno la cortesia di una segreteria.
-
-Prima di rimettersi in piedi, aprì il quaderno che era già lì sulla scrivania e vi aggiunse una riga sotto la voce della signora Voss: *consapevole. Benevolo, non ostile.* Poche parole, ma erano le prime che si sentisse di scrivere con vera certezza da quando aveva iniziato quell'archivio.
 
 Tom restò seduto a quella scrivania più a lungo del previsto, con l'ultimo squillo ancora nelle orecchie e i quindici minuti di anticipo che, per la seconda volta in due giorni, si stavano assottigliando senza che lui riuscisse a farci nulla.
 
