@@ -236,7 +236,7 @@ flowchart TD
 | Analisi | Descrizioni vuote, nessun logo coerente, nessuna biografia, nessun link | **L'anomalia è ciò che manca**: nessuna costruzione di brand | Se fosse un'agenzia, avrebbe fatto l'opposto |
 | Analisi | Date di pubblicazione senza pattern: tre video in un'ora, poi settimane di silenzio | «Nessun essere umano pubblica così» — la deduzione si ferma un passo prima del reveal | Logica da inondazione, non da pubblico |
 | Deduzione | Un'operazione sistematica e anonima, senza traccia di chi ci sia dietro | — | Nessuna riga sul quaderno (R-05): la domanda resta implicita e apre il cap. 9 |
-| ~23:00+ | Rimanda i tool di rilevamento IA a domani | Disciplina: domani con la testa fresca | Chiude sul brano *Il video sono io* |
+| ~23:00+ | Rimanda i tool di rilevamento IA a domani | Disciplina: domani con la testa fresca | Il lato A è finito: gira il disco, parte *Il video sono io* (B1), poi spegne |
 
 #### Cap. 9 — internal_unknown · `G7`, mattina + turno (ultima ora) · POV Tom
 
