@@ -1,4 +1,4 @@
-# Session: chapter — chapters/01-primo-contatto-in-morse.md
+# Session: chapter — chapters/01-primo-contatto.md
 
 > Created: 2026-09-02
 > Last updated: 2026-10-10
@@ -8,7 +8,7 @@
 chapter
 
 ## Target
-chapters/01-primo-contatto-in-morse.md
+chapters/01-primo-contatto.md
 
 ## Current step
 —

@@ -35,7 +35,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Collegamento al precedente**: — (apertura del libro)
 **Collegamento al successivo**: la scoperta ha una conseguenza aziendale immediata.
 **Stato**: `complete`
-**File**: `chapters/01-primo-contatto-in-morse.md`
+**File**: `chapters/01-primo-contatto.md`
 
 ---
 
@@ -46,7 +46,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Collegamento al precedente**: conseguenza diretta del cap. 1.
 **Collegamento al successivo**: Tom impara la lezione ma non smette di osservare.
 **Stato**: `complete`
-**File**: `chapters/02-la-ritorsione.md`
+**File**: `chapters/02-stallo-burocratico.md`
 
 ---
 
@@ -57,7 +57,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Collegamento al precedente**: escalation controllata dopo la lezione del cap. 2.
 **Collegamento al successivo**: il cap. 4 approfondisce la stessa cliente — la telefonata rivelerà che il televisore le apparteneva, ed è lei la signora del video yoga. Non un terzo caso separato: lo stesso filo, portato avanti.
 **Stato**: `complete`
-**File**: `chapters/03-il-secondo-caso.md`
+**File**: `chapters/03-secondo-contatto.md`
 
 ---
 

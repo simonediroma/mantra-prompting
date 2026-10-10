@@ -33,7 +33,7 @@ Ordine consigliato: prima le issue di priorità **ALTA**, poi le altre.
 
 ---
 
-## Cap. 1 — Primo contatto (`chapters/01-primo-contatto-in-morse.md`)
+## Cap. 1 — Primo contatto (`chapters/01-primo-contatto.md`)
 
 | ID | Categoria | Citazione | Azione |
 |---|---|---|---|
@@ -43,14 +43,14 @@ Ordine consigliato: prima le issue di priorità **ALTA**, poi le altre.
 | R-13 | redundancy | "Non si aspettava chiaramente alcuna risposta." … "Non si aspettava mai una risposta" nello stesso paragrafo. | Tenerne una. |
 | R-14 | padding | "Fu in quel momento, non prima, non dopo, esattamente in quel momento di impasse professionale, un momento in cui non sapeva più cosa fare né come andare avanti" | Asciugare. |
 
-## Cap. 2 — Stallo burocratico (`chapters/02-la-ritorsione.md`)
+## Cap. 2 — Stallo burocratico (`chapters/02-stallo-burocratico.md`)
 
 | ID | Categoria | Citazione | Azione |
 |---|---|---|---|
 | R-20 | contradiction | "incrociato di persona sì e no tre volte in dodici anni, il tempo sufficiente per imparare a riconoscerne il passo" vs "Nessuna faccia, nessuna voce, solo un nome e un ruolo" | Risolvere: o Tom non l'ha mai visto davvero (solo firme), o togliere "nessuna faccia, nessuna voce" e dire che Pete si manifesta *solo per iscritto*. |
 | R-21 | naming | Il file si chiama `02-la-ritorsione.md`, il titolo è "Stallo burocratico", l'export è `02-stallo-burocratico.txt`. Lo stesso vale per il cap. 3 (`03-il-secondo-caso.md` vs "Secondo contatto"). | Allineare i nomi file al titolo dell'outline (chiedere conferma all'autore prima di rinominare). |
 
-## Cap. 3 — Secondo contatto (`chapters/03-il-secondo-caso.md`)
+## Cap. 3 — Secondo contatto (`chapters/03-secondo-contatto.md`)
 
 | ID | Categoria | Citazione | Azione |
 |---|---|---|---|

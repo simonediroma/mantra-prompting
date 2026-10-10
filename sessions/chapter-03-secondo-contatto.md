@@ -1,4 +1,4 @@
-# Session: chapter — chapters/03-il-secondo-caso.md
+# Session: chapter — chapters/03-secondo-contatto.md
 
 > Created: 2026-09-02
 > Last updated: 2026-10-10
@@ -8,7 +8,7 @@
 chapter
 
 ## Target
-chapters/03-il-secondo-caso.md
+chapters/03-secondo-contatto.md
 
 ## Current step
 —
