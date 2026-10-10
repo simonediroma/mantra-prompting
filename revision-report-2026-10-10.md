@@ -161,11 +161,13 @@ Ordine consigliato: prima le issue di priorità **ALTA**, poi le altre.
 
 ## Checklist finale per la sessione del plugin
 
-- [ ] Decisioni dell'autore raccolte: R-01, R-60, R-90, R-101, R-110 (e R-21, R-83 se pertinenti)
-- [ ] Issue ALTA integrate (R-01 → R-06)
-- [ ] Issue per capitolo integrate (cap. 1 → 12)
-- [ ] Demolition Log di ogni capitolo aggiornato con il nuovo Cycle
-- [ ] `demolition-history.md`, `book-memory.md`, `mappa-eventi.md` aggiornati
-- [ ] `export-cms/` rigenerato per i capitoli modificati
-- [ ] Regole nuove aggiunte a `book.config.json`
-- [ ] Controllo finale con grep: `esattamente`, `a lavoro`, `—` in narrazione, `, e ` in narrazione, Morse senza ` / `
+> Completata il 2026-10-10. Esiti per issue nel Demolition Log di ogni capitolo e in `demolition-history.md`.
+
+- [x] Decisioni dell'autore raccolte: R-01, R-60, R-90, R-101, R-110 (e R-21, R-83 se pertinenti)
+- [x] Issue ALTA integrate (R-01 → R-06)
+- [x] Issue per capitolo integrate (cap. 1 → 12)
+- [x] Demolition Log di ogni capitolo aggiornato con il nuovo Cycle
+- [x] `demolition-history.md`, `book-memory.md`, `mappa-eventi.md` aggiornati
+- [x] `export-cms/` rigenerato per i capitoli modificati
+- [x] Regole nuove aggiunte a `book.config.json`
+- [x] Controllo finale con grep: `esattamente`, `a lavoro`, `—` in narrazione, `, e ` in narrazione, Morse senza ` / `
