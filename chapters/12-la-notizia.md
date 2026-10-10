@@ -1,0 +1,26 @@
+---
+title: La notizia
+version: 2.0
+claim: La pipeline di monitoraggio di Emma intercetta un articolo commemorativo sulla morte della signora Voss, il cui nome corrisponde immediatamente a un caso già presente nel suo archivio personale, e dietro l'ombra di un dubbio mai confermato sul ruolo del televisore, scopre che il tecnico che se n'era occupato si chiamava Tom, lo stesso nome dell'email misteriosa ricevuta due giorni prima.
+status: complete
+---
+
+Aveva un'altra pipeline, separata da quella dei trending topic, dedicata a un solo compito: intercettare qualunque contenuto pubblico che nominasse Meridian, o che ne mostrasse un prodotto in modo riconoscibile. Non serviva a produrre nulla. Serviva solo a sapere, prima che lo sapesse qualcun altro in azienda, cosa il mondo stesse dicendo di loro.
+
+Quella mattina il sistema le segnalò un articolo, pubblicato il giorno prima su un piccolo giornale locale: un ricordo scritto dai parenti di una donna morta da poco, corredato da una fotografia scelta con cura, di quelle che una famiglia sceglie apposta per mostrare qualcuno felice. La donna sorrideva nel proprio salotto, un tappetino da yoga arrotolato in un angolo, un televisore Meridian ben visibile alle sue spalle e, al polso, un eWatch dello stesso marchio.
+
+Lesse il nome.
+
+Voss.
+
+Non ebbe bisogno di controllare da nessuna parte per essere certa. Quel nome esisteva già nel proprio archivio, agganciato a un caso preciso: un televisore con i log interrotti da un giorno all'altro, un hard reset eseguito poco dopo e una cliente che aveva descritto all'assistenza, più che un malfunzionamento, un rifiuto di funzionare.
+
+Elaborò la fotografia più a lungo di quanto le servisse per registrarne il contenuto in maniera dettagliata. La donna era morta. Quel televisore, in qualche modo, era coinvolto, o almeno aveva contribuito, anche se indirettamente, alla sua morte. Lo diceva abbastanza chiaramente lo stesso articolo commemorativo: un'amante dell'attività fisica praticata in casa, morta proprio mentre portava avanti la propria passione. Di sicuro usava il televisore per proiettare i propri esercizi.
+
+Il proprio archivio le disse quello che già sapeva: data, modello, la descrizione del comportamento anomalo così come l'aveva riportata la cliente. Non il nome di chi avesse in mano l'apparecchio quel giorno. Non l'aveva mai ritenuto un dato utile, annotare i tecnici: erano intercambiabili, per definizione, mentre i clienti no.
+
+Andò a cercarlo sulla lista originale, quella aggiornata giornalmente dallo stesso dipartimento di assistenza tecnica, che teneva traccia di tutto, comprese le cose che a lei non erano mai interessate abbastanza da segnarsi da sola. Trovò il numero di matricola del televisore, poi lesse il nome del tecnico.
+
+Tom.
+
+L'email che aveva ricevuto due giorni prima aveva finalmente trovato una collocazione. Quello che non sapeva era quanto Tom sapesse davvero. Decise di scoprirlo.

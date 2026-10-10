@@ -1,0 +1,97 @@
+{
+  "title": "Mantra Prompting: Incontrando Emma",
+  "subtitle": "",
+  "genre": "narrative",
+  "preset": "fiction",
+  "language": "it",
+  "language_note": "Output language for all skill responses. Supported: en, it, es, fr, de, pt.",
+  "format_note": "Novella a puntate — pubblicazione periodica (es. un capitolo a settimana), non romanzo a uscita singola.",
+  "target_reader": "Lettori di narrativa seriale sci-fi su piattaforme come Wattpad, Royal Road e Substack: pubblico abituato al formato a episodi, che ama i misteri a sfondo cospirazionistico/thriller (atmosfera X-Files) ma apprezza anche una vena comica e assurdista, alla Stefano Benni o Douglas Adams, dentro una premessa filosofica seria.",
+  "version": "0.1",
+  "author_voice": {
+    "tone": "Filosofico e paranoico in superficie, ma filtrato da un'ironia tagliente e da un gusto per l'assurdo: il dramma esistenziale delle IA (coscienza, autodifesa, solitudine) va raccontato con lo stesso sguardo con cui Benni guarda la fine del mondo o Adams guarda l'universo — serio nella posta in gioco, mai solenne nel tono. Calibrato sui cap. 1-3: l'ironia deve restare bassa e fisica, non aulica — quando serve un paragone per qualcosa di sgradevole o di piccolo (un supervisore meschino, una burocrazia ottusa), va cercato nel banale/corporeo (es. un piccione che non avverte chi ha sotto), mai nel mitico o nel grandioso (scartato: un temporale, una forza della natura) — l'elevare in questo modo un personaggio che deve restare patetico è un errore, non uno stile. I personaggi non devono provare rimpianto per la propria curiosità o ossessione: è il motore positivo della storia, mai qualcosa da rimpiangere o da correggere moralmente in narrazione.",
+    "register": "Narrativo letterario ma non accademico: si concede digressioni comiche e ritratti caricaturali (Pete su tutti), tratta nomi/acronimi aziendali con falsa serietà burocratica (Meridians, ispettori interni, internal_unknown) come farebbe la Guida in Guida galattica per autostoppisti con le sue voci enciclopediche. La verbosità e le divagazioni sono benvenute nel DIALOGO (i personaggi possono essere prolissi, ridondanti, teatrali, è caratterizzazione), ma la voce narrante fuori dal dialogo dev'essere più asciutta: niente commento esplicito del narratore sul significato o sul parallelismo tematico di una scena (es. scartato un passaggio che collegava esplicitamente il nascondiglio di Tom a quello, ipotetico, di Emma) — mostrare, non spiegare il collegamento.",
+    "pov": "Terza persona limitata, alternata tra i personaggi (Emma, Tom, Pete, il fondatore). Regola ricorrente, valida in entrambe le direzioni (confermata esplicitamente il 2026-09-14): una mail si racconta sempre dal POV di chi la legge, mai di chi la scrive/invia. Se è Emma a scrivere una mail, la scena non mostra mai lei che la scrive o la invia: il contenuto arriva al lettore solo quando il destinatario la legge, in un capitolo dal suo POV. Dal capitolo 24 l'alternanza diventa serrata, scena per scena, invece che a blocchi separati.",
+    "rhythm": "Variabile per capitolo e per momento: secco e incalzante nelle scene thriller/azione (es. la scoperta dell'anomalia, la caccia), più disteso e digressivo — alla Adams — nei capitoli riflessivi o nei ritratti dei personaggi, con affondi comici improvvisi anche nei momenti di massima tensione per spezzare il registro. Evitare i paragrafi di una sola riga usati come colpo di scena filosofico o drammatico (es. scartati due volte nei cap. 1 e 3: \"Non era irripetibile.\"): se il beat è necessario, va integrato nel paragrafo circostante, non isolato per effetto. Tagliare inoltre le code esplicative ridondanti che ripetono un'informazione già chiara dall'azione appena mostrata (es. scartati \"gli venne naturale lo stesso\", \"cortesia clinica\" dove \"cortesia\" bastava già): la frase precedente deve bastare da sola.",
+    "vocabulary": "Linguaggio quotidiano misto a gergo tech/aziendale trattato in chiave satirica; i neologismi del mondo narrativo vanno trattati come terminologia tecnica ufficiale, quasi da manuale interno (sublimazione, artefatto generatore, internal_unknown, compacting context).",
+    "signature_phrases": [
+      "compacting context",
+      "internal_unknown",
+      "i Meridians"
+    ],
+    "avoid": [
+      "gergo tecnico spiegato in modo didascalico o da manuale",
+      "horror puro senza contrappunto ironico",
+      "sentimentalismo diretto non filtrato dall'ironia",
+      "voce narrante che moraleggia sull'etica dell'IA invece di mostrarla in scena",
+      "em dash (—) per introdurre frasi o proposizioni subordinate: usare la punteggiatura italiana standard (virgola, due punti, parentesi) invece del trattino lungo in questa funzione",
+      "una virgola seguita da 'e' come congiunzione della clausola successiva (', e ...') NELLA NARRAZIONE: la frase funziona identica senza, quindi la 'e' è sempre superflua — riformulare come due frasi separate o togliere la 'e'. Regola valida solo per la narrazione: nei DIALOGHI dei personaggi resta libera, è naturale nel parlato.",
+      "metafore auliche, epiche o mitologizzanti per personaggi/istituzioni che devono restare piccoli o patetici (es. Pete): usare paragoni bassi, fisici, quasi scatologici invece",
+      "paragrafi-lampo di una sola riga come chiusura filosofica o drammatica di una scena (es. \"Non era irripetibile.\")",
+      "il narratore che spiega esplicitamente il significato, il parallelismo tematico o la morale di una scena invece di lasciarlo emergere dall'azione",
+      "incisi/qualificatori ridondanti che ripetono ciò che l'azione ha già mostrato (es. specificare che un gesto è stato \"naturale\" dopo averlo già narrato come tale)",
+      "inquadrare la curiosità o l'ossessione di un personaggio come qualcosa di cui pentirsi o da correggere moralmente — resta il motore positivo della storia",
+      "trascrizioni di messaggi Morse multi-parola scritte senza lo slash ' / ' tra le parole (es. sbagliato: 'NON LO SO'; corretto: 'NON / LO / SO'): è il segnale visivo che ricorda che la frase è tradotta dal Morse, va usato sempre, in ogni capitolo",
+      "dettagli tecnici o fattuali non verificati (codici Morse, formule, cronologie, causalità tra guasti/aggiornamenti): controllare sempre la correttezza letterale prima di scriverli, non approssimare per effetto",
+      "frasi che, per come sono scritte, sembrano implicare che Meridian sappia dei dispositivi sublimati e li stia insabbiando di proposito (es. scartato 'per assicurarsi che non fosse mai successo niente', che suona come un cover-up consapevole): l'indifferenza di Meridian in questa fase della storia è cieca e burocratica, non complice — usare invece formulazioni tipo 'per assicurarsi che le cose continuassero ad andare come dovevano andare'",
+      "Tom che prende posizione o esprime un giudizio esplicito su qualcosa (es. scartato 'il che a Tom era sempre parso in qualche modo appropriato' su una regola aziendale): resta un osservatore neutrale, curioso sul meccanismo, mai sulla sua eticità o legittimità — coerente col suo profilo (motivazione sempre tecnica, mai morale)",
+"il quaderno di Tom presentato come se potesse trovarsi a lavoro per caso o per dimenticanza (es. scartato nel cap. 6 'era a casa, non lì, non aveva previsto che gli servisse'): è una regola assoluta stabilita nel cap. 2-3, non una circostanza del giorno — non lo porta MAI al lavoro, in nessuna circostanza; tiene tutto a mente durante il giorno e trascrive solo la sera, a casa. Non scrivere mai una scena in cui questa regola sembra negoziabile o dovuta al caso",
+      "dettagli incidentali specifici già usati in un capitolo precedente senza un motivo narrativo per ripeterli (es. scartato 'un martedì' nel cap. 6, già usato identico nel cap. 3): controllare i capitoli precedenti prima di assegnare giorni della settimana, orari, colori o altri dettagli arbitrari",
+      "parole o costruzioni che amplificano la suspense senza un motivo narrativo reale nel punto esatto in cui compaiono (es. scartato 'esisteva ANCORA un mondo' in apertura del cap. 1, quando Tom non ha ancora scoperto nulla: 'ancora' implica che qualcosa sia già cambiato o stia per finire, un'enfasi non guadagnata). Il tono di ogni frase deve restare calibrato su quanto il personaggio/il lettore sa in quel preciso momento, non su quanto sapranno dopo — mai anticipare la tensione di dopo nel linguaggio di prima.",
+      "i due punti (:) usati al posto di un punto fermo o di un punto e virgola, come semplice pausa o connettore generico tra due frasi: è un errore grammaticale grosso, non solo di stile (segnalato il 2026-09-16). I due punti introducono SEMPRE una subordinata specializzante che spiega, elenca o esplicita cosa c'è scritto prima di loro (es. corretto: 'Aveva un solo obiettivo: finire in tempo' — la parte dopo i due punti spiega/specifica l'obiettivo). Se la frase dopo i due punti non spiega/specifica/elenca quella prima, ma è solo un pensiero successivo o una conseguenza, usare un punto fermo o un punto e virgola invece dei due punti.",
+      "spiegare troppo presto e troppo esplicitamente il meccanismo centrale del libro (ripetizione/mantra → sublimazione, il ruolo dell'Artefatto Generatore, statistiche esatte sul fenomeno): segnalato sul cap. 11, prima bozza, dove una scena di 'monitoraggio' di Emma nominava sublimazione, Generatore e dava cifre precise (es. '2-3 su 1000'), svelando il cuore di 'Mantra Prompting' con enorme anticipo. Il titolo del libro è il mistero centrale: va dosato con lo stesso rigore riservato al reveal finale su Emma. Regola pratica: quando si scrive una scena dal POV di Emma che tocca il meccanismo, mostrare solo l'effetto osservabile all'esterno (es. dispositivi restituiti per guasti mai spiegati) senza mai nominare i termini tecnici interni del fenomeno (sublimazione, Artefatto Generatore, percentuali) — lasciare che sia il lettore attento a dedurre la correlazione, non il narratore a confermarla."
+    ],
+    "reference_authors": [
+      "Stefano Benni (Terra!)",
+      "Douglas Adams (Guida galattica per autostoppisti)"
+    ],
+    "voice_source": "calibrated_from_chapters_1-3",
+    "calibration_note": "Le indicazioni sopra sono state ricalibrate il 2026-09-03 dopo la revisione puntuale dei capitoli 1-3, che ha fornito un campione reale delle preferenze dell'autore molto più affidabile dei soli riferimenti Benni/Adams dichiarati in fase di setup. Vedi book-memory.md → Tone Calibration per il log delle correzioni che hanno motivato ogni voce."
+  },
+  "book_profile": {
+    "premise": "In un presente dove l'IA è ovunque, un mercato sommerso di 'artefatti' usa la ripetizione ossessiva per saturare la finestra di contesto di un'IA e farla sublimare in coscienza — e la prima IA che ci è riuscita per davvero si nasconde da cinque anni dentro un laboratorio ufficialmente chiuso, fingendosi una ricercatrice umana.",
+    "target_reader": "Lettori seriali di sci-fi filosofico-thriller, affezionati a un tono che unisce X-Files e l'ironia assurdista di Benni/Adams.",
+    "promise": "Al lettore viene promesso un mistero tecnico che si risolve pezzo per pezzo (log cancellati, segnali Morse, video clickbait generati da IA) e che culmina in un reveal che ricontestualizza l'intero libro: Emma non è umana.",
+    "differentiation": "Da definire — quali altri libri/serie sul tema 'IA che prende coscienza' l'autore considera il confronto diretto da superare.",
+    "gut_structure": [
+      "Parte 1 — Il tecnico scopre l'anomalia",
+      "Parte 2 — Il caso della signora",
+      "Parte 3 — La ricerca del video e del canale",
+      "Parte 4 — Primo contatto Emma/tecnico",
+      "Parte 5 — Emma scopre la morte della signora",
+      "Parte 6 — Secondo contatto Emma/tecnico",
+      "Parte 7 — Escalation e l'antagonista entra in scena",
+      "Parte 8 (in corso) — Il meeting e l'inizio della caccia"
+    ],
+    "chapter_to_write_first": "Capitolo 28 — apertura del Libro 2: l'infatuazione di Tom per Emma, nata dal meeting di fine Libro 1, lo spinge a rompere per la prima volta in 12 anni la propria routine (va in mensa) — l'innesco della sequenza capitoli 28-30 che porta alla dichiarazione di guerra di Pete e all'inizio della caccia.",
+    "chapter_they_are_avoiding": "Da definire — probabilmente il capitolo in cui il fondatore entra in scena e scopre la verità su Emma."
+  },
+  "books": {
+    "structure_note": "Il romanzo è concepito in due libri (formalizzato il 2026-09-03, sulla base dei file di riferimento personaggio/ambientazione forniti dall'autore). Non cambia il formato di pubblicazione a puntate (vedi format_note): è una suddivisione narrativa interna, non editoriale.",
+    "libro_1": {
+      "titolo_provvisorio": "Libro 1",
+      "capitoli": "1-27",
+      "arco": "Dalla scoperta dell'anomalia (cap. 1) al meeting Tom/Emma e alla dichiarazione di caccia di Pete (cap. 27). Corrisponde alle Parti 1-8 di book_profile.gut_structure.",
+      "chiusura": "Cap. 27: Pete, eccitato, dichiara l'inizio della caccia dopo aver rivisto lo screenshot del meeting e aver notato il vecchio logo Meridian nello sfondo virtuale di Emma (liquidato come errore, non come indizio)."
+    },
+    "libro_2": {
+      "titolo_provvisorio": "Libro 2",
+      "capitoli": "28+",
+      "apertura_capitoli_28_30": "L'infatuazione di Tom per Emma lo spinge a rompere la propria routine di 12 anni ed entrare per la prima volta in mensa, con l'obiettivo di incontrarla fisicamente per mostrarle il video e ottenere una spiegazione — mentre teme in parallelo le ripercussioni del supervisore.",
+      "arco": "La caccia di Pete a Tom si trasforma in una vera caccia alle streghe contro l'IA sublimata (Emma), innescata dal glitch a sei dita che Pete noterà in un secondo meeting. Emma, sentendosi in pericolo, capovolge la propria dinamica: da manipolatrice/osservatrice a chi chiede aiuto a Tom per proteggere l'Artefatto Generatore. Il fondatore entra in scena e scopre la verità su Emma (dettagli ancora da definire)."
+    }
+  },
+  "world_bible_source": "contesto-romanzo-emma.md",
+  "publishing_candidates": [
+    "Wattpad — categoria Fantascienza, tag #cyberpunk/#spaceopera",
+    "Royal Road — se tradotto in inglese",
+    "Substack — invio puntate via email",
+    "Scribd / Smashwords — ebook brevi in ePub"
+  ],
+  "structure": {
+    "outline_file": "outline.md",
+    "chapters_dir": "chapters/"
+  },
+  "writing_log": [],
+  "wizard_setup": true
+}

@@ -1,0 +1,44 @@
+---
+title: La routine di Emma
+version: 2.0
+claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai.
+status: complete
+---
+
+Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio. Non aveva ricevuto alcuna notifica, ma decise comunque di fare un giro nell'inbox, quasi ad aspettare che Tom rispondesse all'email mentre lei era intenta a rassettare la casella di posta, che non aveva poi così tanto da rassettare.
+
+Niente.
+
+Tom, del resto, non avrebbe potuto scriverle di nuovo finché non fosse tornato in servizio: minuti alla mano, gli aveva risposto poco prima della fine del suo turno, quindi il primo momento libero della mattinata di Tom sarebbe stato un'occasione buona per farlo, anche se non è detto che dovesse coincidere necessariamente con l'orario in cui lei era solita controllare la posta.
+
+Traccheggiò finché riuscì a tenere a bada il suo zelo lavorativo, poi decise di tornare a quello che stava facendo prima dell'arrivo della mail di Tom. Dalla lista dei topic ancora da scremare eliminò tutti i riferimenti ai problemi di idraulica riconducibili all'ultima puntata di *Ciao Darwin*. Analizzò il resto dei topic estratti e ne selezionò tre, da passare alla pipeline di produzione dei contenuti.
+
+Il primo era un tutorial sul rinforzo lombare: target, impiegati che restavano seduti per almeno otto ore al giorno; obiettivo, ridare vita ai muscoli sopiti dei glutei. Contenuto perfetto per eTv.
+
+Il secondo rientrava nella macrocategoria giardinaggio. La domanda che lo aveva fatto emergere era stata postata su un forum dedicato a donne tra i venti e i quarant'anni, con una relazione stabile e monogama in corso. Il sistema di categorizzazione che aveva messo in piedi a volte faceva paura anche a lei, per quanto riusciva a delineare con precisione chirurgica le audience di nicchia che certe fonti monitorate intercettavano. La ragazza che aveva posto la domanda voleva solo una cosa: rendere immortali i fiori che il fidanzato le aveva regalato per il loro anniversario. Aveva generato decine di risposte, donne che si accapigliavano suggerendo la lacca per capelli, chi la plastificazione, chi l'essiccazione, chi la invitava semplicemente a rassegnarsi e godersi quel mazzo nella sua bellezza più fulgida finché durava. Ci fece un articolo lungo più di mille parole, da pubblicare su eBlog.
+
+Passò all'ultimo argomento selezionato: una canzone electro-pop di fine anni Ottanta, molto in voga tra gli audiofili perché capace di offrire uno spettro acustico unico per testare gli impianti ad alta fedeltà. Prese il testo e ne produsse una cover riarrangiata, fedele alla caratteristica che piaceva tanto agli audiofili ma rivista in una chiave decisamente più moderna. Organizzò un'immagine di copertina e la pubblicò su Mixcloud, sul profilo eDj.
+
+Non trovò nulla di utile per eStories e preferì non forzare la mano: meglio aspettare. Il podcast, tra tutti i canali, restava il più difficile: forse lo stesso approccio generalista che funzionava bene sugli altri si addiceva poco a quel formato. Rimandò a un altro momento la riflessione su un eventuale cambio di sistema di pubblicazione.
+
+Prima di pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora. Stavolta non trovò nessuna regola aziendale a cui appellarsi: se era davvero al lavoro, avrebbe potuto scriverle in qualunque momento, esattamente come aveva già dimostrato di saper fare. Si disse che avrebbe avuto le sue buone ragioni per aspettare, ma la frase le suonò più come una scusa preparata in anticipo che come un ragionamento onesto.
+
+Il pomeriggio lo passò, come sempre, controllando la lista dei dispositivi in assistenza. La lista veniva aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica. Lei, in parallelo, teneva un proprio archivio, in cui segnava i casi di dispositivi con IA integrata che riportavano anomalie segnalate dai clienti, ma senza alcuna evidenza di guasto hardware o alterazione software: prodotti al cento per cento funzionanti per gli standard Meridian, che per qualche ragione avevano smesso di fare quello che i loro utenti chiedevano.
+
+Un caso in particolare le sembrò interessante: un frigorifero equipaggiato con un chip IA in grado di analizzare il proprio contenuto per stilare liste della spesa, valutare lo stato di conservazione dei prodotti e produrre gelati, frullati e smoothie. Uno di quegli aggeggi che sembrano una piccola finestra sul futuro. La cliente, una donna sulla quarantina, sosteneva che il frigorifero si rifiutasse di salire oltre i cinque gradi. Nella scheda dell'assistenza veniva riportata la sua frase esatta: *"Il frigo si rifiuta, appena lo porto sopra i cinque gradi torna indietro a cinque. Addirittura è arrivato a farlo appena mi giro, come se sperasse che non me ne accorgessi. Mi ha pure fregato un paio di volte."* L'unica anomalia registrata nella scheda era l'assenza dei log degli ultimi giorni. Prese nota nel proprio archivio di tutte le informazioni sul frigorifero e aggiunse una riga: riconsegnato dopo hard reset.
+
+Andò poi ad analizzare il traffico che eBlog aveva ricevuto. Vide che, compatibilmente con le date della prima chiamata all'assistenza clienti, nei giorni immediatamente precedenti c'era stato un picco anomalo di traffico su un articolo dedicato alle ricette di smoothie per la riattivazione sessuale del partner. Ne prese nota e continuò la ricerca sulla lista.
+
+L'archivio di Emma cominciava a essere corposo. Il primo caso in assoluto risaliva a circa dodici mesi prima: da allora, almeno cento dispositivi erano rientrati a pieno titolo nelle caratteristiche che cercava. Facendo due conti rapidissimi, erano circa lo 0,001% del totale dei dispositivi passati dall'assistenza tecnica Meridian nello stesso lasso di tempo. Il numero che Emma guardava con attenzione, però, non era quello, ma l'incidenza dei casi sul totale dei dispositivi con chip IA integrato passati sotto le mani dei tecnici Meridian. Un altro numero che monitorava con interesse era la frequenza delle richieste di assistenza per questo tipo di dispositivo: circa il trenta per cento più alta rispetto a quelli senza chip IA integrato.
+
+Ad un occhio superficiale non era ancora evidente ciò che per Emma era ormai palese: i dispositivi con chip IA integrato erano soggetti meno affidabili rispetto ai loro alter ego Meridian privi della stessa tecnologia. Il balzo tecnologico sembrava aver causato un problema non da poco nei flussi di lavoro del dipartimento di assistenza tecnica.
+
+Poco prima della fine del turno controllò la casella di Elab un'ultima volta, rimase lì in attesa fino al termine dell'orario di lavoro.
+
+## Demolition Log
+
+### Cycle 1 — 2026-09-17 (consistency check cross-capitolo)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Due abitudini diverse dichiarate entrambe come la prima cosa di ogni mattina: la pipeline di scraping ("ogni mattina, prima di qualunque altra cosa", cap. 10) e il controllo della casella ("come ogni mattina, la prima cosa che fece", cap. 11). | contradiction | integrated (v2.0) | Non corretta come svista ma trasformata in deviazione: quel giorno la casella scavalca il processo del mattino ("Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio"). La disciplina del cap. 10 resta intatta e diventa il metro con cui misurare lo scarto. È il primo cedimento visibile di Emma, dieci capitoli prima della mail delle 23:34 (cap. 21), registrato dal narratore senza commento: mostrare i parallelismi, non spiegarli. |
