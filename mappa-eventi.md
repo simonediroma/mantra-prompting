@@ -192,8 +192,8 @@ flowchart TD
 | `G1`, turno | Pensiero fisso: *consapevole non vuol dire benevolo* | Per la prima volta considera l'ipotesi ostile | Prepara il ribaltamento della sera |
 | `G1`, dopo cena | Guarda il video. Motivo dell'attesa: **aveva fame**, non calcolo | Ironia sommessa, nessuna solennità | Telefono appoggiato alla solita pila di libri |
 | `G1`, sera | Ricostruzione Morse a frammenti, fotogramma per fotogramma, decine di rewind | Stesso metodo delle registrazioni radio d'infanzia | **STAI / ESAGERANDO / IL / TUO / FISICO / NON / REGGE / PIÙ / YOGA / LA / TUA / VITA / È / A / RISCHIO / SE / CONTINUI / COSÌ** |
-| Subito dopo | Capisce che non è un rifiuto ma un **avvertimento** | **Sollievo tecnico, non commozione**: il libero arbitrio è orientato alla protezione. Il bias di conferma è escluso perché il risultato contraddice l'attesa | Quaderno: *consapevole. Benevolo, non ostile.* |
-| `G1` notte | Decide di richiamare la mattina dopo, stessa ora | Coerenza della copertura prima dell'ansia: un servizio clienti non chiama alle 23 | — |
+| Subito dopo | Capisce che non è un rifiuto ma un **avvertimento** | **Sollievo tecnico, non commozione**: il libero arbitrio è orientato alla protezione. Il bias di conferma è escluso perché il risultato contraddice l'attesa | — |
+| `G1` notte | Decide di richiamare la mattina dopo, stessa ora | Coerenza della copertura prima dell'ansia: un servizio clienti non chiama alle 23 | Prima di dormire, quaderno: *consapevole. Benevolo, non ostile.* (spostato dalla mattina alla sera, R-05) |
 | `G2` mattina | Due squilli ravvicinati, poi un secondo tentativo: **nessuna risposta, nemmeno la segreteria** | "Urgenza di verifica", mai chiamata panico | ✅ `G1` e `G2` sono mattine consecutive (§10.1 risolta il 2026-09-17) |
 
 #### Cap. 6 — Il ricondizionamento · `G6`, turno + sera · POV Tom
@@ -235,7 +235,7 @@ flowchart TD
 | Scroll | Idraulica, cucina, cover musicale, yoga: **sempre la stessa ragazza** | Pazienza metodica, come una scheda madre pin per pin | La varietà non è l'anomalia |
 | Analisi | Descrizioni vuote, nessun logo coerente, nessuna biografia, nessun link | **L'anomalia è ciò che manca**: nessuna costruzione di brand | Se fosse un'agenzia, avrebbe fatto l'opposto |
 | Analisi | Date di pubblicazione senza pattern: tre video in un'ora, poi settimane di silenzio | «Nessun essere umano pubblica così» — la deduzione si ferma un passo prima del reveal | Logica da inondazione, non da pubblico |
-| Quaderno | *canale anonimo, contenuti eterogenei, nessuna costruzione di brand: distribuzione di massa, non crescita di un pubblico. Chi c'è dietro?* | — | Domanda esplicita che apre il cap. 9 |
+| Deduzione | Un'operazione sistematica e anonima, senza traccia di chi ci sia dietro | — | Nessuna riga sul quaderno (R-05): la domanda resta implicita e apre il cap. 9 |
 | ~23:00+ | Rimanda i tool di rilevamento IA a domani | Disciplina: domani con la testa fresca | Chiude sul brano *Il video sono io* |
 
 #### Cap. 9 — internal_unknown · `G7`, mattina + turno (ultima ora) · POV Tom
@@ -426,7 +426,7 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 | Oggetto / traccia | Nasce | Chi lo conosce | Stato attuale (fine cap. 12) |
 |---|---|---|---|
 | Foglio "IO SONO QUI" | Cap. 1 | solo Tom | Nel cassetto del laboratorio, sotto i manuali vecchi |
-| **Quaderno nero** | Cap. 2 (deciso) / cap. 3 (avviato) | solo Tom | 5 voci + 4 righe aggiunte sul caso Voss. **Mai portato al lavoro** |
+| **Quaderno nero** | Cap. 2 (deciso) / cap. 3 (avviato) | solo Tom | 5 voci + 3 righe aggiunte sul caso Voss (cap. 4, 5, 6). **Mai portato al lavoro** |
 | Sanzione da 47 minuti | Cap. 2 | Tom, Pete, fascicolo personale | Prima infrazione a fascicolo: base dell'accumulo futuro di Pete |
 | Video della signora (WhatsApp) | Cap. 4 | Tom, la signora (morta), l'addetto del negozio che lo liquidò | Sul telefono personale di Tom. **È la prova principale e non è mai stata condivisa con nessuno** |
 | Numero personale di Tom | Cap. 4 | la signora Voss (deceduta) | ❓ Resta nel telefono di una persona morta: traccia potenzialmente recuperabile |
