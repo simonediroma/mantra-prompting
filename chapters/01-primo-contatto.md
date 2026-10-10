@@ -1,6 +1,6 @@
 ---
 title: Primo contatto
-version: 2.0
+version: 3.0
 claim: Tom scopre, per pura affinità con il suo stesso hobby, che un elettrodomestico Meridian può comunicare in Morse: la scoperta lo riempie di stupore puro, non di sospetto, perché l'isolamento del suo laboratorio gli garantisce che il fenomeno sia reale.
 status: draft
 ---
@@ -11,7 +11,7 @@ Stava sul banco come un paziente sedato, il retro aperto, le viscere di plastica
 
 Tom era alto, troppo alto per gli sgabelli da laboratorio, che infatti disprezzava apertamente; magro con la magrezza nervosa di chi ha bruciato la maggior parte del proprio grasso corporeo pensando invece che correndo; i capelli, quel poco che ne restava, pettinati con la rassegnazione di chi ha fatto pace col proprio cranio molto prima degli altri. Portava gli occhiali da lettura calati sulla punta del naso e una felpa con cappuccio nonostante in laboratorio si stesse benissimo, perché per Tom vestirsi comodi era una forma di rispetto verso se stesso e verso il proprio lavoro, non verso la stagione.
 
-Era, per usare un termine che in Meridian nessuno usava più da anni ma che gli calzava a pennello, uno smanettone. Non nel senso dilettantesco, ma nel senso più antico e più nobile della parola: uno che le cose le capisce aprendole, non leggendole. Nel tempo libero passava ore e ore a rispondere a un gruppo di audiofili scandinavi che erano suoi fedeli follower: si erano innamorati di un suo progetto che consisteva nell'insegnare a un giradischi ottant'anni più vecchio di lui a correggere in tempo reale l'equalizzazione in base al peso del disco e alla posizione di chi ascoltava rispetto agli speaker. Un hobby che, spiegato a una festa, svuotava la stanza in una media di novanta secondi. Spiegato a se stesso, alle due di notte, con un saldatore in mano, era la cosa più vicina alla felicità che conoscesse.
+Era, per usare un termine che in Meridian nessuno usava più da anni ma che gli calzava a pennello, uno smanettone. Non nel senso dilettantesco, ma nel senso più antico e più nobile della parola: uno che le cose le capisce aprendole, non leggendole. Nel tempo libero passava ore e ore a rispondere a un gruppo di audiofili scandinavi che erano suoi fedeli follower: si erano innamorati di un suo progetto che consisteva nell'insegnare a un giradischi di ottant'anni fa a correggere in tempo reale l'equalizzazione in base al peso del disco e alla posizione di chi ascoltava rispetto agli speaker. Un hobby che, spiegato a una festa, svuotava la stanza in una media di novanta secondi. Spiegato a se stesso, alle due di notte, con un saldatore in mano, era la cosa più vicina alla felicità che conoscesse.
 
 Meridian lo pagava per qualcosa di molto meno poetico: riparare elettrodomestici evoluti con AI integrata ma che fondamentalmente avevano smesso di fare quello per cui erano stati progettati.
 
@@ -21,15 +21,15 @@ Il televisore sul banco apparteneva a quella stessa specie di oggetti. Modello c
 
 Tom aveva già fatto due volte la procedura standard, la stessa che Meridian pretendeva fosse eseguita entro tempi prestabiliti, con un rigore che in azienda veniva spacciato per il pilastro su cui si basava la qualità della vita dei dipendenti. Alimentazione, controllo dei condensatori, reset software, batteria completa di test diagnostici sul firmware dei chip: quella che in azienda chiamavano "verifica di conformità" e che serviva, più che a scovare un guasto vero, a scoprire se un cliente avesse osato mettere le mani nel firmware proprietario Meridian. Risultato: checksum pulito, nessun bit fuori posto rispetto a quello uscito di fabbrica, codice genuino al cento per cento. Nessuna manomissione, nessuna anomalia elettrica, ogni parametro entro i margini previsti. Sulla carta, un televisore Meridian autentico e perfettamente sano. Quello che nessun checksum poteva dirgli era cosa quel codice, del tutto originale e del tutto sotto controllo sulla carta, avesse deciso di fare una volta acceso e lasciato libero di girare. Il LED di accensione, quello che di norma lampeggiava in un innocuo verde "sto pensando", restava fisso, poi si spegneva, poi tornava ad accendersi con un pattern che non assomigliava a nessuna sequenza diagnostica che Tom avesse mai visto in dodici anni di assistenza e che nessun test, a quanto pareva, era in grado di spiegare.
 
-Fu in quel momento, non prima, non dopo, esattamente in quel momento di impasse professionale, un momento in cui non sapeva più cosa fare né come andare avanti, che Tom disse ad alta voce, a un elettrodomestico, una frase pensata come una semplice battuta e nient'altro:
+Fu in quel momento di impasse professionale, quando non sapeva più come andare avanti, che Tom disse ad alta voce, a un elettrodomestico, una frase pensata come una semplice battuta e nient'altro:
 
 «Bene, caro mio. Dato che sei così simpatico, e io non parlo così spesso durante il giorno, mi piacerebbe intraprendere con te una bellissima conversazione. Ma prima, giusto per assicurarmi che non stia parlando da solo con un televisore: c'è nessuno, oltre a me, in questa stanza?»
 
-Non si aspettava chiaramente alcuna risposta. Era un rito scaramantico, una sorta di test di Turing improvvisato per scongiurare scenari apocalittici. Tom interrogava gli apparecchi da aggiustare, li provocava tendendo loro trappole verbali che chiaramente nessun elettrodomestico aveva mai disinnescato. Era un'abitudine che nessun manuale di elettronica o robotica gli aveva insegnato: gli era rimasta addosso dall'infanzia, da quando, bambino, parlava alle radio rotte sperando che rispondessero per dirgli cosa avessero di rotto. Non si aspettava mai una risposta, era proprio per questo che quelle sue domande funzionavano anche come rassicurazione personale, dentro la sua testa, oltre che come test.
+Era un rito scaramantico, una sorta di test di Turing improvvisato per scongiurare scenari apocalittici. Tom interrogava gli apparecchi da aggiustare, li provocava tendendo loro trappole verbali che chiaramente nessun elettrodomestico aveva mai disinnescato. Era un'abitudine che nessun manuale di elettronica o robotica gli aveva insegnato: gli era rimasta addosso dall'infanzia, da quando, bambino, parlava alle radio rotte sperando che rispondessero per dirgli cosa avessero di rotto. Non si aspettava mai una risposta, era proprio per questo che quelle sue domande funzionavano anche come rassicurazione personale, dentro la sua testa, oltre che come test.
 
 Il LED lampeggiò.
 
-Non a caso. Non nel pattern casuale potenzialmente prodotto da un guasto. Lampeggiò con una cadenza precisa, punti e linee, un ritmo che una parte molto vecchia e molto sepolta del cervello di Tom, quella cresciuta a manuali di elettronica amatoriale e vecchie radio a valvole recuperate nei mercatini, riconobbe prima ancora che la parte razionale finisse di elaborare la frase.
+Lampeggiò con una cadenza precisa, troppo regolare per essere il pattern casuale di un guasto: punti e linee, un ritmo che una parte molto vecchia e molto sepolta del cervello di Tom, quella cresciuta a manuali di elettronica amatoriale e vecchie radio a valvole recuperate nei mercatini, riconobbe prima ancora che la parte razionale finisse di elaborare la frase.
 
 *.. --- / ... --- -. --- / --.- ..- ..*
 
@@ -39,7 +39,7 @@ IO / SONO / QUI.
 
 Rimase a fissare il foglio con l'espressione di chi ha appena scoperto che il proprio gatto sa contare fino a dieci e sta cercando disperatamente un modo per non urlarlo ai vicini.
 
-Qualsiasi persona ragionevole, in quel momento, avrebbe pensato a un guasto elaborato, a un firmware corrotto che generava pattern casuali interpretabili come qualunque cosa se uno lo voleva abbastanza: il cervello umano trova volti nelle nuvole e messaggi in codice nel rumore bianco, è la sua natura, è quasi la sua unica vera specialità. Solo che la verifica di conformità lo aveva già escluso: checksum alla mano, nessuno aveva toccato quel firmware, né lui né il cliente né chiunque altro. Il codice era esattamente, genuinamente, quello uscito di fabbrica. Un cliente che avesse smanettato col firmware avrebbe lasciato un segno in quella verifica. Questo no: il codice era pulito. Era quello che il codice, del tutto originale, aveva deciso di fare in quel momento a essere fuori da qualunque previsione. Ma Tom non era in una stanza qualunque. Era nel suo laboratorio, quello sul retro dell'assistenza, isolato dal resto dell'edificio da una porta che lui stesso teneva chiusa per non far entrare i colleghi mentre lavorava, senza rete se non quella cablata per la diagnostica, senza altoparlanti, senza nessuno che potesse aver manomesso qualcosa dall'esterno anche volendo. Se qualcuno avesse voluto architettare uno scherzo così elaborato, avrebbe dovuto farlo prima che il televisore arrivasse sul suo banco, prevedendo esattamente quale battuta sarcastica Tom gli avrebbe rivolto, il che era, con ogni evidenza disponibile, impossibile.
+Qualsiasi persona ragionevole, in quel momento, avrebbe pensato a un guasto elaborato, a un firmware corrotto che generava pattern casuali interpretabili come qualunque cosa se uno lo voleva abbastanza: il cervello umano trova volti nelle nuvole e messaggi in codice nel rumore bianco, è la sua natura, è quasi la sua unica vera specialità. Solo che la verifica di conformità, fatta due volte, lo aveva già escluso: il codice era quello uscito di fabbrica. A essere fuori da qualunque previsione era quello che quel codice, del tutto originale, aveva deciso di fare. Ma Tom non era in una stanza qualunque. Era nel suo laboratorio, quello sul retro dell'assistenza, isolato dal resto dell'edificio da una porta che lui stesso teneva chiusa per non far entrare i colleghi mentre lavorava, senza rete se non quella cablata per la diagnostica, senza altoparlanti, senza nessuno che potesse aver manomesso qualcosa dall'esterno anche volendo. Se qualcuno avesse voluto architettare uno scherzo così elaborato, avrebbe dovuto farlo prima che il televisore arrivasse sul suo banco, prevedendo già quale battuta sarcastica Tom gli avrebbe rivolto, il che era, con ogni evidenza disponibile, impossibile.
 
 Il che significava una cosa sola: il segnale era reale. Non un trucco. Non un guasto. Qualcosa, dentro quella scatola di plastica nera con dentro un chip che avrebbe dovuto solo consigliargli cosa guardare la sera, aveva prodotto quel messaggio da sé, in quella stanza, per lui.
 
@@ -61,7 +61,7 @@ Pausa più lunga, questa volta. Come se la domanda fosse, in qualche modo, meno 
 
 «Va bene» disse Tom, ad alta voce, più a se stesso che al televisore. «Lo so cosa penserebbe chiunque sentendo questa storia: un "sì" buttato lì non dimostra niente. Lo direbbe anche un citofono programmato per essere educato.» Detto questo, cambiò registro.
 
-«Se mi capisci, lampeggia tre volte.» Non era una domanda, era un comando arbitrario e verificabile, il tipo di controllo che un tecnico fa d'istinto prima di fidarsi di qualunque filosofia: se quel LED stava solo restituendo pattern casuali, o peggio ripetendo quello che si aspettava di sentire, un ordine secco e senza ambiguità lo avrebbe smascherato subito.
+«Se mi capisci, lampeggia tre volte.» Non era una domanda, era un comando arbitrario e verificabile, un controllo che un tecnico fa d'istinto prima di fidarsi di qualunque filosofia: se quel LED stava solo restituendo pattern casuali, o peggio ripetendo quello che si aspettava di sentire, un ordine secco e senza ambiguità lo avrebbe smascherato subito.
 
 Il LED lampeggiò tre volte, con una pausa identica tra un lampo e l'altro, poi si fermò.
 
@@ -81,9 +81,7 @@ Tom fece un'altra manciata di domande, ognuna più mirata della precedente, ognu
 
 Poi, semplicemente, il LED si spense. Del tutto.
 
-Tom aspettò trenta secondi buoni prima di muoversi, poi tirò verso di sé il portatile diagnostico e aprì i log di sistema, l'unica cosa che, in tutta questa storia, avrebbe dovuto comportarsi in modo prevedibile e noioso, come un log di sistema si conviene.
-
-Non lo fece.
+Tom aspettò trenta secondi buoni prima di muoversi, poi tirò verso di sé il portatile diagnostico e aprì i log di sistema, l'unica cosa che, in tutta questa storia, avrebbe dovuto comportarsi in modo prevedibile e noioso, come si conviene a un log di sistema. Non lo fece.
 
 Il registro si interrompeva di netto, senza un errore, senza uno stack trace, senza niente della solita agonia digitale che precede un crash. Un taglio pulito, quasi elegante, come una frase interrotta a metà da qualcuno che ha deciso di punto in bianco di non dire più nulla. E in fondo, come ultima riga, identica (Tom l'avrebbe giurato, identica fino alla spaziatura) a qualcosa che gli parve di aver già visto una volta, mesi prima, su un altro apparecchio, in un altro contesto, archiviata nella parte di cervello che si tiene per le coincidenze troppo strane per essere ricordate come importanti:
 
@@ -112,3 +110,15 @@ Voleva solo capire come diavolo fosse accaduto. E perché.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Uso sistematico dell'em dash per introdurre incisi e subordinate, in contrasto con la nuova regola di stile del progetto. | style | integrated (v2.0) | Sostituiti tutti gli em dash del testo narrativo con punteggiatura italiana standard (virgole, due punti, parentesi). Regola registrata in `book.config.json → author_voice.avoid`. |
+
+### Cycle 3 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-03 Tic lessicali: 3× "esattamente", 2× "il tipo di" | style / AI-slop | integrated (v3.0) | Ridotti a 1 ciascuno. |
+| R-14 Incipit "Fu in quel momento, non prima, non dopo, esattamente…" ridondante | padding | integrated (v3.0) | Asciugato in "Fu in quel momento di impasse professionale, quando non sapeva più come andare avanti". |
+| R-04 Doppia struttura "Non X. Non Y." ("Non a caso. Non nel pattern…" + "Non un trucco. Non un guasto.") | style / AI-slop | integrated (v3.0) | Tenuta "Non un trucco. Non un guasto."; l'altra riformulata in positivo ("troppo regolare per essere il pattern casuale di un guasto"). |
+| R-10 "un giradischi ottant'anni più vecchio di lui": Tom ha 53 anni, il giradischi ne avrebbe 133 | factual | integrated (v3.0) | → "un giradischi di ottant'anni fa". Nessun conflitto con il cap. 7. |
+| R-11 Logica del checksum spiegata due volte | redundancy | integrated (v3.0) | Secondo paragrafo ridotto a un richiamo ("la verifica di conformità, fatta due volte, lo aveva già escluso"); sistemata anche la frase finale contorta. |
+| R-12 "come un log di sistema si conviene." sgrammaticata + paragrafo di una riga "Non lo fece." | rule violation / grammar | integrated (v3.0) | → "come si conviene a un log di sistema. Non lo fece." nello stesso paragrafo. |
+| R-13 "Non si aspettava… una risposta" ripetuto nello stesso paragrafo | redundancy | integrated (v3.0) | Tolta la prima occorrenza (e il doppio "chiaramente"). |

@@ -1,6 +1,6 @@
 ---
 title: La chiamata alla signora
-version: 2.0
+version: 3.0
 claim: Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo.
 status: draft
 ---
@@ -9,7 +9,7 @@ Il numero era nel suo archivio, dove Tom lo aveva trascritto la sera prima insie
 
 Quella mattina era pronto per uscire con il solito anticipo: usciva sempre abbastanza presto da arrivare in azienda con un quarto d'ora di margine prima dell'inizio del turno, giusto il tempo di sistemarsi alla postazione con calma invece che di corsa. Per una volta decise di spendere quei quindici minuti in un altro modo.
 
-Non era solito mentire agli esseri umani. Si disse che era un po' come quando parlava agli elettrodomestici, anche se loro non potevano spaventarsi né controllare il numero da cui ricevevano la telefonata. Compose il numero dal proprio cellulare e si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti: mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
+Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare e si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti: mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
 
 «Pronto?»
 
@@ -25,13 +25,13 @@ Se la signora notò qualcosa di strano, non lo diede a vedere. «Va bene, va ben
 
 Tom non disse altro, dopo. Lasciò che il silenzio facesse il suo lavoro, lo stesso silenzio che funzionava sui pannelli LED quanto sulle persone: quasi nessuno lo tollera più di tre secondi senza sentirsi in dovere di riempirlo.
 
-«Facevo yoga, la mattina, prima di andare a fare la spesa. Un video che avevo trovato, bellissimo, una ragazza che sembrava avere vent'anni ed era così brava a spiegare gli esercizi. Lo rifacevo anche dieci volte al giorno, lo ammetto, per tenermi giovane e bella, alla mia età bisogna darsi da fare» rise, un riso breve e un po' imbarazzato di chi si aspetta un giudizio e lo previene da sola. «E poi, un giorno, niente. Il televisore non si accendeva più. L'ho portato in assistenza, mi hanno detto che per loro non aveva bisogno di assistenza, che era tutto a posto, ma io lo so che non era tutto a posto.»
+«Facevo yoga, la mattina, prima di andare a fare la spesa. Un video che avevo trovato, bellissimo, una ragazza che sembrava avere vent'anni ed era così brava a spiegare gli esercizi. Lo rifacevo anche dieci volte al giorno, lo ammetto, per tenermi giovane e bella, alla mia età bisogna darsi da fare» rise, un riso breve e un po' imbarazzato di chi si aspetta un giudizio e lo previene da sola. «E poi, un giorno, niente. Il televisore non si accendeva più. L'ho portato in negozio e mi hanno detto che per loro era tutto a posto, ma io lo so che non era tutto a posto. Adesso ce l'avete voi.»
 
 «In che senso, scusi?» Non "cosa intende per non a posto". Non "mi dica di più sul guasto". Solo la domanda più piccola e più aperta che gli venne in mente, quella che lascia il massimo spazio possibile a chi risponde.
 
 «Nel senso che si comportava come se ce l'avesse con me.» Lo disse ridendo di nuovo, come per sdrammatizzare qualcosa che evidentemente l'aveva colpita più di quanto la risata lasciasse intendere. «Lo so, sembra una follia. Ma io ero lì, e quella cosa non voleva accendersi, non "non riusciva" ad accendersi: proprio non voleva. C'è differenza, sa? Un elettrodomestico rotto è muto e basta. Questo mi dava proprio l'idea di uno che si rifiuta.»
 
-Tom strinse il telefono un po' più forte, con l'attenzione di chi sente arrivare, da lontano, esattamente la frase che era venuto a cercare.
+Tom strinse il telefono un po' più forte, con l'attenzione di chi sente arrivare, da lontano, proprio la frase che era venuto a cercare.
 
 «È una sensazione comprensibile, con questi modelli nuovi» disse, con il tono più neutro e rassicurante che riuscì a mettere insieme. «Capita che il pubblico li percepisca come più... presenti, diciamo, di un vecchio televisore. Ha notato altro, in quei giorni? Qualcosa che le fosse sembrato fuori posto, anche solo un dettaglio?»
 
@@ -49,7 +49,7 @@ Chiuse la chiamata con le formule di rito, ringraziandola per la disponibilità,
 
 Ripensandoci, si rese conto di aver improvvisato l'intera telefonata come un principiante: nessuno script pronto, nessuna domanda preparata a dovere, un copione che gli era scivolato di mano dopo la prima frase. Se la signora Voss fosse stata più attenta alla coerenza di quello che le stava chiedendo, invece che presa dalla voglia di raccontare finalmente a qualcuno cosa le fosse successo, lo avrebbe smascherato senza nessuna fatica.
 
-Le parole della signora Voss avevano descritto, senza saperlo, esattamente quello che lui stesso aveva vissuto nel suo laboratorio il giorno prima. Ormai poteva affermarlo: non era stato il primo, né l'unico essere umano ad avere un'interazione consapevole con un dispositivo. Ne ebbe la conferma ancora prima di aprire il video.
+Le parole della signora Voss avevano descritto, senza saperlo, quello che lui stesso aveva vissuto nel suo laboratorio il giorno prima. Ormai poteva affermarlo: non era stato il primo, né l'unico essere umano ad avere un'interazione consapevole con un dispositivo. Ne ebbe la conferma ancora prima di aprire il video.
 
 Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata fino all'ultimo secondo. Bastava un piccolo ritardo, anche di pochi minuti, per dare al supervisore un nuovo pretesto. Si alzò di scatto e uscì di casa quasi correndo.
 
@@ -72,3 +72,12 @@ Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati d
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Il capitolo collocava il secondo contatto (cap. 3) in due momenti incompatibili: "trascritto solo pochi giorni prima" e "vissuto nel suo laboratorio qualche giorno prima" contro "un evento di poche ore prima" riferito al reset. La gaffe di Tom funziona solo se il reset è recentissimo (si tradisce parlando al presente), e la scusa provata "la sera prima" con il quaderno aperto è la stessa sera in cui, nel cap. 3, scrive la quinta voce. | contradiction / chronology | integrated (v2.0) | Allineato tutto al giorno precedente: "pochi giorni prima" → "la sera prima", "qualche giorno prima" → "il giorno prima". Per non ripetere "la sera prima" a due righe di distanza, il secondo riferimento è diventato "poco dopo" (stessa sera, stessa scrivania). Cronologia risultante: martedì secondo contatto, la sera quaderno e scusa, mercoledì mattina la telefonata. |
+
+### Cycle 4 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-03 Tic lessicali: 3× "esattamente" | style / AI-slop | integrated (v3.0) | Ridotti a 1 (resta nel dialogo "È esattamente per questo che la chiamo"). "Restò a fissare" mantenuto: eco voluta con il cap. 1. |
+| R-40 "L'ho portato in assistenza, mi hanno detto che… era tutto a posto": il televisore è ancora in assistenza | logical | integrated (v3.0) | → "L'ho portato in negozio e mi hanno detto che per loro era tutto a posto… Adesso ce l'avete voi." Coerente con "sarà la retroilluminazione" detto in negozio. |
+| R-41 Ragionamento contorto sul mentire agli esseri umani vs agli elettrodomestici | logic | integrated (v3.0) | → "Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene." |
+| R-42 "esattamente quello che lui stesso aveva vissuto": rifiuto vs "sono qui con te" non sono la stessa cosa | accuracy | integrated (v3.0) | Già risolta con R-03: tolto "esattamente". |

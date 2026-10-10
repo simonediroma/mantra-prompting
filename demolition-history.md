@@ -6,20 +6,32 @@
 
 ## Summary
 
-| Chapter | Cycles | Resolved | Deferred | Accepted-limitation |
+| Chapter | Cycles | Resolved | Deferred | Accepted-limitation / rejected |
 |---|---|---|---|---|
-| Ch. 1 — Primo contatto | 1 | 3 | 0 | 0 |
-| Ch. 2 — Stallo burocratico | 1 | 3 | 0 | 0 |
-| Ch. 3 — Secondo contatto | 1 | 3 | 0 | 0 |
-| Ch. 4 — La chiamata alla signora | 2 | 2 | 0 | 0 |
-| Ch. 5 — L'avvertimento | 1 | 3 | 0 | 0 |
-| Ch. 6 — Il ricondizionamento | 1 | 4 | 0 | 0 |
+| Ch. 1 — Primo contatto | 3 | 11 | 0 | 0 |
+| Ch. 2 — Stallo burocratico | 2 | 7 | 0 | 0 |
+| Ch. 3 — Secondo contatto | 3 | 7 | 0 | 2 |
+| Ch. 4 — La chiamata alla signora | 4 | 7 | 0 | 0 |
+| Ch. 5 — L'avvertimento | 3 | 14 | 0 | 0 |
+| Ch. 6 — Il ricondizionamento | 3 | 13 | 0 | 1 |
+| Ch. 7 — La ragazza con sei dita | 1 | 10 | 0 | 0 |
+| Ch. 8 — Il canale eTv | 1 | 3 | 0 | 2 |
+| Ch. 9 — internal_unknown | 2 | 6 | 0 | 0 |
+| Ch. 10 — Il bluff | 1 | 5 | 0 | 2 |
+| Ch. 11 — La routine di Emma | 2 | 6 | 1 | 0 |
+| Ch. 12 — La notizia | 1 | 3 | 0 | 3 |
 
 ---
 
 ## Recurring Patterns
 
 *Nessun pattern ricorrente ancora — questa è la prima demolizione del libro. Da aggiornare quando lo stesso tipo di vulnerabilità riappare in un altro capitolo.*
+
+**Confermati come ricorrenti (revisione cross-capitolo 2026-10-10, cap. 1-12):**
+- **Tic lessicali da AI-slop**: "esattamente", "con la stessa X con cui…", "il tipo di", "restò a fissare", immagini-firma riusate tra capitoli ("fotogramma per fotogramma… da bambino", "trappole gentili", "componente guasto"). Limiti: max 1 per capitolo; "restò a fissare" in max 3 capitoli in tutto. Ricontrollare a ogni nuovo capitolo.
+- **Struttura negativa "Non X. Non Y. Z."** usata come effetto: max 1 per capitolo.
+- **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
+- **Copia-incolla di descrizioni tra capitoli** (Elab cap. 9/10): ogni ripresa va riscritta dal POV del capitolo.
 
 Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ricorrenti):
 - **Fondamento di competenze tecniche non ancora giustificato dal profilo del personaggio** (visto sul cap. 1 con "compacting context" in Tom) — verificare ogni volta che un personaggio mostra conoscenza tecnica specifica.
@@ -31,7 +43,7 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 
 ## Open Deferred Issues
 
-*Nessuno al momento.*
+- **R-110 (cap. 11)**: la risposta di Emma a Tom (fine cap. 10) non è mai mostrata. Va letta da Tom in un breve flashback nel **cap. 17** (regola POV, `mappa-eventi.md` punto 10.6).
 
 ---
 
@@ -42,6 +54,10 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 ---
 
 ## Full Log
+
+### Revisione cross-capitolo esterna — 2026-10-10 (issue ALTA)
+
+Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10), R-03 + R-14 (cap. 1-7, 9), R-04 (cap. 1, 2, 3, 5, 12), R-05 (cap. 5, 8). R-06 respinta dall'autore: le formulazioni ambigue su Emma nei cap. 10 e 12 sono indizi voluti per i lettori attenti. Dettagli nel Demolition Log di ciascun capitolo. Poi integrate anche le issue per capitolo (R-10…R-123). Respinte dall'autore: R-30, R-31, R-63, R-80, R-83, R-101, R-121, R-123 (oltre a R-06). Rinviata: R-110 (cap. 17). Regole nuove aggiunte a `book.config.json → author_voice.avoid` (1-6 come da report; la 7 scartata per R-101; la 8 invertita per R-06). Controllo finale con grep: "esattamente" ≤1 per capitolo, nessun "a lavoro", nessun em dash in narrazione, nessuna ", e" in narrazione, Morse sempre con " / "; cifre solo in box/testi di sistema e titoli di video.
 
 ### Ch. 1 — Primo contatto
 

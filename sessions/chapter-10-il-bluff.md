@@ -1,7 +1,7 @@
 # Session: chapter — chapters/10-il-bluff.md
 
 > Created: 2026-09-14
-> Last updated: 2026-09-14
+> Last updated: 2026-10-10
 > Status: complete
 
 ## Macro
@@ -33,3 +33,5 @@ chapters/10-il-bluff.md
 - **Interruzione**: una notifica per una mail arrivata su elab@meridian.com, casella che di norma riceve solo notifiche automatiche/spam, mai nulla di reale.
 - **Reazione di Emma**: legge la mail di Tom, capisce subito che è impossibile (quell'indirizzo non può comparire nei log di un dispositivo, esiste solo nell'archivio interno separato). Minaccia diretta/personale (rischio di essere scoperta) → applica il principio guardrail appena fissato in emma.md: il contenuto della sua reazione resta lucido e tagliente, ma il registro interno crolla dal suo tono abituale a qualcosa di più freddo/professionale.
 - **Chiusura**: sulla sua decisione di rispondere e smascherare il bluff, SENZA mostrare il testo della risposta né l'invio (per la regola POV sulle mail appena confermata). Il contenuto esatto della sua risposta ("è impossibile che la mail fosse nei log — come l'ha ottenuta davvero? Perché mi sta mentendo?") verrà rivelato quando Tom la leggerà, in un capitolo successivo dal suo POV.
+- 2026-10-10 — Revisione cross-capitolo esterna (`revision-report-2026-10-10.md`), issue ALTA: R-02, R-06. Testo portato a v3.0; dettagli nel Cycle 1 del Demolition Log.
+- 2026-10-10 — Revisione cross-capitolo, issue del capitolo: R-100, R-101, R-102, R-103, R-104.

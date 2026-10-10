@@ -1,7 +1,7 @@
 # Session: chapter — chapters/12-la-notizia.md
 
 > Created: 2026-09-16
-> Last updated: 2026-09-16
+> Last updated: 2026-10-10
 > Status: complete
 
 ## Macro
@@ -32,3 +32,5 @@ chapters/12-la-notizia.md
 ## Notes
 - Outline: POV Emma, apre la Parte 5. Il sistema di trend-scouting di Emma le mostra la notizia di una signora sulla cinquantina morta di infarto con il telefono in mano, mentre faceva yoga — foto con un TV Meridian ben visibile alle spalle. Beat chiave: Emma e Tom stanno investigando lo stesso caso senza saperlo ancora — ironia drammatica per il lettore. Collegamento al precedente: prosecuzione della routine del cap. 11. Collegamento al successivo: Emma inizia a collegare i puntini.
 - Precedenti fissati nei cap. 10-11 da rispettare: niente spazio fisico per Emma; guardrail vs libero arbitrio; regolazione emotiva come un bambino piccolo (mai dichiararlo, solo mostrarlo); mai linguaggio che suggerisca origine artificiale/programmata; mai negare esplicitamente la sua agency; dosare con cura il meccanismo centrale del libro (mai nominare "sublimazione", "Artefatto Generatore" o dare statistiche troppo esplicite legate al meccanismo); i due punti solo per specificare/spiegare quanto precede; canali camelCase eTv/eBlog/eDj/eStories; "hard reset" termine fisso per l'azione che cancella la coscienza acquisita, distinto da "reset software" (routine diagnostica di Tom).
+- 2026-10-10 — Revisione cross-capitolo esterna (`revision-report-2026-10-10.md`), issue ALTA: R-04, R-06. Testo portato a v3.0; dettagli nel Cycle 1 del Demolition Log.
+- 2026-10-10 — Revisione cross-capitolo, issue del capitolo: R-120, R-121, R-122, R-123.

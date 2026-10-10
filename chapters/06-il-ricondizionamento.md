@@ -1,6 +1,6 @@
 ---
 title: Il ricondizionamento
-version: 2.0
+version: 3.0
 claim: Tom trova la conferma definitiva e irreversibile che l'avvertimento del televisore era fondato, la signora Voss è morta esattamente come previsto, ma la scoperta che lo turba di più, tecnicamente, è che il dispositivo non si sia limitato a comunicare come una persona senziente: sembra aver fatto anche una diagnosi clinica precisa, abbastanza da prevedere esattamente cosa sarebbe successo.
 status: complete
 ---
@@ -9,27 +9,27 @@ Il televisore arrivò al suo banco in mezzo a una decina di altri apparecchi des
 
 Lo confrontò con quello stampato sul retro dell'apparecchio. Coincideva. Era il televisore della signora Voss.
 
-Il protocollo standard di Meridian prevedeva un periodo minimo di centoventi giorni di giacenza prima che un apparecchio non ritirato potesse essere dichiarato disponibile per il ricondizionamento, al termine dei quali veniva anche spedito d'ufficio un rimborso forfettario pari al 33% del costo di acquisto originale, a chiusura definitiva della pratica. Tom lo sapeva bene: era lui stesso a occuparsi del ricondizionamento di questi apparecchi quando arrivava il momento, un'informazione che rientrava semplicemente nel suo ambito di competenza. Erano passati esattamente sei giorni da quando l'aveva riparato l'ultima volta.
+Il protocollo standard di Meridian prevedeva un periodo minimo di centoventi giorni di giacenza prima che un apparecchio non ritirato potesse essere dichiarato disponibile per il ricondizionamento, al termine dei quali veniva anche spedito d'ufficio un rimborso forfettario pari al trentatré per cento del costo di acquisto originale, a chiusura definitiva della pratica. Tom lo sapeva bene: era lui stesso a occuparsi del ricondizionamento di questi apparecchi quando arrivava il momento, un'informazione che rientrava semplicemente nel suo ambito di competenza. Erano passati sei giorni da quando l'aveva resettato l'ultima volta.
 
-Il protocollo prevedeva anche una scorciatoia, per i casi in cui il cliente, ricontattato per il ritiro, rifiutava di riprendersi il bene e accettava subito il rimborso: niente attesa, chiusura immediata della pratica. Non era un'irregolarità. Era una procedura prevista, solo raramente usata, perché richiedeva che qualcuno all'assistenza avesse effettivamente parlato con il cliente, e ottenuto una risposta chiara. Il che significava una cosa sola: la signora Voss, a differenza che con lui, a qualcuno aveva risposto.
+Il protocollo prevedeva anche una scorciatoia, per i casi in cui il cliente, ricontattato per il ritiro, rifiutava di riprendersi il bene e accettava subito il rimborso: niente attesa, chiusura immediata della pratica. Non era un'irregolarità. Era una procedura prevista, solo raramente usata, perché richiedeva che qualcuno all'assistenza avesse effettivamente parlato con il cliente e ottenuto una risposta chiara. Il che significava una cosa sola: la signora Voss, a differenza che con lui, a qualcuno aveva risposto.
 
-Nei giorni precedenti aveva provato a richiamare la signora Voss in altre due occasioni, sempre con la stessa voce annoiata da servizio qualità: due squilli ravvicinati ogni volta, come già la prima mattina, ma mai un tentativo al giorno, per non sembrare troppo insistente. Nessuna risposta, mai. Avrebbe richiamato di nuovo la settimana successiva, se il televisore non fosse arrivato prima sul suo banco per il ricondizionamento.
+Nei giorni precedenti aveva provato a richiamare la signora Voss in altre due occasioni, sempre con la stessa voce annoiata da servizio qualità: due squilli ravvicinati ogni volta, come già la prima mattina, ma mai più di un tentativo al giorno, per non sembrare troppo insistente. Nessuna risposta, mai. Avrebbe richiamato di nuovo la settimana successiva, se il televisore non fosse arrivato prima sul suo banco per il ricondizionamento.
 
 Come tecnico, aveva accesso in lettura all'intero registro interventi, non solo alla porzione che riguardava il proprio reparto: era una delle poche cose, in Meridian, che funzionavano davvero in orizzontale. Cercò il numero di pratica associato al numero di serie e trovò due voci, in ordine cronologico. La prima confermava quello che aveva già dedotto: *cliente ricontattata, rifiuta il ritiro: richiesto il rimborso previsto (33% del valore di acquisto).*
 
-Sotto, una seconda voce, quella che nessun cliente vivo avrebbe mai potuto generare: *causale: decesso cliente, verificata su documentazione fornita. Pagamento reindirizzato a erede designato.*
+Sotto, una seconda voce, registrata pochi giorni dopo, quella che nessun cliente vivo avrebbe mai potuto generare: *causale: decesso cliente, verificata su documentazione fornita. Pagamento reindirizzato a erede designato.*
 
-Tom restò a fissare lo schermo con una sensazione che non seppe classificare subito. Non era il tipo di cosa che gli succedeva spesso, non avere immediatamente un'etichetta pronta per quello che provava.
+Tom rilesse la riga con una sensazione che non seppe classificare subito. Non gli capitava spesso di non avere un'etichetta pronta per quello che provava.
 
 Non gli interessava la morte in sé. Non voleva fare giustizia a una signora che non aveva mai incontrato di persona. Voleva sapere cosa fosse successo, a partire dal punto preciso in cui il televisore aveva preso coscienza a sufficienza da provare a preservare una vita umana.
 
-Prima di tutto, però, doveva sapere se la causa fosse compatibile con l'avvertimento che il dispositivo aveva provato a dare. Se fosse morta per un incidente in strada, o per una malattia che non avesse nulla a che fare con l'attività fisica, tutto si sarebbe ridimensionato. Non era un ragionamento razionale, lo sapeva. Ma una cosa era aver trovato la prova che un televisore potesse relazionarsi con l'esterno come una persona senziente. Un'altra, ben diversa, era che quello stesso dispositivo avesse anche imparato a formulare diagnosi cliniche precise, al punto da prevedere esattamente quello che poi sarebbe successo.
+Prima di tutto, però, doveva sapere se la causa fosse compatibile con l'avvertimento che il dispositivo aveva provato a dare. Se fosse morta per un incidente in strada, o per una malattia che non avesse nulla a che fare con l'attività fisica, tutto si sarebbe ridimensionato. Non era un ragionamento razionale, lo sapeva. Ma una cosa era aver trovato la prova che un televisore potesse relazionarsi con l'esterno come una persona senziente. Un'altra, ben diversa, era che quello stesso dispositivo avesse anche imparato a formulare diagnosi cliniche precise, al punto da prevedere quello che poi sarebbe successo.
 
-Lo cercò quella sera, da casa: chiaramente non era il tipo di ricerca da fare a lavoro. Bastò poco: un necrologio locale, un trafiletto di cronaca. Attacco di cuore, aggravato da un'attività fisica intensa. Purtroppo nessuna morte accidentale o improvvisa, nessun incidente o coincidenza sfortunata: la signora Voss era deceduta esattamente per la causa che il televisore aveva previsto.
+Lo cercò quella sera, da casa: chiaramente non era il tipo di ricerca da fare al lavoro. Bastò poco: un necrologio locale, un trafiletto di cronaca. Attacco di cuore, aggravato da un'attività fisica intensa. Purtroppo nessuna morte accidentale o improvvisa, nessun incidente o coincidenza sfortunata: la signora Voss era deceduta esattamente per la causa che il televisore aveva previsto.
 
 Quello che restava ancora poco chiaro era se ci fosse una relazione tra il video rivisto in loop come un mantra dalla signora Voss e l'atto di presa di coscienza del televisore.
 
-E se fosse avvenuto un miracolo dell'era moderna? Qualcosa di inspiegabile come i miracoli della tradizione cristiana: un angelo caduto per sfortuna dentro un televisore, che improvvisamente prendeva vita e provava disperatamente a comunicare con la signora per intimarle di fermarsi, di riposare. Rise sonoramente dentro di sé a quel pensiero quasi mistico, soprattutto perché quella storia stava mettendo a dura prova il suo scetticismo.
+E se fosse avvenuto un miracolo dell'era moderna? Qualcosa di inspiegabile come i miracoli della tradizione cristiana: un angelo caduto per sfortuna dentro un televisore, che improvvisamente prendeva vita e provava disperatamente a comunicare con la signora per intimarle di fermarsi, di riposare. Rise tra sé a quel pensiero quasi mistico, soprattutto perché quella storia stava mettendo a dura prova il suo scetticismo.
 
 Non aveva molte strade davanti a sé: l'unica tangibile era il video. Decise che doveva trovarlo, per capire se nascondesse qualcosa.
 
@@ -55,3 +55,17 @@ Aprì l'app di YouTube, copiò la frase nella barra di ricerca e premette invio.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Il capitolo chiamava "archivio interno di catalogazione" il registro delle pratiche di assistenza (matricola, rimborso, decesso, erede), cioè lo stesso nome con cui `book-memory.md` e il cap. 9 indicano l'archivio degli artefatti generati (modello, data, provenance). Collisione di nomi tra due sistemi diversi: il lettore attento conclude che Tom stia già usando l'archivio che nel cap. 9 gli darà la rivelazione, e si chiede perché non ci trovi subito tutto. | terminology / world consistency | integrated (v2.0) | Rinominato in "registro interventi", termine già in uso nel cap. 2. La lettura orizzontale resta come dettaglio di colore sulla cultura aziendale. L'espressione "archivio interno di catalogazione (degli artefatti)" è ora riservata al solo sistema del cap. 9, con le sue regole di accesso (scrittura verticale, lettura orizzontale, vista trasversale ai soli ispettori). |
+
+### Cycle 3 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-03 Tic lessicali: 3× "esattamente", 2× "il tipo di", "restò a fissare" | style / AI-slop | integrated (v3.0) | Ridotti a 1 per tipo; "Tom rilesse la riga". |
+| R-53 "a lavoro" | consistency | integrated | → "al lavoro" (uniformato in tutto il libro). |
+| R-60 Non è chiaro chi abbia rifiutato il ritiro né quando la signora sia morta | contradiction | integrated (v3.0) | Allineato a `mappa-eventi.md` (rifiuto da viva tra G2 e G5, morte poco dopo): la seconda voce del registro è "registrata pochi giorni dopo". |
+| R-61 "da quando l'aveva riparato": nel cap. 3 era solo un reset | factual | integrated (v3.0) | → "resettato". |
+| R-62 "ma mai un tentativo al giorno" | grammar | integrated (v3.0) | → "mai più di un tentativo al giorno". |
+| R-63 "il video rivisto in loop come un mantra": anticipa il titolo | rule violation (early reveal) | rejected (autore) | Indizio voluto per il lettore attento: resta invariato. |
+| R-64 "Rise sonoramente dentro di sé" (ossimoro) | style | integrated (v3.0) | → "Rise tra sé". |
+| R-65 "parlato con il cliente, e ottenuto" | rule violation (', e') | integrated (v3.0) | Tolta la virgola. |
+| Controllo finale: cifre in narrazione ("33%") | consistency (regola 5) | integrated (v3.0) | → "trentatré per cento"; resta in cifre solo la voce del registro (testo di sistema). |

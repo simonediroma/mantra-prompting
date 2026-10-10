@@ -1,7 +1,7 @@
 # Session: chapter — chapters/07-la-ragazza-con-sei-dita.md
 
 > Created: 2026-09-08
-> Last updated: 2026-09-08
+> Last updated: 2026-10-10
 > Status: complete
 
 ## Macro
@@ -32,3 +32,6 @@ chapters/07-la-ragazza-con-sei-dita.md
   9. Nello stesso capitolo prova subito a risalire al canale/autore, ma solo il primo passo (trovarlo/aprirlo): l'analisi vera e propria del canale resta per il cap. 8.
 
 Confermato dall'autore il 2026-09-08.
+- 2026-10-10 — Revisione cross-capitolo esterna (`revision-report-2026-10-10.md`), issue ALTA: R-03. Testo portato a v4.0; dettagli nel Cycle 1 del Demolition Log.
+- 2026-10-10 — Revisione cross-capitolo, issue del capitolo: R-70, R-71, R-72, R-73, R-74, R-75, R-76.
+- 2026-10-10 — Revisione cross-capitolo, issue del capitolo: Controllo.
