@@ -28,7 +28,7 @@ Il lato A era finito da un pezzo senza che se ne accorgesse. Girò il disco, las
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | R-05 Chiusura prevedibile con riga sul quaderno, ridondante rispetto al paragrafo precedente | structure | integrated (v3.0) | Rimossa la nota; la domanda su chi ci sia dietro resta implicita. Aggiornata `mappa-eventi.md`. |
-| R-80 "Una cover acustica" su eTv vs cover su eDj (cap. 11) | world consistency | rejected (autore) | Nessun conflitto: le cover video con chitarra acustica sono un formato tipico di YouTube; eDj pubblica solo audio. Reveal futuro (cover di *Vacanze romane*) registrato in `book-memory.md → Open Promises`. |
+| R-80 "Una cover acustica" su eTv vs cover su eDj (cap. 11) | world consistency | rejected (autore) | Nessun conflitto: le cover video con chitarra acustica sono un formato tipico di YouTube; eDj pubblica solo audio. La cover di Tom è una canzone qualsiasi (il reveal di *Vacanze romane* riguarda la cover eDj del cap. 11). |
 | R-81 "Sulle note di *Il video sono io*": un lato di LP dura circa 20 minuti, ma sono passate ore | factual | integrated (v3.0) | Tom si accorge che il lato A è finito da un pezzo, gira il disco (B1 *Il video sono io*), poi spegne. |
 | R-82 "Nessun essere umano pubblica così… Nessun essere umano, però, aveva bisogno di un piano": ragionamento contraddittorio | clarity | integrated (v3.0) | → "Un piano, però, serve a chi vuole costruirsi un pubblico; a chi vuole soltanto inondarlo, no." |
 | R-83 Capitolo corto (circa 630 parole contro una media di circa 1.350) | length | rejected (autore) | Resta corto per scelta dell'autore. |

@@ -53,4 +53,4 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 | R-113 "non è detto che dovesse coincidere" | grammar | integrated (v2.0) | → "non era detto che coincidesse". |
 | R-114 Capitolo-elenco di task, poca tensione | pacing | integrated (v2.0) | L'attesa della risposta diventa scena nel finale (inbox aperta fino alle diciassette, chiusa vuota). |
 | Controllo finale: cifre in narrazione ("0,001%") | consistency (regola 5) | integrated (v2.0) | → "circa uno su centomila". |
-| Cover eDj: "electro-pop di fine anni Ottanta" incoerente con un possibile brano del 1983 | consistency | integrated (v2.0) | Su indicazione dell'autore → "degli anni Ottanta". L'autore cambierà più avanti la canzone del reveal. |
+| Cover eDj: "electro-pop di fine anni Ottanta" incoerente con un possibile brano del 1983 | consistency | integrated (v2.0) | Su indicazione dell'autore → "degli anni Ottanta". È la cover di *Vacanze romane* (1983) del reveal futuro, registrata in `book-memory.md → Open Promises`. |
