@@ -9,7 +9,7 @@ Il numero era nel suo archivio, dove Tom lo aveva trascritto la sera prima insie
 
 Quella mattina era pronto per uscire con il solito anticipo: usciva sempre abbastanza presto da arrivare in azienda con un quarto d'ora di margine prima dell'inizio del turno, giusto il tempo di sistemarsi alla postazione con calma invece che di corsa. Per una volta decise di spendere quei quindici minuti in un altro modo.
 
-Non era solito mentire agli esseri umani. Si disse che era un po' come quando parlava agli elettrodomestici, anche se loro non potevano spaventarsi né controllare il numero da cui ricevevano la telefonata. Compose il numero dal proprio cellulare e si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti: mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
+Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare e si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti: mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
 
 «Pronto?»
 
@@ -25,7 +25,7 @@ Se la signora notò qualcosa di strano, non lo diede a vedere. «Va bene, va ben
 
 Tom non disse altro, dopo. Lasciò che il silenzio facesse il suo lavoro, lo stesso silenzio che funzionava sui pannelli LED quanto sulle persone: quasi nessuno lo tollera più di tre secondi senza sentirsi in dovere di riempirlo.
 
-«Facevo yoga, la mattina, prima di andare a fare la spesa. Un video che avevo trovato, bellissimo, una ragazza che sembrava avere vent'anni ed era così brava a spiegare gli esercizi. Lo rifacevo anche dieci volte al giorno, lo ammetto, per tenermi giovane e bella, alla mia età bisogna darsi da fare» rise, un riso breve e un po' imbarazzato di chi si aspetta un giudizio e lo previene da sola. «E poi, un giorno, niente. Il televisore non si accendeva più. L'ho portato in assistenza, mi hanno detto che per loro non aveva bisogno di assistenza, che era tutto a posto, ma io lo so che non era tutto a posto.»
+«Facevo yoga, la mattina, prima di andare a fare la spesa. Un video che avevo trovato, bellissimo, una ragazza che sembrava avere vent'anni ed era così brava a spiegare gli esercizi. Lo rifacevo anche dieci volte al giorno, lo ammetto, per tenermi giovane e bella, alla mia età bisogna darsi da fare» rise, un riso breve e un po' imbarazzato di chi si aspetta un giudizio e lo previene da sola. «E poi, un giorno, niente. Il televisore non si accendeva più. L'ho portato in negozio e mi hanno detto che per loro era tutto a posto, ma io lo so che non era tutto a posto. Adesso ce l'avete voi.»
 
 «In che senso, scusi?» Non "cosa intende per non a posto". Non "mi dica di più sul guasto". Solo la domanda più piccola e più aperta che gli venne in mente, quella che lascia il massimo spazio possibile a chi risponde.
 
@@ -78,3 +78,6 @@ Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati d
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | R-03 Tic lessicali: 3× "esattamente" | style / AI-slop | integrated (v3.0) | Ridotti a 1 (resta nel dialogo "È esattamente per questo che la chiamo"). "Restò a fissare" mantenuto: eco voluta con il cap. 1. |
+| R-40 "L'ho portato in assistenza, mi hanno detto che… era tutto a posto": il televisore è ancora in assistenza | logical | integrated (v3.0) | → "L'ho portato in negozio e mi hanno detto che per loro era tutto a posto… Adesso ce l'avete voi." Coerente con "sarà la retroilluminazione" detto in negozio. |
+| R-41 Ragionamento contorto sul mentire agli esseri umani vs agli elettrodomestici | logic | integrated (v3.0) | → "Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene." |
+| R-42 "esattamente quello che lui stesso aveva vissuto": rifiuto vs "sono qui con te" non sono la stessa cosa | accuracy | integrated (v3.0) | Già risolta con R-03: tolto "esattamente". |
