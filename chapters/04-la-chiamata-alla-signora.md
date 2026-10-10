@@ -31,7 +31,7 @@ Tom non disse altro, dopo. Lasciò che il silenzio facesse il suo lavoro, lo ste
 
 «Nel senso che si comportava come se ce l'avesse con me.» Lo disse ridendo di nuovo, come per sdrammatizzare qualcosa che evidentemente l'aveva colpita più di quanto la risata lasciasse intendere. «Lo so, sembra una follia. Ma io ero lì, e quella cosa non voleva accendersi, non "non riusciva" ad accendersi: proprio non voleva. C'è differenza, sa? Un elettrodomestico rotto è muto e basta. Questo mi dava proprio l'idea di uno che si rifiuta.»
 
-Tom strinse il telefono un po' più forte, con l'attenzione di chi sente arrivare, da lontano, esattamente la frase che era venuto a cercare.
+Tom strinse il telefono un po' più forte, con l'attenzione di chi sente arrivare, da lontano, proprio la frase che era venuto a cercare.
 
 «È una sensazione comprensibile, con questi modelli nuovi» disse, con il tono più neutro e rassicurante che riuscì a mettere insieme. «Capita che il pubblico li percepisca come più... presenti, diciamo, di un vecchio televisore. Ha notato altro, in quei giorni? Qualcosa che le fosse sembrato fuori posto, anche solo un dettaglio?»
 
@@ -49,7 +49,7 @@ Chiuse la chiamata con le formule di rito, ringraziandola per la disponibilità,
 
 Ripensandoci, si rese conto di aver improvvisato l'intera telefonata come un principiante: nessuno script pronto, nessuna domanda preparata a dovere, un copione che gli era scivolato di mano dopo la prima frase. Se la signora Voss fosse stata più attenta alla coerenza di quello che le stava chiedendo, invece che presa dalla voglia di raccontare finalmente a qualcuno cosa le fosse successo, lo avrebbe smascherato senza nessuna fatica.
 
-Le parole della signora Voss avevano descritto, senza saperlo, esattamente quello che lui stesso aveva vissuto nel suo laboratorio il giorno prima. Ormai poteva affermarlo: non era stato il primo, né l'unico essere umano ad avere un'interazione consapevole con un dispositivo. Ne ebbe la conferma ancora prima di aprire il video.
+Le parole della signora Voss avevano descritto, senza saperlo, quello che lui stesso aveva vissuto nel suo laboratorio il giorno prima. Ormai poteva affermarlo: non era stato il primo, né l'unico essere umano ad avere un'interazione consapevole con un dispositivo. Ne ebbe la conferma ancora prima di aprire il video.
 
 Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata fino all'ultimo secondo. Bastava un piccolo ritardo, anche di pochi minuti, per dare al supervisore un nuovo pretesto. Si alzò di scatto e uscì di casa quasi correndo.
 
