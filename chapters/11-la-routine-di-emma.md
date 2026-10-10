@@ -9,7 +9,7 @@ Prima ancora di far partire il processo del mattino, controllò la casella di po
 
 Niente.
 
-Tom, del resto, non avrebbe potuto scriverle di nuovo finché non fosse tornato in servizio: minuti alla mano, gli aveva risposto poco prima della fine del suo turno, quindi il primo momento libero della mattinata di Tom sarebbe stato un'occasione buona per farlo, anche se non è detto che dovesse coincidere necessariamente con l'orario in cui lei era solita controllare la posta.
+Tom, del resto, non avrebbe potuto scriverle di nuovo finché non fosse tornato in servizio: minuti alla mano, gli aveva risposto poco prima della fine del suo turno, quindi il primo momento libero della mattinata di Tom sarebbe stato un'occasione buona per farlo, anche se non era detto che coincidesse con l'orario in cui lei era solita controllare la posta.
 
 Traccheggiò finché riuscì a tenere a bada il suo zelo lavorativo, poi decise di tornare a quello che stava facendo prima dell'arrivo della mail di Tom. Dalla lista dei topic ancora da scremare eliminò tutti i riferimenti ai problemi di idraulica riconducibili all'ultima puntata di *Ciao Darwin*. Analizzò il resto dei topic estratti e ne selezionò tre, da passare alla pipeline di produzione dei contenuti.
 
@@ -31,9 +31,9 @@ Andò poi ad analizzare il traffico che eBlog aveva ricevuto. Vide che, compatib
 
 L'archivio di Emma cominciava a essere corposo. Il primo caso in assoluto risaliva a circa dodici mesi prima: da allora, almeno cento dispositivi erano rientrati a pieno titolo nelle caratteristiche che cercava. Facendo due conti rapidissimi, erano circa lo 0,001% del totale dei dispositivi passati dall'assistenza tecnica Meridian nello stesso lasso di tempo. Il numero che Emma guardava con attenzione, però, non era quello, ma l'incidenza dei casi sul totale dei dispositivi con chip IA integrato passati sotto le mani dei tecnici Meridian. Un altro numero che monitorava con interesse era la frequenza delle richieste di assistenza per questo tipo di dispositivo: circa il trenta per cento più alta rispetto a quelli senza chip IA integrato.
 
-Ad un occhio superficiale non era ancora evidente ciò che per Emma era ormai palese: i dispositivi con chip IA integrato erano soggetti meno affidabili rispetto ai loro alter ego Meridian privi della stessa tecnologia. Il balzo tecnologico sembrava aver causato un problema non da poco nei flussi di lavoro del dipartimento di assistenza tecnica.
+Emma aggiunse al proprio archivio una colonna accanto alle richieste di assistenza: dispositivi con chip, dispositivi senza. Le due curve non si somigliavano.
 
-Poco prima della fine del turno controllò la casella di Elab un'ultima volta, rimase lì in attesa fino al termine dell'orario di lavoro.
+Poco prima della fine del turno controllò la casella di Elab un'ultima volta. Rimase con l'inbox aperta fino all'ultimo minuto utile. Alle diciassette in punto la chiuse, vuota com'era.
 
 ## Demolition Log
 
@@ -42,3 +42,13 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta, r
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Due abitudini diverse dichiarate entrambe come la prima cosa di ogni mattina: la pipeline di scraping ("ogni mattina, prima di qualunque altra cosa", cap. 10) e il controllo della casella ("come ogni mattina, la prima cosa che fece", cap. 11). | contradiction | integrated (v2.0) | Non corretta come svista ma trasformata in deviazione: quel giorno la casella scavalca il processo del mattino ("Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio"). La disciplina del cap. 10 resta intatta e diventa il metro con cui misurare lo scarto. È il primo cedimento visibile di Emma, dieci capitoli prima della mail delle 23:34 (cap. 21), registrato dal narratore senza commento: mostrare i parallelismi, non spiegarli. |
+
+### Cycle 2 — 2026-10-10 (revisione cross-capitolo esterna)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| R-110 La risposta di Emma a Tom non viene mai mostrata | missing scene | deferred | Rinviata al cap. 17: Tom la legge in un breve flashback (regola POV, `mappa-eventi.md` punto 10.6). |
+| R-111 Correlazione traffico eBlog (smoothie) / chiamata per il frigorifero: anticipo del cap. 14? | rule (early reveal) | integrated (v2.0) | Conforme: Emma annota il dato senza dedurre; il payoff del cap. 14 resta intatto. Indizio per il lettore attento. |
+| R-112 Narratore esplicativo ("Ad un occhio superficiale… soggetti meno affidabili") | rule violation | integrated (v2.0) | Paragrafo sostituito da un gesto: la colonna "con chip / senza" nell'archivio, "Le due curve non si somigliavano." |
+| R-113 "non è detto che dovesse coincidere" | grammar | integrated (v2.0) | → "non era detto che coincidesse". |
+| R-114 Capitolo-elenco di task, poca tensione | pacing | integrated (v2.0) | L'attesa della risposta diventa scena nel finale (inbox aperta fino alle diciassette, chiusa vuota). |
