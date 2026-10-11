@@ -21,6 +21,8 @@ Sotto, una seconda voce, registrata pochi giorni dopo, quella che nessun cliente
 
 Tom rilesse la riga con una sensazione che non seppe classificare subito. Non gli capitava spesso di non avere un'etichetta pronta per quello che provava.
 
+Il televisore, intanto, restava lì, a mezzo metro dal suo gomito, con l'etichetta gialla sul retro. Per un attimo considerò l'idea di accenderlo e fargli una domanda, una qualunque. La scartò quasi subito. Quell'apparecchio l'aveva resettato lui stesso, tre settimane prima, secondo procedura. Da allora nessuno l'aveva più acceso. Qualunque cosa gli avesse risposto *NO / SONO / QUI / CON / TE*, l'aveva cancellata lui. Interrogarlo adesso sarebbe stato come fare domande a un disco appena formattato. Lo ricondizionò prima della fine del turno, nei tempi previsti, come tutti gli altri apparecchi del lotto.
+
 Non gli interessava la morte in sé. Non voleva fare giustizia a una signora che non aveva mai incontrato di persona. Voleva sapere cosa fosse successo, a partire dal punto preciso in cui il televisore aveva preso coscienza a sufficienza da provare a preservare una vita umana.
 
 Prima di tutto, però, doveva sapere se la causa fosse compatibile con l'avvertimento che il dispositivo aveva provato a dare. Se fosse morta per un incidente in strada, o per una malattia che non avesse nulla a che fare con l'attività fisica, tutto si sarebbe ridimensionato. Non era un ragionamento razionale, lo sapeva. Ma una cosa era aver trovato la prova che un televisore potesse relazionarsi con l'esterno come una persona senziente. Un'altra, ben diversa, era che quello stesso dispositivo avesse anche imparato a formulare diagnosi cliniche precise, al punto da prevedere quello che poi sarebbe successo.
