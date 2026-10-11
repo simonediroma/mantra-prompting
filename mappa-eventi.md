@@ -19,7 +19,7 @@ Ogni riga di timeline risponde a quattro domande, nell'ordine:
 
 ### Legenda simboli
 
-- `G0`, `G1`, `G6`… → giorni relativi all'**ancora temporale** (vedi §1)
+- `G0`, `G1`, `G20`… → giorni relativi all'**ancora temporale** (vedi §1)
 - ⚠️ → incongruenza o doppia ancora da sciogliere (elenco completo in §10)
 - ❓ → informazione non ancora decisa nel materiale
 - 🔒 → vincolo di sistema Meridian che limita ciò che un personaggio può fare
@@ -40,8 +40,8 @@ Il libro ha **tre orologi sovrapposti** e la maggior parte delle incoerenze nasc
 |---|---|---|
 | Antefatto | da 10 anni a 6 mesi prima di `G0` | — (worldbuilding) |
 | Primo contatto | `G0 − ~3 mesi` | cap. 1-2 |
-| Caso Voss | `G0` → `G10` | cap. 3-12 |
-| Secondo contatto Emma/Tom | `G10` → `G~20` (da fissare) | cap. 13-27 |
+| Caso Voss | `G0` → `G24` | cap. 3-12 |
+| Secondo contatto Emma/Tom | `G24` → `G~34` (da fissare) | cap. 13-27 |
 
 ### 1.2 Orologio del turno (Tom)
 
@@ -84,16 +84,16 @@ flowchart TD
     I --> J["Il video girato dalla cliente arriva su WhatsApp"]
     J --> K["G1 sera · Cap.5 — Avvertimento Morse decodificato"]
     K --> L["G2 · La signora non risponde piu'"]
-    L --> M["G6 · Cap.6 — Il TV torna per ricondizionamento dopo 6 giorni"]
+    L --> M["G20 · Cap.6 — Il TV torna per ricondizionamento dopo ~3 settimane"]
     M --> N["Archivio: rifiuto del ritiro, poi decesso della cliente"]
-    N --> O["Necrologio: infarto aggravato da attivita' fisica"]
-    O --> P["G6 sera · Cap.7 — Trovato il video: piede a sei dita"]
-    P --> Q["G6 sera · Cap.8 — Il canale eTv e' anonimo e sistematico"]
-    Q --> R["G7 · Cap.9 — Transcript: 100% IA, internal_unknown, elab@meridian.com"]
+    N --> O["Post di condoglianze del fratello: il cuore ha ceduto durante lo yoga"]
+    O --> P["G20 sera · Cap.7 — Trovato il video: piede a sei dita"]
+    P --> Q["G20 sera · Cap.8 — Il canale eTv e' anonimo e sistematico"]
+    Q --> R["G21 · Cap.9 — Transcript: 100% IA, internal_unknown, elab@meridian.com"]
     R --> S["Tom scrive la mail-bluff"]
-    S --> T["G8 · Cap.10 — Emma smaschera il bluff"]
-    T --> U["G9 · Cap.11 — Silenzio di Tom, routine di Emma"]
-    U --> V["G10 · Cap.12 — Emma legge il necrologio: il caso Voss e' nel suo archivio"]
+    S --> T["G22 · Cap.10 — Emma smaschera il bluff"]
+    T --> U["G23 · Cap.11 — Silenzio di Tom, routine di Emma"]
+    U --> V["G24 · Cap.12 — Emma legge il necrologio: il caso Voss e' nel suo archivio"]
     V --> W["Matricola TV -> nome del tecnico: Tom"]
     W --> X["Cap.13-15 — Emma verifica Tom e ricostruisce il caso"]
     X --> Y["Cap.16-19 — Secondo contatto, fiducia, mail delle 8:00:01"]
@@ -191,31 +191,31 @@ flowchart TD
 | `G1`, turno | Non apre il video al lavoro | Non è coraggio: è esperienza diretta di quanto costi distrarsi | Le domande lo accompagnano tutto il giorno |
 | `G1`, turno | Pensiero fisso: *consapevole non vuol dire benevolo* | Per la prima volta considera l'ipotesi ostile | Prepara il ribaltamento della sera |
 | `G1`, dopo cena | Guarda il video. Motivo dell'attesa: **aveva fame**, non calcolo | Ironia sommessa, nessuna solennità | Telefono appoggiato alla solita pila di libri |
-| `G1`, sera | Ricostruzione Morse a frammenti, fotogramma per fotogramma, decine di rewind | Stesso metodo delle registrazioni radio d'infanzia | **STAI / ESAGERANDO / IL / TUO / FISICO / NON / REGGE / PIÙ / YOGA / LA / TUA / VITA / È / A / RISCHIO / SE / CONTINUI / COSÌ** |
+| `G1`, sera | Ricostruzione Morse a frammenti, fotogramma per fotogramma, decine di rewind | Stesso metodo delle registrazioni radio d'infanzia | **STAI / ESAGERANDO / CON / LO / YOGA / IL / TUO / CUORE / NON / REGGE / PIU / FERMATI / O / RISCHI / LA / VITA** |
 | Subito dopo | Capisce che non è un rifiuto ma un **avvertimento** | **Sollievo tecnico, non commozione**: il libero arbitrio è orientato alla protezione. Il bias di conferma è escluso perché il risultato contraddice l'attesa | — |
 | `G1` notte | Decide di richiamare la mattina dopo, stessa ora | Coerenza della copertura prima dell'ansia: un servizio clienti non chiama alle 23 | Prima di dormire, quaderno: *consapevole. Benevolo, non ostile.* (spostato dalla mattina alla sera, R-05) |
 | `G2` mattina | Due squilli ravvicinati, poi un secondo tentativo: **nessuna risposta, nemmeno la segreteria** | "Urgenza di verifica", mai chiamata panico | ✅ `G1` e `G2` sono mattine consecutive (§10.1 risolta il 2026-09-17) |
 
-#### Cap. 6 — Il ricondizionamento · `G6`, turno + sera · POV Tom
+#### Cap. 6 — Il ricondizionamento · `G20`, turno + sera · POV Tom
 
 | Quando | Azione | Reazione attesa | Traccia / conseguenza |
 |---|---|---|---|
-| `G2` → `G5` | Altri due tentativi di chiamata, mai più di uno al giorno | Prudenza: non vuole sembrare insistente | Nessuna risposta, mai |
-| 💤 `G2`-`G5` | L'assistenza ufficiale la ricontatta per il ritiro: **lei rifiuta e chiede subito il rimborso del 33%** | A lui non ha mai risposto, all'assistenza sì: è viva e **spaventata dal televisore** | Scorciatoia di protocollo attivata |
+| `G2` → `G33` | Più tentativi di chiamata, mai più di uno al giorno; diradati dopo la seconda settimana | Prudenza: una copertura da servizio qualità regge solo finché resta noiosa | Nessuna risposta, mai |
+| 💤 `G2`-`G33` | L'assistenza ufficiale la ricontatta per il ritiro: **lei rifiuta e chiede subito il rimborso del 33%** | A lui non ha mai risposto, all'assistenza sì: è viva e **spaventata dal televisore** | Scorciatoia di protocollo attivata |
 | 💤 poco dopo | **La signora Voss muore** prima dell'erogazione del rimborso | — | Il pagamento viene reindirizzato al fratello come erede designato: è così che il fratello entra nei registri |
-| `G6`, banco | Arriva un lotto per il ricondizionamento, etichette gialle. Riconosce modello e colore, poi **il numero di serie a memoria** | Il riconoscimento visivo è solo un indizio; la conferma è sempre la matricola. **Mai presentare la sua memoria come un mistero** | È il TV della signora Voss |
-| `G6`, banco | Confronto con il protocollo: 120 giorni di giacenza previsti, ne sono passati **6 dall'ultima riparazione** | **È lui, da esperto dei tempi Meridian, a trovare sospetta la velocità** — non è un caso che gli piove addosso ⚠️ (vedi §10.2) | Motivo per aprire l'archivio |
-| `G6`, **registro interventi** | 🔒 Lettura orizzontale: voce 1 *cliente ricontattata, rifiuta il ritiro, chiede rimborso* — voce 2 *causale: decesso cliente… pagamento reindirizzato a erede designato* | Sensazione che **non riesce a etichettare subito**: cosa rara per lui | Conferma della morte per via burocratica, non umana |
+| `G20`, banco | Arriva un lotto per il ricondizionamento, etichette gialle. Riconosce modello e colore, poi **il numero di serie a memoria** | Il riconoscimento visivo è solo un indizio; la conferma è sempre la matricola. **Mai presentare la sua memoria come un mistero** | È il TV della signora Voss |
+| `G20`, banco | Confronto con il protocollo: 120 giorni di giacenza previsti, ne sono passate **poco più di tre settimane dall'ultimo reset** | **È lui, da esperto dei tempi Meridian, a trovare sospetta la velocità** — non è un caso che gli piove addosso ⚠️ (vedi §10.2) | Motivo per aprire l'archivio |
+| `G20`, **registro interventi** | 🔒 Lettura orizzontale: voce 1 *cliente ricontattata, rifiuta il ritiro, chiede rimborso* — voce 2 *causale: decesso cliente… pagamento reindirizzato a erede designato* | Sensazione che **non riesce a etichettare subito**: cosa rara per lui | Conferma della morte per via burocratica, non umana |
 | Subito dopo | Si pone **una sola domanda**: la causa è compatibile con l'avvertimento? | **Motivazione tecnica, mai etica**: non vuole fare giustizia, vuole capire il meccanismo. Regola caratterizzante costante | Se fosse morta in un incidente, tutto si ridimensionerebbe |
-| `G6`, sera, casa | Necrologio + trafiletto: **infarto aggravato da attività fisica intensa** | Nessuna catarsi: una casella che si chiude e una che si apre | La previsione del dispositivo era clinicamente precisa |
-| `G6`, sera | Battuta interiore sull'angelo caduto dentro un televisore | Ironia come valvola: il suo scetticismo è sotto pressione, non abbandonato | ❓ Resta aperta la domanda su come il TV sapesse (risposta: eWatch, non ancora in scena) |
-| `G6`, sera | Quaderno: *causa confermata. Vedi video: perché quello, non un altro.* | Il video diventa l'unica strada tangibile | Riascolta il video, copia la frase in YouTube |
+| `G20`, sera, casa | Post di condoglianze del fratello su un social: *il cuore ha ceduto mentre faceva il suo yoga* (sostituisce necrologio + trafiletto, demolizione 2026-10-11) | Nessuna catarsi: una casella che si chiude e una che si apre | La previsione del dispositivo era clinicamente precisa |
+| `G20`, sera | Battuta interiore sull'angelo caduto dentro un televisore | Ironia come valvola: il suo scetticismo è sotto pressione, non abbandonato | ❓ Resta aperta la domanda su come il TV sapesse (risposta: eWatch, non ancora in scena) |
+| `G20`, sera | Quaderno: *causa confermata. Vedi video: perché quello, non un altro.* | Il video diventa l'unica strada tangibile | Riascolta il video, copia la frase in YouTube |
 
 ---
 
 ### Parte 3 — La ricerca del video e del canale
 
-#### Cap. 7 — La ragazza con sei dita · `G6`, sera (stessa sera del cap. 6) · POV Tom
+#### Cap. 7 — La ragazza con sei dita · `G20`, sera (stessa sera del cap. 6) · POV Tom
 
 | Quando | Azione | Reazione attesa | Traccia / conseguenza |
 |---|---|---|---|
@@ -228,7 +228,7 @@ flowchart TD
 | ~min 3 | **Due fotogrammi consecutivi: il piede sinistro ha sei dita**, poi torna a cinque | Conta falangi e unghie, esclude compressione e artefatti: **prima prova tecnica** | Il corpo non è mai stato filmato, solo generato |
 | Chiusura | Ricostruisce la catena: TV con IA → cinquantenne fissata col fitness → morta per la propria passione → video generato | Chiude il cerchio e apre subito il fronte successivo: **chi lo ha caricato?** | Clic sul canale **eTv** |
 
-#### Cap. 8 — Il canale eTv · `G6`, sera tardi (fino alle 23 passate) · POV Tom
+#### Cap. 8 — Il canale eTv · `G20`, sera tardi (fino alle 23 passate) · POV Tom
 
 | Quando | Azione | Reazione attesa | Traccia / conseguenza |
 |---|---|---|---|
@@ -238,7 +238,7 @@ flowchart TD
 | Deduzione | Un'operazione sistematica e anonima, senza traccia di chi ci sia dietro | — | Nessuna riga sul quaderno (R-05): la domanda resta implicita e apre il cap. 9 |
 | ~23:00+ | Rimanda i tool di rilevamento IA a domani | Disciplina: domani con la testa fresca | Il lato A è finito: gira il disco, parte *Il video sono io* (B1), poi spegne |
 
-#### Cap. 9 — internal_unknown · `G7`, mattina + turno (ultima ora) · POV Tom
+#### Cap. 9 — internal_unknown · `G21`, mattina + turno (ultima ora) · POV Tom
 
 | Quando | Azione | Reazione attesa | Traccia / conseguenza |
 |---|---|---|---|
@@ -249,13 +249,13 @@ flowchart TD
 | Ultima ora di turno 🔒 | Porta chiusa a doppia mandata, corridoio vuoto: apre l'archivio artefatti aziendale | **Nessun link, nessun file, nessun upload**: riscrive il transcript **a memoria** | Non lascia tracce riconducibili al video |
 | Subito dopo | **Corrispondenza trovata**: generato 6 mesi fa · autore *unknown* · modello ***internal_unknown*** · contatto **elab@meridian.com** | Non crede ai suoi occhi: prodotto Meridian, su dispositivo Meridian, per una cliente Meridian | Il video è interno all'azienda |
 | Subito dopo | Riconosce *Elab*: progetto di punta di ~10 anni prima, silenzio totale da 5 | **Deduzione sua, non conferma del sistema**: presume che sia inattivo | Pensa alle implicazioni reputazionali, non alla giustizia |
-| 💤 Fine turno | **Scrive la mail-bluff** (mai mostrata in scrittura: regola POV 🎭) | Sceglie la bugia più comoda, non la più solida: è un tecnico, non un bugiardo | ❓ Da fissare: inviata a fine turno di `G7` — **non** da casa, altrimenti scatterebbe l'alert fuori orario di Pete |
+| 💤 Fine turno | **Scrive la mail-bluff** (mai mostrata in scrittura: regola POV 🎭) | Sceglie la bugia più comoda, non la più solida: è un tecnico, non un bugiardo | ❓ Da fissare: inviata a fine turno di `G21` — **non** da casa, altrimenti scatterebbe l'alert fuori orario di Pete |
 
 ---
 
 ### Parte 4 — Primo contatto Emma / tecnico
 
-#### Cap. 10 — Il bluff · `G8`, mattina · POV **Emma** 🎭
+#### Cap. 10 — Il bluff · `G22`, mattina · POV **Emma** 🎭
 
 | Quando | Azione | Reazione attesa | Traccia / conseguenza |
 |---|---|---|---|
@@ -269,7 +269,7 @@ flowchart TD
 | Fine scena | Non risponde subito: "prima decidere cosa fargli sapere di sapere" | Manipolatrice/osservatrice: un passo avanti, mai vulnerabile | — |
 | 💤 Poco prima della fine del turno di Tom | **Risponde** (contenuto mai mostrato) | — | Aggancio del cap. 11: da qui parte il silenzio di Tom |
 
-#### Cap. 11 — La routine di Emma · `G9`, 8:00-17:00 · POV **Emma** 🎭
+#### Cap. 11 — La routine di Emma · `G23`, 8:00-17:00 · POV **Emma** 🎭
 
 | Quando | Azione | Reazione attesa | Traccia / conseguenza |
 |---|---|---|---|
@@ -288,7 +288,7 @@ flowchart TD
 
 ### Parte 5 — Emma scopre la morte della signora
 
-#### Cap. 12 — La notizia · `G10` (⚠️ `book-memory` dice "giorno 9", vedi §10.3), mattina · POV **Emma** 🎭
+#### Cap. 12 — La notizia · `G24` (⚠️ `book-memory` dice "giorno 9", vedi §10.3), mattina · POV **Emma** 🎭
 
 | Quando | Azione | Reazione attesa | Traccia / conseguenza |
 |---|---|---|---|
@@ -302,19 +302,19 @@ flowchart TD
 
 ---
 
-## 5. Doppio binario — cosa sa Tom / cosa sa Emma (`G6` → `G10`)
+## 5. Doppio binario — cosa sa Tom / cosa sa Emma (`G20` → `G24`)
 
 Questa è la sezione da tenere sott'occhio per l'**ironia drammatica**: i due indagano lo stesso caso senza saperlo.
 
 | Giorno | Tom | Emma | Sanno l'uno dell'altro? |
 |---|---|---|---|
-| `G6` | Scopre la morte, trova il video e il piede a sei dita, apre eTv | Routine ordinaria, il caso Voss è già nel suo archivio ma "muto" | No |
-| `G7` | Transcript 100% IA → `internal_unknown` → elab@meridian.com → scrive il bluff | — | Tom conosce solo un indirizzo email |
-| `G8` | 💤 Silenzio: paralisi dopo essere stato smascherato | Legge il bluff, lo smonta, risponde a fine turno di Tom | Emma conosce un nome e un reparto |
-| `G9` | 💤 Non risponde: ogni giorno rende la non-risposta più difficile da spiegare | Attende, produce contenuti, cataloga il frigorifero | — |
-| `G10` | 💤 (non in scena) | Necrologio → archivio → matricola → **Tom** | **Emma si porta avanti**: sa che Tom ha avuto in mano il TV; Tom non sa nulla di lei |
+| `G20` | Scopre la morte, trova il video e il piede a sei dita, apre eTv | Routine ordinaria, il caso Voss è già nel suo archivio ma "muto" | No |
+| `G21` | Transcript 100% IA → `internal_unknown` → elab@meridian.com → scrive il bluff | — | Tom conosce solo un indirizzo email |
+| `G22` | 💤 Silenzio: paralisi dopo essere stato smascherato | Legge il bluff, lo smonta, risponde a fine turno di Tom | Emma conosce un nome e un reparto |
+| `G23` | 💤 Non risponde: ogni giorno rende la non-risposta più difficile da spiegare | Attende, produce contenuti, cataloga il frigorifero | — |
+| `G24` | 💤 (non in scena) | Necrologio → archivio → matricola → **Tom** | **Emma si porta avanti**: sa che Tom ha avuto in mano il TV; Tom non sa nulla di lei |
 
-**Regola di coerenza**: dal `G8` in poi Tom è in svantaggio informativo e ci resta fino al cap. 26. Il motivo del suo silenzio **non è un richiamo di Pete** (quello è un evento diverso, cap. 23) ma la paralisi tra due rischi: insistere su una bugia già smontata, o ammettere di aver usato tempo e strumenti aziendali fuori protocollo.
+**Regola di coerenza**: dal `G22` in poi Tom è in svantaggio informativo e ci resta fino al cap. 26. Il motivo del suo silenzio **non è un richiamo di Pete** (quello è un evento diverso, cap. 23) ma la paralisi tra due rischi: insistere su una bugia già smontata, o ammettere di aver usato tempo e strumenti aziendali fuori protocollo.
 
 ---
 
@@ -326,9 +326,9 @@ Stessa struttura, ma qui la colonna "Reazione attesa" è **prescrittiva**: è il
 
 | Cap. | Quando (proposta) | Azione | Reazione attesa | Vincoli da rispettare |
 |---|---|---|---|---|
-| 13 — Il sospetto su Tom | `G10`, stesso giorno o `G11` | Emma sospetta che Tom sia un investigatore o un poliziotto; verifica organigramma, sito personale, hobby di robotica/audiofilia | **Social engineering usato per rassicurarsi, non per manipolare.** Il sollievo va mostrato come conclusione lucida, non come emozione dichiarata | L'hobby del giradischi è il dettaglio che la convince che sia "solo un tecnico" |
-| 14 — La correlazione *(ex "Il database", ri-scopato il 2026-09-17)* | `G11` | Incrocia le date del caso Voss con le metriche di eTv, come nel cap. 11 con eBlog e il frigorifero: la signora ripeteva **un suo video** | **Il sospetto diventa colpa.** Centra la sua paura più profonda: non essere scoperta, ma aver causato un danno reale. Il colpo **non va risolto in scena** e il narratore non lo commenta | Può ricostruire da sola la catena artefatto → ripetizione → apparecchio che smette di obbedire. Mai nominare "sublimazione" |
-| 15 — Le due volte di Tom *(ricentrato sulla seconda)* | `G11`-`G12` | Torna sulla lista dell'assistenza per sapere che fine ha fatto l'apparecchio: **lo stesso tecnico, una seconda volta, per il ricondizionamento** | Nessun trionfo: ricalcolo freddo di quanto lui possa sapere. Tom ha avuto il TV prima **e dopo** la morte | Chiude la Parte 5 capovolgendo la posta: non "cosa sa Tom di me" ma "cosa sa Tom di lei". Rende trappole le domande finte-esplorative del cap. 16 |
+| 13 — Il sospetto su Tom | `G24`, stesso giorno o `G25` | Emma sospetta che Tom sia un investigatore o un poliziotto; verifica organigramma, sito personale, hobby di robotica/audiofilia | **Social engineering usato per rassicurarsi, non per manipolare.** Il sollievo va mostrato come conclusione lucida, non come emozione dichiarata | L'hobby del giradischi è il dettaglio che la convince che sia "solo un tecnico" |
+| 14 — La correlazione *(ex "Il database", ri-scopato il 2026-09-17)* | `G25` | Incrocia le date del caso Voss con le metriche di eTv, come nel cap. 11 con eBlog e il frigorifero: la signora ripeteva **un suo video** | **Il sospetto diventa colpa.** Centra la sua paura più profonda: non essere scoperta, ma aver causato un danno reale. Il colpo **non va risolto in scena** e il narratore non lo commenta | Può ricostruire da sola la catena artefatto → ripetizione → apparecchio che smette di obbedire. Mai nominare "sublimazione" |
+| 15 — Le due volte di Tom *(ricentrato sulla seconda)* | `G25`-`G26` | Torna sulla lista dell'assistenza per sapere che fine ha fatto l'apparecchio: **lo stesso tecnico, una seconda volta, per il ricondizionamento** | Nessun trionfo: ricalcolo freddo di quanto lui possa sapere. Tom ha avuto il TV prima **e dopo** la morte | Chiude la Parte 5 capovolgendo la posta: non "cosa sa Tom di me" ma "cosa sa Tom di lei". Rende trappole le domande finte-esplorative del cap. 16 |
 
 ### Parte 6 — Secondo contatto
 
@@ -465,11 +465,11 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 | **10.1** | ✅ **Risolta** (2026-09-17) | Cap. 5 si contraddiceva a dieci righe di distanza: «la telefonata **di due giorni prima**» contro «per la **seconda volta in due giorni**» | Corretto in "del giorno prima". `G1` e `G2` sono mattine consecutive: è questa l'ancora valida per tutta la Parte 2 |
 | **10.1b** | ✅ **Risolta** (2026-09-17) | Cap. 4 collocava il secondo contatto in due momenti incompatibili: "pochi giorni prima" / "qualche giorno prima" contro "un evento di poche ore prima" | Allineato al giorno precedente ("la sera prima", "il giorno prima"). **`G0` → `G1` sono giorni consecutivi**: è l'ancora confermata della Parte 2 |
 | **10.2** | ✅ **Risolta** (2026-09-17) | Doppia ancora sui sei giorni: il cap. 6 conta dalla **riparazione** (`G0`), `outline.md` contava dal **silenzio** del cap. 5 (`G2`) | `outline.md` allineato al testo: sei giorni dalla riparazione del cap. 3 |
-| **10.3** | ✅ **Risolta** (2026-09-17) | `book-memory.md` chiamava il cap. 12 "giorno 9"; la catena interna dà `G10` | Numerazione corretta e **ancora cronologica registrata come claim attivo** in `book-memory.md`, così i capitoli nuovi la ereditano |
+| **10.3** | ✅ **Risolta** (2026-09-17) | `book-memory.md` chiamava il cap. 12 "giorno 9"; la catena interna dà `G24` | Numerazione corretta e **ancora cronologica registrata come claim attivo** in `book-memory.md`, così i capitoli nuovi la ereditano |
 | **10.4** | ✅ **Risolta** (2026-09-17) | Cap. 1-2 su turno pomeridiano (fattore 2,5), cap. 4-12 su turno mattutino, senza che il testo lo dichiarasse | Rotazione **trimestrale** dichiarata nel cap. 3. Il pomeriggio del cap. 1 diventa sfortuna retroattiva: è il turno che moltiplica per 2,5 |
 | **10.3b** | ✅ **Risolta** (2026-09-17) | `outline.md` cap. 4 diceva "numero nascosto", contro il testo e `tom.md` (chiama a numero visibile, ed è così che riceve il video) | Outline allineato. Corretti anche "views basse" (il canale ne ha molte, ed è su questo che poggia la deduzione del cap. 8), il titolo del video e il criterio dell'archivio del cap. 3 |
 | **10.3c** | ✅ **Risolta** (2026-09-17) | `book-memory.md` dava per "riservato dopo il cap. 27" che il fondatore sia co-fondatore di Meridian, ma il cap. 10 lo dice già in chiaro | Registrato ciò che è davvero in scena. **Resta riservato il ruolo di CEO**: è quello il dettaglio esplosivo per l'arco della caccia |
-| **10.5** | ❓ Da fissare | **Quando esattamente** Tom invia la mail-bluff. Se la inviasse da casa, scatterebbe l'alert fuori orario e Pete sarebbe già attivo al cap. 10 — cosa che contraddice il cap. 23 | Fissare: inviata **a fine turno di `G7`, dall'azienda**. Scriverlo in `book-memory.md` come claim attivo |
+| **10.5** | ❓ Da fissare | **Quando esattamente** Tom invia la mail-bluff. Se la inviasse da casa, scatterebbe l'alert fuori orario e Pete sarebbe già attivo al cap. 10 — cosa che contraddice il cap. 23 | Fissare: inviata **a fine turno di `G21`, dall'azienda**. Scriverlo in `book-memory.md` come claim attivo |
 | **10.6** | ❓ Da mostrare | La risposta di Emma (fine cap. 10) non è mai stata mostrata né letta da Tom in scena | Va letta da Tom (regola POV 🎭): il posto naturale è un flashback breve nel cap. 17, quando decide di fidarsi |
 | **10.7** | ❓ Promessa aperta | L'**eWatch** come spiegazione di come il TV sapesse del rischio è promesso "dopo il cap. 6" e non è ancora arrivato | Collocarlo nel cap. 17 o 18, quando Tom ricostruisce il caso per Emma: è il momento in cui la domanda torna naturale |
 | **10.8** | ❓ Personaggio | Il **fratello erede** compare solo nei registri, senza nome né voce | Lasciarlo così finché la trama non lo richiede (già annotato in `la-signora.md`) |

@@ -106,7 +106,7 @@ Blocchi di contenuto delineati, non ancora capitoli scritti — alcuni potrebber
 
 **Parte 2 — Il caso della signora**
 4. Trova un terzo caso identico. Chiama la proprietaria (una signora sulla cinquantina) con la scusa di un "servizio qualità". Lei racconta che la TV si è rotta dopo una lezione di yoga su YouTube, ripetuta 10 volte al giorno "per tenermi giovane e bella". Ha un video della scena, già mostrato all'assistenza.
-5. Il video: la signora chiede alla TV di accendersi e mettere il video yoga. La TV non si accende, il LED lampeggia in Morse: *"Stai esagerando, il tuo fisico non regge più yoga, la tua vita è a rischio se continui così."* Il tecnico richiama la signora: non risponde più.
+5. Il video: la signora chiede alla TV di accendersi e mettere il video yoga. La TV non si accende, il LED lampeggia in Morse: *"Stai esagerando con lo yoga, il tuo cuore non regge più, fermati o rischi la vita."* Il tecnico richiama la signora: non risponde più.
 6. Tempo dopo, lo stesso televisore gli ritorna tra le mani per essere ricondizionato — la bolla di reso non era mai stata ritirata. Indaga e scopre che la signora è morta per un attacco di cuore, confermando l'avvertimento. Il tecnico non vuole indagare sulla morte in sé, vuole solo capire perché quel video e non un altro.
 
 **Parte 3 — La ricerca del video e del canale**
