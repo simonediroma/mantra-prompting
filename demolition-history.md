@@ -130,8 +130,8 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| TV sul banco ignorato; ricondizionamento mai mostrato | logical / foundation | resolved | Tom sa che il reset del cap. 3 ha già cancellato tutto; ricondiziona nello stesso turno, come routine. |
-| "Diagnosi clinica precisa" vs Morse generico | logical / claim | resolved | Morse del cap. 5 reso specifico sul cuore (impatto su cap. 5, outline, mappa-eventi, contesto-romanzo-emma). |
-| Salto logico video → presa di coscienza | logical (pattern) | resolved | Intuizione disperata dichiarata, fondata sui cap. 4-5; cap. 1 resta un'incognita per Tom. |
-| Cronologia burocratica compressa in ≤4 giorni | contradiction | resolved | Dilatata a ~3 settimane (G6 → ~G20, G successivi scalano). Più tentativi di chiamata da parte di Tom. |
-| Necrologio con diagnosi clinica | external / plausibility | resolved | Fonte → post di condoglianze del fratello/parenti; articolo del cap. 12 escluso (data incompatibile, foto eWatch). |
+| TV sul banco ignorato; ricondizionamento mai mostrato | logical / foundation | integrated (v4.0) | Tom sa che il reset del cap. 3 ha già cancellato tutto; ricondiziona nello stesso turno, come routine. |
+| "Diagnosi clinica precisa" vs Morse generico | logical / claim | integrated (v4.0) | Morse del cap. 5 reso specifico sul cuore (impatto su cap. 5, outline, mappa-eventi, contesto-romanzo-emma). |
+| Salto logico video → presa di coscienza | logical (pattern) | integrated (v4.0) | Intuizione disperata dichiarata, fondata sui cap. 4-5; cap. 1 resta un'incognita per Tom. |
+| Cronologia burocratica compressa in ≤4 giorni | contradiction | integrated (v4.0) | Dilatata a ~3 settimane (G6 → ~G20, G successivi scalano). Più tentativi di chiamata da parte di Tom. |
+| Necrologio con diagnosi clinica | external / plausibility | integrated (v4.0) | Fonte → post di condoglianze del fratello/parenti; articolo del cap. 12 escluso (data incompatibile, foto eWatch). |
