@@ -27,7 +27,7 @@ Non gli interessava la morte in sé. Non voleva fare giustizia a una signora che
 
 Prima di tutto, però, doveva sapere se la causa fosse compatibile con l'avvertimento che il dispositivo aveva provato a dare. Se fosse morta per un incidente in strada, o per una malattia che non avesse nulla a che fare con l'attività fisica, tutto si sarebbe ridimensionato. Non era un ragionamento razionale, lo sapeva. Ma una cosa era aver trovato la prova che un televisore potesse relazionarsi con l'esterno come una persona senziente. Un'altra, ben diversa, era che quello stesso dispositivo avesse anche imparato a formulare diagnosi cliniche precise, al punto da prevedere quello che poi sarebbe successo.
 
-Lo cercò quella sera, da casa: chiaramente non era il tipo di ricerca da fare al lavoro. Bastò poco: un necrologio locale, un trafiletto di cronaca. Attacco di cuore, aggravato da un'attività fisica intensa. Purtroppo nessuna morte accidentale o improvvisa, nessun incidente o coincidenza sfortunata: la signora Voss era deceduta esattamente per la causa che il televisore aveva previsto.
+Lo cercò quella sera, da casa: chiaramente non era il tipo di ricerca da fare al lavoro. Bastò poco. Sotto il nome della signora Voss, su un social, c'era un post del fratello, con una foto di qualche anno prima e poche righe asciutte: *Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.* Sotto, una fila di condoglianze. Niente incidenti né coincidenze sfortunate: il cuore, proprio come aveva detto il televisore.
 
 Quello che restava ancora poco chiaro era se ci fosse una relazione tra il video rivisto in loop come un mantra dalla signora Voss e l'atto di presa di coscienza del televisore.
 
