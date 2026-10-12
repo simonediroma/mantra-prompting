@@ -13,7 +13,7 @@
 | Ch. 3 — Secondo contatto | 3 | 7 | 0 | 2 |
 | Ch. 4 — La chiamata alla signora | 4 | 7 | 0 | 0 |
 | Ch. 5 — L'avvertimento | 3 | 14 | 0 | 0 |
-| Ch. 6 — Il ricondizionamento | 3 | 13 | 0 | 1 |
+| Ch. 6 — Il ricondizionamento | 4 | 18 | 0 | 1 |
 | Ch. 7 — La ragazza con sei dita | 1 | 10 | 0 | 0 |
 | Ch. 8 — Il canale eTv | 1 | 3 | 0 | 2 |
 | Ch. 9 — internal_unknown | 2 | 6 | 0 | 0 |
@@ -32,6 +32,8 @@
 - **Struttura negativa "Non X. Non Y. Z."** usata come effetto: max 1 per capitolo.
 - **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
 - **Copia-incolla di descrizioni tra capitoli** (Elab cap. 9/10): ogni ripresa va riscritta dal POV del capitolo.
+
+- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa.
 
 Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ricorrenti):
 - **Fondamento di competenze tecniche non ancora giustificato dal profilo del personaggio** (visto sul cap. 1 con "compacting context" in Tom) — verificare ogni volta che un personaggio mostra conoscenza tecnica specifica.
@@ -123,3 +125,13 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | "Distanziando i tentativi apposta per non sembrare troppo insistente" non tornava con la scena del cap. 5, dove le due chiamate a vuoto erano ravvicinate nella stessa mattina per ansia, non distanziate. | contradiction | resolved | Chiarito lo schema: due squilli ravvicinati per occasione (come nel cap. 5), ma mai un tentativo al giorno — coerente con entrambe le scene. |
 | "Il televisore aveva provato ad avvertirla / a preservare una vita umana" era riaffermato tre volte ravvicinate nel capitolo, ridondante. | style / rhythm | resolved | Tagliata la ripetizione in apertura del paragrafo "Una cosa... restava certa", mantenuta solo la domanda aperta sulla relazione tra il video e la presa di coscienza. |
 | Il meccanismo dell'eWatch (setup nel cap. 3) non veniva mai ripreso nel caso della signora come promesso in `book-memory.md`, e per come definito (dotazione solo ai dipendenti) non poteva nemmeno spiegarsi sul suo caso (lei è una cliente). | foundation / broken promise | resolved | Chiarito (da `contesto-romanzo-emma.md`) che l'eWatch è anche un prodotto consumer: la signora ne possiede uno proprio, collegato alla sua TV. Reveal esplicito rimandato a un capitolo successivo al 6, quando Tom se lo chiederà. Aggiornati book-memory.md, meridian-technologies.md, tom.md, la-signora.md. |
+
+#### Cycle 4 — 2026-10-11 (prima demolizione dedicata)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| TV sul banco ignorato; ricondizionamento mai mostrato | logical / foundation | integrated (v4.0) | Tom sa che il reset del cap. 3 ha già cancellato tutto; ricondiziona nello stesso turno, come routine. |
+| "Diagnosi clinica precisa" vs Morse generico | logical / claim | integrated (v4.0) | Morse del cap. 5 reso specifico sul cuore (impatto su cap. 5, outline, mappa-eventi, contesto-romanzo-emma). |
+| Salto logico video → presa di coscienza | logical (pattern) | integrated (v4.0) | Intuizione disperata dichiarata, fondata sui cap. 4-5; cap. 1 resta un'incognita per Tom. |
+| Cronologia burocratica compressa in ≤4 giorni | contradiction | integrated (v4.0) | Dilatata a ~3 settimane (G6 → ~G20, G successivi scalano). Più tentativi di chiamata da parte di Tom. |
+| Necrologio con diagnosi clinica | external / plausibility | integrated (v4.0) | Fonte → post di condoglianze del fratello/parenti; articolo del cap. 12 escluso (data incompatibile, foto eWatch). |
