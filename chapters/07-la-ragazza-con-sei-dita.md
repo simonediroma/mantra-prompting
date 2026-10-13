@@ -53,3 +53,14 @@ Per un tecnico abituato a smontare le cose una vite alla volta, era già un buon
 | R-75 ", e contò di nuovo" | rule violation (', e') | integrated (v4.0) | Già risolta con R-03. |
 | R-76 Profilo "donna sulla cinquantina": Tom non conosce l'età | logic | integrated (v4.0) | "ricavato dal necrologio" (letto nel cap. 6). |
 | Controllo finale: ", e" in narrazione | rule violation (", e") | integrated (v4.0) | → "tornando ad analizzare". |
+
+### Cycle 2 — 2026-10-13 (demolizione dedicata)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Identificazione del video fondata su indizi deboli ("bella" circolare rispetto alla query, conto 15 min × 10 a 2x costruito a ritroso); le sei dita provano che il video è generato, non che sia quello della signora | logical (pattern ricorrente) | resolved | Nuovo tratto di Tom: metodo rigoroso nell'esecuzione ("prova e scarta", come nei guasti multipli), intuizione laterale per associazione di parole nella scelta della pista. L'autoinganno è voluto: Tom sta vacillando, è una tappa del suo arco. Lo scarto si vede (filtro, shortlist), la scelta finale è per intuizione. Da registrare in `characters/tom.md`. |
+| Sei dita: nessun innesco per notare 2 fotogrammi (~70 ms) a velocità piena/2x; l'app mobile di YouTube non va avanti un fotogramma alla volta | foundation / factual | resolved | Tom guarda il video sul PC, al desktop (tasti `,` `.`); nota il piede rallentando la riproduzione (0,25x), passo successivo del suo prova e scarta. Raccordare con la fine del cap. 6 (telefono). |
+| Apertura con tre paragrafi di digressione (giradischi, Matia Bazar, dogana) subito dopo il cliffhanger del cap. 6 | rhythm / structure | accepted-limitation | Scelta d'autore: la digressione resta dov'è. Il freno a mano sul più bello è voluto (modello: puntata "Fly" di *Breaking Bad*), dà respiro e colora il personaggio. |
+| Il Morse "STAI ESAGERANDO", conservato nel cap. 6 apposta per il cap. 7 e previsto dall'outline, non viene mai richiamato | contradiction / broken promise | resolved | Tom ripensa al Morse prima di scegliere il video: "esagerando" porta a "intensivo", che porta a "yoga fit"; poi "bella" conferma. |
+| "ricavato dal necrologio": la fonte del cap. 6 è un post del fratello; le dieci volte al giorno vengono dalla telefonata del cap. 4 | consistency | resolved | "necrologio" → post del fratello (età); citata la telefonata del cap. 4 per le dieci ripetizioni ("giovane e bella" disponibile come eco). |
+| Il finale descrive la pagina del canale (argomenti disparati, fabbrica di annunci), rubando la scoperta al cap. 8; ultima riga di commento del narratore | structure / voice | resolved | Tagliati il paragrafo sulla pagina del canale e l'ultima riga: il capitolo chiude su "cliccò sul nome del canale: eTv." |
