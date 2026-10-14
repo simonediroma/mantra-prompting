@@ -24,7 +24,7 @@
       "horror puro senza contrappunto ironico",
       "sentimentalismo diretto non filtrato dall'ironia",
       "voce narrante che moraleggia sull'etica dell'IA invece di mostrarla in scena",
-      "em dash (—) per introdurre frasi o proposizioni subordinate: usare la punteggiatura italiana standard (virgola, due punti, parentesi) invece del trattino lungo in questa funzione",
+      "em dash (—) per introdurre frasi o proposizioni subordinate: usare la punteggiatura italiana standard (virgola, punto, parentesi; niente due punti a metà frase, vedi R1 in style-rules.md) invece del trattino lungo in questa funzione",
       "una virgola seguita da 'e' come congiunzione della clausola successiva (', e ...') NELLA NARRAZIONE: la frase funziona identica senza, quindi la 'e' è sempre superflua — riformulare come due frasi separate o togliere la 'e'. Regola valida solo per la narrazione: nei DIALOGHI dei personaggi resta libera, è naturale nel parlato.",
       "metafore auliche, epiche o mitologizzanti per personaggi/istituzioni che devono restare piccoli o patetici (es. Pete): usare paragoni bassi, fisici, quasi scatologici invece",
       "paragrafi-lampo di una sola riga come chiusura filosofica o drammatica di una scena (es. \"Non era irripetibile.\")",

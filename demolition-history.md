@@ -147,4 +147,4 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | Digressione iniziale dopo il cliffhanger | rhythm / structure | accepted-limitation | Scelta d'autore (freno a mano sul più bello). |
 | Morse "STAI ESAGERANDO" mai richiamato | broken promise | resolved | Tom ripensa al Morse prima di scegliere il video. |
 | "Necrologio" e fonte del profilo errati | consistency | resolved | Post del fratello + telefonata del cap. 4. |
-| Finale anticipa il cap. 8 + riga di commento | structure / voice | resolved | Chiusura su "eTv". |
+| Finale anticipa il cap. 8 + riga di commento | structure / voice | resolved | Tagliata la pagina del canale; chiosa finale riscritta sull'intuizione di Tom ("seguire una parola non era il suo modus operandi abituale…"). |
