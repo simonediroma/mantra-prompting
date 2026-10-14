@@ -14,7 +14,7 @@
 | Ch. 4 — La chiamata alla signora | 4 | 7 | 0 | 0 |
 | Ch. 5 — L'avvertimento | 3 | 14 | 0 | 0 |
 | Ch. 6 — Il ricondizionamento | 4 | 18 | 0 | 1 |
-| Ch. 7 — La ragazza con sei dita | 1 | 10 | 0 | 0 |
+| Ch. 7 — La ragazza con sei dita | 2 | 15 | 0 | 1 |
 | Ch. 8 — Il canale eTv | 1 | 3 | 0 | 2 |
 | Ch. 9 — internal_unknown | 2 | 6 | 0 | 0 |
 | Ch. 10 — Il bluff | 1 | 5 | 0 | 2 |
@@ -33,7 +33,7 @@
 - **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
 - **Copia-incolla di descrizioni tra capitoli** (Elab cap. 9/10): ogni ripresa va riscritta dal POV del capitolo.
 
-- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa.
+- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
 
 Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ricorrenti):
 - **Fondamento di competenze tecniche non ancora giustificato dal profilo del personaggio** (visto sul cap. 1 con "compacting context" in Tom) — verificare ogni volta che un personaggio mostra conoscenza tecnica specifica.
@@ -51,7 +51,7 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 
 ## Accepted Limitations
 
-*Nessuna al momento.*
+- **Cap. 7**: digressione iniziale (giradischi, Matia Bazar, dogana) subito dopo il cliffhanger del cap. 6. Scelta d'autore: freno a mano voluto sul più bello.
 
 ---
 
@@ -135,3 +135,16 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | Salto logico video → presa di coscienza | logical (pattern) | integrated (v4.0) | Intuizione disperata dichiarata, fondata sui cap. 4-5; cap. 1 resta un'incognita per Tom. |
 | Cronologia burocratica compressa in ≤4 giorni | contradiction | integrated (v4.0) | Dilatata a ~3 settimane (G6 → ~G20, G successivi scalano). Più tentativi di chiamata da parte di Tom. |
 | Necrologio con diagnosi clinica | external / plausibility | integrated (v4.0) | Fonte → post di condoglianze del fratello/parenti; articolo del cap. 12 escluso (data incompatibile, foto eWatch). |
+
+### Ch. 7 — La ragazza con sei dita
+
+#### Cycle 2 — 2026-10-13 (demolizione dedicata)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Identificazione del video su indizi deboli; sei dita ≠ prova che sia il video della signora | logical (pattern) | integrated (v5.0) | Nuovo tratto di Tom: intuizione laterale dentro un metodo "prova e scarta"; autoinganno voluto come tappa dell'arco. |
+| Sei dita senza innesco; frame-by-frame impossibile su app mobile | foundation / factual | integrated (v5.0) | PC al desktop; nota il piede rallentando a 0,25x. |
+| Digressione iniziale dopo il cliffhanger | rhythm / structure | accepted-limitation | Scelta d'autore (freno a mano sul più bello). |
+| Morse "STAI ESAGERANDO" mai richiamato | broken promise | integrated (v5.0) | Tom ripensa al Morse prima di scegliere il video. |
+| "Necrologio" e fonte del profilo errati | consistency | integrated (v5.0) | Post del fratello + telefonata del cap. 4. |
+| Finale anticipa il cap. 8 + riga di commento | structure / voice | integrated (v5.0) | Tagliata la pagina del canale; chiosa finale riscritta sull'intuizione di Tom ("seguire una parola non era il suo modus operandi abituale…"). |
