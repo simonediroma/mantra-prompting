@@ -142,9 +142,9 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| Identificazione del video su indizi deboli; sei dita ≠ prova che sia il video della signora | logical (pattern) | resolved | Nuovo tratto di Tom: intuizione laterale dentro un metodo "prova e scarta"; autoinganno voluto come tappa dell'arco. |
-| Sei dita senza innesco; frame-by-frame impossibile su app mobile | foundation / factual | resolved | PC al desktop; nota il piede rallentando a 0,25x. |
+| Identificazione del video su indizi deboli; sei dita ≠ prova che sia il video della signora | logical (pattern) | integrated (v5.0) | Nuovo tratto di Tom: intuizione laterale dentro un metodo "prova e scarta"; autoinganno voluto come tappa dell'arco. |
+| Sei dita senza innesco; frame-by-frame impossibile su app mobile | foundation / factual | integrated (v5.0) | PC al desktop; nota il piede rallentando a 0,25x. |
 | Digressione iniziale dopo il cliffhanger | rhythm / structure | accepted-limitation | Scelta d'autore (freno a mano sul più bello). |
-| Morse "STAI ESAGERANDO" mai richiamato | broken promise | resolved | Tom ripensa al Morse prima di scegliere il video. |
-| "Necrologio" e fonte del profilo errati | consistency | resolved | Post del fratello + telefonata del cap. 4. |
-| Finale anticipa il cap. 8 + riga di commento | structure / voice | resolved | Tagliata la pagina del canale; chiosa finale riscritta sull'intuizione di Tom ("seguire una parola non era il suo modus operandi abituale…"). |
+| Morse "STAI ESAGERANDO" mai richiamato | broken promise | integrated (v5.0) | Tom ripensa al Morse prima di scegliere il video. |
+| "Necrologio" e fonte del profilo errati | consistency | integrated (v5.0) | Post del fratello + telefonata del cap. 4. |
+| Finale anticipa il cap. 8 + riga di commento | structure / voice | integrated (v5.0) | Tagliata la pagina del canale; chiosa finale riscritta sull'intuizione di Tom ("seguire una parola non era il suo modus operandi abituale…"). |
