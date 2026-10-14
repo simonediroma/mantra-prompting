@@ -31,9 +31,7 @@ Lasciò il fotogramma in pausa. Se quel video era stato generato, qualcuno lo av
 
 Tornò indietro alla pagina del video e cliccò sul nome del canale: eTv.
 
-La pagina del canale era scarna: logo minimale, nessuna descrizione. In compenso, una quantità spropositata di video su argomenti più disparati, tutti con un discreto numero di visualizzazioni. Era evidente che il canale non fosse verticale sullo yoga o sul fitness: qualcosa pensato a tavolino, più probabilmente, per fare soldi con gli annunci pubblicitari di YouTube.
-
-Per un tecnico abituato a smontare le cose una vite alla volta, era già un buon punto di partenza.
+Per un tecnico abituato a smontare le cose una vite alla volta, seguire una parola non era il suo modus operandi abituale. Eppure c'era qualcosa che lo spingeva a continuare in quella direzione, a dispetto della debolezza delle prove.
 
 ---
 
