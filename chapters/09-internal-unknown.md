@@ -59,3 +59,12 @@ Il video era un prodotto Meridian, pubblicato su un canale che di Meridian non p
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | 1° paragrafo: Tom non si aspettava dai tool l'identità del modello, contro la nuova pista del cap. 8 ("da quale IA") | contradiction (cascade) | integrated | → "Sperava che almeno uno dei tre gli dicesse con quale modello, oltre a confermargli quello che ormai considerava un fatto acquisito." |
+
+### Cycle 3 — 2026-10-22 (demolizione dedicata)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| `internal_unknown` sembra contraddire l'etichettatura "automatica" di tutti i modelli | contradiction / term | resolved | Deroga d'autore: conta la data di rilascio del modello. I modelli usciti prima dell'archivio e mai aggiornati mettono solo il footprint booleano, quindi risultano sempre `internal_unknown`. Da integrare: "tutti i suoi modelli" esclude la deroga. |
+| Tom scarta i tool quando lo smentiscono e li accetta quando lo confermano; 100% unanime poco credibile | logical / external | rejected | L'asimmetria è fondata sulla prova fisica delle sei dita; su un testo davvero generato dall'IA un 100% condiviso è plausibile. |
+| La ricerca testuale nell'archivio resta tracciabile, la prudenza di Tom è inutile | logical | resolved | Accesso legittimo e libero: un testo copiabile da qualsiasi documento si confonde nei log, un link o dei fotogrammi no. Testo invariato. |
+| "Contatto" non implica che Elab abbia prodotto il video; tesi e memoria contro il testo v3.0 | logical / consistency | resolved | Il Contatto è chi risponde del contenuto (lo ha fatto produrre, è di sua competenza). Da integrare: riassunto in `book-memory.md` ancora con "Non crede ai suoi occhi" e "transcript integrale". |
