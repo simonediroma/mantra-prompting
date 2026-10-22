@@ -15,7 +15,7 @@
 | Ch. 5 — L'avvertimento | 3 | 14 | 0 | 0 |
 | Ch. 6 — Il ricondizionamento | 4 | 18 | 0 | 1 |
 | Ch. 7 — La ragazza con sei dita | 2 | 15 | 0 | 1 |
-| Ch. 8 — Il canale eTv | 1 | 3 | 0 | 2 |
+| Ch. 8 — Il canale eTv | 2 | 7 | 0 | 2 |
 | Ch. 9 — internal_unknown | 2 | 6 | 0 | 0 |
 | Ch. 10 — Il bluff | 1 | 5 | 0 | 2 |
 | Ch. 11 — La routine di Emma | 2 | 6 | 1 | 0 |
@@ -33,12 +33,13 @@
 - **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
 - **Copia-incolla di descrizioni tra capitoli** (Elab cap. 9/10): ogni ripresa va riscritta dal POV del capitolo.
 
-- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
+- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video; cap. 8 ciclo 2: "farsi rivedere dallo stesso spettatore", conoscenza dell'autore attribuita a Tom): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
 
 Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ricorrenti):
 - **Fondamento di competenze tecniche non ancora giustificato dal profilo del personaggio** (visto sul cap. 1 con "compacting context" in Tom) — verificare ogni volta che un personaggio mostra conoscenza tecnica specifica.
 - **Salti logici nel momento in cui un personaggio accetta l'inspiegabile come reale** (visto sul cap. 1) — verificare in ogni capitolo con una rivelazione/scoperta.
 - **Incoerenza tra le promesse/decisioni prese da un personaggio a fine capitolo e i beat già pianificati nei capitoli successivi** (visto sul cap. 2: la promessa di Tom di non parlare più ai dispositivi contraddiceva il cap. 3) — controllare sempre l'outline dei capitoli successivi prima di far dichiarare a un personaggio intenzioni definitive.
+- **Plausibilità del marketing digitale / YouTube** (visto sul cap. 8: "nessun essere umano pubblica così", RPM non visibile dall'esterno): il lettore target conosce le piattaforme; ogni affermazione su metriche, algoritmi e comportamento dei creator va verificata contro come funzionano davvero.
 - **Cifre numeriche riprese in un paragrafo diverso da dove sono state definite, con rischio di confondere due valori simili** (visto sul cap. 2: scostamento 12:41 vs tempo totale 26:41) — controllare ogni volta che un numero già stabilito viene richiamato altrove nel capitolo.
 
 ---
@@ -148,3 +149,15 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | Morse "STAI ESAGERANDO" mai richiamato | broken promise | integrated (v5.0) | Tom ripensa al Morse prima di scegliere il video. |
 | "Necrologio" e fonte del profilo errati | consistency | integrated (v5.0) | Post del fratello + telefonata del cap. 4. |
 | Finale anticipa il cap. 8 + riga di commento | structure / voice | integrated (v5.0) | Tagliata la pagina del canale; chiosa finale riscritta sull'intuizione di Tom ("seguire una parola non era il suo modus operandi abituale…"). |
+
+### Ch. 8 — Il canale eTv
+
+#### Cycle 2 — 2026-10-22 (demolizione dedicata)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Farsi rivedere dallo stesso spettatore" non fondato, anticipa il reveal | logical (pattern) | resolved | Tolto; conclusione = massimizzazione delle views (views/iscritti "sembra" basso, paragone col NYT; RPM solo ipotesi). |
+| "Se fosse davvero generato" contraddice cap. 7 e 9; frase ridondante | contradiction / rhythm | resolved | "Da quale IA": pista verso i clienti dello strumento, passo nel vuoto. |
+| "Nessun essere umano pubblica così": falso e contrario alla nuova tesi | logical / external | resolved | Rimossa; le raffiche diventano incoerenza con un piano sensato di massimizzazione delle views. |
+| 2° e 3° paragrafo ridondanti | rhythm | resolved | Ridondanza tolta, spazio ai concetti nuovi. |
+

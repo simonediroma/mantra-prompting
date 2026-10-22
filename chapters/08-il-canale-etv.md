@@ -32,3 +32,14 @@ Il lato A era finito da un pezzo senza che se ne accorgesse. Girò il disco, las
 | R-81 "Sulle note di *Il video sono io*": un lato di LP dura circa 20 minuti, ma sono passate ore | factual | integrated (v3.0) | Tom si accorge che il lato A è finito da un pezzo, gira il disco (B1 *Il video sono io*), poi spegne. |
 | R-82 "Nessun essere umano pubblica così… Nessun essere umano, però, aveva bisogno di un piano": ragionamento contraddittorio | clarity | integrated (v3.0) | → "Un piano, però, serve a chi vuole costruirsi un pubblico; a chi vuole soltanto inondarlo, no." |
 | R-83 Capitolo corto (circa 630 parole contro una media di circa 1.350) | length | rejected (autore) | Resta corto per scelta dell'autore. |
+
+### Cycle 2 — 2026-10-22 (demolizione dedicata)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Farsi rivedere dallo stesso spettatore": deduzione non fondata sui dati in mano a Tom, anticipa il reveal della ripetizione | logical (pattern) | resolved | Anticipazione tolta. Tom conclude "massimizzazione delle views": rapporto views/iscritti che *sembra* basso (unico paragone: testate note come il New York Times); RPM alto solo come ipotesi (non è visibile dall'esterno). |
+| "Se quel video fosse davvero generato": contraddice la prova delle sei dita (cap. 7) e il "fatto acquisito" (cap. 9); frase successiva ridondante; "il video/i video" | contradiction / rhythm | resolved | Non "se", ma "da quale IA": un passo nel vuoto per trovare un appiglio (lo strumento → i suoi clienti → chi c'è dietro eTv). Accenno al collegamento a discrezione dell'autore in integrazione. |
+| "Nessun essere umano pubblica così": falso (le raffiche sono tipiche di chi è umano e disorganizzato) e contrario alla nuova lettura (l'algoritmo premia la costanza) | logical / external | resolved | Frase rimossa. Le raffiche diventano un'anomalia: incoerenti con un piano sensato di massimizzazione delle views, come se chi gestisce il canale non percepisse l'esigenza di pubblicare con regolarità. |
+| 2° e 3° paragrafo ripetono la stessa deduzione (niente nome, niente brand, "se fosse un'agenzia") | rhythm / redundancy | resolved | Ridondanza tolta; lo spazio va ai concetti nuovi (views, incoerenza del ritmo di pubblicazione). |
+
+Da aggiornare in integrazione: claim nel frontmatter, `book-memory.md` (riga cap. 8 ferma a "~20 minuti, lato A"), riga cap. 8 in `mappa-eventi.md`.
