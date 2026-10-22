@@ -48,3 +48,15 @@ Non rispose subito. Prima doveva decidere cosa fargli sapere di sapere e cosa no
 | R-102 Paragrafo sul tono che si raffredda: stesso concetto ripetuto 4 volte | redundancy | integrated (v3.0) | Ridotto a quattro frasi; mantenuto l'indizio "come le avevano insegnato". |
 | R-103 "Era l'ultima Meridians" | grammar | integrated (v3.0) | → "l'ultima dei Meridians". |
 | R-104 Rimando a R-02 e R-06 | — | integrated (v3.0) | Chiuse nel Cycle precedente (R-02 integrata, R-06 respinta). |
+
+### Cycle 2 — 2026-10-22 (demolizione dedicata)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Certezza "nessun dispositivo lascia email nei log" contro ciò che Emma sa sui dispositivi anomali | logical / contradiction | resolved | Indizio voluto: accesso all'ecosistema Meridian, verifica e non deduzione. Promessa per il reveal (`book-memory.md`). |
+| "Come ha ottenuto l'indirizzo" debole (elab@ era la mail di un gruppo noto) | logical | resolved | → "perché ha scritto" e perché mentire. Aggiornare anche `mappa-eventi.md`. |
+| "Non era una bugia importante" contro minaccia diretta | contradiction / character | resolved | Paranoia e diffidenza: primo estraneo che rischia di scoprire il lavoro che cela. Togliere la frase; riallineare claim ed `emma.md`; niente "esistenza". |
+| "Prima che riuscisse a governarlo" contro "lasciarlo accadere / le costava poco" | contradiction | resolved | Due fasi: reazione non governata → analisi fredda della propria emotività. |
+| Emma non controlla Tom pur essendo meticolosa e con accesso totale | foundation | accepted-limitation | Per ora; lo farà più avanti. |
+| Bluff a metà capitolo, routine ripresa nel cap. 11 | rhythm / structure | accepted-limitation | Scelta d'autore: presenta Emma; il cap. 11 rafforza. |
+
