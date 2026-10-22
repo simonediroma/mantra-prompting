@@ -168,7 +168,7 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| `internal_unknown` vs etichettatura automatica di "tutti i suoi modelli" | contradiction / term | resolved | Conta la data di rilascio del modello: modelli pre-archivio mai aggiornati → solo footprint booleano. Da integrare la deroga nel testo. |
+| `internal_unknown` vs etichettatura automatica di "tutti i suoi modelli" | contradiction / term | integrated (v4.0) | Conta la data di rilascio del modello: modelli pre-archivio mai aggiornati → solo footprint booleano. Deroga aggiunta nel testo. |
 | Bias di conferma sui tool; 100% unanime | logical / external | rejected | Asimmetria fondata sulle sei dita; 100% plausibile su testo davvero generato. |
 | Ricerca testuale nell'archivio tracciabile | logical | resolved | Il testo si confonde nei log meglio di link/fotogrammi; testo invariato. |
-| "Contatto" ≠ produzione; tesi/memoria vs v3.0 | logical / consistency | resolved | Contatto = chi risponde del contenuto. Da integrare: riallineare il riassunto in `book-memory.md`. |
+| "Contatto" ≠ produzione; tesi/memoria vs v3.0 | logical / consistency | integrated (v4.0) | Contatto = chi risponde del contenuto. Riassunto in `book-memory.md` riallineato. |

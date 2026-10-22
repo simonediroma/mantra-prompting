@@ -1,6 +1,6 @@
 ---
 title: internal_unknown
-version: 3.0
+version: 4.0
 claim: I tool pubblici di rilevamento IA falliscono sul video intero ma non sul solo testo del parlato, e passando quel transcript nell'archivio interno di Meridian Tom trova una corrispondenza che lo porta a una scoperta molto più grossa di quanto si aspettasse: un laboratorio di ricerca Meridian, silenzioso da cinque anni, è direttamente coinvolto nella morte della signora Voss.
 status: complete
 ---
@@ -64,7 +64,7 @@ Il video era un prodotto Meridian, pubblicato su un canale che di Meridian non p
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| `internal_unknown` sembra contraddire l'etichettatura "automatica" di tutti i modelli | contradiction / term | resolved | Deroga d'autore: conta la data di rilascio del modello. I modelli usciti prima dell'archivio e mai aggiornati mettono solo il footprint booleano, quindi risultano sempre `internal_unknown`. Da integrare: "tutti i suoi modelli" esclude la deroga. |
+| `internal_unknown` sembra contraddire l'etichettatura "automatica" di tutti i modelli | contradiction / term | integrated (v4.0) | Deroga d'autore: conta la data di rilascio del modello. I modelli usciti prima dell'archivio e mai aggiornati mettono solo il footprint booleano, quindi risultano sempre `internal_unknown`. Tolto "tutti"; aggiunta la deroga dopo la descrizione del nuovo footprint. |
 | Tom scarta i tool quando lo smentiscono e li accetta quando lo confermano; 100% unanime poco credibile | logical / external | rejected | L'asimmetria è fondata sulla prova fisica delle sei dita; su un testo davvero generato dall'IA un 100% condiviso è plausibile. |
 | La ricerca testuale nell'archivio resta tracciabile, la prudenza di Tom è inutile | logical | resolved | Accesso legittimo e libero: un testo copiabile da qualsiasi documento si confonde nei log, un link o dei fotogrammi no. Testo invariato. |
-| "Contatto" non implica che Elab abbia prodotto il video; tesi e memoria contro il testo v3.0 | logical / consistency | resolved | Il Contatto è chi risponde del contenuto (lo ha fatto produrre, è di sua competenza). Da integrare: riassunto in `book-memory.md` ancora con "Non crede ai suoi occhi" e "transcript integrale". |
+| "Contatto" non implica che Elab abbia prodotto il video; tesi e memoria contro il testo v3.0 | logical / consistency | integrated (v4.0) | Il Contatto è chi risponde del contenuto (lo ha fatto produrre, è di sua competenza). Riallineati in `book-memory.md` riassunto, definizione di internal_unknown e voce elab@meridian.com. |
