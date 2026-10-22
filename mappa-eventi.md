@@ -243,7 +243,7 @@ flowchart TD
 
 | Quando | Azione | Reazione attesa | Traccia / conseguenza |
 |---|---|---|---|
-| Mattina, **sveglia un'ora prima** + i soliti 15 min di anticipo | Carica **il video intero** su Undetectable AI, ZeroGPT, Hive Moderation | Si aspetta una conferma di routine. I 15 minuti restano intoccabili: **si toglie il tempo dal sonno, non dal rito** | **Tutti e tre: contenuto reale.** Falso negativo |
+| Mattina, **sveglia un'ora prima** + i soliti 15 min di anticipo | Carica **il video intero** su Undetectable AI, ZeroGPT, Hive Moderation | Spera di scoprire **con quale modello** (pista dal cap. 8), oltre alla conferma. I 15 minuti restano intoccabili: **si toglie il tempo dal sonno, non dal rito** | **Tutti e tre: contenuto reale.** Falso negativo |
 | Subito dopo | Non dubita del piede a sei dita: dubita dello strumento | Da tecnico: **isolare la variabile giusta**, non rifare lo stesso test | Ipotesi: i tool leggono artefatti visivi, non un glitch di due fotogrammi |
 | Subito dopo | Trascrive **il solo parlato**, dal primo all'ultimo secondo, e lo ricarica | — | Verdetto unanime: **100% IA, origine non determinabile** |
 | Uscita | Esce quasi puntuale | La frase gli resta in testa come un sassolino nella scarpa per tutto il turno | — |

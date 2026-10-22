@@ -5,7 +5,7 @@ claim: I tool pubblici di rilevamento IA falliscono sul video intero ma non sul 
 status: complete
 ---
 
-Il mattino dopo si alzò un'ora prima del solito. I quindici minuti di anticipo restavano dov'erano, intoccabili come ogni mattina: quello che aveva in mente richiedeva tempo e l'unico posto da cui sapesse ancora prenderne era il sonno. Caricò l'intero video su tre dei servizi di rilevamento IA più noti in circolazione: Undetectable AI, ZeroGPT, Hive Moderation. Non gli avrebbero detto chi avesse fatto il video, lo sapeva già, ma almeno gli avrebbero confermato quello che ormai considerava un fatto acquisito.
+Il mattino dopo si alzò un'ora prima del solito. I quindici minuti di anticipo restavano dov'erano, intoccabili come ogni mattina: quello che aveva in mente richiedeva tempo e l'unico posto da cui sapesse ancora prenderne era il sonno. Caricò l'intero video su tre dei servizi di rilevamento IA più noti in circolazione: Undetectable AI, ZeroGPT, Hive Moderation. Sperava che almeno uno dei tre gli dicesse con quale modello, oltre a confermargli quello che ormai considerava un fatto acquisito.
 
 Non lo confermarono. Tutti e tre, con percentuali leggermente diverse ma la stessa sostanza, restituirono lo stesso verdetto: contenuto reale, nessuna evidenza di generazione artificiale.
 
@@ -53,3 +53,9 @@ Il video era un prodotto Meridian, pubblicato su un canale che di Meridian non p
 | R-91 "I quindici minuti di anticipo restavano… intoccabili" vs "uscì di casa quasi puntuale" | contradiction | integrated (v3.0) | → "Uscì di casa con il solito quarto d'ora di anticipo." Tolto anche il doppio periodo unito da virgola. |
 | R-92 "6 mesi fa" in cifre; "la Meridian" / "dalla Meridian" con articolo | consistency | integrated (v3.0) | Cifre mantenute nel box di sistema (output macchina); gli articoli spariscono con R-93. |
 | R-93 Cliché "Non credeva ai suoi occhi" + paragrafo finale che riassume la posta in gioco | AI-slop / redundancy | integrated (v3.0) | Tolti entrambi; tenuto un solo beat ("Il video era un prodotto Meridian… di una cliente Meridian"), senza far dire a Tom che eTv è di Meridian. Il capitolo chiude su Elab. |
+
+### Cascata dal cap. 8 v4.0 — 2026-10-22
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| 1° paragrafo: Tom non si aspettava dai tool l'identità del modello, contro la nuova pista del cap. 8 ("da quale IA") | contradiction (cascade) | integrated | → "Sperava che almeno uno dei tre gli dicesse con quale modello, oltre a confermargli quello che ormai considerava un fatto acquisito." |
