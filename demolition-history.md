@@ -156,8 +156,8 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| "Farsi rivedere dallo stesso spettatore" non fondato, anticipa il reveal | logical (pattern) | resolved | Tolto; conclusione = massimizzazione delle views (views/iscritti "sembra" basso, paragone col NYT; RPM solo ipotesi). |
-| "Se fosse davvero generato" contraddice cap. 7 e 9; frase ridondante | contradiction / rhythm | resolved | "Da quale IA": pista verso i clienti dello strumento, passo nel vuoto. |
-| "Nessun essere umano pubblica così": falso e contrario alla nuova tesi | logical / external | resolved | Rimossa; le raffiche diventano incoerenza con un piano sensato di massimizzazione delle views. |
-| 2° e 3° paragrafo ridondanti | rhythm | resolved | Ridondanza tolta, spazio ai concetti nuovi. |
+| "Farsi rivedere dallo stesso spettatore" non fondato, anticipa il reveal | logical (pattern) | integrated (v4.0) | Tolto; conclusione = massimizzazione delle views (views/iscritti "sembra" basso, paragone col NYT; RPM solo ipotesi). |
+| "Se fosse davvero generato" contraddice cap. 7 e 9; frase ridondante | contradiction / rhythm | integrated (v4.0) | "Da quale IA": pista verso i clienti dello strumento, passo nel vuoto. |
+| "Nessun essere umano pubblica così": falso e contrario alla nuova tesi | logical / external | integrated (v4.0) | Rimossa; le raffiche diventano incoerenza con un piano sensato di massimizzazione delle views. |
+| 2° e 3° paragrafo ridondanti | rhythm | integrated (v4.0) | Ridondanza tolta, spazio ai concetti nuovi. |
 

@@ -234,9 +234,10 @@ flowchart TD
 |---|---|---|---|
 | Scroll | Idraulica, cucina, cover musicale, yoga: **sempre la stessa ragazza** | Pazienza metodica, come una scheda madre pin per pin | La varietà non è l'anomalia |
 | Analisi | Descrizioni vuote, nessun logo coerente, nessuna biografia, nessun link | **L'anomalia è ciò che manca**: nessuna costruzione di brand | Se fosse un'agenzia, avrebbe fatto l'opposto |
-| Analisi | Date di pubblicazione senza pattern: tre video in un'ora, poi settimane di silenzio | «Nessun essere umano pubblica così» — la deduzione si ferma un passo prima del reveal | Logica da inondazione, non da pubblico |
+| Numeri | Decine di migliaia di views per video, iscritti che *sembrano* pochi (paragone col canale del New York Times) | Obiettivo: **massimizzare le views**; monetizzazione solo un sospetto (i guadagni da fuori non si vedono) | Nessuna anticipazione della ripetizione dello stesso spettatore |
+| Analisi | Date di pubblicazione senza pattern: tre video in un'ora, poi settimane di silenzio | **Non torna** con la massimizzazione delle views: chi gestisce il canale non sente l'esigenza della regolarità | Indizio su Emma (pubblica quando il trend è pronto, cap. 11) |
 | Deduzione | Un'operazione sistematica e anonima, senza traccia di chi ci sia dietro | — | Nessuna riga sul quaderno (R-05): la domanda resta implicita e apre il cap. 9 |
-| ~23:00+ | Rimanda i tool di rilevamento IA a domani | Disciplina: domani con la testa fresca | Il lato A è finito: gira il disco, parte *Il video sono io* (B1), poi spegne |
+| ~23:00+ | Rimanda a domani: capire **con quale IA** è stato generato il video | Passo nel vuoto: dai clienti dello strumento a chi c'è dietro eTv | Il lato A è finito: gira il disco, parte *Il video sono io* (B1), poi spegne |
 
 #### Cap. 9 — internal_unknown · `G21`, mattina + turno (ultima ora) · POV Tom
 

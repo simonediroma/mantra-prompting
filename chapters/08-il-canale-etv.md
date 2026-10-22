@@ -1,7 +1,7 @@
 ---
 title: Il canale eTv
-version: 3.0
-claim: Analizzando il canale eTv che ospita il video della signora Voss, Tom scopre che la totale assenza di branding, identità o pattern di pubblicazione esclude un'operazione pensata per costruire un pubblico, sembra invece un sistema orientato alla pura ripetizione di massa, sistematico ma ancora completamente anonimo.
+version: 4.0
+claim: Analizzando il canale eTv che ospita il video della signora Voss, Tom scopre un'operazione sistematica e anonima, senza branding né identità, con molte visualizzazioni e pochi iscritti, come se l'unico obiettivo fosse massimizzare le views, ma con un ritmo di pubblicazione a singhiozzo che contraddice proprio quell'obiettivo. Decide di cercare con quale IA sia stato generato il video, sperando di risalire dai clienti dello strumento a chi c'è dietro eTv.
 status: complete
 ---
 
@@ -15,7 +15,7 @@ Controllò anche le date di pubblicazione, sperando in un ritmo, qualcosa che tr
 
 Non era più, a questo punto, un video isolato caricato per sbaglio da qualcuno con troppo tempo libero. Era un'operazione, sistematica quanto anonima. Qualcuno, o qualcosa, stava producendo contenuti su scala, con una precisione che a Tom ricordava più una catena di montaggio che un hobby. Lo stava facendo, però, senza lasciarsi dietro la minima traccia di chi fosse.
 
-Erano ormai le undici passate. Domani, con la testa più fresca e magari un paio di strumenti in più, avrebbe provato a capire se quel video fosse davvero generato da un'intelligenza artificiale e da quale. Capire con quale strumento fossero stati realizzati i video gli avrebbe dato un tassello in più sulla portata della questione.
+Erano ormai le undici passate. Domani, con la testa più fresca, avrebbe provato a capire con quale intelligenza artificiale fosse stato generato quel video. Era un passo nel vuoto, ma ogni strumento ha i suoi clienti. Tra quelli, forse, c'era anche chi stava dietro eTv.
 
 Il lato A era finito da un pezzo senza che se ne accorgesse. Girò il disco, lasciò partire *Il video sono io*, poi spense il giradischi e andò a dormire.
 
@@ -37,9 +37,9 @@ Il lato A era finito da un pezzo senza che se ne accorgesse. Girò il disco, las
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| "Farsi rivedere dallo stesso spettatore": deduzione non fondata sui dati in mano a Tom, anticipa il reveal della ripetizione | logical (pattern) | resolved | Anticipazione tolta. Tom conclude "massimizzazione delle views": rapporto views/iscritti che *sembra* basso (unico paragone: testate note come il New York Times); RPM alto solo come ipotesi (non è visibile dall'esterno). |
-| "Se quel video fosse davvero generato": contraddice la prova delle sei dita (cap. 7) e il "fatto acquisito" (cap. 9); frase successiva ridondante; "il video/i video" | contradiction / rhythm | resolved | Non "se", ma "da quale IA": un passo nel vuoto per trovare un appiglio (lo strumento → i suoi clienti → chi c'è dietro eTv). Accenno al collegamento a discrezione dell'autore in integrazione. |
-| "Nessun essere umano pubblica così": falso (le raffiche sono tipiche di chi è umano e disorganizzato) e contrario alla nuova lettura (l'algoritmo premia la costanza) | logical / external | resolved | Frase rimossa. Le raffiche diventano un'anomalia: incoerenti con un piano sensato di massimizzazione delle views, come se chi gestisce il canale non percepisse l'esigenza di pubblicare con regolarità. |
-| 2° e 3° paragrafo ripetono la stessa deduzione (niente nome, niente brand, "se fosse un'agenzia") | rhythm / redundancy | resolved | Ridondanza tolta; lo spazio va ai concetti nuovi (views, incoerenza del ritmo di pubblicazione). |
+| "Farsi rivedere dallo stesso spettatore": deduzione non fondata sui dati in mano a Tom, anticipa il reveal della ripetizione | logical (pattern) | integrated (v4.0) | Anticipazione tolta. Tom conclude "massimizzazione delle views": rapporto views/iscritti che *sembra* basso (unico paragone: testate note come il New York Times); RPM alto solo come ipotesi (non è visibile dall'esterno). |
+| "Se quel video fosse davvero generato": contraddice la prova delle sei dita (cap. 7) e il "fatto acquisito" (cap. 9); frase successiva ridondante; "il video/i video" | contradiction / rhythm | integrated (v4.0) | Non "se", ma "da quale IA": un passo nel vuoto per trovare un appiglio (lo strumento → i suoi clienti → chi c'è dietro eTv). Accenno al collegamento a discrezione dell'autore in integrazione. |
+| "Nessun essere umano pubblica così": falso (le raffiche sono tipiche di chi è umano e disorganizzato) e contrario alla nuova lettura (l'algoritmo premia la costanza) | logical / external | integrated (v4.0) | Frase rimossa. Le raffiche diventano un'anomalia: incoerenti con un piano sensato di massimizzazione delle views, come se chi gestisce il canale non percepisse l'esigenza di pubblicare con regolarità. |
+| 2° e 3° paragrafo ripetono la stessa deduzione (niente nome, niente brand, "se fosse un'agenzia") | rhythm / redundancy | integrated (v4.0) | Ridondanza tolta; lo spazio va ai concetti nuovi (views, incoerenza del ritmo di pubblicazione). |
 
-Da aggiornare in integrazione: claim nel frontmatter, `book-memory.md` (riga cap. 8 ferma a "~20 minuti, lato A"), riga cap. 8 in `mappa-eventi.md`.
+Aggiornati in integrazione (v4.0): claim nel frontmatter, `book-memory.md`, `mappa-eventi.md`.
