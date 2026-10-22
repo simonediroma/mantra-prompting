@@ -11,13 +11,13 @@ Mechanical conventions. One value per row — mixing forms in the book is always
 
 | Element | Convention | Example |
 |---|---|---|
-| Dialogue | [e.g. «» caporali] | [«Vieni» disse.] |
-| Thoughts / inserted phrases | [e.g. "" alte] | [Pensò: "non ora".] |
-| Quotes inside quotes | [e.g. "" inside «»] | |
-| Dash | [e.g. — em dash, spaced] | [lui — disse — no] |
-| Ellipsis | [e.g. … single character] | [Vieni…] |
-| Serial comma | [yes / no] | |
-| Numbers | [e.g. words up to ten, digits above] | |
+| Dialogue | «» caporali | «Vieni» disse. |
+| Thoughts / inserted phrases | "" alte | Pensò: "non ora". |
+| Quotes inside quotes | "" dentro «» | «Mi ha detto "domani"» |
+| Dash | nessun trattino lungo in narrazione (vedi `book.config.json → avoid` e R1): virgola, punto o parentesi | lui, disse, no |
+| Ellipsis | … carattere singolo | Vieni… |
+| Serial comma | no | idraulica, cucina e yoga |
+| Numbers | in lettere nella narrazione (anche sopra dieci); cifre solo in box/schermate di sistema e titoli di video | le undici passate · *in 15 minuti al giorno* |
 
 ---
 

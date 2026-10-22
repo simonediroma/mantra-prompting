@@ -167,6 +167,17 @@ La pianificazione completa dei capitoli 1-27 è in `outline.md`; qui viene aggiu
 
 | Ch. 12 — La notizia | Apre la Parte 5, giorno 24 della cronologia interna (vedi `mappa-eventi.md`). La pipeline di Emma dedicata a contenuti pubblici che nominano/mostrano Meridian intercetta un articolo commemorativo (pubblicato pochi giorni dopo la morte, dai parenti, sul giornale preferito della signora) con foto: la signora sorridente in salotto, TV Meridian e eWatch ben visibili. Emma legge "Voss" e lo riconosce all'istante: è già nel suo archivio personale, non perché il televisore le abbia "mandato un messaggio" (quello, nel cap. 3, era rivolto a Tom, mai riportato da nessuna parte), ma perché il caso rientrava nei suoi criteri di monitoraggio già visti nel cap. 11 (log interrotti, hard reset, cliente che descrive un rifiuto di funzionare più che un malfunzionamento). Dubbio velato, mai confermato dal narratore: che il televisore abbia contribuito alla morte invece di prevenirla. Il suo archivio registra solo nomi clienti, non tecnici: riapre la lista originale dell'assistenza (aggiornata giornalmente dal dipartimento tecnico) e trova, tramite il numero di matricola del televisore, il nome del tecnico: Tom, lo stesso nome dell'email ricevuta due giorni prima. Chiude decidendo di scoprire quanto sappia davvero — il sospetto vero e proprio è per il cap. 13. | complete |
 
+## Continuity Ledger
+
+> Dettagli concreti verificati da `/ghost-writer:revise`, con valore canonico e capitolo di prima menzione. La cronologia completa è in `mappa-eventi.md`.
+
+| Dettaglio | Valore canonico | Prima menzione |
+|---|---|---|
+| Canale eTv, numeri | Decine di migliaia di visualizzazioni per video, iscritti che *sembrano* pochi | Cap. 8 |
+| Canale eTv, pubblicazione | A raffica (anche tre video in un'ora), poi settimane di silenzio, nessun calendario | Cap. 8 |
+| Canale eTv, descrizioni | Vuote o una riga generica identica, nessun link, nessun logo coerente | Cap. 8 |
+| Serata G20 | Si chiude alle undici passate; lato A di *Tango* finito, B1 *Il video sono io*, poi spegne | Cap. 8 |
+
 ## Session Log
 
 | Date | Work done | Next step |
