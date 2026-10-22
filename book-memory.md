@@ -177,6 +177,8 @@ La pianificazione completa dei capitoli 1-27 è in `outline.md`; qui viene aggiu
 | Canale eTv, pubblicazione | A raffica (anche tre video in un'ora), poi settimane di silenzio, nessun calendario | Cap. 8 |
 | Canale eTv, descrizioni | Vuote o una riga generica identica, nessun link, nessun logo coerente | Cap. 8 |
 | Serata G20 | Si chiude alle undici passate; lato A di *Tango* finito, B1 *Il video sono io*, poi spegne | Cap. 8 |
+| Frase della ragazza sulla velocità doppia | «Se vuoi il massimo risultato, guardami a velocità doppia. Fidati, funziona meglio!», detta prima degli esercizi; il video si rivolge allo spettatore al **tu** (anche nel transcript del cap. 9) | Cap. 7 |
+| Archivio interno Meridian | Nato un paio d'anni prima; footprint esteso (modello, versione) solo per i modelli aggiornati; i modelli pre-archivio mai aggiornati lasciano il footprint booleano → `internal_unknown`; il campo Contatto indica chi risponde del contenuto | Cap. 9 |
 
 ## Session Log
 

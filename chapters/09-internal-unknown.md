@@ -3,6 +3,7 @@ title: internal_unknown
 version: 4.0
 claim: I tool pubblici di rilevamento IA falliscono sul video intero ma non sul solo testo del parlato, e passando quel transcript nell'archivio interno di Meridian Tom trova una corrispondenza che lo porta a una scoperta molto più grossa di quanto si aspettasse: un laboratorio di ricerca Meridian, silenzioso da cinque anni, è direttamente coinvolto nella morte della signora Voss.
 status: complete
+revised: 2026-10-22
 ---
 
 Il mattino dopo si alzò un'ora prima del solito. I quindici minuti di anticipo restavano dov'erano, intoccabili come ogni mattina. Quello che aveva in mente richiedeva tempo e l'unico posto da cui sapesse ancora prenderne era il sonno. Caricò l'intero video su tre dei servizi di rilevamento IA più noti in circolazione (Undetectable AI, ZeroGPT e Hive Moderation). Sperava che almeno uno dei tre gli dicesse con quale modello fosse stato generato, oltre a confermargli quello che ormai considerava un fatto acquisito.
@@ -13,7 +14,7 @@ Restò a fissare lo schermo come chi ha appena rifatto un calcolo e ha ottenuto 
 
 Serviva isolare la variabile giusta. Aprì un documento vuoto e trascrisse, parola per parola, tutto quello che la ragazza diceva nel video dal primo all'ultimo secondo. Non le pose, non la musica di sottofondo, solo il parlato. Ne uscì un documento lungo quanto i quindici minuti del video stesso, dall'apertura fino all'ultimo consiglio prima dei saluti. Iniziava così:
 
-*"Ciao a tutte, sono qui per darvi la routine che ha cambiato la mia vita e può cambiare anche la vostra. Bastano quindici minuti al giorno, o sette e mezzo se andate a velocità doppia come consiglio sempre io. Il corpo non mente mai: datemi fiducia e vedrete i risultati già dalla prima settimana."*
+*"Ciao, sono qui per darti la routine che ha cambiato la mia vita e può cambiare anche la tua. Se vuoi il massimo risultato, guardami a velocità doppia. Fidati, funziona meglio! Bastano quindici minuti al giorno, sette e mezzo a velocità doppia. Il corpo non mente mai: vedrai i risultati già dalla prima settimana."*
 
 Incollò il documento per intero, senza il video, negli stessi tre strumenti. Questa volta la risposta fu unanime e immediata: cento per cento, generato da intelligenza artificiale. Nessuno dei tre, però, seppe dirgli con quale modello fosse stato generato. Restituirono solo un generico "origine non determinabile", una formula asettica paragonabile a quella con cui alcuni referti delle radiografie delineano le cause di mali non proprio curabili.
 
@@ -69,3 +70,10 @@ Il video era un prodotto Meridian, pubblicato su un canale che di Meridian non p
 | Tom scarta i tool quando lo smentiscono e li accetta quando lo confermano; 100% unanime poco credibile | logical / external | rejected | L'asimmetria è fondata sulla prova fisica delle sei dita; su un testo davvero generato dall'IA un 100% condiviso è plausibile. |
 | La ricerca testuale nell'archivio resta tracciabile, la prudenza di Tom è inutile | logical | resolved | Accesso legittimo e libero: un testo copiabile da qualsiasi documento si confonde nei log, un link o dei fotogrammi no. Testo invariato. |
 | "Contatto" non implica che Elab abbia prodotto il video; tesi e memoria contro il testo v3.0 | logical / consistency | integrated (v4.0) | Il Contatto è chi risponde del contenuto (lo ha fatto produrre, è di sua competenza). Riallineati in `book-memory.md` riassunto, definizione di internal_unknown e voce elab@meridian.com. |
+
+### Revisione — 2026-10-22
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| 23 correzioni di grammatica e punteggiatura (R1, tempi verbali, pronome "Lo", ripetizioni, tic "con la stessa X", paragrafo non separato) | grammar / R1 | integrated (v4.0) | Applicate in blocco; G5 e P20 lasciati come intenzionali. |
+| K1 Transcript al voi e con parole diverse dalla frase del cap. 7 | continuity | integrated (v4.0) | Allineato al cap. 7: tutto al tu, frase sulla velocità doppia riportata alla lettera. |
