@@ -3,20 +3,20 @@
 Formato: narrato, una voce. Motore: ElevenLabs (`eleven_v4`), voce Dimitri (`irpmjMzI7WEB83hTpOZA`), speed 1.0. Intro: `podcast/music/mantra-prompting-loop.wav`. Nessuna outro.
 Fonte: `chapters/` (cap. 1-5 ancora in `draft`). Sezioni `## Demolition Log` escluse dai copioni.
 
-| Ep | Capitolo | Parole | Durata | Stato |
-|---|---|---|---|---|
-| 1 | Primo contatto | 2.350 | ~16 min | approved |
-| 2 | Stallo burocratico | 1.660 | ~11 min | todo |
-| 3 | Secondo contatto | 1.830 | ~12 min | todo |
-| 4 | La chiamata alla signora | 1.820 | ~12 min | todo |
-| 5 | L'avvertimento | 1.750 | ~12 min | todo |
-| 6 | Il ricondizionamento | 2.230 | ~15 min | todo |
-| 7 | La ragazza con sei dita | 2.040 | ~14 min | todo |
-| 8 | Il canale eTv | 1.100 | ~7 min | todo |
-| 9 | internal_unknown | 1.840 | ~12 min | todo |
-| 10 | Il bluff | 1.640 | ~11 min | todo |
-| 11 | La routine di Emma | 1.760 | ~12 min | todo |
-| 12 | La notizia | 1.200 | ~8 min | todo |
+| Ep | Capitolo | Parole | Caratteri | Durata | Stato |
+|---|---|---|---|---|---|
+| 1 | Primo contatto | 2.381 | 14.888 | ~16 min | approved |
+| 2 | Stallo burocratico | 1.274 | 8.330 | ~8 min | script |
+| 3 | Secondo contatto | 1.216 | 7.697 | ~8 min | script |
+| 4 | La chiamata alla signora | 1.316 | 8.025 | ~9 min | script |
+| 5 | L'avvertimento | 1.047 | 6.602 | ~7 min | script |
+| 6 | Il ricondizionamento | 1.135 | 7.311 | ~8 min | script |
+| 7 | La ragazza con sei dita | 1.252 | 7.605 | ~8 min | script |
+| 8 | Il canale eTv | 588 | 3.653 | ~4 min | script |
+| 9 | internal_unknown | 1.085 | 7.123 | ~7 min | script |
+| 10 | Il bluff | 1.124 | 6.960 | ~7 min | script |
+| 11 | La routine di Emma | 1.001 | 6.310 | ~7 min | script |
+| 12 | La notizia | 449 | 2.859 | ~3 min | script |
 
 ## Pronunciation
 

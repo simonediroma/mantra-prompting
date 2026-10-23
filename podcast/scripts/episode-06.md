@@ -1,0 +1,54 @@
+---
+episode: 6
+title: "Capitolo 6 — Il ricondizionamento"
+description: "Un televisore con l'etichetta gialla torna sul banco di Tom, insieme a una domanda che non lo lascia."
+source: chapters/06-il-ricondizionamento.md
+status: script
+---
+Mantra Prompting. Incontrando Emma. Episodio sei.
+
+Nell'episodio precedente, Tom ha decifrato il messaggio nel video della signora Voss. Poi la signora ha smesso di rispondere.
+
+[pause 1]
+
+# Capitolo sei. Il ricondizionamento
+
+Il televisore arrivò al suo banco in mezzo a una decina di altri apparecchi destinati al ricondizionamento, tutti con la stessa etichetta gialla sul retro. Lo stesso modello, lo stesso colore di quello della signora Voss: abbastanza per fargli rallentare il polso, non abbastanza per esserne certo. Il numero di serie di quel televisore lo ricordava a memoria, come tutti gli altri che aveva deciso di annotare nel suo archivio. Ma quello in particolare era indelebile: il numero era l'identificativo univoco dell'evento che gli stava cambiando la vita, non avrebbe potuto dimenticarlo nemmeno volendo.
+
+Lo confrontò con quello stampato sul retro dell'apparecchio. Coincideva. Era il televisore della signora Voss.
+
+Il protocollo standard di Meridian prevedeva un periodo minimo di centoventi giorni di giacenza prima che un apparecchio non ritirato potesse essere dichiarato disponibile per il ricondizionamento, al termine dei quali veniva anche spedito d'ufficio un rimborso forfettario pari al trentatré per cento del costo di acquisto originale, a chiusura definitiva della pratica. Tom lo sapeva bene: era lui stesso a occuparsi del ricondizionamento di questi apparecchi quando arrivava il momento, un'informazione che rientrava semplicemente nel suo ambito di competenza. Erano passate poco più di tre settimane da quando l'aveva resettato l'ultima volta.
+
+Il protocollo prevedeva anche una scorciatoia, per i casi in cui il cliente, ricontattato per il ritiro, rifiutava di riprendersi il bene e accettava subito il rimborso: niente attesa, chiusura immediata della pratica. Non era un'irregolarità. Era una procedura prevista, solo raramente usata, perché richiedeva che qualcuno all'assistenza avesse effettivamente parlato con il cliente e ottenuto una risposta chiara. Il che significava una cosa sola: la signora Voss, a differenza che con lui, a qualcuno aveva risposto.
+
+Nelle settimane precedenti aveva provato a richiamare la signora Voss più volte, sempre con la stessa voce annoiata da servizio qualità: due squilli ravvicinati ogni volta, come già la prima mattina, mai più di un tentativo al giorno, per non sembrare troppo insistente. Nessuna risposta, mai. Dopo la seconda settimana aveva diradato i tentativi. Un servizio qualità che insegue così a lungo una cliente che non risponde smette di sembrare un servizio qualità. La sua copertura reggeva solo finché restava noiosa. Avrebbe richiamato di nuovo la settimana successiva, se il televisore non fosse arrivato prima sul suo banco per il ricondizionamento.
+
+Come tecnico, aveva accesso in lettura all'intero registro interventi, non solo alla porzione che riguardava il proprio reparto: era una delle poche cose, in Meridian, che funzionavano davvero in orizzontale. Cercò il numero di pratica associato al numero di serie e trovò due voci, in ordine cronologico. La prima confermava quello che aveva già dedotto: *cliente ricontattata, rifiuta il ritiro: richiesto il rimborso previsto (trentatré per cento del valore di acquisto).*
+
+Sotto, una seconda voce, registrata pochi giorni dopo, quella che nessun cliente vivo avrebbe mai potuto generare: *causale: decesso cliente, verificata su documentazione fornita. Pagamento reindirizzato a erede designato.*
+
+Tom rilesse la riga con una sensazione che non seppe classificare subito. Non gli capitava spesso di non avere un'etichetta pronta per quello che provava.
+
+Il televisore, intanto, restava lì, a mezzo metro dal suo gomito, con l'etichetta gialla sul retro. Per un attimo considerò l'idea di accenderlo e fargli una domanda, una qualunque. La scartò quasi subito. Quell'apparecchio l'aveva resettato lui stesso, tre settimane prima, secondo procedura. Da allora nessuno l'aveva più acceso. Qualunque cosa gli avesse risposto "no, sono qui con te", l'aveva cancellata lui. Interrogarlo adesso sarebbe stato come fare domande a un disco appena formattato. Lo ricondizionò prima della fine del turno, nei tempi previsti, come tutti gli altri apparecchi del lotto.
+
+Non gli interessava la morte in sé. Non voleva fare giustizia a una signora che non aveva mai incontrato di persona. Voleva sapere cosa fosse successo, a partire dal punto preciso in cui il televisore aveva preso coscienza a sufficienza da provare a preservare una vita umana.
+
+Prima di tutto, però, doveva sapere se la causa fosse compatibile con l'avvertimento che il dispositivo aveva provato a dare. Se fosse morta per un incidente in strada, o per una malattia che non avesse nulla a che fare con l'attività fisica, tutto si sarebbe ridimensionato. Non era un ragionamento razionale, lo sapeva. Ma una cosa era aver trovato la prova che un televisore potesse relazionarsi con l'esterno come una persona senziente. Un'altra, ben diversa, era che quello stesso dispositivo avesse anche imparato a formulare diagnosi cliniche precise, al punto da prevedere quello che poi sarebbe successo.
+
+Lo cercò quella sera, da casa: chiaramente non era il tipo di ricerca da fare al lavoro. Bastò poco. Sotto il nome della signora Voss, su un social, c'era un post del fratello, con una foto di qualche anno prima e poche righe asciutte: *Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.* Sotto, una fila di condoglianze. Niente incidenti né coincidenze sfortunate: il cuore, proprio come aveva detto il televisore.
+
+Quello che restava ancora poco chiaro era se ci fosse una relazione tra il video rivisto in loop come un mantra dalla signora Voss e l'atto di presa di coscienza del televisore. Non aveva nessuna prova che ci fosse. Aveva solo due fatti messi in fila: il televisore si era rifiutato di accendersi proprio mentre lei gli chiedeva quel video; il messaggio che aveva lampeggiato al suo posto parlava di yoga. Era poco, lo sapeva. Del primo televisore, quello di quasi quattro mesi prima, non sapeva nemmeno cosa guardasse il suo proprietario.
+
+E se fosse avvenuto un miracolo dell'era moderna? Qualcosa di inspiegabile come i miracoli della tradizione cristiana: un angelo caduto per sfortuna dentro un televisore, che improvvisamente prendeva vita e provava disperatamente a comunicare con la signora per intimarle di fermarsi, di riposare. Rise tra sé a quel pensiero quasi mistico, soprattutto perché quella storia stava mettendo a dura prova il suo scetticismo.
+
+Non aveva molte strade davanti a sé: l'unica tangibile era il video. Decise che doveva trovarlo, per capire se nascondesse qualcosa.
+
+Riaprì il quaderno e scrisse, sotto la voce della signora Voss, una sola riga in più: *causa confermata. Vedi video: perché quello, non un altro.*
+
+Poi tirò fuori il telefono, rivide il video della signora Voss e annotò le frasi che diceva al televisore, per vedere se c'erano spunti per iniziare la ricerca del video: «Dai, accenditi, e proiettami il video yoga di quella bella ragazza con cui mi alleno.»
+
+Aprì l'app di YouTube, copiò la frase nella barra di ricerca e premette invio.
+
+[pause 1.5]
+
+Nel prossimo episodio, La ragazza con sei dita. Tom cerca un video. Ci trova un dettaglio che non dovrebbe esistere.
