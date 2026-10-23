@@ -179,6 +179,10 @@ La pianificazione completa dei capitoli 1-27 è in `outline.md`; qui viene aggiu
 | Serata G20 | Si chiude alle undici passate; lato A di *Tango* finito, B1 *Il video sono io*, poi spegne | Cap. 8 |
 | Frase della ragazza sulla velocità doppia | «Se vuoi il massimo risultato, guardami a velocità doppia. Fidati, funziona meglio!», detta prima degli esercizi; il video si rivolge allo spettatore al **tu** (anche nel transcript del cap. 9) | Cap. 7 |
 | Archivio interno Meridian | Nato un paio d'anni prima; footprint esteso (modello, versione) solo per i modelli aggiornati; i modelli pre-archivio mai aggiornati lasciano il footprint booleano → `internal_unknown`; il campo Contatto indica chi risponde del contenuto | Cap. 9 |
+| Casella di Elab (POV Emma) | "casella di Elab"; Emma risponde al bluff poco prima della fine del turno di Tom (G22), il cap. 11 è il giorno dopo (G23) | Cap. 10 |
+| Archivio di Emma | Primo caso circa un anno prima del G23; nessun nome dei tecnici annotato; schema ricorrente: log degli ultimi giorni assenti + "riconsegnato dopo hard reset" | Cap. 11 (nomi tecnici: cap. 12) |
+| Frigorifero smart (cap. 11) | Chip IA: liste della spesa, conservazione, gelati/frullati/smoothie con ricette pescate dal web; non sale oltre cinque gradi; la cliente chiede lo stesso smoothie più volte al giorno; su eBlog decine di pageview da un solo utente sullo stesso articolo nei giorni prima della prima chiamata | Cap. 11 |
+| Orario di Emma | Otto–diciassette; alle diciassette in punto chiude l'inbox | Cap. 11 |
 
 ## Session Log
 
