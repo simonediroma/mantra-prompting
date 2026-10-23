@@ -266,7 +266,7 @@ flowchart TD
 | Interruzione | **Notifica: una mail vera sulla casella elab**, la prima in anni con mittente Meridian riconoscibile | Si ferma: quella casella riceve solo rumore di fondo notturno | — |
 | Lettura | «…ho rilevato nei log di sistema un riferimento a questo indirizzo di posta» | **Rilegge non per capire ma perché la frase non torna**: nessun dispositivo lascia email nei log. Certezza da checksum, non ipotesi | Il tecnico sta mentendo: fatto, non sospetto |
 | Subito dopo | Il registro con cui pensa di rispondere **si raffredda da solo**: dal caldo al professionale da servizio clienti | ✅ Regola fondativa: regolazione emotiva sproporzionata rispetto all'intelligenza. **Se ne accorge solo a cambiamento avvenuto**. Mai scrivere "non l'aveva deciso lei" 🎭 | Il contenuto della risposta resta lucido e tagliente |
-| Subito dopo | Si concentra sul problema vero: **come ha ottenuto davvero l'indirizzo, e perché mentire su un dettaglio smontabile** | Un bluff mal costruito è comunque deliberato | — |
+| Subito dopo | Si concentra sul problema vero: **perché ha scritto proprio a Elab, e perché mentire su un dettaglio smontabile** | Un bluff mal costruito è comunque deliberato | — |
 | Fine scena | Non risponde subito: "prima decidere cosa fargli sapere di sapere" | Manipolatrice/osservatrice: un passo avanti, mai vulnerabile | — |
 | 💤 Poco prima della fine del turno di Tom | **Risponde** (contenuto mai mostrato) | — | Aggancio del cap. 11: da qui parte il silenzio di Tom |
 

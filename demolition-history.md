@@ -17,7 +17,7 @@
 | Ch. 7 — La ragazza con sei dita | 2 | 15 | 0 | 1 |
 | Ch. 8 — Il canale eTv | 2 | 7 | 0 | 2 |
 | Ch. 9 — internal_unknown | 3 | 9 | 0 | 1 |
-| Ch. 10 — Il bluff | 1 | 5 | 0 | 2 |
+| Ch. 10 — Il bluff | 2 | 8 | 0 | 4 |
 | Ch. 11 — La routine di Emma | 2 | 6 | 1 | 0 |
 | Ch. 12 — La notizia | 1 | 3 | 0 | 3 |
 
@@ -29,6 +29,7 @@
 
 **Confermati come ricorrenti (revisione cross-capitolo 2026-10-10, cap. 1-12):**
 - **Riassunti di `book-memory.md` non riallineati dopo le integrazioni** (cap. 9 ciclo 3: elementi tolti con R-90/R-93 ancora presenti): dopo ogni integrazione aggiornare anche il riassunto del capitolo.
+- **Certezze di Emma = accesso, non deduzione** (cap. 10 ciclo 2): quando Emma "sa per certo" qualcosa di tecnico, è perché vede l'ecosistema Meridian. Promessa per il reveal: mostrare che ha davvero accesso ai log dei dispositivi Meridian.
 - **Tic lessicali da AI-slop**: "esattamente", "con la stessa X con cui…", "il tipo di", "restò a fissare", immagini-firma riusate tra capitoli ("fotogramma per fotogramma… da bambino", "trappole gentili", "componente guasto"). Limiti: max 1 per capitolo; "restò a fissare" in max 3 capitoli in tutto. Ricontrollare a ogni nuovo capitolo.
 - **Struttura negativa "Non X. Non Y. Z."** usata come effetto: max 1 per capitolo.
 - **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
@@ -54,6 +55,8 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 ## Accepted Limitations
 
 - **Cap. 7**: digressione iniziale (giradischi, Matia Bazar, dogana) subito dopo il cliffhanger del cap. 6. Scelta d'autore: freno a mano voluto sul più bello.
+- **Cap. 10**: Emma, meticolosa e con accesso all'ecosistema Meridian, non fa ricerche su Tom prima di decidere come rispondere. Limite accettato per ora: lo farà più avanti.
+- **Cap. 10**: quattro paragrafi di routine prima della mail; routine ripresa nel cap. 11. Scelta d'autore: servono a presentare Emma nel suo primo capitolo POV (stesso "freno a mano" del cap. 7).
 
 ---
 
@@ -172,3 +175,16 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | Bias di conferma sui tool; 100% unanime | logical / external | rejected | Asimmetria fondata sulle sei dita; 100% plausibile su testo davvero generato. |
 | Ricerca testuale nell'archivio tracciabile | logical | resolved | Il testo si confonde nei log meglio di link/fotogrammi; testo invariato. |
 | "Contatto" ≠ produzione; tesi/memoria vs v3.0 | logical / consistency | integrated (v4.0) | Contatto = chi risponde del contenuto. Riassunto in `book-memory.md` riallineato. |
+
+### Ch. 10 — Il bluff
+
+#### Cycle 2 — 2026-10-22 (demolizione dedicata)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Certezza "nessun dispositivo lascia email nei log" contro ciò che Emma sa sui dispositivi anomali | logical / contradiction | integrated (v4.0) | Indizio voluto: Emma ha accesso all'ecosistema Meridian, quindi verifica, non deduce. Promessa da mantenere nel reveal. |
+| "Come ha ottenuto l'indirizzo" è una domanda debole: elab@ era la mail di un gruppo noto | logical | integrated (v4.0) | La domanda diventa "perché ha scritto" (e perché mentire). Aggiornare testo e `mappa-eventi.md`. |
+| "Non era una bugia importante" contro una minaccia diretta: la sproporzione sparisce | contradiction / character | integrated (v4.0) | Paranoia, paura di essere scoperta, diffidenza: per la prima volta un estraneo rischia di scoprire il lavoro che lei cela. Togliere la frase, riallineare claim ed esempio in `emma.md`. Evitare "esistenza". |
+| "Prima che riuscisse a governarlo" contro "lasciarlo accadere / le costava poco" | contradiction | integrated (v4.0) | Due fasi: reazione non governata, poi analisi fredda della propria emotività. Riscrivere la frase finale come osservazione di sé. |
+| La meticolosa con accesso totale non controlla Tom | foundation | accepted-limitation | Accettato per ora: lo farà più avanti. |
+| Bluff a metà capitolo; routine ripresa nel cap. 11 | rhythm / structure | accepted-limitation | Scelta d'autore: presentazione di Emma; il cap. 11 rafforza la routine. |
