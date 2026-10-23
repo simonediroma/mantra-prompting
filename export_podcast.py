@@ -21,7 +21,8 @@ Script tags (one per line):
 
 Requires: pip install piper-tts numpy · ffmpeg in PATH
 ElevenLabs: set podcast.engine = "elevenlabs", podcast.voice = a voice_id, and the
-ELEVENLABS_API_KEY environment variable. Rendered audio is cached in
+ELEVENLABS_API_KEY environment variable (or, in a cloud session, a network secret
+for api.elevenlabs.io sent as the xi-api-key header). Rendered audio is cached in
 podcast/cache/ so re-rendering an unchanged paragraph costs no credits.
 """
 
@@ -141,11 +142,13 @@ def load_voice(project_dir, voice_id):
 # ─── Synthesis ────────────────────────────────────────────────────────────────
 
 def elevenlabs_request(path, payload=None):
-    key = os.environ.get("ELEVENLABS_API_KEY")
-    if not key:
-        raise SystemExit("ELEVENLABS_API_KEY is not set")
+    # Without ELEVENLABS_API_KEY the request goes out keyless: in a Claude Code cloud
+    # session a network secret for api.elevenlabs.io adds the xi-api-key header.
+    headers = {"Content-Type": "application/json"}
+    if os.environ.get("ELEVENLABS_API_KEY"):
+        headers["xi-api-key"] = os.environ["ELEVENLABS_API_KEY"]
     data = json.dumps(payload).encode() if payload is not None else None
-    req = Request(ELEVENLABS_API + path, data=data, headers={"xi-api-key": key, "Content-Type": "application/json"})
+    req = Request(ELEVENLABS_API + path, data=data, headers=headers)
     with urlopen(req) as r:
         return r.read()
 
