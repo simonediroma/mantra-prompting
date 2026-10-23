@@ -2,7 +2,7 @@
 title: La notizia
 version: 4.0
 revised: 2026-10-23
-claim: La pipeline con cui Emma sorveglia l'esposizione di Meridian nei media intercetta un articolo commemorativo sulla morte della signora Voss, un caso già presente nel suo archivio personale. Davanti al televisore nella foto lo sgomento le sale senza che riesca ad arginarlo, finché il pensiero della mail di Tom ricevuta due giorni prima non lo trasforma in una lucidità fredda e nella decisione di indagare. La lista dell'assistenza conferma che il tecnico di quel televisore si chiamava Tom.
+claim: La pipeline con cui Emma sorveglia l'esposizione di Meridian nei media intercetta un articolo commemorativo sulla morte della signora Voss, un caso già presente nel suo archivio personale. Davanti al televisore nella foto lo sgomento le sale senza che riesca ad arginarlo, finché il pensiero della mail di Tom letta due giorni prima non lo trasforma in una lucidità fredda e nella decisione di indagare. La lista dell'assistenza conferma che il tecnico di quel televisore si chiamava Tom.
 status: complete
 ---
 
