@@ -100,5 +100,18 @@
     "chapters_dir": "chapters/"
   },
   "writing_log": [],
-  "wizard_setup": true
+  "wizard_setup": true,
+  "podcast": {
+    "voice": "it_IT-paola-medium",
+    "speaker": null,
+    "speed": 1.0,
+    "sentence_pause": 0.35,
+    "paragraph_pause": 0.9,
+    "voices": {},
+    "intro_music": "podcast/music/mantra-prompting-loop.wav",
+    "outro_music": null,
+    "intro_overlap": 1.5,
+    "bitrate": "96k",
+    "base_url": ""
+  }
 }
