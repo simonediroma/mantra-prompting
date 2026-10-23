@@ -44,4 +44,4 @@ Andò a cercarlo sulla lista originale, quella aggiornata giornalmente dallo ste
 | Paragrafi-lampo "Lesse il nome. / Voss." e "Tom." | rule (rhythm) | integrated (v4.0) | "Il nome della donna era Voss." in apertura di paragrafo; "Si chiamava Tom." dentro il paragrafo della lista. |
 | R1: cinque due punti a metà frase (§1, §2, §3, §5 ×2) | rule R1 | integrated (v4.0) | Sostituiti con punto, virgola, "perché" o riformulazione. |
 | Pipeline "per sapere prima di chiunque in azienda" che scopre la morte giorni dopo registro, Tom e social | contradiction | integrated (v4.0) | Ri-scopata: monitora l'esposizione di Meridian su giornali, siti di notizie e tv, per sapere prima che si diffonda l'informazione se Meridian rischia di finire in cronaca. La morte in sé non è il suo campo. |
-| Lunghezza (~360 parole, un terzo della media) | length | open | Ipotesi: fondere il cap. 12 con il cap. 13 (stesso giorno, stesso POV, azione continua). Da decidere. |
+| Lunghezza (~360 parole, un terzo della media) | length | deferred | Per ora resta separato. Decisione sulla fusione con il cap. 13 rimandata a dopo le prove podcast dell'autore. |

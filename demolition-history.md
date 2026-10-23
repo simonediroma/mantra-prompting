@@ -19,7 +19,7 @@
 | Ch. 9 — internal_unknown | 3 | 9 | 0 | 1 |
 | Ch. 10 — Il bluff | 2 | 8 | 0 | 4 |
 | Ch. 11 — La routine di Emma | 3 | 10 | 1 | 1 |
-| Ch. 12 — La notizia | 2 | 8 | 0 | 3 |
+| Ch. 12 — La notizia | 2 | 8 | 1 | 3 |
 
 ---
 
@@ -51,6 +51,7 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 
 ## Open Deferred Issues
 
+- **Lunghezza cap. 12 (~360 parole)**: per ora resta separato. Fusione con il cap. 13 (non ancora scritto) da decidere dopo le prove podcast dell'autore.
 - **R-110 (cap. 11)**: la risposta di Emma a Tom (fine cap. 10) non è mai mostrata. Va letta da Tom in un breve flashback nel **cap. 17** (regola POV, `mappa-eventi.md` punto 10.6).
 
 ---
@@ -217,4 +218,4 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | Paragrafi-lampo "Voss." / "Tom." | rule (rhythm) | integrated (v4.0) | Assorbiti nei paragrafi. |
 | R1: cinque due punti a metà frase | rule R1 | integrated (v4.0) | Riformulati. |
 | Pipeline "prima di chiunque in azienda" che scopre la morte per ultima | contradiction | integrated (v4.0) | Pipeline di monitoraggio media (giornali, siti di notizie, tv): sapere prima che si diffonda l'informazione se Meridian rischia di finire in cronaca. |
-| Lunghezza (~360 parole) | length | open | Ipotesi di fusione con il cap. 13. Da decidere. |
+| Lunghezza (~360 parole) | length | deferred | Resta separato per ora; fusione con il cap. 13 da decidere dopo le prove podcast. |
