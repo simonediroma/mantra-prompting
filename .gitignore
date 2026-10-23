@@ -3,3 +3,4 @@ podcast/voices/
 podcast/samples/
 podcast/episodes/
 podcast/cache/
+__pycache__/
