@@ -33,10 +33,12 @@ import re
 import shutil
 import subprocess
 import sys
+import time
 import wave
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from pathlib import Path
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 from xml.sax.saxutils import escape
 
@@ -149,8 +151,14 @@ def elevenlabs_request(path, payload=None):
         headers["xi-api-key"] = os.environ["ELEVENLABS_API_KEY"]
     data = json.dumps(payload).encode() if payload is not None else None
     req = Request(ELEVENLABS_API + path, data=data, headers=headers)
-    with urlopen(req) as r:
-        return r.read()
+    for attempt in range(4):
+        try:
+            with urlopen(req) as r:
+                return r.read()
+        except HTTPError as e:
+            if e.code < 500 and e.code != 429 or attempt == 3:
+                raise
+            time.sleep(2 ** (attempt + 1))
 
 def list_elevenlabs_voices():
     voices = json.loads(elevenlabs_request("/voices"))["voices"]
