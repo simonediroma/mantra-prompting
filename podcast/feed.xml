@@ -6,8 +6,8 @@
     <language>it</language>
     <link>https://simonediroma.github.io/mantra-prompting-podcast</link>
     <atom:link href="https://simonediroma.github.io/mantra-prompting-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Author</itunes:author>
-    <itunes:owner><itunes:name>Author</itunes:name><itunes:email>simonediroma27@gmail.com</itunes:email></itunes:owner>
+    <itunes:author>Simone Razzano</itunes:author>
+    <itunes:owner><itunes:name>Simone Razzano</itunes:name><itunes:email>simonediroma27@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://simonediroma.github.io/mantra-prompting-podcast/cover.jpg"/>
     <itunes:category text="Fiction"><itunes:category text="Science Fiction"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
