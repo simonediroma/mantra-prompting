@@ -18,7 +18,7 @@
 | Ch. 8 — Il canale eTv | 2 | 7 | 0 | 2 |
 | Ch. 9 — internal_unknown | 3 | 9 | 0 | 1 |
 | Ch. 10 — Il bluff | 1 | 5 | 0 | 2 |
-| Ch. 11 — La routine di Emma | 2 | 6 | 1 | 0 |
+| Ch. 11 — La routine di Emma | 3 | 10 | 1 | 1 |
 | Ch. 12 — La notizia | 1 | 3 | 0 | 3 |
 
 ---
@@ -31,6 +31,7 @@
 - **Riassunti di `book-memory.md` non riallineati dopo le integrazioni** (cap. 9 ciclo 3: elementi tolti con R-90/R-93 ancora presenti): dopo ogni integrazione aggiornare anche il riassunto del capitolo.
 - **Tic lessicali da AI-slop**: "esattamente", "con la stessa X con cui…", "il tipo di", "restò a fissare", immagini-firma riusate tra capitoli ("fotogramma per fotogramma… da bambino", "trappole gentili", "componente guasto"). Limiti: max 1 per capitolo; "restò a fissare" in max 3 capitoli in tutto. Ricontrollare a ogni nuovo capitolo.
 - **Struttura negativa "Non X. Non Y. Z."** usata come effetto: max 1 per capitolo.
+- **Paragrafi-lampo di una riga** (cap. 1, 3, 11 ciclo 3: "Niente."): assorbirli nel paragrafo circostante.
 - **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
 - **Copia-incolla di descrizioni tra capitoli** (Elab cap. 9/10): ogni ripresa va riscritta dal POV del capitolo.
 
@@ -172,3 +173,15 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | Bias di conferma sui tool; 100% unanime | logical / external | rejected | Asimmetria fondata sulle sei dita; 100% plausibile su testo davvero generato. |
 | Ricerca testuale nell'archivio tracciabile | logical | resolved | Il testo si confonde nei log meglio di link/fotogrammi; testo invariato. |
 | "Contatto" ≠ produzione; tesi/memoria vs v3.0 | logical / consistency | integrated (v4.0) | Contatto = chi risponde del contenuto. Riassunto in `book-memory.md` riallineato. |
+
+### Ch. 11 — La routine di Emma
+
+#### Cycle 3 — 2026-10-23 (demolizione dedicata)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Statistiche sul fenomeno ("uno su centomila", "+30%") in violazione della regola anti-anticipo nata su questo capitolo; +30% monitorato prima della colonna con chip/senza; "curve" da una colonna | rule (early reveal) / contradiction | integrated (v3.0) | Tolte tutte le cifre. Colonna con chip/senza riordinata per mese: senza chip stabili, con chip in crescita regolare. Solo l'effetto. |
+| Nessun canale tra l'articolo eBlog e il frigorifero (un frigo non legge blog); un'autonomia del frigo invertirebbe il meccanismo | foundation / logical | integrated (v3.0) | Il frigo pesca le ricette dal web; è la cliente a chiedere lo stesso smoothie più volte al giorno (ripetizione dall'utente, come nel caso Voss). Emma vede un solo utente e decine di pageview sulla stessa pagina, non un picco di traffico. Allineati outline (cap. 14), mappa-eventi, book-memory. |
+| "Stavolta non trovò nessuna regola aziendale" senza una regola stabilita al mattino | contradiction | rejected (autore) | "Stavolta" si riferisce al ragionamento del mattino (Tom scrive solo in servizio): la logica regge. "Del suo turno" lasciato invariato. |
+| Paragrafo-lampo "Niente." | rule (rhythm) | integrated (v3.0) | Assorbito nel primo paragrafo, meno enfasi: "La risposta non arrivò." |
+| "Prima di pausa pranzo"; "Organizzò un'immagine di copertina" | grammar | integrated (v3.0) | → "Prima della pausa pranzo"; "Generò" (scelta d'autore, indizio lessicale ambiguo ammesso da R-06). |

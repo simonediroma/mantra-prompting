@@ -1,6 +1,6 @@
 ---
 title: La routine di Emma
-version: 2.0
+version: 3.0
 claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai.
 status: complete
 ---
@@ -15,11 +15,11 @@ Il primo era un tutorial sul rinforzo lombare: target, impiegati che restavano s
 
 Il secondo rientrava nella macrocategoria giardinaggio. La domanda che lo aveva fatto emergere era stata postata su un forum dedicato a donne tra i venti e i quarant'anni, con una relazione stabile e monogama in corso. Il sistema di categorizzazione che aveva messo in piedi a volte faceva paura anche a lei, per quanto riusciva a delineare con precisione chirurgica le audience di nicchia che certe fonti monitorate intercettavano. La ragazza che aveva posto la domanda voleva solo una cosa: rendere immortali i fiori che il fidanzato le aveva regalato per il loro anniversario. Aveva generato decine di risposte, donne che si accapigliavano suggerendo la lacca per capelli, chi la plastificazione, chi l'essiccazione, chi la invitava semplicemente a rassegnarsi e godersi quel mazzo nella sua bellezza più fulgida finché durava. Ci fece un articolo lungo più di mille parole, da pubblicare su eBlog.
 
-Passò all'ultimo argomento selezionato: una canzone electro-pop degli anni Ottanta, molto in voga tra gli audiofili perché capace di offrire uno spettro acustico unico per testare gli impianti ad alta fedeltà. Prese il testo e ne produsse una cover riarrangiata, fedele alla caratteristica che piaceva tanto agli audiofili ma rivista in una chiave decisamente più moderna. Organizzò un'immagine di copertina e la pubblicò su Mixcloud, sul profilo eDj.
+Passò all'ultimo argomento selezionato: una canzone electro-pop degli anni Ottanta, molto in voga tra gli audiofili perché capace di offrire uno spettro acustico unico per testare gli impianti ad alta fedeltà. Prese il testo e ne produsse una cover riarrangiata, fedele alla caratteristica che piaceva tanto agli audiofili ma rivista in una chiave decisamente più moderna. Generò un'immagine di copertina e la pubblicò su Mixcloud, sul profilo eDj.
 
 Non trovò nulla di utile per eStories e preferì non forzare la mano: meglio aspettare. Il podcast, tra tutti i canali, restava il più difficile: forse lo stesso approccio generalista che funzionava bene sugli altri si addiceva poco a quel formato. Rimandò a un altro momento la riflessione su un eventuale cambio di sistema di pubblicazione.
 
-Prima di pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora. Stavolta non trovò nessuna regola aziendale a cui appellarsi: se era davvero al lavoro, avrebbe potuto scriverle in qualunque momento, esattamente come aveva già dimostrato di saper fare. Si disse che avrebbe avuto le sue buone ragioni per aspettare, ma la frase le suonò più come una scusa preparata in anticipo che come un ragionamento onesto.
+Prima della pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora. Stavolta non trovò nessuna regola aziendale a cui appellarsi: se era davvero al lavoro, avrebbe potuto scriverle in qualunque momento, esattamente come aveva già dimostrato di saper fare. Si disse che avrebbe avuto le sue buone ragioni per aspettare, ma la frase le suonò più come una scusa preparata in anticipo che come un ragionamento onesto.
 
 Il pomeriggio lo passò, come sempre, controllando la lista dei dispositivi in assistenza. La lista veniva aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica. Lei, in parallelo, teneva un proprio archivio, in cui segnava i casi di dispositivi con IA integrata che riportavano anomalie segnalate dai clienti, ma senza alcuna evidenza di guasto hardware o alterazione software: prodotti al cento per cento funzionanti per gli standard Meridian, che per qualche ragione avevano smesso di fare quello che i loro utenti chiedevano.
 
@@ -52,3 +52,13 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 | R-114 Capitolo-elenco di task, poca tensione | pacing | integrated (v2.0) | L'attesa della risposta diventa scena nel finale (inbox aperta fino alle diciassette, chiusa vuota). |
 | Controllo finale: cifre in narrazione ("0,001%") | consistency (regola 5) | integrated (v2.0) | → "circa uno su centomila". |
 | Cover eDj: "electro-pop di fine anni Ottanta" incoerente con un possibile brano del 1983 | consistency | integrated (v2.0) | Su indicazione dell'autore → "degli anni Ottanta". È la cover di *Vacanze romane* (1983) del reveal futuro, registrata in `book-memory.md → Open Promises`. |
+
+### Cycle 3 — 2026-10-23 (demolizione dedicata)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Statistiche sul fenomeno ("uno su centomila", "+30%") in violazione della regola anti-anticipo nata su questo capitolo; +30% monitorato prima della colonna con chip/senza; "curve" da una colonna | rule (early reveal) / contradiction | integrated (v3.0) | Tolte tutte le cifre. Colonna con chip/senza riordinata per mese: senza chip stabili, con chip in crescita regolare. Solo l'effetto. |
+| Nessun canale tra l'articolo eBlog e il frigorifero (un frigo non legge blog); un'autonomia del frigo invertirebbe il meccanismo | foundation / logical | integrated (v3.0) | Il frigo pesca le ricette dal web; è la cliente a chiedere lo stesso smoothie più volte al giorno (ripetizione dall'utente, come nel caso Voss). Emma vede un solo utente e decine di pageview sulla stessa pagina, non un picco di traffico. Allineati outline (cap. 14), mappa-eventi, book-memory. |
+| "Stavolta non trovò nessuna regola aziendale" senza una regola stabilita al mattino | contradiction | rejected (autore) | "Stavolta" si riferisce al ragionamento del mattino (Tom scrive solo in servizio): la logica regge. "Del suo turno" lasciato invariato. |
+| Paragrafo-lampo "Niente." | rule (rhythm) | integrated (v3.0) | Assorbito nel primo paragrafo, meno enfasi: "La risposta non arrivò." |
+| "Prima di pausa pranzo"; "Organizzò un'immagine di copertina" | grammar | integrated (v3.0) | → "Prima della pausa pranzo"; "Generò" (scelta d'autore, indizio lessicale ambiguo ammesso da R-06). |
