@@ -76,6 +76,7 @@ DEFAULT_PODCAST = {
 SAMPLE_RATE = 22050
 VOICES_JSON = "https://huggingface.co/rhasspy/piper-voices/resolve/main/voices.json?download=true"
 ELEVENLABS_API = "https://api.elevenlabs.io/v1"
+ELEVENLABS_MAX_CHARS = 1000
 
 
 # ─── Config ───────────────────────────────────────────────────────────────────
@@ -307,12 +308,15 @@ def render_events(project_dir, events, settings):
 
 def render_events_elevenlabs(project_dir, events, settings):
     """Whole paragraphs per request: better prosody than sentence by sentence."""
+    # Long paragraphs are split at sentence boundaries: very long requests fail (502).
     blocks, current = [], None
     for ev in events:
         if ev[0] == "say":
-            if current and current[0] == ev[1]:
+            if current and current[0] == ev[1] and len(" ".join(current[1])) + len(ev[2]) < ELEVENLABS_MAX_CHARS:
                 current[1].append(ev[2])
             else:
+                if current and current[0] == ev[1]:
+                    blocks.append(("join",))
                 current = [ev[1], [ev[2]]]
                 blocks.append(("say", current))
         else:
@@ -328,6 +332,8 @@ def render_events_elevenlabs(project_dir, events, settings):
             i += 1
         elif b[0] == "pause":
             pieces.append(silence(b[1]))
+        elif b[0] == "join":
+            pieces.append(silence(settings["sentence_pause"]))
         else:
             pieces.append(silence(settings["paragraph_pause"]))
     return np.concatenate(pieces) if pieces else silence(0)

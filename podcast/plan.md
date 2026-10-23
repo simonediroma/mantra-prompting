@@ -13,10 +13,10 @@ Fonte: `chapters/` (cap. 1-5 ancora in `draft`). Sezioni `## Demolition Log` esc
 | 6 | Il ricondizionamento | 1.135 | 7.311 | ~8 min | rendered |
 | 7 | La ragazza con sei dita | 1.252 | 7.605 | ~8 min | rendered |
 | 8 | Il canale eTv | 588 | 3.653 | ~4 min | rendered |
-| 9 | internal_unknown | 1.085 | 7.123 | ~7 min | approved |
-| 10 | Il bluff | 1.124 | 6.960 | ~7 min | approved |
-| 11 | La routine di Emma | 1.001 | 6.310 | ~7 min | approved |
-| 12 | La notizia | 449 | 2.859 | ~3 min | approved |
+| 9 | internal_unknown | 1.085 | 7.123 | ~7 min | rendered |
+| 10 | Il bluff | 1.124 | 6.960 | ~7 min | rendered |
+| 11 | La routine di Emma | 1.001 | 6.310 | ~7 min | rendered |
+| 12 | La notizia | 449 | 2.859 | ~3 min | rendered |
 
 ## Pronunciation
 
