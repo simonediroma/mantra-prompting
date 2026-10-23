@@ -914,21 +914,33 @@ def feed(project_dir):
     episodes_dir = project_dir / "podcast" / "episodes"
     title = escape(config.get("title", "Podcast"))
     author = escape(settings.get("owner_name") or author_name(config))
-    scripts = [s for s in episode_scripts(project_dir, []) if (episodes_dir / f"{s.stem}.mp3").exists()]
-    # Staggered dates (one hour apart) so every app lists the episodes in order.
-    newest = max((episodes_dir / f"{s.stem}.mp3").stat().st_mtime for s in scripts) if scripts else 0
+    # podcast/episodes.json keeps size, duration and publication date of every published
+    # episode, so the feed can be rebuilt later without the MP3s on disk and old dates never move.
+    registry_path = project_dir / "podcast" / "episodes.json"
+    registry = json.loads(registry_path.read_text(encoding="utf-8")) if registry_path.exists() else {}
+    for script in episode_scripts(project_dir, []):
+        mp3 = episodes_dir / f"{script.stem}.mp3"
+        if mp3.exists():
+            entry = registry.setdefault(script.stem, {})
+            entry.update(length=mp3.stat().st_size, seconds=int(audio_duration(mp3)))
+            if "pub" not in entry:
+                last = max((e["pub"] for e in registry.values() if "pub" in e), default=0)
+                entry["pub"] = int(max(datetime.now(timezone.utc).timestamp(), last + 3600))
+    registry_path.write_text(json.dumps(registry, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    scripts = [s for s in episode_scripts(project_dir, []) if s.stem in registry]
     items = []
-    for i, script in enumerate(scripts):
+    for script in scripts:
+        entry = registry[script.stem]
         mp3 = episodes_dir / f"{script.stem}.mp3"
         meta, _ = split_frontmatter(script.read_text(encoding="utf-8"))
-        date = datetime.fromtimestamp(newest - 3600 * (len(scripts) - 1 - i), tz=timezone.utc)
+        date = datetime.fromtimestamp(entry["pub"], tz=timezone.utc)
         url = f"{base}/{mp3.name}" if base else mp3.name
-        seconds = int(audio_duration(mp3))
+        seconds = entry["seconds"]
         items.append(f"""    <item>
       <title>{escape(meta.get('title', script.stem))}</title>
       <itunes:title>{escape(meta.get('title', script.stem))}</itunes:title>
       <description>{escape(meta.get('description', ''))}</description>
-      <enclosure url="{escape(url)}" length="{mp3.stat().st_size}" type="audio/mpeg"/>
+      <enclosure url="{escape(url)}" length="{entry['length']}" type="audio/mpeg"/>
       <guid isPermaLink="false">{escape(script.stem)}</guid>
       <pubDate>{format_datetime(date)}</pubDate>
       <itunes:duration>{seconds // 60}:{seconds % 60:02d}</itunes:duration>
@@ -963,6 +975,8 @@ def feed(project_dir):
 """
     out = project_dir / "podcast" / "feed.xml"
     out.write_text(xml, encoding="utf-8")
+    if (project_dir / "docs").is_dir():   # GitHub Pages copy
+        (project_dir / "docs" / "feed.xml").write_text(xml, encoding="utf-8")
     print(f"✅ {out} ({len(items)} episodes)")
 
 
