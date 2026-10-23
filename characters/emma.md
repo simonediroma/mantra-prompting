@@ -13,7 +13,7 @@ Si presenta e si comporta per tutto il libro come una ricercatrice umana di una 
 
 ## Voce
 
-> "È impossibile che la mail fosse nei log — come l'ha ottenuta davvero? Perché mi sta mentendo?"
+> "È impossibile che la mail fosse nei log — perché mi hai scritto davvero? Perché mi stai mentendo?"
 > "Ciao, il piacere è mio. Scusa se ti ho proposto di sentirci subito senza vederci, ma tagliamo la testa al toro."
 > "Puoi aiutarmi, collega?"
 

@@ -139,7 +139,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ### Capitolo 10 — Il bluff
 **POV**: Emma
-**Obiettivo di scena**: Tom scrive un'email-bluff ("ho trovato la vostra mail nei log di un televisore"). Emma la legge, si infastidisce (nessuno scriveva da tempo a quella casella), smaschera subito il bluff: "è impossibile che la mail fosse nei log — come l'ha ottenuta davvero? Perché mi sta mentendo?"
+**Obiettivo di scena**: Tom scrive un'email-bluff ("ho trovato la vostra mail nei log di un televisore"). Emma la legge, si infastidisce (nessuno scriveva da tempo a quella casella), smaschera subito il bluff: "è impossibile che la mail fosse nei log — perché mi hai scritto davvero? Perché mi stai mentendo?"
 **Beat chiave**: primo contatto diretto tra i due protagonisti; primo capitolo dal POV di Emma — regola stilistica confermata (si legge la mail dal punto di vista del destinatario).
 **Collegamento al precedente**: risposta diretta al cap. 9.
 **Collegamento al successivo**: il silenzio di Tom, e la routine di Emma.

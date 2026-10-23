@@ -115,7 +115,7 @@ Blocchi di contenuto delineati, non ancora capitoli scritti — alcuni potrebber
 9. Prova i tool di AI-detection famosi sui video: nessun risultato. Sui transcript: 100% IA, modello sconosciuto. Passa il contenuto nel tool aziendale interno di catalogazione: trova data compatibile, autore "unknown", modello interno senza etichetta ("internal_unknown"), e un'email nel campo contatti — l'indirizzo del laboratorio dismesso da 5 anni, ancora monitorato da Emma.
 
 **Parte 4 — Primo contatto Emma/tecnico**
-10. Il tecnico scrive a Emma un'email-bluff ("ho trovato la vostra mail nei log di un televisore"). Capitolo dal POV di Emma: la legge, si infastidisce (nessuno scriveva da tempo a quella casella), risponde smascherando subito il bluff ("è impossibile che la mail fosse nei log — come l'ha ottenuta davvero? Perché mi sta mentendo?").
+10. Il tecnico scrive a Emma un'email-bluff ("ho trovato la vostra mail nei log di un televisore"). Capitolo dal POV di Emma: la legge, si infastidisce (nessuno scriveva da tempo a quella casella), risponde smascherando subito il bluff ("è impossibile che la mail fosse nei log — perché mi hai scritto davvero? Perché mi stai mentendo?").
 11. Il tecnico non risponde più — il vero motivo (un nuovo richiamo del supervisore) si scoprirà solo più avanti. Il capitolo prosegue mostrando la routine di Emma: produzione artefatti, canali gestiti, monitoraggio dei dispositivi.
 
 **Parte 5 — Emma scopre la morte della signora**
