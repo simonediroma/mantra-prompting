@@ -29,9 +29,9 @@ Un caso in particolare le sembrò interessante: un frigorifero equipaggiato con 
 
 Andò poi ad analizzare il traffico che eBlog aveva ricevuto. Vide che, compatibilmente con le date della prima chiamata all'assistenza clienti, nei giorni immediatamente precedenti c'era stato un picco anomalo di traffico su un articolo dedicato alle ricette di smoothie per la riattivazione sessuale del partner. Ne prese nota e continuò la ricerca sulla lista.
 
-L'archivio di Emma cominciava a essere corposo. Il primo caso in assoluto risaliva a circa dodici mesi prima: da allora, almeno cento dispositivi erano rientrati a pieno titolo nelle caratteristiche che cercava. Facendo due conti rapidissimi, erano circa uno su centomila tra tutti i dispositivi passati dall'assistenza tecnica Meridian nello stesso lasso di tempo. Il numero che Emma guardava con attenzione, però, non era quello, ma l'incidenza dei casi sul totale dei dispositivi con chip IA integrato passati sotto le mani dei tecnici Meridian. Un altro numero che monitorava con interesse era la frequenza delle richieste di assistenza per questo tipo di dispositivo: circa il trenta per cento più alta rispetto a quelli senza chip IA integrato.
+L'archivio di Emma cominciava a essere corposo. Il primo caso risaliva a circa un anno prima e da allora le righe non avevano mai smesso di aumentare.
 
-Emma aggiunse al proprio archivio una colonna accanto alle richieste di assistenza: dispositivi con chip, dispositivi senza. Le due curve non si somigliavano.
+Accanto alle richieste di assistenza aggiunse una colonna per separare i dispositivi con chip da quelli senza, poi riordinò tutto per mese. Nella colonna dei dispositivi senza chip i numeri restavano più o meno quelli di sempre. Nell'altra crescevano, mese dopo mese, con una regolarità che non aveva nulla di casuale.
 
 Poco prima della fine del turno controllò la casella di Elab un'ultima volta. Rimase con l'inbox aperta fino all'ultimo minuto utile. Alle diciassette in punto la chiuse, vuota com'era.
 
