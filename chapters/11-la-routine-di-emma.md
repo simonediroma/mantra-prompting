@@ -6,7 +6,7 @@ status: complete
 revised: 2026-10-23
 ---
 
-Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio. Non aveva ricevuto alcuna notifica, ma decise comunque di fare un giro nell'inbox, quasi ad aspettare che Tom rispondesse all'email mentre lei era intenta a rassettare la casella di posta, che non aveva poi così tanto da rassettare. La risposta non arrivò.
+Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio. Non aveva ricevuto alcuna notifica, ma decise comunque di fare un giro nell'inbox, quasi ad aspettare che Tom rispondesse alla mail mentre lei era intenta a rassettare la casella di posta, che non aveva poi così tanto da rassettare. La risposta non arrivò.
 
 Tom, del resto, non avrebbe potuto scriverle di nuovo finché non fosse tornato in servizio. Minuti alla mano, gli aveva risposto poco prima della fine del suo turno, quindi il primo momento libero della mattinata di Tom sarebbe stato un'occasione buona per farlo, anche se non era detto che coincidesse con l'orario in cui lei era solita controllare la posta.
 
