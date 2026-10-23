@@ -71,6 +71,16 @@ DEFAULT_PODCAST = {
     "intro_overlap": 1.5,     # seconds the voice starts before the intro music ends
     "bitrate": "96k",
     "base_url": "",           # public URL where the MP3s will be hosted (for feed.xml)
+    "feed_url": "",           # public URL of feed.xml itself
+    "link": "",               # podcast website (defaults to base_url)
+    "description": "",        # show description (defaults to the book subtitle/title)
+    "cover_url": "",          # 3000x3000 JPG/PNG, required by Spotify and Apple
+    "owner_name": "",         # defaults to the book author
+    "owner_email": "",        # required by Spotify and Apple to verify ownership
+    "category": "Fiction",    # Apple Podcasts category
+    "subcategory": None,      # e.g. "Science Fiction"
+    "explicit": False,
+    "type": "episodic",       # "serial" when episodes must be heard in order
 }
 
 SAMPLE_RATE = 22050
@@ -898,33 +908,55 @@ def feed(project_dir):
     base = settings["base_url"].rstrip("/")
     if not base:
         print("⚠️  podcast.base_url is empty — enclosure URLs will be relative. Set it before publishing.")
+    for key in ("feed_url", "cover_url", "owner_email"):
+        if not settings.get(key):
+            print(f"⚠️  podcast.{key} is empty — Spotify and Apple Podcasts require it.")
     episodes_dir = project_dir / "podcast" / "episodes"
     title = escape(config.get("title", "Podcast"))
-    author = escape(author_name(config))
+    author = escape(settings.get("owner_name") or author_name(config))
+    scripts = [s for s in episode_scripts(project_dir, []) if (episodes_dir / f"{s.stem}.mp3").exists()]
+    # Staggered dates (one hour apart) so every app lists the episodes in order.
+    newest = max((episodes_dir / f"{s.stem}.mp3").stat().st_mtime for s in scripts) if scripts else 0
     items = []
-    for script in episode_scripts(project_dir, []):
+    for i, script in enumerate(scripts):
         mp3 = episodes_dir / f"{script.stem}.mp3"
-        if not mp3.exists():
-            continue
         meta, _ = split_frontmatter(script.read_text(encoding="utf-8"))
-        date = datetime.fromtimestamp(mp3.stat().st_mtime, tz=timezone.utc)
+        date = datetime.fromtimestamp(newest - 3600 * (len(scripts) - 1 - i), tz=timezone.utc)
         url = f"{base}/{mp3.name}" if base else mp3.name
+        seconds = int(audio_duration(mp3))
         items.append(f"""    <item>
       <title>{escape(meta.get('title', script.stem))}</title>
+      <itunes:title>{escape(meta.get('title', script.stem))}</itunes:title>
       <description>{escape(meta.get('description', ''))}</description>
       <enclosure url="{escape(url)}" length="{mp3.stat().st_size}" type="audio/mpeg"/>
       <guid isPermaLink="false">{escape(script.stem)}</guid>
       <pubDate>{format_datetime(date)}</pubDate>
+      <itunes:duration>{seconds // 60}:{seconds % 60:02d}</itunes:duration>
       <itunes:episode>{escape(meta.get('episode', ''))}</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>{'true' if settings.get('explicit') else 'false'}</itunes:explicit>
     </item>""")
+    description = escape(settings.get("description") or config.get("subtitle") or config.get("title", ""))
+    category = escape(settings.get("category") or "Fiction")
+    subcategory = settings.get("subcategory")
+    category_xml = (f'<itunes:category text="{category}"><itunes:category text="{escape(subcategory)}"/></itunes:category>'
+                    if subcategory else f'<itunes:category text="{category}"/>')
+    feed_url = escape(settings.get("feed_url") or "")
+    cover = escape(settings.get("cover_url") or "")
     xml = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{title}</title>
-    <description>{escape(config.get('subtitle', '') or config.get('title', ''))}</description>
+    <description>{description}</description>
     <language>{escape(config.get('language', 'en'))}</language>
+    <link>{escape(settings.get('link') or base)}</link>
+    <atom:link href="{feed_url}" rel="self" type="application/rss+xml"/>
     <itunes:author>{author}</itunes:author>
-    <link>{escape(base)}</link>
+    <itunes:owner><itunes:name>{author}</itunes:name><itunes:email>{escape(settings.get('owner_email') or '')}</itunes:email></itunes:owner>
+    <itunes:image href="{cover}"/>
+    {category_xml}
+    <itunes:explicit>{'true' if settings.get('explicit') else 'false'}</itunes:explicit>
+    <itunes:type>{escape(settings.get('type') or 'episodic')}</itunes:type>
 {chr(10).join(items)}
   </channel>
 </rss>

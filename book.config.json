@@ -112,11 +112,21 @@
     "outro_music": null,
     "intro_overlap": 1.5,
     "bitrate": "96k",
-    "base_url": "",
+    "base_url": "https://github.com/simonediroma/mantra-prompting-podcast/releases/download/stagione-1",
     "engine": "elevenlabs",
     "model": "eleven_v4",
     "stability": 0.5,
     "similarity_boost": 0.75,
-    "style": 0.0
+    "style": 0.0,
+    "feed_url": "https://simonediroma.github.io/mantra-prompting-podcast/feed.xml",
+    "link": "https://simonediroma.github.io/mantra-prompting-podcast",
+    "cover_url": "https://simonediroma.github.io/mantra-prompting-podcast/cover.jpg",
+    "description": "Un tecnico che ripara elettrodomestici per Meridian, il colosso che ha messo un'intelligenza artificiale in ogni oggetto di casa. Un televisore che risponde in codice Morse. Un mistero che porta dritto al cuore dell'azienda. Una serie di fantascienza a puntate, tra X-Files e l'ironia di Douglas Adams.",
+    "owner_name": "",
+    "owner_email": "",
+    "category": "Fiction",
+    "subcategory": "Science Fiction",
+    "explicit": false,
+    "type": "serial"
   }
 }
