@@ -3,7 +3,7 @@ episode: 7
 title: "Capitolo 7 — La ragazza con sei dita"
 description: "Un video di yoga, riguardato fotogramma per fotogramma, finché qualcosa non torna."
 source: chapters/07-la-ragazza-con-sei-dita.md
-status: script
+status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio sette.
 

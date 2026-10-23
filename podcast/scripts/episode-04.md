@@ -3,7 +3,7 @@ episode: 4
 title: "Capitolo 4 — La chiamata alla signora"
 description: "Tom prova a sondare una persona invece di una macchina: la proprietaria del primo televisore."
 source: chapters/04-la-chiamata-alla-signora.md
-status: script
+status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio quattro.
 

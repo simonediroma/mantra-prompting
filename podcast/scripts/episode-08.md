@@ -3,7 +3,7 @@ episode: 8
 title: "Capitolo 8 — Il canale eTv"
 description: "Un canale senza volto, molte visualizzazioni, pochi iscritti e un ritmo che non ha senso."
 source: chapters/08-il-canale-etv.md
-status: script
+status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio otto.
 

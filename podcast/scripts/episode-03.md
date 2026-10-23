@@ -3,7 +3,7 @@ episode: 3
 title: "Capitolo 3 — Secondo contatto"
 description: "Tre mesi di efficienza esemplare. Poi, sul banco, un televisore identico al primo."
 source: chapters/03-secondo-contatto.md
-status: script
+status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio tre.
 

@@ -3,7 +3,7 @@ episode: 12
 title: "Capitolo 12 — La notizia"
 description: "Una pipeline che sorveglia le notizie su Meridian intercetta un articolo che Emma non può ignorare."
 source: chapters/12-la-notizia.md
-status: script
+status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio dodici.
 

@@ -3,7 +3,7 @@ episode: 11
 title: "Capitolo 11 — La routine di Emma"
 description: "Una giornata nella routine di Emma, in attesa di una mail che non arriva."
 source: chapters/11-la-routine-di-emma.md
-status: script
+status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio undici.
 

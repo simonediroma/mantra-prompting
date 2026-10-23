@@ -3,7 +3,7 @@ episode: 6
 title: "Capitolo 6 — Il ricondizionamento"
 description: "Un televisore con l'etichetta gialla torna sul banco di Tom, insieme a una domanda che non lo lascia."
 source: chapters/06-il-ricondizionamento.md
-status: script
+status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio sei.
 

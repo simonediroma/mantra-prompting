@@ -3,7 +3,7 @@ episode: 2
 title: "Capitolo 2 — Stallo burocratico"
 description: "Meridian misura il mondo in minuti e secondi. La curiosità di Tom ne ha sforati dodici."
 source: chapters/02-stallo-burocratico.md
-status: script
+status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio due.
 

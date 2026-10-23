@@ -3,7 +3,7 @@ episode: 5
 title: "Capitolo 5 — L'avvertimento"
 description: "Un video girato in fretta, un LED che lampeggia e un messaggio da ricostruire lettera per lettera."
 source: chapters/05-lavvertimento.md
-status: script
+status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio cinque.
 
