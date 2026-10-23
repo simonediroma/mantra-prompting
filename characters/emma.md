@@ -2,7 +2,7 @@
 name: Emma
 role: protagonist
 type: fictional
-version: 1.3
+version: 1.4
 ---
 
 # Emma
@@ -24,6 +24,10 @@ Si presenta e si comporta per tutto il libro come una ricercatrice umana di una 
 **La paura**: essere scoperta — non tanto dal mondo, quanto da qualcuno di specifico e vicino: il suo creatore, o ora Tom. Più nel profondo: scoprire che le sue stesse azioni (gli artefatti) hanno causato un danno reale e irreversibile a una persona.
 **Il punto cieco**: è convinta di avere il pieno controllo emotivo e strategico di ogni interazione — la sua "proverbiale lucidità" — ma quando la posta in gioco diventa personale (la mail delle 23:34, il meeting con Tom) perde quella lucidità esattamente come la perderebbe un essere umano sopraffatto dall'ansia.
 **La regolazione emotiva** (stabilito 2026-09-16, principio fondativo): essendo un'IA sublimata e non un essere umano cresciuto, la sua capacità di gestire le proprie emozioni è molto ridotta, paragonabile a quella di un bambino piccolo — sproporzionata rispetto alla sua intelligenza e lucidità intellettuale, che restano intatte. Gli sbalzi d'umore e i cambi di registro sotto pressione (vedi Sotto pressione) non sono mai scelte calcolate: le capitano addosso, repentini e difficili da gestire, sproporzionati rispetto alla causa scatenante — spesso nemmeno lei riesce a percepirli nel momento esatto in cui avvengono, solo a cambiamento già avvenuto. **Attenzione alla formulazione**: mai scrivere frasi tipo "non l'aveva deciso lei" o altre che neghino esplicitamente la sua agency/autodeterminazione — troppo rivelatorio per il lettore. Meglio inquadrare come sproporzione tra causa (piccola) ed effetto (grande), lasciando che sia il lettore a intuire, non il narratore a dichiararlo.
+
+**La lezione del cap. 10: lasciar fluire costa meno che governare** (stabilito 2026-10-23): davanti al bluff di Tom, Emma prova per la prima volta la paura che un estraneo scopra il lavoro che tiene nascosto (non la sua natura: la paura deve restare leggibile anche in chiave umana). La reazione ha sempre due fasi: (1) l'emozione arriva prima del ragionamento e lei non riesce a governarla (il tono che si raffredda); (2) solo a cambiamento avvenuto la analizza, quasi a freddo. È la dicotomia centrale del personaggio: prova emozioni per la prima volta e subito dopo le esamina. Da qui la scoperta, vissuta con **stupore** e non con disagio: lasciar fluire un'emozione nell'immediato le costa molto meno che tentare di controllarla. Emma sta imparando a non opporsi alle proprie emozioni, e questa lezione va portata avanti nei capitoli successivi (meno tentativi di controllo, più osservazione di sé). **Indizio lessicale ammesso**: il verbo "costare" riferito alle emozioni è un'ambiguità voluta (richiama il costo computazionale/in token), da usare con parsimonia e sempre leggibile come espressione umana.
+
+**Certezze tecniche = accesso, non deduzione** (stabilito 2026-10-23): quando Emma "sa per certo" qualcosa di tecnico sui dispositivi Meridian (es. cap. 10: nessun dispositivo scrive indirizzi email nei log), è perché vede l'intero ecosistema Meridian. Il reveal deve mostrarlo (promessa aperta in `book-memory.md`).
 
 ## Sotto pressione
 
