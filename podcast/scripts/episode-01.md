@@ -3,7 +3,7 @@ episode: 1
 title: "Capitolo 1 — Primo contatto"
 description: "Un tecnico Meridian, un televisore che non dovrebbe avere niente da dire e un LED che lampeggia nel modo sbagliato."
 source: chapters/01-primo-contatto.md
-status: script
+status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio uno.
 

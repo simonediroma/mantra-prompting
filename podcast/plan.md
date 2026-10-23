@@ -1,11 +1,11 @@
 # Piano podcast — Mantra Prompting: Incontrando Emma
 
-Formato: narrato, una voce (Paola, `it_IT-paola-medium`). Intro: `podcast/music/mantra-prompting-loop.wav`. Nessuna outro.
+Formato: narrato, una voce (Riccardo, `it_IT-riccardo-x_low`, speed 0.9). Intro: `podcast/music/mantra-prompting-loop.wav`. Nessuna outro.
 Fonte: `chapters/` (cap. 1-5 ancora in `draft`). Sezioni `## Demolition Log` escluse dai copioni.
 
 | Ep | Capitolo | Parole | Durata | Stato |
 |---|---|---|---|---|
-| 1 | Primo contatto | 2.350 | ~16 min | script |
+| 1 | Primo contatto | 2.350 | ~16 min | approved |
 | 2 | Stallo burocratico | 1.660 | ~11 min | todo |
 | 3 | Secondo contatto | 1.830 | ~12 min | todo |
 | 4 | La chiamata alla signora | 1.820 | ~12 min | todo |

@@ -102,9 +102,9 @@
   "writing_log": [],
   "wizard_setup": true,
   "podcast": {
-    "voice": "it_IT-paola-medium",
+    "voice": "it_IT-riccardo-x_low",
     "speaker": null,
-    "speed": 1.0,
+    "speed": 0.9,
     "sentence_pause": 0.35,
     "paragraph_pause": 0.9,
     "voices": {},
