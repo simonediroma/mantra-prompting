@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
 Ghost Writer — Podcast Export Script
-Turns the episode scripts in podcast/scripts/ into MP3 episodes, using only
-free and open-source tools: Piper (offline neural TTS) + ffmpeg.
+Turns the episode scripts in podcast/scripts/ into MP3 episodes, using
+Piper (free, offline neural TTS) or ElevenLabs (paid API) + ffmpeg.
 
 Usage:
-  python3 export_podcast.py voices [lang]          # list Piper voices (default: book language)
+  python3 export_podcast.py voices [lang]          # list voices (Piper catalog, or your ElevenLabs voices)
   python3 export_podcast.py sample VOICE [...]     # download voice(s), render a short sample
   python3 export_podcast.py build [scripts...]     # render episodes (default: all scripts)
   python3 export_podcast.py feed                   # write podcast/feed.xml (RSS)
@@ -20,9 +20,14 @@ Script tags (one per line):
   [narrator]           back to the narrator voice
 
 Requires: pip install piper-tts numpy · ffmpeg in PATH
+ElevenLabs: set podcast.engine = "elevenlabs", podcast.voice = a voice_id, and the
+ELEVENLABS_API_KEY environment variable. Rendered audio is cached in
+podcast/cache/ so re-rendering an unchanged paragraph costs no credits.
 """
 
+import hashlib
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -31,7 +36,7 @@ import wave
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from pathlib import Path
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
 from xml.sax.saxutils import escape
 
 import numpy as np
@@ -47,7 +52,12 @@ DEFAULT_VOICES = {
 }
 
 DEFAULT_PODCAST = {
-    "voice": None,            # Piper voice id, e.g. it_IT-paola-medium
+    "engine": "piper",        # "piper" (free, offline) or "elevenlabs" (paid API)
+    "model": "eleven_multilingual_v2",  # ElevenLabs model id
+    "stability": 0.5,         # ElevenLabs voice settings
+    "similarity_boost": 0.75,
+    "style": 0.0,
+    "voice": None,            # Piper voice id (e.g. it_IT-paola-medium) or ElevenLabs voice_id
     "speaker": None,          # speaker id, only for multi-speaker voices
     "speed": 1.0,             # 1.0 = natural, 0.9 = slower, 1.1 = faster
     "sentence_pause": 0.35,   # seconds between sentences
@@ -62,6 +72,7 @@ DEFAULT_PODCAST = {
 
 SAMPLE_RATE = 22050
 VOICES_JSON = "https://huggingface.co/rhasspy/piper-voices/resolve/main/voices.json?download=true"
+ELEVENLABS_API = "https://api.elevenlabs.io/v1"
 
 
 # ─── Config ───────────────────────────────────────────────────────────────────
@@ -77,7 +88,7 @@ def podcast_settings(config):
     settings = dict(DEFAULT_PODCAST)
     settings.update(config.get("podcast") or {})
     lang = (config.get("language") or "en")[:2]
-    if not settings["voice"]:
+    if not settings["voice"] and settings["engine"] == "piper":
         settings["voice"] = DEFAULT_VOICES.get(lang, DEFAULT_VOICES["en"])
     return settings
 
@@ -128,6 +139,46 @@ def load_voice(project_dir, voice_id):
 
 
 # ─── Synthesis ────────────────────────────────────────────────────────────────
+
+def elevenlabs_request(path, payload=None):
+    key = os.environ.get("ELEVENLABS_API_KEY")
+    if not key:
+        raise SystemExit("ELEVENLABS_API_KEY is not set")
+    data = json.dumps(payload).encode() if payload is not None else None
+    req = Request(ELEVENLABS_API + path, data=data, headers={"xi-api-key": key, "Content-Type": "application/json"})
+    with urlopen(req) as r:
+        return r.read()
+
+def list_elevenlabs_voices():
+    voices = json.loads(elevenlabs_request("/voices"))["voices"]
+    for v in sorted(voices, key=lambda v: v["name"]):
+        labels = ", ".join(f"{k}={x}" for k, x in (v.get("labels") or {}).items())
+        print(f"  {v['voice_id']}  {v['name']:<28} {labels}")
+
+def synthesize_elevenlabs(project_dir, text, voice_cfg, previous_text=None, next_text=None):
+    """One paragraph via the ElevenLabs API, cached by text + voice settings."""
+    params = {k: voice_cfg.get(k) for k in ("voice", "model", "speed", "stability", "similarity_boost", "style")}
+    key = hashlib.sha256(json.dumps([text, params], sort_keys=True).encode()).hexdigest()[:24]
+    cache = Path(project_dir) / "podcast" / "cache" / "elevenlabs" / f"{key}.pcm"
+    if not cache.exists():
+        payload = {
+            "text": text,
+            "model_id": params["model"],
+            "voice_settings": {
+                "stability": params["stability"],
+                "similarity_boost": params["similarity_boost"],
+                "style": params["style"],
+                "speed": min(max(float(params["speed"] or 1.0), 0.7), 1.2),
+            },
+        }
+        if previous_text:
+            payload["previous_text"] = previous_text
+        if next_text:
+            payload["next_text"] = next_text
+        pcm = elevenlabs_request(f"/text-to-speech/{params['voice']}?output_format=pcm_{SAMPLE_RATE}", payload)
+        cache.parent.mkdir(parents=True, exist_ok=True)
+        cache.write_bytes(pcm)
+    return np.frombuffer(cache.read_bytes(), dtype=np.int16)
 
 def synthesize(project_dir, text, voice_cfg):
     """Return mono int16 audio at SAMPLE_RATE for one sentence."""
@@ -219,7 +270,7 @@ def parse_script(text):
 # ─── Rendering ────────────────────────────────────────────────────────────────
 
 def voice_config(settings, name):
-    base = {"voice": settings["voice"], "speaker": settings["speaker"], "speed": settings["speed"]}
+    base = {k: settings[k] for k in ("engine", "voice", "speaker", "speed", "model", "stability", "similarity_boost", "style")}
     if name is None:
         return base
     extra = settings["voices"].get(name)
@@ -230,6 +281,8 @@ def voice_config(settings, name):
     return {**base, **extra}
 
 def render_events(project_dir, events, settings):
+    if settings["engine"] == "elevenlabs":
+        return render_events_elevenlabs(project_dir, events, settings)
     pieces = []
     for ev in events:
         if ev[0] == "say":
@@ -237,6 +290,33 @@ def render_events(project_dir, events, settings):
             pieces.append(silence(settings["sentence_pause"]))
         elif ev[0] == "pause":
             pieces.append(silence(ev[1]))
+        else:
+            pieces.append(silence(settings["paragraph_pause"]))
+    return np.concatenate(pieces) if pieces else silence(0)
+
+def render_events_elevenlabs(project_dir, events, settings):
+    """Whole paragraphs per request: better prosody than sentence by sentence."""
+    blocks, current = [], None
+    for ev in events:
+        if ev[0] == "say":
+            if current and current[0] == ev[1]:
+                current[1].append(ev[2])
+            else:
+                current = [ev[1], [ev[2]]]
+                blocks.append(("say", current))
+        else:
+            current = None
+            blocks.append(ev)
+    texts = [" ".join(b[1][1]) for b in blocks if b[0] == "say"]
+    pieces, i = [], 0
+    for b in blocks:
+        if b[0] == "say":
+            prev = texts[i - 1] if i > 0 else None
+            nxt = texts[i + 1] if i + 1 < len(texts) else None
+            pieces.append(synthesize_elevenlabs(project_dir, texts[i], voice_config(settings, b[1][0]), prev, nxt))
+            i += 1
+        elif b[0] == "pause":
+            pieces.append(silence(b[1]))
         else:
             pieces.append(silence(settings["paragraph_pause"]))
     return np.concatenate(pieces) if pieces else silence(0)
@@ -841,7 +921,9 @@ if __name__ == "__main__":
     args = sys.argv[1:]
     cmd = args[0] if args else "build"
     rest = args[1:]
-    if cmd == "voices":
+    if cmd == "voices" and podcast_settings(load_config("."))["engine"] == "elevenlabs":
+        list_elevenlabs_voices()
+    elif cmd == "voices":
         list_voices(rest[0] if rest else (load_config(".").get("language") or "en")[:2])
     elif cmd == "sample":
         text = None

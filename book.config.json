@@ -102,7 +102,7 @@
   "writing_log": [],
   "wizard_setup": true,
   "podcast": {
-    "voice": "it_IT-riccardo-x_low",
+    "voice": null,
     "speaker": null,
     "speed": 0.9,
     "sentence_pause": 0.35,
@@ -112,6 +112,11 @@
     "outro_music": null,
     "intro_overlap": 1.5,
     "bitrate": "96k",
-    "base_url": ""
+    "base_url": "",
+    "engine": "elevenlabs",
+    "model": "eleven_multilingual_v2",
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.0
   }
 }

@@ -1,6 +1,6 @@
 # Piano podcast — Mantra Prompting: Incontrando Emma
 
-Formato: narrato, una voce (Riccardo, `it_IT-riccardo-x_low`, speed 0.9). Intro: `podcast/music/mantra-prompting-loop.wav`. Nessuna outro.
+Formato: narrato, una voce. Motore: ElevenLabs (`eleven_multilingual_v2`), voce da scegliere, speed 0.9. Intro: `podcast/music/mantra-prompting-loop.wav`. Nessuna outro.
 Fonte: `chapters/` (cap. 1-5 ancora in `draft`). Sezioni `## Demolition Log` escluse dai copioni.
 
 | Ep | Capitolo | Parole | Durata | Stato |
@@ -20,7 +20,7 @@ Fonte: `chapters/` (cap. 1-5 ancora in `draft`). Sezioni `## Demolition Log` esc
 
 ## Pronunciation
 
-Verificate con il fonemizzatore di Piper (it_IT). Si applicano a tutti i copioni.
+Con ElevenLabs i termini inglesi restano come nel libro: valgono solo le regole Morse qui sotto. Le grafie fonetiche (firmware → férmuer ecc.) servono solo se si torna a Piper.
 
 | Nel testo | Nel copione | Motivo |
 |---|---|---|
