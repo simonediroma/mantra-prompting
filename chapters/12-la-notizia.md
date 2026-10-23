@@ -1,7 +1,7 @@
 ---
 title: La notizia
 version: 3.0
-claim: La pipeline di monitoraggio di Emma intercetta un articolo commemorativo sulla morte della signora Voss, il cui nome corrisponde immediatamente a un caso già presente nel suo archivio personale, e dietro l'ombra di un dubbio mai confermato sul ruolo del televisore, scopre che il tecnico che se n'era occupato si chiamava Tom, lo stesso nome dell'email misteriosa ricevuta due giorni prima.
+claim: La pipeline di monitoraggio di Emma intercetta un articolo commemorativo sulla morte della signora Voss, il cui nome corrisponde immediatamente a un caso già presente nel suo archivio personale, e dietro l'ombra di un dubbio mai confermato sul ruolo del televisore, scopre che il tecnico che se n'era occupato si chiamava Tom, lo stesso nome della mail misteriosa ricevuta due giorni prima.
 status: complete
 ---
 
@@ -23,7 +23,7 @@ Andò a cercarlo sulla lista originale, quella aggiornata giornalmente dallo ste
 
 Tom.
 
-L'email che aveva ricevuto due giorni prima aveva finalmente trovato una collocazione. Quello che non sapeva era quanto Tom sapesse davvero. Decise di scoprirlo.
+La mail che aveva ricevuto due giorni prima aveva finalmente trovato una collocazione. Quello che non sapeva era quanto Tom sapesse davvero. Decise di scoprirlo.
 
 ---
 

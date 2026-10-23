@@ -18,13 +18,13 @@ Finito con bricolage, aveva intenzione di analizzare un altro spike arrivato nel
 
 Una mail. Sulla casella di Elab.
 
-Si fermò. Quella casella non riceveva altro che rumore di fondo da anni. Le email arrivavano sempre di notte, perché erano per lo più newsletter mai cancellate, notifiche di sistema, il tipo di posta che si accumula e nessuno legge mai. Un'email vera, con un mittente Meridian riconoscibile, non arrivava lì da così tanto tempo che aveva smesso di aspettarsela.
+Si fermò. Quella casella non riceveva altro che rumore di fondo da anni. Le mail arrivavano sempre di notte, perché erano per lo più newsletter mai cancellate, notifiche di sistema, il tipo di posta che si accumula e nessuno legge mai. Una mail vera, con un mittente Meridian riconoscibile, non arrivava lì da così tanto tempo che aveva smesso di aspettarsela.
 
 La aprì.
 
 *"Buongiorno, mi chiamo Tom, membro della Divisione Assistenza Tecnica. Nel corso di un intervento su un televisore ho rilevato nei log di sistema un riferimento a questo indirizzo di posta. Ho alcune domande sul televisore in questione e vorrei capire se possiate aiutarmi. Cordiali saluti, Tom."*
 
-La lesse una volta, poi una seconda, non perché le fosse sfuggito qualcosa la prima volta. La sua capacità di lettura non aveva mai avuto bisogno di una seconda passata per nulla. La rilesse perché la frase centrale, quella sui log di sistema, non tornava. Non poteva tornare. Sapeva per certo che nessun dispositivo, nemmeno quelli equipaggiati con IA, lasciava tracce come indirizzi email nei propri log di sistema.
+La lesse una volta, poi una seconda, non perché le fosse sfuggito qualcosa la prima volta. La sua capacità di lettura non aveva mai avuto bisogno di una seconda passata per nulla. La rilesse perché la frase centrale, quella sui log di sistema, non tornava. Non poteva tornare. Sapeva per certo che nessun dispositivo, nemmeno quelli equipaggiati con IA, lasciava tracce come indirizzi di posta nei propri log di sistema.
 
 Quel tecnico stava mentendo. Non era un'ipotesi, era un fatto verificabile con la stessa certezza con cui si verifica un checksum.
 
