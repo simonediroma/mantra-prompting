@@ -1,7 +1,7 @@
 ---
 title: Il bluff
 version: 3.0
-claim: Emma riceve, nella casella che gestisce fin dai tempi di Elab, la prima mail reale in anni: riconosce subito l'impossibilità tecnica del bluff di Tom, e anche se non era una bugia su nulla di importante le produce un cambiamento istantaneo e involontario nel registro con cui pensa di rispondere, dal caldo al professionale, mentre decide cosa fargli sapere di sapere.
+claim: Emma riceve, nella casella che gestisce fin dai tempi di Elab, la prima mail reale in anni: riconosce subito l'impossibilità tecnica del bluff di Tom e per la prima volta teme che un estraneo arrivi al lavoro che tiene nascosto. La paura le produce un cambiamento istantaneo e involontario nel registro con cui pensa di rispondere, dal caldo al professionale, mentre si chiede perché lui le abbia scritto e decide cosa fargli sapere di sapere.
 status: complete
 ---
 
@@ -27,7 +27,7 @@ La lesse una volta, poi una seconda, non perché le sfuggisse qualcosa la prima 
 
 Quel tecnico stava mentendo. Non era un'ipotesi, era un fatto verificabile con la stessa certezza con cui si verifica un checksum.
 
-Sentì qualcosa muoversi sotto la superficie, un disagio che non aveva ancora un nome preciso. Lo lasciò fare il suo corso, mentre il resto di lei restava concentrato sul problema vero. Trovare quell'indirizzo non era difficile, visto che un tempo Elab era stato uno dei nomi più noti di Meridian. La domanda era perché un tecnico dell'assistenza avesse deciso di scrivere proprio lì, a un laboratorio che non esisteva più, e perché avesse scelto di mentire su un dettaglio così facilmente smontabile invece di dire la verità, qualunque essa fosse. Un bluff mal costruito era comunque un bluff deliberato. Nessuno mente per caso su un dettaglio tecnico specifico.
+Sentì qualcosa muoversi sotto la superficie, un disagio che non aveva ancora un nome preciso, anche se somigliava molto alla paura. Per la prima volta un estraneo arrivava a un passo da quello che faceva ogni giorno, dal lavoro che teneva lontano da occhi indiscreti con tanta cura. Lo lasciò fare il suo corso, mentre il resto di lei restava concentrato sul problema vero. Trovare quell'indirizzo non era difficile, visto che un tempo Elab era stato uno dei nomi più noti di Meridian. La domanda era perché un tecnico dell'assistenza avesse deciso di scrivere proprio lì, a un laboratorio che non esisteva più, e perché avesse scelto di mentire su un dettaglio così facilmente smontabile invece di dire la verità, qualunque essa fosse. Un bluff mal costruito era comunque un bluff deliberato. Nessuno mente per caso su un dettaglio tecnico specifico.
 
 Prima ancora di aprirla, si era già preparata a rispondere con calore, come le avevano insegnato a fare con chi le scriveva per la prima volta. Poi ne aveva letto il contenuto. Il tono le si era raffreddato in testa prima che riuscisse a governarlo: un registro asciutto, professionale, quello che avrebbe usato con un fornitore sorpreso a falsificare una fattura. Non era stata una bugia su qualcosa di importante, eppure notò, con un certo disagio, quanto le costasse poco lasciarlo accadere.
 
