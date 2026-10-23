@@ -5,18 +5,18 @@ Fonte: `chapters/` (cap. 1-5 ancora in `draft`). Sezioni `## Demolition Log` esc
 
 | Ep | Capitolo | Parole | Caratteri | Durata | Stato |
 |---|---|---|---|---|---|
-| 1 | Primo contatto | 2.381 | 14.888 | ~16 min | approved |
-| 2 | Stallo burocratico | 1.274 | 8.330 | ~8 min | script |
-| 3 | Secondo contatto | 1.216 | 7.697 | ~8 min | script |
-| 4 | La chiamata alla signora | 1.316 | 8.025 | ~9 min | script |
-| 5 | L'avvertimento | 1.047 | 6.602 | ~7 min | script |
-| 6 | Il ricondizionamento | 1.135 | 7.311 | ~8 min | script |
-| 7 | La ragazza con sei dita | 1.252 | 7.605 | ~8 min | script |
-| 8 | Il canale eTv | 588 | 3.653 | ~4 min | script |
-| 9 | internal_unknown | 1.085 | 7.123 | ~7 min | script |
-| 10 | Il bluff | 1.124 | 6.960 | ~7 min | script |
-| 11 | La routine di Emma | 1.001 | 6.310 | ~7 min | script |
-| 12 | La notizia | 449 | 2.859 | ~3 min | script |
+| 1 | Primo contatto | 2.381 | 14.888 | ~16 min | rendered |
+| 2 | Stallo burocratico | 1.274 | 8.330 | ~8 min | rendered |
+| 3 | Secondo contatto | 1.216 | 7.697 | ~8 min | rendered |
+| 4 | La chiamata alla signora | 1.316 | 8.025 | ~9 min | rendered |
+| 5 | L'avvertimento | 1.047 | 6.602 | ~7 min | rendered |
+| 6 | Il ricondizionamento | 1.135 | 7.311 | ~8 min | rendered |
+| 7 | La ragazza con sei dita | 1.252 | 7.605 | ~8 min | rendered |
+| 8 | Il canale eTv | 588 | 3.653 | ~4 min | rendered |
+| 9 | internal_unknown | 1.085 | 7.123 | ~7 min | rendered |
+| 10 | Il bluff | 1.124 | 6.960 | ~7 min | rendered |
+| 11 | La routine di Emma | 1.001 | 6.310 | ~7 min | rendered |
+| 12 | La notizia | 449 | 2.859 | ~3 min | rendered |
 
 ## Pronunciation
 
