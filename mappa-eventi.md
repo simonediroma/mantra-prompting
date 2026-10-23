@@ -281,7 +281,7 @@ flowchart TD
 | Prima di pranzo | Secondo controllo casella: niente | **La scusa non regge più** e lei lo nota: "più una scusa preparata in anticipo che un ragionamento onesto" | Primo scricchiolio della compostezza |
 | Pomeriggio | Lista dispositivi in assistenza + **archivio parallelo** (device IA senza guasto hardware/software che smettono di obbedire) | Eco strutturale del quaderno di Tom, **mai dichiarata in scena** | — |
 | Pomeriggio | Caso frigorifero: *"Il frigo si rifiuta… è arrivato a farlo appena mi giro, come se sperasse che non me ne accorgessi"* | Interesse tecnico, **mai la parola "sublimazione"** | Log degli ultimi giorni assenti; *riconsegnato dopo hard reset* |
-| Pomeriggio | Correlazione: picco di traffico su un articolo eBlog (smoothie) nei giorni precedenti la chiamata all'assistenza | Prende nota e prosegue: **non collega ancora i propri artefatti al fenomeno** | Indizio che il lettore vede prima di lei |
+| Pomeriggio | Correlazione: un solo utente con decine di pageview sullo stesso articolo eBlog (smoothie) nei giorni precedenti la chiamata all'assistenza | Prende nota e prosegue: **non collega ancora i propri artefatti al fenomeno** | Indizio che il lettore vede prima di lei |
 | Pomeriggio | Statistiche: ~100 casi in 12 mesi ≈ 0,001%; +30% assistenza sui device con chip IA | Legge il dato come problema di affidabilità di prodotto | — |
 | Fine turno | Ultimo controllo alla casella, **resta lì fino al termine dell'orario** | 🔒 Non oltre: la disciplina oraria regge ancora (si romperà solo al cap. 21) | Chiude la giornata senza risposta |
 
