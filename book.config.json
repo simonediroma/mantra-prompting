@@ -102,9 +102,9 @@
   "writing_log": [],
   "wizard_setup": true,
   "podcast": {
-    "voice": null,
+    "voice": "uScy1bXtKz8vPzfdFsFw",
     "speaker": null,
-    "speed": 0.9,
+    "speed": 1.0,
     "sentence_pause": 0.35,
     "paragraph_pause": 0.9,
     "voices": {},
