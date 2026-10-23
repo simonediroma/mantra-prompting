@@ -45,3 +45,17 @@ Andò a cercarlo sulla lista originale, quella aggiornata giornalmente dal dipar
 | R1: cinque due punti a metà frase (§1, §2, §3, §5 ×2) | rule R1 | integrated (v4.0) | Sostituiti con punto, virgola, "perché" o riformulazione. |
 | Pipeline "per sapere prima di chiunque in azienda" che scopre la morte giorni dopo registro, Tom e social | contradiction | integrated (v4.0) | Ri-scopata: monitora l'esposizione di Meridian su giornali, siti di notizie e tv, per sapere prima che si diffonda l'informazione se Meridian rischia di finire in cronaca. La morte in sé non è il suo campo. |
 | Lunghezza (~360 parole, un terzo della media) | length | deferred | Per ora resta separato. Decisione sulla fusione con il cap. 13 rimandata a dopo le prove podcast dell'autore. |
+
+### Revisione — 2026-10-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| G1 "contenuto pubblicato da giornali… televisioni che nominasse" (riferimento ambiguo) | grammar | integrated | "Intercettava su giornali, siti di notizie e televisioni qualunque contenuto che nominasse…" |
+| G2 "se Meridian rischiava" | grammar | integrated | Congiuntivo: "rischiasse". |
+| G3 "dallo stesso dipartimento" senza antecedente | grammar | integrated | "dal dipartimento di assistenza tecnica". |
+| G4 "alle sue spalle" ×2 | style | integrated | §4: "tornò sul televisore e lì rimase". |
+| G5 "morta" ×3 | style | integrated | Tolto "La donna era morta." |
+| G6 "scelta… sceglie" | style | integrated | "tiene da parte". |
+| T1 Claim "mail ricevuta due giorni prima" (arrivata G21 sera) | timeline | integrated | → "letta due giorni prima". |
+| K1 Lista assistenza vs registro interventi | continuity | ledger | La lista non riporta decessi/rimborsi: regola aggiunta al Continuity Ledger. |
+| "era sgomento" dopo virgola; anafora "Doveva… doveva" | grammar | lasciati | Forse voluti. |

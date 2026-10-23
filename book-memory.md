@@ -188,6 +188,9 @@ La pianificazione completa dei capitoli 1-27 è in `outline.md`; qui viene aggiu
 | Archivio di Emma | Primo caso circa un anno prima del G23; nessun nome dei tecnici annotato; schema ricorrente: log degli ultimi giorni assenti + "riconsegnato dopo hard reset" | Cap. 11 (nomi tecnici: cap. 12) |
 | Frigorifero smart (cap. 11) | Chip IA: liste della spesa, conservazione, gelati/frullati/smoothie con ricette pescate dal web; non sale oltre cinque gradi; la cliente chiede lo stesso smoothie più volte al giorno; su eBlog decine di pageview da un solo utente sullo stesso articolo nei giorni prima della prima chiamata | Cap. 11 |
 | Orario di Emma | Otto–diciassette; alle diciassette in punto chiude l'inbox | Cap. 11 |
+| Lista dei dispositivi in assistenza (POV Emma) | Aggiornata ogni giorno dal dipartimento di assistenza tecnica; dispositivi in ingresso con matricola, tecnico assegnato, descrizione del cliente, esito tecnico (es. "riconsegnato dopo hard reset"). **Non** riporta pratiche amministrative (rimborsi, decessi, eredi), che stanno solo nel registro interventi (cap. 6) | Cap. 11 (tecnico: cap. 12) |
+| Pipeline media di Emma | Separata da quella dei trending topic; intercetta su giornali, siti di notizie e tv contenuti che nominano o mostrano prodotti Meridian, per sapere prima che l'informazione si diffonda se Meridian rischia di finire in cronaca | Cap. 12 |
+| Articolo commemorativo Voss | Piccolo giornale locale, scritto dai parenti, pubblicato il G23 (letto da Emma il G24); foto in salotto: tappetino da yoga arrotolato, TV Meridian alle spalle, eWatch al polso. Distinto dal post di condoglianze del fratello (cap. 6, foto di qualche anno prima) | Cap. 12 |
 
 ## Session Log
 
