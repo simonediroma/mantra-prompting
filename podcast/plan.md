@@ -1,6 +1,6 @@
 # Piano podcast — Mantra Prompting: Incontrando Emma
 
-Formato: narrato, una voce. Motore: ElevenLabs (`eleven_multilingual_v2`), voce Antonio Farina (`uScy1bXtKz8vPzfdFsFw`), speed 1.0. Intro: `podcast/music/mantra-prompting-loop.wav`. Nessuna outro.
+Formato: narrato, una voce. Motore: ElevenLabs (`eleven_v4`), voce Dimitri (`irpmjMzI7WEB83hTpOZA`), speed 1.0. Intro: `podcast/music/mantra-prompting-loop.wav`. Nessuna outro.
 Fonte: `chapters/` (cap. 1-5 ancora in `draft`). Sezioni `## Demolition Log` escluse dai copioni.
 
 | Ep | Capitolo | Parole | Durata | Stato |
