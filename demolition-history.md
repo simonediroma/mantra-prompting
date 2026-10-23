@@ -182,9 +182,9 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| Certezza "nessun dispositivo lascia email nei log" contro ciò che Emma sa sui dispositivi anomali | logical / contradiction | resolved | Indizio voluto: Emma ha accesso all'ecosistema Meridian, quindi verifica, non deduce. Promessa da mantenere nel reveal. |
-| "Come ha ottenuto l'indirizzo" è una domanda debole: elab@ era la mail di un gruppo noto | logical | resolved | La domanda diventa "perché ha scritto" (e perché mentire). Aggiornare testo e `mappa-eventi.md`. |
-| "Non era una bugia importante" contro una minaccia diretta: la sproporzione sparisce | contradiction / character | resolved | Paranoia, paura di essere scoperta, diffidenza: per la prima volta un estraneo rischia di scoprire il lavoro che lei cela. Togliere la frase, riallineare claim ed esempio in `emma.md`. Evitare "esistenza". |
-| "Prima che riuscisse a governarlo" contro "lasciarlo accadere / le costava poco" | contradiction | resolved | Due fasi: reazione non governata, poi analisi fredda della propria emotività. Riscrivere la frase finale come osservazione di sé. |
+| Certezza "nessun dispositivo lascia email nei log" contro ciò che Emma sa sui dispositivi anomali | logical / contradiction | integrated (v4.0) | Indizio voluto: Emma ha accesso all'ecosistema Meridian, quindi verifica, non deduce. Promessa da mantenere nel reveal. |
+| "Come ha ottenuto l'indirizzo" è una domanda debole: elab@ era la mail di un gruppo noto | logical | integrated (v4.0) | La domanda diventa "perché ha scritto" (e perché mentire). Aggiornare testo e `mappa-eventi.md`. |
+| "Non era una bugia importante" contro una minaccia diretta: la sproporzione sparisce | contradiction / character | integrated (v4.0) | Paranoia, paura di essere scoperta, diffidenza: per la prima volta un estraneo rischia di scoprire il lavoro che lei cela. Togliere la frase, riallineare claim ed esempio in `emma.md`. Evitare "esistenza". |
+| "Prima che riuscisse a governarlo" contro "lasciarlo accadere / le costava poco" | contradiction | integrated (v4.0) | Due fasi: reazione non governata, poi analisi fredda della propria emotività. Riscrivere la frase finale come osservazione di sé. |
 | La meticolosa con accesso totale non controlla Tom | foundation | accepted-limitation | Accettato per ora: lo farà più avanti. |
 | Bluff a metà capitolo; routine ripresa nel cap. 11 | rhythm / structure | accepted-limitation | Scelta d'autore: presentazione di Emma; il cap. 11 rafforza la routine. |

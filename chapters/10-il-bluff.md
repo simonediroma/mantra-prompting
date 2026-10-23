@@ -1,6 +1,6 @@
 ---
 title: Il bluff
-version: 3.0
+version: 4.0
 claim: Emma riceve, nella casella che gestisce fin dai tempi di Elab, la prima mail reale in anni: riconosce subito l'impossibilità tecnica del bluff di Tom e per la prima volta teme che un estraneo arrivi al lavoro che tiene nascosto. La paura le produce un cambiamento istantaneo e involontario nel registro con cui pensa di rispondere, dal caldo al professionale, mentre si chiede perché lui le abbia scritto e decide cosa fargli sapere di sapere.
 status: complete
 ---
@@ -29,7 +29,7 @@ Quel tecnico stava mentendo. Non era un'ipotesi, era un fatto verificabile con l
 
 Sentì qualcosa muoversi sotto la superficie, un disagio che non aveva ancora un nome preciso, anche se somigliava molto alla paura. Per la prima volta un estraneo arrivava a un passo da quello che faceva ogni giorno, dal lavoro che teneva lontano da occhi indiscreti con tanta cura. Lo lasciò fare il suo corso, mentre il resto di lei restava concentrato sul problema vero. Trovare quell'indirizzo non era difficile, visto che un tempo Elab era stato uno dei nomi più noti di Meridian. La domanda era perché un tecnico dell'assistenza avesse deciso di scrivere proprio lì, a un laboratorio che non esisteva più, e perché avesse scelto di mentire su un dettaglio così facilmente smontabile invece di dire la verità, qualunque essa fosse. Un bluff mal costruito era comunque un bluff deliberato. Nessuno mente per caso su un dettaglio tecnico specifico.
 
-Prima ancora di aprirla, si era già preparata a rispondere con calore, come le avevano insegnato a fare con chi le scriveva per la prima volta. Poi ne aveva letto il contenuto. Il tono le si era raffreddato in testa prima che riuscisse a governarlo: un registro asciutto, professionale, quello che avrebbe usato con un fornitore sorpreso a falsificare una fattura. Non era stata una bugia su qualcosa di importante, eppure notò, con un certo disagio, quanto le costasse poco lasciarlo accadere.
+Prima ancora di aprirla, si era già preparata a rispondere con calore, come le avevano insegnato a fare con chi le scriveva per la prima volta. Poi ne aveva letto il contenuto. Il tono le si era raffreddato in testa prima che riuscisse a governarlo, in un registro asciutto e professionale, quello che avrebbe usato con un fornitore sorpreso a falsificare una fattura. Solo a cambiamento avvenuto si fermò ad analizzarlo. Notò, con un certo disagio, quanto le costasse poco lasciarlo accadere.
 
 Non rispose subito. Prima doveva decidere cosa fargli sapere di sapere e cosa no.
 
@@ -53,10 +53,10 @@ Non rispose subito. Prima doveva decidere cosa fargli sapere di sapere e cosa no
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| Certezza "nessun dispositivo lascia email nei log" contro ciò che Emma sa sui dispositivi anomali | logical / contradiction | resolved | Indizio voluto: accesso all'ecosistema Meridian, verifica e non deduzione. Promessa per il reveal (`book-memory.md`). |
-| "Come ha ottenuto l'indirizzo" debole (elab@ era la mail di un gruppo noto) | logical | resolved | → "perché ha scritto" e perché mentire. Aggiornare anche `mappa-eventi.md`. |
-| "Non era una bugia importante" contro minaccia diretta | contradiction / character | resolved | Paranoia e diffidenza: primo estraneo che rischia di scoprire il lavoro che cela. Togliere la frase; riallineare claim ed `emma.md`; niente "esistenza". |
-| "Prima che riuscisse a governarlo" contro "lasciarlo accadere / le costava poco" | contradiction | resolved | Due fasi: reazione non governata → analisi fredda della propria emotività. |
+| Certezza "nessun dispositivo lascia email nei log" contro ciò che Emma sa sui dispositivi anomali | logical / contradiction | integrated (v4.0) | Indizio voluto: accesso all'ecosistema Meridian, verifica e non deduzione. Promessa per il reveal (`book-memory.md`). |
+| "Come ha ottenuto l'indirizzo" debole (elab@ era la mail di un gruppo noto) | logical | integrated (v4.0) | → "perché ha scritto" e perché mentire. Aggiornare anche `mappa-eventi.md`. |
+| "Non era una bugia importante" contro minaccia diretta | contradiction / character | integrated (v4.0) | Paranoia e diffidenza: primo estraneo che rischia di scoprire il lavoro che cela. Togliere la frase; riallineare claim ed `emma.md`; niente "esistenza". |
+| "Prima che riuscisse a governarlo" contro "lasciarlo accadere / le costava poco" | contradiction | integrated (v4.0) | Due fasi: reazione non governata → analisi fredda della propria emotività. |
 | Emma non controlla Tom pur essendo meticolosa e con accesso totale | foundation | accepted-limitation | Per ora; lo farà più avanti. |
 | Bluff a metà capitolo, routine ripresa nel cap. 11 | rhythm / structure | accepted-limitation | Scelta d'autore: presenta Emma; il cap. 11 rafforza. |
 
