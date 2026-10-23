@@ -112,7 +112,7 @@
     "outro_music": null,
     "intro_overlap": 1.5,
     "bitrate": "96k",
-    "base_url": "https://github.com/simonediroma/mantra-prompting/releases/download/stagione-1",
+    "base_url": "https://simonediroma.github.io/mantra-prompting/episodes",
     "engine": "elevenlabs",
     "model": "eleven_v4",
     "stability": 0.5,
