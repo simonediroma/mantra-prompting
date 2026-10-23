@@ -19,7 +19,7 @@
 | Ch. 9 — internal_unknown | 3 | 9 | 0 | 1 |
 | Ch. 10 — Il bluff | 2 | 8 | 0 | 4 |
 | Ch. 11 — La routine di Emma | 3 | 10 | 1 | 1 |
-| Ch. 12 — La notizia | 1 | 3 | 0 | 3 |
+| Ch. 12 — La notizia | 2 | 8 | 1 | 3 |
 
 ---
 
@@ -32,7 +32,9 @@
 - **Certezze di Emma = accesso, non deduzione** (cap. 10 ciclo 2): quando Emma "sa per certo" qualcosa di tecnico, è perché vede l'ecosistema Meridian. Promessa per il reveal: mostrare che ha davvero accesso ai log dei dispositivi Meridian.
 - **Tic lessicali da AI-slop**: "esattamente", "con la stessa X con cui…", "il tipo di", "restò a fissare", immagini-firma riusate tra capitoli ("fotogramma per fotogramma… da bambino", "trappole gentili", "componente guasto"). Limiti: max 1 per capitolo; "restò a fissare" in max 3 capitoli in tutto. Ricontrollare a ogni nuovo capitolo.
 - **Struttura negativa "Non X. Non Y. Z."** usata come effetto: max 1 per capitolo.
-- **Paragrafi-lampo di una riga** (cap. 1, 3, 11 ciclo 3: "Niente."): assorbirli nel paragrafo circostante.
+- **Paragrafi-lampo di una riga** (cap. 1, 3, 11 ciclo 3: "Niente."; cap. 12 ciclo 2: "Voss.", "Tom."): assorbirli nel paragrafo circostante.
+- **R1 nei capitoli scritti prima del 2026-10-14** (cap. 11 revisione, cap. 12 ciclo 2: cinque casi): ricontrollare i due punti a metà frase in ogni capitolo precedente alla regola.
+- **Emma: reazione emotiva in due fasi** (cap. 10 ciclo 2, cap. 12 ciclo 2): emozione non governata prima (paura, sgomento), poi analisi fredda e decisione. Ogni scena di scoperta di Emma deve mostrare entrambe le fasi.
 - **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
 - **Copia-incolla di descrizioni tra capitoli** (Elab cap. 9/10): ogni ripresa va riscritta dal POV del capitolo.
 
@@ -49,6 +51,7 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 
 ## Open Deferred Issues
 
+- **Lunghezza cap. 12 (~360 parole)**: per ora resta separato. Fusione con il cap. 13 (non ancora scritto) da decidere dopo le prove podcast dell'autore.
 - **R-110 (cap. 11)**: la risposta di Emma a Tom (fine cap. 10) non è mai mostrata. Va letta da Tom in un breve flashback nel **cap. 17** (regola POV, `mappa-eventi.md` punto 10.6).
 
 ---
@@ -201,3 +204,18 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | "Stavolta non trovò nessuna regola aziendale" senza una regola stabilita al mattino | contradiction | rejected (autore) | "Stavolta" si riferisce al ragionamento del mattino (Tom scrive solo in servizio): la logica regge. "Del suo turno" lasciato invariato. |
 | Paragrafo-lampo "Niente." | rule (rhythm) | integrated (v3.0) | Assorbito nel primo paragrafo, meno enfasi: "La risposta non arrivò." |
 | "Prima di pausa pranzo"; "Organizzò un'immagine di copertina" | grammar | integrated (v3.0) | → "Prima della pausa pranzo"; "Generò" (scelta d'autore, indizio lessicale ambiguo ammesso da R-06). |
+
+### Ch. 12 — La notizia
+
+#### Cycle 2 — 2026-10-23 (demolizione dedicata)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Emma non incrocia "Tom" con la lista per due giorni | foundation | withdrawn | Già accepted-limitation nel cap. 10 ciclo 2: il "più avanti" è questo capitolo. |
+| Nome "Tom" come unico identificativo | logical | withdrawn | Superata dall'intuizione della mail: la lista conferma, non identifica. |
+| Reazione solo analitica alla foto (regola delle due fasi, "primo vero contraccolpo emotivo") | character / contradiction | integrated (v4.0) | Attenzione sul televisore → sgomento → lampo della mail di Tom → lucidità fredda e decisione di indagare. |
+| Decisione ripetuta nel finale ("intuizione… fatto", "Decise di scoprirlo") | logical | integrated (v4.0) | Decisione nel momento della lucidità; finale "Riaprì la sua mail e la rilesse dall'inizio." |
+| Paragrafi-lampo "Voss." / "Tom." | rule (rhythm) | integrated (v4.0) | Assorbiti nei paragrafi. |
+| R1: cinque due punti a metà frase | rule R1 | integrated (v4.0) | Riformulati. |
+| Pipeline "prima di chiunque in azienda" che scopre la morte per ultima | contradiction | integrated (v4.0) | Pipeline di monitoraggio media (giornali, siti di notizie, tv): sapere prima che si diffonda l'informazione se Meridian rischia di finire in cronaca. |
+| Lunghezza (~360 parole) | length | deferred | Resta separato per ora; fusione con il cap. 13 da decidere dopo le prove podcast. |

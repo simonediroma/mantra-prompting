@@ -293,13 +293,13 @@ flowchart TD
 
 | Quando | Azione | Reazione attesa | Traccia / conseguenza |
 |---|---|---|---|
-| Mattina | Pipeline separata: intercettare ogni contenuto pubblico che nomini o mostri Meridian | Non serve a produrre: serve a **sapere prima degli altri in azienda** | — |
+| Mattina | Pipeline separata: intercettare ogni contenuto di giornali, siti di notizie e tv che nomini o mostri Meridian | Non serve a produrre: serve a **sapere, prima che l'informazione si diffonda, se Meridian rischia di finire in cronaca**. La morte in sé non è il suo campo | — |
 | Mattina | Articolo commemorativo pubblicato il giorno prima su un giornale locale, scritto dai parenti | — | Foto: salotto, tappetino yoga arrotolato, **TV Meridian** alle spalle, **eWatch** al polso |
 | Lettura | Il nome: **Voss** | **Riconoscimento istantaneo, senza bisogno di verificare**: il caso è già nel suo archivio (log interrotti, hard reset, cliente che descrive un rifiuto) | Non perché il TV le abbia "mandato un messaggio": quello, nel cap. 3, era rivolto a Tom |
-| Subito dopo | Elabora la foto più a lungo del necessario | **Primo vero contraccolpo emotivo**: il dubbio che il televisore abbia contribuito invece di prevenire. Mai confermato dal narratore | La sua paura profonda: che i suoi artefatti abbiano causato un danno reale |
+| Subito dopo | Elabora la foto più a lungo del necessario, l'attenzione resta sul televisore | **Primo vero contraccolpo emotivo** in due fasi (`emma.md`): sgomento che sale senza argine, poi il lampo della mail di Tom lo trasforma in lucidità fredda e nella decisione di indagare. Il dubbio sul televisore non è mai confermato dal narratore | La sua paura profonda: che i suoi artefatti abbiano causato un danno reale |
 | Subito dopo | Il suo archivio non registra i nomi dei tecnici ("intercambiabili, per definizione") | Errore di metodo che lei stessa riconosce implicitamente | Deve andare alla fonte |
-| Subito dopo | Apre la lista originale dell'assistenza → matricola del televisore → **nome del tecnico: Tom** | Nessuna sorpresa esibita: collega e agisce | L'email di due giorni prima "trova una collocazione" |
-| Chiusura | Decide di scoprire quanto sappia davvero | Da manipolatrice: prima capire, poi scegliere il registro | Apre il cap. 13 (il sospetto) |
+| Subito dopo | Apre la lista originale dell'assistenza → matricola del televisore → **nome del tecnico: Tom** | Nessuna sorpresa esibita: conferma ciò che aveva già intuito | — |
+| Chiusura | Riapre la mail di Tom e la rilegge dall'inizio (la decisione di indagare è già presa nel momento della lucidità) | Da manipolatrice: prima capire, poi scegliere il registro | Apre il cap. 13 (il sospetto) |
 
 ---
 
