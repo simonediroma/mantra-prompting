@@ -180,6 +180,10 @@ La pianificazione completa dei capitoli 1-27 è in `outline.md`; qui viene aggiu
 | Serata G20 | Si chiude alle undici passate; lato A di *Tango* finito, B1 *Il video sono io*, poi spegne | Cap. 8 |
 | Frase della ragazza sulla velocità doppia | «Se vuoi il massimo risultato, guardami a velocità doppia. Fidati, funziona meglio!», detta prima degli esercizi; il video si rivolge allo spettatore al **tu** (anche nel transcript del cap. 9) | Cap. 7 |
 | Archivio interno Meridian | Nato un paio d'anni prima; footprint esteso (modello, versione) solo per i modelli aggiornati; i modelli pre-archivio mai aggiornati lasciano il footprint booleano → `internal_unknown`; il campo Contatto indica chi risponde del contenuto | Cap. 9 |
+| Strumento di scraping di Emma | Costruito da lei anni prima; macrocategorie **aperte** (fitness, bricolage, cucina, arte, intrattenimento, tra le altre; giardinaggio nel cap. 11) | Cap. 10 |
+| Falso trend *Ciao Darwin* | Sifone stretto senza attrezzi; nel video il "secchione" ci mette **cinquantasei secondi**; la domanda online dice "in meno di due minuti"; più di un centinaio di account | Cap. 10 |
+| Mail-bluff di Tom | Firmata "Tom, membro della Divisione Assistenza Tecnica"; inviata a fine turno di G21, Emma la nota la mattina di G22 ("arrivata la sera prima"); nessun riferimento al televisore specifico | Cap. 10 |
+| Casella elab@meridian.com | Riceve solo rumore di fondo notturno (newsletter, notifiche); un tempo Elab era uno dei nomi più noti di Meridian, oggi sopravvive in pochi documenti dimenticati | Cap. 9-10 |
 
 ## Session Log
 
