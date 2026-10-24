@@ -21,7 +21,9 @@
   },
   "episode-05": {
     "length": 5484323,
+    "md5": "dd8868a1b473",
     "pub": 1792752995,
+    "rev": 1,
     "seconds": 456
   },
   "episode-06": {
@@ -36,7 +38,9 @@
   },
   "episode-08": {
     "length": 3181576,
+    "md5": "2f56bbbcafbf",
     "pub": 1792763795,
+    "rev": 1,
     "seconds": 265
   },
   "episode-09": {

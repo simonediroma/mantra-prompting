@@ -925,7 +925,10 @@ def feed(project_dir):
         mp3 = episodes_dir / f"{script.stem}.mp3"
         if mp3.exists():
             entry = registry.setdefault(script.stem, {})
-            entry.update(length=mp3.stat().st_size, seconds=int(audio_duration(mp3)))
+            digest = hashlib.md5(mp3.read_bytes()).hexdigest()[:12]
+            if entry.get("md5") not in (None, digest):
+                entry["rev"] = entry.get("rev", 0) + 1   # re-rendered audio: new URL, or Spotify keeps the old file
+            entry.update(length=mp3.stat().st_size, seconds=int(audio_duration(mp3)), md5=digest)
             if "pub" not in entry:
                 last = max((e["pub"] for e in registry.values() if "pub" in e), default=0)
                 entry["pub"] = int(max(datetime.now(timezone.utc).timestamp(), last + 3600))
@@ -938,6 +941,8 @@ def feed(project_dir):
         meta, _ = split_frontmatter(script.read_text(encoding="utf-8"))
         date = datetime.fromtimestamp(entry["pub"], tz=timezone.utc)
         url = f"{base}/{mp3.name}" if base else mp3.name
+        if entry.get("rev"):
+            url += f"?v={entry['rev']}"
         seconds = entry["seconds"]
         items.append(f"""    <item>
       <title>{escape(meta.get('title', script.stem))}</title>
