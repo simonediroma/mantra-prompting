@@ -7,7 +7,7 @@ status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio cinque.
 
-Nell'episodio precedente, Tom ha chiamato la proprietaria del primo televisore, la signora Voss. Anche lei aveva visto qualcosa, abbastanza da filmarlo.
+Nell'episodio precedente, Tom ha chiamato la proprietaria del secondo televisore, la signora Voss. Anche lei aveva visto qualcosa, abbastanza da filmarlo.
 
 [pause 1]
 
