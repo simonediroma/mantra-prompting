@@ -11,11 +11,11 @@ chapter
 chapters/13-il-sospetto-su-tom.md
 
 ## Current step
-ask-before-writing
+demolish
 
 ## Steps completed
-- [ ] ask-before-writing
-- [ ] write
+- [x] ask-before-writing
+- [x] write
 - [ ] demolish
 - [ ] integrate
 
@@ -26,3 +26,4 @@ ask-before-writing
 - Q1 (autore): il sospetto è alimentato da entrambi: (a) la mail-bluff troppo goffa per un tecnico, come una mossa per provocare una reazione; (b) l'organigramma, dodici anni nello stesso ruolo senza promozioni, profilo così piatto da sembrare una copertura.
 - Q2 (autore): entrambe. La profondità nel tempo del sito (anni di commit, thread ossessivi con gli audiofili scandinavi, troppo noiosi per una copertura) la rassicura; la frattura (i post smettono di parlare d'ascolto, fase di rifiuto della musica) le resta addosso come curiosità.
 - Q3 (autore): finale (a), provvisorio: chiusura su un gesto, Emma apre le metriche di eTv e il capitolo si ferma prima che guardi. Da rivalutare andando avanti.
+- Bozza v1.0 scritta (~1400 parole).

@@ -178,7 +178,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Beat chiave**: Emma agisce da investigatrice di se stessa — mostra le sue capacità di verifica/social engineering usate stavolta per rassicurarsi, non per manipolare.
 **Collegamento al precedente**: il dubbio nato nel cap. 12.
 **Collegamento al successivo**: Emma scava nei dati aziendali.
-**Stato**: `to-write`
+**Stato**: `draft`
 **File**: `chapters/13-il-sospetto-su-tom.md`
 
 ---
