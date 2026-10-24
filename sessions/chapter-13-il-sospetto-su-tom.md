@@ -24,3 +24,4 @@ ask-before-writing
 - Vincolo dal cap. 14: la verifica del video (metriche eTv) NON va fatta qui, il dubbio resta dubbio.
 - Social engineering per rassicurarsi, non per manipolare; sollievo come conclusione lucida, non emozione dichiarata.
 - Q1 (autore): il sospetto è alimentato da entrambi: (a) la mail-bluff troppo goffa per un tecnico, come una mossa per provocare una reazione; (b) l'organigramma, dodici anni nello stesso ruolo senza promozioni, profilo così piatto da sembrare una copertura.
+- Q2 (autore): entrambe. La profondità nel tempo del sito (anni di commit, thread ossessivi con gli audiofili scandinavi, troppo noiosi per una copertura) la rassicura; la frattura (i post smettono di parlare d'ascolto, fase di rifiuto della musica) le resta addosso come curiosità.
