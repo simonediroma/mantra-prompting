@@ -93,6 +93,11 @@ Perché Tom smette di rispondere dopo il cap. 10 (chiarito il 2026-09-16, correg
 | Come ha fatto il televisore a sapere che la signora Voss era in pericolo (il vero ruolo dell'eWatch: dati biometrici condivisi in rete con i dispositivi IA-integrati) | Cap. 3 (setup), riportato in scena esplicitamente dopo il cap. 6 | — |
 | La cover electro-pop anni Ottanta "molto in voga tra gli audiofili" che Emma produce per eDj (cap. 11) è una cover di *Vacanze romane* dei Matia Bazar (1983, traccia A1 di *Tango*, il disco che Tom ascolta nel cap. 7): **reveal futuro, non anticipare** (indicato dall'autore il 2026-10-10). Da non confondere con la cover acustica che Tom vede su eTv nel cap. 8, che è una canzone qualsiasi. | Cap. 11 | — |
 
+
+### Idee da valutare (non ancora decise)
+
+- **Gancio *Vacanze romane* come test "investigatore o no"** (proposta dell'autore, 2026-10-24, demolizione cap. 12 critica 3). Nel profilo pubblico di Tom (sito del giradischi) c'è un riferimento a *Vacanze romane*, coerente con il cap. 11: è un brano "molto in voga tra gli audiofili" per testare gli impianti. Emma potrebbe usarlo come domanda personale, non di lavoro, a cui un investigatore non saprebbe rispondere e non avrebbe interesse a rispondere. Collegamento con la cover di *Vacanze romane* che Emma pubblica su eDj (cap. 11): **reveal futuro, non anticipare** (vedi Open Promises). Ipotesi di collocazione da decidere: seme nel cap. 12 (Emma nota il riferimento sul sito senza usarlo), uso nel cap. 15 (domanda personale nella mail di scuse, che serve proprio a "testare se Tom gioca doppio o è sincero"), payoff letto da Tom nel cap. 16 (regola POV sulle mail). Vincolo: Emma non deve mai nominare eDj né la propria cover.
+
 ---
 
 ## Examples and Stories Used
