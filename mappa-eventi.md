@@ -268,7 +268,7 @@ flowchart TD
 | Subito dopo | Il registro con cui pensa di rispondere **si raffredda da solo**: dal caldo al professionale da servizio clienti | ✅ Regola fondativa: regolazione emotiva sproporzionata rispetto all'intelligenza. **Se ne accorge solo a cambiamento avvenuto**. Mai scrivere "non l'aveva deciso lei" 🎭 | Il contenuto della risposta resta lucido e tagliente |
 | Subito dopo | Si concentra sul problema vero: **perché ha scritto proprio a Elab, e perché mentire su un dettaglio smontabile** | Un bluff mal costruito è comunque deliberato | — |
 | Fine scena | Non risponde subito: "prima decidere cosa fargli sapere di sapere" | Manipolatrice/osservatrice: un passo avanti, mai vulnerabile | — |
-| 💤 Poco prima della fine del turno di Tom | **Risponde** (contenuto mai mostrato) | — | Aggancio del cap. 11: da qui parte il silenzio di Tom |
+| Chiosa: 16:59, poco prima della fine del turno | **Risponde** (contenuto mai mostrato; nel testo solo l'ora dell'invio) | — | Aggancio del cap. 11: da qui parte il silenzio di Tom |
 
 #### Cap. 11 — La routine di Emma · `G23`, 8:00-17:00 · POV **Emma** 🎭
 

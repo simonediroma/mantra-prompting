@@ -1,1 +1,7 @@
 .claude/
+podcast/voices/
+podcast/samples/
+podcast/episodes/
+podcast/cache/
+__pycache__/
+podcast/*.zip
