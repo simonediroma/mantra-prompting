@@ -3,7 +3,7 @@ episode: 12
 title: "Capitolo 12 — Solo un tecnico?"
 description: "Un articolo di giornale riporta Emma alla mail di Tom. Chi c'è davvero dietro quella domanda?"
 source: chapters/12-solo-un-tecnico.md
-status: script
+status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio dodici.
 

@@ -145,13 +145,13 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Capitolo 12 — La notizia</title>
-      <itunes:title>Capitolo 12 — La notizia</itunes:title>
-      <description>Una pipeline che sorveglia le notizie su Meridian intercetta un articolo che Emma non può ignorare.</description>
-      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-12.mp3" length="2500720" type="audio/mpeg"/>
+      <title>Capitolo 12 — Solo un tecnico?</title>
+      <itunes:title>Capitolo 12 — Solo un tecnico?</itunes:title>
+      <description>Un articolo di giornale riporta Emma alla mail di Tom. Chi c'è davvero dietro quella domanda?</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-12.mp3?v=1" length="6225996" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-12</guid>
       <pubDate>Fri, 23 Oct 2026 17:56:35 +0000</pubDate>
-      <itunes:duration>3:28</itunes:duration>
+      <itunes:duration>8:38</itunes:duration>
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
