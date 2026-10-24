@@ -1,8 +1,8 @@
 ---
 episode: 12
-title: "Capitolo 12 — La notizia"
-description: "Una pipeline che sorveglia le notizie su Meridian intercetta un articolo che Emma non può ignorare."
-source: chapters/12-la-notizia.md
+title: "Capitolo 12 — Solo un tecnico?"
+description: "Un articolo di giornale riporta Emma alla mail di Tom. Chi c'è davvero dietro quella domanda?"
+source: chapters/12-solo-un-tecnico.md
 status: approved
 ---
 Mantra Prompting. Incontrando Emma. Episodio dodici.
@@ -11,7 +11,7 @@ Nell'episodio precedente, Emma ha aspettato tutto il giorno una risposta di Tom.
 
 [pause 1]
 
-# Capitolo dodici. La notizia
+# Capitolo dodici. Solo un tecnico?
 
 Aveva un'altra pipeline, separata da quella dei trending topic, con un solo compito. Intercettava su giornali, siti di notizie e televisioni qualunque contenuto che nominasse Meridian, o che ne mostrasse un prodotto in modo riconoscibile. Non serviva a produrre nulla. Serviva a sapere, prima che si diffondesse l'informazione, se Meridian rischiasse di finire dentro un fatto di cronaca.
 
@@ -24,6 +24,24 @@ Elaborò la fotografia più a lungo di quanto le servisse per registrarne il con
 L'archivio le restituì data, modello e la descrizione del comportamento anomalo così come l'aveva riportata la cliente, niente che non sapesse già. Mancava il nome del tecnico. Annotare i tecnici non le era mai sembrato utile, perché erano intercambiabili per definizione, mentre i clienti no.
 
 Andò a cercarlo sulla lista originale, quella aggiornata giornalmente dal dipartimento di assistenza tecnica, che teneva traccia di tutto, comprese le cose che a lei non erano mai interessate abbastanza da segnarsi da sola. Trovò il numero di matricola del televisore, poi il nome del tecnico che se n'era occupato. Si chiamava Tom. Riaprì la sua mail e la rilesse dall'inizio.
+
+La mail era sempre la stessa, quattro righe e una firma, ma adesso Emma sapeva a quale televisore si riferisse. Tom aveva avuto in mano l'apparecchio della signora Voss. Qualche settimana dopo aveva scritto alla casella di Elab per chiedere di un televisore, senza dire quale. Le tornò in mente il tappetino da yoga arrotolato nell'angolo della foto. Tra i video di eTv c'erano anche quelli di yoga, fatti per essere seguiti in casa, davanti a uno schermo grande. Le venne da chiedersi se la signora ne avesse guardato qualcuno. Se fosse per questo che Tom le avesse scritto.
+
+Quando l'aveva ricevuta, quella mail le era sembrata la bugia di un tecnico che non sapeva come fare una domanda. Riletta adesso le sembrava troppo goffa per essere sincera. Un tecnico che lavorava ogni giorno sui dispositivi Meridian doveva sapere quali storie reggessero e quali no. Una bugia così fragile poteva servire solo a vedere chi avrebbe risposto e come. Lei aveva risposto in poche ore, smontandola riga per riga. Da allora Tom non aveva più scritto.
+
+Il pensiero successivo arrivò da solo, prima che potesse valutarlo. Qualcuno che stava cercando di capire come fosse morta la signora Voss era partito dal televisore ed era arrivato fino a lei. Poteva essere un investigatore che aveva usato la casella del tecnico per mandarle un'esca con un mittente credibile. Poteva essere Tom stesso, che su quel televisore aveva notato qualcosa e aveva cominciato a scavare, per conto suo o di qualcun altro. L'allarme montò in fretta, come lo sgomento di poco prima. Questa volta non provò a fermarlo. Aspettò che si assestasse, poi cominciò a controllare.
+
+Partì dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note firmate da Tom, esiti tecnici di poche righe scritti tutti allo stesso modo, con le formule rigide di chi compila una scheda. Le mise accanto alla mail. Quella "Divisione Assistenza Tecnica" scritta per intero, i saluti di rito, la frase costruita come una segnalazione di guasto. Era la stessa mano. Nessun estraneo si era servito della sua casella; la mail l'aveva scritta Tom. L'allarme allentò la presa, abbastanza da lasciarla ragionare sulla seconda ipotesi.
+
+Nell'organigramma della Divisione Assistenza Tecnica c'era un solo Tom. Dodici anni di servizio, sempre lo stesso ruolo, nessuna promozione, nessun cambio di reparto. Un percorso così piatto poteva voler dire un uomo senza ambizioni. Poteva anche essere il profilo di uno che aveva tutto l'interesse a non farsi notare. Più ci pensava, più quell'altra lettura le sembrava plausibile.
+
+Dalla voce dell'organigramma si arrivava alla sua pagina di presentazione aziendale, compilata chissà quanti anni prima e mai più aggiornata. Due righe sul ruolo e, in fondo, i link ai suoi profili esterni. Su LinkedIn, tra i progetti personali, ce n'era uno solo, con il link a un sito. Era un progetto open source per integrare l'IA nei giradischi e nei grammofoni, in modo da correggere il suono in tempo reale in base al peso del disco e alla posizione delle casse rispetto a chi ascolta muovendosi nella stanza.
+
+Il forum del progetto andava indietro di anni. Tom discuteva con un gruppo di audiofili, quasi tutti scandinavi, di pesi, curve di correzione e distanze tra le casse, con una pazienza che nessuno avrebbe sprecato per tenere in piedi una finzione. Erano anni di domande, prove fallite e tentativi ripresi da capo. Tom era davvero un tecnico, con un hobby che probabilmente lo assorbiva più del lavoro. Era anche il tipo di uomo che, davanti a un apparecchio che si comportava in modo strano, non avrebbe smesso di smontarlo finché non avesse capito.
+
+Una cosa però non le tornava. Nei messaggi più vecchi Tom raccontava anche cosa ascoltava, un disco, un brano, l'effetto di una correzione riuscita. In quelli recenti quei riferimenti mancavano del tutto. Parlava di musica con la competenza di sempre, ma non diceva più di ascoltarne. Non c'entrava niente con la signora Voss. Emma se lo annotò comunque.
+
+Che Tom fosse un tecnico non era più in discussione. Che lo fosse e basta, non poteva ancora dirlo. La mail l'aveva scritta lui, ma non sapeva per conto di chi. Doveva scoprire cosa o chi ci fosse dietro. Prima, però, c'era la domanda da cui era partita, quella nata dal tappetino arrotolato nell'angolo della foto. La signora Voss guardava i video di yoga di eTv? Per rispondere non le serviva Tom. Le statistiche del canale registravano quante volte veniva visto ogni video, giorno per giorno e dispositivo per dispositivo. Se nelle settimane in cui il televisore della signora aveva cominciato a comportarsi in modo strano qualcosa si era mosso sui video di yoga, lì l'avrebbe visto. Aprì il pannello di eTv.
 
 [pause 1.5]
 

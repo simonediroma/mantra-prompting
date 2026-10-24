@@ -63,8 +63,10 @@
     "seconds": 422
   },
   "episode-12": {
-    "length": 2500720,
+    "length": 6225996,
+    "md5": "4b1db41b69a0",
     "pub": 1792778195,
-    "seconds": 208
+    "rev": 1,
+    "seconds": 518
   }
 }
