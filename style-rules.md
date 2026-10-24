@@ -19,6 +19,7 @@ Mechanical conventions. One value per row — mixing forms in the book is always
 | Serial comma | no | idraulica, cucina e yoga |
 | Numbers | in lettere nella narrazione (anche sopra dieci); cifre solo in box/schermate di sistema e titoli di video | le undici passate · *in 15 minuti al giorno* |
 | "mail" / "email" | sempre "mail" (una mail, la mail, le mail); "indirizzo di posta" per l'indirizzo | una mail vera · ❌ un'email vera |
+| "IA" / "AI" | sempre "IA" (o "intelligenza artificiale" per esteso), mai "AI". Eccezione: nomi propri di prodotti (Undetectable AI). Vale per l'edizione italiana; da rivedere in caso di traduzione | un'IA integrata · ❌ un'AI integrata |
 
 ---
 
