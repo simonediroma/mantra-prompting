@@ -34,6 +34,8 @@ Prima ancora di aprire la mail, si era già preparata a rispondere con calore, c
 
 Non rispose subito. Prima doveva decidere cosa fargli sapere di sapere e cosa no.
 
+Decise cosa rispondere e mandò la mail alle sedici e cinquantanove, giusto in tempo prima della fine del turno.
+
 ---
 
 ## Demolition Log
