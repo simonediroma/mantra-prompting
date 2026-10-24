@@ -88,10 +88,10 @@
       <title>Capitolo 7 — La ragazza con sei dita</title>
       <itunes:title>Capitolo 7 — La ragazza con sei dita</itunes:title>
       <description>Un video di yoga, riguardato fotogramma per fotogramma, finché qualcosa non torna.</description>
-      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-07.mp3" length="6319728" type="audio/mpeg"/>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-07.mp3?v=1" length="6388692" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-07</guid>
       <pubDate>Fri, 23 Oct 2026 12:56:35 +0000</pubDate>
-      <itunes:duration>8:46</itunes:duration>
+      <itunes:duration>8:52</itunes:duration>
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>

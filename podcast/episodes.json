@@ -32,9 +32,11 @@
     "seconds": 499
   },
   "episode-07": {
-    "length": 6319728,
+    "length": 6388692,
+    "md5": "fbf09f166eba",
     "pub": 1792760195,
-    "seconds": 526
+    "rev": 1,
+    "seconds": 532
   },
   "episode-08": {
     "length": 3181576,
