@@ -1,6 +1,6 @@
 ---
 title: Solo un tecnico
-version: 5.1
+version: 5.2
 revised: 2026-10-24
 merged_from: "12-la-notizia (v4.0) + 13-il-sospetto-su-tom (v1.0, bozza)"
 claim: La pipeline con cui Emma sorveglia l'esposizione di Meridian nei media intercetta un articolo commemorativo sulla morte della signora Voss, un caso già nel suo archivio. Lo sgomento diventa lucidità quando ripensa alla mail di Tom, che la lista dell'assistenza conferma essere il tecnico di quel televisore. Rileggendo la mail sospetta di essere nel mirino di un investigatore; l'organigramma alimenta il sospetto, il sito open source del giradischi lo smonta. Tom è solo un tecnico, e resta in piedi soltanto il televisore.
@@ -20,7 +20,7 @@ L'archivio le restituì data, modello e la descrizione del comportamento anomalo
 
 Andò a cercarlo sulla lista originale, quella aggiornata giornalmente dal dipartimento di assistenza tecnica, che teneva traccia di tutto, comprese le cose che a lei non erano mai interessate abbastanza da segnarsi da sola. Trovò il numero di matricola del televisore, poi il nome del tecnico che se n'era occupato. Si chiamava Tom. Riaprì la sua mail e la rilesse dall'inizio.
 
-La mail era sempre la stessa, quattro righe e una firma, ma adesso Emma sapeva a quale televisore si riferisse. Tom aveva avuto in mano l'apparecchio della signora Voss. Qualche settimana dopo aveva scritto alla casella di Elab per chiedere di un televisore, senza dire quale. Le venne da chiedersi se la signora guardasse uno dei suoi video. Se fosse per questo che Tom le aveva scritto.
+La mail era sempre la stessa, quattro righe e una firma, ma adesso Emma sapeva a quale televisore si riferisse. Tom aveva avuto in mano l'apparecchio della signora Voss. Qualche settimana dopo aveva scritto alla casella di Elab per chiedere di un televisore, senza dire quale. Le tornò in mente il tappetino da yoga arrotolato nell'angolo della foto. Tra i video di eTv c'erano anche quelli di yoga, fatti per essere seguiti in casa, davanti a uno schermo grande. Le venne da chiedersi se la signora ne avesse guardato qualcuno. Se fosse per questo che Tom le aveva scritto.
 
 Quando l'aveva ricevuta, quella mail le era sembrata la bugia di un tecnico che non sapeva come fare una domanda. Riletta adesso le sembrava troppo goffa per essere sincera. Un tecnico che lavorava ogni giorno sui dispositivi Meridian doveva sapere quali storie reggevano e quali no. Una bugia così fragile poteva servire solo a vedere chi avrebbe risposto e come. Lei aveva risposto in poche ore, smontandola riga per riga. Da allora Tom non aveva più scritto.
 
@@ -34,7 +34,7 @@ Il forum del progetto andava indietro di anni. Tom discuteva con un gruppo di au
 
 Una cosa però non le tornava. Nei messaggi più vecchi Tom raccontava anche cosa ascoltava, un disco, un brano, l'effetto di una correzione riuscita. In quelli recenti quei riferimenti mancavano del tutto. Parlava di musica con la competenza di sempre, ma non diceva più di ascoltarne. Non c'entrava niente con la signora Voss. Emma se lo annotò comunque.
 
-Se Tom era solo un tecnico, la sua mail non era una trappola ma una domanda fatta male. Restava il televisore, con la domanda che lei aveva lasciato in sospeso. Aprì il pannello delle metriche di eTv.
+Se Tom era solo un tecnico, la sua mail non era una trappola ma una domanda fatta male. Restava l'altra domanda, quella nata dal tappetino arrotolato nell'angolo della foto. Per quella non le serviva Tom. Le metriche dei suoi canali le aveva sempre avute sotto mano. Aprì il pannello di eTv.
 
 ---
 
