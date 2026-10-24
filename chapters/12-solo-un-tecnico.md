@@ -77,3 +77,15 @@ Se Tom era solo un tecnico, la sua mail non era una trappola ma una domanda fatt
 | T1 Claim "mail ricevuta due giorni prima" (arrivata G21 sera) | timeline | integrated | → "letta due giorni prima". |
 | K1 Lista assistenza vs registro interventi | continuity | ledger | La lista non riporta decessi/rimborsi: regola aggiunta al Continuity Ledger. |
 | "era sgomento" dopo virgola; anafora "Doveva… doveva" | grammar | lasciati | Forse voluti. |
+
+### Cycle 3 — 2026-10-24 (capitolo fuso "Solo un tecnico", v5.2)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Lunghezza del vecchio cap. 12 (~360 parole) | length | resolved | Fusione con il vecchio cap. 13 nel cap. 12 "Solo un tecnico" (2026-10-24). |
+| L'ipotesi "investigatore sulla morte" è incompatibile con la cronologia: Tom ha avuto il TV prima della morte, l'organigramma lo dà in Meridian da dodici anni | contradiction | resolved | Due ipotesi compatibili: (A) qualcuno che indaga ha usato l'account di Tom per tendere la trappola; (B) è Tom stesso a indagare, da tecnico, per conto suo o di qualcuno. |
+| La rassicurazione non segue dalle prove: il sito dimostra che Tom è reale con un hobby vero, non esclude A e rafforza B | logical | resolved | Titolo → "Solo un tecnico?", dubbio aperto. Emma decide solo che deve scoprire chi c'è dietro la mail. Scartata la variante "accetterà con gioia il meeting" (contraddice il terrore del cap. 23 e brucia il beat del cap. 14). |
+| Verifica senza le capacità di Emma; ricerca web "Tom + assistenza Meridian" regge solo su un'imprudenza di Tom incoerente con il profilo | foundation | resolved | Emma controlla i log di invio della mail (contro l'ipotesi A; mostrato senza gergo, leggibile in chiave umana). Al sito arriva da organigramma → pagina profilo aziendale di Tom → link ai social (LinkedIn) → tra i progetti personali il giradischi. Il sito resta generico (nessun titolo di brano). |
+
+Idea emersa e annotata in `book-memory.md` → Idee da valutare: *Vacanze romane* come domanda-test da audiofilo nella mail di Emma (collocazione proposta: cap. 15, mail di scuse; payoff cap. 16).
+

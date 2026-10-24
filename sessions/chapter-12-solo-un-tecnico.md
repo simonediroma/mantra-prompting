@@ -11,12 +11,12 @@ chapter
 chapters/12-solo-un-tecnico.md
 
 ## Current step
-demolish
+integrate
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
-- [ ] demolish
+- [x] demolish
 - [ ] integrate
 
 ## Notes
@@ -31,3 +31,4 @@ demolish
 - 2026-10-24: seconda metà riscritta da zero (v5.1) su richiesta dell'autore. Problemi segnalati della v5.0: struttura/logica troppo a elenco, dettagli inventati (timbrature, anagrafica con cognomi, commit serali, il norvegese, archivio del dominio), stile carico (immagini onda/scontrino/rubinetto, ironia fuori registro), anticipazioni (es. "lo sapeva bene" sulle coperture, "sproporzionata", impostazione delle date sulle metriche eTv in chiusura). La v5.1 è asciutta: bluff come esca → allarme lasciato passare → organigramma → sito/forum → frattura → apre le metriche eTv.
 - 2026-10-24 (v5.2): giustificato il gesto finale su richiesta dell'autore. Il dubbio sul video nasce dal tappetino da yoga nella foto (eTv pubblica anche video di yoga da seguire in casa); la chiusura richiama il tappetino e le metriche dei suoi canali, che ha sempre sotto mano. Nessun dettaglio sul metodo di verifica (resta al cap. 13).
 - Demolizione ciclo 1 (in corso): C1 investigatore incompatibile con la cronologia → due ipotesi (account di Tom usato da altri / Tom che indaga); C2 il sito non esclude le ipotesi → titolo "Solo un tecnico?", dubbio aperto, Emma decide solo che deve scoprire chi c'è dietro la mail; C3 verifica senza capacità di Emma → controlla i log di invio della mail (contro ipotesi A). Aperto: come trova il sito e che funzione ha; idea *Vacanze romane* annotata in book-memory → Idee da valutare.
+- Demolizione ciclo 3 chiusa: 4 issue risolte, 0 deferred. Prossimo passo: integrate.
