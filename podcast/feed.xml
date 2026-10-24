@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mantra Prompting: Incontrando Emma</title>
+    <description>Un tecnico che ripara elettrodomestici per Meridian, il colosso che ha messo un'intelligenza artificiale in ogni oggetto di casa. Un televisore che risponde in codice Morse. Un mistero che porta dritto al cuore dell'azienda. Una serie di fantascienza a puntate, tra X-Files e l'ironia di Douglas Adams.</description>
+    <language>it</language>
+    <link>https://simonediroma.github.io/mantra-prompting</link>
+    <atom:link href="https://simonediroma.github.io/mantra-prompting/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Simone Razzano</itunes:author>
+    <itunes:owner><itunes:name>Simone Razzano</itunes:name><itunes:email>simonediroma27@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://simonediroma.github.io/mantra-prompting/cover.jpg"/>
+    <itunes:category text="Fiction"><itunes:category text="Science Fiction"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <item>
+      <title>Capitolo 1 — Primo contatto</title>
+      <itunes:title>Capitolo 1 — Primo contatto</itunes:title>
+      <description>Un tecnico Meridian, un televisore che non dovrebbe avere niente da dire e un LED che lampeggia nel modo sbagliato.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-01.mp3" length="12246799" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-01</guid>
+      <pubDate>Fri, 23 Oct 2026 06:56:35 +0000</pubDate>
+      <itunes:duration>17:00</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 2 — Stallo burocratico</title>
+      <itunes:title>Capitolo 2 — Stallo burocratico</itunes:title>
+      <description>Meridian misura il mondo in minuti e secondi. La curiosità di Tom ne ha sforati dodici.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-02.mp3" length="6825976" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-02</guid>
+      <pubDate>Fri, 23 Oct 2026 07:56:35 +0000</pubDate>
+      <itunes:duration>9:28</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 3 — Secondo contatto</title>
+      <itunes:title>Capitolo 3 — Secondo contatto</itunes:title>
+      <description>Tre mesi di efficienza esemplare. Poi, sul banco, un televisore identico al primo.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-03.mp3" length="6288374" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-03</guid>
+      <pubDate>Fri, 23 Oct 2026 08:56:35 +0000</pubDate>
+      <itunes:duration>8:43</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 4 — La chiamata alla signora</title>
+      <itunes:title>Capitolo 4 — La chiamata alla signora</itunes:title>
+      <description>Tom prova a sondare una persona invece di una macchina: la proprietaria del secondo televisore.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-04.mp3" length="6590880" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-04</guid>
+      <pubDate>Fri, 23 Oct 2026 09:56:35 +0000</pubDate>
+      <itunes:duration>9:09</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 5 — L'avvertimento</title>
+      <itunes:title>Capitolo 5 — L'avvertimento</itunes:title>
+      <description>Un video girato in fretta, un LED che lampeggia e un messaggio da ricostruire lettera per lettera.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-05.mp3" length="5484323" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-05</guid>
+      <pubDate>Fri, 23 Oct 2026 10:56:35 +0000</pubDate>
+      <itunes:duration>7:36</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 6 — Il ricondizionamento</title>
+      <itunes:title>Capitolo 6 — Il ricondizionamento</itunes:title>
+      <description>Un televisore con l'etichetta gialla torna sul banco di Tom, insieme a una domanda che non lo lascia.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-06.mp3" length="5999046" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-06</guid>
+      <pubDate>Fri, 23 Oct 2026 11:56:35 +0000</pubDate>
+      <itunes:duration>8:19</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 7 — La ragazza con sei dita</title>
+      <itunes:title>Capitolo 7 — La ragazza con sei dita</itunes:title>
+      <description>Un video di yoga, riguardato fotogramma per fotogramma, finché qualcosa non torna.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-07.mp3" length="6319728" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-07</guid>
+      <pubDate>Fri, 23 Oct 2026 12:56:35 +0000</pubDate>
+      <itunes:duration>8:46</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 8 — Il canale eTv</title>
+      <itunes:title>Capitolo 8 — Il canale eTv</itunes:title>
+      <description>Un canale senza volto, molte visualizzazioni, pochi iscritti e un ritmo che non ha senso.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-08.mp3" length="3181576" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-08</guid>
+      <pubDate>Fri, 23 Oct 2026 13:56:35 +0000</pubDate>
+      <itunes:duration>4:25</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 9 — internal_unknown</title>
+      <itunes:title>Capitolo 9 — internal_unknown</itunes:title>
+      <description>Una ricerca nell'archivio interno di Meridian porta Tom molto più lontano del previsto.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-09.mp3" length="5982428" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-09</guid>
+      <pubDate>Fri, 23 Oct 2026 14:56:35 +0000</pubDate>
+      <itunes:duration>8:18</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 10 — Il bluff</title>
+      <itunes:title>Capitolo 10 — Il bluff</itunes:title>
+      <description>Per la prima volta dopo anni, qualcuno scrive alla casella di Elab.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-10.mp3" length="5718168" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-10</guid>
+      <pubDate>Fri, 23 Oct 2026 15:56:35 +0000</pubDate>
+      <itunes:duration>7:56</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 11 — La routine di Emma</title>
+      <itunes:title>Capitolo 11 — La routine di Emma</itunes:title>
+      <description>Una giornata nella routine di Emma, in attesa di una mail che non arriva.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-11.mp3" length="5064907" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-11</guid>
+      <pubDate>Fri, 23 Oct 2026 16:56:35 +0000</pubDate>
+      <itunes:duration>7:02</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 12 — La notizia</title>
+      <itunes:title>Capitolo 12 — La notizia</itunes:title>
+      <description>Una pipeline che sorveglia le notizie su Meridian intercetta un articolo che Emma non può ignorare.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-12.mp3" length="2500720" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-12</guid>
+      <pubDate>Fri, 23 Oct 2026 17:56:35 +0000</pubDate>
+      <itunes:duration>3:28</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
