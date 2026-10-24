@@ -289,7 +289,7 @@ flowchart TD
 
 ### Parte 5 — Emma scopre la morte della signora
 
-#### Cap. 12 — Solo un tecnico (prima metà, ex "La notizia") · `G24` (⚠️ `book-memory` dice "giorno 9", vedi §10.3), mattina · POV **Emma** 🎭
+#### Cap. 12 — Solo un tecnico? (prima metà, ex "La notizia") · `G24` (⚠️ `book-memory` dice "giorno 9", vedi §10.3), mattina · POV **Emma** 🎭
 
 | Quando | Azione | Reazione attesa | Traccia / conseguenza |
 |---|---|---|---|
@@ -327,7 +327,7 @@ Stessa struttura, ma qui la colonna "Reazione attesa" è **prescrittiva**: è il
 
 | Cap. | Quando (proposta) | Azione | Reazione attesa | Vincoli da rispettare |
 |---|---|---|---|---|
-| 12 — Solo un tecnico *(seconda metà, ex cap. 13 "Il sospetto su Tom", fuso il 2026-10-24)* | `G24`, stesso giorno o `G25` | Emma sospetta che Tom sia un investigatore o un poliziotto; verifica organigramma, sito personale, hobby di robotica/audiofilia | **Social engineering usato per rassicurarsi, non per manipolare.** Il sollievo va mostrato come conclusione lucida, non come emozione dichiarata | L'hobby del giradischi è il dettaglio che la convince che sia "solo un tecnico" |
+| 12 — Solo un tecnico? *(seconda metà, ex cap. 13 "Il sospetto su Tom", fuso il 2026-10-24)* | `G24`, stesso giorno o `G25` | Emma sospetta che Tom sia un investigatore o un poliziotto; verifica organigramma, sito personale, hobby di robotica/audiofilia | **Social engineering usato per rassicurarsi, non per manipolare.** Il sollievo va mostrato come conclusione lucida, non come emozione dichiarata | L'hobby del giradischi è il dettaglio che la convince che sia "solo un tecnico" |
 | 13 — La correlazione *(ex "Il database", ri-scopato il 2026-09-17)* | `G25` | Incrocia le date del caso Voss con le metriche di eTv, come nel cap. 11 con eBlog e il frigorifero: la signora ripeteva **un suo video** | **Il sospetto diventa colpa.** Centra la sua paura più profonda: non essere scoperta, ma aver causato un danno reale. Il colpo **non va risolto in scena** e il narratore non lo commenta | Può ricostruire da sola la catena artefatto → ripetizione → apparecchio che smette di obbedire. Mai nominare "sublimazione" |
 | 14 — Le due volte di Tom *(ricentrato sulla seconda)* | `G25`-`G26` | Torna sulla lista dell'assistenza per sapere che fine ha fatto l'apparecchio: **lo stesso tecnico, una seconda volta, per il ricondizionamento** | Nessun trionfo: ricalcolo freddo di quanto lui possa sapere. Tom ha avuto il TV prima **e dopo** la morte | Chiude la Parte 5 capovolgendo la posta: non "cosa sa Tom di me" ma "cosa sa Tom di lei". Rende trappole le domande finte-esplorative del cap. 15 |
 

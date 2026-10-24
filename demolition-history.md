@@ -19,7 +19,7 @@
 | Ch. 9 — internal_unknown | 3 | 9 | 0 | 1 |
 | Ch. 10 — Il bluff | 2 | 8 | 0 | 4 |
 | Ch. 11 — La routine di Emma | 3 | 10 | 1 | 1 |
-| Ch. 12 — Solo un tecnico (fuso, ex 12 + ex 13) | 3 | 12 | 0 | 3 |
+| Ch. 12 — Solo un tecnico? (fuso, ex 12 + ex 13) | 3 | 12 | 0 | 3 |
 
 ---
 
@@ -204,7 +204,7 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | Paragrafo-lampo "Niente." | rule (rhythm) | integrated (v3.0) | Assorbito nel primo paragrafo, meno enfasi: "La risposta non arrivò." |
 | "Prima di pausa pranzo"; "Organizzò un'immagine di copertina" | grammar | integrated (v3.0) | → "Prima della pausa pranzo"; "Generò" (scelta d'autore, indizio lessicale ambiguo ammesso da R-06). |
 
-### Ch. 12 — Solo un tecnico (ex "La notizia", fuso con l'ex cap. 13 il 2026-10-24)
+### Ch. 12 — Solo un tecnico? (ex "La notizia", fuso con l'ex cap. 13 il 2026-10-24)
 
 #### Cycle 2 — 2026-10-23 (demolizione dedicata)
 
@@ -223,8 +223,8 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| Lunghezza vecchio cap. 12 | length | resolved | Fusione con l'ex cap. 13. |
-| Investigatore incompatibile con la cronologia | contradiction | resolved | Due ipotesi: account di Tom usato da altri / Tom che indaga. |
-| Rassicurazione non dedotta dalle prove | logical | resolved | Titolo "Solo un tecnico?", dubbio aperto; Emma decide di scoprire chi c'è dietro la mail. |
-| Verifica senza capacità di Emma; ricerca web debole | foundation | resolved | Log di invio della mail; organigramma → profilo aziendale → LinkedIn → progetto giradischi. |
+| Lunghezza vecchio cap. 12 | length | integrated (v6.0) | Fusione con l'ex cap. 13. |
+| Investigatore incompatibile con la cronologia | contradiction | integrated (v6.0) | Due ipotesi: account di Tom usato da altri / Tom che indaga. |
+| Rassicurazione non dedotta dalle prove | logical | integrated (v6.0) | Titolo "Solo un tecnico?", dubbio aperto; Emma decide di scoprire chi c'è dietro la mail. |
+| Verifica senza capacità di Emma; ricerca web debole | foundation | integrated (v6.0) | Confronto di stile con le note di Tom (log e intestazioni scartati: accesso troppo privilegiato / tecnicamente impossibile); organigramma → profilo aziendale → LinkedIn → progetto giradischi. |
 

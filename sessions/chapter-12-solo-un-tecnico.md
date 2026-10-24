@@ -2,7 +2,7 @@
 
 > Created: 2026-10-24
 > Last updated: 2026-10-24
-> Status: open
+> Status: complete
 
 ## Macro
 chapter
@@ -11,13 +11,13 @@ chapter
 chapters/12-solo-un-tecnico.md
 
 ## Current step
-integrate
+—
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
 - [x] demolish
-- [ ] integrate
+- [x] integrate
 
 ## Notes
 - Outline: POV Emma, G24 (stesso giorno del cap. 12) o G25. Emma si chiede se la signora guardasse un suo video e se sia per questo che Tom le ha scritto; sospetta un investigatore/poliziotto; verifica organigramma, sito personale, hobby (giradischi IA open source) → rassicurata, è solo un tecnico.
@@ -32,3 +32,4 @@ integrate
 - 2026-10-24 (v5.2): giustificato il gesto finale su richiesta dell'autore. Il dubbio sul video nasce dal tappetino da yoga nella foto (eTv pubblica anche video di yoga da seguire in casa); la chiusura richiama il tappetino e le metriche dei suoi canali, che ha sempre sotto mano. Nessun dettaglio sul metodo di verifica (resta al cap. 13).
 - Demolizione ciclo 1 (in corso): C1 investigatore incompatibile con la cronologia → due ipotesi (account di Tom usato da altri / Tom che indaga); C2 il sito non esclude le ipotesi → titolo "Solo un tecnico?", dubbio aperto, Emma decide solo che deve scoprire chi c'è dietro la mail; C3 verifica senza capacità di Emma → controlla i log di invio della mail (contro ipotesi A). Aperto: come trova il sito e che funzione ha; idea *Vacanze romane* annotata in book-memory → Idee da valutare.
 - Demolizione ciclo 3 chiusa: 4 issue risolte, 0 deferred. Prossimo passo: integrate.
+- Integrazione completata (v6.0): (1) due ipotesi al posto del poliziotto; (2) verifica per stile sulle note di Tom (log/intestazioni scartati: accesso troppo privilegiato o tecnicamente impossibile, segnalato dall'autore), organigramma che alimenta l'ipotesi B, sito trovato da profilo aziendale → LinkedIn; (3) finale aperto, titolo "Solo un tecnico?", "Doveva scoprire cosa o chi ci fosse dietro" (formula dell'autore).
