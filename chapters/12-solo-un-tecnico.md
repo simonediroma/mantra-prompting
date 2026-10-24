@@ -1,6 +1,6 @@
 ---
 title: Solo un tecnico?
-version: 6.0
+version: 6.1
 revised: 2026-10-24
 merged_from: "12-la-notizia (v4.0) + 13-il-sospetto-su-tom (v1.0, bozza)"
 claim: La pipeline con cui Emma sorveglia l'esposizione di Meridian nei media intercetta un articolo commemorativo sulla morte della signora Voss, un caso già nel suo archivio. Lo sgomento diventa lucidità quando ripensa alla mail di Tom, che la lista dell'assistenza conferma essere il tecnico di quel televisore. Rileggendo la mail sospetta che dietro ci sia un'indagine: qualcuno che usa l'account di Tom, o Tom stesso che scava. Il confronto di stile con le note di Tom esclude la prima ipotesi; organigramma, profilo aziendale e sito del giradischi non bastano a escludere la seconda. Tom è un tecnico, ma forse non solo: Emma deve scoprire cosa o chi ci sia dietro la mail.
@@ -26,7 +26,7 @@ Quando l'aveva ricevuta, quella mail le era sembrata la bugia di un tecnico che 
 
 Il pensiero successivo arrivò da solo, prima che potesse valutarlo. Qualcuno stava cercando di capire come fosse morta la signora Voss, era partito dal televisore ed era arrivato fino a lei. Poteva essere un investigatore che aveva usato la casella del tecnico per mandarle un'esca con un mittente credibile. Poteva essere Tom stesso, che su quel televisore aveva notato qualcosa e aveva cominciato a scavare, per conto suo o di qualcun altro. L'allarme montò in fretta, come lo sgomento di poco prima. Questa volta non provò a fermarlo. Aspettò che si assestasse, poi cominciò a controllare.
 
-Cominciò dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note firmate da Tom, esiti tecnici di poche righe scritti tutti allo stesso modo, con le formule rigide di chi compila una scheda. Le mise accanto alla mail. Quella "Divisione Assistenza Tecnica" scritta per intero, i saluti di rito, la frase costruita come una segnalazione di guasto. Era la stessa mano. Nessun estraneo si era servito della sua casella, la mail l'aveva scritta Tom. L'allarme allentò la presa, abbastanza da lasciarla ragionare sulla seconda ipotesi.
+Partì dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note firmate da Tom, esiti tecnici di poche righe scritti tutti allo stesso modo, con le formule rigide di chi compila una scheda. Le mise accanto alla mail. Quella "Divisione Assistenza Tecnica" scritta per intero, i saluti di rito, la frase costruita come una segnalazione di guasto. Era la stessa mano. Nessun estraneo si era servito della sua casella, la mail l'aveva scritta Tom. L'allarme allentò la presa, abbastanza da lasciarla ragionare sulla seconda ipotesi.
 
 Nell'organigramma della Divisione Assistenza Tecnica c'era un solo Tom. Dodici anni di servizio, sempre lo stesso ruolo, nessuna promozione, nessun cambio di reparto. Un percorso così piatto poteva voler dire un uomo senza ambizioni. Poteva anche essere il profilo di uno che aveva tutto l'interesse a non farsi notare. Più ci pensava, più la seconda lettura le sembrava plausibile.
 
@@ -36,7 +36,7 @@ Il forum del progetto andava indietro di anni. Tom discuteva con un gruppo di au
 
 Una cosa però non le tornava. Nei messaggi più vecchi Tom raccontava anche cosa ascoltava, un disco, un brano, l'effetto di una correzione riuscita. In quelli recenti quei riferimenti mancavano del tutto. Parlava di musica con la competenza di sempre, ma non diceva più di ascoltarne. Non c'entrava niente con la signora Voss. Emma se lo annotò comunque.
 
-Che Tom fosse un tecnico non era più in discussione. Che lo fosse e basta, non poteva ancora dirlo. La mail l'aveva scritta lui, ma non sapeva per conto di chi. Doveva scoprire cosa o chi ci fosse dietro. Restava poi l'altra domanda, quella nata dal tappetino arrotolato nell'angolo della foto. Per quella non le serviva Tom. Le metriche dei suoi canali le aveva sempre avute sotto mano. Aprì il pannello di eTv.
+Che Tom fosse un tecnico non era più in discussione. Che lo fosse e basta, non poteva ancora dirlo. La mail l'aveva scritta lui, ma non sapeva per conto di chi. Doveva scoprire cosa o chi ci fosse dietro. Prima, però, c'era la domanda da cui era partita, quella nata dal tappetino arrotolato nell'angolo della foto. La signora Voss guardava i video di yoga di eTv? Per rispondere non le serviva Tom. Le statistiche del canale registravano quante volte veniva visto ogni video, giorno per giorno e dispositivo per dispositivo. Se nelle settimane in cui il televisore della signora aveva cominciato a comportarsi in modo strano qualcosa si era mosso sui video di yoga, lì l'avrebbe visto. Aprì il pannello di eTv.
 
 ---
 
