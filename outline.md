@@ -164,10 +164,10 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 ### Capitolo 12 — Solo un tecnico
 **Nota di struttura (2026-10-24)**: fusione dei vecchi cap. 12 ("La notizia") e 13 ("Il sospetto su Tom"), stessa mattina e stesso POV; il vecchio cap. 12 era troppo corto per reggere una puntata. Tutti i capitoli successivi sono stati rinumerati di uno (vecchio 14 → 13, …, vecchio 27 → 26, Libro 2 dal 27).
 **POV**: Emma
-**Obiettivo di scena**: la pipeline media di Emma le mostra la notizia della morte della signora Voss (foto con TV Meridian ed eWatch ben visibili); Emma riconosce il caso dal proprio archivio e trova sulla lista dell'assistenza il nome del tecnico, Tom. Rileggendo la sua mail si chiede se la signora guardasse un suo video e sospetta che Tom sia un investigatore o un poliziotto (il bluff come amo, l'organigramma come copertura). Verifica la sua identità (organigramma, timbrature, anagrafica, sito personale del giradischi) e conclude che è davvero solo un tecnico.
+**Obiettivo di scena**: la pipeline media di Emma le mostra la notizia della morte della signora Voss (foto con TV Meridian ed eWatch ben visibili); Emma riconosce il caso dal proprio archivio e trova sulla lista dell'assistenza il nome del tecnico, Tom. Rileggendo la sua mail si chiede se la signora guardasse un suo video e sospetta che Tom sia un investigatore o un poliziotto (il bluff come amo, l'organigramma come copertura). L'organigramma alimenta il sospetto; il sito personale del giradischi (anni di forum con audiofili scandinavi) lo smonta: è davvero solo un tecnico.
 **Beat chiave**: ironia drammatica (Emma e Tom indagano lo stesso caso senza saperlo); Emma investigatrice di se stessa, social engineering usato per rassicurarsi e non per manipolare. Curiosità residua sulla frattura nei post di Tom (non parla più d'ascolto).
 **Collegamento al precedente**: prosecuzione della routine del cap. 11.
-**Collegamento al successivo**: chiude con Emma che apre le metriche di eTv sulle settimane prima della prima chiamata della signora Voss, prima di guardare.
+**Collegamento al successivo**: chiude con Emma che apre le metriche di eTv, prima di guardare.
 **Stato**: `draft`
 **File**: `chapters/12-solo-un-tecnico.md`
 
