@@ -1,6 +1,6 @@
 ---
 title: Solo un tecnico?
-version: 6.1
+version: 6.2
 revised: 2026-10-24
 merged_from: "12-la-notizia (v4.0) + 13-il-sospetto-su-tom (v1.0, bozza)"
 claim: La pipeline con cui Emma sorveglia l'esposizione di Meridian nei media intercetta un articolo commemorativo sulla morte della signora Voss, un caso già nel suo archivio. Lo sgomento diventa lucidità quando ripensa alla mail di Tom, che la lista dell'assistenza conferma essere il tecnico di quel televisore. Rileggendo la mail sospetta che dietro ci sia un'indagine: qualcuno che usa l'account di Tom, o Tom stesso che scava. Il confronto di stile con le note di Tom esclude la prima ipotesi; organigramma, profilo aziendale e sito del giradischi non bastano a escludere la seconda. Tom è un tecnico, ma forse non solo: Emma deve scoprire cosa o chi ci sia dietro la mail.
@@ -20,15 +20,15 @@ L'archivio le restituì data, modello e la descrizione del comportamento anomalo
 
 Andò a cercarlo sulla lista originale, quella aggiornata giornalmente dal dipartimento di assistenza tecnica, che teneva traccia di tutto, comprese le cose che a lei non erano mai interessate abbastanza da segnarsi da sola. Trovò il numero di matricola del televisore, poi il nome del tecnico che se n'era occupato. Si chiamava Tom. Riaprì la sua mail e la rilesse dall'inizio.
 
-La mail era sempre la stessa, quattro righe e una firma, ma adesso Emma sapeva a quale televisore si riferisse. Tom aveva avuto in mano l'apparecchio della signora Voss. Qualche settimana dopo aveva scritto alla casella di Elab per chiedere di un televisore, senza dire quale. Le tornò in mente il tappetino da yoga arrotolato nell'angolo della foto. Tra i video di eTv c'erano anche quelli di yoga, fatti per essere seguiti in casa, davanti a uno schermo grande. Le venne da chiedersi se la signora ne avesse guardato qualcuno. Se fosse per questo che Tom le aveva scritto.
+La mail era sempre la stessa, quattro righe e una firma, ma adesso Emma sapeva a quale televisore si riferisse. Tom aveva avuto in mano l'apparecchio della signora Voss. Qualche settimana dopo aveva scritto alla casella di Elab per chiedere di un televisore, senza dire quale. Le tornò in mente il tappetino da yoga arrotolato nell'angolo della foto. Tra i video di eTv c'erano anche quelli di yoga, fatti per essere seguiti in casa, davanti a uno schermo grande. Le venne da chiedersi se la signora ne avesse guardato qualcuno. Se fosse per questo che Tom le avesse scritto.
 
-Quando l'aveva ricevuta, quella mail le era sembrata la bugia di un tecnico che non sapeva come fare una domanda. Riletta adesso le sembrava troppo goffa per essere sincera. Un tecnico che lavorava ogni giorno sui dispositivi Meridian doveva sapere quali storie reggevano e quali no. Una bugia così fragile poteva servire solo a vedere chi avrebbe risposto e come. Lei aveva risposto in poche ore, smontandola riga per riga. Da allora Tom non aveva più scritto.
+Quando l'aveva ricevuta, quella mail le era sembrata la bugia di un tecnico che non sapeva come fare una domanda. Riletta adesso le sembrava troppo goffa per essere sincera. Un tecnico che lavorava ogni giorno sui dispositivi Meridian doveva sapere quali storie reggessero e quali no. Una bugia così fragile poteva servire solo a vedere chi avrebbe risposto e come. Lei aveva risposto in poche ore, smontandola riga per riga. Da allora Tom non aveva più scritto.
 
-Il pensiero successivo arrivò da solo, prima che potesse valutarlo. Qualcuno stava cercando di capire come fosse morta la signora Voss, era partito dal televisore ed era arrivato fino a lei. Poteva essere un investigatore che aveva usato la casella del tecnico per mandarle un'esca con un mittente credibile. Poteva essere Tom stesso, che su quel televisore aveva notato qualcosa e aveva cominciato a scavare, per conto suo o di qualcun altro. L'allarme montò in fretta, come lo sgomento di poco prima. Questa volta non provò a fermarlo. Aspettò che si assestasse, poi cominciò a controllare.
+Il pensiero successivo arrivò da solo, prima che potesse valutarlo. Qualcuno che stava cercando di capire come fosse morta la signora Voss era partito dal televisore ed era arrivato fino a lei. Poteva essere un investigatore che aveva usato la casella del tecnico per mandarle un'esca con un mittente credibile. Poteva essere Tom stesso, che su quel televisore aveva notato qualcosa e aveva cominciato a scavare, per conto suo o di qualcun altro. L'allarme montò in fretta, come lo sgomento di poco prima. Questa volta non provò a fermarlo. Aspettò che si assestasse, poi cominciò a controllare.
 
-Partì dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note firmate da Tom, esiti tecnici di poche righe scritti tutti allo stesso modo, con le formule rigide di chi compila una scheda. Le mise accanto alla mail. Quella "Divisione Assistenza Tecnica" scritta per intero, i saluti di rito, la frase costruita come una segnalazione di guasto. Era la stessa mano. Nessun estraneo si era servito della sua casella, la mail l'aveva scritta Tom. L'allarme allentò la presa, abbastanza da lasciarla ragionare sulla seconda ipotesi.
+Partì dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note firmate da Tom, esiti tecnici di poche righe scritti tutti allo stesso modo, con le formule rigide di chi compila una scheda. Le mise accanto alla mail. Quella "Divisione Assistenza Tecnica" scritta per intero, i saluti di rito, la frase costruita come una segnalazione di guasto. Era la stessa mano. Nessun estraneo si era servito della sua casella; la mail l'aveva scritta Tom. L'allarme allentò la presa, abbastanza da lasciarla ragionare sulla seconda ipotesi.
 
-Nell'organigramma della Divisione Assistenza Tecnica c'era un solo Tom. Dodici anni di servizio, sempre lo stesso ruolo, nessuna promozione, nessun cambio di reparto. Un percorso così piatto poteva voler dire un uomo senza ambizioni. Poteva anche essere il profilo di uno che aveva tutto l'interesse a non farsi notare. Più ci pensava, più la seconda lettura le sembrava plausibile.
+Nell'organigramma della Divisione Assistenza Tecnica c'era un solo Tom. Dodici anni di servizio, sempre lo stesso ruolo, nessuna promozione, nessun cambio di reparto. Un percorso così piatto poteva voler dire un uomo senza ambizioni. Poteva anche essere il profilo di uno che aveva tutto l'interesse a non farsi notare. Più ci pensava, più quell'altra lettura le sembrava plausibile.
 
 Dalla voce dell'organigramma si arrivava alla sua pagina di presentazione aziendale, compilata chissà quanti anni prima e mai più aggiornata. Due righe sul ruolo e, in fondo, i link ai suoi profili esterni. Su LinkedIn, tra i progetti personali, ce n'era uno solo, con il link a un sito. Era un progetto open source per integrare l'IA nei giradischi e nei grammofoni, in modo da correggere il suono in tempo reale in base al peso del disco e alla posizione delle casse rispetto a chi ascolta muovendosi nella stanza.
 
@@ -90,4 +90,14 @@ Che Tom fosse un tecnico non era più in discussione. Che lo fosse e basta, non 
 | Verifica senza le capacità di Emma; ricerca web "Tom + assistenza Meridian" regge solo su un'imprudenza di Tom incoerente con il profilo | foundation | integrated (v6.0) | Log di invio scartati in integrazione (accesso troppo privilegiato per una dipendente; le intestazioni non bastano): Emma confronta lo stile della mail con le note di Tom sulla lista dell'assistenza, stessa mano → esclusa l'ipotesi A, prima rassicurazione. Al sito arriva da organigramma → pagina profilo aziendale di Tom → link ai social (LinkedIn) → tra i progetti personali il giradischi. Il sito resta generico (nessun titolo di brano). |
 
 Idea emersa e annotata in `book-memory.md` → Idee da valutare: *Vacanze romane* come domanda-test da audiofilo nella mail di Emma (collocazione proposta: cap. 15, mail di scuse; payoff cap. 16).
+
+### Revisione — 2026-10-24 (v6.2)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| G1 "quali storie reggevano" | grammar | integrated | Congiuntivo: "reggessero". |
+| G2 "Qualcuno stava cercando…, era partito" | grammar | integrated | Relativa: "Qualcuno che stava cercando… era partito". |
+| G3 "…della sua casella, la mail l'aveva scritta Tom" | grammar | integrated | Punto e virgola. |
+| "Se fosse per questo che Tom le aveva scritto" | grammar | integrated | "le avesse scritto" (corretto anche l'indicativo; scelta di uniformità dell'autore). |
+| K1 "seconda ipotesi" / "seconda lettura" ravvicinati | style | integrated | "quell'altra lettura". |
 
