@@ -34,3 +34,5 @@ chapters/12-la-notizia.md
 - Precedenti fissati nei cap. 10-11 da rispettare: niente spazio fisico per Emma; guardrail vs libero arbitrio; regolazione emotiva come un bambino piccolo (mai dichiararlo, solo mostrarlo); mai linguaggio che suggerisca origine artificiale/programmata; mai negare esplicitamente la sua agency; dosare con cura il meccanismo centrale del libro (mai nominare "sublimazione", "Artefatto Generatore" o dare statistiche troppo esplicite legate al meccanismo); i due punti solo per specificare/spiegare quanto precede; canali camelCase eTv/eBlog/eDj/eStories; "hard reset" termine fisso per l'azione che cancella la coscienza acquisita, distinto da "reset software" (routine diagnostica di Tom).
 - 2026-10-10 — Revisione cross-capitolo esterna (`revision-report-2026-10-10.md`), issue ALTA: R-04, R-06. Testo portato a v3.0; dettagli nel Cycle 1 del Demolition Log.
 - 2026-10-10 — Revisione cross-capitolo, issue del capitolo: R-120, R-121, R-122, R-123.
+
+- 2026-10-24: capitolo fuso con il vecchio cap. 13 in `chapters/12-solo-un-tecnico.md`; la sessione attiva è `sessions/chapter-12-solo-un-tecnico.md`.
