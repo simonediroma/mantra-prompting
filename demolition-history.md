@@ -19,7 +19,7 @@
 | Ch. 9 — internal_unknown | 3 | 9 | 0 | 1 |
 | Ch. 10 — Il bluff | 2 | 8 | 0 | 4 |
 | Ch. 11 — La routine di Emma | 3 | 10 | 1 | 1 |
-| Ch. 12 — La notizia | 2 | 8 | 1 | 3 |
+| Ch. 12 — Solo un tecnico? (fuso, ex 12 + ex 13) | 3 | 12 | 0 | 3 |
 
 ---
 
@@ -38,7 +38,7 @@
 - **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
 - **Copia-incolla di descrizioni tra capitoli** (Elab cap. 9/10): ogni ripresa va riscritta dal POV del capitolo.
 
-- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video; cap. 8 ciclo 2: "farsi rivedere dallo stesso spettatore", conoscenza dell'autore attribuita a Tom): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
+- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video; cap. 8 ciclo 2: "farsi rivedere dallo stesso spettatore", conoscenza dell'autore attribuita a Tom; cap. 12 ciclo 3: ipotesi dell'investigatore smentita dalla cronologia che Emma ha appena letto, rassicurazione non dedotta dalle prove): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
 
 Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ricorrenti):
 - **Fondamento di competenze tecniche non ancora giustificato dal profilo del personaggio** (visto sul cap. 1 con "compacting context" in Tom) — verificare ogni volta che un personaggio mostra conoscenza tecnica specifica.
@@ -51,7 +51,6 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 
 ## Open Deferred Issues
 
-- **Lunghezza cap. 12 (~360 parole)**: per ora resta separato. Fusione con il cap. 13 (non ancora scritto) da decidere dopo le prove podcast dell'autore.
 - **R-110 (cap. 11)**: la risposta di Emma a Tom (fine cap. 10) non è mai mostrata. Va letta da Tom in un breve flashback nel **cap. 17** (regola POV, `mappa-eventi.md` punto 10.6).
 
 ---
@@ -205,7 +204,7 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | Paragrafo-lampo "Niente." | rule (rhythm) | integrated (v3.0) | Assorbito nel primo paragrafo, meno enfasi: "La risposta non arrivò." |
 | "Prima di pausa pranzo"; "Organizzò un'immagine di copertina" | grammar | integrated (v3.0) | → "Prima della pausa pranzo"; "Generò" (scelta d'autore, indizio lessicale ambiguo ammesso da R-06). |
 
-### Ch. 12 — La notizia
+### Ch. 12 — Solo un tecnico? (ex "La notizia", fuso con l'ex cap. 13 il 2026-10-24)
 
 #### Cycle 2 — 2026-10-23 (demolizione dedicata)
 
@@ -219,3 +218,13 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | R1: cinque due punti a metà frase | rule R1 | integrated (v4.0) | Riformulati. |
 | Pipeline "prima di chiunque in azienda" che scopre la morte per ultima | contradiction | integrated (v4.0) | Pipeline di monitoraggio media (giornali, siti di notizie, tv): sapere prima che si diffonda l'informazione se Meridian rischia di finire in cronaca. |
 | Lunghezza (~360 parole) | length | deferred | Resta separato per ora; fusione con il cap. 13 da decidere dopo le prove podcast. |
+
+#### Cycle 3 — 2026-10-24 (capitolo fuso, v5.2)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Lunghezza vecchio cap. 12 | length | integrated (v6.0) | Fusione con l'ex cap. 13. |
+| Investigatore incompatibile con la cronologia | contradiction | integrated (v6.0) | Due ipotesi: account di Tom usato da altri / Tom che indaga. |
+| Rassicurazione non dedotta dalle prove | logical | integrated (v6.0) | Titolo "Solo un tecnico?", dubbio aperto; Emma decide di scoprire chi c'è dietro la mail. |
+| Verifica senza capacità di Emma; ricerca web debole | foundation | integrated (v6.0) | Confronto di stile con le note di Tom (log e intestazioni scartati: accesso troppo privilegiato / tecnicamente impossibile); organigramma → profilo aziendale → LinkedIn → progetto giradischi. |
+

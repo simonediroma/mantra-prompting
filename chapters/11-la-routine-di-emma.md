@@ -40,14 +40,14 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| Due abitudini diverse dichiarate entrambe come la prima cosa di ogni mattina: la pipeline di scraping ("ogni mattina, prima di qualunque altra cosa", cap. 10) e il controllo della casella ("come ogni mattina, la prima cosa che fece", cap. 11). | contradiction | integrated (v2.0) | Non corretta come svista ma trasformata in deviazione: quel giorno la casella scavalca il processo del mattino ("Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio"). La disciplina del cap. 10 resta intatta e diventa il metro con cui misurare lo scarto. È il primo cedimento visibile di Emma, dieci capitoli prima della mail delle 23:34 (cap. 21), registrato dal narratore senza commento: mostrare i parallelismi, non spiegarli. |
+| Due abitudini diverse dichiarate entrambe come la prima cosa di ogni mattina: la pipeline di scraping ("ogni mattina, prima di qualunque altra cosa", cap. 10) e il controllo della casella ("come ogni mattina, la prima cosa che fece", cap. 11). | contradiction | integrated (v2.0) | Non corretta come svista ma trasformata in deviazione: quel giorno la casella scavalca il processo del mattino ("Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio"). La disciplina del cap. 10 resta intatta e diventa il metro con cui misurare lo scarto. È il primo cedimento visibile di Emma, dieci capitoli prima della mail delle 23:34 (cap. 20), registrato dal narratore senza commento: mostrare i parallelismi, non spiegarli. |
 
 ### Cycle 2 — 2026-10-10 (revisione cross-capitolo esterna)
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| R-110 La risposta di Emma a Tom non viene mai mostrata | missing scene | deferred | Rinviata al cap. 17: Tom la legge in un breve flashback (regola POV, `mappa-eventi.md` punto 10.6). |
-| R-111 Correlazione traffico eBlog (smoothie) / chiamata per il frigorifero: anticipo del cap. 14? | rule (early reveal) | integrated (v2.0) | Conforme: Emma annota il dato senza dedurre; il payoff del cap. 14 resta intatto. Indizio per il lettore attento. |
+| R-110 La risposta di Emma a Tom non viene mai mostrata | missing scene | deferred | Rinviata al cap. 16: Tom la legge in un breve flashback (regola POV, `mappa-eventi.md` punto 10.6). |
+| R-111 Correlazione traffico eBlog (smoothie) / chiamata per il frigorifero: anticipo del cap. 13? | rule (early reveal) | integrated (v2.0) | Conforme: Emma annota il dato senza dedurre; il payoff del cap. 13 resta intatto. Indizio per il lettore attento. |
 | R-112 Narratore esplicativo ("Ad un occhio superficiale… soggetti meno affidabili") | rule violation | integrated (v2.0) | Paragrafo sostituito da un gesto: la colonna "con chip / senza" nell'archivio, "Le due curve non si somigliavano." |
 | R-113 "non è detto che dovesse coincidere" | grammar | integrated (v2.0) | → "non era detto che coincidesse". |
 | R-114 Capitolo-elenco di task, poca tensione | pacing | integrated (v2.0) | L'attesa della risposta diventa scena nel finale (inbox aperta fino alle diciassette, chiusa vuota). |
@@ -59,7 +59,7 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Statistiche sul fenomeno ("uno su centomila", "+30%") in violazione della regola anti-anticipo nata su questo capitolo; +30% monitorato prima della colonna con chip/senza; "curve" da una colonna | rule (early reveal) / contradiction | integrated (v3.0) | Tolte tutte le cifre. Colonna con chip/senza riordinata per mese: senza chip stabili, con chip in crescita regolare. Solo l'effetto. |
-| Nessun canale tra l'articolo eBlog e il frigorifero (un frigo non legge blog); un'autonomia del frigo invertirebbe il meccanismo | foundation / logical | integrated (v3.0) | Il frigo pesca le ricette dal web; è la cliente a chiedere lo stesso smoothie più volte al giorno (ripetizione dall'utente, come nel caso Voss). Emma vede un solo utente e decine di pageview sulla stessa pagina, non un picco di traffico. Allineati outline (cap. 14), mappa-eventi, book-memory. |
+| Nessun canale tra l'articolo eBlog e il frigorifero (un frigo non legge blog); un'autonomia del frigo invertirebbe il meccanismo | foundation / logical | integrated (v3.0) | Il frigo pesca le ricette dal web; è la cliente a chiedere lo stesso smoothie più volte al giorno (ripetizione dall'utente, come nel caso Voss). Emma vede un solo utente e decine di pageview sulla stessa pagina, non un picco di traffico. Allineati outline (cap. 13), mappa-eventi, book-memory. |
 | "Stavolta non trovò nessuna regola aziendale" senza una regola stabilita al mattino | contradiction | rejected (autore) | "Stavolta" si riferisce al ragionamento del mattino (Tom scrive solo in servizio): la logica regge. "Del suo turno" lasciato invariato. |
 | Paragrafo-lampo "Niente." | rule (rhythm) | integrated (v3.0) | Assorbito nel primo paragrafo, meno enfasi: "La risposta non arrivò." |
 | "Prima di pausa pranzo"; "Organizzò un'immagine di copertina" | grammar | integrated (v3.0) | → "Prima della pausa pranzo"; "Generò" (scelta d'autore, indizio lessicale ambiguo ammesso da R-06). |

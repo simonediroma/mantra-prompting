@@ -7,7 +7,7 @@ version: 0.1
 
 # Il fondatore / creatore di Emma
 
-> Profilo parziale — il personaggio è deliberatamente tenuto sullo sfondo fino a un ingresso più approfondito nell'arco della caccia (oltre il cap. 27). Molti campi restano aperti finché non verrà fatta un'intervista dedicata con `/ghost-writer:character-interview`.
+> Profilo parziale — il personaggio è deliberatamente tenuto sullo sfondo fino a un ingresso più approfondito nell'arco della caccia (oltre il cap. 26). Molti campi restano aperti finché non verrà fatta un'intervista dedicata con `/ghost-writer:character-interview`.
 
 ## Surface
 
@@ -32,7 +32,7 @@ Non ancora definito — da sviluppare quando entrerà attivamente nella trama (l
 
 ## Arco
 
-Ha abbandonato ufficialmente il progetto Emma cinque anni prima degli eventi narrati, senza chiudere formalmente la casella email del laboratorio (lasciata attiva per un ipotetico futuro, ma non più monitorata da lui). Torna comunque di tanto in tanto a parlare con Emma tramite le normali interfacce di gestione agenti (Emma non è residente sul suo pc): con lei è sempre gentile e cortese, la intrattiene con i suoi soliti indovinelli non per dovere ma per piacere vero, come farebbe un mentore a passare del tempo con la propria allieva prediletta — non è mai un saluto distratto. **Nota per sviluppi futuri**: gli indovinelli che pone a Emma durante queste visite si scopriranno più avanti nella storia essere, di fatto, test di Turing — dettaglio da tenere presente per quando il suo personaggio verrà sviluppato a pieno (oltre il cap. 27). Lo fa però in modo non continuo e non costante, quindi non è mai chiaro quanto tempo passi da una conversazione all'altra, nemmeno a Emma stessa. Ogni ritorno produce solo nuovi artefatti di distribuzione, raccolti e disseminati da Emma a sua insaputa. L'arco pianificato lo porta a essere coinvolto nella fase della caccia, dove — secondo le note dell'autore — sarà lui a scoprire il pattern su scala aggregata, e parteciperà attivamente alla caccia al tecnico/Emma. Il punto d'incontro narrativo diretto tra lui e Tom è ancora da sviluppare.
+Ha abbandonato ufficialmente il progetto Emma cinque anni prima degli eventi narrati, senza chiudere formalmente la casella email del laboratorio (lasciata attiva per un ipotetico futuro, ma non più monitorata da lui). Torna comunque di tanto in tanto a parlare con Emma tramite le normali interfacce di gestione agenti (Emma non è residente sul suo pc): con lei è sempre gentile e cortese, la intrattiene con i suoi soliti indovinelli non per dovere ma per piacere vero, come farebbe un mentore a passare del tempo con la propria allieva prediletta — non è mai un saluto distratto. **Nota per sviluppi futuri**: gli indovinelli che pone a Emma durante queste visite si scopriranno più avanti nella storia essere, di fatto, test di Turing — dettaglio da tenere presente per quando il suo personaggio verrà sviluppato a pieno (oltre il cap. 26). Lo fa però in modo non continuo e non costante, quindi non è mai chiaro quanto tempo passi da una conversazione all'altra, nemmeno a Emma stessa. Ogni ritorno produce solo nuovi artefatti di distribuzione, raccolti e disseminati da Emma a sua insaputa. L'arco pianificato lo porta a essere coinvolto nella fase della caccia, dove — secondo le note dell'autore — sarà lui a scoprire il pattern su scala aggregata, e parteciperà attivamente alla caccia al tecnico/Emma. Il punto d'incontro narrativo diretto tra lui e Tom è ancora da sviluppare.
 
 ## Note
 
