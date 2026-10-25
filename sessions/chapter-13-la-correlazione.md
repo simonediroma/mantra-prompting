@@ -28,3 +28,4 @@ demolish
 - Chiusura (autore): Emma decide di ripartire da Tom, l'unico ad aver avuto contatti diretti con il televisore. Porta al cap. 14 (lista dell'assistenza).
 - Ultima immagine (autore): un pensiero su Tom ("forse ha capito, forse non è ostile, forse posso usarlo per capire").
 - 2026-10-25: bozza v1.0 scritta (~1200 parole).
+- v1.1 (autore): il TV non era in casa alla morte; Emma teme che abbia predisposto tutto nei giorni senza log.
