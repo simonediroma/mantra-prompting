@@ -201,6 +201,7 @@ La pianificazione completa dei capitoli 1-26 è in `outline.md`; qui viene aggiu
 | Note dei tecnici sulla lista dell'assistenza | Esiti tecnici di poche righe firmati dal tecnico, formule rigide; Emma riconosce la mano di Tom nella mail-bluff | Cap. 12 |
 | Sito del giradischi di Tom | Progetto open source; Emma lo trova da organigramma → pagina di presentazione aziendale di Tom (compilata anni prima, mai aggiornata, link ai profili esterni) → LinkedIn, unico progetto personale; forum di anni con audiofili quasi tutti scandinavi; nei post recenti Tom non scrive più di ascoltare; nessun titolo di brano citato | Cap. 12 |
 | Pagina di presentazione aziendale di Tom | Raggiungibile dall'organigramma; compilata anni prima e mai aggiornata; due righe sul ruolo, link ai profili esterni (LinkedIn) | Cap. 12 |
+| Statistiche dei canali di Emma (analytics) | Visualizzazioni per giorno, per utente anonimo e per **categoria** di dispositivo (es. "Smart TV"); mai matricola, ID univoco o nome. Il legame con un cliente lo fa Emma incrociando le date con la chiamata all'assistenza | Cap. 11-12 (fissato 2026-10-25) |
 
 ## Session Log
 
