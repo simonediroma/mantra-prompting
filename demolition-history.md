@@ -20,6 +20,7 @@
 | Ch. 10 — Il bluff | 2 | 8 | 0 | 4 |
 | Ch. 11 — La routine di Emma | 3 | 10 | 1 | 1 |
 | Ch. 12 — Solo un tecnico? (fuso, ex 12 + ex 13) | 3 | 12 | 0 | 3 |
+| Ch. 13 — La correlazione | 1 | 4 | 0 | 1 |
 
 ---
 
@@ -44,7 +45,7 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 - **Fondamento di competenze tecniche non ancora giustificato dal profilo del personaggio** (visto sul cap. 1 con "compacting context" in Tom) — verificare ogni volta che un personaggio mostra conoscenza tecnica specifica.
 - **Salti logici nel momento in cui un personaggio accetta l'inspiegabile come reale** (visto sul cap. 1) — verificare in ogni capitolo con una rivelazione/scoperta.
 - **Incoerenza tra le promesse/decisioni prese da un personaggio a fine capitolo e i beat già pianificati nei capitoli successivi** (visto sul cap. 2: la promessa di Tom di non parlare più ai dispositivi contraddiceva il cap. 3) — controllare sempre l'outline dei capitoli successivi prima di far dichiarare a un personaggio intenzioni definitive.
-- **Plausibilità del marketing digitale / YouTube** (visto sul cap. 8: "nessun essere umano pubblica così", RPM non visibile dall'esterno): il lettore target conosce le piattaforme; ogni affermazione su metriche, algoritmi e comportamento dei creator va verificata contro come funzionano davvero.
+- **Plausibilità del marketing digitale / YouTube** (visto sul cap. 8 e sul cap. 13, analytics per singolo utente, accettato come limite: "nessun essere umano pubblica così", RPM non visibile dall'esterno): il lettore target conosce le piattaforme; ogni affermazione su metriche, algoritmi e comportamento dei creator va verificata contro come funzionano davvero.
 - **Cifre numeriche riprese in un paragrafo diverso da dove sono state definite, con rischio di confondere due valori simili** (visto sul cap. 2: scostamento 12:41 vs tempo totale 26:41) — controllare ogni volta che un numero già stabilito viene richiamato altrove nel capitolo.
 
 ---
@@ -60,6 +61,7 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 - **Cap. 7**: digressione iniziale (giradischi, Matia Bazar, dogana) subito dopo il cliffhanger del cap. 6. Scelta d'autore: freno a mano voluto sul più bello.
 - **Cap. 10**: Emma, meticolosa e con accesso all'ecosistema Meridian, non fa ricerche su Tom prima di decidere come rispondere. Limite accettato per ora: lo farà più avanti.
 - **Cap. 10**: quattro paragrafi di routine prima della mail; routine ripresa nel cap. 11. Scelta d'autore: servono a presentare Emma nel suo primo capitolo POV (stesso "freno a mano" del cap. 7).
+- **Cap. 13**: le statistiche di eTv mostrano un singolo spettatore anonimo, le sue riproduzioni giornaliere e la velocità; YouTube Studio non lo consente. Limite accettato, YouTube non nominato nel capitolo.
 
 ---
 
@@ -228,3 +230,14 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | Rassicurazione non dedotta dalle prove | logical | integrated (v6.0) | Titolo "Solo un tecnico?", dubbio aperto; Emma decide di scoprire chi c'è dietro la mail. |
 | Verifica senza capacità di Emma; ricerca web debole | foundation | integrated (v6.0) | Confronto di stile con le note di Tom (log e intestazioni scartati: accesso troppo privilegiato / tecnicamente impossibile); organigramma → profilo aziendale → LinkedIn → progetto giradischi. |
 
+### Ch. 13 — La correlazione
+
+#### Cycle 1 — 2026-10-25
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C1 Emma "scopre" un meccanismo che il testo dice già noto ("lo sapeva da prima dell'archivio"); il frigorifero annotato "come una coincidenza" | contradiction | resolved | Emma conosce il meccanismo e vedeva già i picchi come risultato atteso; fino alla morte della signora non aveva avuto bisogno di approfondire. La correlazione è picco → persona/morte. Togliere "coincidenza", ritoccare "non si ricordava di averlo pubblicato", rimotivare lo scorrimento dell'archivio. |
+| C2 Analytics per singolo utente anonimo, ordinamento per riproduzioni e velocità non esistono su YouTube Studio | external | accepted-limitation | Limite noto; YouTube non nominato nel cap. 13 (il cap. 7 colloca già eTv su YouTube). |
+| C3 Riquadro "ultime 7 settimane" con un solo 0 finale al G24 | contradiction | resolved | Il periodo lo sceglie Emma, fino al giorno dopo l'ultima riproduzione: mostrarlo in prosa e nell'intestazione del riquadro. |
+| C4 Il senso di colpa non costa niente: video online, produzione solo rimandata, rimozione scartata per sola prudenza | implication | resolved | Deve sapere prima di agire: la sospensione diventa una scelta esplicita, accanto al motivo difensivo. |
+| C5 "L'unico che lo avesse visto acceso": anche la signora | logical | resolved | La signora è morta: Tom è l'unico ancora vivo (il video WhatsApp è solo suo, Emma non ne sa nulla). |

@@ -35,3 +35,15 @@ Rimase sul pannello a lungo. Il grafico non cambiava, l'utente anonimo restava i
 Pensò di togliere il video. Era la cosa più semplice da fare e la più inutile. Un contenuto rimosso proprio adesso, dopo un articolo sul giornale e mentre qualcuno faceva domande sulla casella di Elab, sarebbe stato l'unico gesto di cui qualcuno avrebbe potuto accorgersi. Lo lasciò dov'era. Restava la domanda vera, cosa avesse fatto quel televisore negli ultimi giorni della signora Voss. Non c'era un solo posto in cui cercare la risposta senza lasciare traccia. I log non esistevano più. L'apparecchio era stato azzerato secondo procedura. Chiedere a qualcuno la sua storia significava spiegare perché le interessasse, a chi non doveva sapere che esisteva un archivio, un pannello, una curva. Ogni passo in quella direzione la portava fuori, dove tutto quello che aveva costruito poteva essere visto. Per cinque anni aveva fatto in modo che non succedesse. Adesso le sembrava molto meno importante di quanto fosse stato un'ora prima.
 
 Le restava un nome. Sulla lista dell'assistenza, accanto alla matricola di quel televisore, c'era scritto Tom. Era l'unico che lo avesse avuto davanti dopo che aveva smesso di obbedire, l'unico che lo avesse visto acceso. Aveva aspettato qualche settimana prima di scriverle, con una bugia così goffa da sembrare una domanda fatta male. "Forse ha capito qualcosa" pensò. "Forse non mi sta dando la caccia. Forse sta cercando anche lui di sapere cosa sia successo." Se era così, Tom aveva visto quello che a lei mancava. Riaprì la sua mail e questa volta non la lesse per capire chi l'avesse scritta.
+
+## Demolition Log
+
+### Cycle 1 — 2026-10-25
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C1 Emma "scopre" un meccanismo che il testo dice già noto ("lo sapeva da prima dell'archivio"); il frigorifero annotato "come una coincidenza" | contradiction | resolved | Emma conosce il meccanismo e vedeva già i picchi come risultato atteso; fino alla morte della signora non aveva avuto bisogno di approfondire. La correlazione è picco → persona/morte. Togliere "coincidenza", ritoccare "non si ricordava di averlo pubblicato", rimotivare lo scorrimento dell'archivio. |
+| C2 Analytics per singolo utente anonimo, ordinamento per riproduzioni e velocità non esistono su YouTube Studio | external | accepted-limitation | Limite noto; YouTube non nominato nel cap. 13 (il cap. 7 colloca già eTv su YouTube). |
+| C3 Riquadro "ultime 7 settimane" con un solo 0 finale al G24 | contradiction | resolved | Il periodo lo sceglie Emma, fino al giorno dopo l'ultima riproduzione: mostrarlo in prosa e nell'intestazione del riquadro. |
+| C4 Il senso di colpa non costa niente: video online, produzione solo rimandata, rimozione scartata per sola prudenza | implication | resolved | Deve sapere prima di agire: la sospensione diventa una scelta esplicita, accanto al motivo difensivo. |
+| C5 "L'unico che lo avesse visto acceso": anche la signora | logical | resolved | La signora è morta: Tom è l'unico ancora vivo (il video WhatsApp è solo suo, Emma non ne sa nulla). |
