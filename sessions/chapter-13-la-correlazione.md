@@ -20,3 +20,4 @@ ask-before-writing
 - [ ] integrate
 
 ## Notes
+- 2026-10-25: outline integrato dall'autore (dubbio "ha funzionato, ma a che prezzo?", paura che il TV abbia causato la morte, primo sottinteso dello scopo-procreazione). Aggiornato characters/emma.md.
