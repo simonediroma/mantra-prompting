@@ -29,3 +29,4 @@ demolish
 - Ultima immagine (autore): un pensiero su Tom ("forse ha capito, forse non è ostile, forse posso usarlo per capire").
 - 2026-10-25: bozza v1.0 scritta (~1200 parole).
 - v1.1 (autore): il TV non era in casa alla morte; Emma teme che abbia predisposto tutto nei giorni senza log.
+- Demolizione ciclo 1, C1 (risolta, da integrare): Emma conosce il meccanismo e vedeva già i picchi (risultato atteso); fino alla morte della signora non aveva avuto bisogno di approfondire. La correlazione scoperta è picco → persona/morte. Togliere 'come si annota una coincidenza'; ritoccare 'non si ricordava di averlo pubblicato'; rimotivare lo scorrimento dell'archivio.
