@@ -11,11 +11,11 @@ chapter
 chapters/13-la-correlazione.md
 
 ## Current step
-ask-before-writing
+demolish
 
 ## Steps completed
-- [ ] ask-before-writing
-- [ ] write
+- [x] ask-before-writing
+- [x] write
 - [ ] demolish
 - [ ] integrate
 
@@ -26,3 +26,5 @@ ask-before-writing
 - Apertura (autore): il pannello di eTv mostra le visualizzazioni ripetute di "Yoga fit" da un solo utente anonimo, categoria dispositivo "Smart TV" (gli analytics non mostrano matricola né ID univoco: regola valida per tutti i canali di Emma). Ordine di grandezza approvato: circa dieci al giorno all'inizio (coerente con il cap. 4), poi venti, trenta nelle settimane prima della chiamata all'assistenza, sempre a 2x. Cifre solo nel pannello, in lettere in narrazione.
 - Da verificare: cap. 12, ultimo paragrafo, "giorno per giorno e dispositivo per dispositivo" contraddice la regola sugli analytics.
 - Chiusura (autore): Emma decide di ripartire da Tom, l'unico ad aver avuto contatti diretti con il televisore. Porta al cap. 14 (lista dell'assistenza).
+- Ultima immagine (autore): un pensiero su Tom ("forse ha capito, forse non è ostile, forse posso usarlo per capire").
+- 2026-10-25: bozza v1.0 scritta (~1200 parole).

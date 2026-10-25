@@ -181,7 +181,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Vincoli di scrittura**: mai nominare "sublimazione"; il colpo emotivo non va risolto in scena né commentato dal narratore, resta sotto; nessuna formulazione che riveli la sua natura. La sproporzione tra causa e reazione è l'unico segnale concesso al lettore.
 **Collegamento al precedente**: prosecuzione della verifica del cap. 12.
 **Collegamento al successivo**: per sapere cosa sia successo davvero all'apparecchio deve tornare sulla lista dell'assistenza.
-**Stato**: `to-write`
+**Stato**: `draft`
 **File**: `chapters/13-la-correlazione.md`
 
 ---

@@ -173,6 +173,8 @@ La pianificazione completa dei capitoli 1-26 è in `outline.md`; qui viene aggiu
 
 | Ch. 12 — Solo un tecnico? (fusione ex 12 + ex 13, 2026-10-24) | Apre la Parte 5 (G24, mattina). La pipeline media di Emma intercetta il necrologio della signora Voss con foto (tappetino da yoga, TV Meridian, eWatch); Emma riconosce il caso dal suo archivio, lo sgomento sale finché il ricordo della mail di Tom non lo trasforma in lucidità; sulla lista dell'assistenza trova il nome del tecnico, Tom. Il tappetino le fa chiedere se la signora guardasse i video di yoga di eTv e se Tom le abbia scritto per questo; la bugia troppo goffa le sembra un'esca. Due ipotesi: un investigatore che ha usato la casella di Tom, oppure Tom stesso che indaga. Confrontando la mail con le note di Tom sulla lista dell'assistenza riconosce la stessa mano (prima rassicurazione); l'organigramma (dodici anni, stesso ruolo) alimenta la seconda ipotesi; dal profilo aziendale passa a LinkedIn e al sito del giradischi, anni di forum con audiofili scandinavi: Tom è un tecnico vero, ma anche uno che non smette di smontare finché non capisce. Le resta una curiosità (nei post recenti Tom non dice più di ascoltare musica). Decide di scoprire cosa o chi ci sia dietro la mail, poi apre il pannello di eTv per l'altra domanda. | complete |
 
+| Ch. 13 — La correlazione | Stessa mattina del cap. 12 (G24). Nel pannello di eTv Emma trova un solo utente anonimo, su una Smart TV, che riguarda "Yoga fit" a 2x circa dieci volte al giorno, poi fino a trenta, fino alla vigilia della chiamata all'assistenza della signora Voss; dopo, zero. Ripensa allo smoothie del frigorifero e scorre l'archivio: la stessa curva precede molti altri casi. Il meccanismo lo conosce già; la prima reazione è un piccolo sollievo (il video ha funzionato), poi la paura che il televisore, di cui non sa cosa abbia fatto dopo aver smesso di obbedire, abbia causato la morte. Salta il processo del mattino, rinuncia a togliere il video per non esporsi, ma il senso di colpa supera la prudenza. L'unico ad aver visto il televisore acceso è Tom: forse ha capito, forse non è ostile. Riapre la sua mail. | draft |
+
 
 ## Continuity Ledger
 
@@ -202,6 +204,9 @@ La pianificazione completa dei capitoli 1-26 è in `outline.md`; qui viene aggiu
 | Sito del giradischi di Tom | Progetto open source; Emma lo trova da organigramma → pagina di presentazione aziendale di Tom (compilata anni prima, mai aggiornata, link ai profili esterni) → LinkedIn, unico progetto personale; forum di anni con audiofili quasi tutti scandinavi; nei post recenti Tom non scrive più di ascoltare; nessun titolo di brano citato | Cap. 12 |
 | Pagina di presentazione aziendale di Tom | Raggiungibile dall'organigramma; compilata anni prima e mai aggiornata; due righe sul ruolo, link ai profili esterni (LinkedIn) | Cap. 12 |
 | Statistiche dei canali di Emma (analytics) | Visualizzazioni per giorno, per utente anonimo e per **categoria** di dispositivo (es. "Smart TV"); mai matricola, ID univoco o nome. Il legame con un cliente lo fa Emma incrociando le date con la chiamata all'assistenza | Cap. 11-12 (fissato 2026-10-25) |
+| Spettatore Voss nelle statistiche di eTv | Utente anonimo, Smart TV, "Yoga fit" a 2x: circa dieci riproduzioni al giorno per settimane, poi fino a trenta; l'ultima riproduzione il giorno prima della prima chiamata all'assistenza, poi zero. Box di sistema con badge "Questo video sta fidelizzando il tuo pubblico!" | Cap. 13 |
+| Emma e "Yoga fit" | Non ricorda di averlo pubblicato (produzione di massa) | Cap. 13 |
+| Mattina G24 (Emma) | Alle dieci passate il processo del mattino non è ancora partito: prima volta che i topic restano non scremati | Cap. 13 |
 
 ## Session Log
 
