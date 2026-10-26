@@ -17,6 +17,7 @@ Fonte: `chapters/` (cap. 1-5 ancora in `draft`). Sezioni `## Demolition Log` esc
 | 10 | Il bluff | 1.124 | 6.960 | ~7 min | rendered |
 | 11 | La routine di Emma | 1.001 | 6.310 | ~7 min | rendered |
 | 12 | Solo un tecnico? (fusione ex 12 + ex 13) | 1.190 | 7.296 | ~9 min | rendered |
+| 13 | La correlazione | 1.317 | 7.919 | ~9 min | rendered |
 
 ## Pronunciation
 
