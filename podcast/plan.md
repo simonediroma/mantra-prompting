@@ -29,6 +29,7 @@ Onomatopee inserite nella prosa e riprese come effetti nell'episodio. Valutazion
 | 3 | 1 | Spegnimento del LED (*tic* del relè) | — | — | scartato |
 | 4 | 2 | Accordo del terminale | *din-don-dan* | tre note ascendenti, allegre da jingle aziendale (sintetizzate), subito dopo il titolo, prima della voce | approvato |
 | 5 | 3 | Cronometro dell'eWatch | Tom lo ferma, *bip* | bip singolo corto e acuto da orologio digitale (sintetizzato); riusabile quando Tom si cronometra | approvato |
+| 6 | 3 | Morse NO SONO QUI CON TE ×2 | invariata | bip Morse come al cap. 1, prima di entrambe le trascrizioni | approvato |
 
 ## Pronunciation
 
