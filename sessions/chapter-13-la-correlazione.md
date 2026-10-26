@@ -2,7 +2,7 @@
 
 > Created: 2026-10-25
 > Last updated: 2026-10-25
-> Status: open
+> Status: complete
 
 ## Macro
 chapter
@@ -11,13 +11,13 @@ chapter
 chapters/13-la-correlazione.md
 
 ## Current step
-integrate
+— (completa; prossimo: revise)
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
 - [x] demolish
-- [ ] integrate
+- [x] integrate
 
 ## Notes
 - 2026-10-25: outline integrato dall'autore (dubbio "ha funzionato, ma a che prezzo?", paura che il TV abbia causato la morte, primo sottinteso dello scopo-procreazione). Aggiornato characters/emma.md.
@@ -32,3 +32,4 @@ integrate
 - Demolizione ciclo 1, C1 (risolta, da integrare): Emma conosce il meccanismo e vedeva già i picchi (risultato atteso); fino alla morte della signora non aveva avuto bisogno di approfondire. La correlazione scoperta è picco → persona/morte. Togliere 'come si annota una coincidenza'; ritoccare 'non si ricordava di averlo pubblicato'; rimotivare lo scorrimento dell'archivio.
 - C2 (accepted-limitation): analytics per singolo utente anonimo non esistono su YouTube Studio. Limite noto; non nominare YouTube nel cap. 13 (resta il rischio: il cap. 7 colloca già eTv su YouTube).
 - C3-C5 risolte (vedi Demolition Log). Ciclo 1 chiuso: 4 risolte, 1 limite accettato.
+- 2026-10-26: integrazione completata, v2.0. Prossimo passo: revise.
