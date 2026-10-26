@@ -40,3 +40,9 @@ Con ElevenLabs i termini inglesi restano come nel libro: valgono solo le regole 
 | Pete | Pit | altrimenti "Pète" |
 | `internal_unknown` | internal anknoun (da verificare al cap. 9) | |
 | compacting context, checksum, LED, IA, Meridian(s), reset, log | invariati | letti correttamente |
+
+## Correzioni audio in sospeso
+
+Piccole incoerenze da sistemare solo alla prossima rigenerazione di quell'episodio (non rigenerare apposta):
+
+- Ep. 11: la chiusura annuncia "La notizia", vecchio titolo del cap. 12 → "Solo un tecnico?".
