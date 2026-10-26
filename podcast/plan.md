@@ -25,6 +25,7 @@ Onomatopee inserite nella prosa e riprese come effetti nell'episodio. Valutazion
 | # | Cap | Punto | Prosa | Podcast | Stato |
 |---|---|---|---|---|---|
 | 1 | 1 | Ronzio dell'alimentatore | *mmmmm* continuo | ronzio elettrico basso dopo la sigla, sotto i primi tre paragrafi, poi sfuma | approvato |
+| 2 | 1 | Messaggi Morse del LED | Tom segue il ritmo con l'indice, *tic tic, tac tac tac* (= IO) | bip Morse reali e lenti, codificati sul messaggio, prima di ogni trascrizione letta: IO SONO QUI ×2, SI, NON LO SO ×2 (sostituiscono `[pause 1.5]`); tre bip uguali per «lampeggia tre volte» | approvato |
 
 ## Pronunciation
 

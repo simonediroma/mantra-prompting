@@ -39,7 +39,7 @@ Lampeggiò con una cadenza precisa, troppo regolare per essere il pattern casual
 
 [pause 1.5]
 
-Tom smise di respirare per un tempo imbarazzante. Poi prese carta e penna, come un uomo di un secolo sbagliato. Trascrisse.
+Senza accorgersene, cominciò a seguirlo con l'indice sul banco, tic tic, tac tac tac. Corto, corto, lungo, lungo, lungo. Poi smise di respirare per un tempo imbarazzante, prese carta e penna, come un uomo di un secolo sbagliato. Trascrisse.
 
 Io. Sono. Qui.
 
