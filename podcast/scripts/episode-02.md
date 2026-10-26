@@ -13,7 +13,7 @@ Nell'episodio precedente, Tom ha ricevuto un messaggio in Morse da un televisore
 
 # Capitolo due. Stallo burocratico
 
-Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
+Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note, din-don-dan, pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
 
 Comunicazione formale: scostamento da procedura standard.
 Riferimento intervento: unità tivù consumer, modello omesso in automatico.
