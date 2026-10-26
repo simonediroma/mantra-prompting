@@ -19,7 +19,9 @@ Script tags (one per line):
   [voice NAME]         switch to a voice defined in podcast.voices (dialogue, characters)
   [narrator]           back to the narrator voice
   [sfx NAME ARGS]      sound effect in sequence: morse TEXT · blink N · chime · bip
-  [bed NAME] … [bed off]  ambient sound under the voice (NAME: hum), faded out at [bed off]
+  [bed NAME [LEVEL] [fade]] … [bed off]  ambient sound under the voice (NAME: hum), faded out at
+                       [bed off]; LEVEL = peak (default 0.035); fade = starts at LEVEL and
+                       fades to nothing across the whole span, gone by [bed off]
 
 Requires: pip install piper-tts numpy · ffmpeg in PATH
 ElevenLabs: set podcast.engine = "elevenlabs", podcast.voice = a voice_id, and the
@@ -455,9 +457,11 @@ BEDS = {"hum": hum_bed}
 def effect_piece(ev):
     """Effects become audio pieces; bed markers become zero-length pieces tagged for mix_beds."""
     if ev[0] == "bed":
-        if ev[1] != "off" and ev[1] not in BEDS:
-            raise SystemExit(f"Unknown bed '{ev[1]}' (available: {', '.join(BEDS)})")
-        return ("bed", ev[1])
+        name, *opts = ev[1].split()
+        if name != "off" and name not in BEDS:
+            raise SystemExit(f"Unknown bed '{name}' (available: {', '.join(BEDS)})")
+        level = next((float(o) for o in opts if o != "fade"), BED_LEVEL)
+        return ("bed", name, level, "fade" in opts)
     if ev[1] not in SFX:
         raise SystemExit(f"Unknown sfx '{ev[1]}' (available: {', '.join(SFX)})")
     return (np.clip(SFX[ev[1]](ev[2]), -1, 1) * 32767).astype(np.int16)
@@ -468,19 +472,26 @@ def mix_beds(pieces, fade_in=1.5, fade_out=4.0):
         if isinstance(p, tuple):
             if open_bed:
                 beds.append((*open_bed, pos))
-            open_bed = (p[1], pos) if p[1] != "off" else None
+            open_bed = (p[1], p[2], p[3], pos) if p[1] != "off" else None
         else:
             audio.append(p)
             pos += p.size
     audio = np.concatenate(audio).astype(np.float64) if audio else np.zeros(0)
     if open_bed:
         beds.append((*open_bed, pos))
-    for name, start, end in beds:
-        end = min(end + int(SAMPLE_RATE * fade_out), audio.size)   # the fade runs past [bed off]
-        bed = BEDS[name](end - start)
-        fi, fo = min(int(SAMPLE_RATE * fade_in), bed.size), min(int(SAMPLE_RATE * fade_out), bed.size)
-        bed[:fi] *= np.linspace(0, 1, fi)
-        bed[bed.size - fo:] *= np.linspace(1, 0, fo)
+    for name, level, fade, start, end in beds:
+        if fade:   # enters at full level, then fades out across the whole span
+            fi, hold = int(SAMPLE_RATE * 0.3), int(SAMPLE_RATE * 3.0)
+            bed = BEDS[name](end - start) * level / BED_LEVEL
+            fi, hold = min(fi, bed.size), min(hold, bed.size)
+            env = np.concatenate([np.linspace(0, 1, fi), np.ones(hold - fi), np.linspace(1, 0, bed.size - hold) ** 2])
+            bed *= env
+        else:
+            end = min(end + int(SAMPLE_RATE * fade_out), audio.size)   # the fade runs past [bed off]
+            bed = BEDS[name](end - start) * level / BED_LEVEL
+            fi, fo = min(int(SAMPLE_RATE * fade_in), bed.size), min(int(SAMPLE_RATE * fade_out), bed.size)
+            bed[:fi] *= np.linspace(0, 1, fi)
+            bed[bed.size - fo:] *= np.linspace(1, 0, fo)
         audio[start:end] += bed * 32767
     return np.clip(audio, -32768, 32767).astype(np.int16)
 
