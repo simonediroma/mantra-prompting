@@ -20,14 +20,14 @@ Fonte: `chapters/` (cap. 1-5 ancora in `draft`). Sezioni `## Demolition Log` esc
 
 ## Sound effects
 
-Onomatopee inserite nella prosa e riprese come effetti nell'episodio. Valutazione un punto alla volta (proposta iniziale: 20 punti). Gli effetti si applicano ai copioni quando `export_podcast.py` supporterà il tag `[sfx …]`.
+Onomatopee inserite nella prosa e riprese come effetti nell'episodio. Valutazione un punto alla volta (proposta iniziale: 20 punti). Nei copioni: `[sfx morse TESTO]`, `[sfx blink N]`, `[sfx chime]`, `[sfx bip]`, `[bed hum]` … `[bed off]` (generati in locale, gratis). Stato "nel podcast" = tag inserito ed episodio rigenerato. La cache audio è versionata in `podcast/audio-cache/` (Opus): rigenerare costa solo i paragrafi modificati.
 
 | # | Cap | Punto | Prosa | Podcast | Stato |
 |---|---|---|---|---|---|
-| 1 | 1 | Ronzio dell'alimentatore | *mmmmm* continuo | ronzio elettrico basso dopo la sigla, sotto i primi tre paragrafi, poi sfuma | approvato |
-| 2 | 1 | Messaggi Morse del LED | Tom segue il ritmo con l'indice, *tic tic, tac tac tac* (= IO) | bip Morse reali e lenti, codificati sul messaggio, prima di ogni trascrizione letta: IO SONO QUI ×2, SI, NON LO SO ×2 (sostituiscono `[pause 1.5]`); tre bip uguali per «lampeggia tre volte» | approvato |
+| 1 | 1 | Ronzio dell'alimentatore | *mmmmm* continuo | ronzio elettrico basso dopo la sigla, sotto i primi tre paragrafi, poi sfuma | nel podcast |
+| 2 | 1 | Messaggi Morse del LED | Tom segue il ritmo con l'indice, *tic tic, tac tac tac* (= IO) | bip Morse reali e lenti, codificati sul messaggio, prima di ogni trascrizione letta: IO SONO QUI ×2, SI, NON LO SO ×2 (sostituiscono `[pause 1.5]`); tre bip uguali per «lampeggia tre volte» | nel podcast |
 | 3 | 1 | Spegnimento del LED (*tic* del relè) | — | — | scartato |
-| 4 | 2 | Accordo del terminale | *din-don-dan* | tre note ascendenti, allegre da jingle aziendale (sintetizzate), subito dopo il titolo, prima della voce | approvato |
+| 4 | 2 | Accordo del terminale | *din-don-dan* | tre note ascendenti, allegre da jingle aziendale (sintetizzate), subito dopo il titolo, prima della voce | nel podcast |
 | 5 | 3 | Cronometro dell'eWatch | Tom lo ferma, *bip* | bip singolo corto e acuto da orologio digitale (sintetizzato); riusabile quando Tom si cronometra | approvato |
 | 6 | 3 | Morse NO SONO QUI CON TE ×2 | invariata | bip Morse come al cap. 1, prima di entrambe le trascrizioni | approvato |
 

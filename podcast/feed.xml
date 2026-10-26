@@ -16,10 +16,10 @@
       <title>Capitolo 1 — Primo contatto</title>
       <itunes:title>Capitolo 1 — Primo contatto</itunes:title>
       <description>Un tecnico Meridian, un televisore che non dovrebbe avere niente da dire e un LED che lampeggia nel modo sbagliato.</description>
-      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-01.mp3" length="12246799" type="audio/mpeg"/>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-01.mp3?v=1" length="13046459" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-01</guid>
       <pubDate>Fri, 23 Oct 2026 06:56:35 +0000</pubDate>
-      <itunes:duration>17:00</itunes:duration>
+      <itunes:duration>18:07</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -28,10 +28,10 @@
       <title>Capitolo 2 — Stallo burocratico</title>
       <itunes:title>Capitolo 2 — Stallo burocratico</itunes:title>
       <description>Meridian misura il mondo in minuti e secondi. La curiosità di Tom ne ha sforati dodici.</description>
-      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-02.mp3" length="6825976" type="audio/mpeg"/>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-02.mp3?v=1" length="6888984" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-02</guid>
       <pubDate>Fri, 23 Oct 2026 07:56:35 +0000</pubDate>
-      <itunes:duration>9:28</itunes:duration>
+      <itunes:duration>9:34</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>

@@ -1,13 +1,17 @@
 {
   "episode-01": {
-    "length": 12246799,
+    "length": 13046459,
+    "md5": "5244fabbffc2",
     "pub": 1792738595,
-    "seconds": 1020
+    "rev": 1,
+    "seconds": 1087
   },
   "episode-02": {
-    "length": 6825976,
+    "length": 6888984,
+    "md5": "9d7f12128e67",
     "pub": 1792742195,
-    "seconds": 568
+    "rev": 1,
+    "seconds": 574
   },
   "episode-03": {
     "length": 6288374,

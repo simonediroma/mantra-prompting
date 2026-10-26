@@ -25,7 +25,8 @@ Requires: pip install piper-tts numpy · ffmpeg in PATH
 ElevenLabs: set podcast.engine = "elevenlabs", podcast.voice = a voice_id, and the
 ELEVENLABS_API_KEY environment variable (or, in a cloud session, a network secret
 for api.elevenlabs.io sent as the xi-api-key header). Rendered audio is cached in
-podcast/cache/ so re-rendering an unchanged paragraph costs no credits.
+podcast/cache/ (and, as Opus, in the committed podcast/audio-cache/) so re-rendering
+an unchanged paragraph costs no credits, even in a fresh checkout.
 """
 
 import hashlib
@@ -184,6 +185,14 @@ def synthesize_elevenlabs(project_dir, text, voice_cfg, previous_text=None, next
     params = {k: voice_cfg.get(k) for k in ("voice", "model", "speed", "stability", "similarity_boost", "style")}
     key = hashlib.sha256(json.dumps([text, params], sort_keys=True).encode()).hexdigest()[:24]
     cache = Path(project_dir) / "podcast" / "cache" / "elevenlabs" / f"{key}.pcm"
+    # podcast/audio-cache/ is committed (Opus, ~0.5 MB/min): a fresh checkout re-renders
+    # only the paragraphs that changed, instead of paying for the whole episode again.
+    stored = Path(project_dir) / "podcast" / "audio-cache" / f"{key}.opus"
+    if not cache.exists() and stored.exists():
+        cache.parent.mkdir(parents=True, exist_ok=True)
+        cache.write_bytes(subprocess.run(
+            ["ffmpeg", "-loglevel", "error", "-i", str(stored), "-f", "s16le", "-ac", "1", "-ar", str(SAMPLE_RATE), "-"],
+            check=True, capture_output=True).stdout)
     if not cache.exists():
         payload = {
             "text": text,
@@ -202,6 +211,12 @@ def synthesize_elevenlabs(project_dir, text, voice_cfg, previous_text=None, next
         pcm = elevenlabs_request(f"/text-to-speech/{params['voice']}?output_format=pcm_{SAMPLE_RATE}", payload)
         cache.parent.mkdir(parents=True, exist_ok=True)
         cache.write_bytes(pcm)
+    if not stored.exists() and shutil.which("ffmpeg"):
+        stored.parent.mkdir(parents=True, exist_ok=True)
+        subprocess.run(
+            ["ffmpeg", "-loglevel", "error", "-f", "s16le", "-ac", "1", "-ar", str(SAMPLE_RATE), "-i", str(cache),
+             "-c:a", "libopus", "-b:a", "64k", str(stored)],
+            check=True)
     return np.frombuffer(cache.read_bytes(), dtype=np.int16)
 
 def synthesize(project_dir, text, voice_cfg):
