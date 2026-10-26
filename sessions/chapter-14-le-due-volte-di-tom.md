@@ -26,3 +26,4 @@ ask-before-writing
 - Worldbuilding (autore): i ricondizionati Meridian si vendono solo online, sullo shop ufficiale. Restano nei magazzini Meridian, distribuiti per centro di assistenza (vicino alla sede), con vendita centralizzata e disponibilità complessiva.
 - Buco "perché Emma non ha visto prima il ricondizionamento" chiuso (autore): (1) il suo archivio non ha matricola né tecnico; (2) il filtro quotidiano cerca anomalie segnalate dai clienti, un lotto di ricondizionamento con etichette gialle non ne ha; (3) nel cap. 12 cercava solo il nome del tecnico e si è fermata alla prima riga. Nel cap. 14 cerca per matricola e vede per la prima volta tutta la storia.
 - Prima riga (G0, Tom): esito "in attesa di ritiro" (la signora ha rifiutato il ritiro, il TV non è mai stato riconsegnato). Seconda riga (G20, Tom): ricondizionato, in magazzino, in attesa di vendita.
+- Reazione (autore) alla seconda riga: "Come posso averlo?" Emma vuole il televisore.
