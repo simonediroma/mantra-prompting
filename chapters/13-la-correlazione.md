@@ -8,11 +8,11 @@ summary: Stessa mattina del cap. 12 (G24). Nel pannello di eTv Emma trova un sol
 
 Il pannello di eTv si aprì sulla solita schermata di benvenuto, quella che a ogni accesso le ricordava quanto stesse andando bene. Un grafico in crescita, un riepilogo delle visualizzazioni della settimana e un riquadro verde con i complimenti del sistema per la costanza delle pubblicazioni, che costante non era mai stata. Emma lo chiuse senza leggerlo. Cercò il titolo tra i video di yoga e lo trovò quasi subito, perché era tra i più visti del canale. Del video non ricordava niente, ne pubblicava troppi perché uno potesse restarle in mente da solo. Ricordava il picco. Qualche settimana prima l'aveva visto passare nei report, l'aveva registrato e lasciato andare, come si fa con un risultato.
 
-Decine di migliaia di visualizzazioni non le dicevano niente. Le servivano le persone, o almeno quello che il pannello concedeva delle persone, cioè utenti senza nome divisi per tipo di dispositivo. Filtrò gli spettatori per numero di riproduzioni, dal più alto al più basso. Il primo della lista era così lontano dal secondo che il grafico, per farcelo stare, aveva dovuto schiacciare tutti gli altri in una riga piatta sul fondo.
+Decine di migliaia di visualizzazioni non le dicevano niente. Le servivano le persone, o almeno quello che il pannello concedeva delle persone, cioè utenti senza nome divisi per tipo di dispositivo. Filtrò gli spettatori per numero di riproduzioni, dal più alto al più basso. Il primo della lista era così lontano dal secondo che il grafico, per farcelo stare, aveva dovuto schiacciare tutti gli altri in una riga piatta sul fondo. Aprì il dettaglio di quell'utente. La sua riga arrivava fino a oggi e finiva con più di tre settimane di zeri. Emma tagliò il periodo al giorno dopo l'ultima riproduzione.
 
 > ***Yoga fit: diventa bella come me in 15 minuti al giorno***
 > Spettatore: utente anonimo · Dispositivo: Smart TV
-> Riproduzioni giornaliere (ultime 7 settimane): 9 · 10 · 10 · 11 · 9 · 12 · 10 · … · 18 · 21 · 24 · 22 · 27 · 31 · 28 · 30 · 0
+> Riproduzioni giornaliere (periodo selezionato): 9 · 10 · 10 · 11 · 9 · 12 · 10 · … · 18 · 21 · 24 · 22 · 27 · 31 · 28 · 30 · 0
 > Velocità di riproduzione prevalente: 2x
 > 🏅 Questo video sta fidelizzando il tuo pubblico!
 
