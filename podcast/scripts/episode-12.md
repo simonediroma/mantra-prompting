@@ -45,4 +45,4 @@ Che Tom fosse un tecnico non era più in discussione. Che lo fosse e basta, non 
 
 [pause 1.5]
 
-Mantra Prompting. Incontrando Emma. La storia continua.
+Nel prossimo episodio, La correlazione. Le statistiche di eTv mostrano a Emma uno spettatore che non avrebbe mai voluto trovare.

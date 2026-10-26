@@ -49,4 +49,4 @@ Le restava un nome. Sulla lista dell'assistenza, accanto alla matricola di quel 
 
 [pause 1.5]
 
-Mantra Prompting. Incontrando Emma. La storia continua.
+Nel prossimo episodio, Le due volte di Tom. Sulla lista dell'assistenza, quel nome compare una seconda volta.

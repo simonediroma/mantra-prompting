@@ -63,16 +63,17 @@
     "seconds": 422
   },
   "episode-12": {
-    "length": 6225996,
-    "md5": "4b1db41b69a0",
+    "length": 6272076,
+    "md5": "16f06cab0984",
     "pub": 1792778195,
-    "rev": 1,
-    "seconds": 518
+    "rev": 2,
+    "seconds": 522
   },
   "episode-13": {
-    "length": 6731935,
-    "md5": "544817c5c81b",
+    "length": 6771432,
+    "md5": "b3ccb6cf2c5e",
     "pub": 1793023522,
-    "seconds": 560
+    "rev": 1,
+    "seconds": 564
   }
 }
