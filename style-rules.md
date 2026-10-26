@@ -16,6 +16,7 @@ Mechanical conventions. One value per row — mixing forms in the book is always
 | Quotes inside quotes | "" dentro «» | «Mi ha detto "domani"» |
 | Dash | nessun trattino lungo in narrazione (vedi `book.config.json → avoid` e R1): virgola, punto o parentesi | lui, disse, no |
 | Ellipsis | … carattere singolo | Vieni… |
+| Onomatopee | corsivo, senza punto esclamativo; solo suoni che il personaggio sente davvero (ripresi come effetti nel podcast, vedi `podcast/plan.md → ## Sound effects`) | un *mmmmm* continuo · ❌ un "MMMMM!" |
 | Serial comma | no | idraulica, cucina e yoga |
 | Numbers | in lettere nella narrazione (anche sopra dieci); cifre solo in box/schermate di sistema e titoli di video | le undici passate · *in 15 minuti al giorno* |
 | "mail" / "email" | sempre "mail" (una mail, la mail, le mail); "indirizzo di posta" per l'indirizzo | una mail vera · ❌ un'email vera |

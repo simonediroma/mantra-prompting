@@ -18,6 +18,14 @@ Fonte: `chapters/` (cap. 1-5 ancora in `draft`). Sezioni `## Demolition Log` esc
 | 11 | La routine di Emma | 1.001 | 6.310 | ~7 min | rendered |
 | 12 | Solo un tecnico? (fusione ex 12 + ex 13) | 1.190 | 7.296 | ~9 min | rendered |
 
+## Sound effects
+
+Onomatopee inserite nella prosa e riprese come effetti nell'episodio. Valutazione un punto alla volta (proposta iniziale: 20 punti). Gli effetti si applicano ai copioni quando `export_podcast.py` supporterà il tag `[sfx …]`.
+
+| # | Cap | Punto | Prosa | Podcast | Stato |
+|---|---|---|---|---|---|
+| 1 | 1 | Ronzio dell'alimentatore | *mmmmm* continuo | ronzio elettrico basso dopo la sigla, sotto i primi tre paragrafi, poi sfuma | approvato |
+
 ## Pronunciation
 
 Con ElevenLabs i termini inglesi restano come nel libro: valgono solo le regole Morse qui sotto. Le grafie fonetiche (firmware → férmuer ecc.) servono solo se si torna a Piper.
