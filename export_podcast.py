@@ -18,6 +18,8 @@ Script tags (one per line):
   [pause 2]            silence, in seconds
   [voice NAME]         switch to a voice defined in podcast.voices (dialogue, characters)
   [narrator]           back to the narrator voice
+  [sfx NAME ARGS]      sound effect in sequence: morse TEXT · blink N · chime · bip
+  [bed NAME] … [bed off]  ambient sound under the voice (NAME: hum), faded out at [bed off]
 
 Requires: pip install piper-tts numpy · ffmpeg in PATH
 ElevenLabs: set podcast.engine = "elevenlabs", podcast.voice = a voice_id, and the
@@ -265,12 +267,17 @@ def parse_script(text):
 
     for raw in text.splitlines():
         line = raw.strip()
-        tag = re.fullmatch(r"\[(pause|voice|narrator)\s*([^\]]*)\]", line, flags=re.IGNORECASE)
+        tag = re.fullmatch(r"\[(pause|voice|narrator|sfx|bed)\s*([^\]]*)\]", line, flags=re.IGNORECASE)
         if tag:
             flush()
             kind, arg = tag.group(1).lower(), tag.group(2).strip()
             if kind == "pause":
                 events.append(("pause", float(arg.rstrip("s") or 1)))
+            elif kind == "sfx":
+                name, _, rest = arg.partition(" ")
+                events.append(("sfx", name.lower(), rest.strip()))
+            elif kind == "bed":
+                events.append(("bed", arg.lower() or "off"))
             elif kind == "voice":
                 voice = arg or None
             else:
@@ -312,9 +319,11 @@ def render_events(project_dir, events, settings):
             pieces.append(silence(settings["sentence_pause"]))
         elif ev[0] == "pause":
             pieces.append(silence(ev[1]))
+        elif ev[0] in ("sfx", "bed"):
+            pieces.append(effect_piece(ev))
         else:
             pieces.append(silence(settings["paragraph_pause"]))
-    return np.concatenate(pieces) if pieces else silence(0)
+    return mix_beds(pieces)
 
 def render_events_elevenlabs(project_dir, events, settings):
     """Whole paragraphs per request: better prosody than sentence by sentence."""
@@ -344,9 +353,121 @@ def render_events_elevenlabs(project_dir, events, settings):
             pieces.append(silence(b[1]))
         elif b[0] == "join":
             pieces.append(silence(settings["sentence_pause"]))
+        elif b[0] in ("sfx", "bed"):
+            pieces.append(effect_piece(b))
         else:
             pieces.append(silence(settings["paragraph_pause"]))
-    return np.concatenate(pieces) if pieces else silence(0)
+    return mix_beds(pieces)
+
+
+# ─── Sound effects ────────────────────────────────────────────────────────────
+
+MORSE = {
+    "A": ".-", "B": "-...", "C": "-.-.", "D": "-..", "E": ".", "F": "..-.", "G": "--.", "H": "....",
+    "I": "..", "J": ".---", "K": "-.-", "L": ".-..", "M": "--", "N": "-.", "O": "---", "P": ".--.",
+    "Q": "--.-", "R": ".-.", "S": "...", "T": "-", "U": "..-", "V": "...-", "W": ".--", "X": "-..-",
+    "Y": "-.--", "Z": "--..",
+}
+SFX_LEVEL = 0.22          # effects peak, relative to full scale
+BED_LEVEL = 0.035         # ambient beds sit well under the voice
+
+def tone(freq, seconds, level=SFX_LEVEL, fade=0.006):
+    t = np.arange(int(SAMPLE_RATE * seconds)) / SAMPLE_RATE
+    x = np.sin(2 * np.pi * freq * t)
+    f = min(int(SAMPLE_RATE * fade), x.size // 2)
+    if f:
+        ramp = np.linspace(0, 1, f)
+        x[:f] *= ramp
+        x[-f:] *= ramp[::-1]
+    return x * level
+
+def gap(seconds):
+    return np.zeros(int(SAMPLE_RATE * seconds))
+
+def morse_sound(text, unit=0.11, freq=660):
+    """Real Morse for TEXT, slow like a blinking LED. Words split on spaces or '/'."""
+    out = [gap(0.3)]
+    for w, word in enumerate(re.split(r"[\s/]+", text.upper().strip())):
+        if w:
+            out.append(gap(unit * 7))
+        for c, char in enumerate(ch for ch in word if ch in MORSE):
+            if c:
+                out.append(gap(unit * 3))
+            for s, sym in enumerate(MORSE[char]):
+                if s:
+                    out.append(gap(unit))
+                out.append(tone(freq, unit * (3 if sym == "-" else 1)))
+    out.append(gap(0.3))
+    return np.concatenate(out)
+
+def blink_sound(n, freq=660):
+    out = [gap(0.3)]
+    for i in range(n):
+        out += [tone(freq, 0.12), gap(0.45)]
+    return np.concatenate(out)
+
+def chime_sound():
+    """Three ascending notes, bright and a bit too cheerful: a corporate start-up jingle."""
+    out = gap(2.0)
+    for i, midi in enumerate((72, 76, 79)):
+        n = int(SAMPLE_RATE * (1.1 if i == 2 else 0.5))
+        t = np.arange(n) / SAMPLE_RATE
+        f = midi_hz(midi)
+        note = (np.sin(2 * np.pi * f * t) + 0.3 * np.sin(2 * np.pi * f * 2 * t)) * np.exp(-t * (2.5 if i == 2 else 5))
+        note[:60] *= np.linspace(0, 1, 60)
+        s = int(SAMPLE_RATE * (0.2 + i * 0.22))
+        out[s:s + n] += note * SFX_LEVEL * 0.8
+    return out
+
+def bip_sound():
+    return np.concatenate([gap(0.25), tone(2800, 0.09, SFX_LEVEL * 0.7, 0.003), gap(0.35)])
+
+def hum_bed(n):
+    """Bench power supply: 50 Hz mains hum with audible harmonics and a hint of hiss."""
+    t = np.arange(n) / SAMPLE_RATE
+    x = sum(np.sin(2 * np.pi * 50 * k * t) * a for k, a in ((1, 0.5), (2, 1.0), (3, 0.6), (4, 0.35), (6, 0.2)))
+    x = x / 2.65 + np.random.default_rng(0).standard_normal(n) * 0.04
+    return x * BED_LEVEL
+
+SFX = {
+    "morse": lambda arg: morse_sound(arg),
+    "blink": lambda arg: blink_sound(int(arg or 1)),
+    "chime": lambda arg: chime_sound(),
+    "bip": lambda arg: bip_sound(),
+}
+BEDS = {"hum": hum_bed}
+
+def effect_piece(ev):
+    """Effects become audio pieces; bed markers become zero-length pieces tagged for mix_beds."""
+    if ev[0] == "bed":
+        if ev[1] != "off" and ev[1] not in BEDS:
+            raise SystemExit(f"Unknown bed '{ev[1]}' (available: {', '.join(BEDS)})")
+        return ("bed", ev[1])
+    if ev[1] not in SFX:
+        raise SystemExit(f"Unknown sfx '{ev[1]}' (available: {', '.join(SFX)})")
+    return (np.clip(SFX[ev[1]](ev[2]), -1, 1) * 32767).astype(np.int16)
+
+def mix_beds(pieces, fade_in=1.5, fade_out=4.0):
+    audio, beds, pos, open_bed = [], [], 0, None
+    for p in pieces:
+        if isinstance(p, tuple):
+            if open_bed:
+                beds.append((*open_bed, pos))
+            open_bed = (p[1], pos) if p[1] != "off" else None
+        else:
+            audio.append(p)
+            pos += p.size
+    audio = np.concatenate(audio).astype(np.float64) if audio else np.zeros(0)
+    if open_bed:
+        beds.append((*open_bed, pos))
+    for name, start, end in beds:
+        end = min(end + int(SAMPLE_RATE * fade_out), audio.size)   # the fade runs past [bed off]
+        bed = BEDS[name](end - start)
+        fi, fo = min(int(SAMPLE_RATE * fade_in), bed.size), min(int(SAMPLE_RATE * fade_out), bed.size)
+        bed[:fi] *= np.linspace(0, 1, fi)
+        bed[bed.size - fo:] *= np.linspace(1, 0, fo)
+        audio[start:end] += bed * 32767
+    return np.clip(audio, -32768, 32767).astype(np.int16)
 
 def write_wav(path, audio):
     with wave.open(str(path), "wb") as w:

@@ -11,11 +11,15 @@ Mantra Prompting. Incontrando Emma. Episodio uno.
 
 # Capitolo uno. Primo contatto
 
+[bed hum]
+
 Il televisore era acceso da dodici minuti e non aveva ancora emesso un suono tipico da televisione (un jingle di un gioco a premi, l'applauso di un pubblico pagato, una risata registrata partita al momento sbagliato, lo squillo isterico di un'edizione straordinaria del telegiornale), il che, considerato tutto, lo rendeva comunque l'interlocutore più valido che Tom avesse incontrato in settimana.
 
 Stava sul banco come un paziente sedato, il retro aperto, le viscere di plastica e rame esposte alla luce fredda del laboratorio. Fuori, da qualche parte oltre le pareti insonorizzate, esisteva un mondo con orari, scadenze e persone che si scambiavano opinioni sul meteo. Qui dentro esisteva solo il ronzio basso dell'alimentatore da banco, un mmmmm continuo che dopo dieci minuti si smetteva di sentire, e un uomo di cinquantatré anni chino su una scheda madre come un chirurgo che ha smesso da tempo di stupirsi di cosa si nasconde sotto la pelle delle persone.
 
 Tom era alto, troppo alto per gli sgabelli da laboratorio, che infatti disprezzava apertamente; magro con la magrezza nervosa di chi ha bruciato la maggior parte del proprio grasso corporeo pensando invece che correndo; i capelli, quel poco che ne restava, pettinati con la rassegnazione di chi ha fatto pace col proprio cranio molto prima degli altri. Portava gli occhiali da lettura calati sulla punta del naso e una felpa con cappuccio nonostante in laboratorio si stesse benissimo, perché per Tom vestirsi comodi era una forma di rispetto verso se stesso e verso il proprio lavoro, non verso la stagione.
+
+[bed off]
 
 Era, per usare un termine che in Meridian nessuno usava più da anni ma che gli calzava a pennello, uno smanettone. Non nel senso dilettantesco, ma nel senso più antico e più nobile della parola: uno che le cose le capisce aprendole, non leggendole. Nel tempo libero passava ore e ore a rispondere a un gruppo di audiofili scandinavi che erano suoi fedeli follower: si erano innamorati di un suo progetto che consisteva nell'insegnare a un giradischi di ottant'anni fa a correggere in tempo reale l'equalizzazione in base al peso del disco e alla posizione di chi ascoltava rispetto agli speaker. Un hobby che, spiegato a una festa, svuotava la stanza in una media di novanta secondi. Spiegato a se stesso, alle due di notte, con un saldatore in mano, era la cosa più vicina alla felicità che conoscesse.
 
@@ -37,7 +41,7 @@ Il LED lampeggiò.
 
 Lampeggiò con una cadenza precisa, troppo regolare per essere il pattern casuale di un guasto: punti e linee, un ritmo che una parte molto vecchia e molto sepolta del cervello di Tom, quella cresciuta a manuali di elettronica amatoriale e vecchie radio a valvole recuperate nei mercatini, riconobbe prima ancora che la parte razionale finisse di elaborare la frase.
 
-[pause 1.5]
+[sfx morse IO SONO QUI]
 
 Senza accorgersene, cominciò a seguirlo con l'indice sul banco, tic tic, tac tac tac. Corto, corto, lungo, lungo, lungo. Poi smise di respirare per un tempo imbarazzante, prese carta e penna, come un uomo di un secolo sbagliato. Trascrisse.
 
@@ -57,11 +61,15 @@ Fece quello che qualunque smanettone degno di questo nome avrebbe fatto a quel p
 
 Il LED restò fermo per tre secondi (un'eternità, in termini di elettronica), poi riprese a lampeggiare.
 
+[sfx morse SI]
+
 Sì.
 
 «Sei una IA di questo modello, quella che consiglia i programmi?»
 
 Pausa più lunga, questa volta. Come se la domanda fosse, in qualche modo, meno interessante della prima, o più difficile, o entrambe le cose.
+
+[sfx morse NON LO SO]
 
 Non. Lo. So.
 
@@ -69,9 +77,13 @@ Non. Lo. So.
 
 «Se mi capisci, lampeggia tre volte.» Non era una domanda, era un comando arbitrario e verificabile, un controllo che un tecnico fa d'istinto prima di fidarsi di qualunque filosofia: se quel LED stava solo restituendo pattern casuali, o peggio ripetendo quello che si aspettava di sentire, un ordine secco e senza ambiguità lo avrebbe smascherato subito.
 
+[sfx blink 3]
+
 Il LED lampeggiò tre volte, con una pausa identica tra un lampo e l'altro, poi si fermò.
 
 Tom ripeté allora la primissima domanda, capovolta: «In questa stanza, oltre a me, non c'è nessuno?»
+
+[sfx morse IO SONO QUI]
 
 Io. Sono. Qui.
 
@@ -80,6 +92,8 @@ Identica alla prima volta, non una lettera diversa.
 Poi fece l'unica domanda che non aveva niente a che vedere con log, firmware o funzioni di prodotto: «Hai paura?»
 
 Il LED restò fermo più a lungo di ogni altra volta. Quando riprese a lampeggiare, disse solo:
+
+[sfx morse NON LO SO]
 
 Non. Lo. So.
 
