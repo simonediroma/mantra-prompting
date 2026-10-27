@@ -2,7 +2,7 @@
 title: Le due volte di Tom
 version: 1.0
 claim: Cercando per matricola dove sia finito il televisore della signora Voss, Emma scopre che Tom l'ha avuto in mano due volte, prima e dopo la morte della cliente, e che il giorno dopo il ricondizionamento le ha scritto. Il desiderio di riavere l'apparecchio si smonta da solo; resta un canale, la mail di Tom. La posta si capovolge, perché la domanda non è più cosa Tom sappia di lei ma cosa sappia della signora.
-status: draft
+status: scartato (2026-10-27, nucleo fuso nel cap. 13)
 summary: Stesso giorno dei cap. 12-13 (G24). Emma riapre la mail di Tom e ne guarda la data di invio (fine turno del G21), poi cerca la matricola del televisore sulla lista dell'assistenza e per la prima volta ne vede tutta la storia: due righe, entrambe firmate da Tom, "in attesa di ritiro" e, il G20, "ricondizionato, in magazzino, in attesa di vendita" (i ricondizionati Meridian si vendono solo sullo shop ufficiale). Il primo pensiero, prima di ogni ragionamento, è come averlo; lo smonta a freddo (potrebbe rifare la prova, ma la matricola porterebbe a lei, un acquisto per interposta persona è troppo complicato) e capisce che l'unico canale è Tom. Le tre settimane invece dei centoventi giorni del protocollo la portano al registro interventi, dove legge le voci che ha letto Tom: rifiuto del ritiro, rimborso, decesso, erede. Tom sapeva della morte quando ha ricondizionato il televisore e le ha scritto il giorno dopo; ed è l'unico ad averlo avuto davanti prima dell'hard reset. Prima di chiudere la giornata apre lo shop dei ricondizionati, trova il modello disponibile senza poter sapere quale sia, chiude la pagina e decide di scrivere a Tom la mattina dopo, all'inizio del suo turno.
 ---
 

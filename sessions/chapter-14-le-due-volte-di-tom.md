@@ -2,7 +2,7 @@
 
 > Created: 2026-10-26
 > Last updated: 2026-10-27
-> Status: open
+> Status: abandoned
 
 ## Macro
 chapter
@@ -11,7 +11,7 @@ chapter
 chapters/14-le-due-volte-di-tom.md
 
 ## Current step
-demolish
+— (capitolo tagliato il 2026-10-27)
 
 ## Steps completed
 - [x] ask-before-writing
@@ -36,3 +36,4 @@ demolish
 - Fase 5 (autore): apertura A (Emma riapre la mail e guarda la data di invio, fine turno G21 → cerca la matricola sulla lista); chiusura 1 (portale dei ricondizionati: il modello in vendita, nessuna matricola visibile, chiude la pagina) + un po' di 2 (aspetterà l'inizio del turno di Tom per scrivergli).
 - Riepilogo confermato dall'autore; G24 (mappa-eventi aggiornata).
 - 2026-10-27: bozza v1.0 scritta (~1200 parole). Outline → draft, book-memory (summary log + 4 voci di ledger) aggiornati.
+- 2026-10-27, demolizione ciclo 1, critica 1: il capitolo ripeteva l'arco del finale del cap. 13. Decisione dell'autore: tagliarlo. Nucleo strategico (matricola, Tom due volte, centoventi giorni, registro interventi, Tom sapeva e ha scritto il giorno dopo) integrato nell'ultimo paragrafo del cap. 13 (v2.2). Bozza archiviata in `docs/scartati/14-le-due-volte-di-tom.md`; shop dei ricondizionati annotato in `characters/meridian-technologies.md`. Capitoli 15-26 rinumerati 14-25 (outline, config, book-memory, mappa-eventi, characters, log dei capitoli). Documenti storici invariati. Altre 5 critiche mappate e non discusse (decadute con il taglio).

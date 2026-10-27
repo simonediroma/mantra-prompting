@@ -29,6 +29,7 @@
 *Nessun pattern ricorrente ancora — questa è la prima demolizione del libro. Da aggiornare quando lo stesso tipo di vulnerabilità riappare in un altro capitolo.*
 
 **Confermati come ricorrenti (revisione cross-capitolo 2026-10-10, cap. 1-12):**
+- **Capitoli che ripetono il beat di chiusura del precedente** (cap. 12 vecchio/13 vecchio fusi il 2026-10-24; vecchio cap. 14 tagliato il 2026-10-27): prima di scrivere un capitolo, verificare che il suo cambiamento non sia già avvenuto nel finale del capitolo prima.
 - **Riassunti di `book-memory.md` non riallineati dopo le integrazioni** (cap. 9 ciclo 3: elementi tolti con R-90/R-93 ancora presenti): dopo ogni integrazione aggiornare anche il riassunto del capitolo.
 - **Certezze di Emma = accesso, non deduzione** (cap. 10 ciclo 2): quando Emma "sa per certo" qualcosa di tecnico, è perché vede l'ecosistema Meridian. Promessa per il reveal: mostrare che ha davvero accesso ai log dei dispositivi Meridian.
 - **Tic lessicali da AI-slop**: "esattamente", "con la stessa X con cui…", "il tipo di", "restò a fissare", immagini-firma riusate tra capitoli ("fotogramma per fotogramma… da bambino", "trappole gentili", "componente guasto"). Limiti: max 1 per capitolo; "restò a fissare" in max 3 capitoli in tutto. Ricontrollare a ogni nuovo capitolo.
@@ -66,6 +67,15 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 ---
 
 ## Full Log
+
+### Ch. 14 (vecchio) — Le due volte di Tom — tagliato
+
+#### Cycle 1 — 2026-10-27
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Il capitolo rifà il finale del cap. 13 (Tom unico testimone vivo, "forse non mi dà la caccia", ripartire dalla mail): il capovolgimento è già avvenuto | structure / redundancy | integrated | Capitolo tagliato; nucleo strategico fuso nell'ultimo paragrafo del cap. 13 (v2.2). Vecchi cap. 15-26 → 14-25. |
+
 
 ### Revisione cross-capitolo esterna — 2026-10-10 (issue ALTA)
 
