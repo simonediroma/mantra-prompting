@@ -194,7 +194,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Effetto a distanza**: nel cap. 15 le domande "esplorative" di Emma (che tipo di device fosse, se fosse tornato al cliente) smettono di essere esplorative e diventano trappole vere, perché lei conosce già le risposte.
 **Collegamento al precedente**: dopo la correlazione del cap. 13, Emma ha bisogno di sapere cosa sia successo all'apparecchio, non solo al contenuto.
 **Collegamento al successivo**: apre il secondo contatto.
-**Stato**: `to-write`
+**Stato**: `draft`
 **File**: `chapters/14-le-due-volte-di-tom.md`
 
 ---

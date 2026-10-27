@@ -1,7 +1,7 @@
 # Session: chapter — chapters/14-le-due-volte-di-tom.md
 
 > Created: 2026-10-26
-> Last updated: 2026-10-26
+> Last updated: 2026-10-27
 > Status: open
 
 ## Macro
@@ -11,11 +11,11 @@ chapter
 chapters/14-le-due-volte-di-tom.md
 
 ## Current step
-ask-before-writing
+demolish
 
 ## Steps completed
-- [ ] ask-before-writing
-- [ ] write
+- [x] ask-before-writing
+- [x] write
 - [ ] demolish
 - [ ] integrate
 
@@ -34,3 +34,5 @@ ask-before-writing
 - Fase 3, deduzione (autore): Emma nota il ricondizionamento dopo tre settimane invece dei 120 giorni del protocollo. Ipotizza che il bluff di Tom nasca dalla voglia di indagare sulla morte della signora Voss oppure sul comportamento del televisore.
 - Fonte del decesso (autore): la lista dell'assistenza NON riporta il decesso (ledger invariato). Emma dalla matricola passa al registro interventi (lettura orizzontale per tutti i Meridians) e trova le stesse voci lette da Tom nel cap. 6: cliente ricontattata, rifiuta il ritiro, chiede rimborso; causale decesso cliente, pagamento reindirizzato a erede designato. Chi ricondiziona ha davanti quella pratica: Tom sapeva. Unito ai 120 giorni → ipotesi: Tom indaga sulla morte o sul comportamento del TV.
 - Fase 5 (autore): apertura A (Emma riapre la mail e guarda la data di invio, fine turno G21 → cerca la matricola sulla lista); chiusura 1 (portale dei ricondizionati: il modello in vendita, nessuna matricola visibile, chiude la pagina) + un po' di 2 (aspetterà l'inizio del turno di Tom per scrivergli).
+- Riepilogo confermato dall'autore; G24 (mappa-eventi aggiornata).
+- 2026-10-27: bozza v1.0 scritta (~1200 parole). Outline → draft, book-memory (summary log + 4 voci di ledger) aggiornati.
