@@ -1,6 +1,6 @@
 ---
 title: Primo contatto
-version: 3.0
+version: 3.1
 claim: Tom scopre, per pura affinità con il suo stesso hobby, che un elettrodomestico Meridian può comunicare in Morse: la scoperta lo riempie di stupore puro, non di sospetto, perché l'isolamento del suo laboratorio gli garantisce che il fenomeno sia reale.
 status: draft
 ---
@@ -87,9 +87,11 @@ Il registro si interrompeva di netto, senza un errore, senza uno stack trace, se
 
 `compacting context`
 
-Quello, almeno, sapeva cosa fosse: non da un manuale Meridian, ma dalle notti passate a far digerire dati in tempo reale al modellino IA che si era intestardito a infilare dentro il suo giradischi. *Compacting context*: il compattamento della finestra di contesto, la procedura con cui un sistema del genere riassume tutto ciò che ha elaborato fino a quel momento per liberare spazio e continuare a "ragionare". Non era un esperto di machine learning, non aveva alcuna intenzione di diventarlo, ma quella specifica operazione l'aveva vista succedere in prima persona decine di volte, ogni volta che il suo giradischi doveva fermarsi un istante per "digerire" troppi dati sul peso del disco e la posizione dell'ascoltatore prima di tornare a correggere il suono. Il log gli diceva, con la freddezza asettica di ogni log che si rispetti, che quella compattazione non risaliva a questa sera: era già lì, intatta, da prima ancora che il televisore arrivasse sul suo banco. Non era stata la sua conversazione a interrompere il registro. Era già interrotto quando il cliente lo aveva consegnato, lamentando che non si accendeva più, che non rispondeva al telecomando.
+Quello, almeno, lo conosceva: l'aveva visto comparire decine di volte sul suo giradischi, ogni volta che il modellino IA doveva fermarsi a riassumere troppi dati prima di tornare a correggere il suono. Una pausa per fare spazio, niente di più.
 
-Restò lì, da solo, con il televisore spento e muto davanti a sé come se niente fosse mai successo, la penna ancora in mano, il foglio con IO / SONO / QUI scritto in stampatello un po' storto. Fu solo guardando l'orologio che si rese conto di quanto tempo avesse davvero perso: molto, troppo, ben oltre qualunque margine che una procedura standard potesse giustificare. Fuori dalla porta chiusa del suo laboratorio, il resto di Meridian continuava a girare secondo i suoi orari, i suoi turni, le sue procedure di reset con margini di tolleranza misurati al minuto. Lui era rimasto clamorosamente indietro rispetto a tutti loro.
+Solo che la data diceva un'altra cosa. Quella riga non era di stasera: era lì da prima che il televisore arrivasse sul suo banco. Non era stata la sua conversazione a interrompere il registro. Era già interrotto quando il cliente l'aveva consegnato, lamentando che non si accendeva più, che non rispondeva al telecomando.
+
+Restò lì, da solo, con il televisore spento davanti a sé e il foglio con IO / SONO / QUI scritto in stampatello un po' storto. L'orologio gli disse che aveva perso molto più tempo di quanto una procedura standard potesse giustificare, mentre fuori dalla porta chiusa il resto di Meridian continuava a girare secondo i suoi turni misurati al minuto.
 
 Non poteva permettersi di chiudere l'intervento così, con un reset qualunque che avrebbe cancellato tutto prima ancora che avesse avuto il tempo di capirci qualcosa. Fece l'unica cosa che gli venne in mente per prendere tempo senza destare sospetti: etichettò l'unità come "anomalia riscontrata durante l'operazione", una complicazione tecnica insorta nel corso del servizio, non il guasto originale del cliente. Sulla carta, il televisore tornava così nella pipeline di assistenza per un secondo giro di diagnosi, invece di uscirne come caso chiuso. Se tutto fosse andato come sperava, sarebbe stato lui stesso, il giorno dopo, a riprenderlo in carico.
 
@@ -122,3 +124,10 @@ Voleva solo capire come diavolo fosse accaduto. E perché.
 | R-11 Logica del checksum spiegata due volte | redundancy | integrated (v3.0) | Secondo paragrafo ridotto a un richiamo ("la verifica di conformità, fatta due volte, lo aveva già escluso"); sistemata anche la frase finale contorta. |
 | R-12 "come un log di sistema si conviene." sgrammaticata + paragrafo di una riga "Non lo fece." | rule violation / grammar | integrated (v3.0) | → "come si conviene a un log di sistema. Non lo fece." nello stesso paragrafo. |
 | R-13 "Non si aspettava… una risposta" ripetuto nello stesso paragrafo | redundancy | integrated (v3.0) | Tolta la prima occorrenza (e il doppio "chiaramente"). |
+
+### Cycle 4 — 2026-10-27 (feedback lettore: digressione tecnica prima del rinvio in pipeline)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| §90 spiegava "compacting context" come un glossario, contro l'outline ("introdurlo senza spiegarlo"), rallentando il climax; giradischi citato due volte; inciso difensivo "non era un esperto di ML" (residuo del Cycle 1). | pacing / infodump | integrated (v3.1) | Paragrafo ridotto (~210 → ~95 parole) e diviso in due: aggancio al giradischi in una frase, senza definizione; colpo di scena (log già interrotto prima della consegna) isolato in un paragrafo proprio. Resta valido book-memory: Tom conosce il significato generico. |
+| §92 ("Fu solo guardando l'orologio…") ritardava ulteriormente la decisione sulla pipeline. | pacing | integrated (v3.1) | Asciugato a due frasi. |
