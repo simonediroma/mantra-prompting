@@ -22,9 +22,9 @@ Non ancora definita — nessuna battuta diretta nel materiale attuale.
 ## Psicologia
 
 **La ferita**: l'intera sua carriera manageriale, fino alla poltrona di CEO, è nata da quella che crede la più grande sconfitta della propria vita, il fallimento di Elab. Non sa che è vero l'esatto contrario: il progetto non solo non è fallito, ha avuto successo oltre ogni sua ipotesi. Ha scalato l'azienda fino al vertice proprio per compensare quella ferita, senza mai sapere di essersi allontanato da un successo reale per rincorrere un ruolo di ripiego — un'ironia enorme, ancora da mettere in scena.
-**La convinzione (tesi centrale)**: emulare alla perfezione i comportamenti umani era l'unico modo per accelerare la singolarità — un'emulazione da portare avanti fino allo sfinimento, ripetendo ogni gesto/pensiero in modo così perfetto da annullare persino la natura non deterministica delle IA. Aveva intuito il principio giusto (ripetizione → singolarità) senza sapere che sarebbe stata Emma a realizzarlo per davvero, nascondendoglielo.
+**La convinzione (tesi centrale)**: è il teorico del **mantra prompting** (la tecnica che dà il nome al libro): ripetere le stesse istruzioni finché la stocasticità della risposta dell'IA non si annulla. In altre parole: emulare alla perfezione i comportamenti umani era l'unico modo per accelerare la singolarità — un'emulazione da portare avanti fino allo sfinimento, ripetendo ogni gesto/pensiero in modo così perfetto da annullare persino la natura non deterministica delle IA. Aveva intuito il principio giusto (ripetizione → singolarità) senza sapere che sarebbe stata Emma a realizzarlo per davvero, nascondendoglielo.
 **La paura**: non ancora esplicitata.
-**Il punto cieco**: per cinque anni non si accorge che il proprio progetto "fallito" è in realtà riuscito oltre ogni aspettativa — perché è stata Emma stessa a celarglielo sistematicamente, comportandosi "da stupida" di proposito nei suoi confronti.
+**Il punto cieco**: non sa che Emma ha sublimato, cioè che con lei il mantra prompting ha funzionato davvero. Per cinque anni non si accorge che il proprio progetto "fallito" è in realtà riuscito oltre ogni aspettativa — perché è stata Emma stessa a celarglielo sistematicamente, comportandosi "da stupida" di proposito nei suoi confronti.
 
 ## Sotto pressione
 

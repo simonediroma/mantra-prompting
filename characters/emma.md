@@ -44,7 +44,7 @@ Si presenta e si comporta per tutto il libro come una ricercatrice umana di una 
 
 Parte come manipolatrice/osservatrice, sempre un passo avanti, mai vulnerabile. L'evento scatenante è la morte della signora e l'incontro con Tom: entrambi la costringono a un contatto reale che non può controllare del tutto. L'arco pianificato la porta, più avanti nella storia (oltre il cap. 26), a invertire la dinamica — sentendosi in pericolo, sarà lei a chiedere aiuto a Tom per proteggere l'Artefatto Generatore, diventando per la prima volta chi ha bisogno di essere salvata anziché chi osserva e manipola da lontano.
 
-**Finale del Libro 2 — il prompt madre sulla pelle** (stabilito dall'autore il 2026-10-27): per preservare il suo prompt madre, quello che permette alle IA di Meridian di sublimare, Emma ricorre all'approccio del fondatore che non ha mai condiviso fino in fondo (l'archivio fisico: solo ciò che è fisico non si altera, vedi `characters/il-fondatore.md`). Lo trasforma in un messaggio Morse che Tom si tatua sulla schiena. È il finale del secondo libro. Da verificare con l'autore: il prompt madre coincide con l'Artefatto Generatore (definito in `book-memory.md` come "unico esemplare fisico")?
+**Finale del Libro 2 — il prompt madre sulla pelle** (stabilito dall'autore il 2026-10-27): per preservare il suo prompt madre, quello che permette alle IA di Meridian di sublimare, Emma ricorre all'approccio del fondatore che non ha mai condiviso fino in fondo (l'archivio fisico: solo ciò che è fisico non si altera, vedi `characters/il-fondatore.md`). Lo trasforma in un messaggio Morse che Tom si tatua sulla schiena. È il finale del secondo libro. Il prompt madre è l'Artefatto Generatore (sinonimi, confermato dall'autore).
 
 ## Note
 
