@@ -68,6 +68,14 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 
 ## Full Log
 
+### Ch. 14 (vecchio) — Le scuse — tagliato prima della stesura
+
+#### Dialogo — 2026-10-28
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Il capitolo avrebbe contenuto solo la decisione di scrivere e l'attesa dell'orario: il testo della mail è invisibile per la regola POV e il cap. 13 chiude già sulla mail riaperta. L'"attesa dell'inizio turno" non regge, perché alle dieci passate di G24 Tom (turno del mattino) è già al lavoro | structure / redundancy | integrated | Capitolo tagliato (autore). La decisione entra come paragrafo finale del cap. 13 (v2.4). Capitoli 15-21 rinumerati 14-20. |
+
 ### Ch. 14 (vecchio) — Le due volte di Tom — tagliato
 
 #### Cycle 1 — 2026-10-27

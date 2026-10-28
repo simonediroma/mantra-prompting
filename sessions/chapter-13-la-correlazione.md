@@ -1,7 +1,7 @@
 # Session: chapter — chapters/13-la-correlazione.md
 
 > Created: 2026-10-25
-> Last updated: 2026-10-25
+> Last updated: 2026-10-28
 > Status: complete
 
 ## Macro
@@ -33,3 +33,4 @@ chapters/13-la-correlazione.md
 - C2 (accepted-limitation): analytics per singolo utente anonimo non esistono su YouTube Studio. Limite noto; non nominare YouTube nel cap. 13 (resta il rischio: il cap. 7 colloca già eTv su YouTube).
 - C3-C5 risolte (vedi Demolition Log). Ciclo 1 chiuso: 4 risolte, 1 limite accettato.
 - 2026-10-26: integrazione completata, v2.0. Prossimo passo: revise.
+- 2026-10-28: v2.4, aggiunto il paragrafo finale con la decisione della mail di scuse (ex cap. 14 "Le scuse", tagliato). Testo approvato dall'autore dopo due correzioni (frase sul giorno chiarita; scuse come appiglio, non come pentimento; chiusura sulle regole Meridian che coprono i sentimenti).
