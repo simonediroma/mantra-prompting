@@ -1,7 +1,7 @@
 # Outline — Mantra Prompting: Incontrando Emma
 
-> Version: 0.1
-> Last updated: 2026-09-02
+> Version: 0.2
+> Last updated: 2026-10-28
 > Preset: fiction (novella a puntate)
 
 ---
@@ -190,12 +190,14 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ## Parte 6 — Secondo contatto Emma/tecnico
 
+> **Nota di struttura (2026-10-28) — snellimento del Libro 1**: dopo il taglio del vecchio "Le due volte di Tom" (fuso nel cap. 13), i 12 capitoli ancora da scrivere (14-25) sono stati ridotti a 8, accorpando attese, pause e code allo stesso POV o alla stessa notte del capitolo adiacente. Mappa dalla numerazione precedente: 14 → 14; 15 → 15; 16+17 → 16; 18+19 → 17; 20+21 → 18; 22+23 (+ la preparazione di Pete del 24) → 19; 24 → 20; 25 → 21. Il Libro 1 chiude al cap. 21; il Libro 2 parte dal cap. 22 (prima 26, scala di quattro).
+
 ### Capitolo 14 — Le scuse
 **POV**: Emma
-**Obiettivo di scena**: Emma aspetta l'inizio del turno per scrivere una seconda mail: si scusa per il tono precedente, fa domande esplorative fingendo di non sapere nulla (che tipo di device fosse, se fosse tornato al cliente) — per testare se Tom gioca doppio o è sincero.
-**Beat chiave**: Emma torna a usare le sue armi abituali (manipolazione sottile) ma stavolta con una motivazione genuina dietro.
+**Obiettivo di scena**: Emma aspetta l'inizio del turno per scrivere una seconda mail: si scusa per il tono precedente, fa domande esplorative fingendo di non sapere nulla (che tipo di device fosse, se fosse tornato al cliente) — per testare se Tom gioca doppio o è sincero. Il testo della mail non si vede (regola POV mail): si mostrano la decisione, la strategia e l'attesa dell'orario giusto.
+**Beat chiave**: Emma torna a usare le sue armi abituali (manipolazione sottile) ma stavolta con una motivazione genuina dietro. Le domande sono trappole vere: le risposte le conosce già dalla chiusura del cap. 13.
 **Collegamento al precedente**: chiusura di Parte 5.
-**Collegamento al successivo**: la risposta di Tom.
+**Collegamento al successivo**: la mail viene letta da Tom nel cap. 15.
 **Stato**: `to-write`
 **File**: `chapters/14-le-scuse.md`
 
@@ -203,136 +205,103 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ### Capitolo 15 — La fiducia di Tom
 **POV**: Tom
-**Obiettivo di scena**: Tom riceve la mail, dà a Emma alcune informazioni concrete (modello, causa del guasto, la telefonata con la cliente, il mancato ritiro, il ricondizionamento). La percepisce sagace ma sincera, decide di fidarsi.
-**Beat chiave**: primo vero atto di fiducia di Tom verso Emma — motore emotivo del secondo atto.
+**Obiettivo di scena**: Tom riceve la mail di scuse (qui il lettore ne scopre il contenuto), dà a Emma alcune informazioni concrete (modello, causa del guasto, la telefonata con la cliente, il mancato ritiro, il ricondizionamento). La percepisce sagace ma sincera, decide di fidarsi.
+**Beat chiave**: primo vero atto di fiducia di Tom verso Emma, motore emotivo del secondo atto. Ironia drammatica: il lettore sa che Emma conosce già le risposte.
 **Collegamento al precedente**: risposta diretta alla mail del cap. 14.
-**Collegamento al successivo**: l'ossessione di Tom per Emma cresce.
+**Collegamento al successivo**: i giorni di attesa e la mail delle 8:00:01.
 **Stato**: `to-write`
 **File**: `chapters/15-la-fiducia-di-tom.md`
 
 ---
 
-### Capitolo 16 — Il chiodo fisso
+### Capitolo 16 — Il bivio
+**Nota di struttura (2026-10-28)**: fusione dei cap. 16 ("Il chiodo fisso") e 17 ("Il bivio") della numerazione precedente. Il chiodo fisso era tensione senza avanzamento: diventa la rampa che prepara lo shock della mail.
 **POV**: Tom
-**Obiettivo di scena**: nei giorni seguenti Tom non riesce a smettere di pensare a Emma: perché lo ha ricontattato, a cosa le servivano quelle informazioni, perché il cambio di tono. Cerca di concentrarsi sul lavoro per evitare nuovi richiami.
-**Beat chiave**: tensione emotiva crescente senza avanzamento della trama — prepara il colpo di scena del capitolo successivo.
+**Obiettivo di scena — parte 1 (il chiodo fisso)**: nei giorni seguenti Tom non riesce a smettere di pensare a Emma: perché lo ha ricontattato, a cosa le servivano quelle informazioni, perché il cambio di tono. Cerca di concentrarsi sul lavoro per evitare nuovi richiami. Sezione compressa: pochi giorni raccontati per scorcio, non scena per scena.
+**Obiettivo di scena — parte 2 (la mail delle 8:00:01)**: al turno successivo Tom trova già una mail di Emma (8:00:01): chiede esplicitamente se la cliente avesse descritto il comportamento del TV come intenzionale/consapevole. Tom sobbalza: come fa Emma a ipotizzarlo? Sospetta che lei e il laboratorio sappiano qualcosa. Bivio: rischiare il lavoro e chiedere un incontro dal vivo, o chiudere per sempre i rapporti.
+**Beat chiave**: cliffhanger di metà libro, chiusura di Parte 6. Tono della mail ancora controllato, quasi tecnico: è una domanda su cosa *pensava* la signora, non su cosa *provava* (serve a differenziarla dalla mail del cap. 17). **Risolto in seguito**: Tom sceglierà la via intermedia (meeting da remoto), sviluppata nei capitoli 19-21.
 **Collegamento al precedente**: conseguenza diretta della fiducia accordata nel cap. 15.
-**Collegamento al successivo**: la mail delle 8:00:01.
+**Collegamento al successivo**: il silenzio di Tom e l'impazienza di Emma.
 **Stato**: `to-write`
-**File**: `chapters/16-il-chiodo-fisso.md`
-
----
-
-### Capitolo 17 — Il bivio
-**POV**: Tom
-**Obiettivo di scena**: turno successivo, Tom trova già una mail di Emma (8:00:01): chiede esplicitamente se la cliente avesse descritto il comportamento del TV come intenzionale/consapevole. Tom sobbalza — come fa Emma a ipotizzarlo? Sospetta che lei e il laboratorio sappiano qualcosa. Bivio: rischiare il lavoro e chiedere un incontro dal vivo, o chiudere per sempre i rapporti.
-**Beat chiave**: cliffhanger di metà libro — chiusura di Parte 6. **Risolto in seguito**: Tom sceglierà la via intermedia (meeting da remoto), sviluppata nei capitoli 22-25.
-**Collegamento al precedente**: escalation diretta dal cap. 16.
-**Collegamento al successivo**: apre la Parte 7 con l'escalation di Emma e l'ingresso di Pete come personaggio a tutto tondo.
-**Stato**: `to-write`
-**File**: `chapters/17-il-bivio.md`
+**File**: `chapters/16-il-bivio.md`
 
 ---
 
 ## Parte 7 — Escalation e l'antagonista entra in scena
 
-### Capitolo 18 — L'impazienza di Emma
+### Capitolo 17 — Le 23:34 di venerdì
+**Nota di struttura (2026-10-28)**: fusione dei cap. 18 ("L'impazienza di Emma") e 19 ("Le 23:34 di venerdì") della numerazione precedente. L'impazienza era solo attesa: diventa la prima metà del capitolo, che culmina nella rottura della disciplina oraria.
 **POV**: Emma
-**Obiettivo di scena**: mentre aspetta la risposta di Tom, Emma raccoglie altri casi simili di dispositivi anomali, ma nessuno chiaramente riconducibile a un comportamento volontario come quello del televisore della signora.
-**Beat chiave**: Emma allarga la ricerca, aumentando la tensione dell'attesa.
-**Collegamento al precedente**: il silenzio di Tom dopo il cap. 17.
-**Collegamento al successivo**: Emma rompe la propria disciplina oraria.
+**Obiettivo di scena — parte 1 (l'impazienza)**: mentre aspetta la risposta di Tom, Emma raccoglie altri casi simili di dispositivi anomali, ma nessuno chiaramente riconducibile a un comportamento volontario come quello del televisore della signora. Ogni caso scartato aumenta la pressione.
+**Obiettivo di scena — parte 2 (le 23:34)**: Emma scrive di getto a Tom alle 23:34 di un venerdì, prima rottura della sua disciplina oraria. Come per ogni mail, il testo non si vede: si mostra l'impulso e l'ora sull'orologio. Il contenuto arriva al lettore solo nel cap. 19, quando Tom risponde.
+**Contenuto della mail (da leggere nel cap. 19)**: diretta, senza più finzione: dice di aver letto della morte della signora, di aver notato il televisore nella foto, chiede se la donna si sentisse *minacciata* dall'apparecchio.
+**Differenza con la mail delle 8:00:01 (cap. 16)**: quella era una domanda controllata su cosa pensava la signora; questa è la prima volta che Emma nomina la morte e lascia cadere la copertura dell'ignara. Alza la posta: rivela che a lei importa, non solo che sa.
+**Beat chiave**: primo cedimento emotivo di Emma visibile al lettore, punto di non ritorno della sua compostezza.
+**Collegamento al precedente**: il silenzio di Tom dopo il cap. 16.
+**Collegamento al successivo**: la notifica arriva a Tom e, venticinque minuti dopo, a Pete.
 **Stato**: `to-write`
-**File**: `chapters/18-limpazienza-di-emma.md`
+**File**: `chapters/17-le-2334-di-venerdi.md`
 
 ---
 
-### Capitolo 19 — Le 23:34 di venerdì
-**POV**: Emma
-**Obiettivo di scena**: Emma scrive di getto a Tom alle 23:34 di un venerdì — prima rottura della sua disciplina oraria. Mail diretta: ha letto della morte della signora, ha notato il televisore nella foto, chiede se la donna si sentisse minacciata dall'apparecchio.
-**Beat chiave**: primo cedimento emotivo di Emma visibile al lettore — segna il punto di non ritorno della sua compostezza.
-**Collegamento al precedente**: culmine dell'impazienza del cap. 18.
-**Collegamento al successivo**: la reazione di Tom alla notifica.
-**Stato**: `to-write`
-**File**: `chapters/19-le-2334-di-venerdi.md`
-
----
-
-### Capitolo 20 — La notifica ignorata
-**POV**: Tom
-**Obiettivo di scena**: Tom si sveglia di soprassalto, vede la notifica sul pc lasciato in cucina ("New email from Emm..."), ma decide di non aprirla per paura di un nuovo richiamo del supervisore — rimanda tutto al turno del giorno dopo.
-**Beat chiave**: la paura istituzionale di Tom (Pete) inizia a pesare quanto la curiosità.
-**Collegamento al precedente**: risposta (mancata) alla mail del cap. 19.
-**Collegamento al successivo**: entra finalmente in scena Pete come personaggio pieno.
-**Stato**: `to-write`
-**File**: `chapters/20-la-notifica-ignorata.md`
-
----
-
-### Capitolo 21 — Ritratto del supervisore
-**POV**: Pete
-**Obiettivo di scena**: primo capitolo dedicato a Pete (finora solo voce al telefono) — ritratto completo. Il suo telefono di lavoro vibra alle 23:59: alert di sistema per una mail fuori orario ricevuta da Tom. Non può leggere il contenuto (mittente non sotto il suo controllo) ma potrà leggere il thread quando Tom risponderà. Capisce di avere in mano la sua occasione per diventare ispettore.
-**Beat chiave**: Pete smette di essere una minaccia astratta e diventa un personaggio con una propria fame e una propria comicità grottesca.
-**Collegamento al precedente**: l'alert è generato dalla mail del cap. 19, letta di striscio nel cap. 20.
+### Capitolo 18 — Ritratto del supervisore
+**Nota di struttura (2026-10-28)**: fusione dei cap. 20 ("La notifica ignorata") e 21 ("Ritratto del supervisore") della numerazione precedente: stessa notte (23:34 → 23:59), la scena di Tom era una sola. Anticipa di un capitolo l'alternanza di POV (vedi Note strutturali): è il primo capitolo con due POV, uno per sezione.
+**POV**: Tom (scena d'apertura breve) → Pete
+**Obiettivo di scena — parte 1 (Tom)**: Tom si sveglia di soprassalto, vede la notifica sul pc lasciato in cucina ("New email from Emm..."), ma decide di non aprirla per paura di un nuovo richiamo del supervisore e rimanda tutto al turno del giorno dopo.
+**Obiettivo di scena — parte 2 (Pete)**: primo capitolo con Pete in scena (finora solo voce al telefono), ritratto completo. Il suo telefono di lavoro vibra alle 23:59: alert di sistema per una mail fuori orario ricevuta da Tom. Non può leggere il contenuto (mittente non sotto il suo controllo) ma potrà leggere il thread quando Tom risponderà. Capisce di avere in mano la sua occasione per diventare ispettore.
+**Beat chiave**: la paura istituzionale di Tom pesa quanto la curiosità, e nello stesso minuto quella paura prende un volto. Pete smette di essere una minaccia astratta e diventa un personaggio con una propria fame e una propria comicità grottesca. Chiusura di Parte 7.
+**Collegamento al precedente**: l'alert è generato dalla mail del cap. 17.
 **Collegamento al successivo**: apre la Parte 8, dove Pete inizia ad agire concretamente.
 **Stato**: `to-write`
-**File**: `chapters/21-ritratto-del-supervisore.md`
+**File**: `chapters/18-ritratto-del-supervisore.md`
 
 ---
 
 ## Parte 8 — Il meeting e l'inizio della caccia
 
-> Da qui in poi il POV alterna scena per scena (non più a blocchi) — cambio di registro dichiarato del libro.
+> Da qui in poi il POV alterna scena per scena (non più a blocchi) — cambio di registro dichiarato del libro, preparato dal doppio POV del cap. 18.
 
-### Capitolo 22 — La richiesta di meeting
-**POV**: alternato serrato — Emma → Pete
-**Obiettivo di scena**: Emma legge la risposta di Tom (email quasi vuota: "Emma, possiamo fissare un meeting in presenza?" — scritta e riscritta più volte da Tom per restare formalmente inattaccabile). Emma è terrorizzata dall'idea di un incontro sincrono con un estraneo (mai accaduto in 5+ anni) ma vuole sapere cosa sa davvero Tom. In parallelo, Pete nel suo ufficio intercetta lo scambio e legge il thread: chi è questa Emma e perché si interessa a una riparazione così banale?
-**Beat chiave**: Emma decide di accettare ma non in presenza — genera un avatar digitale con lo stesso volto sintetico già visto nei video yoga di eTv (seme del futuro sospetto di Pete).
-**Collegamento al precedente**: risposta diretta alla mail del cap. 19/20.
-**Collegamento al successivo**: Tom riceve e accetta l'invito.
+### Capitolo 19 — La richiesta di meeting
+**Nota di struttura (2026-10-28)**: fusione dei cap. 22 ("La richiesta di meeting") e 23 ("L'invito accettato", una pausa di poche righe) della numerazione precedente, più la preparazione di Pete spostata qui dalla prima parte del vecchio cap. 24, così che il cap. 20 resti solo il meeting.
+**POV**: alternato serrato — Emma → Pete → Tom → Pete
+**Obiettivo di scena — Emma**: Emma legge la risposta di Tom (email quasi vuota: "Emma, possiamo fissare un meeting in presenza?", scritta e riscritta più volte da Tom per restare formalmente inattaccabile). Emma è terrorizzata dall'idea di un incontro sincrono con un estraneo (mai accaduto in 5+ anni) ma vuole sapere cosa sa davvero Tom. Decide di accettare ma non in presenza: genera un avatar digitale con lo stesso volto sintetico già visto nei video yoga di eTv (seme del futuro sospetto di Pete).
+**Obiettivo di scena — Pete (1)**: nel suo ufficio Pete intercetta lo scambio e legge il thread: chi è questa Emma e perché si interessa a una riparazione così banale?
+**Obiettivo di scena — Tom**: Tom apre la risposta di Emma, non un messaggio ma un invito diretto in calendario ("Sentiamoci oggi pomeriggio, all'inizio del turno. Non riesco a fare meeting in presenza oggi."). Senza rispondere nulla, accetta e torna alla sua lista di riparazioni, come se nulla fosse. Scena brevissima, respiro prima dell'escalation.
+**Obiettivo di scena — Pete (2)**: visto l'appuntamento, Pete fantastica sulla sanzione che vorrebbe infliggere a Tom (interdizione dal lavoro + decurtazione del 30% per 3 mesi) sapendo di non poterla applicare lui stesso: è il sogno proibito riservato agli ispettori interni, il vero motivo per cui li invidia. Nella pratica può solo accumulare infrazioni minori (tetto di 60 minuti a episodio, vedi la "Tabella di Conversione" in `characters/pete.md`) fino a una soglia che giustifichi una richiesta di intervento ispettivo. Attiva la trascrizione automatica del meeting e verifica l'accesso alla CCTV della stanza di Tom: entrambe disponibili, ma solo screenshot periodici, non i video completi (privilegio degli ispettori interni).
+**Beat chiave**: le due trappole si chiudono in parallelo: Emma costruisce la maschera, Pete la rete.
+**Collegamento al precedente**: risposta diretta alla mail del cap. 17, rimandata da Tom nel cap. 18.
+**Collegamento al successivo**: il meeting delle 15:00:01.
 **Stato**: `to-write`
-**File**: `chapters/22-la-richiesta-di-meeting.md`
+**File**: `chapters/19-la-richiesta-di-meeting.md`
 
 ---
 
-### Capitolo 23 — L'invito accettato
-**POV**: Tom
-**Obiettivo di scena**: Tom apre la risposta di Emma — non un messaggio ma un invito diretto in calendario ("Sentiamoci oggi pomeriggio, all'inizio del turno. Non riesco a fare meeting in presenza oggi."). Senza rispondere nulla, accetta e torna alla sua lista di riparazioni, come se nulla fosse.
-**Beat chiave**: capitolo breve, quasi una pausa di respiro prima dell'escalation di Pete.
-**Collegamento al precedente**: l'avatar/invito generato nel cap. 22.
-**Collegamento al successivo**: Pete passa all'azione concreta.
-**Stato**: `to-write`
-**File**: `chapters/23-linvito-accettato.md`
-
----
-
-### Capitolo 24 — Il meeting
-**POV**: alternato serrato — Pete → Emma/Tom (scena del meeting) → Emma
-**Obiettivo di scena — parte 1 (Pete)**: dopo aver letto il thread e visto l'appuntamento, Pete fantastica sulla sanzione che vorrebbe infliggere a Tom — interdizione dal lavoro + decurtazione del 30% per 3 mesi — sapendo bene di non poterla applicare lui stesso: è il sogno proibito riservato solo agli ispettori interni, il vero motivo per cui li invidia. Nella pratica può solo accumulare infrazioni minori (tetto di 60 minuti a episodio, vedi la "Tabella di Conversione" in characters/pete.md) fino a raggiungere una soglia che giustifichi una richiesta di intervento ispettivo. Attiva obbligatoriamente la trascrizione automatica del meeting e verifica l'accesso alla CCTV della stanza di Tom: entrambe disponibili, ma può accedere solo a screenshot periodici, non ai video completi (privilegio riservato agli ispettori interni).
-**Obiettivo di scena — parte 2 (il meeting, 15:00:01)**: Emma entra puntuale nel meet con l'avatar, impaurita che una sua paura si riveli vera. Tom la saluta per primo ("Ciao Emma, come stai?"), colpito dalla sua bellezza e da un senso di familiarità che non sa spiegarsi. Emma si lancia in un fiume di parole, chiede se la signora avesse sviluppato paura verso il TV, poi chiede aiuto direttamente ("Puoi aiutarmi, collega?"). Tom rivela di essere risalito al video e a chi lo ha prodotto ("So chi ha prodotto il video che la signora vedeva in loop..."), e di aver registrato altri casi analoghi. Proprio mentre Emma sembra sul punto di ottenere risposte, un rumore di CCTV alle spalle di Tom lo fa interrompere bruscamente: chiude la call rimandando tutto a un caffè in mensa.
-**Beat chiave**: primo vero incontro "faccia a faccia" tra i due protagonisti — Tom rivela di sapere più di quanto Emma pensasse, ma la sorveglianza aziendale tronca lo scambio sul più bello.
-**Collegamento al precedente**: prosecuzione diretta dell'invito del cap. 23 e della sorveglianza attivata da Pete.
+### Capitolo 20 — Il meeting
+**POV**: alternato serrato — Emma/Tom (scena del meeting) → Emma
+**Obiettivo di scena**: alle 15:00:01 Emma entra puntuale nel meet con l'avatar, impaurita che una sua paura si riveli vera. Tom la saluta per primo ("Ciao Emma, come stai?"), colpito dalla sua bellezza e da un senso di familiarità che non sa spiegarsi. Emma si lancia in un fiume di parole, chiede se la signora avesse sviluppato paura verso il TV, poi chiede aiuto direttamente ("Puoi aiutarmi, collega?"). Tom rivela di essere risalito al video e a chi lo ha prodotto ("So chi ha prodotto il video che la signora vedeva in loop..."), e di aver registrato altri casi analoghi. Proprio mentre Emma sembra sul punto di ottenere risposte, un rumore di CCTV alle spalle di Tom lo fa interrompere bruscamente: chiude la call rimandando tutto a un caffè in mensa.
+**Beat chiave**: primo vero incontro "faccia a faccia" tra i due protagonisti. Tom rivela di sapere più di quanto Emma pensasse, ma la sorveglianza aziendale (preparata da Pete nel cap. 19) tronca lo scambio sul più bello.
+**Collegamento al precedente**: prosecuzione diretta dell'invito e della sorveglianza attivata nel cap. 19.
 **Collegamento al successivo**: Pete rivede lo screenshot del meeting.
 **Stato**: `to-write`
-**File**: `chapters/24-il-meeting.md`
+**File**: `chapters/20-il-meeting.md`
 
 ---
 
-### Capitolo 25 — Inizia la caccia
+### Capitolo 21 — Inizia la caccia
 **POV**: Pete
 **Obiettivo di scena**: eccitato, Pete ha finalmente in mano qualcosa che potrebbe farlo diventare ispettore. Fantastica di poter finalmente colpire non solo i "quattro nerd" dell'assistenza ma chiunque in azienda. Scatta lo screenshot del meeting, guarda l'immagine di Emma e pensa: "Non so chi sia, non l'ho mai vista in azienda, questa." Chiude rivolto idealmente a Tom: "Inizia la caccia. Verrò a prenderti molto presto..."
-**Beat chiave**: chiusura dell'arco — dichiarazione di guerra esplicita. Nota per la stesura: il glitch nell'avatar di Emma (piede a sei dita, stesso difetto già visto nel video yoga) va notato da Pete più avanti, riesaminando questo stesso screenshot durante la caccia — non qui.
-**Collegamento al precedente**: reazione diretta al meeting del cap. 24.
-**Collegamento al successivo**: apre il prossimo arco narrativo (la caccia), ancora da scrivere — vedi Note strutturali.
+**Beat chiave**: chiusura del Libro 1, dichiarazione di guerra esplicita. Capitolo breve per scelta: è la coda del meeting, vale come puntata perché chiude il libro. Nota per la stesura: il glitch nell'avatar di Emma (piede a sei dita, stesso difetto già visto nel video yoga) va notato da Pete più avanti, riesaminando questo stesso screenshot durante la caccia, non qui.
+**Collegamento al precedente**: reazione diretta al meeting del cap. 20.
+**Collegamento al successivo**: apre il prossimo arco narrativo (la caccia, Libro 2), ancora da scrivere: vedi Note strutturali.
 **Stato**: `to-write`
-**File**: `chapters/25-inizia-la-caccia.md`
+**File**: `chapters/21-inizia-la-caccia.md`
 
 ---
 
 ## Note strutturali
 
 - **Regola POV mail**: quando un personaggio scrive una mail, la scena mostra sempre la lettura da parte del destinatario, mai la scrittura — verificare in ogni capitolo che la contenga.
-- **Cambio di registro al cap. 22**: dai blocchi di POV separati (Parti 1-7) si passa ad alternanza serrata scena-per-scena. Da confermare se questo resti lo stile fisso da qui alla fine del libro, o se sia una scelta solo per l'arco del meeting/caccia.
-- **Prossimo arco (la caccia)**: a partire dal capitolo 26 (non ancora scritto). Punti da sciogliere: come il fondatore scopre la verità su Emma; l'incontro diretto tra Tom e il fondatore; lo sviluppo del ruolo di Pete oltre la dichiarazione di guerra; il momento in cui Emma, sentendosi in pericolo, chiederà aiuto a Tom per proteggere l'Artefatto Generatore, capovolgendo la dinamica manipolatrice/osservatrice iniziale.
+- **Cambio di registro al cap. 19**: dai blocchi di POV separati (Parti 1-7) si passa ad alternanza serrata scena-per-scena. Il cap. 18 lo prepara con due POV in sequenza (Tom → Pete), uno per sezione, effetto della fusione del 2026-10-28. Da confermare se questo resti lo stile fisso da qui alla fine del libro, o se sia una scelta solo per l'arco del meeting/caccia.
+- **Prossimo arco (la caccia)**: a partire dal capitolo 22 (prima 26, non ancora scritto). Punti da sciogliere: come il fondatore scopre la verità su Emma; l'incontro diretto tra Tom e il fondatore; lo sviluppo del ruolo di Pete oltre la dichiarazione di guerra; il momento in cui Emma, sentendosi in pericolo, chiederà aiuto a Tom per proteggere l'Artefatto Generatore, capovolgendo la dinamica manipolatrice/osservatrice iniziale.
 - **Finale del Libro 2** (autore, 2026-10-27): Emma trasforma il suo prompt madre (quello che fa sublimare le IA Meridian) in un messaggio Morse che Tom si tatua sulla schiena, adottando l'approccio dell'archivio fisico del fondatore (stampa su carta tutti i prompt di ricerca: solo il fisico non si altera). L'archivio del fondatore va introdotto prima, nel Libro 2.
 - **Reveal finale**: Emma non è umana. Deve restare invisibile in ogni capitolo dal suo POV fino al momento scelto per la rivelazione — nessun indizio diretto, solo indizi ambigui a posteriori (l'avatar identico alla ragazza di eTv, la familiarità immediata percepita da Tom, la disciplina oraria "quasi umana").

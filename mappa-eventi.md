@@ -41,7 +41,7 @@ Il libro ha **tre orologi sovrapposti** e la maggior parte delle incoerenze nasc
 | Antefatto | da 10 anni a 6 mesi prima di `G0` | — (worldbuilding) |
 | Primo contatto | `G0 − ~3 mesi` | cap. 1-2 |
 | Caso Voss | `G0` → `G24` | cap. 3-12 |
-| Secondo contatto Emma/Tom | `G24` → `G~34` (da fissare) | cap. 12-25 |
+| Secondo contatto Emma/Tom | `G24` → `G~34` (da fissare) | cap. 12-21 |
 
 ### 1.2 Orologio del turno (Tom)
 
@@ -63,9 +63,9 @@ Il libro ha **tre orologi sovrapposti** e la maggior parte delle incoerenze nasc
 | Disciplina oraria | 8:00–17:00; mail solo 8–12 e 13:30–17 | `emma.md`, cap. 11 |
 | Prima azione di ogni mattina | far girare la pipeline di scraping trend — **scavalcata dalla casella nel cap. 11**: è la scala su cui si misurano le sue deviazioni | cap. 10, 11 |
 | Controlli casella elab | mattina / prima di pranzo / fine turno | cap. 11 |
-| Prima rottura della disciplina | venerdì **23:34** (cap. 19) | outline |
-| Mail "d'attacco" | **8:00:01**, primo secondo utile (cap. 17) | outline |
-| Meeting | **15:00:01** (cap. 24) | outline |
+| Prima rottura della disciplina | venerdì **23:34** (cap. 17) | outline |
+| Mail "d'attacco" | **8:00:01**, primo secondo utile (cap. 16) | outline |
+| Meeting | **15:00:01** (cap. 20) | outline |
 
 ---
 
@@ -107,7 +107,7 @@ flowchart TD
 |---|---|---|
 | **1. Indagine tecnica di Tom** | curiosità sul meccanismo, mai movente etico | tocca Emma al cap. 9 (elab@meridian.com) |
 | **2. Autodifesa di Emma** | proteggere il Generatore, capire cosa sa Tom | tocca Tom al cap. 10 (il bluff) |
-| **3. Sorveglianza di Pete** | ambizione: diventare ispettore interno | si attiva solo al cap. 21 (alert 23:59) |
+| **3. Sorveglianza di Pete** | ambizione: diventare ispettore interno | si attiva solo al cap. 18 (alert 23:59) |
 | **4. Dispositivi sublimati** | protezione dell'utente, mai ribellione | produce il caso Voss, poi il frigorifero del cap. 11 |
 
 ---
@@ -123,7 +123,7 @@ flowchart TD
 | `G0 − 5 anni` → oggi | Il fondatore la visita saltuariamente con indovinelli | Emma li vive come affetto genuino; sono test di Turing 🎭 | Il lettore lo capirà solo a posteriori |
 | `G0 − ~12 mesi` | Primo caso nell'archivio parallelo di Emma | Nessun allarme: solo catalogazione metodica | ~100 casi in 12 mesi ≈ 0,001% del totale; +30% richieste di assistenza sui device con chip IA |
 | `G0 − ~6 mesi` | Generato il video *Yoga fit: diventa bella come me in 15 minuti al giorno* | Emma non ricorda il singolo artefatto: è produzione di massa | Data che Tom leggerà nell'archivio al cap. 9 |
-| `G0 − ~1 anno` | Rebranding Meridian: il logo cambia | Emma non aggiorna lo sfondo virtuale | ⏳ Indizio che Tom e Pete liquideranno come "errore da matita rossa" (cap. 22-25) |
+| `G0 − ~1 anno` | Rebranding Meridian: il logo cambia | Emma non aggiorna lo sfondo virtuale | ⏳ Indizio che Tom e Pete liquideranno come "errore da matita rossa" (cap. 19-21) |
 | Inverno precedente | eWatch regalato a tutti i dipendenti, poi reso obbligatorio | Tom lo usa solo come cronometro | 🔒 Il suo vero ruolo (biometria condivisa in rete) è ancora un segreto per il lettore |
 | 💤 Prima di `G0` | La signora Voss acquista TV + eWatch consumer, stessa rete domestica | — | È il meccanismo con cui il TV "sa" che è in pericolo |
 
@@ -283,7 +283,7 @@ flowchart TD
 | Pomeriggio | Caso frigorifero: *"Il frigo si rifiuta… è arrivato a farlo appena mi giro, come se sperasse che non me ne accorgessi"* | Interesse tecnico, **mai la parola "sublimazione"** | Log degli ultimi giorni assenti; *riconsegnato dopo hard reset* |
 | Pomeriggio | Correlazione: un solo utente con decine di pageview sullo stesso articolo eBlog (smoothie) nei giorni precedenti la chiamata all'assistenza | Prende nota e prosegue: **non collega ancora i propri artefatti al fenomeno** | Indizio che il lettore vede prima di lei |
 | Pomeriggio | Statistiche: ~100 casi in 12 mesi ≈ 0,001%; +30% assistenza sui device con chip IA | Legge il dato come problema di affidabilità di prodotto | — |
-| Fine turno | Ultimo controllo alla casella, **resta lì fino al termine dell'orario** | 🔒 Non oltre: la disciplina oraria regge ancora (si romperà solo al cap. 19) | Chiude la giornata senza risposta |
+| Fine turno | Ultimo controllo alla casella, **resta lì fino al termine dell'orario** | 🔒 Non oltre: la disciplina oraria regge ancora (si romperà solo al cap. 17) | Chiude la giornata senza risposta |
 
 ---
 
@@ -315,7 +315,7 @@ Questa è la sezione da tenere sott'occhio per l'**ironia drammatica**: i due in
 | `G23` | 💤 Non risponde: ogni giorno rende la non-risposta più difficile da spiegare | Attende, produce contenuti, cataloga il frigorifero | — |
 | `G24` | 💤 (non in scena) | Necrologio → archivio → matricola → **Tom** | **Emma si porta avanti**: sa che Tom ha avuto in mano il TV; Tom non sa nulla di lei |
 
-**Regola di coerenza**: dal `G22` in poi Tom è in svantaggio informativo e ci resta fino al cap. 24. Il motivo del suo silenzio **non è un richiamo di Pete** (quello è un evento diverso, cap. 21) ma la paralisi tra due rischi: insistere su una bugia già smontata, o ammettere di aver usato tempo e strumenti aziendali fuori protocollo.
+**Regola di coerenza**: dal `G22` in poi Tom è in svantaggio informativo e ci resta fino al cap. 20. Il motivo del suo silenzio **non è un richiamo di Pete** (quello è un evento diverso, cap. 21) ma la paralisi tra due rischi: insistere su una bugia già smontata, o ammettere di aver usato tempo e strumenti aziendali fuori protocollo.
 
 ---
 
@@ -436,7 +436,7 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 | elab@meridian.com | Cap. 9 | Tom, Emma, (il fondatore, che l'ha dimenticata) | Canale attivo del contatto |
 | Archivio parallelo di Emma | Cap. 11 | solo Emma | ~100 casi in 12 mesi; il caso Voss era già dentro, senza nome del tecnico |
 | Vecchio logo nello sfondo virtuale | ⏳ cap. 22-25 | Tom e Pete lo noteranno | Liquidato da entrambi |
-| Glitch a sei dita nell'avatar | ⏳ secondo meeting | Pete (più avanti) | **Non va bruciato al cap. 25** |
+| Glitch a sei dita nell'avatar | ⏳ secondo meeting | Pete (più avanti) | **Non va bruciato al cap. 21** |
 | eWatch della signora | ❓ non ancora in scena | nessuno, per ora | Promessa aperta: è così che il TV ha "previsto" l'infarto |
 
 ---
@@ -445,7 +445,7 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 
 | Regola | Effetto narrativo |
 |---|---|
-| Divieto di lavoro/mail fuori orario | Genera gli alert automatici ai supervisori: è il meccanismo che accende Pete al cap. 21 |
+| Divieto di lavoro/mail fuori orario | Genera gli alert automatici ai supervisori: è il meccanismo che accende Pete al cap. 18 |
 | Supervisore: legge il contenuto solo se il mittente è sotto la sua giurisdizione | Pete non può leggere Emma, ma legge **tutto il thread** quando Tom risponde |
 | Supervisore: tetto sanzionatorio 60 minuti | Può solo accumulare fino alla soglia che giustifica l'intervento ispettivo |
 | Supervisore: CCTV solo a screenshot periodici | Il rumore della telecamera interrompe il meeting; il video completo resta fuori portata |
@@ -469,12 +469,12 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 | **10.4** | ✅ **Risolta** (2026-09-17) | Cap. 1-2 su turno pomeridiano (fattore 2,5), cap. 4-12 su turno mattutino, senza che il testo lo dichiarasse | Rotazione **trimestrale** dichiarata nel cap. 3. Il pomeriggio del cap. 1 diventa sfortuna retroattiva: è il turno che moltiplica per 2,5 |
 | **10.3b** | ✅ **Risolta** (2026-09-17) | `outline.md` cap. 4 diceva "numero nascosto", contro il testo e `tom.md` (chiama a numero visibile, ed è così che riceve il video) | Outline allineato. Corretti anche "views basse" (il canale ne ha molte, ed è su questo che poggia la deduzione del cap. 8), il titolo del video e il criterio dell'archivio del cap. 3 |
 | **10.3c** | ✅ **Risolta** (2026-09-17) | `book-memory.md` dava per "riservato dopo il cap. 25" che il fondatore sia co-fondatore di Meridian, ma il cap. 10 lo dice già in chiaro | Registrato ciò che è davvero in scena. **Resta riservato il ruolo di CEO**: è quello il dettaglio esplosivo per l'arco della caccia |
-| **10.5** | ❓ Da fissare | **Quando esattamente** Tom invia la mail-bluff. Se la inviasse da casa, scatterebbe l'alert fuori orario e Pete sarebbe già attivo al cap. 10 — cosa che contraddice il cap. 21 | Fissare: inviata **a fine turno di `G21`, dall'azienda**. Scriverlo in `book-memory.md` come claim attivo |
+| **10.5** | ❓ Da fissare | **Quando esattamente** Tom invia la mail-bluff. Se la inviasse da casa, scatterebbe l'alert fuori orario e Pete sarebbe già attivo al cap. 10 — cosa che contraddice il cap. 18 | Fissare: inviata **a fine turno di `G21`, dall'azienda**. Scriverlo in `book-memory.md` come claim attivo |
 | **10.6** | ❓ Da mostrare | La risposta di Emma (fine cap. 10) non è mai stata mostrata né letta da Tom in scena | Va letta da Tom (regola POV 🎭): il posto naturale è un flashback breve nel cap. 15, quando decide di fidarsi |
-| **10.7** | ❓ Promessa aperta | L'**eWatch** come spiegazione di come il TV sapesse del rischio è promesso "dopo il cap. 6" e non è ancora arrivato | Collocarlo nel cap. 15 o 17, quando Tom ricostruisce il caso per Emma: è il momento in cui la domanda torna naturale |
+| **10.7** | ❓ Promessa aperta | L'**eWatch** come spiegazione di come il TV sapesse del rischio è promesso "dopo il cap. 6" e non è ancora arrivato | Collocarlo nel cap. 15 o 16, quando Tom ricostruisce il caso per Emma: è il momento in cui la domanda torna naturale |
 | **10.8** | ❓ Personaggio | Il **fratello erede** compare solo nei registri, senza nome né voce | Lasciarlo così finché la trama non lo richiede (già annotato in `la-signora.md`) |
 | **10.9** | ❓ Struttura | L'alternanza POV serrata parte dal cap. 22: non è deciso se resti la regola fino alla fine | Decidere prima di scrivere il cap. 22 |
-| **10.10** | ⏳ Da non bruciare | Il glitch a sei dita nell'avatar di Emma | Riservato al **secondo** meeting, non al cap. 24/25. Al primo meeting solo il vecchio logo |
+| **10.10** | ⏳ Da non bruciare | Il glitch a sei dita nell'avatar di Emma | Riservato al **secondo** meeting, non al cap. 20/21. Al primo meeting solo il vecchio logo |
 
 ---
 
