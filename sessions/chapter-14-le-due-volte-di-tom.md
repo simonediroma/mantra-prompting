@@ -1,0 +1,39 @@
+# Session: chapter — chapters/14-le-due-volte-di-tom.md
+
+> Created: 2026-10-26
+> Last updated: 2026-10-27
+> Status: abandoned
+
+## Macro
+chapter
+
+## Target
+chapters/14-le-due-volte-di-tom.md
+
+## Current step
+— (capitolo tagliato il 2026-10-27)
+
+## Steps completed
+- [x] ask-before-writing
+- [x] write
+- [ ] demolish
+- [ ] integrate
+
+## Notes
+- 2026-10-26 (autore): motore del capitolo = Emma deve capire cosa sia successo per scongiurare la paura che il televisore abbia architettato la morte della signora Voss. L'urgenza resta sottesa: il lettore può immaginare Emma come una "ribelle" in Meridian che ha trovato il modo di far sublimare le IA, ma il perché non va mai esplicitato (scopo procreativo e natura di Emma: reveal nel Libro 2).
+- Fase 1 (autore): dopo aver riaperto la mail, Emma torna sulla lista dell'assistenza per sapere dove sia il televisore adesso; il secondo passaggio di Tom lo trova lì.
+- Fase 1 (autore): esito sulla lista = ricondizionato e rimesso in vendita, non ancora venduto; è nei magazzini Meridian in attesa del portale dei ricondizionati dell'azienda. Satira Meridian: un modo per fare i soldi due volte con gli stessi apparecchi.
+- Worldbuilding (autore): i ricondizionati Meridian si vendono solo online, sullo shop ufficiale. Restano nei magazzini Meridian, distribuiti per centro di assistenza (vicino alla sede), con vendita centralizzata e disponibilità complessiva.
+- Buco "perché Emma non ha visto prima il ricondizionamento" chiuso (autore): (1) il suo archivio non ha matricola né tecnico; (2) il filtro quotidiano cerca anomalie segnalate dai clienti, un lotto di ricondizionamento con etichette gialle non ne ha; (3) nel cap. 12 cercava solo il nome del tecnico e si è fermata alla prima riga. Nel cap. 14 cerca per matricola e vede per la prima volta tutta la storia.
+- Prima riga (G0, Tom): esito "in attesa di ritiro" (la signora ha rifiutato il ritiro, il TV non è mai stato riconsegnato). Seconda riga (G20, Tom): ricondizionato, in magazzino, in attesa di vendita.
+- Reazione (autore) alla seconda riga: "Come posso averlo?" Emma vuole il televisore.
+- "Come posso averlo?" (autore): pensiero che nasce incontrollato, non logico (fase 1 della regola emotiva di emma.md); nel corso del capitolo Emma lo smonta (fase 2) senza mai far trapelare la sua natura. Il principio sotteso: proprio quel televisore è stato in grado di [sublimare] e forse è colpevole. Mai nominare "sublimazione" in prosa.
+- Fase 2, smontaggio (autore): (1) se lo avesse potrebbe replicare quello che è successo; (2) ma quella matricola, se rintracciata, porterebbe dritta a lei; (3) dovrebbe farlo comprare da qualcun altro e ottenerlo in modo indiretto; (4) troppo complicato. Attenzione in scrittura: "replicare" deve restare leggibile in chiave umana (rifare la prova, capire), mai linguaggio da IA.
+- Fase 2, approdo (autore): la mail di Tom è l'unico canale per sapere nel dettaglio cosa sia accaduto a quel televisore. Emma ha, a breve distanza, una persona che può darle le indicazioni per capire.
+- Fase 3 (autore): Emma nota che Tom ricondiziona il TV il G20 e le scrive il G21. La mail le sembra meno innocente: Tom ha sicuramente capito in qualche modo, forse come lei, che la signora Voss è morta, e ha deciso di provare a chiedere.
+- Fase 3, deduzione (autore): Emma nota il ricondizionamento dopo tre settimane invece dei 120 giorni del protocollo. Ipotizza che il bluff di Tom nasca dalla voglia di indagare sulla morte della signora Voss oppure sul comportamento del televisore.
+- Fonte del decesso (autore): la lista dell'assistenza NON riporta il decesso (ledger invariato). Emma dalla matricola passa al registro interventi (lettura orizzontale per tutti i Meridians) e trova le stesse voci lette da Tom nel cap. 6: cliente ricontattata, rifiuta il ritiro, chiede rimborso; causale decesso cliente, pagamento reindirizzato a erede designato. Chi ricondiziona ha davanti quella pratica: Tom sapeva. Unito ai 120 giorni → ipotesi: Tom indaga sulla morte o sul comportamento del TV.
+- Fase 5 (autore): apertura A (Emma riapre la mail e guarda la data di invio, fine turno G21 → cerca la matricola sulla lista); chiusura 1 (portale dei ricondizionati: il modello in vendita, nessuna matricola visibile, chiude la pagina) + un po' di 2 (aspetterà l'inizio del turno di Tom per scrivergli).
+- Riepilogo confermato dall'autore; G24 (mappa-eventi aggiornata).
+- 2026-10-27: bozza v1.0 scritta (~1200 parole). Outline → draft, book-memory (summary log + 4 voci di ledger) aggiornati.
+- 2026-10-27, demolizione ciclo 1, critica 1: il capitolo ripeteva l'arco del finale del cap. 13. Decisione dell'autore: tagliarlo. Nucleo strategico (matricola, Tom due volte, centoventi giorni, registro interventi, Tom sapeva e ha scritto il giorno dopo) integrato nell'ultimo paragrafo del cap. 13 (v2.2). Bozza archiviata in `docs/scartati/14-le-due-volte-di-tom.md`; shop dei ricondizionati annotato in `characters/meridian-technologies.md`. Capitoli 15-26 rinumerati 14-25 (outline, config, book-memory, mappa-eventi, characters, log dei capitoli). Documenti storici invariati. Altre 5 critiche mappate e non discusse (decadute con il taglio).

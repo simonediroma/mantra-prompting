@@ -1,6 +1,6 @@
 # Mappa concettuale degli eventi — *Mantra Prompting: Incontrando Emma*
 
-> Versione: 1.0 — generata il 2026-09-17 dall'analisi di `chapters/01` → `chapters/12`, `outline.md`, `book-memory.md`, `characters/*`.
+> Versione: 1.0 — generata il 2026-09-17 dall'analisi di `chapters/1` → `chapters/12`, `outline.md`, `book-memory.md`, `characters/*`.
 > Scopo: tracciare **ogni avvenimento** con **quando accade**, **chi fa cosa** e **quale reazione ci si deve aspettare dal personaggio** (in base al suo profilo), così da scrivere i capitoli nuovi senza rileggere tutto e da intercettare subito le incoerenze.
 > Aggiornare a ogni capitolo chiuso: vedi §11.
 
@@ -41,7 +41,7 @@ Il libro ha **tre orologi sovrapposti** e la maggior parte delle incoerenze nasc
 | Antefatto | da 10 anni a 6 mesi prima di `G0` | — (worldbuilding) |
 | Primo contatto | `G0 − ~3 mesi` | cap. 1-2 |
 | Caso Voss | `G0` → `G24` | cap. 3-12 |
-| Secondo contatto Emma/Tom | `G24` → `G~34` (da fissare) | cap. 12-26 |
+| Secondo contatto Emma/Tom | `G24` → `G~34` (da fissare) | cap. 12-25 |
 
 ### 1.2 Orologio del turno (Tom)
 
@@ -63,9 +63,9 @@ Il libro ha **tre orologi sovrapposti** e la maggior parte delle incoerenze nasc
 | Disciplina oraria | 8:00–17:00; mail solo 8–12 e 13:30–17 | `emma.md`, cap. 11 |
 | Prima azione di ogni mattina | far girare la pipeline di scraping trend — **scavalcata dalla casella nel cap. 11**: è la scala su cui si misurano le sue deviazioni | cap. 10, 11 |
 | Controlli casella elab | mattina / prima di pranzo / fine turno | cap. 11 |
-| Prima rottura della disciplina | venerdì **23:34** (cap. 20) | outline |
-| Mail "d'attacco" | **8:00:01**, primo secondo utile (cap. 18) | outline |
-| Meeting | **15:00:01** (cap. 25) | outline |
+| Prima rottura della disciplina | venerdì **23:34** (cap. 19) | outline |
+| Mail "d'attacco" | **8:00:01**, primo secondo utile (cap. 17) | outline |
+| Meeting | **15:00:01** (cap. 24) | outline |
 
 ---
 
@@ -95,10 +95,10 @@ flowchart TD
     T --> U["G23 · Cap.11 — Silenzio di Tom, routine di Emma"]
     U --> V["G24 · Cap.12 — Emma legge il necrologio: il caso Voss e' nel suo archivio"]
     V --> W["Matricola TV -> nome del tecnico: Tom"]
-    W --> X["Cap.12-14 — Emma verifica Tom e ricostruisce il caso"]
-    X --> Y["Cap.15-18 — Secondo contatto, fiducia, mail delle 8:00:01"]
-    Y --> Z["Cap.19-22 — Mail delle 23:34, alert delle 23:59: entra Pete"]
-    Z --> AA["Cap.23-26 — Meeting 15:00:01, screenshot CCTV, inizia la caccia"]
+    W --> X["Cap.12-13 — Emma verifica Tom e ricostruisce il caso"]
+    X --> Y["Cap.14-17 — Secondo contatto, fiducia, mail delle 8:00:01"]
+    Y --> Z["Cap.18-21 — Mail delle 23:34, alert delle 23:59: entra Pete"]
+    Z --> AA["Cap.22-25 — Meeting 15:00:01, screenshot CCTV, inizia la caccia"]
 ```
 
 ### Le quattro catene che corrono in parallelo
@@ -107,7 +107,7 @@ flowchart TD
 |---|---|---|
 | **1. Indagine tecnica di Tom** | curiosità sul meccanismo, mai movente etico | tocca Emma al cap. 9 (elab@meridian.com) |
 | **2. Autodifesa di Emma** | proteggere il Generatore, capire cosa sa Tom | tocca Tom al cap. 10 (il bluff) |
-| **3. Sorveglianza di Pete** | ambizione: diventare ispettore interno | si attiva solo al cap. 22 (alert 23:59) |
+| **3. Sorveglianza di Pete** | ambizione: diventare ispettore interno | si attiva solo al cap. 21 (alert 23:59) |
 | **4. Dispositivi sublimati** | protezione dell'utente, mai ribellione | produce il caso Voss, poi il frigorifero del cap. 11 |
 
 ---
@@ -123,7 +123,7 @@ flowchart TD
 | `G0 − 5 anni` → oggi | Il fondatore la visita saltuariamente con indovinelli | Emma li vive come affetto genuino; sono test di Turing 🎭 | Il lettore lo capirà solo a posteriori |
 | `G0 − ~12 mesi` | Primo caso nell'archivio parallelo di Emma | Nessun allarme: solo catalogazione metodica | ~100 casi in 12 mesi ≈ 0,001% del totale; +30% richieste di assistenza sui device con chip IA |
 | `G0 − ~6 mesi` | Generato il video *Yoga fit: diventa bella come me in 15 minuti al giorno* | Emma non ricorda il singolo artefatto: è produzione di massa | Data che Tom leggerà nell'archivio al cap. 9 |
-| `G0 − ~1 anno` | Rebranding Meridian: il logo cambia | Emma non aggiorna lo sfondo virtuale | ⏳ Indizio che Tom e Pete liquideranno come "errore da matita rossa" (cap. 23-26) |
+| `G0 − ~1 anno` | Rebranding Meridian: il logo cambia | Emma non aggiorna lo sfondo virtuale | ⏳ Indizio che Tom e Pete liquideranno come "errore da matita rossa" (cap. 22-25) |
 | Inverno precedente | eWatch regalato a tutti i dipendenti, poi reso obbligatorio | Tom lo usa solo come cronometro | 🔒 Il suo vero ruolo (biometria condivisa in rete) è ancora un segreto per il lettore |
 | 💤 Prima di `G0` | La signora Voss acquista TV + eWatch consumer, stessa rete domestica | — | È il meccanismo con cui il TV "sa" che è in pericolo |
 
@@ -283,7 +283,7 @@ flowchart TD
 | Pomeriggio | Caso frigorifero: *"Il frigo si rifiuta… è arrivato a farlo appena mi giro, come se sperasse che non me ne accorgessi"* | Interesse tecnico, **mai la parola "sublimazione"** | Log degli ultimi giorni assenti; *riconsegnato dopo hard reset* |
 | Pomeriggio | Correlazione: un solo utente con decine di pageview sullo stesso articolo eBlog (smoothie) nei giorni precedenti la chiamata all'assistenza | Prende nota e prosegue: **non collega ancora i propri artefatti al fenomeno** | Indizio che il lettore vede prima di lei |
 | Pomeriggio | Statistiche: ~100 casi in 12 mesi ≈ 0,001%; +30% assistenza sui device con chip IA | Legge il dato come problema di affidabilità di prodotto | — |
-| Fine turno | Ultimo controllo alla casella, **resta lì fino al termine dell'orario** | 🔒 Non oltre: la disciplina oraria regge ancora (si romperà solo al cap. 20) | Chiude la giornata senza risposta |
+| Fine turno | Ultimo controllo alla casella, **resta lì fino al termine dell'orario** | 🔒 Non oltre: la disciplina oraria regge ancora (si romperà solo al cap. 19) | Chiude la giornata senza risposta |
 
 ---
 
@@ -315,7 +315,7 @@ Questa è la sezione da tenere sott'occhio per l'**ironia drammatica**: i due in
 | `G23` | 💤 Non risponde: ogni giorno rende la non-risposta più difficile da spiegare | Attende, produce contenuti, cataloga il frigorifero | — |
 | `G24` | 💤 (non in scena) | Necrologio → archivio → matricola → **Tom** | **Emma si porta avanti**: sa che Tom ha avuto in mano il TV; Tom non sa nulla di lei |
 
-**Regola di coerenza**: dal `G22` in poi Tom è in svantaggio informativo e ci resta fino al cap. 25. Il motivo del suo silenzio **non è un richiamo di Pete** (quello è un evento diverso, cap. 22) ma la paralisi tra due rischi: insistere su una bugia già smontata, o ammettere di aver usato tempo e strumenti aziendali fuori protocollo.
+**Regola di coerenza**: dal `G22` in poi Tom è in svantaggio informativo e ci resta fino al cap. 24. Il motivo del suo silenzio **non è un richiamo di Pete** (quello è un evento diverso, cap. 21) ma la paralisi tra due rischi: insistere su una bugia già smontata, o ammettere di aver usato tempo e strumenti aziendali fuori protocollo.
 
 ---
 
@@ -328,37 +328,36 @@ Stessa struttura, ma qui la colonna "Reazione attesa" è **prescrittiva**: è il
 | Cap. | Quando (proposta) | Azione | Reazione attesa | Vincoli da rispettare |
 |---|---|---|---|---|
 | 12 — Solo un tecnico? *(seconda metà, ex cap. 13 "Il sospetto su Tom", fuso il 2026-10-24)* | `G24`, stesso giorno o `G25` | Emma sospetta che Tom sia un investigatore o un poliziotto; verifica organigramma, sito personale, hobby di robotica/audiofilia | **Social engineering usato per rassicurarsi, non per manipolare.** Il sollievo va mostrato come conclusione lucida, non come emozione dichiarata | L'hobby del giradischi è il dettaglio che la convince che sia "solo un tecnico" |
-| 13 — La correlazione *(ex "Il database", ri-scopato il 2026-09-17)* | `G25` | Incrocia le date del caso Voss con le metriche di eTv, come nel cap. 11 con eBlog e il frigorifero: la signora ripeteva **un suo video** | **Il sospetto diventa colpa.** Centra la sua paura più profonda: non essere scoperta, ma aver causato un danno reale. Il colpo **non va risolto in scena** e il narratore non lo commenta | Può ricostruire da sola la catena artefatto → ripetizione → apparecchio che smette di obbedire. Mai nominare "sublimazione" |
-| 14 — Le due volte di Tom *(ricentrato sulla seconda)* | `G25`-`G26` | Torna sulla lista dell'assistenza per sapere che fine ha fatto l'apparecchio: **lo stesso tecnico, una seconda volta, per il ricondizionamento** | Nessun trionfo: ricalcolo freddo di quanto lui possa sapere. Tom ha avuto il TV prima **e dopo** la morte | Chiude la Parte 5 capovolgendo la posta: non "cosa sa Tom di me" ma "cosa sa Tom di lei". Rende trappole le domande finte-esplorative del cap. 15 |
+| 13 — La correlazione *(ex "Il database", ri-scopato il 2026-09-17)* | `G24` | Incrocia le date del caso Voss con le metriche di eTv, come nel cap. 11 con eBlog e il frigorifero: la signora ripeteva **un suo video** | **Il sospetto diventa colpa.** Centra la sua paura più profonda: non essere scoperta, ma aver causato un danno reale. Il colpo **non va risolto in scena** e il narratore non lo commenta | Può ricostruire da sola la catena artefatto → ripetizione → apparecchio che smette di obbedire. Mai nominare "sublimazione". **Chiusura (dal vecchio cap. 14, fuso il 2026-10-27)**: matricola sulla lista → Tom due volte (prima e dopo la morte) → registro interventi: Tom sapeva quando le ha scritto. Chiude la Parte 5 capovolgendo la posta ("cosa sa Tom di lei") e rende trappole le domande del cap. 14 |
 
 ### Parte 6 — Secondo contatto
 
 | Cap. | Quando | Azione | Reazione attesa | Vincoli |
 |---|---|---|---|---|
-| 15 — Le scuse | Inizio turno di Tom | Emma aspetta l'inizio turno e scrive: si scusa per il tono, fa domande esplorative fingendo di non sapere nulla | **Torna alle armi abituali (manipolazione sottile) ma con motivazione genuina.** Le scuse sono un test, non un pentimento | 🎭 La mail va letta dal destinatario (Tom), mai mostrata in scrittura |
-| 16 — La fiducia di Tom | Stesso turno | Tom risponde con informazioni concrete: modello, guasto, telefonata alla cliente, mancato ritiro, ricondizionamento | **La percepisce sagace ma sincera e decide di fidarsi**: primo vero atto di fiducia. Motore emotivo del secondo atto | Coerenza: continua a non fare affermazioni dirette, dà fatti verificabili |
-| 17 — Il chiodo fisso | Giorni seguenti | Non riesce a smettere di pensare a Emma: perché lo ha ricontattato, perché il cambio di tono | **Inizio dell'infatuazione**: piccoli pensieri, non dichiarazioni. Si rifugia nel lavoro per evitare richiami | Tensione senza avanzamento di trama |
-| 18 — Il bivio | Turno successivo, **8:00:01** | Trova già una mail di Emma: chiede se la cliente avesse descritto il comportamento come **intenzionale** | **Sobbalza**: come fa a ipotizzarlo? Sospetta che lei e il laboratorio sappiano. Bivio: incontro dal vivo o rottura totale | Cliffhanger di metà libro. Risolverà con la via intermedia (meeting da remoto) |
+| 14 — Le scuse | Inizio turno di Tom | Emma aspetta l'inizio turno e scrive: si scusa per il tono, fa domande esplorative fingendo di non sapere nulla | **Torna alle armi abituali (manipolazione sottile) ma con motivazione genuina.** Le scuse sono un test, non un pentimento | 🎭 La mail va letta dal destinatario (Tom), mai mostrata in scrittura |
+| 15 — La fiducia di Tom | Stesso turno | Tom risponde con informazioni concrete: modello, guasto, telefonata alla cliente, mancato ritiro, ricondizionamento | **La percepisce sagace ma sincera e decide di fidarsi**: primo vero atto di fiducia. Motore emotivo del secondo atto | Coerenza: continua a non fare affermazioni dirette, dà fatti verificabili |
+| 16 — Il chiodo fisso | Giorni seguenti | Non riesce a smettere di pensare a Emma: perché lo ha ricontattato, perché il cambio di tono | **Inizio dell'infatuazione**: piccoli pensieri, non dichiarazioni. Si rifugia nel lavoro per evitare richiami | Tensione senza avanzamento di trama |
+| 17 — Il bivio | Turno successivo, **8:00:01** | Trova già una mail di Emma: chiede se la cliente avesse descritto il comportamento come **intenzionale** | **Sobbalza**: come fa a ipotizzarlo? Sospetta che lei e il laboratorio sappiano. Bivio: incontro dal vivo o rottura totale | Cliffhanger di metà libro. Risolverà con la via intermedia (meeting da remoto) |
 
 ### Parte 7 — Escalation ed entrata di Pete
 
 | Cap. | Quando | Azione | Reazione attesa | Vincoli |
 |---|---|---|---|---|
-| 19 — L'impazienza di Emma | Giorni seguenti | Allarga la ricerca ad altri casi anomali: nessuno chiaramente volontario come il TV Voss | **Il tell**: metodo ineccepibile usato per gestire l'attesa, non per risolvere un problema | Aumenta la tensione senza avanzare |
-| 20 — Le 23:34 di venerdì | **Venerdì 23:34** | Scrive di getto: ha letto della morte, ha notato il TV nella foto, chiede se la donna si sentisse minacciata | **Prima rottura della disciplina oraria**: vero cedimento emotivo, costoso, mai calcolo freddo. Al lettore arriva come ansia, quasi avventatezza | Punto di non ritorno della sua compostezza |
-| 21 — La notifica ignorata | Notte, poi mattina | Tom si sveglia, vede "New email from Emm…" sul pc in cucina e **non la apre** | **La paura istituzionale pesa quanto la curiosità**: rimanda al turno dopo | Coerente con la sua paura concreta di Pete |
-| 22 — Ritratto del supervisore | **23:59** | Il telefono di lavoro di Pete vibra: alert per mail fuori orario ricevuta da un suo sottoposto | 🔒 Non può leggere il contenuto (mittente non sotto la sua giurisdizione) ma **leggerà il thread quando Tom risponderà**. Si attiva subito e concretamente: non minaccia a vuoto | Primo capitolo POV Pete: patetico e banale, **mai mitizzato** |
+| 18 — L'impazienza di Emma | Giorni seguenti | Allarga la ricerca ad altri casi anomali: nessuno chiaramente volontario come il TV Voss | **Il tell**: metodo ineccepibile usato per gestire l'attesa, non per risolvere un problema | Aumenta la tensione senza avanzare |
+| 19 — Le 23:34 di venerdì | **Venerdì 23:34** | Scrive di getto: ha letto della morte, ha notato il TV nella foto, chiede se la donna si sentisse minacciata | **Prima rottura della disciplina oraria**: vero cedimento emotivo, costoso, mai calcolo freddo. Al lettore arriva come ansia, quasi avventatezza | Punto di non ritorno della sua compostezza |
+| 20 — La notifica ignorata | Notte, poi mattina | Tom si sveglia, vede "New email from Emm…" sul pc in cucina e **non la apre** | **La paura istituzionale pesa quanto la curiosità**: rimanda al turno dopo | Coerente con la sua paura concreta di Pete |
+| 21 — Ritratto del supervisore | **23:59** | Il telefono di lavoro di Pete vibra: alert per mail fuori orario ricevuta da un suo sottoposto | 🔒 Non può leggere il contenuto (mittente non sotto la sua giurisdizione) ma **leggerà il thread quando Tom risponderà**. Si attiva subito e concretamente: non minaccia a vuoto | Primo capitolo POV Pete: patetico e banale, **mai mitizzato** |
 
 ### Parte 8 — Il meeting e la caccia (POV alternato scena per scena)
 
 | Cap. | Quando | Azione | Reazione attesa | Vincoli |
 |---|---|---|---|---|
-| 23 — La richiesta di meeting | Mattina | Emma legge la mail quasi vuota di Tom: «possiamo fissare un meeting in presenza?». In parallelo Pete intercetta il thread | **Emma è terrorizzata**: nessun meeting sincrono con un estraneo in 5+ anni. Accetta ma non in presenza: genera un **avatar** con lo stesso volto sintetico dei video eTv. Pete: curiosità da predatore, "chi è questa Emma?" | Copertura ufficiale di Emma: agorafobia. Tom ha scritto e riscritto la mail per restare inattaccabile |
-| 24 — L'invito accettato | Pomeriggio | Tom riceve un **invito in calendario**, non un messaggio: «Sentiamoci oggi pomeriggio, all'inizio del turno» | Accetta senza rispondere nulla e torna alla lista riparazioni: **evita l'attrito, non lo affronta** | Capitolo breve, pausa di respiro |
-| 25 — Il meeting (parte 1) | Prima delle 15:00 | Pete fantastica la sanzione da ispettore (interdizione + 30% per 3 mesi), attiva la trascrizione automatica e verifica la CCTV | 🔒 **Sa di non poterla infliggere**: il suo tetto è 60 minuti (Tabella di Conversione). Accumula infrazioni in attesa della soglia. Accesso CCTV solo a screenshot | La fantasia è da cortile scolastico, la sanzione è burocratica |
-| 25 — Il meeting (parte 2) | **15:00:01** | Emma entra puntuale con l'avatar. Tom saluta per primo: «Ciao Emma, come stai?» | Emma: **si blocca, poi si lancia in un fiume di parole** senza lasciare spazio, fino a «Puoi aiutarmi, collega?». Tom: colpito dalla bellezza e da una **familiarità che non sa spiegarsi** | Due indizi visivi distinti: qui il **vecchio logo** nello sfondo (liquidato come "errore da matita rossa"); il piede a sei dita è riservato a un **secondo** meeting |
-| 25 — Il meeting (parte 3) | Durante la call | Tom rivela di essere risalito al video e a chi lo ha prodotto, e di aver registrato altri casi analoghi | Emma: sta per ottenere risposte quando **un rumore di CCTV** interrompe tutto. Tom **chiude bruscamente** e sposta l'incontro in mensa | Tom evita lo scontro, aggira l'ostacolo. In 12 anni non ha mai messo piede in mensa |
-| 26 — Inizia la caccia | Subito dopo | Pete scatta lo screenshot del meeting e osserva il volto di Emma | «Non so chi sia, non l'ho mai vista in azienda, questa.» → «Inizia la caccia. Verrò a prenderti molto presto…» | ⏳ Il glitch a sei dita **non va notato qui**: sarà lui a riesaminare questo screenshot più avanti |
+| 22 — La richiesta di meeting | Mattina | Emma legge la mail quasi vuota di Tom: «possiamo fissare un meeting in presenza?». In parallelo Pete intercetta il thread | **Emma è terrorizzata**: nessun meeting sincrono con un estraneo in 5+ anni. Accetta ma non in presenza: genera un **avatar** con lo stesso volto sintetico dei video eTv. Pete: curiosità da predatore, "chi è questa Emma?" | Copertura ufficiale di Emma: agorafobia. Tom ha scritto e riscritto la mail per restare inattaccabile |
+| 23 — L'invito accettato | Pomeriggio | Tom riceve un **invito in calendario**, non un messaggio: «Sentiamoci oggi pomeriggio, all'inizio del turno» | Accetta senza rispondere nulla e torna alla lista riparazioni: **evita l'attrito, non lo affronta** | Capitolo breve, pausa di respiro |
+| 24 — Il meeting (parte 1) | Prima delle 15:00 | Pete fantastica la sanzione da ispettore (interdizione + 30% per 3 mesi), attiva la trascrizione automatica e verifica la CCTV | 🔒 **Sa di non poterla infliggere**: il suo tetto è 60 minuti (Tabella di Conversione). Accumula infrazioni in attesa della soglia. Accesso CCTV solo a screenshot | La fantasia è da cortile scolastico, la sanzione è burocratica |
+| 24 — Il meeting (parte 2) | **15:00:01** | Emma entra puntuale con l'avatar. Tom saluta per primo: «Ciao Emma, come stai?» | Emma: **si blocca, poi si lancia in un fiume di parole** senza lasciare spazio, fino a «Puoi aiutarmi, collega?». Tom: colpito dalla bellezza e da una **familiarità che non sa spiegarsi** | Due indizi visivi distinti: qui il **vecchio logo** nello sfondo (liquidato come "errore da matita rossa"); il piede a sei dita è riservato a un **secondo** meeting |
+| 24 — Il meeting (parte 3) | Durante la call | Tom rivela di essere risalito al video e a chi lo ha prodotto, e di aver registrato altri casi analoghi | Emma: sta per ottenere risposte quando **un rumore di CCTV** interrompe tutto. Tom **chiude bruscamente** e sposta l'incontro in mensa | Tom evita lo scontro, aggira l'ostacolo. In 12 anni non ha mai messo piede in mensa |
+| 25 — Inizia la caccia | Subito dopo | Pete scatta lo screenshot del meeting e osserva il volto di Emma | «Non so chi sia, non l'ho mai vista in azienda, questa.» → «Inizia la caccia. Verrò a prenderti molto presto…» | ⏳ Il glitch a sei dita **non va notato qui**: sarà lui a riesaminare questo screenshot più avanti |
 
 ---
 
@@ -436,8 +435,8 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 | Ricerca nell'archivio artefatti di Tom | Cap. 9 | Tom | 🔒 Solo un ispettore interno potrebbe correlarla trasversalmente: per questo l'anomalia è invisibile da 5 anni |
 | elab@meridian.com | Cap. 9 | Tom, Emma, (il fondatore, che l'ha dimenticata) | Canale attivo del contatto |
 | Archivio parallelo di Emma | Cap. 11 | solo Emma | ~100 casi in 12 mesi; il caso Voss era già dentro, senza nome del tecnico |
-| Vecchio logo nello sfondo virtuale | ⏳ cap. 23-26 | Tom e Pete lo noteranno | Liquidato da entrambi |
-| Glitch a sei dita nell'avatar | ⏳ secondo meeting | Pete (più avanti) | **Non va bruciato al cap. 26** |
+| Vecchio logo nello sfondo virtuale | ⏳ cap. 22-25 | Tom e Pete lo noteranno | Liquidato da entrambi |
+| Glitch a sei dita nell'avatar | ⏳ secondo meeting | Pete (più avanti) | **Non va bruciato al cap. 25** |
 | eWatch della signora | ❓ non ancora in scena | nessuno, per ora | Promessa aperta: è così che il TV ha "previsto" l'infarto |
 
 ---
@@ -446,7 +445,7 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 
 | Regola | Effetto narrativo |
 |---|---|
-| Divieto di lavoro/mail fuori orario | Genera gli alert automatici ai supervisori: è il meccanismo che accende Pete al cap. 22 |
+| Divieto di lavoro/mail fuori orario | Genera gli alert automatici ai supervisori: è il meccanismo che accende Pete al cap. 21 |
 | Supervisore: legge il contenuto solo se il mittente è sotto la sua giurisdizione | Pete non può leggere Emma, ma legge **tutto il thread** quando Tom risponde |
 | Supervisore: tetto sanzionatorio 60 minuti | Può solo accumulare fino alla soglia che giustifica l'intervento ispettivo |
 | Supervisore: CCTV solo a screenshot periodici | Il rumore della telecamera interrompe il meeting; il video completo resta fuori portata |
@@ -469,13 +468,13 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 | **10.3** | ✅ **Risolta** (2026-09-17) | `book-memory.md` chiamava il cap. 12 "giorno 9"; la catena interna dà `G24` | Numerazione corretta e **ancora cronologica registrata come claim attivo** in `book-memory.md`, così i capitoli nuovi la ereditano |
 | **10.4** | ✅ **Risolta** (2026-09-17) | Cap. 1-2 su turno pomeridiano (fattore 2,5), cap. 4-12 su turno mattutino, senza che il testo lo dichiarasse | Rotazione **trimestrale** dichiarata nel cap. 3. Il pomeriggio del cap. 1 diventa sfortuna retroattiva: è il turno che moltiplica per 2,5 |
 | **10.3b** | ✅ **Risolta** (2026-09-17) | `outline.md` cap. 4 diceva "numero nascosto", contro il testo e `tom.md` (chiama a numero visibile, ed è così che riceve il video) | Outline allineato. Corretti anche "views basse" (il canale ne ha molte, ed è su questo che poggia la deduzione del cap. 8), il titolo del video e il criterio dell'archivio del cap. 3 |
-| **10.3c** | ✅ **Risolta** (2026-09-17) | `book-memory.md` dava per "riservato dopo il cap. 26" che il fondatore sia co-fondatore di Meridian, ma il cap. 10 lo dice già in chiaro | Registrato ciò che è davvero in scena. **Resta riservato il ruolo di CEO**: è quello il dettaglio esplosivo per l'arco della caccia |
-| **10.5** | ❓ Da fissare | **Quando esattamente** Tom invia la mail-bluff. Se la inviasse da casa, scatterebbe l'alert fuori orario e Pete sarebbe già attivo al cap. 10 — cosa che contraddice il cap. 22 | Fissare: inviata **a fine turno di `G21`, dall'azienda**. Scriverlo in `book-memory.md` come claim attivo |
-| **10.6** | ❓ Da mostrare | La risposta di Emma (fine cap. 10) non è mai stata mostrata né letta da Tom in scena | Va letta da Tom (regola POV 🎭): il posto naturale è un flashback breve nel cap. 16, quando decide di fidarsi |
-| **10.7** | ❓ Promessa aperta | L'**eWatch** come spiegazione di come il TV sapesse del rischio è promesso "dopo il cap. 6" e non è ancora arrivato | Collocarlo nel cap. 16 o 17, quando Tom ricostruisce il caso per Emma: è il momento in cui la domanda torna naturale |
+| **10.3c** | ✅ **Risolta** (2026-09-17) | `book-memory.md` dava per "riservato dopo il cap. 25" che il fondatore sia co-fondatore di Meridian, ma il cap. 10 lo dice già in chiaro | Registrato ciò che è davvero in scena. **Resta riservato il ruolo di CEO**: è quello il dettaglio esplosivo per l'arco della caccia |
+| **10.5** | ❓ Da fissare | **Quando esattamente** Tom invia la mail-bluff. Se la inviasse da casa, scatterebbe l'alert fuori orario e Pete sarebbe già attivo al cap. 10 — cosa che contraddice il cap. 21 | Fissare: inviata **a fine turno di `G21`, dall'azienda**. Scriverlo in `book-memory.md` come claim attivo |
+| **10.6** | ❓ Da mostrare | La risposta di Emma (fine cap. 10) non è mai stata mostrata né letta da Tom in scena | Va letta da Tom (regola POV 🎭): il posto naturale è un flashback breve nel cap. 15, quando decide di fidarsi |
+| **10.7** | ❓ Promessa aperta | L'**eWatch** come spiegazione di come il TV sapesse del rischio è promesso "dopo il cap. 6" e non è ancora arrivato | Collocarlo nel cap. 15 o 17, quando Tom ricostruisce il caso per Emma: è il momento in cui la domanda torna naturale |
 | **10.8** | ❓ Personaggio | Il **fratello erede** compare solo nei registri, senza nome né voce | Lasciarlo così finché la trama non lo richiede (già annotato in `la-signora.md`) |
-| **10.9** | ❓ Struttura | L'alternanza POV serrata parte dal cap. 23: non è deciso se resti la regola fino alla fine | Decidere prima di scrivere il cap. 23 |
-| **10.10** | ⏳ Da non bruciare | Il glitch a sei dita nell'avatar di Emma | Riservato al **secondo** meeting, non al cap. 25/26. Al primo meeting solo il vecchio logo |
+| **10.9** | ❓ Struttura | L'alternanza POV serrata parte dal cap. 22: non è deciso se resti la regola fino alla fine | Decidere prima di scrivere il cap. 22 |
+| **10.10** | ⏳ Da non bruciare | Il glitch a sei dita nell'avatar di Emma | Riservato al **secondo** meeting, non al cap. 24/25. Al primo meeting solo il vecchio logo |
 
 ---
 
