@@ -1,8 +1,10 @@
 {
   "episode-01": {
-    "length": 12246799,
+    "length": 11659043,
+    "md5": "abfdbca52aeb",
     "pub": 1792738595,
-    "seconds": 1020
+    "rev": 1,
+    "seconds": 971
   },
   "episode-02": {
     "length": 6825976,
