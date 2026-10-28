@@ -86,10 +86,10 @@ Che Tom fosse un tecnico non era più in discussione. Che lo fosse e basta, non 
 |---|---|---|---|
 | Lunghezza del vecchio cap. 12 (~360 parole) | length | integrated (v5.0) | Fusione con il vecchio cap. 13 nel cap. 12 "Solo un tecnico" (2026-10-24). |
 | L'ipotesi "investigatore sulla morte" è incompatibile con la cronologia: Tom ha avuto il TV prima della morte, l'organigramma lo dà in Meridian da dodici anni | contradiction | integrated (v6.0) | Due ipotesi compatibili: (A) qualcuno che indaga ha usato l'account di Tom per tendere la trappola; (B) è Tom stesso a indagare, da tecnico, per conto suo o di qualcuno. |
-| La rassicurazione non segue dalle prove: il sito dimostra che Tom è reale con un hobby vero, non esclude A e rafforza B | logical | integrated (v6.0) | Titolo → "Solo un tecnico?", dubbio aperto. Emma decide solo che deve scoprire chi c'è dietro la mail. Scartata la variante "accetterà con gioia il meeting" (contraddice il terrore del cap. 23 e brucia il beat del cap. 14). |
+| La rassicurazione non segue dalle prove: il sito dimostra che Tom è reale con un hobby vero, non esclude A e rafforza B | logical | integrated (v6.0) | Titolo → "Solo un tecnico?", dubbio aperto. Emma decide solo che deve scoprire chi c'è dietro la mail. Scartata la variante "accetterà con gioia il meeting" (contraddice il terrore del cap. 22 e brucia il beat del cap. 14). |
 | Verifica senza le capacità di Emma; ricerca web "Tom + assistenza Meridian" regge solo su un'imprudenza di Tom incoerente con il profilo | foundation | integrated (v6.0) | Log di invio scartati in integrazione (accesso troppo privilegiato per una dipendente; le intestazioni non bastano): Emma confronta lo stile della mail con le note di Tom sulla lista dell'assistenza, stessa mano → esclusa l'ipotesi A, prima rassicurazione. Al sito arriva da organigramma → pagina profilo aziendale di Tom → link ai social (LinkedIn) → tra i progetti personali il giradischi. Il sito resta generico (nessun titolo di brano). |
 
-Idea emersa e annotata in `book-memory.md` → Idee da valutare: *Vacanze romane* come domanda-test da audiofilo nella mail di Emma (collocazione proposta: cap. 15, mail di scuse; payoff cap. 16).
+Idea emersa e annotata in `book-memory.md` → Idee da valutare: *Vacanze romane* come domanda-test da audiofilo nella mail di Emma (collocazione proposta: cap. 14, mail di scuse; payoff cap. 15).
 
 ### Revisione — 2026-10-24 (v6.2)
 

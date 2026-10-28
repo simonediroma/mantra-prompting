@@ -40,13 +40,13 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| Due abitudini diverse dichiarate entrambe come la prima cosa di ogni mattina: la pipeline di scraping ("ogni mattina, prima di qualunque altra cosa", cap. 10) e il controllo della casella ("come ogni mattina, la prima cosa che fece", cap. 11). | contradiction | integrated (v2.0) | Non corretta come svista ma trasformata in deviazione: quel giorno la casella scavalca il processo del mattino ("Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio"). La disciplina del cap. 10 resta intatta e diventa il metro con cui misurare lo scarto. È il primo cedimento visibile di Emma, dieci capitoli prima della mail delle 23:34 (cap. 20), registrato dal narratore senza commento: mostrare i parallelismi, non spiegarli. |
+| Due abitudini diverse dichiarate entrambe come la prima cosa di ogni mattina: la pipeline di scraping ("ogni mattina, prima di qualunque altra cosa", cap. 10) e il controllo della casella ("come ogni mattina, la prima cosa che fece", cap. 11). | contradiction | integrated (v2.0) | Non corretta come svista ma trasformata in deviazione: quel giorno la casella scavalca il processo del mattino ("Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio"). La disciplina del cap. 10 resta intatta e diventa il metro con cui misurare lo scarto. È il primo cedimento visibile di Emma, dieci capitoli prima della mail delle 23:34 (cap. 19), registrato dal narratore senza commento: mostrare i parallelismi, non spiegarli. |
 
 ### Cycle 2 — 2026-10-10 (revisione cross-capitolo esterna)
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| R-110 La risposta di Emma a Tom non viene mai mostrata | missing scene | deferred | Rinviata al cap. 16: Tom la legge in un breve flashback (regola POV, `mappa-eventi.md` punto 10.6). |
+| R-110 La risposta di Emma a Tom non viene mai mostrata | missing scene | deferred | Rinviata al cap. 15: Tom la legge in un breve flashback (regola POV, `mappa-eventi.md` punto 10.6). |
 | R-111 Correlazione traffico eBlog (smoothie) / chiamata per il frigorifero: anticipo del cap. 13? | rule (early reveal) | integrated (v2.0) | Conforme: Emma annota il dato senza dedurre; il payoff del cap. 13 resta intatto. Indizio per il lettore attento. |
 | R-112 Narratore esplicativo ("Ad un occhio superficiale… soggetti meno affidabili") | rule violation | integrated (v2.0) | Paragrafo sostituito da un gesto: la colonna "con chip / senza" nell'archivio, "Le due curve non si somigliavano." |
 | R-113 "non è detto che dovesse coincidere" | grammar | integrated (v2.0) | → "non era detto che coincidesse". |
