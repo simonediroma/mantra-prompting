@@ -1,7 +1,7 @@
 # Session: chapter — chapters/14-la-fiducia-di-tom.md
 
 > Created: 2026-10-28
-> Last updated: 2026-10-28
+> Last updated: 2026-10-29
 > Status: open
 
 ## Macro
@@ -11,10 +11,10 @@ chapter
 chapters/14-la-fiducia-di-tom.md
 
 ## Current step
-ask-before-writing
+write
 
 ## Steps completed
-- [ ] ask-before-writing
+- [x] ask-before-writing
 - [ ] write
 - [ ] demolish
 - [ ] integrate
@@ -32,3 +32,7 @@ ask-before-writing
 - Punto 10.7 (autore): l'eWatch resta un dettaglio di scena (vibra con la notifica, cronometra l'intervento). La spiegazione del ponte biometrico va più avanti.
 - Fase 5 (autore, su proposta): chiusura in tre tempi. (1) In pausa pranzo (vuota per il digiuno) Tom ha la risposta in testa ma non la scrive: lavorare in pausa è mal visto. (2) Calcolo su Pete: finita la pausa e con il banco ancora vuoto (il nastro non ha portato il prossimo pezzo) nessuno può dirgli nulla. Regole Meridian come scudo, specchio di Emma a fine cap. 13 (lui per proteggersi, lei per coprire i sentimenti). (3) Ultima immagine: banco vuoto, eWatch segna la fine della pausa, invio; pochi secondi dopo il nastro porta il prossimo apparecchio, Tom si gira verso il banco come se niente fosse. Testo della risposta non mostrato (regola POV). Scartata la variante sospesa prima dell'invio.
 - Fase 5 (autore, correzione): Tom PREPARA la mail durante la pausa pranzo, ma la MANDA appena sente il nastro mettersi in moto (non prima, a banco vuoto). Ultima immagine: il rumore del nastro → invio → arriva il prossimo apparecchio, Tom si gira verso il banco.
+- Testo della mail di Emma (autore, approvato 2026-10-29; Emma in modalità "io ti aiuto"):
+  *"Ciao Tom, ti scrivo per scusarmi. La mia risposta dell'altro giorno era più brusca del necessario. A questo indirizzo non scrive nessuno da anni e mi hai colta alla sprovvista. Ho riletto la tua mail con più calma e credo di aver frainteso il motivo per cui mi hai scritto. Se posso aiutarti, lo faccio volentieri, e qualsiasi cosa potrò dirti te la dirò. Però ho bisogno di qualche indizio in più per capire di cosa stiamo parlando. Di che apparecchio si trattava? Che guasto aveva? E sai se poi è tornato al cliente? Grazie, e scusami ancora. Emma"*
+  Trappola: "al cliente" al maschile (finge di non sapere che era una donna).
+- Riepilogo confermato dall'autore (2026-10-29). ask-before-writing completato.
