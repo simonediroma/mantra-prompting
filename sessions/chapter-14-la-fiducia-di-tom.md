@@ -37,3 +37,4 @@ demolish
   Trappola: "al cliente" al maschile (finge di non sapere che era una donna).
 - Riepilogo confermato dall'autore (2026-10-29). ask-before-writing completato.
 - 2026-10-29: bozza v1.0 scritta (~1650 parole). Da verificare con l'autore: testo della prima risposta di Emma (proposto, al lei); Tom omette la morte della signora ("non era un dato tecnico"), ed Emma potrà leggerlo come omissione.
+- 2026-10-29 (autore): Tom DICE a Emma della morte della signora: è la risposta onesta alla domanda "è tornato al cliente?" e Tom deve darle qualcosa. Il test di Emma (cap. 13) dà esito "verità". Cap. 16 regge: la 23:34 resta la prima volta che è Emma a nominare la morte. Testo della prima risposta di Emma (al lei): non contestato.
