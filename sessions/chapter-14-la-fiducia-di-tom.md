@@ -11,11 +11,11 @@ chapter
 chapters/14-la-fiducia-di-tom.md
 
 ## Current step
-write
+demolish
 
 ## Steps completed
 - [x] ask-before-writing
-- [ ] write
+- [x] write
 - [ ] demolish
 - [ ] integrate
 
@@ -36,3 +36,4 @@ write
   *"Ciao Tom, ti scrivo per scusarmi. La mia risposta dell'altro giorno era più brusca del necessario. A questo indirizzo non scrive nessuno da anni e mi hai colta alla sprovvista. Ho riletto la tua mail con più calma e credo di aver frainteso il motivo per cui mi hai scritto. Se posso aiutarti, lo faccio volentieri, e qualsiasi cosa potrò dirti te la dirò. Però ho bisogno di qualche indizio in più per capire di cosa stiamo parlando. Di che apparecchio si trattava? Che guasto aveva? E sai se poi è tornato al cliente? Grazie, e scusami ancora. Emma"*
   Trappola: "al cliente" al maschile (finge di non sapere che era una donna).
 - Riepilogo confermato dall'autore (2026-10-29). ask-before-writing completato.
+- 2026-10-29: bozza v1.0 scritta (~1650 parole). Da verificare con l'autore: testo della prima risposta di Emma (proposto, al lei); Tom omette la morte della signora ("non era un dato tecnico"), ed Emma potrà leggerlo come omissione.

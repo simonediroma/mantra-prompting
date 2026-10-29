@@ -198,7 +198,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Beat chiave**: primo vero atto di fiducia di Tom verso Emma, motore emotivo del secondo atto. Ironia drammatica: il lettore sa che Emma conosce già le risposte.
 **Collegamento al precedente**: risposta diretta alla mail decisa alla fine del cap. 13.
 **Collegamento al successivo**: i giorni di attesa e la mail delle 8:00:01.
-**Stato**: `to-write`
+**Stato**: `draft`
 **File**: `chapters/14-la-fiducia-di-tom.md`
 
 ---
