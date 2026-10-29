@@ -12,4 +12,4 @@ Non se l'era aspettato. Non si era aspettato nemmeno quello che sentì subito do
 
 ## Chiusura
 
-Il pezzo successivo arrivò sul banco qualche secondo dopo, un tostapane con la leva bloccata in basso e una fetta di pane carbonizzata ancora dentro. Tom girò lo sgabello, aprì la scheda e gli chiese, per abitudine, se avesse qualcosa da dirgli.
+Alla fine di ogni turno controllava la casella un'ultima volta, già in piedi, con il giubbotto addosso. Non c'era niente. Chiudeva la casella, poi la porta del laboratorio, a doppia mandata.
