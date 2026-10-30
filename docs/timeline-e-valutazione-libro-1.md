@@ -49,7 +49,7 @@
 | Cap. | Quando | POV | Eventi salienti |
 |---|---|---|---|
 | 10 Il bluff | `G22` | Emma | Prima apparizione: lo strumento di scraping dei trend (siparietto *Ciao Darwin*), Elab, il fondatore e i suoi indovinelli. Arriva la mail di Tom: la bugia sui log è impossibile. Le viene addosso qualcosa di simile alla paura, il tono le si raffredda da solo. Risponde alle 16:59 (testo non mostrato). |
-| 11 La routine di Emma | `G23`, 8-17 | Emma | Giornata tipo: produzione per eTv/eBlog/eDj/eStories. A mezzogiorno la visita del fondatore (v4.0): indovinello ripetuto con sinonimi, "il nostro mantra", Emma sbaglia apposta, gli mente sulla casella, lui archivia il foglio. Pomeriggio: archivio dei dispositivi "che smettono di obbedire" (il frigorifero dello smoothie), colonna con chip / senza chip: quelli con chip crescono. Tom non risponde. |
+| 11 La routine di Emma | `G23`, 8-17 | Emma | Giornata tipo: produzione per eTv/eBlog/eDj/eStories. A mezzogiorno la visita del fondatore (v4.0): indovinello ripetuto con sinonimi, "il nostro mantra", Emma sbaglia apposta, non gli dice della mail di Tom, lui archivia il foglio. Pomeriggio: archivio dei dispositivi "che smettono di obbedire" (il frigorifero dello smoothie), colonna con chip / senza chip: quelli con chip crescono. Tom non risponde. |
 
 ### Parte 5 — Emma indaga
 

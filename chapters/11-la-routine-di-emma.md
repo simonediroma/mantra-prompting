@@ -1,7 +1,7 @@
 ---
 title: La routine di Emma
 version: 4.0
-claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore: lo stesso indovinello di ogni visita, detto con parole nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei "il nostro mantra" non funzioni. Gli mente sulla casella di Elab, poi lo guarda stampare il foglio e archiviarlo.
+claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore: lo stesso indovinello di ogni visita, detto con parole nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei "il nostro mantra" non funzioni. Non gli dice della mail di Tom, su una casella che lui ha dimenticato; poi lo guarda stampare il foglio e archiviarlo.
 status: complete
 revised: 2026-10-30
 ---
@@ -40,9 +40,7 @@ Emma lasciò che la risposta le uscisse un po' storta, come a un'allieva che a f
 
 Lui rise piano, una risata senza delusione. Era lo stesso indovinello di ogni visita, detto ogni volta con parole nuove, come se cambiando le parole la domanda dovesse restare una sola e la risposta pure. Emma quel gioco lo conosceva meglio di quanto lui potesse immaginare. Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo. Per questo non gli dava mai due volte la stessa risposta. Lui doveva vederla sbagliare, ogni tanto. Doveva andarsene convinto che con lei non funzionasse.
 
-«Prima o poi il nostro mantra ti entrerà in testa» disse alzandosi. Sulla porta si voltò, come faceva sempre. Le chiese se a Elab avesse scritto qualcuno. Ormai era una battuta, la stessa da anni.
-
-«Solo newsletter» rispose Emma. Non gli aveva mai mentito su una cosa così piccola.
+«Prima o poi il nostro mantra ti entrerà in testa» disse alzandosi. Emma pensò alla casella di Elab, a una mail rimasta senza risposta in un indirizzo che lui aveva smesso di ricordare da anni. Non gliene parlò.
 
 Prima di uscire si fermò alla stampante nell'angolo. Emma registrò il ronzio, il foglio che usciva ancora caldo, lui che lo rileggeva sorridendo. C'erano le tre frasi dell'indovinello e, sotto, le sue tre risposte. Lo infilò in un raccoglitore, sullo scaffale dove ne teneva decine, tutti uguali, con l'etichetta scritta a mano. Non le disse a cosa servissero. Non lo diceva mai. Poi spense la luce, come se nella stanza non restasse nessuno.
 
@@ -101,4 +99,4 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| Capitolo d'attesa senza una scena (lista di compiti, R-114; `docs/timeline-e-valutazione-libro-1.md`) | structure / pacing | integrated | Aggiunta la visita del fondatore a mezzogiorno, tra il controllo della casella prima di pranzo e il pomeriggio. Emma vive in un terminale nella stanza del fondatore (telecamera, microfono), resa con verbi ambigui (sentì, mise a fuoco, registrò). Indovinello per bambini ripetuto con sinonimi ("Più è grande, meno si vede" / "…cresce, meno si scorge" / "…si allarga, meno si distingue"); Emma risponde buio, oscurità, nebbia: sbaglia apposta. Mantra prompting mostrato e nominato una volta ("il nostro mantra"), senza teoria (livello 2, autore). Prima bugia di Emma sul caso Tom ("Solo newsletter"). Seme dell'archivio fisico: il foglio stampato con domande e risposte finisce in un raccoglitore. |
+| Capitolo d'attesa senza una scena (lista di compiti, R-114; `docs/timeline-e-valutazione-libro-1.md`) | structure / pacing | integrated | Aggiunta la visita del fondatore a mezzogiorno, tra il controllo della casella prima di pranzo e il pomeriggio. Emma vive in un terminale nella stanza del fondatore (telecamera, microfono), resa con verbi ambigui (sentì, mise a fuoco, registrò). Indovinello per bambini ripetuto con sinonimi ("Più è grande, meno si vede" / "…cresce, meno si scorge" / "…si allarga, meno si distingue"); Emma risponde buio, oscurità, nebbia: sbaglia apposta. Mantra prompting mostrato e nominato una volta ("il nostro mantra"), senza teoria (livello 2, autore). Emma pensa alla mail di Tom e non gliene parla: il fondatore la crede offline e ha dimenticato la casella di Elab (correzione autore, scartata la domanda sulla posta). Seme dell'archivio fisico: il foglio stampato con domande e risposte finisce in un raccoglitore. |
