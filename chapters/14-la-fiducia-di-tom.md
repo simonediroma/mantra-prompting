@@ -50,3 +50,17 @@ Le domande gli venivano nei momenti meno adatti, con un cacciavite in mano o con
 Lavorava. Lavorava con una cura che i suoi colleghi, se si fossero mai presi la briga di guardare, avrebbero trovato commovente. Pete aveva già trovato una volta il modo di trasformare un televisore in quarantasette minuti di stipendio. Tom non aveva nessuna intenzione di dargli un altro motivo proprio adesso. Rimise i suoi quarantasette secondi al loro posto, intervento dopo intervento, come chi raddrizza un quadro che nessun altro ha notato storto. Il margine tornò preciso fino al secondo. La testa no.
 
 Alla fine di ogni turno controllava la casella un'ultima volta, già in piedi, con il giubbotto addosso. Non c'era niente. Chiudeva la casella, poi la porta del laboratorio, a doppia mandata.
+
+## Demolition Log
+
+### Cycle 1 — 2026-10-30
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Tom interroga ogni apparecchio (sei verifiche nel capitolo) ma non mette alla prova la mail di Emma: fiducia come comodità d'autore | logical | resolved | Al momento della scrittura Tom ragiona: da "adesso le faccio io le domande" a "mi conviene essere accondiscendente", perché se la interroga lei si richiude e lui non saprà mai cosa sa e cosa sono i video (progetto Meridian o cosa sua). |
+| Emma tace per giorni dopo una risposta vera che aspettava con impazienza (cap. 11, 13): silenzio senza ragione | contradiction | resolved | Opzione A: coda compressa nel pomeriggio e nella notte di G24, mail delle 8:00:01 la mattina dopo (G25). Il chiodo fisso è il primo segnale, lasco, dell'invaghimento. |
+| Telefonata: §12 "niente di male" vs §16 esitazione vs §8 paura del server | contradiction | resolved | Errore: Tom non scrive della telefonata, per non finire nel mirino del supervisore. La domanda delle 8:00:01 si appoggia sulla scheda ("si rifiuta di accendersi"); il thread per Pete resta una riparazione banale. |
+| La coda ripete le domande già risolte al momento della scrittura e manca del segnale nuovo | structure / redundancy | resolved | La coda è solo la sensazione di doverla conoscere; via §20 (domande) e §21 (lavoro, Pete, 47 secondi). |
+| "Da più di tre settimane" per "la cosa più strana": il mistero di Tom parte dal primo contatto | timeline | resolved | "Da più di tre mesi", dalla prima volta. |
+| §4 "La lesse tutta d'un fiato." paragrafo-lampo | style (pattern) | resolved | Da assorbire nel paragrafo circostante in integrazione. |
+| R-110 (cap. 11, deferred): la prima risposta di Emma mai mostrata | foundation | resolved | Letta da Tom in flashback ai §6-7 (al lei, smonta il bluff dei log). |

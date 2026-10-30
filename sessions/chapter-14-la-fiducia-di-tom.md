@@ -11,12 +11,12 @@ chapter
 chapters/14-la-fiducia-di-tom.md
 
 ## Current step
-demolish
+integrate
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
-- [ ] demolish
+- [x] demolish
 - [ ] integrate
 
 ## Notes
@@ -43,3 +43,5 @@ demolish
 - Critica 2 (silenzio di Emma per giorni senza ragione, incoerente con la sua impazienza) → risolta (autore, opzione A): la coda si comprime nel pomeriggio e nella notte di G24; la mail delle 8:00:01 arriva la mattina dopo (G25), al primo secondo utile. Il chiodo fisso diventa il primo segnale dell'invaghimento: lasco, solo accennato, quasi una sensazione di doverla conoscere e di sapere cosa sa lei. Verrà esplicitato più avanti. Da aggiornare: tom.md (primo segnale prima del meeting), outline cap. 14-15, mappa eventi (G25).
 - Critica 3 (§12 "niente di male a chiamare una cliente" vs §16 esitazione vs §8 paura del server) → risolta (autore): errore. Tom vorrebbe dirle della telefonata ma non può, per non finire nel mirino del supervisore. La telefonata resta fuori, con Morse, quaderno e video (togliere §12 e l'esitazione del §16). Conseguenze: (a) la domanda delle 8:00:01 (cap. 15) si appoggia solo sulla scheda: la frase della signora "si rifiuta di accendersi" (consegna in negozio, Tom non l'ha mai vista al banco); Emma chiede se la cliente intendesse quel "si rifiuta" alla lettera. (b) Cap. 18: il thread letto da Pete è davvero una riparazione banale. (c) Contesto §17 "di aver sentito la cliente al telefono": superato.
 - Critica 4 (la coda §19-21 ripete le domande già risolte nel ragionamento al momento della scrittura e non contiene il segnale dell'invaghimento) → risolta (autore): la coda è solo la sensazione di doverla conoscere. Vanno via le domande logiche del §20 e il paragrafo su lavoro/Pete/47 secondi del §21.
+- Critica 5 ("da più di tre settimane") → risolta: "da più di tre mesi", dalla prima volta.
+- 2026-10-30: demolizione ciclo 1 chiusa (7 issue risolte, incl. R-110 e §4 paragrafo-lampo). Prossimo: integrate.
