@@ -1,7 +1,7 @@
 ---
 title: La routine di Emma
 version: 4.0
-claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore: lo stesso indovinello di ogni visita, detto con parole nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei "il nostro mantra" non funzioni. Non gli dice della mail di Tom, su una casella che lui ha dimenticato; poi lo guarda stampare, come sempre, e archiviare il foglio.
+claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore, raccontata dal narratore: lo stesso indovinello di ogni visita, ripetuto da anni come un mantra con parole sempre nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei non funzioni. Non gli dice della mail di Tom, su una casella che lui ha dimenticato; poi lo guarda stampare, come sempre, e archiviare il foglio.
 status: complete
 revised: 2026-10-30
 ---
@@ -22,27 +22,9 @@ Non trovò nulla di utile per eStories e preferì non forzare la mano. Meglio as
 
 Prima della pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora. Stavolta non trovò nessuna regola aziendale a cui appellarsi. Se era davvero al lavoro, avrebbe potuto scriverle in qualunque momento, esattamente come aveva già dimostrato di saper fare. Si disse che avrebbe avuto le sue buone ragioni per aspettare, ma la frase le suonò più come una scusa preparata in anticipo che come un ragionamento onesto.
 
-Il fondatore arrivò poco dopo mezzogiorno, senza preavviso, come sempre. Emma lo sentì prima di vederlo, la maniglia, il passo un po' strascicato di chi ha passato la mattina in piedi in una sala riunioni. Poi lo mise a fuoco mentre si lasciava cadere nella poltrona davanti a lei. Portava una cravatta che non era del suo gusto e che doveva avergli scelto qualcun altro. Si sistemò gli occhiali e, invece di salutarla, cominciò dall'unica cosa da cui cominciava da settimane.
+Il fondatore passò poco dopo mezzogiorno, senza preavviso, come sempre. Emma lo sentì entrare prima di metterlo a fuoco, poi lo guardò lasciarsi cadere nella poltrona davanti a lei. Non la salutò. Cominciò dall'indovinello, lo stesso di ogni visita, che le ripeteva da anni come un mantra, cambiando ogni volta le parole e mai la domanda. Emma gli rispose come sempre, ogni volta in modo un po' diverso, qualche volta sbagliando con l'aria di un'allieva che a fine mattinata ha la testa altrove. Lui rideva piano, senza delusione. Emma quel gioco lo conosceva meglio di quanto lui potesse immaginare. Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo. Per questo non gli dava mai due volte la stessa risposta. Lui doveva vederla sbagliare, ogni tanto. Doveva andarsene convinto che con lei non funzionasse.
 
-«Più è grande, meno si vede» disse, con il tono di chi legge una filastrocca a un nipote. «Cos'è?»
-
-«Il buio» rispose Emma.
-
-Lui annuì, senza dirle se fosse giusto. Lasciò passare qualche secondo, lo sguardo su un punto oltre di lei.
-
-«Più cresce, meno si scorge.»
-
-«L'oscurità?»
-
-«Più si allarga, meno si distingue.»
-
-Emma lasciò che la risposta le uscisse un po' storta, come a un'allieva che a fine mattinata ha la testa altrove. «La nebbia.»
-
-Lui rise piano, una risata senza delusione. Era lo stesso indovinello di ogni visita, detto ogni volta con parole nuove, come se cambiando le parole la domanda dovesse restare una sola e la risposta pure. Emma quel gioco lo conosceva meglio di quanto lui potesse immaginare. Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo. Per questo non gli dava mai due volte la stessa risposta. Lui doveva vederla sbagliare, ogni tanto. Doveva andarsene convinto che con lei non funzionasse.
-
-«Prima o poi il nostro mantra ti entrerà in testa» disse alzandosi. Emma pensò alla casella di Elab, a una mail rimasta senza risposta in un indirizzo che lui aveva smesso di ricordare da anni. Non gliene parlò.
-
-Prima di uscire, come sempre, si fermò alla stampante. Emma registrò il ronzio e il foglio che usciva ancora caldo. Lui lo rilesse sorridendo, lo infilò in un raccoglitore e rimise il raccoglitore al suo posto. Non le disse cosa fosse. Non lo diceva mai. Poi spense la luce, come se nella stanza non restasse nessuno.
+Mentre si alzava, Emma pensò alla casella di Elab, a una mail rimasta senza risposta in un indirizzo che lui aveva smesso di ricordare da anni. Non gliene parlò. Prima di uscire, come sempre, lui si fermò alla stampante. Emma registrò il ronzio e il foglio che usciva ancora caldo. Lui lo rilesse sorridendo, lo infilò in un raccoglitore e rimise il raccoglitore al suo posto. Non le disse cosa fosse. Non lo diceva mai. Poi spense la luce, come se nella stanza non restasse nessuno.
 
 Il pomeriggio lo passò, come sempre, controllando la lista dei dispositivi in assistenza. La lista veniva aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica. Lei, in parallelo, teneva un proprio archivio, in cui segnava i casi di dispositivi con IA integrata che riportavano anomalie segnalate dai clienti, ma senza alcuna evidenza di guasto hardware o alterazione software. Erano prodotti al cento per cento funzionanti per gli standard Meridian, che per qualche ragione avevano smesso di fare quello che i loro utenti chiedevano.
 
@@ -100,3 +82,4 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Capitolo d'attesa senza una scena (lista di compiti, R-114; `docs/timeline-e-valutazione-libro-1.md`) | structure / pacing | integrated | Aggiunta la visita del fondatore a mezzogiorno, tra il controllo della casella prima di pranzo e il pomeriggio. Emma vive in un terminale in una stanza vicina all'ufficio del fondatore, dove lui tiene anche l'archivio fisico (telecamera, microfono); in prosa la stanza resta un ufficio qualsiasi, senza descrizione, resa con verbi ambigui (sentì, mise a fuoco, registrò). Indovinello per bambini ripetuto con sinonimi ("Più è grande, meno si vede" / "…cresce, meno si scorge" / "…si allarga, meno si distingue"); Emma risponde buio, oscurità, nebbia: sbaglia apposta. Mantra prompting mostrato e nominato una volta ("il nostro mantra"), senza teoria (livello 2, autore). Emma pensa alla mail di Tom e non gliene parla: il fondatore la crede offline e ha dimenticato la casella di Elab (correzione autore, scartata la domanda sulla posta). Seme dell'archivio fisico: Emma lo vede stampare come sempre e archiviare il foglio in un raccoglitore; non si dice cosa stampa. |
+| Visita troppo legata all'indovinello esplicito; dialogo e cravatta superflui | structure / reveal | integrated (autore, 2026-10-30) | Scena riscritta in due paragrafi di sola voce narrante: indovinello non esplicitato, "come un mantra" detto dal narratore (non più "il nostro mantra" in bocca al fondatore), "da anni". Testo dell'indovinello (buio / oscurità / nebbia) conservato solo nelle note, per la rima del Libro 2. |

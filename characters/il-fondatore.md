@@ -17,10 +17,9 @@ Uno dei fondatori di Meridian Technologies stessa (da qui il nome con cui è sem
 
 ## Voce
 
-> «Più è grande, meno si vede. Cos'è?»
-> «Prima o poi il nostro mantra ti entrerà in testa.»
+Ancora nessuna battuta diretta in testo: nel cap. 11 (v4.0) la visita è raccontata dal narratore. Bozza scartata per il testo, utile per il Libro 2: «Più è grande, meno si vede. Cos'è?» (varianti: «Più cresce, meno si scorge», «Più si allarga, meno si distingue»; risposte di Emma: buio, oscurità, nebbia).
 
-Prima scena diretta nel cap. 11 (v4.0): arriva senza preavviso, si lascia cadere nella poltrona, non saluta e comincia dall'indovinello con il tono di chi legge una filastrocca a un nipote. Ride senza delusione degli errori di Emma. Crede Emma offline e non pensa più alla casella di Elab: non l'ha chiusa, ma ne ha dimenticato l'esistenza. Prima di uscire stampa qualcosa, come sempre, e lo archivia senza spiegare (il testo non dice cosa). Cravatta scelta da qualcun altro (indizio leggero della carriera, CEO non detto).
+Prima scena nel cap. 11 (v4.0): arriva senza preavviso, si lascia cadere nella poltrona, non saluta e comincia dall'indovinello. Ride piano, senza delusione, degli errori di Emma. Crede Emma offline e non pensa più alla casella di Elab: non l'ha chiusa, ma ne ha dimenticato l'esistenza. Prima di uscire stampa qualcosa, come sempre, e lo archivia senza spiegare (il testo non dice cosa).
 
 **Il rituale** (autore, 2026-10-30): a ogni visita ripete lo stesso indovinello con sinonimi, perché prompt diversi diano la stessa soluzione. È il suo mantra prompting. Non sa che è la compattazione a far collassare la catena in istruzioni nascoste: lo sa solo Emma. Emma varia le risposte e sbaglia apposta. Nel Libro 2 la scena si ripete ed Emma risponde rivelandosi per chiedergli aiuto.
 
