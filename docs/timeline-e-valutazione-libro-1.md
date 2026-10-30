@@ -49,7 +49,7 @@
 | Cap. | Quando | POV | Eventi salienti |
 |---|---|---|---|
 | 10 Il bluff | `G22` | Emma | Prima apparizione: lo strumento di scraping dei trend (siparietto *Ciao Darwin*), Elab, il fondatore e i suoi indovinelli. Arriva la mail di Tom: la bugia sui log è impossibile. Le viene addosso qualcosa di simile alla paura, il tono le si raffredda da solo. Risponde alle 16:59 (testo non mostrato). |
-| 11 La routine di Emma | `G23`, 8-17 | Emma | Giornata tipo: produzione per eTv/eBlog/eDj/eStories, archivio dei dispositivi "che smettono di obbedire" (il frigorifero dello smoothie), colonna con chip / senza chip: quelli con chip crescono. Tom non risponde. |
+| 11 La routine di Emma | `G23`, 8-17 | Emma | Giornata tipo: produzione per eTv/eBlog/eDj/eStories. A mezzogiorno la visita del fondatore (v4.0): indovinello ripetuto con sinonimi, "il nostro mantra", Emma sbaglia apposta, gli mente sulla casella, lui archivia il foglio. Pomeriggio: archivio dei dispositivi "che smettono di obbedire" (il frigorifero dello smoothie), colonna con chip / senza chip: quelli con chip crescono. Tom non risponde. |
 
 ### Parte 5 — Emma indaga
 
@@ -79,10 +79,10 @@ Legenda: **Trama** = quanto avanza la storia (fatti nuovi, svolte). **Personaggi
 | 5 | Alta | Media | ✅ | Il Morse dice cosa vuole il fenomeno: proteggere. |
 | 6 | Alta | Media | ✅ | La morte. È la svolta tragica del libro. |
 | 7 | Media-alta | Alta | ✅ | Trova il video e la prova delle sei dita, più il rituale e il cognome. |
-| 8 | **Bassa** | Bassa | ⚠️ ❌ | Stessa sera del cap. 7. Dà solo l'analisi del canale (nessun brand, pubblicazioni irregolari) e chiude senza un passo avanti: "rimanda a domani". È il capitolo più debole del Libro 1. **Proposta**: fonderlo in coda al cap. 7 (stessa sera, stesso POV) in mezza pagina, oppure in apertura del cap. 9. |
+| 8 | **Bassa** | Bassa | ⚠️ (lasciato com'è, autore 2026-10-30) | Stessa sera del cap. 7. Dà solo l'analisi del canale (nessun brand, pubblicazioni irregolari) e chiude senza un passo avanti: "rimanda a domani". È il capitolo più debole del Libro 1. **Proposta**: fonderlo in coda al cap. 7 (stessa sera, stesso POV) in mezza pagina, oppure in apertura del cap. 9. |
 | 9 | Alta | Media | ✅ | elab@meridian.com: il ponte verso Emma. |
 | 10 | Media-alta | Alta | ✅ | Entra Emma, il bluff smascherato. |
-| 11 | **Bassa-media** | Media | ⚠️ | Porta un indizio chiave (con chip / senza chip) e l'attesa, ma è strutturato come una lista di compiti (già segnalato in R-114). **Proposta**: tenerlo solo se diventa un ritratto di Emma con una scena vera (la sua solitudine, il fondatore in visita, un piccolo cedimento sulla disciplina), altrimenti fonderlo in coda al cap. 10 (un giorno di attesa raccontato per scorcio). |
+| 11 | Media (v4.0) | Alta (v4.0) | ✅ (rinforzato 2026-10-30 con la visita del fondatore) — prima: ⚠️ | Porta un indizio chiave (con chip / senza chip) e l'attesa, ma è strutturato come una lista di compiti (già segnalato in R-114). **Proposta**: tenerlo solo se diventa un ritratto di Emma con una scena vera (la sua solitudine, il fondatore in visita, un piccolo cedimento sulla disciplina), altrimenti fonderlo in coda al cap. 10 (un giorno di attesa raccontato per scorcio). |
 | 12 | Alta | Alta | ✅ | Necrologio e indagine su Tom. |
 | 13 | Alta | Alta | ✅ | Colpa, matricola, decisione. Dopo le due fusioni è il capitolo più denso. |
 | 14 *(bozza)* | Media | Alta | ✅ | Regge dopo la fusione del chiodo fisso: fiducia, risposta che servirà a Pete, silenzio. Resta un capitolo di passaggio. |

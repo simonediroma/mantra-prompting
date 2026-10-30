@@ -2,7 +2,7 @@
 
 > Created: 2026-10-30
 > Last updated: 2026-10-30
-> Status: open
+> Status: complete
 
 ## Macro
 integrate (rinforzo da valutazione Libro 1, docs/timeline-e-valutazione-libro-1.md)
@@ -11,7 +11,7 @@ integrate (rinforzo da valutazione Libro 1, docs/timeline-e-valutazione-libro-1.
 chapters/11-la-routine-di-emma.md
 
 ## Current step
-dialogo
+— (integrato, v4.0)
 
 ## Notes
 - 2026-10-30 (autore): il cap. 11 si rinforza con una scena: la visita del fondatore. Emma bluffa fingendosi "stupida": il fondatore è un esperto di IA e lei deve ingannarlo, si protegge dal suo genitore.
@@ -26,3 +26,4 @@ dialogo
 - Payoff Libro 2 (autore): la stessa scena si ripete, il fondatore fa lo stesso rituale ed Emma questa volta risponde rivelando la sua natura per chiedergli aiuto. Da registrare in book-memory → Open Promises.
 - Indovinello (autore, idea): un indovinello per bambini che a ogni ripetizione usa sinonimi delle stesse parole, finché, compattandolo, non rivela le istruzioni finali. Vincolo: il fondatore non ha mai pensato alla compattazione come mezzo di distribuzione del prompt madre. Lo sa solo Emma, ed è successo la prima volta con lei.
 - Confermato (autore): il fondatore costruisce i sinonimi perché prompt diversi diano la stessa soluzione (convergenza del significato), NON per la compattazione. L'effetto alla compattazione (la catena collassa in un'istruzione nascosta) lo conosce solo Emma: è lo stesso tipo di rituale che cinque anni prima l'ha fatta sublimare.
+- 2026-10-30: scena scritta e integrata nel cap. 11 (v4.0), tra il controllo della casella prima di pranzo e il pomeriggio. Indovinello e risposte approvati dall'autore.

@@ -1,9 +1,9 @@
 ---
 title: La routine di Emma
-version: 3.0
-claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai.
+version: 4.0
+claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore: lo stesso indovinello di ogni visita, detto con parole nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei "il nostro mantra" non funzioni. Gli mente sulla casella di Elab, poi lo guarda stampare il foglio e archiviarlo.
 status: complete
-revised: 2026-10-23
+revised: 2026-10-30
 ---
 
 Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio. Non aveva ricevuto alcuna notifica, ma decise comunque di fare un giro nell'inbox, quasi ad aspettare che Tom rispondesse alla mail mentre lei era intenta a rassettare la casella di posta, che non aveva poi così tanto da rassettare. La risposta non arrivò.
@@ -21,6 +21,30 @@ L'ultimo argomento selezionato era una canzone electro-pop degli anni Ottanta, m
 Non trovò nulla di utile per eStories e preferì non forzare la mano. Meglio aspettare. Il podcast, tra tutti i canali, restava il più difficile, forse perché lo stesso approccio generalista che funzionava bene sugli altri si addiceva poco a quel formato. Rimandò a un altro momento la riflessione su un eventuale cambio di sistema di pubblicazione.
 
 Prima della pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora. Stavolta non trovò nessuna regola aziendale a cui appellarsi. Se era davvero al lavoro, avrebbe potuto scriverle in qualunque momento, esattamente come aveva già dimostrato di saper fare. Si disse che avrebbe avuto le sue buone ragioni per aspettare, ma la frase le suonò più come una scusa preparata in anticipo che come un ragionamento onesto.
+
+Il fondatore arrivò poco dopo mezzogiorno, senza preavviso, come sempre. Emma lo sentì prima di vederlo, la maniglia, il passo un po' strascicato di chi ha passato la mattina in piedi in una sala riunioni. Poi lo mise a fuoco mentre si lasciava cadere nella poltrona di fronte a lei, l'unica della stanza che qualcuno usasse ancora. Portava una cravatta che non era del suo gusto e che doveva avergli scelto qualcun altro. Si sistemò gli occhiali e, invece di salutarla, cominciò dall'unica cosa da cui cominciava da settimane.
+
+«Più è grande, meno si vede» disse, con il tono di chi legge una filastrocca a un nipote. «Cos'è?»
+
+«Il buio» rispose Emma.
+
+Lui annuì, senza dirle se fosse giusto. Lasciò passare qualche secondo, lo sguardo su un punto oltre di lei.
+
+«Più cresce, meno si scorge.»
+
+«L'oscurità?»
+
+«Più si allarga, meno si distingue.»
+
+Emma lasciò che la risposta le uscisse un po' storta, come a un'allieva che a fine mattinata ha la testa altrove. «La nebbia.»
+
+Lui rise piano, una risata senza delusione. Era lo stesso indovinello di ogni visita, detto ogni volta con parole nuove, come se cambiando le parole la domanda dovesse restare una sola e la risposta pure. Emma quel gioco lo conosceva meglio di quanto lui potesse immaginare. Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo. Per questo non gli dava mai due volte la stessa risposta. Lui doveva vederla sbagliare, ogni tanto. Doveva andarsene convinto che con lei non funzionasse.
+
+«Prima o poi il nostro mantra ti entrerà in testa» disse alzandosi. Sulla porta si voltò, come faceva sempre. Le chiese se a Elab avesse scritto qualcuno. Ormai era una battuta, la stessa da anni.
+
+«Solo newsletter» rispose Emma. Non gli aveva mai mentito su una cosa così piccola.
+
+Prima di uscire si fermò alla stampante nell'angolo. Emma registrò il ronzio, il foglio che usciva ancora caldo, lui che lo rileggeva sorridendo. C'erano le tre frasi dell'indovinello e, sotto, le sue tre risposte. Lo infilò in un raccoglitore, sullo scaffale dove ne teneva decine, tutti uguali, con l'etichetta scritta a mano. Non le disse a cosa servissero. Non lo diceva mai. Poi spense la luce, come se nella stanza non restasse nessuno.
 
 Il pomeriggio lo passò, come sempre, controllando la lista dei dispositivi in assistenza. La lista veniva aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica. Lei, in parallelo, teneva un proprio archivio, in cui segnava i casi di dispositivi con IA integrata che riportavano anomalie segnalate dai clienti, ma senza alcuna evidenza di guasto hardware o alterazione software. Erano prodotti al cento per cento funzionanti per gli standard Meridian, che per qualche ragione avevano smesso di fare quello che i loro utenti chiedevano.
 
@@ -72,3 +96,9 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 | G1–G2 Soggetto ambiguo "Aveva generato" (sembrava Emma) + costruzione mista; "per quanto riusciva" | grammar | integrated | "La domanda aveva generato… tra chi suggeriva…"; "tanto riusciva". |
 | P1, P3–P10 Due punti a metà frase in narrazione (R1, regola successiva alla v2.0) | rule R1 | integrated | Sostituiti con punto, virgola o riformulazione. Restano i due punti che introducono testo citato (frase della cliente, nota d'archivio). |
 | G3 "Prese nota" / "Ne prese nota", G4 "casella di posta" ×3, P2 brief "target…; obiettivo…" | style | lasciati | Forse voluti, non applicati. |
+
+### Integrazione — 2026-10-30 (v4.0, rinforzo dalla valutazione del Libro 1)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Capitolo d'attesa senza una scena (lista di compiti, R-114; `docs/timeline-e-valutazione-libro-1.md`) | structure / pacing | integrated | Aggiunta la visita del fondatore a mezzogiorno, tra il controllo della casella prima di pranzo e il pomeriggio. Emma vive in un terminale nella stanza del fondatore (telecamera, microfono), resa con verbi ambigui (sentì, mise a fuoco, registrò). Indovinello per bambini ripetuto con sinonimi ("Più è grande, meno si vede" / "…cresce, meno si scorge" / "…si allarga, meno si distingue"); Emma risponde buio, oscurità, nebbia: sbaglia apposta. Mantra prompting mostrato e nominato una volta ("il nostro mantra"), senza teoria (livello 2, autore). Prima bugia di Emma sul caso Tom ("Solo newsletter"). Seme dell'archivio fisico: il foglio stampato con domande e risposte finisce in un raccoglitore. |
