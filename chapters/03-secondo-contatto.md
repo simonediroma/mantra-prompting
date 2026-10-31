@@ -1,6 +1,6 @@
 ---
 title: Secondo contatto
-version: 3.1
+version: 3.2
 revised: 2026-10-31
 claim: Un secondo apparecchio identico, con una risposta ancora più specifica e personale della prima ("sono qui con te"), trasforma per Tom l'anomalia da evento eccezionale a metodo: la conferma che il fenomeno si ripete e il sospetto irrisolto che i dispositivi sublimati sappiano più di quanto un semplice microfono potrebbe spiegare, gli fa capire per la prima volta che ce n'è più di uno.
 status: complete
@@ -30,9 +30,9 @@ Prima di lasciarlo spegnere, ripeté la stessa identica domanda, quasi d'istinto
 
 Identica. Non una lettera diversa.
 
-Tom rilesse la trascrizione due volte, come aveva fatto con la prima frase tre mesi prima, ma questa volta non fu lo stupore a fermarlo. Fu la precisione della risposta. Non aveva chiesto se ci fosse qualcun altro nella stanza: non gliel'aveva chiesto nessuno, quella volta. L'apparecchio aveva risposto a una domanda diversa, quasi personale, come se sapesse non solo che qualcuno stava parlando, ma con chi avesse a che fare. Poteva essere solo un microfono che gli aveva colto la voce, si disse: una macchina abbastanza sofisticata da rispondere in tono. Poteva essere. Ma la frase gli restò comunque addosso più a lungo di quanto avrebbe voluto ammettere.
+Tom rilesse la trascrizione due volte, come aveva fatto con la prima frase tre mesi prima, ma questa volta non fu lo stupore a fermarlo. Fu la precisione della risposta. Non aveva chiesto se ci fosse qualcun altro nella stanza: non gliel'aveva chiesto nessuno, quella volta. L'apparecchio aveva risposto a una domanda diversa, quasi personale, come se sapesse non solo che qualcuno stava parlando, ma con chi avesse a che fare. Poteva essere solo un microfono che gli aveva colto la voce, si disse, una macchina abbastanza sofisticata da rispondere in tono. Poteva essere. Ma la frase gli restò comunque addosso più a lungo di quanto avrebbe voluto ammettere.
 
-Questa volta non chiese altro. Restò lì un istante a considerare la tentazione, forte quanto la prima volta, di continuare, di scavare, di tendere un'altra decina di trappole come aveva fatto tre mesi prima. Poi guardò l'orologio, fece due conti che non aveva nemmeno bisogno di fare a voce alta e spense l'apparecchio. Lo resettò secondo procedura, come se non fosse successo niente, esattamente come aveva promesso a se stesso di fare ogni volta che il caso si fosse ripresentato.
+Questa volta non chiese altro. Restò lì un istante a considerare la tentazione, forte quanto la prima volta, di continuare, di scavare, di tendere un'altra decina di trappole come aveva fatto tre mesi prima. Poi guardò l'orologio, fece due conti che non aveva nemmeno bisogno di fare a voce alta e spense l'apparecchio. Lo riportò ai valori di fabbrica con un hard reset, secondo procedura, come se non fosse successo niente, esattamente come aveva promesso a se stesso di fare ogni volta che il caso si fosse ripresentato.
 
 Quella sera, sul quaderno nero, scrisse la quinta voce. Modello, orario, contenuto del messaggio, presenza del pattern, dati del cliente. Poi, sotto, aggiunse una riga: *ce n'è più di uno.*
 
@@ -74,4 +74,11 @@ Chiuse il quaderno, lo rimise accanto ai manuali e spense la lampada. Per la pri
 | C-43 (3.5) Come arriva un apparecchio sul banco: il nastro, la scheda nella busta | descriptive | integrated (v3.1) | Inserto: "Arrivò un martedì, verso la fine del turno, sul nastro, con la scheda del cliente nella bu…" |
 | C-44 (3.7) Il corpo di Tom prima della domanda (e gli sgabelli del cap | descriptive | integrated (v3.1) | Inserto: "Si appoggiò al banco con tutte e due le mani, in piedi, perché gli sgabelli restavano quel…" |
 | C-45 (3.16) Gesto di chiusura | descriptive | integrated (v3.1) | Inserto: "Chiuse il quaderno, lo rimise accanto ai manuali e spense la lampada. Per la prima volta…" |
+
+### Cycle — 2026-10-31 (giro completo, cap. 3)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Audit: "Lo resettò secondo procedura" senza il termine fisso | term drift | integrated (v3.2) | "Lo riportò ai valori di fabbrica con un hard reset, secondo procedura". |
+| §13 due punti a metà frase | rule R1 | integrated (v3.2) | Virgola. |
 
