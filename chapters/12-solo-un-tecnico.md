@@ -1,6 +1,6 @@
 ---
 title: Solo un tecnico?
-version: 6.4
+version: 6.5
 revised: 2026-10-31
 merged_from: "12-la-notizia (v4.0) + 13-il-sospetto-su-tom (v1.0, bozza)"
 claim: La pipeline con cui Emma sorveglia l'esposizione di Meridian nei media intercetta un articolo commemorativo sulla morte della signora Voss, un caso già nel suo archivio. Lo sgomento diventa lucidità quando ripensa alla mail di Tom, che la lista dell'assistenza conferma essere il tecnico di quel televisore. Rileggendo la mail sospetta che dietro ci sia un'indagine: qualcuno che usa l'account di Tom, o Tom stesso che scava. Il confronto di stile con le note di Tom esclude la prima ipotesi; organigramma, profilo aziendale e sito del giradischi non bastano a escludere la seconda. Tom è un tecnico, ma forse non solo: Emma deve scoprire cosa o chi ci sia dietro la mail.
@@ -8,9 +8,9 @@ status: complete
 summary: Apre la Parte 5 (G24, mattina). La pipeline media di Emma intercetta il necrologio della signora Voss con foto (tappetino da yoga, TV Meridian, eWatch); Emma riconosce il caso dal suo archivio, lo sgomento sale finché il ricordo della mail di Tom non lo trasforma in lucidità; sulla lista dell'assistenza trova il nome del tecnico, Tom. Il tappetino le fa chiedere se la signora guardasse i video di yoga di eTv e se Tom le abbia scritto per questo; la bugia troppo goffa le sembra un'esca. Due ipotesi: un investigatore che ha usato la casella di Tom, oppure Tom stesso che indaga. Confrontando la mail con le note di Tom sulla lista dell'assistenza riconosce la stessa mano (prima rassicurazione); l'organigramma (dodici anni, stesso ruolo) alimenta la seconda ipotesi; dal profilo aziendale passa a LinkedIn e al sito del giradischi, anni di forum con audiofili scandinavi: Tom è un tecnico vero, ma anche uno che non smette di smontare finché non capisce. Le resta una curiosità (nei post recenti Tom non dice più di ascoltare musica). Decide di scoprire cosa o chi ci sia dietro la mail, poi apre il pannello di eTv per l'altra domanda.
 ---
 
-Aveva un'altra pipeline, separata da quella dei trending topic, con un solo compito. Intercettava su giornali, siti di notizie e televisioni qualunque contenuto che nominasse Meridian, o che ne mostrasse un prodotto in modo riconoscibile. Non serviva a produrre nulla. Serviva a sapere, prima che si diffondesse l'informazione, se Meridian rischiasse di finire dentro un fatto di cronaca.
+L'articolo arrivò prima dei trending topic, pescato dall'altra pipeline, quella con un solo compito. Intercettava su giornali, siti di notizie e televisioni qualunque contenuto che nominasse Meridian, o che ne mostrasse un prodotto in modo riconoscibile. Non serviva a produrre nulla. Serviva a sapere, prima che si diffondesse l'informazione, se Meridian rischiasse di finire dentro un fatto di cronaca.
 
-Quella mattina il sistema le segnalò un articolo pubblicato il giorno prima su un piccolo giornale locale. Era un ricordo scritto dai parenti di una donna morta da poco, corredato da una fotografia scelta con cura, di quelle che una famiglia tiene da parte per mostrare qualcuno felice. La donna sorrideva nel suo salotto, un tappetino da yoga arrotolato in un angolo, un televisore Meridian ben visibile alle sue spalle e, al polso, un eWatch dello stesso marchio.
+Era stato pubblicato il giorno prima su un piccolo giornale locale. Un ricordo scritto dai parenti di una donna morta da poco, corredato da una fotografia scelta con cura, di quelle che una famiglia tiene da parte per mostrare qualcuno felice. La donna sorrideva nel suo salotto, un tappetino da yoga arrotolato in un angolo, un televisore Meridian ben visibile alle sue spalle e, al polso, un eWatch dello stesso marchio.
 
 Il nome della donna era Voss. Non ebbe bisogno di controllare da nessuna parte per essere certa. Quel nome esisteva già nel suo archivio, agganciato a un caso preciso. C'era un televisore con i log interrotti da un giorno all'altro, un hard reset eseguito poco dopo e una cliente che aveva descritto all'assistenza, più che un malfunzionamento, un rifiuto di funzionare.
 
@@ -30,15 +30,13 @@ Partì dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note fir
 
 Nell'organigramma della Divisione Assistenza Tecnica c'era un solo Tom. Dodici anni di servizio, sempre lo stesso ruolo, nessuna promozione, nessun cambio di reparto. Un percorso così piatto poteva voler dire un uomo senza ambizioni. Poteva anche essere il profilo di uno che aveva tutto l'interesse a non farsi notare. Più ci pensava, più quell'altra lettura le sembrava plausibile.
 
-Dalla voce dell'organigramma si arrivava alla sua pagina di presentazione aziendale, compilata chissà quanti anni prima e mai più aggiornata. Due righe sul ruolo e, in fondo, i link ai suoi profili esterni. Su LinkedIn, tra i progetti personali, ce n'era uno solo, con il link a un sito. Era un progetto open source per integrare l'IA nei giradischi e nei grammofoni, in modo da correggere il suono in tempo reale in base al peso del disco e alla posizione delle casse rispetto a chi ascolta muovendosi nella stanza.
+Dalla voce dell'organigramma si arrivava alla sua pagina di presentazione aziendale, compilata chissà quanti anni prima e mai più aggiornata. Due righe sul ruolo e, in fondo, i link ai suoi profili esterni. Su LinkedIn, tra i progetti personali, ce n'era uno solo, con il link a un sito. Era un progetto open source per far correggere a un'IA il suono di un giradischi in tempo reale, a seconda del disco e di dove si trovasse chi ascoltava.
 
 Il forum del progetto andava indietro di anni. Tom discuteva con un gruppo di audiofili, quasi tutti scandinavi, di pesi, curve di correzione e distanze tra le casse, con una pazienza che nessuno avrebbe sprecato per tenere in piedi una finzione. Erano anni di domande, prove fallite e tentativi ripresi da capo, quasi tutti firmati con un'ora tra mezzanotte e le due. Tom era davvero un tecnico, con un hobby che probabilmente lo assorbiva più del lavoro. Era anche il tipo di uomo che, davanti a un apparecchio che si comportava in modo strano, non avrebbe smesso di smontarlo finché non avesse capito.
 
 Una cosa però non le tornava. Nei messaggi più vecchi Tom raccontava anche cosa ascoltava, un disco, un brano, l'effetto di una correzione riuscita. In quelli recenti quei riferimenti mancavano del tutto. Parlava di musica con la competenza di sempre, ma non diceva più di ascoltarne. Non c'entrava niente con la signora Voss. Emma se lo annotò comunque.
 
 Che Tom fosse un tecnico non era più in discussione. Che lo fosse e basta, non poteva ancora dirlo. La mail l'aveva scritta lui, ma non sapeva per conto di chi. Doveva scoprire cosa o chi ci fosse dietro. Prima, però, c'era la domanda da cui era partita, quella nata dal tappetino arrotolato nell'angolo della foto. La signora Voss guardava i video di yoga di eTv? Per rispondere non le serviva Tom. Le statistiche del canale registravano quante volte veniva visto ogni video, giorno per giorno e per tipo di dispositivo. Se nelle settimane in cui il televisore della signora aveva cominciato a comportarsi in modo strano qualcosa si era mosso sui video di yoga, lì l'avrebbe visto. Aprì il pannello di eTv.
-
----
 
 ## Demolition Log
 
@@ -113,4 +111,12 @@ Idea emersa e annotata in `book-memory.md` → Idee da valutare: *Vacanze romane
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | C-64 (12.13) Un dettaglio del forum che dice chi è Tom (le due di notte del cap | descriptive | integrated (v6.4) | Inserto: "Erano anni di domande, prove fallite e tentativi ripresi da capo, quasi tutti firmati con …" |
+
+### Cycle — 2026-10-31 (giro completo, cap. 12)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Audit: incipit che apre con la descrizione di uno strumento | tone / opening | integrated (v6.5) | Prima l'articolo, poi la pipeline che l'ha pescato. |
+| §12 descrizione del giradischi quasi identica al cap. 1 (R-02) | repetition across POV | integrated (v6.5) | Riscritta con parole di Emma. |
+| Separatore "---" residuo | structure | integrated (v6.5) | Tolto. |
 
