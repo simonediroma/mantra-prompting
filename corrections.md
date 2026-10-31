@@ -183,12 +183,12 @@ Variante senza ", e": "Compose il numero dal proprio cellulare, in piedi in cuci
 
 ---
 
-### C-24 · cap. 11 · insert · deferred
+### C-24 · cap. 11 · insert · done (autore, cap. 11 v4.0, 2026-10-30)
 **Nota (A1.1, A3.8)**: una voce parlata nei capitoli di Emma: il fondatore in visita con un indovinello, tra 11.7 e 11.8. Non scrivibile ora: il personaggio non ha voce né nome (`characters/il-fondatore.md`: "eseguire character-interview prima di scrivere i suoi capitoli") e gli indovinelli hanno un ruolo futuro. **Prerequisito**: `/ghost-writer:character-interview` sul fondatore. Poi la scena va scritta e il cap. 11 rigenerato in audio.
 
 ---
 
-### C-25 · cap. 14 (outline) · insert · deferred
+### C-25 · cap. 14 (outline) · insert · done (cap. 14 v2.0; punto 3 solo accennato)
 **Nota (A2.2, A2.3, A2.9)**: tre lacune da chiudere nel cap. 14, da scrivere. Proposta di aggiunta a `outline.md → Capitolo 14`: (1) prima della mail di scuse Tom rilegge la prima risposta di Emma, che il lettore legge qui per la prima volta (R-110); (2) una retrospettiva breve sulle settimane di silenzio, dal lato di Tom (la bugia smontata, gli strumenti aziendali usati fuori protocollo); (3) la regola delle mail sotto controllo del supervisore detta in una riga, così la paura di Tom ha un meccanismo prima del cap. 17.
 
 ---
@@ -208,16 +208,81 @@ Variante senza ", e": "Compose il numero dal proprio cellulare, in piedi in cuci
 
 ---
 
+## Import 2026-10-31 (sera) — cap. 14 "La fiducia di Tom" (v2.0) e cap. 11 v4.0
+
+Fonte: `giudizio-editoriale-2026-10-31.md → 6` (aggiornamento dopo il merge di main). Stato delle righe precedenti aggiornato: C-24 chiusa dall'autore con la visita del fondatore (cap. 11 v4.0); C-25 chiusa dal cap. 14 (prima risposta di Emma letta in flashback, silenzio di Tom spiegato; la regola delle mail sotto controllo resta accennata: "una mail di un dipendente, una volta partita, non apparteneva più del tutto al dipendente").
+
+---
+
+### C-29 · 14.11 · punctuation · open
+**Nota (regola `avoid`: niente ", e" in narrazione)**: "Poi c'era la domanda sul ritorno al cliente, e lì la risposta vera era no."
+**Proposta**: "Poi c'era la domanda sul ritorno al cliente. Lì la risposta vera era no."
+
+---
+
+### C-30 · 14.12 · punctuation · open
+**Nota (stessa regola)**: "Restava fuori anche la telefonata alla signora, e quella gli costava di più."
+**Proposta**: "Restava fuori anche la telefonata alla signora. Quella gli costava di più."
+
+---
+
+### C-31 · 14.15 · rewrite · open
+**Nota (R-03: "il genere di" al massimo una volta per capitolo; qui due volte con la stessa costruzione, "era proprio il genere di cosa che un supervisore come Pete sapeva trasformare" e "era il genere di dettaglio su cui un supervisore come Pete costruiva una carriera")**.
+**Originale**: "Un'ora della pausa sotto una mail partita da un computer aziendale era il genere di dettaglio su cui un supervisore come Pete costruiva una carriera."
+**Proposta**: "Un'ora della pausa sotto una mail partita da un computer aziendale bastava a un supervisore per aprire una pratica." (La prima occorrenza, con Pete nominato, resta.)
+
+---
+
+### C-32 · 14.13 · cut · open
+**Nota (ridondanza)**: il paragrafo di due frasi "Componeva ogni frase come se dovesse leggerla anche qualcun altro. Sapeva che una mail di un dipendente, una volta partita, non apparteneva più del tutto al dipendente." anticipa il ragionamento su Pete che il paragrafo della pausa pranzo fa per esteso. Da solo è anche un quasi paragrafo-lampo.
+**Proposta**: eliminare il paragrafo; spostare la seconda frase in coda al paragrafo precedente, dopo "…sapeva trasformare in un provvedimento.": "Una mail di un dipendente, una volta partita, non apparteneva più del tutto al dipendente." (È l'unica frase del Libro 1 che dà a Tom il meccanismo del controllo sulla posta prima del cap. 17: va tenuta.)
+
+---
+
+### C-33 · 14.7 · rewrite · open
+**Nota (cronologia)**: tra la prima risposta di Emma (G22, fine turno) e le scuse (G24, metà mattina) c'è una sola mattina intera. "Da allora Tom aveva aperto la casella ogni mattina e ogni mattina l'aveva richiusa senza scrivere" e "Ogni giorno di silenzio" suonano come settimane.
+**Originale**: "Da allora Tom aveva aperto la casella ogni mattina e ogni mattina l'aveva richiusa senza scrivere. Insistere sulla bugia era impossibile. […] Ogni giorno di silenzio rendeva il silenzio più difficile da spiegare, come una telefonata non restituita che a un certo punto smette di essere una dimenticanza."
+**Proposta**: "Il giorno dopo aveva aperto la casella all'inizio del turno e l'aveva richiusa senza scrivere. Quella mattina lo stesso. Insistere sulla bugia era impossibile. […] Ogni ora di silenzio rendeva il silenzio più difficile da spiegare, come una telefonata non restituita che a un certo punto smette di essere una dimenticanza."
+
+---
+
+### C-34 · 14.2 · insert · open
+**Nota (continuità)**: cap. 2 e 3 danno quattordici minuti per "ogni ciclo diagnostico"; qui ventuno per l'aspirapolvere. Basta dire perché.
+**Originale**: "Lo slot per quel tipo di intervento era di ventuno minuti."
+**Proposta**: "Lo slot per quel tipo di intervento era di ventuno minuti, sette in più del ciclo diagnostico, perché c'erano pezzi da cambiare."
+
+---
+
+### C-35 · 1.18 (cap. 1) · continuity · open
+**Nota**: nel cap. 14 l'eWatch di Tom vibra in laboratorio per una mail in arrivo. Il cap. 1 descrive lo stesso laboratorio "senza rete se non quella cablata per la diagnostica", frase su cui Tom fonda la certezza che nessuno possa aver manomesso il televisore. Le due cose convivono solo se la frase del cap. 1 parla degli apparecchi, non della stanza.
+**Originale (cap. 1)**: "senza rete se non quella cablata per la diagnostica, senza altoparlanti, senza nessuno che potesse aver manomesso qualcosa dall'esterno anche volendo."
+**Proposta**: "senza una rete a cui un televisore potesse agganciarsi, a parte il cavo della diagnostica, senza altoparlanti, senza nessuno che potesse aver manomesso qualcosa dall'esterno anche volendo."
+**Costo**: rigenerare l'ep. 1 (il più lungo). Alternativa a costo zero: lasciare il cap. 1 e accettare che un lettore attento noti la rete dell'eWatch. Decisione dell'autore.
+
+---
+
+### C-36 · `characters/emma.md` · continuity · open
+**Nota**: la nota "Nessuno spazio fisico: Emma non abita da nessuna parte… Non scrivere mai scene in cui Emma si muove, occupa o percepisce un ambiente fisico" è contraddetta dal cap. 11 v4.0 (Emma sente entrare il fondatore, lo guarda sedersi nella poltrona davanti a lei, sente la stampante) e da `characters/il-fondatore.md` aggiornato (terminale fisico con telecamera e microfono in una stanza vicina all'ufficio). Va riscritta: Emma percepisce una sola stanza, attraverso un terminale, con verbi che restino leggibili in chiave umana; la stanza non si descrive mai.
+
+---
+
+### C-37 · cap. 14 · question · open
+**Nota (regola POV mail)**: il testo della risposta di Tom non si vede, ma il suo contenuto è interamente anticipato dal ragionamento di Tom (modello, guasto, rifiuto, decesso, ricondizionamento). Quando Emma la leggerà non resterà nulla da scoprire, se non il tono. Va bene se la sorpresa prevista è la mail delle 8:00:01 e non la risposta di Tom; altrimenti tenere fuori dal ragionamento un dettaglio (per esempio che Tom le dica della morte) e lasciarlo alla lettura di Emma.
+
+---
+
+### C-38 · cap. 14-15 (outline) · question · open
+**Nota (`docs/timeline-e-valutazione-libro-1.md`, proposta 3)**: la mail delle 8:00:01 come ultima scena del cap. 14. Parere: il cap. 14 chiude bene sul quaderno vuoto, ed è già il secondo capitolo più lungo del libro (2.091 parole, episodio da circa quindici minuti). Spostare la mail qui dà un cliffhanger ma lascia il cap. 15 senza scena. Alternativa: tenere il cap. 15 corto ma farne una scena vera (Tom che legge la mail dentro il timer di un altro apparecchio, come qui) e portare il bivio nel cap. 17 come già proposto dal documento.
+
 ## Riepilogo
 
 ```
-CORRECTIONS — 8 open (20 done il 2026-10-31)
-  typo/punctuation: 0
-  rewrite/cut/insert: 0    (C-01…C-17, C-19, C-20, C-21 applicate il 2026-10-31)
-  continuity: 1            (C-18, colore del LED)
-  new rules: 0             (C-28 propone un criterio di demolizione, non una regola di stile)
-  questions: 4             (C-22, C-23, C-27, C-28)
-  deferred: 3              (C-24 fondatore; C-25, C-26 outline cap. 14-15)
+CORRECTIONS — 16 open (22 done)
+  typo/punctuation: 2      (C-29, C-30: ", e" in narrazione, cap. 14)
+  rewrite/cut/insert: 4    (C-31, C-32, C-33, C-34, cap. 14)
+  continuity: 3            (C-18 LED; C-35 rete del laboratorio, cap. 1; C-36 emma.md)
+  questions: 6             (C-22, C-23, C-27, C-28, C-37, C-38)
+  deferred: 1              (C-26 eWatch, outline cap. 15)
   unclear location: 0
 ```
 

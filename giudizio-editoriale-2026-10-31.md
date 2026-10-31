@@ -168,3 +168,51 @@ Elenco secco, senza priorità, da riprendere in blocco a fine lavoro.
 ### 5.4 Una nota sul metodo
 
 L'apparato di coerenza (profili, mappa eventi, memoria, log di demolizione) è professionale e si vede. Il rischio è che ottimizzi ciò che misura: tic, cronologie, punteggiatura. Le mancanze elencate qui (odori, voci, stanze, antagonista in scena, emozioni mostrate) non sono misurabili da una regola e non sono mai state segnalate. Tre domande da aggiungere alla checklist di ogni capitolo: chi parla ad alta voce, cosa si sente con il corpo, cosa vuole il personaggio che prima non voleva.
+
+---
+
+## 6. Aggiornamento 2026-10-31 (sera) — cap. 14 "La fiducia di Tom" e cap. 11 v4.0
+
+Letti dopo il merge di `main`: cap. 14 v2.0 (2.091 parole, il secondo più lungo del libro) e la scena nuova del cap. 11 (la visita del fondatore). Il documento `docs/timeline-e-valutazione-libro-1.md` dell'autore copre la stessa materia dal lato della struttura; qui solo ciò che aggiunge.
+
+### 6.1 Cap. 14: verdetto
+
+| Dimensione | Voto | Una riga |
+|---|---|---|
+| Scrittura | 7,5/10 | Il registro comico dei cap. 1-4 è tornato (il mulo a fine carriera, la ruota di criceto in una casa senza criceti, l'altoparlante che parla solo in portoghese). Frasi corte (media 13 parole), nessuna parentesi, nessun paragrafo-lampo. |
+| Tom | 8/10 | Il capitolo migliore per il personaggio: la solitudine dalle stanze singole ("Ci aveva fatto l'abitudine come ci si abitua a un rumore di fondo, finché qualcuno non lo spegne") è il primo seme della ferita che il profilo lasciava "da approfondire". L'inversione del metodo (con gli apparecchi domanda, con lei risponde) è carattere, non trama. |
+| Ambiente | 7/10 | Il primo capitolo di Tom con un edificio intorno: nastro, porte delle stanze singole, passi verso la mensa, il clic del nastro che riparte, il panno con gli attrezzi. Manca ancora luce e temperatura, ma il laboratorio ha un suono. |
+| Trama | 6,5/10 | Capitolo di passaggio per scelta. Chiude tre lacune della Parte A: la prima risposta di Emma letta in scena (A2.2), il silenzio di Tom spiegato (A2.3), una riga sul controllo delle mail (A2.9, accennata). |
+
+### 6.2 Cosa funziona
+
+- **L'apertura sull'aspirapolvere** fa quello che le aperture dei cap. 8, 9, 11 non facevano (B1.5): regge da sola, è comica e in tre righe ristabilisce il metodo di Tom ("gli aveva chiesto se fosse stanco. Il LED di carica era rimasto verde").
+- **La lettura dentro il timer** trasforma una mail in una scena d'azione: i cinque minuti residui, il pulsante non premuto, il nastro che aspetta. È la prima volta che il sistema dei turni produce tensione invece di satira.
+- **«guarda qui»**: la voglia dello smanettone di aprire il coperchio davanti a qualcuno è la motivazione più umana che Tom abbia avuto finora, e resta tecnica, come vuole la regola.
+- **L'invio sul clic del nastro**: beat fisico che risolve un ragionamento aziendale. Modello per le scene di posta dei cap. 15-18.
+- **La chiusura** sul quaderno vuoto: un beat mostrato, nessun riassunto.
+
+### 6.3 Cosa sistemare (righe C-29…C-38 in `corrections.md`)
+
+- **Due ", e" in narrazione** (regola del progetto): "la domanda sul ritorno al cliente, e lì la risposta vera era no"; "la telefonata alla signora, e quella gli costava di più".
+- **"il genere di … un supervisore come Pete" due volte**, con la stessa costruzione, a un paragrafo di distanza. Una sola.
+- **Un paragrafo ridondante** ("Componeva ogni frase come se dovesse leggerla anche qualcun altro…"): anticipa in due righe il ragionamento su Pete che la pausa pranzo fa per esteso. La sua seconda frase va salvata, perché è l'unica che dà a Tom il meccanismo del controllo sulla posta prima del cap. 17.
+- **Cronologia**: tra la prima risposta di Emma e le scuse c'è una sola mattina; "ogni mattina" e "ogni giorno di silenzio" suonano come settimane.
+- **Ventuno minuti di slot** contro i quattordici che i cap. 2-3 danno per "ogni ciclo diagnostico": basta dire che qui ci sono pezzi da cambiare.
+- **L'eWatch riceve una mail in laboratorio**, e il cap. 1 dice che il laboratorio è "senza rete se non quella cablata per la diagnostica", frase su cui Tom fonda la certezza che il televisore non sia stato manomesso. Le due cose convivono solo se il cap. 1 parla degli apparecchi e non della stanza. Correggere il cap. 1 costa la rigenerazione dell'episodio più lungo: decisione dell'autore.
+- **La deliberazione sulla mail** occupa circa seicento parole in due passate (la mattina: cosa dire e cosa no; la pausa: le domande scritte e cancellate). Non è ripetizione, perché la seconda passata rovescia il metodo, ma in audio sono quattro minuti di un uomo che pensa a una mail. Il taglio del paragrafo ridondante e la correzione del "genere di" alleggeriscono quanto basta; non consiglio altri tagli.
+- **Ancora nessuna voce parlata** (una sola battuta, «guarda qui», ed è pensata). Il capitolo regge lo stesso, grazie al registro comico. Resta l'indicazione A4.1 per i cap. 15-20.
+- **Regola POV mail**: la risposta di Tom non si vede, ma il suo contenuto è tutto anticipato dal suo ragionamento. Quando Emma la leggerà non resterà nulla da scoprire, se non il tono. Va bene solo se la sorpresa del prossimo capitolo è la mail delle 8:00:01.
+
+### 6.4 Cap. 11 v4.0: la visita del fondatore
+
+Risolve la lacuna A1.1/A3.8 nel modo che l'autore ha scelto, per sola voce narrante: nessuna battuta, ma finalmente un'altra persona nella stanza di Emma, un rituale (l'indovinello ripetuto "come un mantra"), un gesto che semina l'archivio fisico (il foglio stampato e messo nel raccoglitore) e la prima volta in cui il titolo del libro è quasi pronunciato (B2.2, a metà). La frase chiave è "Lui doveva vederla sbagliare, ogni tanto": Emma che si protegge dal suo creatore fingendosi stupida, mostrata senza spiegare.
+Due conseguenze da registrare:
+- **La bibbia di Emma è da aggiornare** (C-36): `characters/emma.md` dice ancora "Nessuno spazio fisico… Non scrivere mai scene in cui Emma percepisce un ambiente fisico", mentre il cap. 11 la fa sentire, guardare e vedere il foglio uscire caldo, e `characters/il-fondatore.md` ora le dà un terminale con telecamera e microfono. Vale anche per la Parte B di questo documento (B3.3): Emma ha una stanza, una sola, mai descritta.
+- **"Emma lo sentì entrare prima di metterlo a fuoco"**: "metterlo a fuoco" è un verbo da telecamera, nel registro degli indizi ambigui ammessi. In audio passerà inosservato; sulla pagina un lettore attento lo segnerà. È il tipo di indizio che l'autore ha scelto di tenere: lo noto perché è il più forte finora.
+
+### 6.5 Sulle proposte di struttura dell'autore (`docs/timeline-e-valutazione-libro-1.md`)
+
+- **Cap. 8 dentro il 7**: l'autore l'ha lasciato com'è. Dal lato audio resta l'episodio da quattro minuti; dal lato libro è mezza pagina di analisi che chiude su "domani". Se non si fonde, almeno la sua apertura va resa autonoma (B1.5).
+- **La mail delle 8:00:01 come chiusura del cap. 14**: sconsigliato così com'è. Il cap. 14 chiude bene ed è già lungo (episodio da circa quindici minuti). Meglio un cap. 15 corto ma con una scena vera, costruita come qui (la mail letta dentro il timer di un altro apparecchio), e il bivio spostato nel cap. 17 come il documento già propone.
+- **Cap. 20 come coda del 19**: d'accordo, soprattutto per l'audio (A4.4): un episodio finale da tre minuti chiuderebbe male il Libro 1.
