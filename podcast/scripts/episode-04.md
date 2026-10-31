@@ -61,9 +61,9 @@ Chiuse la chiamata con le formule di rito, ringraziandola per la disponibilità,
 
 Ripensandoci, si rese conto di aver improvvisato l'intera telefonata come un principiante: nessuno script pronto, nessuna domanda preparata a dovere, un copione che gli era scivolato di mano dopo la prima frase. Se la signora Voss fosse stata più attenta alla coerenza di quello che le stava chiedendo, invece che presa dalla voglia di raccontare finalmente a qualcuno cosa le fosse successo, lo avrebbe smascherato senza nessuna fatica.
 
-Le parole della signora Voss avevano descritto, senza saperlo, quello che lui stesso aveva vissuto nel suo laboratorio il giorno prima. Ormai poteva affermarlo: non era stato il primo, né l'unico essere umano ad avere un'interazione consapevole con un dispositivo. Ne ebbe la conferma ancora prima di aprire il video.
+La signora Voss aveva descritto, senza saperlo, la stessa cosa che lui aveva avuto sul banco il giorno prima. Non era più l'unico a vederla.
 
-Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata fino all'ultimo secondo. Bastava un piccolo ritardo, anche di pochi minuti, per dare al supervisore un nuovo pretesto. Si alzò di scatto, uscì di casa quasi correndo e fece di corsa anche gli ultimi due isolati fino alla fermata, lui che in dodici anni non aveva mai corso per un autobus.
+Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata fino all'ultimo secondo. Bastava un piccolo ritardo, anche di pochi minuti, per dare al supervisore un nuovo pretesto. Si staccò dal tavolo, uscì di casa quasi correndo e fece di corsa anche gli ultimi due isolati fino alla fermata, lui che in dodici anni non aveva mai corso per un autobus.
 
 [pause 1.5]
 
