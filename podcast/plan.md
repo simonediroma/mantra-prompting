@@ -54,4 +54,4 @@ Gli annunci di chiusura non citano più il titolo del capitolo successivo (due s
 
 Tutti gli episodi 1-13 vanno rigenerati: i capitoli sono cambiati con le correzioni e la passata descrittiva del 31 ottobre (`giudizio-editoriale-2026-10-31.md`), i copioni sono già riallineati. L'episodio 14 ha il copione pronto, da approvare. Ordine consigliato dalla skill: prima l'episodio 1, ascolto, poi tutti gli altri con `python3 export_podcast.py build`, infine `feed`.
 
-Decisione aperta: episodio 8 da quattro minuti (il più corto, contro i sedici del primo). Opzioni: lasciarlo (formato seriale) oppure fonderlo con il 9 nell'audio tenendo i capitoli separati nel testo.
+Episodio 8 (quattro minuti e mezzo): resta separato dal 9, per scelta dell'autore (2026-10-31): formato a puntate, una sera per episodio.
