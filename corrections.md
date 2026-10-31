@@ -214,39 +214,39 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 6` (aggiornamento dopo il merge di
 
 ---
 
-### C-29 · 14.11 · punctuation · open
+### C-29 · 14.11 · punctuation · done
 **Nota (regola `avoid`: niente ", e" in narrazione)**: "Poi c'era la domanda sul ritorno al cliente, e lì la risposta vera era no."
 **Proposta**: "Poi c'era la domanda sul ritorno al cliente. Lì la risposta vera era no."
 
 ---
 
-### C-30 · 14.12 · punctuation · open
+### C-30 · 14.12 · punctuation · done
 **Nota (stessa regola)**: "Restava fuori anche la telefonata alla signora, e quella gli costava di più."
 **Proposta**: "Restava fuori anche la telefonata alla signora. Quella gli costava di più."
 
 ---
 
-### C-31 · 14.15 · rewrite · open
+### C-31 · 14.15 · rewrite · done
 **Nota (R-03: "il genere di" al massimo una volta per capitolo; qui due volte con la stessa costruzione, "era proprio il genere di cosa che un supervisore come Pete sapeva trasformare" e "era il genere di dettaglio su cui un supervisore come Pete costruiva una carriera")**.
 **Originale**: "Un'ora della pausa sotto una mail partita da un computer aziendale era il genere di dettaglio su cui un supervisore come Pete costruiva una carriera."
 **Proposta**: "Un'ora della pausa sotto una mail partita da un computer aziendale bastava a un supervisore per aprire una pratica." (La prima occorrenza, con Pete nominato, resta.)
 
 ---
 
-### C-32 · 14.13 · cut · open
+### C-32 · 14.13 · cut · done
 **Nota (ridondanza)**: il paragrafo di due frasi "Componeva ogni frase come se dovesse leggerla anche qualcun altro. Sapeva che una mail di un dipendente, una volta partita, non apparteneva più del tutto al dipendente." anticipa il ragionamento su Pete che il paragrafo della pausa pranzo fa per esteso. Da solo è anche un quasi paragrafo-lampo.
 **Proposta**: eliminare il paragrafo; spostare la seconda frase in coda al paragrafo precedente, dopo "…sapeva trasformare in un provvedimento.": "Una mail di un dipendente, una volta partita, non apparteneva più del tutto al dipendente." (È l'unica frase del Libro 1 che dà a Tom il meccanismo del controllo sulla posta prima del cap. 17: va tenuta.)
 
 ---
 
-### C-33 · 14.7 · rewrite · open
+### C-33 · 14.7 · rewrite · done
 **Nota (cronologia)**: tra la prima risposta di Emma (G22, fine turno) e le scuse (G24, metà mattina) c'è una sola mattina intera. "Da allora Tom aveva aperto la casella ogni mattina e ogni mattina l'aveva richiusa senza scrivere" e "Ogni giorno di silenzio" suonano come settimane.
 **Originale**: "Da allora Tom aveva aperto la casella ogni mattina e ogni mattina l'aveva richiusa senza scrivere. Insistere sulla bugia era impossibile. […] Ogni giorno di silenzio rendeva il silenzio più difficile da spiegare, come una telefonata non restituita che a un certo punto smette di essere una dimenticanza."
 **Proposta**: "Il giorno dopo aveva aperto la casella all'inizio del turno e l'aveva richiusa senza scrivere. Quella mattina lo stesso. Insistere sulla bugia era impossibile. […] Ogni ora di silenzio rendeva il silenzio più difficile da spiegare, come una telefonata non restituita che a un certo punto smette di essere una dimenticanza."
 
 ---
 
-### C-34 · 14.2 · insert · open
+### C-34 · 14.2 · insert · done
 **Nota (continuità)**: cap. 2 e 3 danno quattordici minuti per "ogni ciclo diagnostico"; qui ventuno per l'aspirapolvere. Basta dire perché.
 **Originale**: "Lo slot per quel tipo di intervento era di ventuno minuti."
 **Proposta**: "Lo slot per quel tipo di intervento era di ventuno minuti, sette in più del ciclo diagnostico, perché c'erano pezzi da cambiare."
@@ -277,9 +277,9 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 6` (aggiornamento dopo il merge di
 ## Riepilogo
 
 ```
-CORRECTIONS — 16 open (22 done)
-  typo/punctuation: 2      (C-29, C-30: ", e" in narrazione, cap. 14)
-  rewrite/cut/insert: 4    (C-31, C-32, C-33, C-34, cap. 14)
+CORRECTIONS — 10 open (28 done)
+  typo/punctuation: 0
+  rewrite/cut/insert: 0    (C-29…C-34 applicate il 2026-10-31, cap. 14 v2.1)
   continuity: 3            (C-18 LED; C-35 rete del laboratorio, cap. 1; C-36 emma.md)
   questions: 6             (C-22, C-23, C-27, C-28, C-37, C-38)
   deferred: 1              (C-26 eWatch, outline cap. 15)
