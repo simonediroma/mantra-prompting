@@ -73,3 +73,5 @@ Oltre questa soglia, il supervisore non ha più potere sanzionatorio diretto: pu
 
 ### Altre infrazioni minori (sotto la smutandata base)
 - Uso del cognome in comunicazioni di lavoro (vietato da regola aziendale, vedi characters/meridian-technologies.md) — infrazione più lieve di una smutandata, ma cumulabile
+
+- **Il volto nello screenshot** (autore, 2026-10-31): una donna sulla cinquantina mai vista in azienda, non una ragazza. La somiglianza con la ragazza di eTv Pete non la coglie nel cap. 20: la coglierà più avanti, insieme al glitch delle sei dita, riesaminando lo screenshot.

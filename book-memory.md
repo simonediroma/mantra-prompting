@@ -231,6 +231,7 @@ La pianificazione completa dei capitoli 1-25 è in `outline.md`; qui viene aggiu
 | La stanza di Emma, dettagli ammessi | Striscia di luce del corridoio sotto la porta al mattino; le porte del corridoio che si chiudono alle cinque; il carrello del caffè delle dieci che non si ferma; il carrello delle pulizie una volta a settimana senza che nessuno le parli; la poltrona e la stampante del fondatore | Cap. 10 (v4.3), 11, 13 |
 | Forum del giradischi | I post di Tom sono firmati quasi tutti con un'ora tra mezzanotte e le due | Cap. 12 (v6.4) |
 | Avvertimento del televisore Voss | Dati: battito dall'eWatch della signora (stesso account di casa). Deduzione: del televisore, durante le sessioni di "Yoga fit" ripetute. L'eWatch non decide e non sa; non attribuire mai all'orologio l'avvertimento | Cap. 5; meccanismo nel cap. 15 |
+| Avatar di Emma nel meeting | Figura simile alla ragazza dei video yoga di eTv, ma di almeno cinquant'anni, vicina all'età di Tom (autore, 2026-10-31); capelli rossi ricci, occhi verdi, lentiggini come da profilo. Non è la ragazza del video: è la stessa matrice invecchiata | Cap. 18-19 (pianificati) |
 | Tragitto casa-lavoro di Tom | Va al lavoro in autobus; la fermata è a due isolati da casa; nel cap. 4 corre per la prima volta in dodici anni per prenderlo | Cap. 4 (v3.1) |
 | Cucina di Tom | Telefona alla signora in piedi in cucina, luce del mattino di taglio sul tavolo, felpa già addosso | Cap. 4 (v3.1) |
 | Nastro trasportatore dell'assistenza | Si sente dal corridoio all'inizio del turno; porta i primi apparecchi verso le stanze dei tecnici | Cap. 2 (v3.1) |
@@ -253,6 +254,7 @@ La pianificazione completa dei capitoli 1-25 è in `outline.md`; qui viene aggiu
 
 | Date | Work done | Next step |
 |---|---|---|
+| 2026-10-31 | Pianificazione cap. 15-20 approvata: ferita e tell di Tom fissati, Pete nel corridoio del 15, POV alternato per 17-20, cap. 20 autonomo, avatar di Emma (ragazza di eTv a cinquant'anni), metodo `chapter` un capitolo per sessione | Aprire il cap. 15 con `ghost-writer:chapter` |
 | 2026-10-31 | Giro completo chiuso: cap. 1-14 rivisti uno per uno (schede, approvazioni, un commit per capitolo); blocco R1 (65 due punti riformulati nei cap. 1-7 e 11); cap. 14 v2.3. Audit: tutte le issue chiuse tranne la promessa eWatch (cap. 15) | Merge; pianificazione cap. 15-20 |
 | 2026-10-31 | Giro completo: consistency-check (7 issue, nessuna critica); cap. 1 v3.4 (§7). Meccanismo eWatch/televisore fissato | Giro: cap. 2 (hard reset nel 3 e 6, "rumore di fondo" nel 10, incipit del 12 lungo il percorso) |
 | 2026-10-31 | Lacune tecniche: `export_podcast.py scripts`/`check`, 14 copioni rigenerati dai capitoli (recap/teaser nel frontmatter, annunci senza titolo), cap. 1-5 `complete`, emoji tolta dal cap. 13 (v2.7), plan.md e ISTRUZIONI aggiornati | Approvare il copione 14; rigenerare l'audio (prima l'ep. 1); decidere l'ep. 8; `feed` |

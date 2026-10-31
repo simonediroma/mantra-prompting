@@ -23,7 +23,7 @@ version: 1.1
 
 ## Psicologia
 
-**La ferita**: non esplicitata nel materiale attuale — da approfondire. Ipotesi di lavoro: una vita passata a essere sottovalutato (un "tecnico", non uno scienziato) nonostante una competenza reale, che lo ha reso allergico alle affermazioni dirette e più a suo agio a verificare le cose da solo, con le mani.
+**La ferita** (fissata dall'autore il 2026-10-31): la stanza singola. Da quando Meridian ha automatizzato lo smistamento con il nastro e ha chiuso ogni tecnico in una stanza propria, nessuno gli ha più detto "guarda qui" né gliel'ha chiesto; con lo smistatore se n'è andato anche Francis, l'amico dell'Accademia. Non è l'essere sottovalutato a fargli male (quello lo ha accettato), è non avere più nessuno davanti a cui aprire il coperchio. Il cap. 14 lo mostra senza nominarlo ("Era solo da molto tempo. Non solo in quella faccenda."); la mail di Emma è la prima persona dall'altra parte del banco. Mai esplicitarla come diagnosi: resta nei gesti e nei silenzi.
 **La convinzione**: capire come funziona una cosa vale sempre la pena, indipendentemente dalle conseguenze etiche o umane che la scoperta comporta — non gli interessa "fare giustizia" per la morte della signora, gli interessa il meccanismo.
 **La paura**: non è ancora esplicitata in termini psicologici profondi — a livello pratico teme concretamente le ritorsioni di Pete (il richiamo, la decurtazione, l'interdizione), al punto da rimandare l'apertura di una mail cruciale per paura di un nuovo provvedimento.
 **Il punto cieco**: crede di poter restare un osservatore neutrale e tecnico anche quando la posta in gioco diventa personale — la mossa "furba" del meeting da remoto (invece di rottura totale o incontro fisico) è lucida sul piano aziendale, ma il libro lascia intendere che Tom non si accorge di quanto sia già emotivamente coinvolto con Emma.
@@ -32,7 +32,7 @@ version: 1.1
 
 **Sotto stress**: non fa mai affermazioni dirette — usa domande ed esche mirate per verificare le reazioni altrui, sia con i dispositivi sublimati sia, più avanti, con Emma stessa.
 **In conflitto**: quando la sorveglianza aziendale (il rumore della CCTV) lo interrompe durante il meeting con Emma, chiude bruscamente la conversazione con una battuta di circostanza, spostando l'incontro reale in un luogo "sicuro" (la mensa) — evita lo scontro diretto, aggira l'ostacolo invece di affrontarlo.
-**Il tell**: non ancora esplicitato — da definire in interviste successive o in fase di scrittura.
+**Il tell** (fissato dall'autore il 2026-10-31): quando è a disagio con una persona, non con una macchina, si guarda il polso. L'eWatch è il suo cronometro e il suo appiglio: come se potesse dirgli quanto tempo gli resta prima di dover rispondere. Nasce dal cap. 3 (il margine dei 47 secondi) e dal cap. 14 (la mail letta dentro il timer); nel cap. 15 lo stesso gesto gli fa capire il ruolo dell'eWatch della signora. Da usare nei dialoghi con esseri umani (telefonate, il meeting del cap. 19, la mensa nel Libro 2), mai davanti a un apparecchio.
 **Vuole vs. ha bisogno**: pensa di volere solo capire il meccanismo tecnico dietro gli artefatti e i dispositivi sublimati. Ha probabilmente bisogno di essere preso sul serio da qualcuno che riconosca la sua competenza reale — cosa che Emma, trattandolo da "collega", inizia a offrirgli.
 
 ## Arco
