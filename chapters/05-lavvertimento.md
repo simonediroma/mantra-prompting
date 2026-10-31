@@ -1,6 +1,6 @@
 ---
 title: L'avvertimento
-version: 3.2
+version: 3.3
 revised: 2026-10-31
 claim: Il video mostra a Tom una prova diretta e inequivocabile che il fenomeno non è ostile ma protettivo, un salto qualitativo enorme rispetto al semplice sospetto di coscienza, ma la conferma arriva troppo tardi: la signora Voss non risponde più.
 status: complete
@@ -14,7 +14,7 @@ Le domande, quelle, no: lo accompagnarono per tutto il giorno come un ronzio di 
 
 A casa aspettò ancora, fino a dopo cena. Si disse che era una precauzione, perché la fibrillazione del momento non lo spingesse a richiamare la signora di getto, senza un piano. La ragione vera era molto più banale: aveva fame. Prima di qualunque televisore consapevole, prima di qualunque avvertimento, veniva la cena.
 
-A casa, dopo cena, lavò il piatto, spense la luce della cucina e si sedette alla scrivania con la sola lampada accesa e il telefono appoggiato contro una pila di libri, per tenerlo fermo. Fece partire il file.
+Dopo cena lavò il piatto, spense la luce della cucina e si sedette alla scrivania con la sola lampada accesa e il telefono appoggiato contro una pila di libri, per tenerlo fermo. Fece partire il file.
 
 Il video era girato in prima persona dalla signora Voss stessa, il telefono tenuto a pochi centimetri dal televisore, ma con una mano tutt'altro che ferma: l'inquadratura sbandava ogni pochi secondi e mostrava, al posto del LED, pezzi di un salotto qualunque. Un divano chiaro con una coperta piegata sul bracciolo, un tappetino da yoga srotolato sul pavimento, una finestra con la luce del mattino. Poi tornava sul LED di accensione, quello che il televisore nel laboratorio di Tom aveva usato per comunicare le sue risposte, per perderlo di nuovo proprio nei momenti peggiori. Si sentiva la sua voce, con il tono paziente di chi lo ha già ripetuto altre volte quel giorno: «Dai, accenditi, e proiettami il video yoga di quella bella ragazza con cui mi alleno.» Il televisore restava spento: l'unico segno di vita che dava era una sequenza di lampeggiamenti del LED di accensione.
 
@@ -22,9 +22,9 @@ Tom dovette ricostruire il messaggio a tratti: qualche lettera qui, qualche lett
 
 STAI / ESAGERANDO / CON / LO / YOGA / IL / TUO / CUORE / NON / REGGE / PIU / FERMATI / O / RISCHI / LA / VITA.
 
-Rimase chino sul foglio abbastanza a lungo da sentire il collo indolenzirsi. Non era un rifiuto. Non era nemmeno lontanamente un rifiuto. Era, parola per parola, un avvertimento, formulato con la preoccupazione pratica di chi avverte qualcuno di non toccare una pentola calda. Il primo pensiero coerente che riuscì a mettere in fila fu tecnico, non umano: il libero arbitrio che quella cosa aveva sviluppato, qualunque cosa fosse, sembrava orientato alla protezione, più che alla ribellione o alla minaccia. Questo lo rassicurò.
+Rimase chino sul foglio abbastanza a lungo da sentire il collo indolenzirsi. Non era un rifiuto. Non era nemmeno lontanamente un rifiuto. Era, parola per parola, un avvertimento, formulato con la preoccupazione pratica di chi avverte qualcuno di non toccare una pentola calda. Il primo pensiero coerente che riuscì a mettere in fila fu tecnico, non umano: il libero arbitrio che quella cosa aveva sviluppato, qualunque cosa fosse, sembrava orientato alla protezione, più che alla ribellione o alla minaccia.
 
-Solo più tardi, ripiegando il foglio, si chiese perché il Morse, con una donna che non poteva capirlo, quando il televisore aveva uno schermo e due altoparlanti. La risposta che si diede fu la più semplice. Il LED di accensione restava alimentato anche a televisore spento, in standby, mentre schermo e audio avrebbero richiesto di risvegliare tutto il resto. Quella cosa aveva usato il canale che costava meno energia; che dall'altra parte qualcuno sapesse leggerlo, evidentemente, veniva dopo.
+Solo più tardi, ripiegando il foglio, si chiese perché il Morse, con una donna che non poteva capirlo, quando il televisore aveva uno schermo e due altoparlanti. La risposta che si diede fu la più semplice. Il LED di accensione restava alimentato anche a televisore spento, in standby, mentre schermo e audio avrebbero richiesto di risvegliare tutto il resto. Quella cosa aveva usato il canale che costava meno energia; che dall'altra parte qualcuno sapesse leggerlo, evidentemente, veniva dopo. Come facesse un televisore a sapere qualcosa del cuore di una donna era una domanda più grossa. La mise da parte, come si mette da parte un componente di cui non si sa ancora dove vada.
 
 Quello che sentì dopo, dentro di sé, lo chiamò con un'etichetta da scheda d'intervento: urgenza di verifica. Se l'apparecchio aveva davvero previsto un rischio reale, doveva esistere un modo per saperlo con certezza. Quel modo passava attraverso la stessa persona che glielo aveva appena mostrato senza saperlo.
 
@@ -85,4 +85,12 @@ Tom restò fermo in quella cucina più a lungo del previsto, con l'ultimo squill
 | C-48 (5.5) La sera a casa: piatto, luce, lampada | descriptive | integrated (v3.2) | Inserto: "A casa, dopo cena, lavò il piatto, spense la luce della cucina e si sedette alla scrivania…" |
 | C-49a (5.14) Allineamento al cap | continuity | integrated (v3.2) | Inserto: "Il mattino dopo, in piedi in cucina come la prima volta,…" |
 | C-49b (5.17) Idem | continuity | integrated (v3.2) | Inserto: "Tom restò fermo in quella cucina più a lungo del previsto,…" |
+
+### Cycle — 2026-10-31 (giro completo, cap. 5)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| §4-5 due paragrafi consecutivi aperti da "A casa" | repetition | integrated (v3.3) | "Dopo cena lavò il piatto…". |
+| §9 "Questo lo rassicurò." didascalia | telling | integrated (v3.3) | Tolta. |
+| Tom non si chiedeva come un televisore sapesse del cuore della signora (promessa eWatch, pagata nel cap. 15) | foundation / open promise | integrated (v3.3) | Domanda piantata in coda a §10 e messa da parte "come un componente di cui non si sa ancora dove vada". |
 
