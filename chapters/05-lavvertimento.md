@@ -1,12 +1,12 @@
 ---
 title: L'avvertimento
-version: 3.1
+version: 3.2
 revised: 2026-10-31
 claim: Il video mostra a Tom una prova diretta e inequivocabile che il fenomeno non è ostile ma protettivo, un salto qualitativo enorme rispetto al semplice sospetto di coscienza, ma la conferma arriva troppo tardi: la signora Voss non risponde più.
 status: draft
 ---
 
-Arrivò con due minuti di ritardo. Non gli era mai successo, almeno non in dodici anni di servizio. Il sistema di accesso registrò l'orario senza alcun commento: sotto i cinque minuti non scattava nessuna comunicazione diretta del ritardo al proprio supervisore. Sotto quella soglia, un ritardo restava un fatto privato anche in Meridian. Ma per Tom, che si era sempre vantato con se stesso di una puntualità totale, quei due minuti pesavano più di quanto qualunque supervisore avrebbe mai potuto farli pesare.
+Arrivò con due minuti di ritardo e passò il badge al varco con il fiato ancora corto. Non gli era mai successo, almeno non in dodici anni di servizio. Il sistema di accesso registrò l'orario senza alcun commento: sotto i cinque minuti non scattava nessuna comunicazione diretta del ritardo al proprio supervisore. Sotto quella soglia, un ritardo restava un fatto privato anche in Meridian. Ma per Tom, che si era sempre vantato con se stesso di una puntualità totale, quei due minuti pesavano più di quanto qualunque supervisore avrebbe mai potuto farli pesare.
 
 Non aprì il video al lavoro: sapeva già, per esperienza diretta, cosa costava farsi sorprendere a guardare un video personale sul cellulare durante un turno. Il video doveva aspettare la sera.
 
@@ -14,7 +14,7 @@ Le domande, quelle, no: lo accompagnarono per tutto il giorno come un ronzio di 
 
 A casa aspettò ancora, fino a dopo cena. Si disse che era una precauzione, perché la fibrillazione del momento non lo spingesse a richiamare la signora di getto, senza un piano. La ragione vera era molto più banale: aveva fame. Prima di qualunque televisore consapevole, prima di qualunque avvertimento, veniva la cena.
 
-A casa, dopo cena, si sedette alla scrivania con il telefono appoggiato contro una pila di libri, per tenerlo fermo. Fece partire il file.
+A casa, dopo cena, lavò il piatto, spense la luce della cucina e si sedette alla scrivania con la sola lampada accesa e il telefono appoggiato contro una pila di libri, per tenerlo fermo. Fece partire il file.
 
 Il video era girato in prima persona dalla signora Voss stessa, il telefono tenuto a pochi centimetri dal televisore, ma con una mano tutt'altro che ferma: l'inquadratura sbandava ogni pochi secondi e mostrava, al posto del LED, pezzi di un salotto qualunque. Un divano chiaro con una coperta piegata sul bracciolo, un tappetino da yoga srotolato sul pavimento, una finestra con la luce del mattino. Poi tornava sul LED di accensione, quello che il televisore nel laboratorio di Tom aveva usato per comunicare le sue risposte, per perderlo di nuovo proprio nei momenti peggiori. Si sentiva la sua voce, con il tono paziente di chi lo ha già ripetuto altre volte quel giorno: «Dai, accenditi, e proiettami il video yoga di quella bella ragazza con cui mi alleno.» Il televisore restava spento: l'unico segno di vita che dava era una sequenza di lampeggiamenti del LED di accensione.
 
@@ -32,13 +32,13 @@ Decise di aspettare la mattina, non per calcolo emotivo: per lo stesso motivo pe
 
 Prima di andare a dormire aprì il quaderno, aggiungendo una riga sotto la voce della signora Voss: *consapevole. Benevolo, non ostile.* Poche parole, ma erano le prime che si sentisse di scrivere con vera certezza da quando aveva iniziato quell'archivio.
 
-Il mattino dopo, seduto alla scrivania come la prima volta, con il consueto quarto d'ora di anticipo davanti a sé, compose il numero della signora Voss.
+Il mattino dopo, in piedi in cucina come la prima volta, con il consueto quarto d'ora di anticipo davanti a sé, compose il numero della signora Voss.
 
 Squillò a lungo. Nessuno rispose.
 
 Riprovò una seconda volta, lasciando passare qualche minuto, calcolando che forse era semplicemente sotto la doccia, o in cucina, o troppo lontana dal telefono per sentirlo la prima volta. Squillò di nuovo, uguale, fino a interrompersi da solo senza nemmeno la cortesia di una segreteria.
 
-Tom restò seduto a quella scrivania più a lungo del previsto, con l'ultimo squillo ancora nelle orecchie e i quindici minuti di anticipo che, per la seconda volta in due giorni, si stavano assottigliando senza che lui riuscisse a farci nulla.
+Tom restò fermo in quella cucina più a lungo del previsto, con l'ultimo squillo ancora nelle orecchie e i quindici minuti di anticipo che, per la seconda volta in due giorni, si stavano assottigliando senza che lui riuscisse a farci nulla.
 
 ## Demolition Log
 
@@ -76,3 +76,13 @@ Tom restò seduto a quella scrivania più a lungo del previsto, con l'ultimo squ
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | C-17 (A3.4) Il salotto della signora esisteva solo nella foto del cap. 12 | descriptive | integrated (v3.1) | Nel video, quando l'inquadratura sbanda, si vedono divano, coperta, tappetino srotolato, finestra con luce del mattino. |
+
+### Cycle — 2026-10-31 (passata descrittiva, giudizio §7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-47 (5.1) Il varco e il fiato corto della corsa del cap | descriptive | integrated (v3.2) | Inserto: "Arrivò con due minuti di ritardo e passò il badge al varco con il fiato ancora corto. Non …" |
+| C-48 (5.5) La sera a casa: piatto, luce, lampada | descriptive | integrated (v3.2) | Inserto: "A casa, dopo cena, lavò il piatto, spense la luce della cucina e si sedette alla scrivania…" |
+| C-49a (5.14) Allineamento al cap | continuity | integrated (v3.2) | Inserto: "Il mattino dopo, in piedi in cucina come la prima volta,…" |
+| C-49b (5.17) Idem | continuity | integrated (v3.2) | Inserto: "Tom restò fermo in quella cucina più a lungo del previsto,…" |
+

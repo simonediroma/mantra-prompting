@@ -225,6 +225,11 @@ La pianificazione completa dei capitoli 1-25 è in `outline.md`; qui viene aggiu
 | LED del televisore Voss nel video | Nessun colore dichiarato: la signora dice solo "lampeggia in un modo strano" (cap. 4 v3.2). Il LED normale è verde (cap. 1) | Cap. 4 |
 | Archivio degli artefatti e Emma | Emma sa che i suoi contenuti sono indicizzati con il contatto di Elab; toglierli senza lasciare traccia richiede le credenziali di un reparto, ed Elab non ha più nessuno che le abbia (cap. 10 v4.2). È così che deduce da dove sia partito Tom | Cap. 10 |
 | Risposta di Tom a Emma (G24) | Contiene modello, guasto, mancato ritiro, ricondizionamento. Se dica anche della morte non è detto nel cap. 14: lo si scopre quando Emma legge (cap. 16 o 18) | Cap. 14 (v2.2) |
+| Stagione del Libro 1 | Cap. 1-2 in inverno (gennaio); cap. 3 in poi dopo la fine dell'inverno (aprile); la prima finestra aperta "da mesi" al G20 (cap. 6). Il laboratorio di Tom non ha finestre, neon uguale in ogni stagione | Cap. 3 (v3.1), 6 (v4.2) |
+| Casa di Tom | Una stanza che fa da studio, salotto e magazzino (scrivania, lampada da tavolo, pila di libri, manuali, giradischi, libreria dei dischi) più la cucina con il tavolo; lava il piatto dopo cena; di mattina il caffè resta a raffreddarsi | Cap. 5, 7, 9 |
+| Odori nel libro | Flussante in laboratorio (cap. 1); plastica tiepida e detergente del carrello del ricondizionamento (cap. 6) | Cap. 1, 6 |
+| La stanza di Emma, dettagli ammessi | Striscia di luce del corridoio sotto la porta al mattino; le porte del corridoio che si chiudono alle cinque; il carrello del caffè delle dieci che non si ferma; il carrello delle pulizie una volta a settimana senza che nessuno le parli; la poltrona e la stampante del fondatore | Cap. 10 (v4.3), 11, 13 |
+| Forum del giradischi | I post di Tom sono firmati quasi tutti con un'ora tra mezzanotte e le due | Cap. 12 (v6.4) |
 | Tragitto casa-lavoro di Tom | Va al lavoro in autobus; la fermata è a due isolati da casa; nel cap. 4 corre per la prima volta in dodici anni per prenderlo | Cap. 4 (v3.1) |
 | Cucina di Tom | Telefona alla signora in piedi in cucina, luce del mattino di taglio sul tavolo, felpa già addosso | Cap. 4 (v3.1) |
 | Nastro trasportatore dell'assistenza | Si sente dal corridoio all'inizio del turno; porta i primi apparecchi verso le stanze dei tecnici | Cap. 2 (v3.1) |
@@ -247,6 +252,7 @@ La pianificazione completa dei capitoli 1-25 è in `outline.md`; qui viene aggiu
 
 | Date | Work done | Next step |
 |---|---|---|
+| 2026-10-31 | Passata descrittiva C-39…C-65 (29 inserti) su tutti i capitoli tranne il 14; cap. 5 allineato alla cucina del cap. 4. Giudizio §7 (rivalutazione) | Rimisurare la densità; se insufficiente riscrivere per intero le scene più scoperte (cap. 3 tre mesi, cap. 8 sera, cap. 10 mattina). Rigenerare tutti gli episodi |
 | 2026-10-31 | Chiuse le ultime 9 correzioni: cap. 1 v3.3 e 2 v3.2 (incisi), cap. 4 v3.2 (LED), cap. 10 v4.2 (archivio), cap. 14 v2.2 (morte in sospeso), emma.md (stanza), outline cap. 15/17/19, chapter_checklist in config. corrections.md: 0 aperte | Copione ep. 14; cap. 15 secondo l'outline aggiornato; rigenerazione audio in blocco (ep. 1, 2, 4, 5, 6, 9, 10, 11, 12, 13) |
 | 2026-10-31 | Cap. 14 v2.1: correzioni C-29…C-34 (", e", "il genere di" doppio, paragrafo ridondante, cronologia del silenzio, slot da ventuno minuti). Giudizio editoriale §6 su cap. 14 e cap. 11 v4.0 | Aperte: C-35 (rete del laboratorio, cap. 1), C-36 (emma.md spazio fisico), C-18, C-22, C-23, C-26, C-27, C-28, C-37, C-38 |
 | 2026-10-31 | Giudizio editoriale (`giudizio-editoriale-2026-10-31.md`); 20 correzioni applicate ai cap. 2, 4, 5, 6, 9, 10, 12, 13 via `corrections.md` (C-01…C-21, esclusa C-18) | Decidere C-18, C-22, C-23, C-27, C-28; character-interview del fondatore (C-24); aggiornare outline cap. 14-15 (C-25, C-26); rigenerare ep. 2, 4, 5, 6, 9, 10, 11, 12, 13 |

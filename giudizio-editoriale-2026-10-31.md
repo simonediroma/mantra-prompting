@@ -216,3 +216,44 @@ Due conseguenze da registrare:
 - **Cap. 8 dentro il 7**: l'autore l'ha lasciato com'è. Dal lato audio resta l'episodio da quattro minuti; dal lato libro è mezza pagina di analisi che chiude su "domani". Se non si fonde, almeno la sua apertura va resa autonoma (B1.5).
 - **La mail delle 8:00:01 come chiusura del cap. 14**: sconsigliato così com'è. Il cap. 14 chiude bene ed è già lungo (episodio da circa quindici minuti). Meglio un cap. 15 corto ma con una scena vera, costruita come qui (la mail letta dentro il timer di un altro apparecchio), e il bivio spostato nel cap. 17 come il documento già propone.
 - **Cap. 20 come coda del 19**: d'accordo, soprattutto per l'audio (A4.4): un episodio finale da tre minuti chiuderebbe male il Libro 1.
+
+---
+
+## 7. Rivalutazione dopo le correzioni (2026-10-31, sera)
+
+### 7.1 Verdetto
+
+L'autore ha ragione: il livello di dettaglio non è stato raggiunto. Le ventuno correzioni della Parte A erano puntuali (una frase qui, un oggetto là) e hanno sistemato stile, trama e qualche vuoto evidente, ma non hanno cambiato il modo in cui le scene sono costruite. Il libro resta scritto come ragionamento più schermate, con il corpo e la stanza aggiunti dopo. I numeri lo dicono meglio del giudizio.
+
+| Misura su 17.961 parole | Prima | Dopo |
+|---|---|---|
+| Odori | 0 | 0 |
+| Luce, buio, ombra, neon | 1 | 5 |
+| Stagione, meteo, temperatura (quasi tutte figurate) | 13 | 19 |
+| Suoni (ronzio, fruscio, clic, sibilo…) | 24 | 48 |
+
+Densità di dettagli fisici (luoghi, oggetti, corpo, luce, suono) ogni mille parole, per capitolo:
+
+| Cap. | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| dettagli / 1000 parole | 10 | 9 | **3** | 8 | 12 | 7 | 5 | 8 | 10 | **2** | 7 | 12 | 6 | **15** |
+
+Il cap. 14 è il riferimento: quindici dettagli ogni mille parole, e nessuno è decorativo (il nastro che aspetta, il panno con gli attrezzi, il clic che fa partire la mail). Il cap. 1 gli si avvicina. Tutto il resto sta sotto la metà, e i capitoli 3, 7, 10, 13 sono i più scoperti.
+
+### 7.2 Perché gli inserti non bastano
+
+- **Il dettaglio entra solo dove c'è un corpo.** Nel cap. 14 Tom ha le mani occupate per tutto il capitolo e il pensiero si appoggia ai gesti. Nei cap. 3, 6, 8, 9 Tom pensa e basta: non c'è un oggetto in mano, un'ora, una luce. Aggiungere una frase non crea il corpo che manca.
+- **I verbi di schermo dominano.** Aprì, lesse, cercò, filtrò, controllò: sette nel cap. 9, sei nel cap. 13, sette nel cap. 14 (ma lì compensati da otto verbi fisici). Nei cap. 10, 12, 13 i verbi fisici sono zero.
+- **Emma non aveva una stanza fino a ieri.** Ora ce l'ha (cap. 11 v4.0 e la nota riscritta nel profilo): poltrona, stampante, porta, corridoio. I cap. 10, 12 e 13 sono stati scritti prima di quella decisione e non la usano.
+- **Il tempo non passa.** Tre mesi nel cap. 3, tre settimane tra il 5 e il 6, senza una stagione. Il libro ha un orologio al secondo e nessun calendario.
+- **Un errore mio da correggere**: la cucina del cap. 4 (C-19) non è stata propagata al cap. 5, dove Tom telefona "seduto alla scrivania come la prima volta".
+
+### 7.3 Che cosa vuol dire "dettaglio raggiunto" in questo libro
+
+Non descrizioni. Il narratore deve restare asciutto, come da config. Vuol dire che ogni scena ha, nelle prime righe, quattro cose: dove sta il corpo, che ora è e che luce c'è, cosa fa il luogo mentre il personaggio pensa (il nastro, il corridoio, il disco che gira), e un oggetto in mano. Più un'immagine bassa e fisica per capitolo. Obiettivo misurabile: almeno dieci dettagli ogni mille parole nei capitoli di Tom, almeno sei in quelli di Emma, usando la sua unica stanza e il corridoio fuori dalla porta. Un odore ogni due capitoli. Una stagione dichiarata una volta per parte.
+
+### 7.4 La passata descrittiva
+
+In `corrections.md` (import "passata descrittiva") ci sono ventinove righe, C-39…C-65, una per scena scoperta, con il testo proposto. Sono inserti da una a tre frasi e due riscritture più ampie (i tre mesi del cap. 3 e l'apertura del cap. 10), in voce, nel rispetto delle regole (niente ", e" in narrazione, niente due punti a metà frase, niente commento del narratore). Toccano tutti i capitoli tranne il 14, più l'allineamento del cap. 5 alla cucina del cap. 4 (C-49). Il costo è la rigenerazione di tutti gli episodi, che è comunque prevista in blocco.
+
+Dopo la passata la densità stimata è questa: cap. 3 da 3 a 11, cap. 7 da 5 a 10, cap. 10 da 2 a 7, cap. 13 da 6 a 9. Se dopo l'applicazione il livello non basta ancora, il passo successivo non è un'altra passata di inserti ma la riscrittura per intero delle tre scene più scoperte (i tre mesi del cap. 3, la sera del cap. 8, la mattina del cap. 10) con la scena rimessa in piedi dal corpo, come nel cap. 14.

@@ -1,12 +1,12 @@
 ---
 title: internal_unknown
-version: 4.1
+version: 4.2
 claim: I tool pubblici di rilevamento IA falliscono sul video intero ma non sul solo testo del parlato, e passando quel transcript nell'archivio interno di Meridian Tom trova una corrispondenza che lo porta a una scoperta molto più grossa di quanto si aspettasse: un laboratorio di ricerca Meridian, silenzioso da cinque anni, è direttamente coinvolto nella morte della signora Voss.
 status: complete
 revised: 2026-10-31
 ---
 
-Il mattino dopo si alzò un'ora prima del solito. Fuori era ancora buio e la casa aveva il freddo delle stanze in cui il riscaldamento non ha ancora capito che qualcuno è sveglio. I quindici minuti di anticipo restavano dov'erano, intoccabili come ogni mattina. Quello che aveva in mente richiedeva tempo e l'unico posto da cui sapesse ancora prenderne era il sonno. Caricò l'intero video su tre dei servizi di rilevamento IA più noti in circolazione (Undetectable AI, ZeroGPT e Hive Moderation). Sperava che almeno uno dei tre gli dicesse con quale modello fosse stato generato, oltre a confermargli quello che ormai considerava un fatto acquisito.
+Il mattino dopo si alzò un'ora prima del solito. Fuori era ancora buio e la casa aveva il freddo delle stanze in cui il riscaldamento non ha ancora capito che qualcuno è sveglio. I quindici minuti di anticipo restavano dov'erano, intoccabili come ogni mattina. Quello che aveva in mente richiedeva tempo e l'unico posto da cui sapesse ancora prenderne era il sonno. In cucina, con il computer sul tavolo e il caffè che si raffreddava accanto senza che lo toccasse, caricò l'intero video su tre dei servizi di rilevamento IA più noti in circolazione (Undetectable AI, ZeroGPT e Hive Moderation). Sperava che almeno uno dei tre gli dicesse con quale modello fosse stato generato, oltre a confermargli quello che ormai considerava un fatto acquisito.
 
 Non lo confermarono. Tutti e tre, con percentuali leggermente diverse ma identici nella sostanza, restituirono lo stesso verdetto: contenuto reale, nessuna evidenza di generazione artificiale.
 
@@ -26,7 +26,7 @@ Aspettò l'ultima ora di turno, quando il corridoio fuori dal suo laboratorio si
 
 Non caricò nulla. La sera prima aveva dato il video intero a tre siti sconosciuti senza pensarci due volte, perché là fuori un file caricato era un gesto di chiunque. Qui dentro ogni clic aveva un proprietario. Non incollò nessun link, nessun file, niente che potesse ricondurre a un video visto sul suo telefono. Ribatté a memoria le frasi d'apertura del transcript, quelle che aveva riletto più volte quella mattina. Per una ricerca testuale bastavano. Rilesse il testo un'ultima volta e poi lanciò la ricerca nell'archivio.
 
-Il risultato arrivò in pochi secondi.
+Il risultato arrivò in pochi secondi. Tom si accorse di essersi alzato in piedi senza averlo deciso.
 
 **Corrispondenza trovata**
 **Data di generazione: 6 mesi fa**
@@ -86,3 +86,11 @@ Il video era un prodotto Meridian, pubblicato su un canale che di Meridian non p
 | C-11 (A2.6) "Cento per cento IA" unanime su un transcript fitness: non credibile | plausibility | integrated (v4.1) | Due detector su tre, con cautela; il terzo resta sul reale. |
 | C-12 (A2.5) Prudenza incoerente tra video caricato su siti pubblici e "non caricò nulla" | logical | integrated (v4.1) | Distinzione esplicita fuori/dentro Meridian. |
 | C-13 (A3.7) Mattino un'ora prima senza luce né temperatura | descriptive | integrated (v4.1) | Buio e freddo della casa. |
+
+### Cycle — 2026-10-31 (passata descrittiva, giudizio §7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-58 (9.1) La cucina al mattino, il caffè che non tocca | descriptive | integrated (v4.2) | Inserto: "In cucina, con il computer sul tavolo e il caffè che si raffreddava accanto senza che lo t…" |
+| C-59 (9.11) Il corpo al colpo di scena | descriptive | integrated (v4.2) | Inserto: "Il risultato arrivò in pochi secondi. Tom si accorse di essersi alzato in piedi senza aver…" |
+

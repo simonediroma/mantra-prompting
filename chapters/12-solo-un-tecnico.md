@@ -1,6 +1,6 @@
 ---
 title: Solo un tecnico?
-version: 6.3
+version: 6.4
 revised: 2026-10-31
 merged_from: "12-la-notizia (v4.0) + 13-il-sospetto-su-tom (v1.0, bozza)"
 claim: La pipeline con cui Emma sorveglia l'esposizione di Meridian nei media intercetta un articolo commemorativo sulla morte della signora Voss, un caso già nel suo archivio. Lo sgomento diventa lucidità quando ripensa alla mail di Tom, che la lista dell'assistenza conferma essere il tecnico di quel televisore. Rileggendo la mail sospetta che dietro ci sia un'indagine: qualcuno che usa l'account di Tom, o Tom stesso che scava. Il confronto di stile con le note di Tom esclude la prima ipotesi; organigramma, profilo aziendale e sito del giradischi non bastano a escludere la seconda. Tom è un tecnico, ma forse non solo: Emma deve scoprire cosa o chi ci sia dietro la mail.
@@ -32,7 +32,7 @@ Nell'organigramma della Divisione Assistenza Tecnica c'era un solo Tom. Dodici a
 
 Dalla voce dell'organigramma si arrivava alla sua pagina di presentazione aziendale, compilata chissà quanti anni prima e mai più aggiornata. Due righe sul ruolo e, in fondo, i link ai suoi profili esterni. Su LinkedIn, tra i progetti personali, ce n'era uno solo, con il link a un sito. Era un progetto open source per integrare l'IA nei giradischi e nei grammofoni, in modo da correggere il suono in tempo reale in base al peso del disco e alla posizione delle casse rispetto a chi ascolta muovendosi nella stanza.
 
-Il forum del progetto andava indietro di anni. Tom discuteva con un gruppo di audiofili, quasi tutti scandinavi, di pesi, curve di correzione e distanze tra le casse, con una pazienza che nessuno avrebbe sprecato per tenere in piedi una finzione. Erano anni di domande, prove fallite e tentativi ripresi da capo. Tom era davvero un tecnico, con un hobby che probabilmente lo assorbiva più del lavoro. Era anche il tipo di uomo che, davanti a un apparecchio che si comportava in modo strano, non avrebbe smesso di smontarlo finché non avesse capito.
+Il forum del progetto andava indietro di anni. Tom discuteva con un gruppo di audiofili, quasi tutti scandinavi, di pesi, curve di correzione e distanze tra le casse, con una pazienza che nessuno avrebbe sprecato per tenere in piedi una finzione. Erano anni di domande, prove fallite e tentativi ripresi da capo, quasi tutti firmati con un'ora tra mezzanotte e le due. Tom era davvero un tecnico, con un hobby che probabilmente lo assorbiva più del lavoro. Era anche il tipo di uomo che, davanti a un apparecchio che si comportava in modo strano, non avrebbe smesso di smontarlo finché non avesse capito.
 
 Una cosa però non le tornava. Nei messaggi più vecchi Tom raccontava anche cosa ascoltava, un disco, un brano, l'effetto di una correzione riuscita. In quelli recenti quei riferimenti mancavano del tutto. Parlava di musica con la competenza di sempre, ma non diceva più di ascoltarne. Non c'entrava niente con la signora Voss. Emma se lo annotò comunque.
 
@@ -107,3 +107,10 @@ Idea emersa e annotata in `book-memory.md` → Idee da valutare: *Vacanze romane
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | C-05/C-06 (A1.2) Quattro etichette emotive in una pagina (sgomento ×2, lucidità, allarme ×2) | telling | integrated (v6.3) | Sostituite con immagini (la mano sulla maniglia) e con il movimento del pensiero. |
+
+### Cycle — 2026-10-31 (passata descrittiva, giudizio §7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-64 (12.13) Un dettaglio del forum che dice chi è Tom (le due di notte del cap | descriptive | integrated (v6.4) | Inserto: "Erano anni di domande, prove fallite e tentativi ripresi da capo, quasi tutti firmati con …" |
+

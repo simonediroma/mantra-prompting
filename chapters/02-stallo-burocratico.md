@@ -1,6 +1,6 @@
 ---
 title: Stallo burocratico
-version: 3.2
+version: 3.3
 revised: 2026-10-31
 claim: Tom scopre il prezzo istituzionale della propria curiosità, una sanzione minima ma precisa: impara non a smettere di indagare, ma a farlo con più cautela, proprio mentre perde l'accesso diretto al televisore anomalo.
 status: draft
@@ -40,7 +40,7 @@ Lo stato dell'intervento era già cambiato.
 
 Non "in coda". Non "in attesa di ulteriore diagnosi", la dicitura che avrebbe lasciato la porta socchiusa. *In lavorazione.* Qualcuno, in quel momento, un collega del suo stesso turno che non aveva dovuto aprire nessuna comunicazione personale, lo aveva già preso in carico senza la minima idea di cosa avesse davanti. Stava probabilmente già staccando l'alimentazione e riavviando quell'apparecchio dalle fondamenta, cancellando con un gesto di routine tutto quello che ci fosse ancora là dentro: se c'era ancora qualcosa, se "esserci" era la parola giusta per una cosa del genere.
 
-Tom non staccò gli occhi dallo schermo per più tempo del necessario. Poi, senza una ragione tecnica precisa, aprì il cassetto della scrivania e tirò fuori il foglio di carta piegato in quattro, quello con IO / SONO / QUI scritto in stampatello un po' storto, la sola prova al mondo, ormai, che qualcosa fosse davvero successo in quella stanza. Un pezzo di carta contro un intero apparato aziendale che si muoveva, con perfetta indifferenza burocratica, per assicurarsi che le cose continuassero ad andare esattamente come dovevano andare.
+Tom non staccò gli occhi dallo schermo per più tempo del necessario. Poi, senza una ragione tecnica precisa, aprì il cassetto della scrivania. Si incastrava sempre a metà corsa e andava convinto con il palmo. Tirò fuori il foglio di carta piegato in quattro, quello con IO / SONO / QUI scritto in stampatello un po' storto, la sola prova al mondo, ormai, che qualcosa fosse davvero successo in quella stanza. Un pezzo di carta contro un intero apparato aziendale che si muoveva, con perfetta indifferenza burocratica, per assicurarsi che le cose continuassero ad andare esattamente come dovevano andare.
 
 Lo rimise nel cassetto, sotto alcuni manuali tecnici e procedurali ormai vecchi di anni, che nessuno gli aveva mai chiesto di restituire e che lui ormai considerava suoi.
 
@@ -76,3 +76,10 @@ Da quel momento, decise, non si sarebbe più fatto fregare dai tempi di Meridian
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | C-27 Inciso lungo tra parentesi sui fattori turno | style (audio) | integrated (v3.2) | Sciolto in apposizione; restano i due incisi brevi. |
+
+### Cycle — 2026-10-31 (passata descrittiva, giudizio §7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-40 (2.14) Il cassetto come oggetto, con un difetto suo | descriptive | integrated (v3.3) | Inserto: "Poi, senza una ragione tecnica precisa, aprì il cassetto della scrivania. Si incastrava se…" |
+

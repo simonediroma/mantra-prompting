@@ -1,9 +1,9 @@
 ---
 title: La routine di Emma
-version: 4.0
+version: 4.1
 claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore, raccontata dal narratore: lo stesso indovinello di ogni visita, ripetuto da anni come un mantra con parole sempre nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei non funzioni. Non gli dice della mail di Tom, su una casella che lui ha dimenticato; poi lo guarda stampare, come sempre, e archiviare il foglio.
 status: complete
-revised: 2026-10-30
+revised: 2026-10-31
 ---
 
 Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio. Non aveva ricevuto alcuna notifica, ma decise comunque di fare un giro nell'inbox, quasi ad aspettare che Tom rispondesse alla mail mentre lei era intenta a rassettare la casella di posta, che non aveva poi così tanto da rassettare. La risposta non arrivò.
@@ -36,7 +36,7 @@ L'archivio di Emma cominciava a essere corposo. Il primo caso risaliva a circa u
 
 Accanto alle richieste di assistenza aggiunse una colonna per separare i dispositivi con chip da quelli senza, poi riordinò tutto per mese. Nella colonna dei dispositivi senza chip i numeri restavano più o meno quelli di sempre. Nell'altra crescevano, mese dopo mese, con una regolarità che non aveva nulla di casuale.
 
-Poco prima della fine del turno controllò la casella di Elab un'ultima volta. Rimase con l'inbox aperta fino all'ultimo minuto utile. Alle diciassette in punto la chiuse, vuota com'era.
+Poco prima della fine del turno controllò la casella di Elab un'ultima volta. Rimase con l'inbox aperta fino all'ultimo minuto utile. Alle diciassette in punto la chiuse, vuota com'era. Il corridoio era già silenzioso da dieci minuti.
 
 ## Demolition Log
 
@@ -95,3 +95,10 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 | G3 "Mentre si alzava" con soggetto ambiguo | grammar | integrated | "Mentre lui si alzava". |
 | K1 Cap. 10 "i suoi soliti indovinelli" (plurale) vs cap. 11 "lo stesso indovinello di ogni visita" | continuity | integrated (opzione A) | Cap. 11 allineato alla prima menzione: "Poi passò agli indovinelli, come a ogni visita. Uno per volta, ripetuto come un mantra…". Canone: indovinelli diversi, ognuno ripetuto con parole nuove. |
 | §2 "suo turno" (Emma o Tom) · §10 "raccoglitore" ×2 | note | lasciate | Ambiguità innocua (16:59 per entrambi); ripetizione voluta per evitare l'ambiguità con "foglio". |
+
+### Cycle — 2026-10-31 (passata descrittiva, giudizio §7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-63 (11.ultimo) Chiusura con il corridoio | descriptive | integrated (v4.1) | Inserto: "Alle diciassette in punto la chiuse, vuota com'era. Il corridoio era già silenzioso da die…" |
+

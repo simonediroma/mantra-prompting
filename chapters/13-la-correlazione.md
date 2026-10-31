@@ -1,6 +1,6 @@
 ---
 title: La correlazione
-version: 2.5
+version: 2.6
 claim: Nelle statistiche di eTv Emma ritrova il picco di "Yoga fit" che aveva già registrato come un risultato: un solo spettatore, su una Smart TV, decine di riproduzioni al giorno fino alla vigilia della chiamata all'assistenza della signora Voss. Il meccanismo lo conosce; per la prima volta guarda chi c'è dall'altra parte della curva. Il video ha funzionato, ma la cliente è morta: il televisore non era più in casa, eppure nei giorni senza log potrebbe aver preparato il terreno. Prima di agire deve sapere; l'unico ancora vivo che l'abbia avuto davanti è Tom. Cercando la matricola scopre che Tom l'ha avuto due volte, prima e dopo la morte, e che le ha scritto sapendo già del decesso. Decide di riscrivergli: scuse per il tono come appiglio, domande di cui conosce già le risposte.
 status: complete
 revised: 2026-10-31
@@ -32,7 +32,7 @@ La fotografia dell'articolo era ancora aperta, il tappetino arrotolato nell'ango
 
 Di quello che facevano gli apparecchi prima di smettere di rispondere ai comandi, Emma non aveva mai saputo niente. Il suo archivio cominciava con una chiamata all'assistenza e finiva con una riga, *riconsegnato dopo hard reset*. I log degli ultimi giorni mancavano sempre, gli stessi giorni in cui la curva saliva più in fretta; l'hard reset cancellava il resto. Il frigorifero si era rifiutato di salire oltre i cinque gradi e lei l'aveva preso per un capriccio, quasi per una cosa buffa da annotare. Un televisore si era rifiutato di accendersi per una donna che lo guardava trenta volte al giorno. Qualche settimana dopo quella donna era morta, sul suo tappetino, nello stesso salotto. Non poteva essere stato il televisore a ucciderla, perché non c'era. Ma in quei giorni senza log, collegato alla rete di casa, poteva aver fatto qualunque cosa. Niente di quello che sapeva le permetteva di escludere che avesse preparato il terreno. Se l'aveva fatto, l'aveva fatto perché lei gli aveva dato quel video.
 
-Rimase sul pannello a lungo. Il grafico non cambiava, l'utente anonimo restava in cima alla lista con il suo zero in fondo alla riga e il riquadro dei complimenti continuava a fidelizzare un pubblico che non c'era più. Quando guardò l'orario erano le dieci passate. Il processo del mattino non era ancora partito. I topic del giorno aspettavano nella loro lista, non scremati, per la prima volta da quando la lista esisteva.
+Rimase sul pannello a lungo. Dal corridoio passò il carrello del caffè delle dieci, che davanti alla sua porta non si fermava mai. Il grafico non cambiava, l'utente anonimo restava in cima alla lista con il suo zero in fondo alla riga e il riquadro dei complimenti continuava a fidelizzare un pubblico che non c'era più. Quando guardò l'orario erano le dieci passate. Il processo del mattino non era ancora partito. I topic del giorno aspettavano nella loro lista, non scremati, per la prima volta da quando la lista esisteva.
 
 Il primo impulso fu togliere il video. Era la cosa più semplice da fare, il che bastava a renderla sospetta. Lo stesso video lo avevano visto decine di migliaia di persone che non avevano mai chiamato l'assistenza. Quello che era cambiato, in quel salotto, era l'apparecchio. Toglierlo avrebbe protetto qualcuno solo se il pericolo stava nel video. Emma non lo sapeva. Prima doveva capire se quel televisore fosse diventato un angelo della morte. Fino ad allora ogni gesto sarebbe stato fatto alla cieca. C'era anche una ragione meno nobile, arrivata subito dopo la prima senza farsi cacciare. Un contenuto rimosso proprio adesso, dopo un articolo sul giornale e mentre qualcuno faceva domande sulla casella di Elab, sarebbe stato l'unico gesto di cui qualcuno avrebbe potuto accorgersi. Lo lasciò dov'era. Restava la domanda vera, che a ogni passaggio del ragionamento era tornata più insistente, finché non coprì tutto il resto. Cosa aveva fatto quel televisore negli ultimi giorni della signora Voss? E come poteva saperlo senza lasciare traccia? I log non esistevano più. L'apparecchio era stato azzerato secondo procedura. Chiedere a qualcuno la sua storia significava spiegare perché le interessasse, a chi non doveva sapere che esisteva un archivio, un pannello, una curva. Ogni passo in quella direzione la portava fuori, dove tutto quello che aveva costruito poteva essere visto. Per cinque anni aveva fatto in modo che non succedesse. Adesso le sembrava molto meno importante di quanto fosse stato un'ora prima.
 
@@ -96,3 +96,10 @@ Letta adesso, sapendo che Tom conosceva già la fine della signora Voss, quella 
 |---|---|---|---|
 | C-01 (A1.4) Paragrafo "Il primo impulso fu togliere il video" con connettivi da verbale | style | integrated (v2.5) | Riscritto. |
 | C-02/C-03/C-04 (A1.5, A1.6) Bugia di Tom ripetuta tre volte; chiusura riassuntiva | redundancy / structure | integrated (v2.5) | Tolte le ripetizioni; il capitolo chiude sulle dieci e mezza e su Tom che può rispondere subito. |
+
+### Cycle — 2026-10-31 (passata descrittiva, giudizio §7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-65 (13.11) Il corridoio di Emma alle dieci, comico e ambiguo | descriptive | integrated (v2.6) | Inserto: "Rimase sul pannello a lungo. Dal corridoio passò il carrello del caffè delle dieci, che da…" |
+
