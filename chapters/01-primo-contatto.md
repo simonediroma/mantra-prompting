@@ -1,6 +1,6 @@
 ---
 title: Primo contatto
-version: 3.3
+version: 3.4
 revised: 2026-10-31
 claim: Tom scopre, per pura affinità con il suo stesso hobby, che un elettrodomestico Meridian può comunicare in Morse: la scoperta lo riempie di stupore puro, non di sospetto, perché l'isolamento del suo laboratorio gli garantisce che il fenomeno sia reale.
 status: draft
@@ -8,7 +8,7 @@ status: draft
 
 Il televisore era acceso da dodici minuti e non aveva ancora emesso uno solo dei suoni tipici della televisione, il jingle di un gioco a premi, l'applauso di un pubblico pagato, una risata registrata partita al momento sbagliato, lo squillo isterico di un'edizione straordinaria del telegiornale. Il che, considerato tutto, lo rendeva comunque l'interlocutore più valido che Tom avesse incontrato in settimana.
 
-Stava sul banco come un paziente sedato, il retro aperto, le viscere di plastica e rame esposte alla luce fredda del laboratorio. Fuori, da qualche parte oltre le pareti insonorizzate, esisteva un mondo con orari, scadenze e persone che si scambiavano opinioni sul meteo. Qui dentro esisteva solo il ronzio basso dell'alimentatore da banco e un uomo di cinquantatré anni chino su una scheda madre come un chirurgo che ha smesso da tempo di stupirsi di cosa si nasconde sotto la pelle delle persone.
+Stava sul banco come un paziente sedato, il retro aperto, le viscere di plastica e rame esposte alla luce fredda del laboratorio. Fuori, da qualche parte oltre le pareti insonorizzate, esisteva un mondo con orari, scadenze e persone che si scambiavano opinioni sul meteo. Qui dentro esistevano solo il ronzio basso dell'alimentatore da banco, l'odore di flussante che non se ne andava mai del tutto e un uomo di cinquantatré anni chino su una scheda madre come un chirurgo che ha smesso da tempo di stupirsi di cosa si nasconde sotto la pelle delle persone.
 
 Tom era alto, troppo alto per gli sgabelli da laboratorio, che infatti disprezzava apertamente; magro con la magrezza nervosa di chi ha bruciato la maggior parte del proprio grasso corporeo pensando invece che correndo; i capelli, quel poco che ne restava, pettinati con la rassegnazione di chi ha fatto pace col proprio cranio molto prima degli altri. Portava gli occhiali da lettura calati sulla punta del naso e una felpa con cappuccio nonostante in laboratorio si stesse benissimo, perché per Tom vestirsi comodi era una forma di rispetto verso se stesso e verso il proprio lavoro, non verso la stagione.
 
@@ -144,3 +144,10 @@ Voleva solo capire come diavolo fosse accaduto. E perché.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | C-27 Tre incisi lunghi tra parentesi (§1, §6, §40) che a voce fanno perdere la frase principale | style (audio) | integrated (v3.3) | Sciolti in frasi autonome; restano i due incisi brevi (§7, §23). |
+
+### Cycle — 2026-10-31 (passata descrittiva, giudizio §7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-39 (1.2) Primo odore del libro: il laboratorio | descriptive | integrated (v3.4) | Inserto: "Qui dentro esistevano solo il ronzio basso dell'alimentatore da banco, l'odore di flussant…" |
+

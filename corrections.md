@@ -6,11 +6,12 @@
 ## Riepilogo
 
 ```
-CORRECTIONS — 29 open (38 done)
-  passata descrittiva: 29   (C-39…C-65; C-61 contiene un indizio medio-forte, da confermare)
+CORRECTIONS — 0 open (67 done)
 ```
 
 Episodi audio toccati dalle correzioni applicate: 1, 2, 4, 5, 6, 9, 10, 12, 13 (più il 14, ancora senza copione) (gli ep. 11, 12, 13 sono comunque da rigenerare per motivi tecnici; vedi `giudizio-editoriale-2026-10-31.md → 4`).
+
+## Archive
 
 ## Import 2026-10-31 (notte) — passata descrittiva (giudizio §7)
 
@@ -18,208 +19,207 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 7.4`. Obiettivo: almeno dieci dett
 
 ---
 
-### C-39 · 1.2 · insert · open
+### C-39 · 1.2 · insert · done
 **Nota**: Primo odore del libro: il laboratorio.
 **Originale**: "Qui dentro esisteva solo il ronzio basso dell'alimentatore da banco e un uomo"
 **Proposta**: "Qui dentro esistevano solo il ronzio basso dell'alimentatore da banco, l'odore di flussante che non se ne andava mai del tutto e un uomo"
 
 ---
 
-### C-40 · 2.14 · insert · open
+### C-40 · 2.14 · insert · done
 **Nota**: Il cassetto come oggetto, con un difetto suo.
 **Originale**: "Poi, senza una ragione tecnica precisa, aprì il cassetto della scrivania e tirò fuori il foglio di carta piegato in quattro, quello con"
 **Proposta**: "Poi, senza una ragione tecnica precisa, aprì il cassetto della scrivania. Si incastrava sempre a metà corsa e andava convinto con il palmo. Tirò fuori il foglio di carta piegato in quattro, quello con"
 
 ---
 
-### C-41 · 3.1 · insert · open
+### C-41 · 3.1 · insert · done
 **Nota**: Tre mesi senza stagione né luce: il turno del mattino e l'inverno finito in una stanza senza finestre.
 **Originale**: "mattino, pomeriggio e notte: per quel trimestre gli era toccato il mattino."
 **Proposta**: "mattino, pomeriggio e notte: per quel trimestre gli era toccato il mattino. Voleva dire uscire di casa con il buio, guardare il cielo schiarire dal finestrino dell'autobus e tornare che il pomeriggio era ancora intero, un lusso che non sapeva come spendere. Nel frattempo l'inverno era finito senza che in laboratorio se ne accorgesse nessuno. La stanza di Tom non aveva finestre e il neon faceva la stessa luce a gennaio e ad aprile."
 
 ---
 
-### C-42a · 3.3 · insert · open
+### C-42a · 3.3 · insert · done
 **Nota**: Il quaderno come oggetto.
 **Originale**: "un quaderno nero che gli aveva regalato un fornitore di componenti che non era sopravvissuto alla bolla AI."
 **Proposta**: "un quaderno nero che gli aveva regalato un fornitore di componenti che non era sopravvissuto alla bolla AI, con la copertina di cartone già gonfia agli angoli e il logo del fornitore mezzo scolorito sul dorso."
 
 ---
 
-### C-42b · 3.3 · insert · open
+### C-42b · 3.3 · insert · done
 **Nota**: La sera del quaderno: lampada, occhiali, scrivania.
 **Originale**: "Ogni sera, tornato dall'ultimo turno, si sedeva e ricostruiva a memoria quello che contava:"
 **Proposta**: "Ogni sera, tornato dall'ultimo turno, si sedeva alla scrivania, accendeva solo la lampada da tavolo, si calava gli occhiali da lettura sulla punta del naso e ricostruiva a memoria quello che contava:"
 
 ---
 
-### C-43 · 3.5 · rewrite · open
+### C-43 · 3.5 · rewrite · done
 **Nota**: Come arriva un apparecchio sul banco: il nastro, la scheda nella busta.
 **Originale**: "Arrivò un martedì, verso la fine del turno, un modello identico a quello di tre mesi prima, portato da un altro cliente che, come tutti gli altri, raccontava:"
 **Proposta**: "Arrivò un martedì, verso la fine del turno, sul nastro, con la scheda del cliente nella busta di plastica appiccicata sul retro. Era un modello identico a quello di tre mesi prima, portato da un altro cliente che, come tutti gli altri, raccontava:"
 
 ---
 
-### C-44 · 3.7 · insert · open
+### C-44 · 3.7 · insert · done
 **Nota**: Il corpo di Tom prima della domanda (e gli sgabelli del cap. 1).
 **Originale**: "«Ti senti solo?» chiese, a voce bassa."
 **Proposta**: "Si appoggiò al banco con tutte e due le mani, in piedi, perché gli sgabelli restavano quello che erano. «Ti senti solo?» chiese, a voce bassa."
 
 ---
 
-### C-45 · 3.16 · insert · open
+### C-45 · 3.16 · insert · done
 **Nota**: Gesto di chiusura.
 **Originale**: "Chiuse il quaderno, lo rimise accanto ai manuali. Per la prima volta"
 **Proposta**: "Chiuse il quaderno, lo rimise accanto ai manuali e spense la lampada. Per la prima volta"
 
 ---
 
-### C-46 · 4.4 · insert · open
+### C-46 · 4.4 · insert · done
 **Nota**: La casa della signora, dalla voce.
 **Originale**: "«Pronto?» ¶ «Buongiorno, signora Voss"
 **Proposta**: "«Pronto?» ¶ La voce arrivava da una stanza con una radio accesa, abbassata subito dopo. ¶ «Buongiorno, signora Voss"
 
 ---
 
-### C-47 · 5.1 · insert · open
+### C-47 · 5.1 · insert · done
 **Nota**: Il varco e il fiato corto della corsa del cap. 4.
 **Originale**: "Arrivò con due minuti di ritardo. Non gli era mai successo"
 **Proposta**: "Arrivò con due minuti di ritardo e passò il badge al varco con il fiato ancora corto. Non gli era mai successo"
 
 ---
 
-### C-48 · 5.5 · insert · open
+### C-48 · 5.5 · insert · done
 **Nota**: La sera a casa: piatto, luce, lampada.
 **Originale**: "A casa, dopo cena, si sedette alla scrivania con il telefono appoggiato contro una pila di libri, per tenerlo fermo."
 **Proposta**: "A casa, dopo cena, lavò il piatto, spense la luce della cucina e si sedette alla scrivania con la sola lampada accesa e il telefono appoggiato contro una pila di libri, per tenerlo fermo."
 
 ---
 
-### C-49a · 5.14 · continuity · open
+### C-49a · 5.14 · continuity · done
 **Nota**: Allineamento al cap. 4 v3.1 (C-19): la prima telefonata è in piedi in cucina, non alla scrivania.
 **Originale**: "Il mattino dopo, seduto alla scrivania come la prima volta,"
 **Proposta**: "Il mattino dopo, in piedi in cucina come la prima volta,"
 
 ---
 
-### C-49b · 5.17 · continuity · open
+### C-49b · 5.17 · continuity · done
 **Nota**: Idem.
 **Originale**: "Tom restò seduto a quella scrivania più a lungo del previsto,"
 **Proposta**: "Tom restò fermo in quella cucina più a lungo del previsto,"
 
 ---
 
-### C-50 · 6.1 · insert · open
+### C-50 · 6.1 · insert · done
 **Nota**: Secondo odore: il carrello del ricondizionamento.
 **Originale**: "tutti con la stessa etichetta gialla sul retro. Lo stesso modello,"
 **Proposta**: "tutti con la stessa etichetta gialla sul retro. Il carrello del ricondizionamento aveva un odore suo, plastica tiepida e detergente, che Tom riconosceva prima ancora di vederlo entrare dalla porta. Lo stesso modello,"
 
 ---
 
-### C-51 · 6.12 · insert · open
+### C-51 · 6.12 · insert · done
 **Nota**: Stagione: la prima finestra aperta.
 **Originale**: "Lo cercò quella sera, da casa: chiaramente"
 **Proposta**: "Lo cercò quella sera, da casa, con la finestra aperta per la prima volta da mesi: chiaramente"
 
 ---
 
-### C-52 · 7.1 · insert · open
+### C-52 · 7.1 · insert · done
 **Nota**: La casa di Tom in una riga.
 **Originale**: "Si alzò dalla scrivania e andò verso il giradischi."
 **Proposta**: "Si alzò dalla scrivania e attraversò la stanza, che faceva insieme da studio, salotto e magazzino, fino al giradischi."
 
 ---
 
-### C-53 · 7.4 · insert · open
+### C-53 · 7.4 · insert · done
 **Nota**: Gli occhiali del cap. 1 tornano in scena.
 **Originale**: "Tom lasciò il telefono appoggiato contro la solita pila di libri e riaprì la stessa ricerca sul computer."
 **Proposta**: "Tom si tolse gli occhiali da lettura, li pulì sul bordo della felpa, li rimise, lasciò il telefono appoggiato contro la solita pila di libri e riaprì la stessa ricerca sul computer."
 
 ---
 
-### C-54 · 7.10 · insert · open
+### C-54 · 7.10 · insert · done
 **Nota**: Il corpo nel momento della scoperta.
 **Originale**: "Tom fermò il video e tornò indietro un fotogramma alla volta con la tastiera."
 **Proposta**: "Tom fermò il video, si avvicinò allo schermo fino a sentirne il calore sulla faccia e tornò indietro un fotogramma alla volta con la tastiera."
 
 ---
 
-### C-55 · 8.1 · insert · open
+### C-55 · 8.1 · insert · done
 **Nota**: Postura e disco che gira.
 **Originale**: "iniziò a scorrere l'elenco dei video, uno dopo l'altro, con la stessa pazienza metodica"
 **Proposta**: "iniziò a scorrere l'elenco dei video, uno dopo l'altro, con il mento appoggiato sulla mano e il disco che intanto era passato alla terza traccia, con la stessa pazienza metodica"
 
 ---
 
-### C-56 · 8.5 · insert · open
+### C-56 · 8.5 · insert · done
 **Nota**: L'immagine bassa e fisica del capitolo.
 **Originale**: "Era un'operazione, sistematica quanto anonima."
 **Proposta**: "Era un'operazione, sistematica quanto anonima, un supermercato aperto di notte con tutte le luci accese e nessuno alla cassa."
 
 ---
 
-### C-57 · 8.6 · insert · open
+### C-57 · 8.6 · insert · done
 **Nota**: Temperatura della stanza a fine serata.
 **Originale**: "Erano ormai le undici passate. Domani,"
 **Proposta**: "Erano ormai le undici passate e la stanza si era raffreddata. Domani,"
 
 ---
 
-### C-58 · 9.1 · insert · open
+### C-58 · 9.1 · insert · done
 **Nota**: La cucina al mattino, il caffè che non tocca.
 **Originale**: "Caricò l'intero video su tre dei servizi di rilevamento IA"
 **Proposta**: "In cucina, con il computer sul tavolo e il caffè che si raffreddava accanto senza che lo toccasse, caricò l'intero video su tre dei servizi di rilevamento IA"
 
 ---
 
-### C-59 · 9.11 · insert · open
+### C-59 · 9.11 · insert · done
 **Nota**: Il corpo al colpo di scena.
 **Originale**: "Il risultato arrivò in pochi secondi."
 **Proposta**: "Il risultato arrivò in pochi secondi. Tom si accorse di essersi alzato in piedi senza averlo deciso."
 
 ---
 
-### C-60 · 10.1 · insert · open
+### C-60 · 10.1 · insert · done
 **Nota**: La stanza di Emma (una sola, mai descritta): la luce sotto la porta.
 **Originale**: "Ogni mattina, prima di qualunque altra cosa, faceva girare lo stesso processo."
 **Proposta**: "Ogni mattina, quando sotto la porta compariva la striscia di luce del corridoio, prima di qualunque altra cosa faceva girare lo stesso processo."
 
 ---
 
-### C-61 · 10.3 · insert · open
+### C-61 · 10.3 · insert · done
 **Nota**: Il vuoto intorno a lei reso dalla stanza. ATTENZIONE: indizio medio-forte (nessuno le rivolge la parola); l'autore decide.
 **Originale**: "fatto di pochissime mail ricevute durante il giorno e nessun meeting in presenza a cui partecipare."
 **Proposta**: "fatto di pochissime mail ricevute durante il giorno, nessun meeting in presenza a cui partecipare e una stanza in cui, a parte il fondatore, entrava solo il carrello delle pulizie, una volta a settimana, senza che nessuno le rivolgesse la parola."
 
 ---
 
-### C-62 · 10.14 · insert · open
+### C-62 · 10.14 · insert · done
 **Nota**: Il corridoio alle cinque, come nel cap. 14 (simmetria voluta).
 **Originale**: "mandò la mail alle sedici e cinquantanove, giusto in tempo prima della fine del turno."
 **Proposta**: "mandò la mail alle sedici e cinquantanove, giusto in tempo prima della fine del turno, mentre dal corridoio arrivavano le porte che si chiudevano una dopo l'altra, come ogni sera."
 
 ---
 
-### C-63 · 11.ultimo · insert · open
+### C-63 · 11.ultimo · insert · done
 **Nota**: Chiusura con il corridoio.
 **Originale**: "Alle diciassette in punto la chiuse, vuota com'era."
 **Proposta**: "Alle diciassette in punto la chiuse, vuota com'era. Il corridoio era già silenzioso da dieci minuti."
 
 ---
 
-### C-64 · 12.13 · insert · open
+### C-64 · 12.13 · insert · done
 **Nota**: Un dettaglio del forum che dice chi è Tom (le due di notte del cap. 1).
 **Originale**: "Erano anni di domande, prove fallite e tentativi ripresi da capo."
 **Proposta**: "Erano anni di domande, prove fallite e tentativi ripresi da capo, quasi tutti firmati con un'ora tra mezzanotte e le due."
 
 ---
 
-### C-65 · 13.11 · insert · open
+### C-65 · 13.11 · insert · done
 **Nota**: Il corridoio di Emma alle dieci, comico e ambiguo.
 **Originale**: "Rimase sul pannello a lungo. Il grafico non cambiava,"
 **Proposta**: "Rimase sul pannello a lungo. Dal corridoio passò il carrello del caffè delle dieci, che davanti alla sua porta non si fermava mai. Il grafico non cambiava,"
 
-## Archive
 
 ## Import 2026-10-31 — dal giudizio editoriale (Parte A: audiolibro)
 

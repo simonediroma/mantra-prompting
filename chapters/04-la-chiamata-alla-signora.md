@@ -1,6 +1,6 @@
 ---
 title: La chiamata alla signora
-version: 3.2
+version: 3.3
 revised: 2026-10-31
 claim: Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo.
 status: draft
@@ -13,6 +13,8 @@ Quella mattina era pronto per uscire con il solito anticipo: usciva sempre abbas
 Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare, in piedi in cucina, con la luce del mattino di taglio sul tavolo e la felpa già addosso. Si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti: mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
 
 «Pronto?»
+
+La voce arrivava da una stanza con una radio accesa, abbassata subito dopo.
 
 «Buongiorno, signora Voss, sono Tom, la chiamo dal controllo qualità di Meridian per una breve intervista: raccogliamo qualche impressione su come si è trovata ad attivare l'assistenza, e con le persone con cui ha parlato durante il processo.» La frase gli uscì più fluida di quanto si aspettasse. Era anche, per metà, vera.
 
@@ -95,3 +97,10 @@ Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati d
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | C-18 "tutto rosso" senza riscontro nel cap. 1 (LED verde) né nel cap. 5 | continuity | integrated (v3.2) | Scelta dell'autore: tolto il colore dalla battuta della signora. |
+
+### Cycle — 2026-10-31 (passata descrittiva, giudizio §7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-46 (4.4) La casa della signora, dalla voce | descriptive | integrated (v3.3) | Inserto: "«Pronto?»  La voce arrivava da una stanza con una radio accesa, abbassata subito dopo.  «B…" |
+

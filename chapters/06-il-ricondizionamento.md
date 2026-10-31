@@ -1,12 +1,12 @@
 ---
 title: Il ricondizionamento
-version: 4.1
+version: 4.2
 revised: 2026-10-31
 claim: Tom trova la conferma definitiva e irreversibile che l'avvertimento del televisore era fondato, la signora Voss è morta come previsto, ma la scoperta che lo turba di più, tecnicamente, è che il dispositivo non si sia limitato a comunicare come una persona senziente: sembra aver fatto anche una diagnosi clinica precisa, abbastanza da prevedere cosa sarebbe successo.
 status: complete
 ---
 
-Il televisore arrivò al suo banco in mezzo a una decina di altri apparecchi destinati al ricondizionamento, tutti con la stessa etichetta gialla sul retro. Lo stesso modello, lo stesso colore di quello della signora Voss: abbastanza per fargli rallentare il polso, non abbastanza per esserne certo. Il numero di serie di quel televisore lo ricordava a memoria, come tutti gli altri che aveva deciso di annotare nel suo archivio. Ma quello in particolare era indelebile: il numero era l'identificativo univoco dell'evento che gli stava cambiando la vita, non avrebbe potuto dimenticarlo nemmeno volendo.
+Il televisore arrivò al suo banco in mezzo a una decina di altri apparecchi destinati al ricondizionamento, tutti con la stessa etichetta gialla sul retro. Il carrello del ricondizionamento aveva un odore suo, plastica tiepida e detergente, che Tom riconosceva prima ancora di vederlo entrare dalla porta. Lo stesso modello, lo stesso colore di quello della signora Voss: abbastanza per fargli rallentare il polso, non abbastanza per esserne certo. Il numero di serie di quel televisore lo ricordava a memoria, come tutti gli altri che aveva deciso di annotare nel suo archivio. Ma quello in particolare era indelebile: il numero era l'identificativo univoco dell'evento che gli stava cambiando la vita, non avrebbe potuto dimenticarlo nemmeno volendo.
 
 Lo confrontò con quello stampato sul retro dell'apparecchio. Coincideva. Era il televisore della signora Voss.
 
@@ -28,7 +28,7 @@ Non gli interessava la morte in sé. Non voleva fare giustizia a una signora che
 
 Prima di tutto, però, doveva sapere se la causa fosse compatibile con l'avvertimento che il dispositivo aveva provato a dare. Se fosse morta per un incidente in strada, o per una malattia che non avesse nulla a che fare con l'attività fisica, tutto si sarebbe ridimensionato. Non era un ragionamento razionale, lo sapeva. Ma una cosa era aver trovato la prova che un televisore potesse relazionarsi con l'esterno come una persona senziente. Un'altra, ben diversa, era che quello stesso dispositivo avesse anche imparato a formulare diagnosi cliniche precise, al punto da prevedere quello che poi sarebbe successo.
 
-Lo cercò quella sera, da casa: chiaramente non era il tipo di ricerca da fare al lavoro. Bastò poco. Sotto il nome della signora Voss, su un social, c'era un post del fratello, con una foto di qualche anno prima e poche righe asciutte: *Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.* Sotto, una fila di condoglianze. Niente incidenti né coincidenze sfortunate: il cuore, proprio come aveva detto il televisore.
+Lo cercò quella sera, da casa, con la finestra aperta per la prima volta da mesi: chiaramente non era il tipo di ricerca da fare al lavoro. Bastò poco. Sotto il nome della signora Voss, su un social, c'era un post del fratello, con una foto di qualche anno prima e poche righe asciutte: *Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.* Sotto, una fila di condoglianze. Niente incidenti né coincidenze sfortunate: il cuore, proprio come aveva detto il televisore.
 
 Quello che restava ancora poco chiaro era se ci fosse una relazione tra il video rivisto in loop come un mantra dalla signora Voss e l'atto di presa di coscienza del televisore. Non aveva nessuna prova che ci fosse. Aveva solo due fatti messi in fila: il televisore si era rifiutato di accendersi proprio mentre lei gli chiedeva quel video; il messaggio che aveva lampeggiato al suo posto parlava di yoga. Era poco, lo sapeva. Del primo televisore, quello di quasi quattro mesi prima, non sapeva nemmeno cosa guardasse il suo proprietario.
 
@@ -88,3 +88,11 @@ Aprì l'app di YouTube, copiò la frase nella barra di ricerca e premette invio.
 | C-14 (A1.8) Paragrafo dell'angelo nel televisore: il narratore spiegava la battuta, registro fuori tono | style | integrated (v4.1) | Paragrafo eliminato. |
 | C-15 (A2.8) La signora rifiuta il televisore che al telefono reclamava, senza che il testo lo registri | plot gap | integrated (v4.1) | Citazione nella pratica ("non lo voglio più in casa") e un pensiero di Tom. |
 | C-16 (A3.5) "Una sensazione che non seppe classificare": etichetta | style | integrated (v4.1) | Gesto fisico (posa il cacciavite) al posto dell'etichetta. |
+
+### Cycle — 2026-10-31 (passata descrittiva, giudizio §7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-50 (6.1) Secondo odore: il carrello del ricondizionamento | descriptive | integrated (v4.2) | Inserto: "tutti con la stessa etichetta gialla sul retro. Il carrello del ricondizionamento aveva un…" |
+| C-51 (6.12) Stagione: la prima finestra aperta | descriptive | integrated (v4.2) | Inserto: "Lo cercò quella sera, da casa, con la finestra aperta per la prima volta da mesi: chiarame…" |
+
