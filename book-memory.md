@@ -220,6 +220,7 @@ La pianificazione completa dei capitoli 1-25 è in `outline.md`; qui viene aggiu
 | Indovinelli del fondatore | Plurale (cap. 10, prima menzione): indovinelli diversi; ognuno ripetuto più volte con parole nuove e la stessa domanda (cap. 11). Mai esplicitati nel testo | Cap. 10-11 |
 | Visita del fondatore (G23) | Poco dopo mezzogiorno, nella pausa di Emma; senza preavviso; due chiacchiere (una riunione durata il doppio); stampa e archivia un foglio senza dire cosa; la saluta ed esce | Cap. 11 |
 | Registro interventi (POV Emma) | Leggibile da ogni Meridian; Emma ci arriva dalla matricola alla pratica e legge le due voci del cap. 6 | Cap. 13 |
+| Rete nel laboratorio di Tom | Gli apparecchi sul banco sono fuori dalla rete aziendale, salvo il cavo della diagnostica; la stanza ha la rete dei dipendenti (l'eWatch riceve notifiche, cap. 14). Non dire mai che la stanza è "senza rete" | Cap. 1 (v3.2) |
 | Tragitto casa-lavoro di Tom | Va al lavoro in autobus; la fermata è a due isolati da casa; nel cap. 4 corre per la prima volta in dodici anni per prenderlo | Cap. 4 (v3.1) |
 | Cucina di Tom | Telefona alla signora in piedi in cucina, luce del mattino di taglio sul tavolo, felpa già addosso | Cap. 4 (v3.1) |
 | Nastro trasportatore dell'assistenza | Si sente dal corridoio all'inizio del turno; porta i primi apparecchi verso le stanze dei tecnici | Cap. 2 (v3.1) |

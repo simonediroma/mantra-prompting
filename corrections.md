@@ -253,7 +253,7 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 6` (aggiornamento dopo il merge di
 
 ---
 
-### C-35 · 1.18 (cap. 1) · continuity · open
+### C-35 · 1.18 (cap. 1) · continuity · done (autore: tolto \"senza rete\", isolamento ristretto agli apparecchi fuori dalla rete aziendale)
 **Nota**: nel cap. 14 l'eWatch di Tom vibra in laboratorio per una mail in arrivo. Il cap. 1 descrive lo stesso laboratorio "senza rete se non quella cablata per la diagnostica", frase su cui Tom fonda la certezza che nessuno possa aver manomesso il televisore. Le due cose convivono solo se la frase del cap. 1 parla degli apparecchi, non della stanza.
 **Originale (cap. 1)**: "senza rete se non quella cablata per la diagnostica, senza altoparlanti, senza nessuno che potesse aver manomesso qualcosa dall'esterno anche volendo."
 **Proposta**: "senza una rete a cui un televisore potesse agganciarsi, a parte il cavo della diagnostica, senza altoparlanti, senza nessuno che potesse aver manomesso qualcosa dall'esterno anche volendo."
@@ -277,16 +277,16 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 6` (aggiornamento dopo il merge di
 ## Riepilogo
 
 ```
-CORRECTIONS — 10 open (28 done)
+CORRECTIONS — 9 open (29 done)
   typo/punctuation: 0
   rewrite/cut/insert: 0    (C-29…C-34 applicate il 2026-10-31, cap. 14 v2.1)
-  continuity: 3            (C-18 LED; C-35 rete del laboratorio, cap. 1; C-36 emma.md)
+  continuity: 2            (C-18 LED; C-36 emma.md)
   questions: 6             (C-22, C-23, C-27, C-28, C-37, C-38)
   deferred: 1              (C-26 eWatch, outline cap. 15)
   unclear location: 0
 ```
 
-Episodi audio toccati se si applicano tutte le righe di testo: 2, 4, 5, 6, 9, 10, 12, 13 (gli ep. 11, 12, 13 sono comunque da rigenerare per motivi tecnici; vedi `giudizio-editoriale-2026-10-31.md → 4`).
+Episodi audio toccati dalle correzioni applicate: 1, 2, 4, 5, 6, 9, 10, 12, 13 (più il 14, ancora senza copione) (gli ep. 11, 12, 13 sono comunque da rigenerare per motivi tecnici; vedi `giudizio-editoriale-2026-10-31.md → 4`).
 
 ## Archive
 

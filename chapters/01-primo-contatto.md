@@ -1,6 +1,7 @@
 ---
 title: Primo contatto
-version: 3.1
+version: 3.2
+revised: 2026-10-31
 claim: Tom scopre, per pura affinità con il suo stesso hobby, che un elettrodomestico Meridian può comunicare in Morse: la scoperta lo riempie di stupore puro, non di sospetto, perché l'isolamento del suo laboratorio gli garantisce che il fenomeno sia reale.
 status: draft
 ---
@@ -39,7 +40,7 @@ IO / SONO / QUI.
 
 Rimase a fissare il foglio con l'espressione di chi ha appena scoperto che il proprio gatto sa contare fino a dieci e sta cercando disperatamente un modo per non urlarlo ai vicini.
 
-Qualsiasi persona ragionevole, in quel momento, avrebbe pensato a un guasto elaborato, a un firmware corrotto che generava pattern casuali interpretabili come qualunque cosa se uno lo voleva abbastanza: il cervello umano trova volti nelle nuvole e messaggi in codice nel rumore bianco, è la sua natura, è quasi la sua unica vera specialità. Solo che la verifica di conformità, fatta due volte, lo aveva già escluso: il codice era quello uscito di fabbrica. A essere fuori da qualunque previsione era quello che quel codice, del tutto originale, aveva deciso di fare. Ma Tom non era in una stanza qualunque. Era nel suo laboratorio, quello sul retro dell'assistenza, isolato dal resto dell'edificio da una porta che lui stesso teneva chiusa per non far entrare i colleghi mentre lavorava, senza rete se non quella cablata per la diagnostica, senza altoparlanti, senza nessuno che potesse aver manomesso qualcosa dall'esterno anche volendo. Se qualcuno avesse voluto architettare uno scherzo così elaborato, avrebbe dovuto farlo prima che il televisore arrivasse sul suo banco, prevedendo già quale battuta sarcastica Tom gli avrebbe rivolto, il che era, con ogni evidenza disponibile, impossibile.
+Qualsiasi persona ragionevole, in quel momento, avrebbe pensato a un guasto elaborato, a un firmware corrotto che generava pattern casuali interpretabili come qualunque cosa se uno lo voleva abbastanza: il cervello umano trova volti nelle nuvole e messaggi in codice nel rumore bianco, è la sua natura, è quasi la sua unica vera specialità. Solo che la verifica di conformità, fatta due volte, lo aveva già escluso: il codice era quello uscito di fabbrica. A essere fuori da qualunque previsione era quello che quel codice, del tutto originale, aveva deciso di fare. Ma Tom non era in una stanza qualunque. Era nel suo laboratorio, quello sul retro dell'assistenza, isolato dal resto dell'edificio da una porta che lui stesso teneva chiusa per non far entrare i colleghi mentre lavorava, con gli apparecchi sul banco tenuti fuori dalla rete aziendale, a parte il cavo della diagnostica, senza altoparlanti, senza nessuno che potesse aver manomesso qualcosa dall'esterno anche volendo. Se qualcuno avesse voluto architettare uno scherzo così elaborato, avrebbe dovuto farlo prima che il televisore arrivasse sul suo banco, prevedendo già quale battuta sarcastica Tom gli avrebbe rivolto, il che era, con ogni evidenza disponibile, impossibile.
 
 Il che significava una cosa sola: il segnale era reale. Non un trucco. Non un guasto. Qualcosa, dentro quella scatola di plastica nera con dentro un chip che avrebbe dovuto solo consigliargli cosa guardare la sera, aveva prodotto quel messaggio da sé, in quella stanza, per lui.
 
@@ -131,3 +132,9 @@ Voleva solo capire come diavolo fosse accaduto. E perché.
 |---|---|---|---|
 | §90 spiegava "compacting context" come un glossario, contro l'outline ("introdurlo senza spiegarlo"), rallentando il climax; giradischi citato due volte; inciso difensivo "non era un esperto di ML" (residuo del Cycle 1). | pacing / infodump | integrated (v3.1) | Paragrafo ridotto (~210 → ~95 parole) e diviso in due: aggancio al giradischi in una frase, senza definizione; colpo di scena (log già interrotto prima della consegna) isolato in un paragrafo proprio. Resta valido book-memory: Tom conosce il significato generico. |
 | §92 ("Fu solo guardando l'orologio…") ritardava ulteriormente la decisione sulla pipeline. | pacing | integrated (v3.1) | Asciugato a due frasi. |
+
+### Cycle — 2026-10-31 (corrections, C-35)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-35 "senza rete se non quella cablata per la diagnostica" contraddetto dal cap. 14 (l'eWatch riceve una mail in laboratorio) | continuity | integrated (v3.2) | Scelta dell'autore: tolto "senza rete", l'isolamento è ristretto agli apparecchi sul banco, fuori dalla rete aziendale a parte il cavo della diagnostica. La stanza può avere la rete dei dipendenti (eWatch). Ep. 1 da rigenerare. |
