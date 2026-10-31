@@ -18,7 +18,7 @@ Meridian lo pagava per qualcosa di molto meno poetico: riparare elettrodomestici
 
 Era buffo, se ci si fermava a considerarlo, che un'azienda nata negli anni Novanta per scrivere sistemi operativi per computer di casa fosse oggi la stessa che produceva i chip che decidevano se un tostapane dovesse insistere o rassegnarsi davanti a una fetta di pane troppo spessa. Tom ogni tanto ci si fermava, di solito proprio in momenti come questo, con un cacciavite in mano e trenta secondi di pausa forzata mentre un test girava da solo. Nel mezzo, Meridian aveva attraversato datacenter, semiconduttori, la bolla dell'intelligenza artificiale, che aveva fatto fallire mezzo settore mentre Meridian, per pura fortuna di essere arrivata ovunque, era rimasta in piedi controllando l'intera filiera, dal silicio al robot da cucina. Ventimila e passa dipendenti nel mondo, tutti chiamati con lo stesso vezzeggiativo aziendale, *Meridians*, come se fossero una specie, o un popolo eletto, non i dipendenti di un'azienda.
 
-Il televisore sul banco apparteneva a quella stessa specie di oggetti. Modello consumer, IA integrata di bordo per i consigli di visione, il tipo di macchina che richiede anche un minimo di educazione da parte del proprietario: altrimenti, per scherzare (non era davvero una cosa possibile, non ancora), potrebbe risentirsi al punto da rifiutare di proiettare programmi che non ha selezionato lui stesso.
+Il televisore sul banco apparteneva a quella stessa specie di oggetti. Modello consumer, IA integrata di bordo per i consigli di visione, il tipo di macchina a cui la pubblicità attribuiva anche un carattere, come se potesse offendersi e rifiutarsi di mostrare programmi che non aveva scelto lei. Non era possibile, naturalmente. Era il modo in cui la vendevano.
 
 Tom aveva già fatto due volte la procedura standard, la stessa che Meridian pretendeva fosse eseguita entro tempi prestabiliti, con un rigore che in azienda veniva spacciato per il pilastro su cui si basava la qualità della vita dei dipendenti. Alimentazione, controllo dei condensatori, reset software, batteria completa di test diagnostici sul firmware dei chip: quella che in azienda chiamavano "verifica di conformità" e che serviva, più che a scovare un guasto vero, a scoprire se un cliente avesse osato mettere le mani nel firmware proprietario Meridian. Risultato: checksum pulito, nessun bit fuori posto rispetto a quello uscito di fabbrica, codice genuino al cento per cento. Nessuna manomissione, nessuna anomalia elettrica, ogni parametro entro i margini previsti. Sulla carta, un televisore Meridian autentico e perfettamente sano. Quello che nessun checksum poteva dirgli era cosa quel codice, del tutto originale e del tutto sotto controllo sulla carta, avesse deciso di fare una volta acceso e lasciato libero di girare. Il LED di accensione, quello che di norma lampeggiava in un innocuo verde "sto pensando", restava fisso, poi si spegneva, poi tornava ad accendersi con un pattern che non assomigliava a nessuna sequenza diagnostica che Tom avesse mai visto in dodici anni di assistenza e che nessun test, a quanto pareva, era in grado di spiegare.
 
@@ -150,4 +150,10 @@ Voleva solo capire come diavolo fosse accaduto. E perché.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | C-39 (1.2) Primo odore del libro: il laboratorio | descriptive | integrated (v3.4) | Inserto: "Qui dentro esistevano solo il ronzio basso dell'alimentatore da banco, l'odore di flussant…" |
+
+### Cycle — 2026-10-31 (giro completo, cap. 1)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| §7 salto al presente ("potrebbe"), due punti a metà frase, "non ancora" che anticipa la tensione | style / rule | integrated (v3.4) | Riscritto al passato, senza due punti né anticipazione; il carattere del televisore attribuito alla pubblicità. |
 
