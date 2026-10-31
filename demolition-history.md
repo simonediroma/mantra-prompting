@@ -18,9 +18,10 @@
 | Ch. 8 — Il canale eTv | 2 | 7 | 0 | 2 |
 | Ch. 9 — internal_unknown | 3 | 9 | 0 | 1 |
 | Ch. 10 — Il bluff | 2 | 8 | 0 | 4 |
-| Ch. 11 — La routine di Emma | 3 | 10 | 1 | 1 |
+| Ch. 11 — La routine di Emma | 3 | 11 | 0 | 1 |
 | Ch. 12 — Solo un tecnico? (fuso, ex 12 + ex 13) | 3 | 12 | 0 | 3 |
 | Ch. 13 — La correlazione | 1 | 4 | 0 | 1 |
+| Ch. 14 — La fiducia di Tom | 1 | 7 | 0 | 0 |
 
 ---
 
@@ -40,7 +41,7 @@
 - **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
 - **Copia-incolla di descrizioni tra capitoli** (Elab cap. 9/10): ogni ripresa va riscritta dal POV del capitolo.
 
-- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video; cap. 8 ciclo 2: "farsi rivedere dallo stesso spettatore", conoscenza dell'autore attribuita a Tom; cap. 12 ciclo 3: ipotesi dell'investigatore smentita dalla cronologia che Emma ha appena letto, rassicurazione non dedotta dalle prove): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
+- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video; cap. 8 ciclo 2: "farsi rivedere dallo stesso spettatore", conoscenza dell'autore attribuita a Tom; cap. 12 ciclo 3: ipotesi dell'investigatore smentita dalla cronologia che Emma ha appena letto, rassicurazione non dedotta dalle prove; cap. 14 ciclo 1: Tom mette alla prova ogni apparecchio ma non la mail di Emma): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
 
 Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ricorrenti):
 - **Fondamento di competenze tecniche non ancora giustificato dal profilo del personaggio** (visto sul cap. 1 con "compacting context" in Tom) — verificare ogni volta che un personaggio mostra conoscenza tecnica specifica.
@@ -53,7 +54,7 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 
 ## Open Deferred Issues
 
-- **R-110 (cap. 11)**: la risposta di Emma a Tom (fine cap. 10) non è mai mostrata. Va letta da Tom in un breve flashback nel **cap. 17** (regola POV, `mappa-eventi.md` punto 10.6).
+*Nessuno. R-110 (cap. 11) risolto nel cap. 14 il 2026-10-30: Tom legge la prima risposta di Emma in flashback.*
 
 ---
 
@@ -259,3 +260,18 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | C3 Riquadro "ultime 7 settimane" con un solo 0 finale al G24 | contradiction | integrated (v2.0) | Il periodo lo sceglie Emma, fino al giorno dopo l'ultima riproduzione: mostrarlo in prosa e nell'intestazione del riquadro. |
 | C4 Il senso di colpa non costa niente: video online, produzione solo rimandata, rimozione scartata per sola prudenza | implication | integrated (v2.0) | Deve sapere prima di agire: la sospensione diventa una scelta esplicita, accanto al motivo difensivo. |
 | C5 "L'unico che lo avesse visto acceso": anche la signora | logical | integrated (v2.0) | La signora è morta: Tom è l'unico ancora vivo (il video WhatsApp è solo suo, Emma non ne sa nulla). |
+
+
+### Ch. 14 — La fiducia di Tom
+
+#### Cycle 1 — 2026-10-30
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Tom interroga ogni apparecchio (sei verifiche nel capitolo) ma non mette alla prova la mail di Emma: fiducia come comodità d'autore | logical | integrated (v2.0) | Al momento della scrittura Tom ragiona: da "adesso le faccio io le domande" a "mi conviene essere accondiscendente", perché se la interroga lei si richiude e lui non saprà mai cosa sa e cosa sono i video (progetto Meridian o cosa sua). |
+| Emma tace per giorni dopo una risposta vera che aspettava con impazienza (cap. 11, 13): silenzio senza ragione | contradiction | integrated (v2.0) | Opzione A: coda compressa nel pomeriggio e nella notte di G24, mail delle 8:00:01 la mattina dopo (G25). Il chiodo fisso è il primo segnale, lasco, dell'invaghimento. |
+| Telefonata: §12 "niente di male" vs §16 esitazione vs §8 paura del server | contradiction | integrated (v2.0) | Errore: Tom non scrive della telefonata, per non finire nel mirino del supervisore. La domanda delle 8:00:01 si appoggia sulla scheda ("si rifiuta di accendersi"); il thread per Pete resta una riparazione banale. |
+| La coda ripete le domande già risolte al momento della scrittura e manca del segnale nuovo | structure / redundancy | integrated (v2.0) | La coda è solo la sensazione di doverla conoscere; via §20 (domande) e §21 (lavoro, Pete, 47 secondi). |
+| "Da più di tre settimane" per "la cosa più strana": il mistero di Tom parte dal primo contatto | timeline | integrated (v2.0) | "Da più di tre mesi", dalla prima volta. |
+| §4 "La lesse tutta d'un fiato." paragrafo-lampo | style (pattern) | integrated (v2.0) | Da assorbire nel paragrafo circostante in integrazione. |
+| R-110 (cap. 11, deferred): la prima risposta di Emma mai mostrata | foundation | integrated (v2.0) | Letta da Tom in flashback ai §6-7 (al lei, smonta il bluff dei log). |

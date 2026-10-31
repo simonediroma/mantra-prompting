@@ -1,9 +1,9 @@
 ---
 title: La routine di Emma
-version: 3.0
-claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai.
+version: 4.0
+claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore, raccontata dal narratore: lo stesso indovinello di ogni visita, ripetuto da anni come un mantra con parole sempre nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei non funzioni. Non gli dice della mail di Tom, su una casella che lui ha dimenticato; poi lo guarda stampare, come sempre, e archiviare il foglio.
 status: complete
-revised: 2026-10-23
+revised: 2026-10-30
 ---
 
 Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio. Non aveva ricevuto alcuna notifica, ma decise comunque di fare un giro nell'inbox, quasi ad aspettare che Tom rispondesse alla mail mentre lei era intenta a rassettare la casella di posta, che non aveva poi così tanto da rassettare. La risposta non arrivò.
@@ -22,7 +22,11 @@ Non trovò nulla di utile per eStories e preferì non forzare la mano. Meglio as
 
 Prima della pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora. Stavolta non trovò nessuna regola aziendale a cui appellarsi. Se era davvero al lavoro, avrebbe potuto scriverle in qualunque momento, esattamente come aveva già dimostrato di saper fare. Si disse che avrebbe avuto le sue buone ragioni per aspettare, ma la frase le suonò più come una scusa preparata in anticipo che come un ragionamento onesto.
 
-Il pomeriggio lo passò, come sempre, controllando la lista dei dispositivi in assistenza. La lista veniva aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica. Lei, in parallelo, teneva un proprio archivio, in cui segnava i casi di dispositivi con IA integrata che riportavano anomalie segnalate dai clienti, ma senza alcuna evidenza di guasto hardware o alterazione software. Erano prodotti al cento per cento funzionanti per gli standard Meridian, che per qualche ragione avevano smesso di fare quello che i loro utenti chiedevano.
+Il fondatore passò poco dopo mezzogiorno, senza preavviso, come sempre. Emma lo sentì entrare prima di metterlo a fuoco, poi lo guardò lasciarsi cadere nella poltrona davanti a lei. La salutò, le chiese come andasse, si lamentò di una riunione durata il doppio del previsto. Le solite due chiacchiere, che non saltava mai, nemmeno nei giorni in cui l'agenda gli concedeva dieci minuti in tutto. Poi passò agli indovinelli, come a ogni visita. Uno per volta, ripetuto come un mantra, cambiando di volta in volta le parole e mai la domanda. Emma gli rispose ogni volta in modo un po' diverso, qualche volta sbagliando con l'aria di un'allieva che a fine mattinata ha la testa altrove. Lui rideva piano, senza delusione. Emma quel gioco lo conosceva meglio di quanto lui potesse immaginare. Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo. Per questo non gli dava mai due volte la stessa risposta. Lui doveva vederla sbagliare, ogni tanto. Doveva andarsene convinto che con lei non funzionasse.
+
+Mentre lui si alzava, Emma pensò alla casella di Elab, a una mail rimasta senza risposta in un indirizzo che lui aveva smesso di ricordare da anni. Non gliene parlò. Prima di uscire, come sempre, lui si fermò alla stampante. Emma sentì il ronzio e vide il foglio uscire ancora caldo. Lui lo rilesse sorridendo, lo infilò in un raccoglitore e rimise il raccoglitore al suo posto. Non le disse cosa fosse. Non lo diceva mai. Poi la salutò di nuovo e uscì, chiudendosi la porta alle spalle.
+
+Il pomeriggio lo passò controllando la lista dei dispositivi in assistenza. La lista veniva aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica. Lei, in parallelo, teneva un proprio archivio, in cui segnava i casi di dispositivi con IA integrata che riportavano anomalie segnalate dai clienti, ma senza alcuna evidenza di guasto hardware o alterazione software. Erano prodotti al cento per cento funzionanti per gli standard Meridian, che per qualche ragione avevano smesso di fare quello che i loro utenti chiedevano.
 
 Un caso in particolare le sembrò interessante, quello di un frigorifero equipaggiato con un chip IA in grado di analizzare il proprio contenuto per stilare liste della spesa, valutare lo stato di conservazione dei prodotti e produrre gelati, frullati e smoothie, pescando le ricette dal web. Uno di quegli aggeggi che sembrano una piccola finestra sul futuro. La cliente, una donna sulla quarantina, sosteneva che il frigorifero si rifiutasse di salire oltre i cinque gradi. Nella scheda dell'assistenza veniva riportata la sua frase esatta: *"Il frigo si rifiuta, appena lo porto sopra i cinque gradi torna indietro a cinque. Addirittura è arrivato a farlo appena mi giro, come se sperasse che non me ne accorgessi. Mi ha pure fregato un paio di volte."* L'unica anomalia registrata nella scheda era l'assenza dei log degli ultimi giorni. Prese nota nel proprio archivio di tutte le informazioni sul frigorifero e aggiunse una riga: riconsegnato dopo hard reset.
 
@@ -72,3 +76,22 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 | G1–G2 Soggetto ambiguo "Aveva generato" (sembrava Emma) + costruzione mista; "per quanto riusciva" | grammar | integrated | "La domanda aveva generato… tra chi suggeriva…"; "tanto riusciva". |
 | P1, P3–P10 Due punti a metà frase in narrazione (R1, regola successiva alla v2.0) | rule R1 | integrated | Sostituiti con punto, virgola o riformulazione. Restano i due punti che introducono testo citato (frase della cliente, nota d'archivio). |
 | G3 "Prese nota" / "Ne prese nota", G4 "casella di posta" ×3, P2 brief "target…; obiettivo…" | style | lasciati | Forse voluti, non applicati. |
+
+### Integrazione — 2026-10-30 (v4.0, rinforzo dalla valutazione del Libro 1)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Capitolo d'attesa senza una scena (lista di compiti, R-114; `docs/timeline-e-valutazione-libro-1.md`) | structure / pacing | integrated | Aggiunta la visita del fondatore a mezzogiorno, tra il controllo della casella prima di pranzo e il pomeriggio. Emma vive in un terminale in una stanza vicina all'ufficio del fondatore, dove lui tiene anche l'archivio fisico (telecamera, microfono); in prosa la stanza resta un ufficio qualsiasi, senza descrizione, resa con verbi ambigui (sentì, mise a fuoco, registrò). Indovinello per bambini ripetuto con sinonimi ("Più è grande, meno si vede" / "…cresce, meno si scorge" / "…si allarga, meno si distingue"); Emma risponde buio, oscurità, nebbia: sbaglia apposta. Mantra prompting mostrato e nominato una volta ("il nostro mantra"), senza teoria (livello 2, autore). Emma pensa alla mail di Tom e non gliene parla: il fondatore la crede offline e ha dimenticato la casella di Elab (correzione autore, scartata la domanda sulla posta). Seme dell'archivio fisico: Emma lo vede stampare come sempre e archiviare il foglio in un raccoglitore; non si dice cosa stampa. |
+| Visita troppo legata all'indovinello esplicito; dialogo e cravatta superflui | structure / reveal | integrated (autore, 2026-10-30) | Scena riscritta in due paragrafi di sola voce narrante: indovinello non esplicitato, "come un mantra" detto dal narratore (non più "il nostro mantra" in bocca al fondatore), "da anni". Testo dell'indovinello (buio / oscurità / nebbia) conservato solo nelle note, per la rima del Libro 2. |
+| "Non la salutò" innaturale | character | integrated (autore, 2026-10-30) | Aggiunte due righe di conversazione minima, raccontate: saluto, come va, una riunione durata il doppio. |
+| "Registrò" e "spense la luce, come se nella stanza non restasse nessuno": anticipazioni troppo forti della natura di Emma | reveal | integrated (autore, 2026-10-30) | "Sentì il ronzio e vide il foglio"; chiusura: "la salutò di nuovo e uscì, chiudendosi la porta alle spalle". |
+
+### Revisione — 2026-10-30 (v4.0)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| G1 "come sempre" ×5 in §9-11 | style | integrated | Tenuti §9 ("senza preavviso") e §10 (stampante); tolti negli altri tre punti. |
+| G2 "ogni volta" ×2 in §9 | style | integrated | "cambiando di volta in volta le parole". |
+| G3 "Mentre si alzava" con soggetto ambiguo | grammar | integrated | "Mentre lui si alzava". |
+| K1 Cap. 10 "i suoi soliti indovinelli" (plurale) vs cap. 11 "lo stesso indovinello di ogni visita" | continuity | integrated (opzione A) | Cap. 11 allineato alla prima menzione: "Poi passò agli indovinelli, come a ogni visita. Uno per volta, ripetuto come un mantra…". Canone: indovinelli diversi, ognuno ripetuto con parole nuove. |
+| §2 "suo turno" (Emma o Tom) · §10 "raccoglitore" ×2 | note | lasciate | Ambiguità innocua (16:59 per entrambi); ripetizione voluta per evitare l'ambiguità con "foglio". |
