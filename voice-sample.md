@@ -1,6 +1,6 @@
 # Voice Sample
 
-> Estratto automatico dal cap. 14 — La fiducia di Tom.
+> Estratto automatico dal cap. 14 — La fiducia di Tom (v2.0).
 
 ## Apertura
 
@@ -8,8 +8,8 @@ L'aspirapolvere era arrivato sul banco con la dignità di un mulo a fine carrier
 
 ## Centro
 
-Non se l'era aspettato. Non si era aspettato nemmeno quello che sentì subito dopo, che non avrebbe saputo come chiamare se qualcuno glielo avesse chiesto. Era solo da molto tempo. Non solo in quella faccenda. Lo era da quando il nastro trasportatore aveva chiuso ogni tecnico in una stanza singola. Forse anche da prima. Ci aveva fatto l'abitudine come ci si abitua a un rumore di fondo, finché qualcuno non lo spegne. Da più di tre settimane si portava dietro la cosa più strana che gli fosse mai capitata tra le mani, senza poterla mostrare a nessuno, se non a un quaderno che non rispondeva. Adesso, dall'altra parte di un indirizzo di posta che lui stesso aveva creduto morto, qualcuno chiedeva di sapere. Gli venne la voglia che viene a ogni smanettone quando incontra uno che ne capisce, magari di un argomento di cui al mondo si interessano in sei. Non era voglia di avere ragione o di arrivare primo. Era la voglia di aprire il coperchio davanti a qualcuno e dire «guarda qui».
+La scrisse lì, in quell'ora. Davanti alla pagina bianca il primo istinto fu quello di sempre. Adesso le domande toccava farle a lui. Lei gli aveva smontato il bluff in una riga e lui voleva sapere che cosa fosse diventato Elab, chi ci fosse dietro quel video, perché un indirizzo Meridian rispondesse di un canale senza nome. Le scrisse tutte, una sotto l'altra, come faceva con i guasti. Poi le rilesse e capì che, se le avesse mandate, avrebbe ricevuto la stessa riga di due giorni prima. Messa alle strette, lei si sarebbe richiusa. Lui non avrebbe mai saputo cosa sapeva, né cosa fossero davvero quei video, se un progetto di Meridian di cui un tecnico dell'assistenza non doveva sapere niente o qualcosa che lei portava avanti da sola, in un laboratorio che l'azienda credeva chiuso. Per farla parlare doveva darle qualcosa. Cancellò le domande. A un apparecchio si fa una domanda e si guarda cosa risponde. Con lei conveniva fare il contrario, rispondere e stare a vedere cosa avrebbe chiesto dopo. Poi rilesse la risposta tre volte, togliendo un aggettivo a ogni passata, finché non rimasero solo i fatti. Non la mandò. Una mail inviata in pausa portava l'ora della pausa. Un'ora della pausa sotto una mail partita da un computer aziendale era il genere di dettaglio su cui un supervisore come Pete costruiva una carriera. Una mail inviata con il banco vuoto, a turno ripreso, era invece una mail inviata da un tecnico che aspettava il prossimo pezzo. Nessuno poteva rimproverargli di sottrarre tempo al lavoro, se il lavoro non era ancora arrivato.
 
 ## Chiusura
 
-Alla fine di ogni turno controllava la casella un'ultima volta, già in piedi, con il giubbotto addosso. Non c'era niente. Chiudeva la casella, poi la porta del laboratorio, a doppia mandata.
+Quella sera aprì il quaderno per scrivere la giornata. Gli apparecchi erano stati tutti guasti veri, nessuno da annotare. Restò un po' con la penna sopra la pagina, poi lo richiuse senza aver scritto niente.

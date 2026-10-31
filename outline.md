@@ -195,11 +195,11 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 ### Capitolo 14 — La fiducia di Tom
 **Nota di struttura (2026-10-29)**: assorbe la parte 1 del cap. 15 ("il chiodo fisso"), che da sola era tensione senza avanzamento. Il cap. 15 resta solo la mail delle 8:00:01 e il bivio.
 **POV**: Tom
-**Obiettivo di scena**: Tom riceve la mail di scuse (qui il lettore ne scopre il contenuto, e con un breve ricordo anche quello della prima risposta di Emma del cap. 10), dà a Emma alcune informazioni concrete (modello, causa del guasto, la telefonata con la cliente, il mancato ritiro e la morte della cliente, il ricondizionamento). La percepisce sagace ma sincera, decide di fidarsi. Coda (ex parte 1 del cap. 15): nei giorni seguenti Emma non risponde; Tom non riesce a smettere di chiedersi perché lo abbia ricontattato, a cosa le servissero quelle informazioni e perché il cambio di tono; si concentra sul lavoro per non dare motivi a Pete.
-**Beat chiave**: primo vero atto di fiducia di Tom verso Emma, motore emotivo del secondo atto. Ironia drammatica: il lettore sa che Emma conosce già le risposte. La telefonata messa per iscritto su un server Meridian è materiale per Pete (cap. 18).
+**Obiettivo di scena**: Tom riceve la mail di scuse (qui il lettore ne scopre il contenuto, e con un breve ricordo anche quello della prima risposta di Emma del cap. 10), dà a Emma alcune informazioni concrete (modello, causa del guasto, il mancato ritiro e la morte della cliente, il ricondizionamento); la telefonata con la cliente resta fuori, per paura di Pete. Decide di fidarsi da tecnico: il primo istinto è farle lui le domande, poi sceglie l'accondiscendenza, perché se la mette alle strette lei si richiude. Coda (ex parte 1 del cap. 15, compressa nel pomeriggio e nella sera di G24): Emma non risponde quel pomeriggio; Tom aggiorna la casella a ogni test, primo segnale lasco dell'invaghimento (sensazione di doverla conoscere); la sera il quaderno resta vuoto.
+**Beat chiave**: primo vero atto di fiducia di Tom verso Emma, motore emotivo del secondo atto. Ironia drammatica: il lettore sa che Emma conosce già le risposte. Il thread che Pete leggerà nel cap. 18 contiene solo una riparazione banale.
 **Collegamento al precedente**: risposta diretta alla mail decisa alla fine del cap. 13.
 **Collegamento al successivo**: la mail delle 8:00:01.
-**Stato**: `draft`
+**Stato**: `complete`
 **File**: `chapters/14-la-fiducia-di-tom.md`
 
 ---
@@ -207,9 +207,9 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 ### Capitolo 15 — Il bivio
 **Nota di struttura (2026-10-28)**: fusione dei cap. 16 ("Il chiodo fisso") e 17 ("Il bivio") della numerazione precedente. **Aggiornamento (2026-10-29)**: la parte 1 (il chiodo fisso) è passata in coda al cap. 14; il capitolo resta solo la mail delle 8:00:01 e il bivio.
 **POV**: Tom
-**Obiettivo di scena (la mail delle 8:00:01)**: dopo i giorni di silenzio raccontati in coda al cap. 14, al turno successivo Tom trova già una mail di Emma (8:00:01): chiede esplicitamente se la cliente avesse descritto il comportamento del TV come intenzionale/consapevole. Tom sobbalza: come fa Emma a ipotizzarlo? Sospetta che lei e il laboratorio sappiano qualcosa. Bivio: rischiare il lavoro e chiedere un incontro dal vivo, o chiudere per sempre i rapporti.
+**Obiettivo di scena (la mail delle 8:00:01)**: la mattina dopo (G25), al turno successivo, Tom trova già una mail di Emma (8:00:01): partendo dalla frase della signora sulla scheda ("si rifiuta di accendersi"), chiede se la cliente intendesse quel "si rifiuta" alla lettera, cioè come un comportamento intenzionale/consapevole. Tom non le ha detto della telefonata. Tom sobbalza: come fa Emma a ipotizzarlo? Sospetta che lei e il laboratorio sappiano qualcosa. Bivio: rischiare il lavoro e chiedere un incontro dal vivo, o chiudere per sempre i rapporti.
 **Beat chiave**: cliffhanger di metà libro, chiusura di Parte 6. Tono della mail ancora controllato, quasi tecnico: è una domanda su cosa *pensava* la signora, non su cosa *provava* (serve a differenziarla dalla mail del cap. 16). **Risolto in seguito**: Tom sceglierà la via intermedia (meeting da remoto), sviluppata nei capitoli 17-20.
-**Collegamento al precedente**: conseguenza diretta della fiducia accordata e dei giorni di silenzio del cap. 14.
+**Collegamento al precedente**: conseguenza diretta della fiducia accordata nel cap. 14, la mattina dopo.
 **Collegamento al successivo**: il silenzio di Tom e l'impazienza di Emma.
 **Stato**: `to-write`
 **File**: `chapters/15-il-bivio.md`

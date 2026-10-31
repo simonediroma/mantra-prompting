@@ -2,7 +2,7 @@
 
 > Created: 2026-10-28
 > Last updated: 2026-10-29
-> Status: open
+> Status: complete
 
 ## Macro
 chapter
@@ -11,13 +11,13 @@ chapter
 chapters/14-la-fiducia-di-tom.md
 
 ## Current step
-integrate
+— (completo, v2.0)
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
 - [x] demolish
-- [ ] integrate
+- [x] integrate
 
 ## Notes
 - 2026-10-28: aperta su outline post-taglio di "Le scuse" (Libro 1 a 20 capitoli). Punti aperti da mappa-eventi: 10.6 (prima risposta di Emma mai letta da Tom in scena, flashback qui) e 10.7 (eWatch, qui o cap. 15).
@@ -46,3 +46,4 @@ integrate
 - Critica 5 ("da più di tre settimane") → risolta: "da più di tre mesi", dalla prima volta.
 - 2026-10-30: demolizione ciclo 1 chiusa (7 issue risolte, incl. R-110 e §4 paragrafo-lampo). Prossimo: integrate.
 - 2026-10-31 (autore, principio generale): dare dettagli specifici delle attività di contorno (es. "nei ventisette secondi del test di checksum sul BIOS"), cosa che il libro fa poco. Non riusare immagini generiche già usate ("trenta secondi in cui un test girava da solo", cap. 1 e 9). Da proporre come regola in style-rules.md.
+- 2026-10-31: integrazione completata (5 modifiche), v2.0, status complete.
