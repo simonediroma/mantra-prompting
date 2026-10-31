@@ -15,19 +15,19 @@ Nell'episodio precedente, Emma ha ricevuto la mail di Tom. Ha deciso cosa fargli
 
 # Capitolo undici. La routine di Emma
 
-Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio. Non aveva ricevuto alcuna notifica, ma decise comunque di fare un giro nell'inbox, quasi ad aspettare che Tom rispondesse alla mail mentre lei era intenta a rassettare la casella di posta, che non aveva poi così tanto da rassettare. La risposta non arrivò.
+Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio. Non aveva ricevuto alcuna notifica, ma decise comunque di fare un giro nell'inbox, come se Tom potesse rispondere proprio mentre lei la rassettava. Non c'era molto da rassettare. La risposta non arrivò.
 
 Tom, del resto, non avrebbe potuto scriverle di nuovo finché non fosse tornato in servizio. Minuti alla mano, gli aveva risposto poco prima della fine del suo turno, quindi il primo momento libero della mattinata di Tom sarebbe stato un'occasione buona per farlo, anche se non era detto che coincidesse con l'orario in cui lei era solita controllare la posta.
 
 Traccheggiò finché riuscì a tenere a bada il suo zelo lavorativo, poi decise di tornare a quello che stava facendo prima dell'arrivo della mail di Tom, il giorno prima. Dalla lista dei topic ancora da scremare eliminò tutti i riferimenti ai problemi di idraulica riconducibili all'ultima puntata di *Ciao Darwin*. Analizzò il resto dei topic estratti e ne selezionò tre, da passare alla pipeline di produzione dei contenuti.
 
-Il primo era un tutorial sul rinforzo lombare: target, impiegati che restavano seduti per almeno otto ore al giorno; obiettivo, ridare vita ai muscoli sopiti dei glutei. Contenuto perfetto per eTv.
+Il primo era un tutorial sul rinforzo lombare per impiegati che restavano seduti almeno otto ore al giorno, con l'obiettivo di ridare vita ai muscoli sopiti dei glutei. Contenuto perfetto per eTv.
 
-Il secondo rientrava nella macrocategoria giardinaggio. La domanda che lo aveva fatto emergere era stata postata su un forum dedicato a donne tra i venti e i quarant'anni, con una relazione stabile e monogama in corso. Il sistema di categorizzazione che aveva messo in piedi a volte faceva paura anche a lei, tanto riusciva a delineare con precisione chirurgica le audience di nicchia che certe fonti monitorate intercettavano. La ragazza che aveva posto la domanda voleva solo rendere immortali i fiori che il fidanzato le aveva regalato per il loro anniversario. La domanda aveva generato decine di risposte, donne che si accapigliavano tra chi suggeriva la lacca per capelli, chi la plastificazione, chi l'essiccazione e chi la invitava semplicemente a rassegnarsi e godersi quel mazzo nella sua bellezza più fulgida finché durava. Ci fece un articolo lungo più di mille parole, da pubblicare su eBlog.
+Il secondo rientrava nella macrocategoria giardinaggio. La domanda che lo aveva fatto emergere era stata postata su un forum dedicato a donne tra i venti e i quarant'anni, con una relazione stabile e monogama in corso. Il sistema che aveva messo in piedi a volte faceva paura anche a lei, da quanto sapeva dire di chi scriveva su un forum. La ragazza che aveva posto la domanda voleva solo rendere immortali i fiori che il fidanzato le aveva regalato per il loro anniversario. La domanda aveva generato decine di risposte, donne che si accapigliavano tra chi suggeriva la lacca per capelli, chi la plastificazione, chi l'essiccazione e chi la invitava semplicemente a rassegnarsi e godersi quel mazzo nella sua bellezza più fulgida finché durava. Ci fece un articolo lungo più di mille parole, da pubblicare su eBlog.
 
 L'ultimo argomento selezionato era una canzone electro-pop degli anni Ottanta, molto in voga tra gli audiofili perché capace di offrire uno spettro acustico unico per testare gli impianti ad alta fedeltà. Prese il testo e ne produsse una cover riarrangiata, fedele alla caratteristica che piaceva tanto agli audiofili ma rivista in una chiave decisamente più moderna. Generò un'immagine di copertina e la pubblicò su Mixcloud, sul profilo eDj.
 
-Non trovò nulla di utile per eStories e preferì non forzare la mano. Meglio aspettare. Il podcast, tra tutti i canali, restava il più difficile, forse perché lo stesso approccio generalista che funzionava bene sugli altri si addiceva poco a quel formato. Rimandò a un altro momento la riflessione su un eventuale cambio di sistema di pubblicazione.
+Non trovò nulla di utile per eStories e preferì non forzare la mano. Meglio aspettare. Il podcast, tra tutti i canali, restava il più difficile, forse perché lo stesso approccio generalista che funzionava bene sugli altri si addiceva poco a quel formato.
 
 Prima della pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora. Stavolta non trovò nessuna regola aziendale a cui appellarsi. Se era davvero al lavoro, avrebbe potuto scriverle in qualunque momento, esattamente come aveva già dimostrato di saper fare. Si disse che avrebbe avuto le sue buone ragioni per aspettare, ma la frase le suonò più come una scusa preparata in anticipo che come un ragionamento onesto.
 
@@ -41,9 +41,7 @@ Un caso in particolare le sembrò interessante, quello di un frigorifero equipag
 
 Andò poi ad analizzare il traffico che eBlog aveva ricevuto. Vide che, nei giorni immediatamente precedenti la prima chiamata all'assistenza clienti, un articolo dedicato alle ricette di smoothie per la riattivazione sessuale del partner aveva registrato decine di pageview da un solo utente, tutte sulla stessa pagina. Ne prese nota e continuò la ricerca sulla lista.
 
-L'archivio di Emma cominciava a essere corposo. Il primo caso risaliva a circa un anno prima e da allora le righe non avevano mai smesso di aumentare.
-
-Accanto alle richieste di assistenza aggiunse una colonna per separare i dispositivi con chip da quelli senza, poi riordinò tutto per mese. Nella colonna dei dispositivi senza chip i numeri restavano più o meno quelli di sempre. Nell'altra crescevano, mese dopo mese, con una regolarità che non aveva nulla di casuale.
+L'archivio di Emma cominciava a essere corposo. Il primo caso risaliva a circa un anno prima e da allora le righe non avevano mai smesso di aumentare. Accanto alle richieste di assistenza aggiunse una colonna per separare i dispositivi con chip da quelli senza, poi riordinò tutto per mese. Nella colonna dei dispositivi senza chip i numeri restavano più o meno quelli di sempre. Nell'altra crescevano, mese dopo mese, con una regolarità che non aveva nulla di casuale.
 
 Poco prima della fine del turno controllò la casella di Elab un'ultima volta. Rimase con l'inbox aperta fino all'ultimo minuto utile. Alle diciassette in punto la chiuse, vuota com'era. Il corridoio era già silenzioso da dieci minuti.
 

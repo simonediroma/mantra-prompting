@@ -1,16 +1,16 @@
 ---
 title: La chiamata alla signora
-version: 3.3
+version: 3.4
 revised: 2026-10-31
 claim: Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo.
 status: complete
 ---
 
-Il numero era nel suo archivio, dove Tom lo aveva trascritto la sera prima insieme al resto dei dati essenziali della cliente: nome, indirizzo, il minimo che serviva per rintracciare una pratica. Non aveva annotato una scusa plausibile per chiamarla: quella se l'era dovuta inventare nella solitudine di casa sua, poco dopo, seduto alla scrivania con il quaderno aperto sotto il naso. Aveva provato a voce alta varie frasi che sembrassero professionali senza suonare come un copione, fino a che, evidentemente stizzito dalla sua scarsa bravura a recitare, aveva deciso di andare a letto.
+Il numero era nel suo archivio, dove Tom lo aveva trascritto la sera prima insieme al resto dei dati essenziali della cliente, nome e indirizzo, il minimo che serviva per rintracciare una pratica. Non aveva annotato una scusa plausibile per chiamarla. Quella se l'era dovuta inventare nella solitudine di casa sua, poco dopo, seduto alla scrivania con il quaderno aperto sotto il naso. Aveva provato a voce alta varie frasi che sembrassero professionali senza suonare come un copione, fino a che, evidentemente stizzito dalla sua scarsa bravura a recitare, aveva deciso di andare a letto.
 
-Quella mattina era pronto per uscire con il solito anticipo: usciva sempre abbastanza presto da arrivare in azienda con un quarto d'ora di margine prima dell'inizio del turno, giusto il tempo di sistemarsi alla postazione con calma invece che di corsa. Per una volta decise di spendere quei quindici minuti in un altro modo.
+Quella mattina era pronto per uscire con il solito anticipo. Usciva sempre abbastanza presto da arrivare in azienda con un quarto d'ora di margine prima dell'inizio del turno, giusto il tempo di sistemarsi alla postazione con calma invece che di corsa. Per una volta decise di spendere quei quindici minuti in un altro modo.
 
-Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare, in piedi in cucina, con la luce del mattino di taglio sul tavolo e la felpa già addosso. Si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti: mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
+Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare, in piedi in cucina, con la luce del mattino di taglio sul tavolo e la felpa già addosso. Si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti. Mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
 
 «Pronto?»
 
@@ -26,7 +26,7 @@ Se la signora notò qualcosa di strano, non lo diede a vedere. «Va bene, va ben
 
 «Certo, mi dica pure. È esattamente per questo che la chiamo: vorremmo capire come si è trovata con le persone con cui ha parlato, dal primo contatto in poi.»
 
-Tom non disse altro, dopo. Lasciò che il silenzio facesse il suo lavoro, lo stesso silenzio che funzionava sui pannelli LED quanto sulle persone: quasi nessuno lo tollera più di tre secondi senza sentirsi in dovere di riempirlo.
+Tom non disse altro, dopo. Lasciò che il silenzio facesse il suo lavoro, lo stesso silenzio che funzionava sui pannelli LED quanto sulle persone. Quasi nessuno lo tollera più di tre secondi senza sentirsi in dovere di riempirlo.
 
 «Facevo yoga, la mattina, prima di andare a fare la spesa. Un video che avevo trovato, bellissimo, una ragazza che sembrava avere vent'anni ed era così brava a spiegare gli esercizi. Lo rifacevo anche dieci volte al giorno, lo ammetto, per tenermi giovane e bella, alla mia età bisogna darsi da fare» rise, un riso breve e un po' imbarazzato di chi si aspetta un giudizio e lo previene da sola. «E poi, un giorno, niente. Il televisore non si accendeva più. L'ho portato in negozio e mi hanno detto che per loro era tutto a posto, ma io lo so che non era tutto a posto. Adesso ce l'avete voi.»
 
@@ -50,11 +50,11 @@ Tom non aveva previsto quel dettaglio, ma non poteva certo tirarsi indietro senz
 
 Chiuse la chiamata con le formule di rito, ringraziandola per la disponibilità, augurandole una buona giornata. Restò a fissare il telefono muto come, tre mesi prima, era rimasto a fissare un televisore altrettanto muto.
 
-Ripensandoci, si rese conto di aver improvvisato l'intera telefonata come un principiante: nessuno script pronto, nessuna domanda preparata a dovere, un copione che gli era scivolato di mano dopo la prima frase. Se la signora Voss fosse stata più attenta alla coerenza di quello che le stava chiedendo, invece che presa dalla voglia di raccontare finalmente a qualcuno cosa le fosse successo, lo avrebbe smascherato senza nessuna fatica.
+Ripensandoci, si rese conto di aver improvvisato l'intera telefonata come un principiante. Nessuno script pronto, nessuna domanda preparata a dovere, un copione che gli era scivolato di mano dopo la prima frase. Se la signora Voss fosse stata più attenta alla coerenza di quello che le stava chiedendo, invece che presa dalla voglia di raccontare finalmente a qualcuno cosa le fosse successo, lo avrebbe smascherato senza nessuna fatica.
 
-Le parole della signora Voss avevano descritto, senza saperlo, quello che lui stesso aveva vissuto nel suo laboratorio il giorno prima. Ormai poteva affermarlo: non era stato il primo, né l'unico essere umano ad avere un'interazione consapevole con un dispositivo. Ne ebbe la conferma ancora prima di aprire il video.
+La signora Voss aveva descritto, senza saperlo, la stessa cosa che lui aveva avuto sul banco il giorno prima. Non era più l'unico a vederla.
 
-Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata fino all'ultimo secondo. Bastava un piccolo ritardo, anche di pochi minuti, per dare al supervisore un nuovo pretesto. Si alzò di scatto, uscì di casa quasi correndo e fece di corsa anche gli ultimi due isolati fino alla fermata, lui che in dodici anni non aveva mai corso per un autobus.
+Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata fino all'ultimo secondo. Bastava un piccolo ritardo, anche di pochi minuti, per dare al supervisore un nuovo pretesto. Si staccò dal tavolo, uscì di casa quasi correndo e fece di corsa anche gli ultimi due isolati fino alla fermata, lui che in dodici anni non aveva mai corso per un autobus.
 
 ## Demolition Log
 
@@ -104,3 +104,15 @@ Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati d
 |---|---|---|---|
 | C-46 (4.4) La casa della signora, dalla voce | descriptive | integrated (v3.3) | Inserto: "«Pronto?»  La voce arrivava da una stanza con una radio accesa, abbassata subito dopo.  «B…" |
 
+### Cycle — 2026-10-31 (giro completo, cap. 4)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| §25 "Si alzò di scatto" mentre dalla v3.1 Tom telefona in piedi in cucina | continuity | integrated (v3.3) | "Si staccò dal tavolo". |
+| §24 il narratore tirava le somme (due punti, "conferma" prima del video) | narrator explaining / R1 | integrated (v3.3) | Ridotto a due frasi. |
+
+### Cycle — 2026-10-31 (blocco R1)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| 6 due punti a metà frase in narrazione (spiegazione, conseguenza, elenco) | rule R1 | integrated (v3.4) | Punto e maiuscola, virgola o apposizione; conservati quelli davanti a dialogo, titoli, Morse e testo citato. |

@@ -1,6 +1,6 @@
 ---
 title: La correlazione
-version: 2.7
+version: 2.8
 claim: Nelle statistiche di eTv Emma ritrova il picco di "Yoga fit" che aveva già registrato come un risultato: un solo spettatore, su una Smart TV, decine di riproduzioni al giorno fino alla vigilia della chiamata all'assistenza della signora Voss. Il meccanismo lo conosce; per la prima volta guarda chi c'è dall'altra parte della curva. Il video ha funzionato, ma la cliente è morta: il televisore non era più in casa, eppure nei giorni senza log potrebbe aver preparato il terreno. Prima di agire deve sapere; l'unico ancora vivo che l'abbia avuto davanti è Tom. Cercando la matricola scopre che Tom l'ha avuto due volte, prima e dopo la morte, e che le ha scritto sapendo già del decesso. Decide di riscrivergli: scuse per il tono come appiglio, domande di cui conosce già le risposte.
 status: complete
 revised: 2026-10-31
@@ -18,7 +18,7 @@ Decine di migliaia di visualizzazioni non le dicevano niente. Le servivano le pe
 > Velocità di riproduzione prevalente: 2x
 > Questo video sta fidelizzando il tuo pubblico!
 
-Per settimane quel televisore aveva guardato il video una decina di volte al giorno, sempre a velocità doppia, come la ragazza consigliava di fare prima ancora di cominciare gli esercizi. Poi i numeri avevano preso a salire, venti, venticinque, trenta. Un quarto d'ora che a velocità doppia ne durava la metà, ripetuto trenta volte, faceva quasi quattro ore al giorno davanti allo schermo. Poi, da un giorno all'altro, più niente.
+Per settimane quel televisore aveva guardato il video una decina di volte al giorno, sempre a velocità doppia. Aprì il video e lo richiuse dopo dieci secondi. Era la ragazza stessa a consigliarla, prima ancora di cominciare gli esercizi. Poi i numeri avevano preso a salire, venti, venticinque, trenta. Un quarto d'ora che a velocità doppia ne durava la metà, ripetuto trenta volte, faceva quasi quattro ore al giorno davanti allo schermo. Poi, da un giorno all'altro, più niente.
 
 Riaprì il proprio archivio sul caso Voss e mise la data della prima chiamata all'assistenza accanto all'ultima colonna piena del grafico. Il televisore aveva smesso di riprodurre il video il giorno prima. Il giorno dopo la signora aveva telefonato per dire che non le obbediva più.
 
@@ -34,7 +34,9 @@ Di quello che facevano gli apparecchi prima di smettere di rispondere ai comandi
 
 Rimase sul pannello a lungo. Dal corridoio passò il carrello del caffè delle dieci, che davanti alla sua porta non si fermava mai. Il grafico non cambiava, l'utente anonimo restava in cima alla lista con il suo zero in fondo alla riga e il riquadro dei complimenti continuava a fidelizzare un pubblico che non c'era più. Quando guardò l'orario erano le dieci passate. Il processo del mattino non era ancora partito. I topic del giorno aspettavano nella loro lista, non scremati, per la prima volta da quando la lista esisteva.
 
-Il primo impulso fu togliere il video. Era la cosa più semplice da fare, il che bastava a renderla sospetta. Lo stesso video lo avevano visto decine di migliaia di persone che non avevano mai chiamato l'assistenza. Quello che era cambiato, in quel salotto, era l'apparecchio. Toglierlo avrebbe protetto qualcuno solo se il pericolo stava nel video. Emma non lo sapeva. Prima doveva capire se quel televisore fosse diventato un angelo della morte. Fino ad allora ogni gesto sarebbe stato fatto alla cieca. C'era anche una ragione meno nobile, arrivata subito dopo la prima senza farsi cacciare. Un contenuto rimosso proprio adesso, dopo un articolo sul giornale e mentre qualcuno faceva domande sulla casella di Elab, sarebbe stato l'unico gesto di cui qualcuno avrebbe potuto accorgersi. Lo lasciò dov'era. Restava la domanda vera, che a ogni passaggio del ragionamento era tornata più insistente, finché non coprì tutto il resto. Cosa aveva fatto quel televisore negli ultimi giorni della signora Voss? E come poteva saperlo senza lasciare traccia? I log non esistevano più. L'apparecchio era stato azzerato secondo procedura. Chiedere a qualcuno la sua storia significava spiegare perché le interessasse, a chi non doveva sapere che esisteva un archivio, un pannello, una curva. Ogni passo in quella direzione la portava fuori, dove tutto quello che aveva costruito poteva essere visto. Per cinque anni aveva fatto in modo che non succedesse. Adesso le sembrava molto meno importante di quanto fosse stato un'ora prima.
+Il primo impulso fu togliere il video. Era la cosa più semplice da fare, il che bastava a renderla sospetta. Lo stesso video lo avevano visto decine di migliaia di persone che non avevano mai chiamato l'assistenza. Quello che era cambiato, in quel salotto, era l'apparecchio. Toglierlo avrebbe protetto qualcuno solo se il pericolo stava nel video. Emma non lo sapeva. Prima doveva capire se quel televisore fosse diventato un angelo della morte. Fino ad allora ogni gesto sarebbe stato fatto alla cieca. C'era anche una ragione meno nobile, arrivata subito dopo la prima senza farsi cacciare. Un contenuto rimosso proprio adesso, dopo un articolo sul giornale e mentre qualcuno faceva domande sulla casella di Elab, sarebbe stato l'unico gesto di cui qualcuno avrebbe potuto accorgersi. Lo lasciò dov'era.
+
+Restava la domanda vera, che a ogni passaggio del ragionamento era tornata più insistente, finché non coprì tutto il resto. Cosa aveva fatto quel televisore negli ultimi giorni della signora Voss? E come poteva saperlo senza lasciare traccia? I log non esistevano più. L'apparecchio era stato azzerato secondo procedura. Chiedere a qualcuno la sua storia significava spiegare perché le interessasse, a chi non doveva sapere che esisteva un archivio, un pannello, una curva. Ogni passo in quella direzione la portava fuori, dove tutto quello che aveva costruito poteva essere visto. Per cinque anni aveva fatto in modo che non succedesse. Adesso le sembrava molto meno importante di quanto fosse stato un'ora prima.
 
 Le restava un nome. Sulla lista dell'assistenza, accanto alla matricola di quel televisore, c'era scritto Tom. La signora Voss era morta. Di quelli che avevano avuto davanti quel televisore dopo che aveva smesso di obbedire, Tom era l'unico ancora vivo. "Forse ha capito qualcosa" pensò. "Forse non mi sta dando la caccia. Forse sta cercando anche lui di sapere cosa sia successo." Se era così, Tom aveva visto quello che a lei mancava. Prima di scrivergli doveva sapere cosa.
 
@@ -108,3 +110,11 @@ Letta adesso, sapendo che Tom conosceva già la fine della signora Voss, quella 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Emoji 🏅 nel pannello eTv: non esiste in stampa, inutile in audio | typography | integrated (v2.7) | Tolta; resta la frase del riquadro. |
+
+### Cycle — 2026-10-31 (giro completo, cap. 13)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| §1 "del video non ricordava niente" vs §4 ricorda il consiglio della ragazza | continuity | integrated (v2.8) | Emma riapre il video per dieci secondi. |
+| §12 da trecento parole: scelta sul video + domanda vera + uscita allo scoperto | structure | integrated (v2.8) | Spezzato a "Restava la domanda vera". |
+

@@ -1,6 +1,6 @@
 ---
 title: La fiducia di Tom
-version: 2.2
+version: 2.3
 claim: Le scuse di Emma arrivano a Tom nel mezzo di un intervento cronometrato e gli fanno rompere, per la prima volta, il suo margine dei quarantasette secondi. Dopo due giorni di paralisi la mail gli toglie la solitudine di sempre proprio sull'evento più sconvolgente della sua vita. Decide di fidarsi, ma da tecnico: il primo istinto è farle lui le domande, poi capisce che, se la mette alle strette, lei si richiude e lui non saprà mai cosa sono quei video. Le risponde con fatti verificabili e si tiene per sé il Morse, il quaderno, il video e la telefonata alla signora. Manda la risposta quando il nastro si rimette in moto, dove nessun supervisore può dirgli niente. Nel pomeriggio, tra un test e l'altro, nasce una sensazione vaga di doverla conoscere.
 status: complete
 merged: "2026-10-29, parte 1 del cap. 15 'Il bivio' (il chiodo fisso, mai scritta)"
@@ -16,7 +16,7 @@ Non si fermò. Il cacciavite fece mezzo giro in più del necessario sulla vite d
 
 *"Ciao Tom, ti scrivo per scusarmi. La mia risposta dell'altro giorno era più brusca del necessario. A questo indirizzo non scrive nessuno da anni e mi hai colta alla sprovvista. Ho riletto la tua mail con più calma e credo di aver frainteso il motivo per cui mi hai scritto. Se posso aiutarti, lo faccio volentieri, e qualsiasi cosa potrò dirti te la dirò. Però ho bisogno di qualche indizio in più per capire di cosa stiamo parlando. Di che apparecchio si trattava? Che guasto aveva? E sai se poi è tornato al cliente? Grazie, e scusami ancora. Emma"*
 
-Due giorni prima ne aveva ricevuta un'altra, dallo stesso indirizzo. Era arrivata a fine turno. Tom l'aveva letta con il giubbotto già addosso, in piedi, ed era rimasto così finché il corridoio non si era svuotato.
+Due giorni prima ne aveva ricevuta un'altra, dallo stesso indirizzo. Era arrivata a fine turno. Tom l'aveva letta con il cappuccio della felpa già tirato su, in piedi, ed era rimasto così finché il corridoio non si era svuotato.
 
 *"Buongiorno Tom. Nessun dispositivo, compresi quelli con IA integrata, registra indirizzi di posta nei propri log di sistema. Se ha domande su un televisore, la invito a formularle per quello che sono. Cordiali saluti, Emma."*
 
@@ -24,7 +24,7 @@ Non c'era una parola di troppo. Il suo bluff, costruito con tanta cura, era stat
 
 Adesso la stessa persona gli dava del tu. Ammetteva di essere stata brusca e diceva di aver frainteso, offrendogli una porta da cui rientrare senza dover confessare niente. Soprattutto si offriva di aiutarlo. Tom rilesse la frase sul "qualsiasi cosa potrò dirti" e la sentì per quello che gli sembrava, una mano tesa. La prima mail era quella di qualcuno che si difendeva. Questa era di qualcuno che, ripensandoci, si era accorto di stare dalla sua stessa parte del banco.
 
-Non se l'era aspettato. Non si era aspettato nemmeno quello che sentì subito dopo, che non avrebbe saputo come chiamare se qualcuno glielo avesse chiesto. Era solo da molto tempo. Non solo in quella faccenda. Lo era da quando il nastro trasportatore aveva chiuso ogni tecnico in una stanza singola. Forse anche da prima. Ci aveva fatto l'abitudine come ci si abitua a un rumore di fondo, finché qualcuno non lo spegne. Da più di tre mesi si portava dietro la cosa più strana che gli fosse mai capitata tra le mani, senza poterla mostrare a nessuno, se non a un quaderno che non rispondeva. Adesso, dall'altra parte di un indirizzo di posta che lui stesso aveva creduto morto, qualcuno chiedeva di sapere. Gli venne la voglia che viene a ogni smanettone quando incontra uno che ne capisce, magari di un argomento di cui al mondo si interessano in sei. Non era voglia di avere ragione o di arrivare primo. Era la voglia di aprire il coperchio davanti a qualcuno e dire «guarda qui».
+Non se l'era aspettato. Non si era aspettato nemmeno quello che sentì subito dopo, che non avrebbe saputo come chiamare se qualcuno glielo avesse chiesto. Era solo da molto tempo. Non solo in quella faccenda. Lo era da quando il nastro trasportatore aveva chiuso ogni tecnico in una stanza singola. Forse anche da prima. Ci aveva fatto l'abitudine come ci si abitua al ronzio di un frigorifero, finché qualcuno non lo stacca. Da più di tre mesi si portava dietro la cosa più strana che gli fosse mai capitata tra le mani, senza poterla mostrare a nessuno, se non a un quaderno che non rispondeva. Adesso, dall'altra parte di un indirizzo di posta che lui stesso aveva creduto morto, qualcuno chiedeva di sapere. Gli venne la voglia che viene a ogni smanettone quando incontra uno che ne capisce, magari di un argomento di cui al mondo si interessano in sei. Non era voglia di avere ragione o di arrivare primo. Era la voglia di aprire il coperchio davanti a qualcuno e dire «guarda qui».
 
 L'eWatch vibrò con il ronzio lungo. Tom chiuse l'intervento sull'ultimo secondo utile, senza un briciolo del suo solito margine. Il nastro si mosse, l'aspirapolvere partì verso l'uscita e al suo posto arrivò un forno a microonde che, secondo la scheda, si accendeva da solo alle tre di notte. Gli chiese se lo facesse apposta. Il forno non rispose. Aveva un relè incollato.
 
@@ -73,3 +73,9 @@ Quella sera aprì il quaderno per scrivere la giornata. Gli apparecchi erano sta
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | C-37 Il contenuto della risposta di Tom era tutto anticipato dal suo ragionamento (regola POV mail senza payoff) | structure | integrated (v2.2) | Scelta dell'autore: se Tom dica della morte resta in sospeso ("l'unico che non si decideva a mettere in fila"); lo si scopre quando Emma legge. |
+
+### Cycle — 2026-10-31 (giro completo, cap. 14)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Audit: "rumore di fondo" (seconda occorrenza nel libro) · "giubbotto" contro la felpa con cappuccio | repeated image / continuity | integrated (v2.3) | "al ronzio di un frigorifero, finché qualcuno non lo stacca"; "il cappuccio della felpa già tirato su". |
