@@ -334,9 +334,9 @@ Stessa struttura, ma qui la colonna "Reazione attesa" è **prescrittiva**: è il
 
 | Cap. | Quando | Azione | Reazione attesa | Vincoli |
 |---|---|---|---|---|
-| 14 — La fiducia di Tom | Stesso turno (`G24`) | Tom risponde con informazioni concrete: modello, guasto, telefonata alla cliente, mancato ritiro, ricondizionamento | **La percepisce sagace ma sincera e decide di fidarsi**: primo vero atto di fiducia. Motore emotivo del secondo atto | Coerenza: continua a non fare affermazioni dirette, dà fatti verificabili |
+| 14 — La fiducia di Tom *(+ ex parte 1 del cap. 15, il chiodo fisso, fusa il 2026-10-29)* | Stesso turno (`G24`), pomeriggio e sera | Tom risponde con informazioni concrete: modello, guasto, mancato ritiro e morte della cliente, ricondizionamento (la telefonata resta fuori, per paura di Pete). Pomeriggio: aggiorna la casella a ogni test; sera: quaderno vuoto | **La percepisce sagace ma sincera e decide di fidarsi**: primo vero atto di fiducia. Motore emotivo del secondo atto | Coerenza: continua a non fare affermazioni dirette, dà fatti verificabili |
 | 15 — Il bivio (parte 1, il chiodo fisso) | Giorni seguenti | Non riesce a smettere di pensare a Emma: perché lo ha ricontattato, perché il cambio di tono | **Inizio dell'infatuazione**: piccoli pensieri, non dichiarazioni. Si rifugia nel lavoro per evitare richiami | Tensione senza avanzamento di trama |
-| 15 — Il bivio (parte 2, la mail delle 8:00:01) | Turno successivo, **8:00:01** | Trova già una mail di Emma: chiede se la cliente avesse descritto il comportamento come **intenzionale** | **Sobbalza**: come fa a ipotizzarlo? Sospetta che lei e il laboratorio sappiano. Bivio: incontro dal vivo o rottura totale | Cliffhanger di metà libro. Risolverà con la via intermedia (meeting da remoto) |
+| 15 — Il bivio (la mail delle 8:00:01) | `G25`, turno successivo, **8:00:01** | Trova già una mail di Emma: chiede se la cliente avesse descritto il comportamento come **intenzionale** | **Sobbalza**: come fa a ipotizzarlo? Sospetta che lei e il laboratorio sappiano. Bivio: incontro dal vivo o rottura totale | Cliffhanger di metà libro. Risolverà con la via intermedia (meeting da remoto) |
 
 ### Parte 7 — Escalation ed entrata di Pete
 
