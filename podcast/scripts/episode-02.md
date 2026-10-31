@@ -35,8 +35,6 @@ Un nome che Tom aveva incrociato di persona sì e no tre volte in dodici anni, i
 
 Tom non si arrabbiò. Fu lui stesso a notarlo, con la curiosità clinica che riservava al banco di lavoro: niente battito accelerato, niente frase sprezzante trattenuta a fatica. Solo un abbassamento di temperatura interna, il tipo di freddezza che si prova quando un sistema (qualunque sistema: un motore, un'azienda, un rapporto) dimostra di funzionare come progettato, senza sorprese, senza eccezioni per le buone intenzioni. Meridian non puniva la curiosità in quanto tale. Puniva lo scostamento. Che poi la curiosità e lo scostamento fossero, in quel caso, la stessa identica cosa vestita con due nomi diversi, era un dettaglio che al codice di condotta non doveva importare granché.
 
-La lezione che ne trasse non fu smettere. Fu un'altra, più sottile e più utile: da quel momento in poi si sarebbe cronometrato da solo.
-
 Chiuse la comunicazione e aprì, per abitudine più che per speranza, il registro interventi del giorno, cercando l'unità che gli interessava davvero, quella con cui aveva passato ventisei minuti e quarantun secondi che gli erano costati quarantasette minuti di stipendio. Erano minuti che, a conti fatti, avrebbe rifatto identici anche sapendo in anticipo il conto finale. C'era, in tutta la faccenda, un dettaglio che la comunicazione formale non menzionava da nessuna parte: il ciclo diagnostico per cui l'avevano appena multato non l'aveva mai davvero concluso. Il modulo prevedeva una casella per "tempo eccedente", non una per "intervento mai terminato": Meridian sapeva misurare i minuti con una precisione quasi commovente, ma non aveva ancora trovato il modo di accorgersi di quando, semplicemente, un lavoro restava a metà.
 
 Lo stato dell'intervento era già cambiato.
@@ -53,7 +51,7 @@ Tom non staccò gli occhi dallo schermo per più tempo del necessario. Poi, senz
 
 Lo rimise nel cassetto, sotto alcuni manuali tecnici e procedurali ormai vecchi di anni, che nessuno gli aveva mai chiesto di restituire e che lui ormai considerava suoi.
 
-Da quel momento, decise, non si sarebbe più fatto fregare dai tempi di Meridian. Avrebbe continuato a parlare agli elettrodomestici guasti come aveva sempre fatto, fin da bambino, quella non gliela avrebbe tolta nessuna comunicazione formale. Ma il cronometro, da quel momento, lo avrebbe tenuto lui, non Meridian. E per non lasciarsi sfuggire di nuovo una scoperta come quella nel giro di ventiquattr'ore, prima ancora di poterla riesaminare con calma, avrebbe cominciato a tenere un archivio tutto suo: privato, non protocollato, difeso per il resto della giornata solo dalla propria memoria e trascritto la sera, tra le mura di casa, lontano da occhi indiscreti. Se Meridian misurava il mondo in minuti e secondi, lui avrebbe imparato a restare dentro i margini consentiti velocizzando i test obbligatori e a mantenere sempre un margine di tempo libero per le proprie domande.
+Avrebbe continuato a parlare agli elettrodomestici guasti come aveva sempre fatto, fin da bambino. Quella non gliela avrebbe tolta nessuna comunicazione formale. Il cronometro, però, da quel momento lo avrebbe tenuto lui. E per non lasciarsi sfuggire un'altra scoperta nel giro di ventiquattr'ore avrebbe tenuto un archivio tutto suo, privato, non protocollato, difeso durante il giorno solo dalla memoria e trascritto la sera, a casa, lontano da occhi indiscreti. Dietro la parete il nastro si mosse e gli portò il primo apparecchio del turno. Prima di toccarlo, Tom guardò l'ora.
 
 [pause 1.5]
 
