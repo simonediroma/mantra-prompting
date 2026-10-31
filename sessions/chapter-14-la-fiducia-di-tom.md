@@ -45,3 +45,4 @@ integrate
 - Critica 4 (la coda §19-21 ripete le domande già risolte nel ragionamento al momento della scrittura e non contiene il segnale dell'invaghimento) → risolta (autore): la coda è solo la sensazione di doverla conoscere. Vanno via le domande logiche del §20 e il paragrafo su lavoro/Pete/47 secondi del §21.
 - Critica 5 ("da più di tre settimane") → risolta: "da più di tre mesi", dalla prima volta.
 - 2026-10-30: demolizione ciclo 1 chiusa (7 issue risolte, incl. R-110 e §4 paragrafo-lampo). Prossimo: integrate.
+- 2026-10-31 (autore, principio generale): dare dettagli specifici delle attività di contorno (es. "nei ventisette secondi del test di checksum sul BIOS"), cosa che il libro fa poco. Non riusare immagini generiche già usate ("trenta secondi in cui un test girava da solo", cap. 1 e 9). Da proporre come regola in style-rules.md.
