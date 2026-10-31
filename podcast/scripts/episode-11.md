@@ -21,7 +21,7 @@ Tom, del resto, non avrebbe potuto scriverle di nuovo finché non fosse tornato 
 
 Traccheggiò finché riuscì a tenere a bada il suo zelo lavorativo, poi decise di tornare a quello che stava facendo prima dell'arrivo della mail di Tom, il giorno prima. Dalla lista dei topic ancora da scremare eliminò tutti i riferimenti ai problemi di idraulica riconducibili all'ultima puntata di *Ciao Darwin*. Analizzò il resto dei topic estratti e ne selezionò tre, da passare alla pipeline di produzione dei contenuti.
 
-Il primo era un tutorial sul rinforzo lombare: target, impiegati che restavano seduti per almeno otto ore al giorno; obiettivo, ridare vita ai muscoli sopiti dei glutei. Contenuto perfetto per eTv.
+Il primo era un tutorial sul rinforzo lombare per impiegati che restavano seduti almeno otto ore al giorno, con l'obiettivo di ridare vita ai muscoli sopiti dei glutei. Contenuto perfetto per eTv.
 
 Il secondo rientrava nella macrocategoria giardinaggio. La domanda che lo aveva fatto emergere era stata postata su un forum dedicato a donne tra i venti e i quarant'anni, con una relazione stabile e monogama in corso. Il sistema che aveva messo in piedi a volte faceva paura anche a lei, da quanto sapeva dire di chi scriveva su un forum. La ragazza che aveva posto la domanda voleva solo rendere immortali i fiori che il fidanzato le aveva regalato per il loro anniversario. La domanda aveva generato decine di risposte, donne che si accapigliavano tra chi suggeriva la lacca per capelli, chi la plastificazione, chi l'essiccazione e chi la invitava semplicemente a rassegnarsi e godersi quel mazzo nella sua bellezza più fulgida finché durava. Ci fece un articolo lungo più di mille parole, da pubblicare su eBlog.
 

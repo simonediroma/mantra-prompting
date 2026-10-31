@@ -253,6 +253,7 @@ La pianificazione completa dei capitoli 1-25 è in `outline.md`; qui viene aggiu
 
 | Date | Work done | Next step |
 |---|---|---|
+| 2026-10-31 | Giro completo chiuso: cap. 1-14 rivisti uno per uno (schede, approvazioni, un commit per capitolo); blocco R1 (65 due punti riformulati nei cap. 1-7 e 11); cap. 14 v2.3. Audit: tutte le issue chiuse tranne la promessa eWatch (cap. 15) | Merge; pianificazione cap. 15-20 |
 | 2026-10-31 | Giro completo: consistency-check (7 issue, nessuna critica); cap. 1 v3.4 (§7). Meccanismo eWatch/televisore fissato | Giro: cap. 2 (hard reset nel 3 e 6, "rumore di fondo" nel 10, incipit del 12 lungo il percorso) |
 | 2026-10-31 | Lacune tecniche: `export_podcast.py scripts`/`check`, 14 copioni rigenerati dai capitoli (recap/teaser nel frontmatter, annunci senza titolo), cap. 1-5 `complete`, emoji tolta dal cap. 13 (v2.7), plan.md e ISTRUZIONI aggiornati | Approvare il copione 14; rigenerare l'audio (prima l'ep. 1); decidere l'ep. 8; `feed` |
 | 2026-10-31 | Passata descrittiva C-39…C-65 (29 inserti) su tutti i capitoli tranne il 14; cap. 5 allineato alla cucina del cap. 4. Giudizio §7 (rivalutazione) | Rimisurare la densità; se insufficiente riscrivere per intero le scene più scoperte (cap. 3 tre mesi, cap. 8 sera, cap. 10 mattina). Rigenerare tutti gli episodi |
