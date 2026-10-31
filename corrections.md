@@ -9,7 +9,7 @@ Fonte: `giudizio-editoriale-2026-10-31.md`, sezioni A1 (stile), A2 (trama), A3 (
 
 ---
 
-### C-01 · 13.12 · rewrite · open
+### C-01 · 13.12 · rewrite · done
 **Nota (A1.4)**: connettivi da verbale nel momento di scelta morale del capitolo ("Però, elaborando la situazione", "Alla fine, riflettendo, si convinse che, eventualmente", "Inoltre, tra i suoi ragionamenti si era palesata").
 **Originale**: da "Il primo impulso fu togliere il video." fino a "Lo lasciò dov'era." (il resto del paragrafo, da "Restava la domanda vera", non cambia).
 **Proposta**:
@@ -19,21 +19,21 @@ Nota: "solo se il pericolo stava nel video, e questo Emma non lo sapeva" è dial
 
 ---
 
-### C-02 · 13.13 · cut · open
+### C-02 · 13.13 · cut · done
 **Nota (A1.5)**: terza ripetizione della bugia goffa (già nel 12.8 e nel 13.15).
 **Originale**: "Aveva aspettato qualche settimana prima di scriverle, con una bugia così goffa da sembrare una domanda fatta male."
 **Proposta**: eliminare la frase. Il paragrafo passa da "Tom era l'unico ancora vivo." a ""Forse ha capito qualcosa" pensò."
 
 ---
 
-### C-03 · 13.14 · cut · open
+### C-03 · 13.14 · cut · done
 **Nota (A1.5)**: ripete 13.13 ("Tom era l'unico ancora vivo").
 **Originale**: "Era l'unico ad aver avuto quel televisore davanti prima dell'hard reset e dopo la morte della donna che lo guardava."
 **Proposta**: eliminare la frase. Il paragrafo chiude su "Il giorno dopo le aveva scritto, sapendo già della morte. Riaprì la sua mail e questa volta non la lesse per capire chi l'avesse scritta."
 
 ---
 
-### C-04 · 13.15 · rewrite · open
+### C-04 · 13.15 · rewrite · done
 **Nota (A1.5, A1.6)**: quarta ripetizione della bugia e chiusura riassuntiva; il capitolo deve chiudere su un beat.
 **Originale**: tutto il paragrafo da "La bugia era la stessa" a "coprire i sentimenti che c'erano dietro quelle domande."
 **Proposta**:
@@ -41,7 +41,7 @@ Nota: "solo se il pericolo stava nel video, e questo Emma non lo sapeva" è dial
 
 ---
 
-### C-05 · 12.4 · rewrite · open
+### C-05 · 12.4 · rewrite · done
 **Nota (A1.2)**: due etichette emotive ("era sgomento", "lucidità fredda e totale") da sostituire con un'immagine.
 **Originale**: da "La sua attenzione tornò sul televisore" a "Doveva sapere chi avesse avuto in mano quell'apparecchio."
 **Proposta**:
@@ -51,7 +51,7 @@ Nota: "solo se il pericolo stava nel video, e questo Emma non lo sapeva" è dial
 
 ---
 
-### C-06 · 12.9 + 12.10 · rewrite · open
+### C-06 · 12.9 + 12.10 · rewrite · done
 **Nota (A1.2)**: "L'allarme montò in fretta, come lo sgomento di poco prima" e "L'allarme allentò la presa": terza e quarta etichetta.
 **Originale 12.9 (coda)**: "L'allarme montò in fretta, come lo sgomento di poco prima. Questa volta non provò a fermarlo. Aspettò che si assestasse, poi cominciò a controllare."
 **Proposta 12.9**: "Il pensiero montò in fretta, come l'altro di poco prima. Questa volta non provò a fermarlo. Lo lasciò salire fino in cima, dove non c'era più niente da aggiungere, poi cominciò a controllare."
@@ -60,7 +60,7 @@ Nota: "solo se il pericolo stava nel video, e questo Emma non lo sapeva" è dial
 
 ---
 
-### C-07 · 10.4 · rewrite · open
+### C-07 · 10.4 · rewrite · done
 **Nota (A1.3)**: scheda personaggio incollata; tutto ciò che afferma lo vediamo fare nel cap. 11.
 **Originale**: l'intero paragrafo "Emma era meticolosa, era così da sempre… nessun compito restava a metà per pigrizia."
 **Proposta** (due frasi al posto di sei):
@@ -70,21 +70,21 @@ Variante senza ", e": "Era l'unica dei Meridians a prendere alla lettera la cult
 
 ---
 
-### C-08 · 10.2 · insert · open
+### C-08 · 10.2 · insert · done
 **Nota (appendice 5.1, R-101 confermata)**: *Ciao Darwin* in un'ambientazione non italiana; il lettore non ha il file di contesto.
 **Originale**: "Fece una rapida verifica e trovò, infatti, un video di *Ciao Darwin* in cui un "secchione" riusciva nell'impresa…"
 **Proposta**: "Fece una rapida verifica e trovò, infatti, il colpevole in un programma della televisione italiana, *Ciao Darwin*, rimbalzato nei forum di mezzo mondo con i sottotitoli automatici. Un "secchione" riusciva nell'impresa…"
 
 ---
 
-### C-09 · 10.12 · insert · open
+### C-09 · 10.12 · insert · done
 **Nota (A2.4)**: Emma non si chiede da dove Tom sia partito per arrivare a Elab. Apre la domanda senza risolverla (la risoluzione resta all'autore: vedi C-22).
 **Originale**: "Trovare quell'indirizzo non era difficile, visto che un tempo Elab era stato uno dei nomi più noti di Meridian. La domanda era perché un tecnico dell'assistenza avesse deciso di scrivere proprio lì…"
 **Proposta**: "Trovare quell'indirizzo non era difficile, visto che un tempo Elab era stato uno dei nomi più noti di Meridian. Più difficile era capire da dove fosse partito. Un tecnico dell'assistenza non aveva motivo di cercare Elab, a meno che qualcosa non gli avesse messo quel nome davanti. La domanda era perché avesse deciso di scrivere proprio lì…"
 
 ---
 
-### C-10 · 9.9 · rewrite · open
+### C-10 · 9.9 · rewrite · done
 **Nota (A1.7, A3.7)**: ~330 parole di esposizione sulla policy dell'archivio subito prima del colpo di scena; nessun dettaglio ambientale.
 **Originale**: l'intero paragrafo "Aspettò l'ultima ora di turno… salvando la reputazione dell'azienda."
 **Proposta** (~170 parole):
@@ -92,7 +92,7 @@ Variante senza ", e": "Era l'unica dei Meridians a prendere alla lettera la cult
 
 ---
 
-### C-11 · 9.6 · rewrite · open
+### C-11 · 9.6 · rewrite · done
 **Nota (A2.6)**: "cento per cento, generato da intelligenza artificiale", unanime, su quindici minuti di consigli fitness. Non credibile.
 **Originale**: "Incollò il documento per intero, senza il video, negli stessi tre strumenti. Questa volta la risposta fu unanime e immediata: cento per cento, generato da intelligenza artificiale. Nessuno dei tre, però, seppe dirgli…"
 **Proposta**: "Incollò il documento per intero, senza il video, negli stessi tre strumenti. Due su tre cambiarono idea. Probabilità alta di generazione artificiale, diceva uno; molto probabile, diceva l'altro, con la cautela di chi non vuole finire in tribunale. Il terzo restava sul reale, ma di poco. A Tom bastava. Nessuno dei tre, però, seppe dirgli…"
@@ -100,27 +100,27 @@ Verificare anche il `claim` del frontmatter del cap. 9 ("non falliscono sul solo
 
 ---
 
-### C-12 · 9.10 · insert · open
+### C-12 · 9.10 · insert · done
 **Nota (A2.5)**: prudenza incoerente tra il video caricato su tre siti pubblici (9.1) e il "non caricò nulla" nell'archivio interno.
 **Originale**: "Non caricò nulla. Non incollò nessun link, nessun file, niente che potesse ricondurre a un video visto sul suo telefono."
 **Proposta**: "Non caricò nulla. La sera prima aveva dato il video intero a tre siti sconosciuti senza pensarci due volte, perché là fuori un file caricato era un gesto di chiunque. Qui dentro ogni clic aveva un proprietario. Non incollò nessun link, nessun file, niente che potesse ricondurre a un video visto sul suo telefono."
 
 ---
 
-### C-13 · 9.1 · insert · open
+### C-13 · 9.1 · insert · done
 **Nota (A3.7)**: il mattino un'ora prima del solito non ha luce né temperatura.
 **Originale**: "Il mattino dopo si alzò un'ora prima del solito. I quindici minuti di anticipo restavano dov'erano…"
 **Proposta**: "Il mattino dopo si alzò un'ora prima del solito. Fuori era ancora buio e la casa aveva il freddo delle stanze in cui il riscaldamento non ha ancora capito che qualcuno è sveglio. I quindici minuti di anticipo restavano dov'erano…"
 
 ---
 
-### C-14 · 6.14 · cut · open
+### C-14 · 6.14 · cut · done
 **Nota (A1.8)**: l'angelo caduto nel televisore; il narratore spiega la battuta ("Rise tra sé a quel pensiero quasi mistico").
 **Proposta**: eliminare l'intero paragrafo. Il 6.13 ("…non sapeva nemmeno cosa guardasse il suo proprietario.") passa direttamente al 6.15 ("Non aveva molte strade davanti a sé…").
 
 ---
 
-### C-15 · 6.6 · insert · open
+### C-15 · 6.6 · insert · done
 **Nota (A2.8)**: la signora rifiuta il televisore che al telefono reclamava; il testo non lo registra, il file personaggio dice "spaventata".
 **Originale**: "La prima confermava quello che aveva già dedotto: *cliente ricontattata, rifiuta il ritiro: richiesto il rimborso previsto (33% del valore di acquisto).*"
 **Proposta**: "La prima confermava quello che aveva già dedotto: *cliente ricontattata, rifiuta il ritiro ("non lo voglio più in casa"): richiesto il rimborso previsto (33% del valore di acquisto).* Tom rilesse la frase tra virgolette. Al telefono, tre settimane prima, la stessa donna reclamava il televisore come un pacco in ritardo. Qualcosa, nel frattempo, le aveva fatto cambiare idea su cosa volesse avere in salotto."
@@ -128,14 +128,14 @@ Verificare anche il `claim` del frontmatter del cap. 9 ("non falliscono sul solo
 
 ---
 
-### C-16 · 6.8 · rewrite · open
+### C-16 · 6.8 · rewrite · done
 **Nota (A3.5)**: "una sensazione che non seppe classificare": un gesto al posto dell'etichetta.
 **Originale**: "Tom rilesse la riga con una sensazione che non seppe classificare subito. Non gli capitava spesso di non avere un'etichetta pronta per quello che provava."
 **Proposta**: "Tom rilesse la riga. Si accorse di avere ancora in mano il cacciavite dell'apparecchio precedente e lo posò, con più cura del necessario. Non gli capitava spesso di non avere un'etichetta pronta per quello che provava."
 
 ---
 
-### C-17 · 5.6 · insert · open
+### C-17 · 5.6 · insert · done
 **Nota (A3.4)**: il salotto della signora, luogo della morte, esiste solo nella fotografia del cap. 12. Il video è l'occasione per vederlo prima.
 **Originale**: "…l'inquadratura sbandava ogni pochi secondi, perdendo il LED di accensione, quello che il televisore nel laboratorio di Tom aveva usato per comunicare le sue risposte, proprio nei momenti peggiori."
 **Proposta**: "…l'inquadratura sbandava ogni pochi secondi e mostrava, al posto del LED, pezzi di un salotto qualunque. Un divano chiaro con una coperta piegata sul bracciolo, un tappetino da yoga srotolato sul pavimento, una finestra con la luce del mattino. Poi tornava sul LED di accensione, quello che il televisore nel laboratorio di Tom aveva usato per comunicare le sue risposte, e lo perdeva di nuovo proprio nei momenti peggiori."
@@ -149,7 +149,7 @@ Coerenza: il cap. 12 descrive la foto con "un tappetino da yoga arrotolato in un
 
 ---
 
-### C-19 · 4.3 · insert · open
+### C-19 · 4.3 · insert · done
 **Nota (A3.4)**: la casa di Tom al mattino non ha luce né stanza.
 **Originale**: "Compose il numero dal proprio cellulare e si ripeté, per rassicurarsi…"
 **Proposta**: "Compose il numero dal proprio cellulare, in piedi in cucina, con la luce del mattino di taglio sul tavolo e la felpa già addosso, e si ripeté, per rassicurarsi…"
@@ -157,7 +157,7 @@ Variante senza ", e": "Compose il numero dal proprio cellulare, in piedi in cuci
 
 ---
 
-### C-20 · 4.24 · insert · open
+### C-20 · 4.24 · insert · done
 **Nota (A3.9)**: nessun tragitto casa-lavoro in tutto il libro.
 **Originale**: "Si alzò di scatto e uscì di casa quasi correndo."
 **Proposta**: "Si alzò di scatto, uscì di casa quasi correndo e corse davvero gli ultimi due isolati fino alla fermata, lui che in dodici anni non aveva mai corso per un autobus."
@@ -165,7 +165,7 @@ Variante senza ", e": "Compose il numero dal proprio cellulare, in piedi in cuci
 
 ---
 
-### C-21 · 2.1 · insert · open
+### C-21 · 2.1 · insert · done
 **Nota (A3.2)**: Tom legge la sanzione in un luogo senza corpo.
 **Originale**: "Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Quel giorno le tre note suonarono identiche al solito…"
 **Proposta**: aggiungere dopo la prima frase: "Tom lo sentiva ogni mattina dal corridoio, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici, prima ancora di aprire la propria porta." Poi "Quel giorno le tre note suonarono identiche al solito…"
@@ -211,9 +211,9 @@ Variante senza ", e": "Compose il numero dal proprio cellulare, in piedi in cuci
 ## Riepilogo
 
 ```
-CORRECTIONS — 28 open
+CORRECTIONS — 8 open (20 done il 2026-10-31)
   typo/punctuation: 0
-  rewrite/cut/insert: 21   (C-01…C-17, C-19, C-20, C-21; C-18 solo se confermato)
+  rewrite/cut/insert: 0    (C-01…C-17, C-19, C-20, C-21 applicate il 2026-10-31)
   continuity: 1            (C-18, colore del LED)
   new rules: 0             (C-28 propone un criterio di demolizione, non una regola di stile)
   questions: 4             (C-22, C-23, C-27, C-28)

@@ -1,11 +1,12 @@
 ---
 title: Stallo burocratico
-version: 3.0
+version: 3.1
+revised: 2026-10-31
 claim: Tom scopre il prezzo istituzionale della propria curiosità, una sanzione minima ma precisa: impara non a smettere di indagare, ma a farlo con più cautela, proprio mentre perde l'accesso diretto al televisore anomalo.
 status: draft
 ---
 
-Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
+Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva ogni mattina dal corridoio, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici, prima ancora di aprire la propria porta. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
 
 **COMUNICAZIONE FORMALE: SCOSTAMENTO DA PROCEDURA STANDARD**
 **Rif. intervento: unità TV consumer, mod. [omesso in automatico]**
@@ -63,3 +64,9 @@ Da quel momento, decise, non si sarebbe più fatto fregare dai tempi di Meridian
 | R-04 Doppia struttura negativa ("Non 'in coda'…" + "Non trentacinque, non un'ora tonda") | style / AI-slop | integrated (v3.0) | Tenuta "In lavorazione"; l'altra → "Un numero storto, contato al minuto; …". |
 | R-20 "incrociato di persona sì e no tre volte" vs "Nessuna faccia, nessuna voce" | contradiction | integrated (v3.0) | Tenuti gli incroci in corridoio; Pete "per il resto si manifestava solo per iscritto". Coerente con `characters/pete.md` (mai in scena di persona). |
 | R-21 Nomi file disallineati dai titoli dell'outline | naming | integrated (v3.0) | Su conferma dell'autore: rinominati `01-primo-contatto.md`, `02-stallo-burocratico.md`, `03-secondo-contatto.md` (e i relativi `sessions/`), riferimenti aggiornati. |
+
+### Cycle — 2026-10-31 (corrections dal giudizio editoriale)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-21 (A3.2) Il cap. apriva senza corpo né luogo | descriptive | integrated (v3.1) | Aggiunto il nastro trasportatore sentito dal corridoio prima di aprire la porta. |

@@ -1,7 +1,7 @@
 ---
 title: Solo un tecnico?
-version: 6.2
-revised: 2026-10-24
+version: 6.3
+revised: 2026-10-31
 merged_from: "12-la-notizia (v4.0) + 13-il-sospetto-su-tom (v1.0, bozza)"
 claim: La pipeline con cui Emma sorveglia l'esposizione di Meridian nei media intercetta un articolo commemorativo sulla morte della signora Voss, un caso già nel suo archivio. Lo sgomento diventa lucidità quando ripensa alla mail di Tom, che la lista dell'assistenza conferma essere il tecnico di quel televisore. Rileggendo la mail sospetta che dietro ci sia un'indagine: qualcuno che usa l'account di Tom, o Tom stesso che scava. Il confronto di stile con le note di Tom esclude la prima ipotesi; organigramma, profilo aziendale e sito del giradischi non bastano a escludere la seconda. Tom è un tecnico, ma forse non solo: Emma deve scoprire cosa o chi ci sia dietro la mail.
 status: complete
@@ -14,7 +14,7 @@ Quella mattina il sistema le segnalò un articolo pubblicato il giorno prima su 
 
 Il nome della donna era Voss. Non ebbe bisogno di controllare da nessuna parte per essere certa. Quel nome esisteva già nel suo archivio, agganciato a un caso preciso. C'era un televisore con i log interrotti da un giorno all'altro, un hard reset eseguito poco dopo e una cliente che aveva descritto all'assistenza, più che un malfunzionamento, un rifiuto di funzionare.
 
-Elaborò la fotografia più a lungo di quanto le servisse per registrarne il contenuto in maniera dettagliata. L'articolo la ricordava come un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione. La sua attenzione tornò sul televisore e lì rimase. Secondo dopo secondo le saliva dentro una sensazione che non riusciva ad arginare, era sgomento. Poi un pensiero la attraversò tutto in una volta. Due giorni prima la mail di Tom che chiedeva goffamente dettagli su un televisore. Lo sgomento cedette di colpo a una lucidità fredda e totale. Doveva sapere chi avesse avuto in mano quell'apparecchio. Se era stato Tom, doveva scoprire quanto sapesse davvero.
+Elaborò la fotografia più a lungo di quanto le servisse per registrarne il contenuto. L'articolo la ricordava come un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione. La sua attenzione tornò sul televisore e lì rimase, ferma come una mano che non si decide a lasciare una maniglia. Il resto dell'articolo le scorse davanti senza lasciare niente. Poi un pensiero la attraversò tutto in una volta. Due giorni prima la mail di Tom che chiedeva goffamente dettagli su un televisore. La mano lasciò la maniglia. Doveva sapere chi avesse avuto in mano quell'apparecchio. Se era stato Tom, doveva scoprire quanto sapesse davvero.
 
 L'archivio le restituì data, modello e la descrizione del comportamento anomalo così come l'aveva riportata la cliente, niente che non sapesse già. Mancava il nome del tecnico. Annotare i tecnici non le era mai sembrato utile, perché erano intercambiabili per definizione, mentre i clienti no.
 
@@ -24,9 +24,9 @@ La mail era sempre la stessa, quattro righe e una firma, ma adesso Emma sapeva a
 
 Quando l'aveva ricevuta, quella mail le era sembrata la bugia di un tecnico che non sapeva come fare una domanda. Riletta adesso le sembrava troppo goffa per essere sincera. Un tecnico che lavorava ogni giorno sui dispositivi Meridian doveva sapere quali storie reggessero e quali no. Una bugia così fragile poteva servire solo a vedere chi avrebbe risposto e come. Lei aveva risposto in poche ore, smontandola riga per riga. Da allora Tom non aveva più scritto.
 
-Il pensiero successivo arrivò da solo, prima che potesse valutarlo. Qualcuno che stava cercando di capire come fosse morta la signora Voss era partito dal televisore ed era arrivato fino a lei. Poteva essere un investigatore che aveva usato la casella del tecnico per mandarle un'esca con un mittente credibile. Poteva essere Tom stesso, che su quel televisore aveva notato qualcosa e aveva cominciato a scavare, per conto suo o di qualcun altro. L'allarme montò in fretta, come lo sgomento di poco prima. Questa volta non provò a fermarlo. Aspettò che si assestasse, poi cominciò a controllare.
+Il pensiero successivo arrivò da solo, prima che potesse valutarlo. Qualcuno che stava cercando di capire come fosse morta la signora Voss era partito dal televisore ed era arrivato fino a lei. Poteva essere un investigatore che aveva usato la casella del tecnico per mandarle un'esca con un mittente credibile. Poteva essere Tom stesso, che su quel televisore aveva notato qualcosa e aveva cominciato a scavare, per conto suo o di qualcun altro. Il pensiero montò in fretta, come l'altro di poco prima. Questa volta non provò a fermarlo. Lo lasciò salire fino in cima, dove non c'era più niente da aggiungere, poi cominciò a controllare.
 
-Partì dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note firmate da Tom, esiti tecnici di poche righe scritti tutti allo stesso modo, con le formule rigide di chi compila una scheda. Le mise accanto alla mail. Quella "Divisione Assistenza Tecnica" scritta per intero, i saluti di rito, la frase costruita come una segnalazione di guasto. Era la stessa mano. Nessun estraneo si era servito della sua casella; la mail l'aveva scritta Tom. L'allarme allentò la presa, abbastanza da lasciarla ragionare sulla seconda ipotesi.
+Partì dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note firmate da Tom, esiti tecnici di poche righe scritti tutti allo stesso modo, con le formule rigide di chi compila una scheda. Le mise accanto alla mail. Quella "Divisione Assistenza Tecnica" scritta per intero, i saluti di rito, la frase costruita come una segnalazione di guasto. Era la stessa mano. Nessun estraneo si era servito della sua casella; la mail l'aveva scritta Tom. Restava la seconda ipotesi.
 
 Nell'organigramma della Divisione Assistenza Tecnica c'era un solo Tom. Dodici anni di servizio, sempre lo stesso ruolo, nessuna promozione, nessun cambio di reparto. Un percorso così piatto poteva voler dire un uomo senza ambizioni. Poteva anche essere il profilo di uno che aveva tutto l'interesse a non farsi notare. Più ci pensava, più quell'altra lettura le sembrava plausibile.
 
@@ -101,3 +101,9 @@ Idea emersa e annotata in `book-memory.md` → Idee da valutare: *Vacanze romane
 | "Se fosse per questo che Tom le aveva scritto" | grammar | integrated | "le avesse scritto" (corretto anche l'indicativo; scelta di uniformità dell'autore). |
 | K1 "seconda ipotesi" / "seconda lettura" ravvicinati | style | integrated | "quell'altra lettura". |
 | "dispositivo per dispositivo" | continuity | integrated | "per tipo di dispositivo": gli analytics mostrano solo la categoria del dispositivo, mai matricola o ID univoco (autore, 2026-10-25, dialogo cap. 13). |
+
+### Cycle — 2026-10-31 (corrections dal giudizio editoriale)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-05/C-06 (A1.2) Quattro etichette emotive in una pagina (sgomento ×2, lucidità, allarme ×2) | telling | integrated (v6.3) | Sostituite con immagini (la mano sulla maniglia) e con il movimento del pensiero. |

@@ -1,6 +1,7 @@
 ---
 title: La chiamata alla signora
-version: 3.0
+version: 3.1
+revised: 2026-10-31
 claim: Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo.
 status: draft
 ---
@@ -9,7 +10,7 @@ Il numero era nel suo archivio, dove Tom lo aveva trascritto la sera prima insie
 
 Quella mattina era pronto per uscire con il solito anticipo: usciva sempre abbastanza presto da arrivare in azienda con un quarto d'ora di margine prima dell'inizio del turno, giusto il tempo di sistemarsi alla postazione con calma invece che di corsa. Per una volta decise di spendere quei quindici minuti in un altro modo.
 
-Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare e si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti: mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
+Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare, in piedi in cucina, con la luce del mattino di taglio sul tavolo e la felpa già addosso. Si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti: mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
 
 «Pronto?»
 
@@ -51,7 +52,7 @@ Ripensandoci, si rese conto di aver improvvisato l'intera telefonata come un pri
 
 Le parole della signora Voss avevano descritto, senza saperlo, quello che lui stesso aveva vissuto nel suo laboratorio il giorno prima. Ormai poteva affermarlo: non era stato il primo, né l'unico essere umano ad avere un'interazione consapevole con un dispositivo. Ne ebbe la conferma ancora prima di aprire il video.
 
-Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata fino all'ultimo secondo. Bastava un piccolo ritardo, anche di pochi minuti, per dare al supervisore un nuovo pretesto. Si alzò di scatto e uscì di casa quasi correndo.
+Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata fino all'ultimo secondo. Bastava un piccolo ritardo, anche di pochi minuti, per dare al supervisore un nuovo pretesto. Si alzò di scatto, uscì di casa quasi correndo e fece di corsa anche gli ultimi due isolati fino alla fermata, lui che in dodici anni non aveva mai corso per un autobus.
 
 ## Demolition Log
 
@@ -81,3 +82,10 @@ Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati d
 | R-40 "L'ho portato in assistenza, mi hanno detto che… era tutto a posto": il televisore è ancora in assistenza | logical | integrated (v3.0) | → "L'ho portato in negozio e mi hanno detto che per loro era tutto a posto… Adesso ce l'avete voi." Coerente con "sarà la retroilluminazione" detto in negozio. |
 | R-41 Ragionamento contorto sul mentire agli esseri umani vs agli elettrodomestici | logic | integrated (v3.0) | → "Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene." |
 | R-42 "esattamente quello che lui stesso aveva vissuto": rifiuto vs "sono qui con te" non sono la stessa cosa | accuracy | integrated (v3.0) | Già risolta con R-03: tolto "esattamente". |
+
+### Cycle — 2026-10-31 (corrections dal giudizio editoriale)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-19 (A3.4) Casa di Tom al mattino senza luce né stanza | descriptive | integrated (v3.1) | Telefonata in piedi in cucina, luce di taglio sul tavolo, felpa addosso. |
+| C-20 (A3.9) Nessun tragitto casa-lavoro nel libro | descriptive | integrated (v3.1) | Corsa fino alla fermata dell'autobus (nuovo fatto di mondo: Tom usa i mezzi). |
