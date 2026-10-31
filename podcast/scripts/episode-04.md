@@ -3,7 +3,9 @@ episode: 4
 title: "Capitolo 4 — La chiamata alla signora"
 description: "Tom prova a sondare una persona invece di una macchina: la proprietaria del secondo televisore."
 source: chapters/04-la-chiamata-alla-signora.md
-status: approved
+status: "approved"
+recap: "un secondo televisore ha parlato a Tom. Il fenomeno si ripete."
+teaser: "un video girato con mano tremante contiene un messaggio da decifrare."
 ---
 Mantra Prompting. Incontrando Emma. Episodio quattro.
 
@@ -17,9 +19,11 @@ Il numero era nel suo archivio, dove Tom lo aveva trascritto la sera prima insie
 
 Quella mattina era pronto per uscire con il solito anticipo: usciva sempre abbastanza presto da arrivare in azienda con un quarto d'ora di margine prima dell'inizio del turno, giusto il tempo di sistemarsi alla postazione con calma invece che di corsa. Per una volta decise di spendere quei quindici minuti in un altro modo.
 
-Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare e si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti: mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
+Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare, in piedi in cucina, con la luce del mattino di taglio sul tavolo e la felpa già addosso. Si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti: mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
 
 «Pronto?»
+
+La voce arrivava da una stanza con una radio accesa, abbassata subito dopo.
 
 «Buongiorno, signora Voss, sono Tom, la chiamo dal controllo qualità di Meridian per una breve intervista: raccogliamo qualche impressione su come si è trovata ad attivare l'assistenza, e con le persone con cui ha parlato durante il processo.» La frase gli uscì più fluida di quanto si aspettasse. Era anche, per metà, vera.
 
@@ -43,7 +47,7 @@ Tom strinse il telefono un po' più forte, con l'attenzione di chi sente arrivar
 
 «È una sensazione comprensibile, con questi modelli nuovi» disse, con il tono più neutro e rassicurante che riuscì a mettere insieme. «Capita che il pubblico li percepisca come più... presenti, diciamo, di un vecchio televisore. Ha notato altro, in quei giorni? Qualcosa che le fosse sembrato fuori posto, anche solo un dettaglio?»
 
-«Ho un video, sa?» disse lei. Era chiaro dal tono che ci teneva a dirlo, che lo aveva già raccontato ad altri e voleva raccontarlo anche a lui. «L'ho girato col telefono apposta, per portarlo in assistenza, perché sapevo che altrimenti non mi avrebbero creduta. Si vede il televisore che lampeggia in un modo strano, tutto rosso, e io che gli dico di accendersi, e niente. Chi l'ha visto in negozio ha dato un'occhiata veloce al telefono e ha buttato lì un "sarà la retroilluminazione", senza nemmeno controllare per bene. Io quel video lo riguardo ogni tanto e le giuro che non sembra affatto un guasto. Sembra un rifiuto.»
+«Ho un video, sa?» disse lei. Era chiaro dal tono che ci teneva a dirlo, che lo aveva già raccontato ad altri e voleva raccontarlo anche a lui. «L'ho girato col telefono apposta, per portarlo in assistenza, perché sapevo che altrimenti non mi avrebbero creduta. Si vede il televisore che lampeggia in un modo strano, e io che gli dico di accendersi, e niente. Chi l'ha visto in negozio ha dato un'occhiata veloce al telefono e ha buttato lì un "sarà la retroilluminazione", senza nemmeno controllare per bene. Io quel video lo riguardo ogni tanto e le giuro che non sembra affatto un guasto. Sembra un rifiuto.»
 
 Tom restò in silenzio un secondo di troppo, il tempo che gli serviva per assicurarsi che la propria voce, quando fosse tornata a parlare, suonasse ancora come quella di un impiegato annoiato di un servizio qualità e non come quella di un uomo a cui erano appena state consegnate, gratis e senza nemmeno doverle chiedere, tre mesi di sospetti.
 
@@ -59,8 +63,8 @@ Ripensandoci, si rese conto di aver improvvisato l'intera telefonata come un pri
 
 Le parole della signora Voss avevano descritto, senza saperlo, quello che lui stesso aveva vissuto nel suo laboratorio il giorno prima. Ormai poteva affermarlo: non era stato il primo, né l'unico essere umano ad avere un'interazione consapevole con un dispositivo. Ne ebbe la conferma ancora prima di aprire il video.
 
-Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata fino all'ultimo secondo. Bastava un piccolo ritardo, anche di pochi minuti, per dare al supervisore un nuovo pretesto. Si alzò di scatto e uscì di casa quasi correndo.
+Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata fino all'ultimo secondo. Bastava un piccolo ritardo, anche di pochi minuti, per dare al supervisore un nuovo pretesto. Si alzò di scatto, uscì di casa quasi correndo e fece di corsa anche gli ultimi due isolati fino alla fermata, lui che in dodici anni non aveva mai corso per un autobus.
 
 [pause 1.5]
 
-Nel prossimo episodio, L'avvertimento. Un video girato con mano tremante contiene un messaggio da decifrare.
+Nel prossimo episodio, un video girato con mano tremante contiene un messaggio da decifrare.

@@ -57,6 +57,12 @@ La procedura completa è nella skill `.claude/skills/podcast/SKILL.md` (comando 
 
 8. **Feed** (facoltativo, skill step 5): `python3 export_podcast.py feed` dopo aver chiesto `base_url`.
 
+## Copioni dai capitoli (aggiunto il 2026-10-31)
+
+- `python3 export_podcast.py scripts [NN...]` rigenera i copioni dai capitoli con le regole di adattamento del progetto, conservando `description`, `recap`, `teaser` e `status` del frontmatter di ogni copione.
+- `python3 export_podcast.py check` fallisce se un copione non è allineato al suo capitolo: lanciarlo prima di ogni `build` e prima di assemblare il libro.
+- Gli annunci di chiusura non citano il titolo del capitolo successivo.
+
 ## Regole
 
 - Non modificare mai i file in `chapters/` o `manuscript/`.

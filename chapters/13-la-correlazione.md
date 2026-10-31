@@ -1,6 +1,6 @@
 ---
 title: La correlazione
-version: 2.6
+version: 2.7
 claim: Nelle statistiche di eTv Emma ritrova il picco di "Yoga fit" che aveva già registrato come un risultato: un solo spettatore, su una Smart TV, decine di riproduzioni al giorno fino alla vigilia della chiamata all'assistenza della signora Voss. Il meccanismo lo conosce; per la prima volta guarda chi c'è dall'altra parte della curva. Il video ha funzionato, ma la cliente è morta: il televisore non era più in casa, eppure nei giorni senza log potrebbe aver preparato il terreno. Prima di agire deve sapere; l'unico ancora vivo che l'abbia avuto davanti è Tom. Cercando la matricola scopre che Tom l'ha avuto due volte, prima e dopo la morte, e che le ha scritto sapendo già del decesso. Decide di riscrivergli: scuse per il tono come appiglio, domande di cui conosce già le risposte.
 status: complete
 revised: 2026-10-31
@@ -16,7 +16,7 @@ Decine di migliaia di visualizzazioni non le dicevano niente. Le servivano le pe
 > Spettatore: utente anonimo · Dispositivo: Smart TV
 > Riproduzioni giornaliere (periodo selezionato): 9 · 10 · 10 · 11 · 9 · 12 · 10 · … · 18 · 21 · 24 · 22 · 27 · 31 · 28 · 30 · 0
 > Velocità di riproduzione prevalente: 2x
-> 🏅 Questo video sta fidelizzando il tuo pubblico!
+> Questo video sta fidelizzando il tuo pubblico!
 
 Per settimane quel televisore aveva guardato il video una decina di volte al giorno, sempre a velocità doppia, come la ragazza consigliava di fare prima ancora di cominciare gli esercizi. Poi i numeri avevano preso a salire, venti, venticinque, trenta. Un quarto d'ora che a velocità doppia ne durava la metà, ripetuto trenta volte, faceva quasi quattro ore al giorno davanti allo schermo. Poi, da un giorno all'altro, più niente.
 
@@ -103,3 +103,8 @@ Letta adesso, sapendo che Tom conosceva già la fine della signora Voss, quella 
 |---|---|---|---|
 | C-65 (13.11) Il corridoio di Emma alle dieci, comico e ambiguo | descriptive | integrated (v2.6) | Inserto: "Rimase sul pannello a lungo. Dal corridoio passò il carrello del caffè delle dieci, che da…" |
 
+### Cycle — 2026-10-31 (lacune tecniche)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Emoji 🏅 nel pannello eTv: non esiste in stampa, inutile in audio | typography | integrated (v2.7) | Tolta; resta la frase del riquadro. |

@@ -3,7 +3,7 @@ title: Primo contatto
 version: 3.4
 revised: 2026-10-31
 claim: Tom scopre, per pura affinità con il suo stesso hobby, che un elettrodomestico Meridian può comunicare in Morse: la scoperta lo riempie di stupore puro, non di sospetto, perché l'isolamento del suo laboratorio gli garantisce che il fenomeno sia reale.
-status: draft
+status: complete
 ---
 
 Il televisore era acceso da dodici minuti e non aveva ancora emesso uno solo dei suoni tipici della televisione, il jingle di un gioco a premi, l'applauso di un pubblico pagato, una risata registrata partita al momento sbagliato, lo squillo isterico di un'edizione straordinaria del telegiornale. Il che, considerato tutto, lo rendeva comunque l'interlocutore più valido che Tom avesse incontrato in settimana.

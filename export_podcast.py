@@ -7,6 +7,9 @@ Piper (free, offline neural TTS) or ElevenLabs (paid API) + ffmpeg.
 Usage:
   python3 export_podcast.py voices [lang]          # list voices (Piper catalog, or your ElevenLabs voices)
   python3 export_podcast.py sample VOICE [...]     # download voice(s), render a short sample
+  python3 export_podcast.py scripts [NN...]        # rebuild podcast/scripts/ from chapters/ (keeps
+                                                   # description/recap/teaser/status of each script)
+  python3 export_podcast.py check                  # exit 1 if a script is out of sync with its chapter
   python3 export_podcast.py build [scripts...]     # render episodes (default: all scripts)
   python3 export_podcast.py feed                   # write podcast/feed.xml (RSS)
   python3 export_podcast.py jingle [--style S] [--seconds N] [--seed N] [--drums synth|kit|none]
@@ -1002,6 +1005,178 @@ def feed(project_dir):
     print(f"✅ {out} ({len(items)} episodes)")
 
 
+# ─── Scripts from chapters ────────────────────────────────────────────────────
+# `scripts` rebuilds podcast/scripts/episode-NN.md from chapters/NN-*.md with the
+# adaptation rules of this project (Morse, system boxes, numbers), keeping the
+# per-episode fields written by the author in the script frontmatter
+# (description, recap, teaser, status). `check` reports scripts out of sync.
+
+_UNITS = ["zero", "uno", "due", "tre", "quattro", "cinque", "sei", "sette", "otto", "nove", "dieci",
+          "undici", "dodici", "tredici", "quattordici", "quindici", "sedici", "diciassette", "diciotto", "diciannove"]
+_TENS = {2: "venti", 3: "trenta", 4: "quaranta", 5: "cinquanta", 6: "sessanta", 7: "settanta", 8: "ottanta", 9: "novanta"}
+
+def italian_number(n):
+    if n < 20:
+        return _UNITS[n]
+    if n < 100:
+        t, u = divmod(n, 10)
+        w = _TENS[t]
+        if u in (1, 8):
+            w = w[:-1]
+        if u == 3:
+            return w + "tré"
+        return w + (_UNITS[u] if u else "")
+    if n < 1000:
+        h, r = divmod(n, 100)
+        w = "cento" if h == 1 else _UNITS[h] + "cento"
+        if 80 <= r < 90:
+            w = w[:-1]
+        return w + (italian_number(r) if r else "")
+    if n < 1000000:
+        k, r = divmod(n, 1000)
+        w = "mille" if k == 1 else italian_number(k) + "mila"
+        return w + (italian_number(r) if r else "")
+    return str(n)
+
+# Morse lines that are read as sentences instead of word by word (author's choice).
+MORSE_SPOKEN = {
+    "STAI / ESAGERANDO / CON / LO / YOGA / IL / TUO / CUORE / NON / REGGE / PIU / FERMATI / O / RISCHI / LA / VITA":
+        "Stai esagerando con lo yoga. Il tuo cuore non regge più. Fermati, o rischi la vita.",
+}
+# Morse quoted inside a sentence.
+MORSE_INLINE = {
+    "NO / SONO / QUI / CON / TE": '"no, sono qui con te"',
+    "IO / SONO / QUI": '"io sono qui"',
+}
+_MORSE_FIX = {"SI": "Sì", "PIU": "Più"}
+
+def morse_words(seq):
+    return " ".join(_MORSE_FIX.get(w, w.capitalize()) + "." for w in seq.split(" / "))
+
+def spoken_numbers(text):
+    text = re.sub(r"\b2x\b", "doppia", text)
+    text = re.sub(r"(\d+)\s*%", lambda m: italian_number(int(m.group(1))) + " per cento", text)
+    return re.sub(r"\b\d+\b", lambda m: italian_number(int(m.group(0))), text)
+
+def spoken_box(line):
+    s = line.strip().strip("*").strip()
+    s = s.replace("[omesso in automatico]", "omesso in automatico").replace("[omesso]", "omesso")
+    s = re.sub(r"\bRif\.", "Riferimento", s)
+    s = re.sub(r"\bmod\.", "modello", s)
+    s = re.sub(r"\bTV\b", "tivù", s)
+    s = re.sub(r"\bTurno: B\b", "Turno: bi", s)
+    s = re.sub(r"([\w.-]+)@([\w.-]+)\.(\w+)",
+               lambda m: f"{m.group(1)} chiocciola {m.group(2).replace('.', ' punto ')} punto {m.group(3)}", s)
+    s = s.replace("_", " ")
+    s = spoken_numbers(s)
+    return s if s.endswith((".", "!", "?")) else s + "."
+
+def spoken_panel(line):
+    s = re.sub(r"^\s*>\s?", "", line).replace("*", "").strip()
+    s = re.sub(r"[\U0001F000-\U0001FAFF☀-➿]\s*", "", s)
+    if s.count(" · ") >= 3:                      # list of values: read as one sentence
+        s = s.replace(" · ", ", ").replace(", …, ", "… ")
+        s = re.sub(r", (0|zero)$", r". Zero", s)
+    else:
+        s = s.replace(" · ", ". ")
+    s = spoken_numbers(s)
+    return s if s.endswith((".", "!", "?")) else s + "."
+
+def spoken_line(line):
+    line = re.sub(r"`([^`]+)`", r"\1", line)
+    def inline(m):
+        seq = m.group(1)
+        return MORSE_INLINE.get(seq, '"' + seq.replace(" / ", " ").lower() + '"')
+    line = re.sub(r"\*?\b([A-ZÀ-Ù']{2,}(?: / [A-ZÀ-Ù']+)+)\b\.?\*?", inline, line)
+    return spoken_numbers(line)
+
+def adapt_chapter_body(body):
+    out = []
+    for para in re.split(r"\n\s*\n", body.strip()):
+        lines = [l for l in para.splitlines() if l.strip()]
+        if not lines or lines[0].strip() == "---" or lines[0].startswith("#"):
+            continue
+        spoken = []
+        for l in lines:
+            s = l.strip()
+            if re.fullmatch(r"\*?[.\-– /]+\*?", s):                       # dots and dashes
+                spoken.append("[pause 1.5]")
+            elif re.fullmatch(r"\*?([A-ZÀ-Ù']+(?: / [A-ZÀ-Ù']+)*)\.?\*?", s):   # Morse words
+                seq = re.fullmatch(r"\*?([A-ZÀ-Ù']+(?: / [A-ZÀ-Ù']+)*)\.?\*?", s).group(1)
+                spoken.append(MORSE_SPOKEN.get(seq) or morse_words(seq))
+            elif re.fullmatch(r"\*\*.+\*\*", s):                                # system box
+                spoken.append(spoken_box(s))
+            elif s.startswith(">"):                                             # panel / blockquote
+                spoken.append(spoken_panel(s))
+            else:
+                spoken.append(spoken_line(s))
+        out.append("\n".join(spoken))
+    return "\n\n".join(out)
+
+def chapter_files(project_dir, names=None):
+    chapters = sorted((Path(project_dir) / "chapters").glob("[0-9][0-9]-*.md"))
+    if names:
+        wanted = {re.sub(r"\D", "", Path(n).stem)[:2] for n in names}
+        chapters = [c for c in chapters if c.stem[:2] in wanted]
+    return chapters
+
+def render_script(project_dir, chapter, existing_meta=None):
+    config = load_config(project_dir)
+    meta, text = split_frontmatter(chapter.read_text(encoding="utf-8"))
+    body = text.split("\n## Demolition Log")[0]
+    n = int(chapter.stem[:2])
+    old = existing_meta or {}
+    book = config.get("title", "").replace(": ", ". ").rstrip(".") + "."
+    title = meta.get("title", chapter.stem[3:])
+    fm = {
+        "episode": str(n),
+        "title": f"Capitolo {n} — {title}",
+        "description": old.get("description", ""),
+        "source": f"chapters/{chapter.name}",
+        "status": old.get("status", "script"),
+        "recap": old.get("recap", ""),
+        "teaser": old.get("teaser", ""),
+    }
+    head = "---\n" + "\n".join(f'{k}: "{v}"' if k not in ("episode", "source") else f"{k}: {v}" for k, v in fm.items()) + "\n---\n"
+    parts = [f"{book} Episodio {italian_number(n)}."]
+    if fm["recap"]:
+        parts.append(fm["recap"] if fm["recap"].startswith("Nell'episodio precedente") else "Nell'episodio precedente, " + fm["recap"])
+    parts.append("[pause 1]")
+    parts.append(f"# Capitolo {italian_number(n)}. {title}")
+    parts.append(adapt_chapter_body(body))
+    parts.append("[pause 1.5]")
+    if fm["teaser"]:
+        parts.append(fm["teaser"] if fm["teaser"].startswith("Nel prossimo episodio") else "Nel prossimo episodio, " + fm["teaser"])
+    return head + "\n\n".join(parts) + "\n"
+
+def scripts(project_dir, names):
+    scripts_dir = Path(project_dir) / "podcast" / "scripts"
+    scripts_dir.mkdir(parents=True, exist_ok=True)
+    for chapter in chapter_files(project_dir, names):
+        target = scripts_dir / f"episode-{chapter.stem[:2]}.md"
+        old_meta = split_frontmatter(target.read_text(encoding="utf-8"))[0] if target.exists() else {}
+        new = render_script(project_dir, chapter, old_meta)
+        changed = (not target.exists()) or target.read_text(encoding="utf-8") != new
+        target.write_text(new, encoding="utf-8")
+        words = len(split_frontmatter(new)[1].split())
+        print(f"{'✏️ ' if changed else '✅'} {target.name}  {words} parole  ({'rigenerato' if changed else 'già allineato'})")
+
+def check(project_dir):
+    scripts_dir = Path(project_dir) / "podcast" / "scripts"
+    drift = 0
+    for chapter in chapter_files(project_dir):
+        target = scripts_dir / f"episode-{chapter.stem[:2]}.md"
+        if not target.exists():
+            print(f"❌ {target.name} manca (capitolo {chapter.name})"); drift += 1; continue
+        old_meta, old_body = split_frontmatter(target.read_text(encoding="utf-8"))
+        new_body = split_frontmatter(render_script(project_dir, chapter, old_meta))[1]
+        if old_body != new_body:
+            print(f"⚠️  {target.name} non allineato a {chapter.name}: rilancia `scripts`"); drift += 1
+        else:
+            print(f"✅ {target.name} allineato")
+    sys.exit(1 if drift else 0)
+
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     cmd = args[0] if args else "build"
@@ -1016,6 +1191,10 @@ if __name__ == "__main__":
             i = rest.index("--text")
             text, rest = rest[i + 1], rest[:i] + rest[i + 2:]
         sample(".", rest or [podcast_settings(load_config("."))["voice"]], text)
+    elif cmd == "scripts":
+        scripts(".", rest)
+    elif cmd == "check":
+        check(".")
     elif cmd == "build":
         build(".", rest)
     elif cmd == "feed":

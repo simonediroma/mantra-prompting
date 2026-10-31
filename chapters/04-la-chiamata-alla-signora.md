@@ -3,7 +3,7 @@ title: La chiamata alla signora
 version: 3.3
 revised: 2026-10-31
 claim: Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo.
-status: draft
+status: complete
 ---
 
 Il numero era nel suo archivio, dove Tom lo aveva trascritto la sera prima insieme al resto dei dati essenziali della cliente: nome, indirizzo, il minimo che serviva per rintracciare una pratica. Non aveva annotato una scusa plausibile per chiamarla: quella se l'era dovuta inventare nella solitudine di casa sua, poco dopo, seduto alla scrivania con il quaderno aperto sotto il naso. Aveva provato a voce alta varie frasi che sembrassero professionali senza suonare come un copione, fino a che, evidentemente stizzito dalla sua scarsa bravura a recitare, aveva deciso di andare a letto.
