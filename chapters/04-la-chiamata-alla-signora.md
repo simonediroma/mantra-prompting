@@ -1,6 +1,6 @@
 ---
 title: La chiamata alla signora
-version: 3.1
+version: 3.2
 revised: 2026-10-31
 claim: Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo.
 status: draft
@@ -36,7 +36,7 @@ Tom strinse il telefono un po' più forte, con l'attenzione di chi sente arrivar
 
 «È una sensazione comprensibile, con questi modelli nuovi» disse, con il tono più neutro e rassicurante che riuscì a mettere insieme. «Capita che il pubblico li percepisca come più... presenti, diciamo, di un vecchio televisore. Ha notato altro, in quei giorni? Qualcosa che le fosse sembrato fuori posto, anche solo un dettaglio?»
 
-«Ho un video, sa?» disse lei. Era chiaro dal tono che ci teneva a dirlo, che lo aveva già raccontato ad altri e voleva raccontarlo anche a lui. «L'ho girato col telefono apposta, per portarlo in assistenza, perché sapevo che altrimenti non mi avrebbero creduta. Si vede il televisore che lampeggia in un modo strano, tutto rosso, e io che gli dico di accendersi, e niente. Chi l'ha visto in negozio ha dato un'occhiata veloce al telefono e ha buttato lì un "sarà la retroilluminazione", senza nemmeno controllare per bene. Io quel video lo riguardo ogni tanto e le giuro che non sembra affatto un guasto. Sembra un rifiuto.»
+«Ho un video, sa?» disse lei. Era chiaro dal tono che ci teneva a dirlo, che lo aveva già raccontato ad altri e voleva raccontarlo anche a lui. «L'ho girato col telefono apposta, per portarlo in assistenza, perché sapevo che altrimenti non mi avrebbero creduta. Si vede il televisore che lampeggia in un modo strano, e io che gli dico di accendersi, e niente. Chi l'ha visto in negozio ha dato un'occhiata veloce al telefono e ha buttato lì un "sarà la retroilluminazione", senza nemmeno controllare per bene. Io quel video lo riguardo ogni tanto e le giuro che non sembra affatto un guasto. Sembra un rifiuto.»
 
 Tom restò in silenzio un secondo di troppo, il tempo che gli serviva per assicurarsi che la propria voce, quando fosse tornata a parlare, suonasse ancora come quella di un impiegato annoiato di un servizio qualità e non come quella di un uomo a cui erano appena state consegnate, gratis e senza nemmeno doverle chiedere, tre mesi di sospetti.
 
@@ -89,3 +89,9 @@ Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati d
 |---|---|---|---|
 | C-19 (A3.4) Casa di Tom al mattino senza luce né stanza | descriptive | integrated (v3.1) | Telefonata in piedi in cucina, luce di taglio sul tavolo, felpa addosso. |
 | C-20 (A3.9) Nessun tragitto casa-lavoro nel libro | descriptive | integrated (v3.1) | Corsa fino alla fermata dell'autobus (nuovo fatto di mondo: Tom usa i mezzi). |
+
+### Cycle — 2026-10-31 (corrections, C-18)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-18 "tutto rosso" senza riscontro nel cap. 1 (LED verde) né nel cap. 5 | continuity | integrated (v3.2) | Scelta dell'autore: tolto il colore dalla battuta della signora. |

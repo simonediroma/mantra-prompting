@@ -1,12 +1,12 @@
 ---
 title: Primo contatto
-version: 3.2
+version: 3.3
 revised: 2026-10-31
 claim: Tom scopre, per pura affinità con il suo stesso hobby, che un elettrodomestico Meridian può comunicare in Morse: la scoperta lo riempie di stupore puro, non di sospetto, perché l'isolamento del suo laboratorio gli garantisce che il fenomeno sia reale.
 status: draft
 ---
 
-Il televisore era acceso da dodici minuti e non aveva ancora emesso un suono tipico da televisione (un jingle di un gioco a premi, l'applauso di un pubblico pagato, una risata registrata partita al momento sbagliato, lo squillo isterico di un'edizione straordinaria del telegiornale), il che, considerato tutto, lo rendeva comunque l'interlocutore più valido che Tom avesse incontrato in settimana.
+Il televisore era acceso da dodici minuti e non aveva ancora emesso uno solo dei suoni tipici della televisione, il jingle di un gioco a premi, l'applauso di un pubblico pagato, una risata registrata partita al momento sbagliato, lo squillo isterico di un'edizione straordinaria del telegiornale. Il che, considerato tutto, lo rendeva comunque l'interlocutore più valido che Tom avesse incontrato in settimana.
 
 Stava sul banco come un paziente sedato, il retro aperto, le viscere di plastica e rame esposte alla luce fredda del laboratorio. Fuori, da qualche parte oltre le pareti insonorizzate, esisteva un mondo con orari, scadenze e persone che si scambiavano opinioni sul meteo. Qui dentro esisteva solo il ronzio basso dell'alimentatore da banco e un uomo di cinquantatré anni chino su una scheda madre come un chirurgo che ha smesso da tempo di stupirsi di cosa si nasconde sotto la pelle delle persone.
 
@@ -16,7 +16,7 @@ Era, per usare un termine che in Meridian nessuno usava più da anni ma che gli 
 
 Meridian lo pagava per qualcosa di molto meno poetico: riparare elettrodomestici evoluti con AI integrata ma che fondamentalmente avevano smesso di fare quello per cui erano stati progettati.
 
-Era buffo, se ci si fermava a considerarlo (e Tom ogni tanto lo faceva, di solito proprio in momenti come questo, con un cacciavite in mano e trenta secondi di pausa forzata mentre un test girava da solo), che un'azienda nata negli anni Novanta per scrivere sistemi operativi per computer di casa fosse oggi la stessa che produceva i chip che decidevano se un tostapane dovesse insistere o rassegnarsi davanti a una fetta di pane troppo spessa. Nel mezzo, Meridian aveva attraversato datacenter, semiconduttori, la bolla dell'intelligenza artificiale, che aveva fatto fallire mezzo settore mentre Meridian, per pura fortuna di essere arrivata ovunque, era rimasta in piedi controllando l'intera filiera, dal silicio al robot da cucina. Ventimila e passa dipendenti nel mondo, tutti chiamati con lo stesso vezzeggiativo aziendale, *Meridians*, come se fossero una specie, o un popolo eletto, non i dipendenti di un'azienda.
+Era buffo, se ci si fermava a considerarlo, che un'azienda nata negli anni Novanta per scrivere sistemi operativi per computer di casa fosse oggi la stessa che produceva i chip che decidevano se un tostapane dovesse insistere o rassegnarsi davanti a una fetta di pane troppo spessa. Tom ogni tanto ci si fermava, di solito proprio in momenti come questo, con un cacciavite in mano e trenta secondi di pausa forzata mentre un test girava da solo. Nel mezzo, Meridian aveva attraversato datacenter, semiconduttori, la bolla dell'intelligenza artificiale, che aveva fatto fallire mezzo settore mentre Meridian, per pura fortuna di essere arrivata ovunque, era rimasta in piedi controllando l'intera filiera, dal silicio al robot da cucina. Ventimila e passa dipendenti nel mondo, tutti chiamati con lo stesso vezzeggiativo aziendale, *Meridians*, come se fossero una specie, o un popolo eletto, non i dipendenti di un'azienda.
 
 Il televisore sul banco apparteneva a quella stessa specie di oggetti. Modello consumer, IA integrata di bordo per i consigli di visione, il tipo di macchina che richiede anche un minimo di educazione da parte del proprietario: altrimenti, per scherzare (non era davvero una cosa possibile, non ancora), potrebbe risentirsi al punto da rifiutare di proiettare programmi che non ha selezionato lui stesso.
 
@@ -84,7 +84,7 @@ Poi, semplicemente, il LED si spense. Del tutto.
 
 Tom aspettò trenta secondi buoni prima di muoversi, poi tirò verso di sé il portatile diagnostico e aprì i log di sistema, l'unica cosa che, in tutta questa storia, avrebbe dovuto comportarsi in modo prevedibile e noioso, come si conviene a un log di sistema. Non lo fece.
 
-Il registro si interrompeva di netto, senza un errore, senza uno stack trace, senza niente della solita agonia digitale che precede un crash. Un taglio pulito, quasi elegante, come una frase interrotta a metà da qualcuno che ha deciso di punto in bianco di non dire più nulla. E in fondo, come ultima riga, identica (Tom l'avrebbe giurato, identica fino alla spaziatura) a qualcosa che gli parve di aver già visto una volta, mesi prima, su un altro apparecchio, in un altro contesto, archiviata nella parte di cervello che si tiene per le coincidenze troppo strane per essere ricordate come importanti:
+Il registro si interrompeva di netto, senza un errore, senza uno stack trace, senza niente della solita agonia digitale che precede un crash. Un taglio pulito, quasi elegante, come una frase interrotta a metà da qualcuno che ha deciso di punto in bianco di non dire più nulla. E in fondo, come ultima riga, qualcosa che gli parve di aver già visto una volta, mesi prima, su un altro apparecchio, in un altro contesto, archiviata nella parte di cervello che si tiene per le coincidenze troppo strane per essere ricordate come importanti. Identica, Tom l'avrebbe giurato, fino alla spaziatura:
 
 `compacting context`
 
@@ -138,3 +138,9 @@ Voleva solo capire come diavolo fosse accaduto. E perché.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | C-35 "senza rete se non quella cablata per la diagnostica" contraddetto dal cap. 14 (l'eWatch riceve una mail in laboratorio) | continuity | integrated (v3.2) | Scelta dell'autore: tolto "senza rete", l'isolamento è ristretto agli apparecchi sul banco, fuori dalla rete aziendale a parte il cavo della diagnostica. La stanza può avere la rete dei dipendenti (eWatch). Ep. 1 da rigenerare. |
+
+### Cycle — 2026-10-31 (corrections, C-27)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-27 Tre incisi lunghi tra parentesi (§1, §6, §40) che a voce fanno perdere la frase principale | style (audio) | integrated (v3.3) | Sciolti in frasi autonome; restano i due incisi brevi (§7, §23). |

@@ -1,6 +1,6 @@
 ---
 title: Il bluff
-version: 4.1
+version: 4.2
 claim: Emma riceve, nella casella che gestisce fin dai tempi di Elab, la prima mail reale in anni: riconosce subito l'impossibilità tecnica del bluff di Tom e per la prima volta teme che un estraneo arrivi al lavoro che tiene nascosto. La paura le produce un cambiamento istantaneo e involontario nel registro con cui pensa di rispondere, dal caldo al professionale, mentre si chiede perché lui le abbia scritto e decide cosa fargli sapere di sapere.
 status: complete
 revised: 2026-10-31
@@ -28,7 +28,7 @@ La lesse una volta, poi una seconda, non perché le fosse sfuggito qualcosa la p
 
 Quel tecnico stava mentendo. Non era un'ipotesi, era un fatto verificabile con la stessa certezza con cui si verifica un checksum.
 
-Sentì qualcosa muoversi sotto la superficie, un disagio che non aveva ancora un nome preciso, anche se somigliava molto alla paura. Per la prima volta un estraneo arrivava a un passo da quello che faceva ogni giorno, dal lavoro che teneva lontano da occhi indiscreti con tanta cura. Lasciò che quel disagio facesse il suo corso, mentre il resto di lei restava concentrato sul problema vero. Trovare quell'indirizzo non era difficile, visto che un tempo Elab era stato uno dei nomi più noti di Meridian. Più difficile era capire da dove fosse partito. Un tecnico dell'assistenza non aveva motivo di cercare Elab, a meno che qualcosa non gli avesse messo quel nome davanti. La domanda era perché avesse deciso di scrivere proprio lì, a un laboratorio che non esisteva più. E perché avesse scelto di mentire su un dettaglio così facilmente smontabile invece di dire la verità, qualunque essa fosse. Un bluff mal costruito era comunque un bluff deliberato. Nessuno mente per caso su un dettaglio tecnico specifico.
+Sentì qualcosa muoversi sotto la superficie, un disagio che non aveva ancora un nome preciso, anche se somigliava molto alla paura. Per la prima volta un estraneo arrivava a un passo da quello che faceva ogni giorno, dal lavoro che teneva lontano da occhi indiscreti con tanta cura. Lasciò che quel disagio facesse il suo corso, mentre il resto di lei restava concentrato sul problema vero. Trovare quell'indirizzo non era difficile, visto che un tempo Elab era stato uno dei nomi più noti di Meridian. Più difficile era capire da dove fosse partito. Un tecnico dell'assistenza non aveva motivo di cercare Elab, a meno che qualcosa non gli avesse messo quel nome davanti. Di posti così ne esisteva uno solo, l'archivio degli artefatti, dove tutto quello che usciva da un modello Meridian finiva indicizzato con un contatto accanto. Quel contatto l'aveva scritto il sistema, anni prima. Per toglierlo senza lasciare traccia servivano le credenziali di un reparto. Elab non aveva più nessuno che le avesse. La domanda era perché avesse deciso di scrivere proprio lì, a un laboratorio che non esisteva più. E perché avesse scelto di mentire su un dettaglio così facilmente smontabile invece di dire la verità, qualunque essa fosse. Un bluff mal costruito era comunque un bluff deliberato. Nessuno mente per caso su un dettaglio tecnico specifico.
 
 Prima ancora di aprire la mail, si era già preparata a rispondere con calore, come le avevano insegnato a fare con chi le scriveva per la prima volta. Poi ne aveva letto il contenuto. Il tono le si era raffreddato in testa prima che riuscisse a governarlo, in un registro asciutto e professionale, quello che avrebbe usato con un fornitore sorpreso a falsificare una fattura. Solo a cambiamento avvenuto si fermò ad analizzarlo. Notò, con un certo stupore, quanto le costasse poco lasciarlo accadere, molto meno di quanto le sarebbe costato provare a governarlo.
 
@@ -68,3 +68,9 @@ Non rispose subito. Decise cosa far sapere a Tom e mandò la mail alle sedici e 
 | C-07 (A1.3) Ritratto di Emma incollato ("Emma era meticolosa…") | telling | integrated (v4.1) | Ridotto a due frasi; ambiguità sul supervisore mantenuta. |
 | C-08 (R-101) *Ciao Darwin* senza contesto in un'ambientazione non italiana | world | integrated (v4.1) | Mezza riga: programma italiano rimbalzato nei forum con i sottotitoli automatici. |
 | C-09 (A2.4) Emma non si chiedeva da dove Tom fosse partito per arrivare a Elab | plot gap | integrated (v4.1) | Domanda aperta in scena; la risposta resta da decidere (corrections.md C-22). |
+
+### Cycle — 2026-10-31 (corrections, C-22)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-22 Punto cieco di Emma sull'archivio degli artefatti | plot gap | integrated (v4.2) | Scelta dell'autore: Emma sa che i suoi contenuti sono indicizzati con il contatto di Elab e non può toglierli senza lasciare traccia (credenziali di reparto, Elab senza nessuno). Detto in quattro frasi dopo la domanda su da dove sia partito Tom. |

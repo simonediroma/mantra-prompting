@@ -3,6 +3,16 @@
 > Coda delle correzioni (skill `ghost-writer:corrections`). ID = capitolo.paragrafo, contando i paragrafi del corpo del capitolo (frontmatter e Demolition Log esclusi). Stati: `open` · `done` · `skipped` · `discussed` · `deferred`.
 > Regola della skill: refusi e punteggiatura si applicano in blocco; tutto il resto una riga alla volta, con approvazione dell'autore. Nessuna modifica alla voce oltre quanto chiede la nota.
 
+## Riepilogo
+
+```
+CORRECTIONS — 0 open (38 done)
+```
+
+Episodi audio toccati dalle correzioni applicate: 1, 2, 4, 5, 6, 9, 10, 12, 13 (più il 14, ancora senza copione) (gli ep. 11, 12, 13 sono comunque da rigenerare per motivi tecnici; vedi `giudizio-editoriale-2026-10-31.md → 4`).
+
+## Archive
+
 ## Import 2026-10-31 — dal giudizio editoriale (Parte A: audiolibro)
 
 Fonte: `giudizio-editoriale-2026-10-31.md`, sezioni A1 (stile), A2 (trama), A3 (descrizione). Tutte le proposte rispettano `style-rules.md` (R1 sui due punti, niente ", e" in narrazione, numeri in lettere, niente paragrafi-lampo, niente commento del narratore).
@@ -143,7 +153,7 @@ Coerenza: il cap. 12 descrive la foto con "un tappetino da yoga arrotolato in un
 
 ---
 
-### C-18 · 5.6 · question · open
+### C-18 · 5.6 · question · done (autore: tolto "tutto rosso" dal cap. 4)
 **Nota (A2.10)**: la signora nel cap. 4 dice "tutto rosso"; nel cap. 1 il LED normale è verde e il pattern anomalo non ha colore. Se il rosso è il colore del rifiuto, Tom dovrebbe notarlo qui.
 **Proposta (solo se l'autore conferma il dettaglio di mondo)**: "…l'unico segno di vita che dava era una sequenza di lampeggiamenti del LED di accensione, rosso. Il verde del laboratorio, quello del "sto pensando", qui non compariva mai." Da registrare poi in `book-memory.md → Continuity Ledger`.
 
@@ -173,12 +183,12 @@ Variante senza ", e": "Compose il numero dal proprio cellulare, in piedi in cuci
 
 ---
 
-### C-22 · trama · question · open
+### C-22 · trama · question · done (autore: lo sa, non può cancellare; cap. 10 v4.2)
 **Nota (A2.4)**: il punto cieco di Emma sull'archivio. Due opzioni, da decidere prima dei cap. 14-20: (a) Emma non sa che il vecchio footprint è stato arricchito e indicizzato con il contatto di Elab, e lo scopre con paura in un capitolo successivo; (b) lo sa, ma non può cancellare (accesso in scrittura per reparto, Elab senza nessuno autorizzato). C-09 apre la domanda; qui si decide la risposta.
 
 ---
 
-### C-23 · trama · question · open
+### C-23 · trama · question · done (gancio Libro 2: outline cap. 19 + Open Promises)
 **Nota (A2.7)**: il primo televisore (cap. 1) resta un filo pendente. Opzioni: gancio per il Libro 2 (richiamarlo almeno una volta entro il cap. 20), oppure chiuderlo facendolo ritrovare a Emma nel suo archivio al 13.6 ("Tornò all'inizio dell'archivio e cominciò a scendere riga per riga"): una riga di circa quattro mesi prima, un televisore dello stesso modello, un cliente che guardava chissà cosa.
 
 ---
@@ -193,17 +203,17 @@ Variante senza ", e": "Compose il numero dal proprio cellulare, in piedi in cuci
 
 ---
 
-### C-26 · cap. 15 (outline) · insert · deferred
+### C-26 · cap. 15 (outline) · insert · done (outline cap. 15)
 **Nota (A2.1)**: come il televisore sapeva del cuore della signora (eWatch collegato alla rete di casa). Promessa aperta dal cap. 5, non collocata nell'outline. Proposta: nel cap. 15, parte 1 (i giorni del chiodo fisso), Tom se lo chiede e lo capisce guardando il proprio polso.
 
 ---
 
-### C-27 · cap. 1-3 · question · open
+### C-27 · cap. 1-3 · question · done (autore: sciolti gli incisi lunghi, cap. 1 v3.3 e cap. 2 v3.2)
 **Nota (A1.9)**: incisi tra parentesi (5 nel cap. 1). Sulla pagina funzionano, a voce allungano la frase. Decidere se spezzarli (testo unico, vale anche per la stampa) o lasciarli. Nessuna proposta finché non si decide.
 
 ---
 
-### C-28 · tutti · question · open
+### C-28 · tutti · question · done (book.config.json → author_voice.chapter_checklist)
 **Nota (A1.10)**: il registro comico si spegne dal cap. 5. Non è una correzione puntuale ma un criterio per la revisione dei cap. 14-20 e per le prossime demolizioni: ogni capitolo ha almeno un'immagine bassa e fisica alla maniera del piccione. Proposta: aggiungere la domanda alla checklist di `demolish` per questo progetto.
 
 ---
@@ -261,33 +271,15 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 6` (aggiornamento dopo il merge di
 
 ---
 
-### C-36 · `characters/emma.md` · continuity · open
+### C-36 · `characters/emma.md` · continuity · done (characters/emma.md)
 **Nota**: la nota "Nessuno spazio fisico: Emma non abita da nessuna parte… Non scrivere mai scene in cui Emma si muove, occupa o percepisce un ambiente fisico" è contraddetta dal cap. 11 v4.0 (Emma sente entrare il fondatore, lo guarda sedersi nella poltrona davanti a lei, sente la stampante) e da `characters/il-fondatore.md` aggiornato (terminale fisico con telecamera e microfono in una stanza vicina all'ufficio). Va riscritta: Emma percepisce una sola stanza, attraverso un terminale, con verbi che restino leggibili in chiave umana; la stanza non si descrive mai.
 
 ---
 
-### C-37 · cap. 14 · question · open
+### C-37 · cap. 14 · question · done (autore: tenere fuori il dettaglio; cap. 14 v2.2)
 **Nota (regola POV mail)**: il testo della risposta di Tom non si vede, ma il suo contenuto è interamente anticipato dal ragionamento di Tom (modello, guasto, rifiuto, decesso, ricondizionamento). Quando Emma la leggerà non resterà nulla da scoprire, se non il tono. Va bene se la sorpresa prevista è la mail delle 8:00:01 e non la risposta di Tom; altrimenti tenere fuori dal ragionamento un dettaglio (per esempio che Tom le dica della morte) e lasciarlo alla lettura di Emma.
 
 ---
 
-### C-38 · cap. 14-15 (outline) · question · open
+### C-38 · cap. 14-15 (outline) · question · done (cap. 15 corto con scena vera, bivio nel cap. 17; outline)
 **Nota (`docs/timeline-e-valutazione-libro-1.md`, proposta 3)**: la mail delle 8:00:01 come ultima scena del cap. 14. Parere: il cap. 14 chiude bene sul quaderno vuoto, ed è già il secondo capitolo più lungo del libro (2.091 parole, episodio da circa quindici minuti). Spostare la mail qui dà un cliffhanger ma lascia il cap. 15 senza scena. Alternativa: tenere il cap. 15 corto ma farne una scena vera (Tom che legge la mail dentro il timer di un altro apparecchio, come qui) e portare il bivio nel cap. 17 come già proposto dal documento.
-
-## Riepilogo
-
-```
-CORRECTIONS — 9 open (29 done)
-  typo/punctuation: 0
-  rewrite/cut/insert: 0    (C-29…C-34 applicate il 2026-10-31, cap. 14 v2.1)
-  continuity: 2            (C-18 LED; C-36 emma.md)
-  questions: 6             (C-22, C-23, C-27, C-28, C-37, C-38)
-  deferred: 1              (C-26 eWatch, outline cap. 15)
-  unclear location: 0
-```
-
-Episodi audio toccati dalle correzioni applicate: 1, 2, 4, 5, 6, 9, 10, 12, 13 (più il 14, ancora senza copione) (gli ep. 11, 12, 13 sono comunque da rigenerare per motivi tecnici; vedi `giudizio-editoriale-2026-10-31.md → 4`).
-
-## Archive
-
-(vuoto)
