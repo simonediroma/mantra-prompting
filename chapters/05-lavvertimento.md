@@ -3,7 +3,7 @@ title: L'avvertimento
 version: 3.2
 revised: 2026-10-31
 claim: Il video mostra a Tom una prova diretta e inequivocabile che il fenomeno non è ostile ma protettivo, un salto qualitativo enorme rispetto al semplice sospetto di coscienza, ma la conferma arriva troppo tardi: la signora Voss non risponde più.
-status: draft
+status: complete
 ---
 
 Arrivò con due minuti di ritardo e passò il badge al varco con il fiato ancora corto. Non gli era mai successo, almeno non in dodici anni di servizio. Il sistema di accesso registrò l'orario senza alcun commento: sotto i cinque minuti non scattava nessuna comunicazione diretta del ritardo al proprio supervisore. Sotto quella soglia, un ritardo restava un fatto privato anche in Meridian. Ma per Tom, che si era sempre vantato con se stesso di una puntualità totale, quei due minuti pesavano più di quanto qualunque supervisore avrebbe mai potuto farli pesare.

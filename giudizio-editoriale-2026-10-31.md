@@ -122,7 +122,7 @@ Criterio: il lettore ha la pagina intera, torna indietro, vede la punteggiatura,
 
 ## 4. Lacune tecniche (da vedere in una volta sola prima di pubblicare)
 
-Elenco secco, senza priorità, da riprendere in blocco a fine lavoro.
+Elenco secco, senza priorità, da riprendere in blocco a fine lavoro. **Stato al 2026-10-31 sera**: fatte le prime sette voci (copioni rigenerati da `export_podcast.py scripts`, annunci senza titolo, cap. 1-5 congelati, pronunce, comando `check`, emoji tolta); restano l'audio da rigenerare, la decisione sull'episodio 8, la copertina verticale e il processo del manoscritto, che appartengono alla fase di stampa.
 
 - Episodio 13: copione e MP3 fermi alla versione precedente del cap. 13 (mancano le ~350 parole finali); l'annuncio di chiusura cita "Le due volte di Tom", capitolo tagliato.
 - Episodio 11: l'annuncio di chiusura dice "La notizia" (vecchio titolo del cap. 12).

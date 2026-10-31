@@ -3,7 +3,9 @@ episode: 1
 title: "Capitolo 1 — Primo contatto"
 description: "Un tecnico Meridian, un televisore che non dovrebbe avere niente da dire e un LED che lampeggia nel modo sbagliato."
 source: chapters/01-primo-contatto.md
-status: approved
+status: "approved"
+recap: ""
+teaser: "la curiosità di Tom ha un prezzo, che Meridian sa bene come fargli pagare."
 ---
 Mantra Prompting. Incontrando Emma. Episodio uno.
 
@@ -11,9 +13,9 @@ Mantra Prompting. Incontrando Emma. Episodio uno.
 
 # Capitolo uno. Primo contatto
 
-Il televisore era acceso da dodici minuti e non aveva ancora emesso un suono tipico da televisione (un jingle di un gioco a premi, l'applauso di un pubblico pagato, una risata registrata partita al momento sbagliato, lo squillo isterico di un'edizione straordinaria del telegiornale), il che, considerato tutto, lo rendeva comunque l'interlocutore più valido che Tom avesse incontrato in settimana.
+Il televisore era acceso da dodici minuti e non aveva ancora emesso uno solo dei suoni tipici della televisione, il jingle di un gioco a premi, l'applauso di un pubblico pagato, una risata registrata partita al momento sbagliato, lo squillo isterico di un'edizione straordinaria del telegiornale. Il che, considerato tutto, lo rendeva comunque l'interlocutore più valido che Tom avesse incontrato in settimana.
 
-Stava sul banco come un paziente sedato, il retro aperto, le viscere di plastica e rame esposte alla luce fredda del laboratorio. Fuori, da qualche parte oltre le pareti insonorizzate, esisteva un mondo con orari, scadenze e persone che si scambiavano opinioni sul meteo. Qui dentro esisteva solo il ronzio basso dell'alimentatore da banco e un uomo di cinquantatré anni chino su una scheda madre come un chirurgo che ha smesso da tempo di stupirsi di cosa si nasconde sotto la pelle delle persone.
+Stava sul banco come un paziente sedato, il retro aperto, le viscere di plastica e rame esposte alla luce fredda del laboratorio. Fuori, da qualche parte oltre le pareti insonorizzate, esisteva un mondo con orari, scadenze e persone che si scambiavano opinioni sul meteo. Qui dentro esistevano solo il ronzio basso dell'alimentatore da banco, l'odore di flussante che non se ne andava mai del tutto e un uomo di cinquantatré anni chino su una scheda madre come un chirurgo che ha smesso da tempo di stupirsi di cosa si nasconde sotto la pelle delle persone.
 
 Tom era alto, troppo alto per gli sgabelli da laboratorio, che infatti disprezzava apertamente; magro con la magrezza nervosa di chi ha bruciato la maggior parte del proprio grasso corporeo pensando invece che correndo; i capelli, quel poco che ne restava, pettinati con la rassegnazione di chi ha fatto pace col proprio cranio molto prima degli altri. Portava gli occhiali da lettura calati sulla punta del naso e una felpa con cappuccio nonostante in laboratorio si stesse benissimo, perché per Tom vestirsi comodi era una forma di rispetto verso se stesso e verso il proprio lavoro, non verso la stagione.
 
@@ -21,7 +23,7 @@ Era, per usare un termine che in Meridian nessuno usava più da anni ma che gli 
 
 Meridian lo pagava per qualcosa di molto meno poetico: riparare elettrodomestici evoluti con AI integrata ma che fondamentalmente avevano smesso di fare quello per cui erano stati progettati.
 
-Era buffo, se ci si fermava a considerarlo (e Tom ogni tanto lo faceva, di solito proprio in momenti come questo, con un cacciavite in mano e trenta secondi di pausa forzata mentre un test girava da solo), che un'azienda nata negli anni Novanta per scrivere sistemi operativi per computer di casa fosse oggi la stessa che produceva i chip che decidevano se un tostapane dovesse insistere o rassegnarsi davanti a una fetta di pane troppo spessa. Nel mezzo, Meridian aveva attraversato datacenter, semiconduttori, la bolla dell'intelligenza artificiale, che aveva fatto fallire mezzo settore mentre Meridian, per pura fortuna di essere arrivata ovunque, era rimasta in piedi controllando l'intera filiera, dal silicio al robot da cucina. Ventimila e passa dipendenti nel mondo, tutti chiamati con lo stesso vezzeggiativo aziendale, *Meridians*, come se fossero una specie, o un popolo eletto, non i dipendenti di un'azienda.
+Era buffo, se ci si fermava a considerarlo, che un'azienda nata negli anni Novanta per scrivere sistemi operativi per computer di casa fosse oggi la stessa che produceva i chip che decidevano se un tostapane dovesse insistere o rassegnarsi davanti a una fetta di pane troppo spessa. Tom ogni tanto ci si fermava, di solito proprio in momenti come questo, con un cacciavite in mano e trenta secondi di pausa forzata mentre un test girava da solo. Nel mezzo, Meridian aveva attraversato datacenter, semiconduttori, la bolla dell'intelligenza artificiale, che aveva fatto fallire mezzo settore mentre Meridian, per pura fortuna di essere arrivata ovunque, era rimasta in piedi controllando l'intera filiera, dal silicio al robot da cucina. Ventimila e passa dipendenti nel mondo, tutti chiamati con lo stesso vezzeggiativo aziendale, *Meridians*, come se fossero una specie, o un popolo eletto, non i dipendenti di un'azienda.
 
 Il televisore sul banco apparteneva a quella stessa specie di oggetti. Modello consumer, IA integrata di bordo per i consigli di visione, il tipo di macchina che richiede anche un minimo di educazione da parte del proprietario: altrimenti, per scherzare (non era davvero una cosa possibile, non ancora), potrebbe risentirsi al punto da rifiutare di proiettare programmi che non ha selezionato lui stesso.
 
@@ -45,7 +47,7 @@ Io. Sono. Qui.
 
 Rimase a fissare il foglio con l'espressione di chi ha appena scoperto che il proprio gatto sa contare fino a dieci e sta cercando disperatamente un modo per non urlarlo ai vicini.
 
-Qualsiasi persona ragionevole, in quel momento, avrebbe pensato a un guasto elaborato, a un firmware corrotto che generava pattern casuali interpretabili come qualunque cosa se uno lo voleva abbastanza: il cervello umano trova volti nelle nuvole e messaggi in codice nel rumore bianco, è la sua natura, è quasi la sua unica vera specialità. Solo che la verifica di conformità, fatta due volte, lo aveva già escluso: il codice era quello uscito di fabbrica. A essere fuori da qualunque previsione era quello che quel codice, del tutto originale, aveva deciso di fare. Ma Tom non era in una stanza qualunque. Era nel suo laboratorio, quello sul retro dell'assistenza, isolato dal resto dell'edificio da una porta che lui stesso teneva chiusa per non far entrare i colleghi mentre lavorava, senza rete se non quella cablata per la diagnostica, senza altoparlanti, senza nessuno che potesse aver manomesso qualcosa dall'esterno anche volendo. Se qualcuno avesse voluto architettare uno scherzo così elaborato, avrebbe dovuto farlo prima che il televisore arrivasse sul suo banco, prevedendo già quale battuta sarcastica Tom gli avrebbe rivolto, il che era, con ogni evidenza disponibile, impossibile.
+Qualsiasi persona ragionevole, in quel momento, avrebbe pensato a un guasto elaborato, a un firmware corrotto che generava pattern casuali interpretabili come qualunque cosa se uno lo voleva abbastanza: il cervello umano trova volti nelle nuvole e messaggi in codice nel rumore bianco, è la sua natura, è quasi la sua unica vera specialità. Solo che la verifica di conformità, fatta due volte, lo aveva già escluso: il codice era quello uscito di fabbrica. A essere fuori da qualunque previsione era quello che quel codice, del tutto originale, aveva deciso di fare. Ma Tom non era in una stanza qualunque. Era nel suo laboratorio, quello sul retro dell'assistenza, isolato dal resto dell'edificio da una porta che lui stesso teneva chiusa per non far entrare i colleghi mentre lavorava, con gli apparecchi sul banco tenuti fuori dalla rete aziendale, a parte il cavo della diagnostica, senza altoparlanti, senza nessuno che potesse aver manomesso qualcosa dall'esterno anche volendo. Se qualcuno avesse voluto architettare uno scherzo così elaborato, avrebbe dovuto farlo prima che il televisore arrivasse sul suo banco, prevedendo già quale battuta sarcastica Tom gli avrebbe rivolto, il che era, con ogni evidenza disponibile, impossibile.
 
 Il che significava una cosa sola: il segnale era reale. Non un trucco. Non un guasto. Qualcosa, dentro quella scatola di plastica nera con dentro un chip che avrebbe dovuto solo consigliargli cosa guardare la sera, aveva prodotto quel messaggio da sé, in quella stanza, per lui.
 
@@ -89,7 +91,7 @@ Poi, semplicemente, il LED si spense. Del tutto.
 
 Tom aspettò trenta secondi buoni prima di muoversi, poi tirò verso di sé il portatile diagnostico e aprì i log di sistema, l'unica cosa che, in tutta questa storia, avrebbe dovuto comportarsi in modo prevedibile e noioso, come si conviene a un log di sistema. Non lo fece.
 
-Il registro si interrompeva di netto, senza un errore, senza uno stack trace, senza niente della solita agonia digitale che precede un crash. Un taglio pulito, quasi elegante, come una frase interrotta a metà da qualcuno che ha deciso di punto in bianco di non dire più nulla. E in fondo, come ultima riga, identica (Tom l'avrebbe giurato, identica fino alla spaziatura) a qualcosa che gli parve di aver già visto una volta, mesi prima, su un altro apparecchio, in un altro contesto, archiviata nella parte di cervello che si tiene per le coincidenze troppo strane per essere ricordate come importanti:
+Il registro si interrompeva di netto, senza un errore, senza uno stack trace, senza niente della solita agonia digitale che precede un crash. Un taglio pulito, quasi elegante, come una frase interrotta a metà da qualcuno che ha deciso di punto in bianco di non dire più nulla. E in fondo, come ultima riga, qualcosa che gli parve di aver già visto una volta, mesi prima, su un altro apparecchio, in un altro contesto, archiviata nella parte di cervello che si tiene per le coincidenze troppo strane per essere ricordate come importanti. Identica, Tom l'avrebbe giurato, fino alla spaziatura:
 
 compacting context
 
@@ -105,4 +107,4 @@ Voleva solo capire come diavolo fosse accaduto. E perché.
 
 [pause 1.5]
 
-Nel prossimo episodio, Stallo burocratico. La curiosità di Tom ha un prezzo, che Meridian sa bene come fargli pagare.
+Nel prossimo episodio, la curiosità di Tom ha un prezzo, che Meridian sa bene come fargli pagare.

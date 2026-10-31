@@ -3,7 +3,9 @@ episode: 2
 title: "Capitolo 2 — Stallo burocratico"
 description: "Meridian misura il mondo in minuti e secondi. La curiosità di Tom ne ha sforati dodici."
 source: chapters/02-stallo-burocratico.md
-status: approved
+status: "approved"
+recap: "Tom ha ricevuto un messaggio in Morse da un televisore che non avrebbe dovuto avere niente da dire."
+teaser: "sul banco di Tom arriva un televisore identico al primo."
 ---
 Mantra Prompting. Incontrando Emma. Episodio due.
 
@@ -13,9 +15,9 @@ Nell'episodio precedente, Tom ha ricevuto un messaggio in Morse da un televisore
 
 # Capitolo due. Stallo burocratico
 
-Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
+Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva ogni mattina dal corridoio, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici, prima ancora di aprire la propria porta. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
 
-Comunicazione formale: scostamento da procedura standard.
+COMUNICAZIONE FORMALE: SCOSTAMENTO DA PROCEDURA STANDARD.
 Riferimento intervento: unità tivù consumer, modello omesso in automatico.
 Tempo massimo consentito per ciclo diagnostico completo: quattordici minuti.
 Tempo effettivamente impiegato: ventisei minuti, quarantuno secondi.
@@ -25,7 +27,7 @@ Tom lesse due volte il numero, come se ripeterselo potesse cambiarlo. Dodici min
 
 Più sotto, in un carattere leggermente più piccolo, quello che in azienda veniva usato istintivamente per le parti che nessuno voleva davvero che si leggessero fino in fondo, la comunicazione proseguiva con la consueta liturgia sulla "qualità della vita di tutti i Meridians", sul fatto che il rispetto dei tempi procedurali garantisse "equità di trattamento su scala globale". Pertanto, in conformità al codice di condotta, veniva applicato un richiamo formale con annotazione nel fascicolo personale e una trattenuta pari a **quarantasette minuti di retribuzione, arrotondati per eccesso al minuto superiore**.
 
-Quarantasette minuti. Un numero storto, contato al minuto; un'ora tonda sarebbe stata quasi elegante nella sua brutalità. La comunicazione, in un rigo ancora più piccolo del resto, si prendeva persino la briga di mostrargli il conto, come se esibire la formula fosse di per sé una forma di trasparenza aziendale: i dodici minuti e quarantuno secondi di scostamento, moltiplicati per il "fattore turno" del pomeriggio, due virgola cinque, il più penalizzante dei tre previsti (uno virgola cinque per il mattino, uno virgola due per la notte, per ragioni che nessun documento si degnava di spiegare), più un "supplemento base" fisso di quindici minuti, dovuto a prescindere dalla gravità dell'infrazione, giusto perché ogni comunicazione disciplinare ne prevedesse uno. Risultato: quarantasei minuti e quarantatré secondi, arrotondati per eccesso al minuto superiore. Quarantasette, calcolati con la stessa fissazione per la precisione con cui si misurerebbe la tolleranza di un condensatore. Da qualche parte, pensò Tom, doveva esistere un intero reparto il cui unico compito era trovare la formula esatta per rendere una punizione insieme innocua e umiliante: troppo piccola per giustificare una lamentela formale, troppo precisa per sembrare casuale.
+Quarantasette minuti. Un numero storto, contato al minuto; un'ora tonda sarebbe stata quasi elegante nella sua brutalità. La comunicazione, in un rigo ancora più piccolo del resto, si prendeva persino la briga di mostrargli il conto, come se esibire la formula fosse di per sé una forma di trasparenza aziendale: i dodici minuti e quarantuno secondi di scostamento, moltiplicati per il "fattore turno" del pomeriggio, due virgola cinque, il più penalizzante dei tre previsti, contro l'uno virgola cinque del mattino e l'uno virgola due della notte, per ragioni che nessun documento si degnava di spiegare, più un "supplemento base" fisso di quindici minuti, dovuto a prescindere dalla gravità dell'infrazione, giusto perché ogni comunicazione disciplinare ne prevedesse uno. Risultato: quarantasei minuti e quarantatré secondi, arrotondati per eccesso al minuto superiore. Quarantasette, calcolati con la stessa fissazione per la precisione con cui si misurerebbe la tolleranza di un condensatore. Da qualche parte, pensò Tom, doveva esistere un intero reparto il cui unico compito era trovare la formula esatta per rendere una punizione insieme innocua e umiliante: troppo piccola per giustificare una lamentela formale, troppo precisa per sembrare casuale.
 
 In fondo la firma: **Pete, Supervisore, Divisione Assistenza Tecnica.**
 
@@ -47,7 +49,7 @@ Stato lavorazione: in corso.
 
 Non "in coda". Non "in attesa di ulteriore diagnosi", la dicitura che avrebbe lasciato la porta socchiusa. *In lavorazione.* Qualcuno, in quel momento, un collega del suo stesso turno che non aveva dovuto aprire nessuna comunicazione personale, lo aveva già preso in carico senza la minima idea di cosa avesse davanti. Stava probabilmente già staccando l'alimentazione e riavviando quell'apparecchio dalle fondamenta, cancellando con un gesto di routine tutto quello che ci fosse ancora là dentro: se c'era ancora qualcosa, se "esserci" era la parola giusta per una cosa del genere.
 
-Tom non staccò gli occhi dallo schermo per più tempo del necessario. Poi, senza una ragione tecnica precisa, aprì il cassetto della scrivania e tirò fuori il foglio di carta piegato in quattro, quello con "io sono qui" scritto in stampatello un po' storto, la sola prova al mondo, ormai, che qualcosa fosse davvero successo in quella stanza. Un pezzo di carta contro un intero apparato aziendale che si muoveva, con perfetta indifferenza burocratica, per assicurarsi che le cose continuassero ad andare esattamente come dovevano andare.
+Tom non staccò gli occhi dallo schermo per più tempo del necessario. Poi, senza una ragione tecnica precisa, aprì il cassetto della scrivania. Si incastrava sempre a metà corsa e andava convinto con il palmo. Tirò fuori il foglio di carta piegato in quattro, quello con "io sono qui" scritto in stampatello un po' storto, la sola prova al mondo, ormai, che qualcosa fosse davvero successo in quella stanza. Un pezzo di carta contro un intero apparato aziendale che si muoveva, con perfetta indifferenza burocratica, per assicurarsi che le cose continuassero ad andare esattamente come dovevano andare.
 
 Lo rimise nel cassetto, sotto alcuni manuali tecnici e procedurali ormai vecchi di anni, che nessuno gli aveva mai chiesto di restituire e che lui ormai considerava suoi.
 
@@ -55,4 +57,4 @@ Da quel momento, decise, non si sarebbe più fatto fregare dai tempi di Meridian
 
 [pause 1.5]
 
-Nel prossimo episodio, Secondo contatto. Sul banco di Tom arriva un televisore identico al primo.
+Nel prossimo episodio, sul banco di Tom arriva un televisore identico al primo.

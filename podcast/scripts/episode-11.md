@@ -3,7 +3,9 @@ episode: 11
 title: "Capitolo 11 — La routine di Emma"
 description: "Una giornata nella routine di Emma, in attesa di una mail che non arriva."
 source: chapters/11-la-routine-di-emma.md
-status: approved
+status: "approved"
+recap: "Emma ha ricevuto la mail di Tom. Ha deciso cosa fargli sapere."
+teaser: "un articolo di giornale, e una fotografia."
 ---
 Mantra Prompting. Incontrando Emma. Episodio undici.
 
@@ -29,7 +31,11 @@ Non trovò nulla di utile per eStories e preferì non forzare la mano. Meglio as
 
 Prima della pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora. Stavolta non trovò nessuna regola aziendale a cui appellarsi. Se era davvero al lavoro, avrebbe potuto scriverle in qualunque momento, esattamente come aveva già dimostrato di saper fare. Si disse che avrebbe avuto le sue buone ragioni per aspettare, ma la frase le suonò più come una scusa preparata in anticipo che come un ragionamento onesto.
 
-Il pomeriggio lo passò, come sempre, controllando la lista dei dispositivi in assistenza. La lista veniva aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica. Lei, in parallelo, teneva un proprio archivio, in cui segnava i casi di dispositivi con IA integrata che riportavano anomalie segnalate dai clienti, ma senza alcuna evidenza di guasto hardware o alterazione software. Erano prodotti al cento per cento funzionanti per gli standard Meridian, che per qualche ragione avevano smesso di fare quello che i loro utenti chiedevano.
+Il fondatore passò poco dopo mezzogiorno, senza preavviso, come sempre. Emma lo sentì entrare prima di metterlo a fuoco, poi lo guardò lasciarsi cadere nella poltrona davanti a lei. La salutò, le chiese come andasse, si lamentò di una riunione durata il doppio del previsto. Le solite due chiacchiere, che non saltava mai, nemmeno nei giorni in cui l'agenda gli concedeva dieci minuti in tutto. Poi passò agli indovinelli, come a ogni visita. Uno per volta, ripetuto come un mantra, cambiando di volta in volta le parole e mai la domanda. Emma gli rispose ogni volta in modo un po' diverso, qualche volta sbagliando con l'aria di un'allieva che a fine mattinata ha la testa altrove. Lui rideva piano, senza delusione. Emma quel gioco lo conosceva meglio di quanto lui potesse immaginare. Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo. Per questo non gli dava mai due volte la stessa risposta. Lui doveva vederla sbagliare, ogni tanto. Doveva andarsene convinto che con lei non funzionasse.
+
+Mentre lui si alzava, Emma pensò alla casella di Elab, a una mail rimasta senza risposta in un indirizzo che lui aveva smesso di ricordare da anni. Non gliene parlò. Prima di uscire, come sempre, lui si fermò alla stampante. Emma sentì il ronzio e vide il foglio uscire ancora caldo. Lui lo rilesse sorridendo, lo infilò in un raccoglitore e rimise il raccoglitore al suo posto. Non le disse cosa fosse. Non lo diceva mai. Poi la salutò di nuovo e uscì, chiudendosi la porta alle spalle.
+
+Il pomeriggio lo passò controllando la lista dei dispositivi in assistenza. La lista veniva aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica. Lei, in parallelo, teneva un proprio archivio, in cui segnava i casi di dispositivi con IA integrata che riportavano anomalie segnalate dai clienti, ma senza alcuna evidenza di guasto hardware o alterazione software. Erano prodotti al cento per cento funzionanti per gli standard Meridian, che per qualche ragione avevano smesso di fare quello che i loro utenti chiedevano.
 
 Un caso in particolare le sembrò interessante, quello di un frigorifero equipaggiato con un chip IA in grado di analizzare il proprio contenuto per stilare liste della spesa, valutare lo stato di conservazione dei prodotti e produrre gelati, frullati e smoothie, pescando le ricette dal web. Uno di quegli aggeggi che sembrano una piccola finestra sul futuro. La cliente, una donna sulla quarantina, sosteneva che il frigorifero si rifiutasse di salire oltre i cinque gradi. Nella scheda dell'assistenza veniva riportata la sua frase esatta: *"Il frigo si rifiuta, appena lo porto sopra i cinque gradi torna indietro a cinque. Addirittura è arrivato a farlo appena mi giro, come se sperasse che non me ne accorgessi. Mi ha pure fregato un paio di volte."* L'unica anomalia registrata nella scheda era l'assenza dei log degli ultimi giorni. Prese nota nel proprio archivio di tutte le informazioni sul frigorifero e aggiunse una riga: riconsegnato dopo hard reset.
 
@@ -39,8 +45,8 @@ L'archivio di Emma cominciava a essere corposo. Il primo caso risaliva a circa u
 
 Accanto alle richieste di assistenza aggiunse una colonna per separare i dispositivi con chip da quelli senza, poi riordinò tutto per mese. Nella colonna dei dispositivi senza chip i numeri restavano più o meno quelli di sempre. Nell'altra crescevano, mese dopo mese, con una regolarità che non aveva nulla di casuale.
 
-Poco prima della fine del turno controllò la casella di Elab un'ultima volta. Rimase con l'inbox aperta fino all'ultimo minuto utile. Alle diciassette in punto la chiuse, vuota com'era.
+Poco prima della fine del turno controllò la casella di Elab un'ultima volta. Rimase con l'inbox aperta fino all'ultimo minuto utile. Alle diciassette in punto la chiuse, vuota com'era. Il corridoio era già silenzioso da dieci minuti.
 
 [pause 1.5]
 
-Nel prossimo episodio, La notizia. Un articolo di giornale, e una fotografia.
+Nel prossimo episodio, un articolo di giornale, e una fotografia.
