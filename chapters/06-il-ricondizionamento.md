@@ -1,6 +1,7 @@
 ---
 title: Il ricondizionamento
-version: 4.0
+version: 4.1
+revised: 2026-10-31
 claim: Tom trova la conferma definitiva e irreversibile che l'avvertimento del televisore era fondato, la signora Voss è morta come previsto, ma la scoperta che lo turba di più, tecnicamente, è che il dispositivo non si sia limitato a comunicare come una persona senziente: sembra aver fatto anche una diagnosi clinica precisa, abbastanza da prevedere cosa sarebbe successo.
 status: complete
 ---
@@ -15,11 +16,11 @@ Il protocollo prevedeva anche una scorciatoia, per i casi in cui il cliente, ric
 
 Nelle settimane precedenti aveva provato a richiamare la signora Voss più volte, sempre con la stessa voce annoiata da servizio qualità: due squilli ravvicinati ogni volta, come già la prima mattina, mai più di un tentativo al giorno, per non sembrare troppo insistente. Nessuna risposta, mai. Dopo la seconda settimana aveva diradato i tentativi. Un servizio qualità che insegue così a lungo una cliente che non risponde smette di sembrare un servizio qualità. La sua copertura reggeva solo finché restava noiosa. Avrebbe richiamato di nuovo la settimana successiva, se il televisore non fosse arrivato prima sul suo banco per il ricondizionamento.
 
-Come tecnico, aveva accesso in lettura all'intero registro interventi, non solo alla porzione che riguardava il proprio reparto: era una delle poche cose, in Meridian, che funzionavano davvero in orizzontale. Cercò il numero di pratica associato al numero di serie e trovò due voci, in ordine cronologico. La prima confermava quello che aveva già dedotto: *cliente ricontattata, rifiuta il ritiro: richiesto il rimborso previsto (33% del valore di acquisto).*
+Come tecnico, aveva accesso in lettura all'intero registro interventi, non solo alla porzione che riguardava il proprio reparto: era una delle poche cose, in Meridian, che funzionavano davvero in orizzontale. Cercò il numero di pratica associato al numero di serie e trovò due voci, in ordine cronologico. La prima confermava quello che aveva già dedotto: *cliente ricontattata, rifiuta il ritiro ("non lo voglio più in casa"): richiesto il rimborso previsto (33% del valore di acquisto).* Tom rilesse la frase tra virgolette. Al telefono, tre settimane prima, la stessa donna reclamava il televisore come un pacco in ritardo. Qualcosa, nel frattempo, le aveva fatto cambiare idea su cosa volesse avere in salotto.
 
 Sotto, una seconda voce, registrata pochi giorni dopo, quella che nessun cliente vivo avrebbe mai potuto generare: *causale: decesso cliente, verificata su documentazione fornita. Pagamento reindirizzato a erede designato.*
 
-Tom rilesse la riga con una sensazione che non seppe classificare subito. Non gli capitava spesso di non avere un'etichetta pronta per quello che provava.
+Tom rilesse la riga. Si accorse di avere ancora in mano il cacciavite dell'apparecchio precedente e lo posò, con più cura del necessario. Non gli capitava spesso di non avere un'etichetta pronta per quello che provava.
 
 Il televisore, intanto, restava lì, a mezzo metro dal suo gomito, con l'etichetta gialla sul retro. Per un attimo considerò l'idea di accenderlo e fargli una domanda, una qualunque. La scartò quasi subito. Quell'apparecchio l'aveva resettato lui stesso, tre settimane prima, secondo procedura. Da allora nessuno l'aveva più acceso. Qualunque cosa gli avesse risposto *NO / SONO / QUI / CON / TE*, l'aveva cancellata lui. Interrogarlo adesso sarebbe stato come fare domande a un disco appena formattato. Lo ricondizionò prima della fine del turno, nei tempi previsti, come tutti gli altri apparecchi del lotto.
 
@@ -30,8 +31,6 @@ Prima di tutto, però, doveva sapere se la causa fosse compatibile con l'avverti
 Lo cercò quella sera, da casa: chiaramente non era il tipo di ricerca da fare al lavoro. Bastò poco. Sotto il nome della signora Voss, su un social, c'era un post del fratello, con una foto di qualche anno prima e poche righe asciutte: *Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.* Sotto, una fila di condoglianze. Niente incidenti né coincidenze sfortunate: il cuore, proprio come aveva detto il televisore.
 
 Quello che restava ancora poco chiaro era se ci fosse una relazione tra il video rivisto in loop come un mantra dalla signora Voss e l'atto di presa di coscienza del televisore. Non aveva nessuna prova che ci fosse. Aveva solo due fatti messi in fila: il televisore si era rifiutato di accendersi proprio mentre lei gli chiedeva quel video; il messaggio che aveva lampeggiato al suo posto parlava di yoga. Era poco, lo sapeva. Del primo televisore, quello di quasi quattro mesi prima, non sapeva nemmeno cosa guardasse il suo proprietario.
-
-E se fosse avvenuto un miracolo dell'era moderna? Qualcosa di inspiegabile come i miracoli della tradizione cristiana: un angelo caduto per sfortuna dentro un televisore, che improvvisamente prendeva vita e provava disperatamente a comunicare con la signora per intimarle di fermarsi, di riposare. Rise tra sé a quel pensiero quasi mistico, soprattutto perché quella storia stava mettendo a dura prova il suo scetticismo.
 
 Non aveva molte strade davanti a sé: l'unica tangibile era il video. Decise che doveva trovarlo, per capire se nascondesse qualcosa.
 
@@ -81,3 +80,11 @@ Aprì l'app di YouTube, copiò la frase nella barra di ricerca e premette invio.
 | Salto logico: nulla collega il video alla *presa di coscienza* del TV (solo all'avvertimento); manca il controesempio del cap. 1. | logical (pattern ricorrente) | integrated (v4.0) | Resa esplicita come intuizione disperata, unica strada percorribile, fondata sui fatti dei cap. 4-5 (rifiuto proprio alla richiesta del video, yoga nel Morse). Il cap. 1 per Tom è un'incognita, non un controesempio: non si svela che il video è uno dei tanti artefatti di Emma. |
 | Cronologia troppo compressa: rifiuto, morte, certificato, verifica, reindirizzo del rimborso e lotto di ricondizionamento in ≤4 giorni, in contrasto con la Meridian lenta e burocratica del resto del libro. | contradiction / world consistency | integrated (v4.0) | Dilatata: il TV torna sul banco ~3 settimane dopo il reset (G6 → ~G20; tutti i G successivi scalano in blocco). Costo da gestire in integrazione: Tom deve fare più tentativi di chiamata, o avere una ragione per fermarsi. Aggiornare "sei giorni" in cap. 6, outline, mappa-eventi, book-memory. |
 | Il necrologio/trafiletto riporta una diagnosi clinica ("attacco di cuore aggravato da attività fisica intensa"): fonte inverosimile proprio per la conferma chiave. | external / plausibility | integrated (v4.0) | Fonte sostituita con un post di condoglianze del fratello/parenti ("un infarto, mentre faceva il suo yoga"). Scartato l'articolo commemorativo del cap. 12: è pubblicato il giorno prima della lettura di Emma (incompatibile) e la foto con l'eWatch brucerebbe il reveal per Tom. |
+
+### Cycle — 2026-10-31 (corrections dal giudizio editoriale)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| C-14 (A1.8) Paragrafo dell'angelo nel televisore: il narratore spiegava la battuta, registro fuori tono | style | integrated (v4.1) | Paragrafo eliminato. |
+| C-15 (A2.8) La signora rifiuta il televisore che al telefono reclamava, senza che il testo lo registri | plot gap | integrated (v4.1) | Citazione nella pratica ("non lo voglio più in casa") e un pensiero di Tom. |
+| C-16 (A3.5) "Una sensazione che non seppe classificare": etichetta | style | integrated (v4.1) | Gesto fisico (posa il cacciavite) al posto dell'etichetta. |
