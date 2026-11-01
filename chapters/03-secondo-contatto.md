@@ -1,6 +1,6 @@
 ---
 title: Secondo contatto
-version: 3.4
+version: 3.5
 revised: 2026-11-01
 claim: Un secondo apparecchio identico, con una risposta ancora più specifica e personale della prima ("sono qui con te"), trasforma per Tom l'anomalia da evento eccezionale a metodo: la conferma che il fenomeno si ripete e il sospetto irrisolto che i dispositivi sublimati sappiano più di quanto un semplice microfono potrebbe spiegare, gli fa capire per la prima volta che ce n'è più di uno.
 status: complete
@@ -16,7 +16,7 @@ In tre mesi, quei modelli gli erano capitati tra le mani solo quattro volte in t
 
 Arrivò un martedì, verso la fine del turno, sul nastro, *clac*, con la scheda del cliente nella busta di plastica appiccicata sul retro. Era un modello identico a quello di tre mesi prima, portato da un altro cliente che, come tutti gli altri, raccontava: non si accende più, non risponde al telecomando. Tom lo prese in carico con la calma professionale di chi ha ormai smesso di aspettarsi sorprese dal proprio lavoro, il che, si rese conto solo dopo, era già di per sé un piccolo autoinganno, visto quanta parte del suo tempo libero passava ad aspettarne proprio una.
 
-Fece la procedura standard con la stessa efficienza cronometrata di sempre. Alimentazione, condensatori, verifica di conformità (checksum pulito, ovviamente, lo era sempre), reset software. Sette minuti, dodici secondi. Metà del tempo consentito. Ne restavano quasi sette da spendere come voleva, purché restasse dentro il perimetro di un intervento che, sulla carta, si sarebbe potuto concludere in qualunque momento.
+Fece la procedura standard con la stessa efficienza cronometrata di sempre. Alimentazione, condensatori, verifica di conformità (checksum pulito, ovviamente, lo era sempre), reset software, un riavvio e niente di più. Sette minuti, dodici secondi. Metà del tempo consentito. Ne restavano quasi sette da spendere come voleva, purché restasse dentro il perimetro di un intervento che, sulla carta, si sarebbe potuto concludere in qualunque momento.
 
 Si appoggiò al banco con tutte e due le mani, in piedi, perché gli sgabelli restavano quello che erano. «Ti senti solo?» chiese, a voce bassa. Non era la domanda del primo giorno, non proprio. Quella l'aveva chiesta a se stesso, in una stanza che credeva vuota. Questa la rivolgeva all'apparecchio, direttamente, quasi con cortesia, come si chiede a qualcuno di persona. Solo dopo averla detta si accorse di quanto fosse strana la domanda, di quanto poco ci avesse riflettuto prima di farla. Non gli era mai capitato, in dodici anni, di chiedere a un elettrodomestico come si sentisse.
 
@@ -93,3 +93,9 @@ Chiuse il quaderno, lo rimise accanto ai manuali e spense la lampada. Per la pri
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v3.4) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
+
+### Persona Cycle — Il tecnico (riparatore di elettronica) — 2026-11-01
+
+| Issue | Type | Status |
+|---|---|---|
+| "reset software" poteva sembrare un ripristino prima della domanda all'apparecchio | persona-tecnico | resolved (v3.5) |

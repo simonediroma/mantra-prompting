@@ -27,6 +27,8 @@
 
 ## Recurring Patterns
 
+- **Dettagli tecnici da riparatore** (persona-tecnico, 2026-11-01): strumenti reali citati per quello che non fanno (detector di testo usati su un video), guasti spiegati con il componente sbagliato (relè incollato per un'accensione a orario), risposte da negozio non da tecnico. Regola per i cap. 15-20: ogni guasto citato va verificato come lo verificherebbe chi lo ripara, e almeno una riparazione a Tom deve andare male.
+
 *Nessun pattern ricorrente ancora — questa è la prima demolizione del libro. Da aggiornare quando lo stesso tipo di vulnerabilità riappare in un altro capitolo.*
 
 **Confermati come ricorrenti (revisione cross-capitolo 2026-10-10, cap. 1-12):**
@@ -68,6 +70,12 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 ---
 
 ## Full Log
+
+### Persona cycles — 2026-11-01 (lettore di X-Files, tecnico riparatore) — cap. 1-14
+
+Lettore di X-Files: sei osservazioni di struttura (colpevole svelato a metà libro dal POV di Emma, nessuno in pericolo fino al cap. 13, istituzione distratta e non complice, fiducia rapida di Tom nel cap. 14, la signora Voss mai vista in scena, due siparietti fuori mondo). Decisione dell'autore: troverà le spiegazioni più avanti; nessuna modifica ai cap. 1-14, indicazioni portate nel piano dei cap. 15-20 (una minaccia con un corpo prima del 17, una domanda propria per Tom).
+
+Tecnico riparatore: sei osservazioni, cinque integrate nei cap. 3, 4, 5, 9, 14 (vedi i Demolition Log); il ricondizionamento sullo stesso banco (cap. 6) accettato; il cap. 1 lasciato com'è per scelta dell'autore (episodio già pubblicato); il blink code come primo pensiero di Tom resta per il cap. 1 e quindi non applicato.
 
 ### Ch. 14 (vecchio) — Le scuse — tagliato prima della stesura
 

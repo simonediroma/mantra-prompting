@@ -1,22 +1,22 @@
 ---
 title: internal_unknown
-version: 4.4
+version: 4.5
 claim: I tool pubblici di rilevamento IA falliscono sul video intero ma non sul solo testo del parlato, e passando quel transcript nell'archivio interno di Meridian Tom trova una corrispondenza che lo porta a una scoperta molto più grossa di quanto si aspettasse: un laboratorio di ricerca Meridian, silenzioso da cinque anni, è direttamente coinvolto nella morte della signora Voss.
 status: complete
 revised: 2026-11-01
 ---
 
-Il mattino dopo si alzò un'ora prima del solito. Fuori era ancora buio e la casa aveva il freddo delle stanze in cui il riscaldamento non ha ancora capito che qualcuno è sveglio. I quindici minuti di anticipo restavano dov'erano, intoccabili come ogni mattina. Quello che aveva in mente richiedeva tempo e l'unico posto da cui sapesse ancora prenderne era il sonno. In cucina, con il computer sul tavolo e il caffè che si raffreddava accanto senza che lo toccasse, caricò l'intero video su tre dei servizi di rilevamento IA più noti in circolazione (Undetectable AI, ZeroGPT e Hive Moderation). Sperava che almeno uno dei tre gli dicesse con quale modello fosse stato generato, oltre a confermargli quello che ormai considerava un fatto acquisito.
+Il mattino dopo si alzò un'ora prima del solito. Fuori era ancora buio e la casa aveva il freddo delle stanze in cui il riscaldamento non ha ancora capito che qualcuno è sveglio. I quindici minuti di anticipo restavano dov'erano, intoccabili come ogni mattina. Quello che aveva in mente richiedeva tempo e l'unico posto da cui sapesse ancora prenderne era il sonno. In cucina, con il computer sul tavolo e il caffè che si raffreddava accanto senza che lo toccasse, caricò l'intero video su Hive Moderation, l'unico tra i servizi di rilevamento IA più noti che accettasse un video intero. Sperava che gli dicesse con quale modello fosse stato generato, oltre a confermargli quello che ormai considerava un fatto acquisito.
 
-Non lo confermarono. Tutti e tre, con percentuali leggermente diverse ma identici nella sostanza, restituirono lo stesso verdetto: contenuto reale, nessuna evidenza di generazione artificiale.
+Non lo confermò. Il verdetto arrivò in pochi secondi. Contenuto reale, nessuna evidenza di generazione artificiale.
 
-Restò a fissare lo schermo come chi ha appena rifatto un calcolo e ha ottenuto di nuovo lo stesso risultato sbagliato. Il piede a sei dita non era un'allucinazione. Aveva contato falangi e unghie, personalmente, su ogni singolo fotogramma. Il problema, si disse, doveva essere nello strumento, non nel video. Quei tool probabilmente erano addestrati a riconoscere artefatti visivi, texture innaturali, movimento troppo fluido o troppo rigido, non un singolo glitch anatomico durato due fotogrammi su un video di quindici minuti.
+Restò a fissare lo schermo come chi ha appena rifatto un calcolo e ha ottenuto di nuovo lo stesso risultato sbagliato. Il piede a sei dita non era un'allucinazione. Aveva contato falangi e unghie, personalmente, su ogni singolo fotogramma. Il problema, si disse, doveva essere nello strumento, non nel video. Quel tool probabilmente era addestrato a riconoscere artefatti visivi, texture innaturali, movimento troppo fluido o troppo rigido, non un singolo glitch anatomico durato due fotogrammi su un video di quindici minuti.
 
 Serviva isolare la variabile giusta. Aprì un documento vuoto e trascrisse, parola per parola, tutto quello che la ragazza diceva nel video dal primo all'ultimo secondo. Non le pose, non la musica di sottofondo, solo il parlato. Ne uscì un documento lungo quanto i quindici minuti del video stesso, dall'apertura fino all'ultimo consiglio prima dei saluti. Iniziava così:
 
 *"Ciao, sono qui per darti la routine che ha cambiato la mia vita e può cambiare anche la tua. Se vuoi il massimo risultato, guardami a velocità doppia. Fidati, funziona meglio! Bastano quindici minuti al giorno, sette e mezzo a velocità doppia. Il corpo non mente mai: vedrai i risultati già dalla prima settimana."*
 
-Incollò il documento per intero, senza il video, negli stessi tre strumenti. Due su tre cambiarono idea. Probabilità alta di generazione artificiale, diceva uno; molto probabile, diceva l'altro, con la cautela di chi non vuole finire in tribunale. Il terzo restava sul reale, ma di poco. A Tom bastava. Nessuno dei tre, però, seppe dirgli con quale modello fosse stato generato. Restituirono solo un generico "origine non determinabile", una formula asettica, come quella con cui certi referti evitano di scrivere la parola che tutti aspettano.
+Incollò il documento per intero in tre servizi fatti per il testo, Undetectable AI, ZeroGPT e lo stesso Hive. Due su tre si sbilanciarono. Probabilità alta di generazione artificiale, diceva uno; molto probabile, diceva l'altro, con la cautela di chi non vuole finire in tribunale. Il terzo restava sul reale, ma di poco. A Tom bastava. Nessuno dei tre, però, seppe dirgli con quale modello fosse stato generato. Restituirono solo un generico "origine non determinabile", una formula asettica, come quella con cui certi referti evitano di scrivere la parola che tutti aspettano.
 
 Uscì di casa con il solito quarto d'ora di anticipo. Per tutto il turno portò quelle due parole, origine non determinabile, in testa come un sassolino nella scarpa, ripetendosela in mente ogni volta che un test diagnostico gli lasciava trenta secondi liberi.
 
@@ -24,7 +24,7 @@ Gli restava un'ultima carta, l'archivio interno di Meridian. I tool pubblici non
 
 Aspettò l'ultima ora di turno, quando il corridoio fuori dal suo laboratorio si svuotava e i colleghi iniziavano a pensare più al cambio turno che a bussare a una porta chiusa. La porta era già chiusa a doppia mandata, *clac clac*, come sempre. Il neon sopra il banco era rimasto l'unico acceso in quell'ala. Aprì il tool aziendale di catalogazione degli artefatti. L'accesso lo aveva ricevuto, come tutti i Meridians, un paio d'anni prima, quando l'azienda, spaventata dai deepfake che nessuna piattaforma riusciva più a contenere, aveva deciso di etichettare ogni singolo contenuto prodotto dai propri modelli. Da allora ogni video promozionale, ogni voce sintetica, ogni immagine di catalogo finiva automaticamente nell'archivio con il modello che l'aveva generata, la data, il reparto d'origine e un contatto, indicizzata parola per parola. I modelli più vecchi, mai aggiornati, lasciavano solo la firma di prima, un sì senza nome. In azienda lo chiamavano trasparenza. Serviva, soprattutto, a risalire in fretta a un autore interno da dare in pasto ai leoni, se mai fosse scoppiato uno scandalo.
 
-Non caricò nulla. La sera prima aveva dato il video intero a tre siti sconosciuti senza pensarci due volte, perché là fuori un file caricato era un gesto di chiunque. Qui dentro ogni clic aveva un proprietario. Non incollò nessun link, nessun file, niente che potesse ricondurre a un video visto sul suo telefono. Ribatté a memoria le frasi d'apertura del transcript, quelle che aveva riletto più volte quella mattina. Per una ricerca testuale bastavano. Rilesse il testo un'ultima volta e poi lanciò la ricerca nell'archivio.
+Non caricò nulla. Quella mattina aveva dato il video e il suo testo a siti sconosciuti senza pensarci due volte, perché là fuori un file caricato era un gesto di chiunque. Qui dentro ogni clic aveva un proprietario. Non incollò nessun link, nessun file, niente che potesse ricondurre a un video visto sul suo telefono. Ribatté a memoria le frasi d'apertura del transcript, quelle che aveva riletto più volte quella mattina. Per una ricerca testuale bastavano. Rilesse il testo un'ultima volta e poi lanciò la ricerca nell'archivio.
 
 Il risultato arrivò in pochi secondi. Tom si accorse di essersi alzato in piedi senza averlo deciso.
 
@@ -107,3 +107,9 @@ Il video era un prodotto Meridian, pubblicato su un canale che di Meridian non p
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v4.4) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
+
+### Persona Cycle — Il tecnico (riparatore di elettronica) — 2026-11-01
+
+| Issue | Type | Status |
+|---|---|---|
+| Undetectable AI e ZeroGPT non accettano video; errore di cronologia ("la sera prima" per caricamenti della mattina) | persona-tecnico | resolved (v4.5) |

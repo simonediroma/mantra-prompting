@@ -1,6 +1,6 @@
 ---
 title: La fiducia di Tom
-version: 2.4
+version: 2.5
 claim: Le scuse di Emma arrivano a Tom nel mezzo di un intervento cronometrato e gli fanno rompere, per la prima volta, il suo margine dei quarantasette secondi. Dopo due giorni di paralisi la mail gli toglie la solitudine di sempre proprio sull'evento più sconvolgente della sua vita. Decide di fidarsi, ma da tecnico: il primo istinto è farle lui le domande, poi capisce che, se la mette alle strette, lei si richiude e lui non saprà mai cosa sono quei video. Le risponde con fatti verificabili e si tiene per sé il Morse, il quaderno, il video e la telefonata alla signora. Manda la risposta quando il nastro si rimette in moto, dove nessun supervisore può dirgli niente. Nel pomeriggio, tra un test e l'altro, nasce una sensazione vaga di doverla conoscere.
 status: complete
 merged: "2026-10-29, parte 1 del cap. 15 'Il bivio' (il chiodo fisso, mai scritta)"
@@ -26,7 +26,7 @@ Adesso la stessa persona gli dava del tu. Ammetteva di essere stata brusca e dic
 
 Non se l'era aspettato. Non si era aspettato nemmeno quello che sentì subito dopo, che non avrebbe saputo come chiamare se qualcuno glielo avesse chiesto. Era solo da molto tempo. Non solo in quella faccenda. Lo era da quando il nastro trasportatore aveva chiuso ogni tecnico in una stanza singola. Forse anche da prima. Ci aveva fatto l'abitudine come ci si abitua al ronzio di un frigorifero, finché qualcuno non lo stacca. Da più di tre mesi si portava dietro la cosa più strana che gli fosse mai capitata tra le mani, senza poterla mostrare a nessuno, se non a un quaderno che non rispondeva. Adesso, dall'altra parte di un indirizzo di posta che lui stesso aveva creduto morto, qualcuno chiedeva di sapere. Gli venne la voglia che viene a ogni smanettone quando incontra uno che ne capisce, magari di un argomento di cui al mondo si interessano in sei. Non era voglia di avere ragione o di arrivare primo. Era la voglia di aprire il coperchio davanti a qualcuno e dire «guarda qui».
 
-L'eWatch vibrò con il ronzio lungo, *bzzzz*. Tom chiuse l'intervento sull'ultimo secondo utile, senza un briciolo del suo solito margine. Il nastro si mosse, l'aspirapolvere partì verso l'uscita e al suo posto arrivò un forno a microonde che, secondo la scheda, si accendeva da solo alle tre di notte. Gli chiese se lo facesse apposta. Il forno non rispose. Aveva un relè incollato.
+L'eWatch vibrò con il ronzio lungo, *bzzzz*. Tom chiuse l'intervento sull'ultimo secondo utile, senza un briciolo del suo solito margine. Il nastro si mosse, l'aspirapolvere partì verso l'uscita e al suo posto arrivò un forno a microonde che, secondo la scheda, si accendeva da solo alle tre di notte. Gli chiese se lo facesse apposta. Il forno non rispose. Aveva l'orologio della scheda di controllo che alle tre di notte si azzerava e rilanciava l'ultimo programma.
 
 Per il resto della mattina lavorò con le mani mentre la testa scriveva e riscriveva. Un frullatore, una lavastoviglie, un altoparlante da cucina che aveva deciso di parlare solo in portoghese. A ognuno fece la sua domanda, per abitudine. Ognuno gli rispose con un guasto. Nel frattempo metteva in fila quello che poteva dire a Emma e quello che no. Il modello del televisore si poteva dire, era scritto su ogni scheda. Il guasto anche, nei termini della scheda, un apparecchio che non si accendeva e mandava segnali luminosi senza senso dal LED di accensione, che era quello che aveva detto la signora e quello che lui aveva scritto. Poi c'era la domanda sul ritorno al cliente. Lì la risposta vera era no. La signora aveva rifiutato il ritiro e chiesto il rimborso. Pochi giorni dopo, sul registro interventi, la causale era diventata decesso cliente, con il pagamento reindirizzato all'erede. Tre settimane più tardi l'apparecchio era tornato sul suo banco con l'etichetta gialla del ricondizionamento. A quella domanda non si poteva rispondere senza dire che la cliente era morta. Era un fatto come gli altri, scritto in un registro che chiunque poteva aprire. Era anche l'unico che non si decideva a mettere in fila con gli altri.
 
@@ -85,3 +85,9 @@ Quella sera aprì il quaderno per scrivere la giornata. Gli apparecchi erano sta
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v2.4) | 3 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
+
+### Persona Cycle — Il tecnico (riparatore di elettronica) — 2026-11-01
+
+| Issue | Type | Status |
+|---|---|---|
+| Un relè incollato non accende un forno a un'ora precisa | persona-tecnico | resolved (v2.5) |

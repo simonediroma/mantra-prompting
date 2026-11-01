@@ -1,6 +1,6 @@
 ---
 title: La chiamata alla signora
-version: 3.5
+version: 3.6
 revised: 2026-11-01
 claim: Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo.
 status: complete
@@ -38,7 +38,7 @@ Tom strinse il telefono un po' più forte, con l'attenzione di chi sente arrivar
 
 «È una sensazione comprensibile, con questi modelli nuovi» disse, con il tono più neutro e rassicurante che riuscì a mettere insieme. «Capita che il pubblico li percepisca come più... presenti, diciamo, di un vecchio televisore. Ha notato altro, in quei giorni? Qualcosa che le fosse sembrato fuori posto, anche solo un dettaglio?»
 
-«Ho un video, sa?» disse lei. Era chiaro dal tono che ci teneva a dirlo, che lo aveva già raccontato ad altri e voleva raccontarlo anche a lui. «L'ho girato col telefono apposta, per portarlo in assistenza, perché sapevo che altrimenti non mi avrebbero creduta. Si vede il televisore che lampeggia in un modo strano, e io che gli dico di accendersi, e niente. Chi l'ha visto in negozio ha dato un'occhiata veloce al telefono e ha buttato lì un "sarà la retroilluminazione", senza nemmeno controllare per bene. Io quel video lo riguardo ogni tanto e le giuro che non sembra affatto un guasto. Sembra un rifiuto.»
+«Ho un video, sa?» disse lei. Era chiaro dal tono che ci teneva a dirlo, che lo aveva già raccontato ad altri e voleva raccontarlo anche a lui. «L'ho girato col telefono apposta, per portarlo in assistenza, perché sapevo che altrimenti non mi avrebbero creduta. Si vede il televisore che lampeggia in un modo strano, e io che gli dico di accendersi, e niente. Chi l'ha visto in negozio ha dato un'occhiata veloce al telefono e ha buttato lì un "sarà un codice di servizio, niente di grave", senza nemmeno contare i lampeggi. Io quel video lo riguardo ogni tanto e le giuro che non sembra affatto un guasto. Sembra un rifiuto.»
 
 Tom restò in silenzio un secondo di troppo, il tempo che gli serviva per assicurarsi che la propria voce, quando fosse tornata a parlare, suonasse ancora come quella di un impiegato annoiato di un servizio qualità e non come quella di un uomo a cui erano appena state consegnate, gratis e senza nemmeno doverle chiedere, tre mesi di sospetti.
 
@@ -122,3 +122,9 @@ Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati d
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v3.5) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
+
+### Persona Cycle — Il tecnico (riparatore di elettronica) — 2026-11-01
+
+| Issue | Type | Status |
+|---|---|---|
+| Un commesso davanti a un LED che lampeggia parla di codice errore, non di retroilluminazione | persona-tecnico | resolved (v3.6) |
