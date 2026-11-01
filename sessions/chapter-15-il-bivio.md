@@ -1,7 +1,7 @@
 # Session: chapter — chapters/15-il-bivio.md
 
 > Created: 2026-11-01
-> Last updated: 2026-11-01
+> Last updated: 2026-11-01 (demolizione)
 > Status: open
 
 ## Macro
@@ -11,12 +11,12 @@ chapter
 chapters/15-il-bivio.md
 
 ## Current step
-demolish
+integrate
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
-- [ ] demolish
+- [x] demolish
 - [ ] integrate
 
 ## Notes
@@ -27,3 +27,5 @@ demolish
 - Fase 1 (autore, ok a tutto): (1) Tom non risponde perché la risposta onesta è la telefonata, che su un server Meridian non può scrivere; con lei le bugie non funzionano. (2) Testo della mail delle 8:00:01 approvato; in bozza tolto "Mi dispiace per la tua cliente" (avrebbe rivelato che Tom ha scritto della morte, dettaglio tenuto in sospeso da C-37, e avrebbe anticipato la 23:34) e "nella scheda hai riportato" → "mi hai riportato le parole della tua cliente" (Emma non può sapere che è sulla scheda). Da confermare. (3) Innesco eWatch: il sobbalzo alza il battito, il quadrante lo mostra (novantotto, "Respira con me"). (4) Vetro smerigliato all'altezza degli occhi, standard delle stanze singole. (5) Voce: Tom al tritatutto e una frase a Emma come se fosse nella stanza.
 - Frase esatta della scheda fissata in bozza: "Si rifiuta di accendersi. Lampeggia in un modo strano." Il cap. 3 parafrasa ("non si accende più, non risponde al telecomando"): da verificare in demolizione se serve allineare.
 - 2026-11-01: bozza v1.0 (~1.700 parole di testo). Titolo provvisorio "Le 8:00:01" (parallelo con "Le 23:34 di venerdì"; il bivio è passato al cap. 17): da confermare, altrimenti torna "Il bivio". File rimasto `15-il-bivio.md`.
+- 2026-11-01: demolizione ciclo 1, 7 critiche, tutte risolte (vedi Demolition Log del capitolo). Decisioni dell'autore: (1) eWatch vibra solo per notifiche/timer, ponte sotteso; Tom ha visto l'eWatch al polso della signora nella foto del post del fratello (cap. 6, stessa foto dell'articolo del cap. 12) e l'ha annotato nel quaderno; deduzione altamente probabile, mai certa. (2) Scheda intera, allerta di Tom nel cap. 3 dentro i suoi tempi. (3) Via "poi trenta"; è il televisore a vedere il cuore, l'orologio misura. (4) Verifica di conformità in una riga, orologio sullo sfondo. (5) "Anni di incroci evitati" senza "dodici". (6) Niente vetro: porta socchiusa dall'arrivo, vedetta per capire se qualcuno è sulle sue tracce; Pete passa intero. (7) Riformulare tic e chiusura.
+- Integrazione: cap. 15 (v2.0) + ricadute su cap. 3 §17 e cap. 6 §31 + ledger (foto del fratello = foto dell'articolo; eWatch consumer da anni; via "vetro smerigliato").

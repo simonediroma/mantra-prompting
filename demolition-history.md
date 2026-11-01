@@ -22,12 +22,13 @@
 | Ch. 12 — Solo un tecnico? (fuso, ex 12 + ex 13) | 3 | 12 | 0 | 3 |
 | Ch. 13 — La correlazione | 1 | 4 | 0 | 1 |
 | Ch. 14 — La fiducia di Tom | 1 | 7 | 0 | 0 |
+| Ch. 15 — Le 8:00:01 | 1 | 7 | 0 | 0 |
 
 ---
 
 ## Recurring Patterns
 
-- **Dettagli tecnici da riparatore** (persona-tecnico, 2026-11-01): strumenti reali citati per quello che non fanno (detector di testo usati su un video), guasti spiegati con il componente sbagliato (relè incollato per un'accensione a orario), risposte da negozio non da tecnico. Regola per i cap. 15-20: ogni guasto citato va verificato come lo verificherebbe chi lo ripara, e almeno una riparazione a Tom deve andare male.
+- **Dettagli tecnici da riparatore** (persona-tecnico, 2026-11-01; riapparso nel cap. 15 ciclo 1: verifica di conformità saltata sul tritatutto): strumenti reali citati per quello che non fanno (detector di testo usati su un video), guasti spiegati con il componente sbagliato (relè incollato per un'accensione a orario), risposte da negozio non da tecnico. Regola per i cap. 15-20: ogni guasto citato va verificato come lo verificherebbe chi lo ripara, e almeno una riparazione a Tom deve andare male.
 
 *Nessun pattern ricorrente ancora — questa è la prima demolizione del libro. Da aggiornare quando lo stesso tipo di vulnerabilità riappare in un altro capitolo.*
 
@@ -43,7 +44,7 @@
 - **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
 - **Copia-incolla di descrizioni tra capitoli** (Elab cap. 9/10): ogni ripresa va riscritta dal POV del capitolo.
 
-- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video; cap. 8 ciclo 2: "farsi rivedere dallo stesso spettatore", conoscenza dell'autore attribuita a Tom; cap. 12 ciclo 3: ipotesi dell'investigatore smentita dalla cronologia che Emma ha appena letto, rassicurazione non dedotta dalle prove; cap. 14 ciclo 1: Tom mette alla prova ogni apparecchio ma non la mail di Emma): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
+- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video; cap. 8 ciclo 2: "farsi rivedere dallo stesso spettatore", conoscenza dell'autore attribuita a Tom; cap. 12 ciclo 3: ipotesi dell'investigatore smentita dalla cronologia che Emma ha appena letto, rassicurazione non dedotta dalle prove; cap. 14 ciclo 1: Tom mette alla prova ogni apparecchio ma non la mail di Emma; cap. 15 ciclo 1: eWatch "noto dal catalogo" ma mai collegato per venti giorni, allarme che si accende a comando): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
 
 Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ricorrenti):
 - **Fondamento di competenze tecniche non ancora giustificato dal profilo del personaggio** (visto sul cap. 1 con "compacting context" in Tom) — verificare ogni volta che un personaggio mostra conoscenza tecnica specifica.
@@ -283,3 +284,19 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | "Da più di tre settimane" per "la cosa più strana": il mistero di Tom parte dal primo contatto | timeline | integrated (v2.0) | "Da più di tre mesi", dalla prima volta. |
 | §4 "La lesse tutta d'un fiato." paragrafo-lampo | style (pattern) | integrated (v2.0) | Da assorbire nel paragrafo circostante in integrazione. |
 | R-110 (cap. 11, deferred): la prima risposta di Emma mai mostrata | foundation | integrated (v2.0) | Letta da Tom in flashback ai §6-7 (al lei, smonta il bluff dei log). |
+
+### Ch. 15 — Le 8:00:01
+
+#### Cycle 1 — 2026-11-01
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| La scoperta dell'eWatch come comodità d'autore: Tom "sapeva dal catalogo" il ponte orologio-apparecchi ma non ci ha pensato per venti giorni; l'orologio mostra il battito ("Respira con me") per la prima volta nel minuto in cui serve (pattern: salti logici) | logical / foundation | resolved | L'eWatch vibra solo per notifiche e timer; il ponte resta sotteso. La sera del G20 (cap. 6) Tom vede nel post del fratello la stessa foto dell'articolo del cap. 12, nota l'eWatch al polso e lo scrive nel quaderno tra le cose della cliente. Il G25 la domanda di Emma e il proprio orologio al polso fanno toccare le due righe: altamente probabile, mai certo. Via battito sul quadrante e "lo sapeva dal catalogo". Vincolo: foto "di qualche anno prima" → l'eWatch consumer esiste da anni. |
+| Scheda "Lampeggia in un modo strano" contro il cap. 3, dove Tom prende il televisore Voss "con calma" e il cliente racconta "come tutti gli altri" | contradiction (cap. 3) | resolved | La frase resta intera; nel cap. 3 §17 Tom legge la scheda, si allerta (è la cosa che aspetta da tre mesi) e proprio per questo la controlla dentro i tempi che si è dato. |
+| §10 "dieci volte al giorno, poi trenta": le trenta sono nelle statistiche di Emma (cap. 13), Tom conosce solo le dieci della telefonata; inoltre è l'orologio ad "aver visto" il cuore | POV leak / ledger | resolved | Via "poi trenta". L'orologio misura e passa; a vedere il cuore salire dieci volte al giorno è il televisore. |
+| Slot di diciotto minuti con un guasto "da cinque" e nessuna verifica di conformità: unico apparecchio del libro che salta la procedura | technical / world (persona-tecnico) | resolved | La verifica di conformità entra in una riga di sfondo (quattordici minuti di ciclo più il giunto); l'orologio resta sullo sfondo. |
+| "Dodici anni di incroci evitati" contro il cap. 2 ("sì e no tre volte in dodici anni") | continuity (cap. 2) | resolved | Via "dodici": "anni di incroci evitati", Tom ha imparato a evitarlo e lo fa sistematicamente. |
+| Vetro smerigliato sulla porta introdotto al cap. 15 per l'ombra di Pete, contro la stanza isolata dei cap. 1 e 9; la frase "uno schermo acceso è solo un rettangolo di luce" difende il dettaglio invece di fondarlo | foundation / continuity | resolved | Niente vetro. Deroga di Tom: la mattina del G25 lascia la porta socchiusa fin dall'arrivo, per la prima volta in dodici anni, come vedetta sul corridoio: vuole sapere se qualcuno è sulle sue tracce dopo la mail di ieri. Pete passa davanti alla porta aperta, rallenta, va oltre: corpo intero, non ombra. Via la frase sullo schermo. |
+| Tic: "dodici anni" quattro volte; chiusura che spiega in quattro frasi perché Tom non risponde invece di chiudere su un beat mostrato | style (pattern) | resolved | Riformulare in integrazione: un solo "dodici anni" oltre a quello della deroga; il silenzio mostrato, non spiegato. |
+
+Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (foto con l'eWatch, riga nel quaderno).
