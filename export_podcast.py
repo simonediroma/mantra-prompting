@@ -11,6 +11,7 @@ Usage:
                                                    # description/recap/teaser/status of each script)
   python3 export_podcast.py check                  # exit 1 if a script is out of sync with its chapter
   python3 export_podcast.py sfx [names...]         # render the sound-effect palette to podcast/sfx/ (+ palette.mp3)
+  python3 export_podcast.py cost [scripts...]      # characters build would send to ElevenLabs, net of the cache
   python3 export_podcast.py build [scripts...]     # render episodes (default: all scripts)
   python3 export_podcast.py feed                   # write podcast/feed.xml (RSS)
   python3 export_podcast.py jingle [--style S] [--seconds N] [--seed N] [--drums synth|kit|none]
@@ -1221,6 +1222,36 @@ def sfx(project_dir, names):
     wav.unlink(); print(f"✅ {out_dir / 'palette.mp3'}")
 
 
+def cost(project_dir, names):
+    """Characters that `build` would send to ElevenLabs per episode, net of the local cache."""
+    project_dir = Path(project_dir); settings = podcast_settings(load_config(project_dir))
+    cache_dir = project_dir / "podcast" / "cache" / "elevenlabs"
+    total_new = total_all = 0
+    for script in episode_scripts(project_dir, names):
+        meta, body = split_frontmatter(script.read_text(encoding="utf-8"))
+        events = parse_script(body)
+        blocks, current = [], None
+        for ev in events:                       # same grouping as render_events_elevenlabs
+            if ev[0] == "say":
+                if current and current[0] == ev[1] and len(" ".join(current[1])) + len(ev[2]) < ELEVENLABS_MAX_CHARS:
+                    current[1].append(ev[2])
+                else:
+                    current = [ev[1], [ev[2]]]; blocks.append(current)
+            else:
+                current = None
+        new = allc = 0
+        for voice_name, sents in blocks:
+            text = " ".join(sents); vc = voice_config(settings, voice_name)
+            params = {k: vc.get(k) for k in ("voice", "model", "speed", "stability", "similarity_boost", "style")}
+            key = hashlib.sha256(json.dumps([text, params], sort_keys=True).encode()).hexdigest()[:24]
+            allc += len(text)
+            if not (cache_dir / f"{key}.pcm").exists():
+                new += len(text)
+        total_new += new; total_all += allc
+        print(f"{script.stem}: {new:>6} caratteri da sintetizzare su {allc:>6}  ({'tutto in cache' if new == 0 else f'{100 * new // max(allc, 1)}% nuovo'})")
+    print(f"TOTALE: {total_new} caratteri da inviare a ElevenLabs (su {total_all})")
+
+
 # ─── Scripts from chapters ────────────────────────────────────────────────────
 # `scripts` rebuilds podcast/scripts/episode-NN.md from chapters/NN-*.md with the
 # adaptation rules of this project (Morse, system boxes, numbers), keeping the
@@ -1436,6 +1467,8 @@ if __name__ == "__main__":
         scripts(".", rest)
     elif cmd == "sfx":
         sfx(".", rest)
+    elif cmd == "cost":
+        cost(".", rest)
     elif cmd == "check":
         check(".")
     elif cmd == "build":
