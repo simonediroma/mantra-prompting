@@ -1,7 +1,7 @@
 # Session: chapter — chapters/16-le-2334-di-venerdi.md
 
 > Created: 2026-11-01
-> Last updated: 2026-11-01 (dialogo)
+> Last updated: 2026-11-01 (bozza)
 > Status: open
 
 ## Macro
@@ -11,11 +11,11 @@ chapter
 chapters/16-le-2334-di-venerdi.md
 
 ## Current step
-ask-before-writing
+demolish
 
 ## Steps completed
-- [ ] ask-before-writing
-- [ ] write
+- [x] ask-before-writing
+- [x] write
 - [ ] demolish
 - [ ] integrate
 
@@ -36,3 +36,5 @@ ask-before-writing
 - **Deciso (autore, 2026-11-01), ingresso**: il capitolo si apre su Emma che legge la risposta di Tom (G24, pomeriggio), un passo indietro rispetto al cap. 15. La mail delle 8:00:01 non si mostra (la legge Tom nel cap. 15).
 - **Deciso (autore, 2026-11-01), resa del Dì'èr Rénshēng**: la scena è una digressione del narratore che prova a far sentire al lettore cosa prova Emma, spiegando la sensazione di alienazione con l'immagine del bancone infinito dove alla fine tutti sono vicini. Il lettore la prende per metafora; in realtà è un posto che nel mondo reale non esiste, reso così: una dichiarazione nascosta. Tono disteso, alla Adams; nessun commento esplicito sul significato.
 - Riepilogo del dialogo presentato all'autore (2026-11-01): apertura su Emma che legge la risposta di Tom senza la morte (G24); attesa sabato e lunedì-venerdì sulla scia delle riparazioni di Tom e degli altri tecnici, con il seme della modalità presenza; venerdì sera il Dì'èr Rénshēng; le 23:34 come primo gesto istintivo. In attesa di conferma.
+- **Confermato (autore, 2026-11-01)**: riepilogo approvato. Indicazione in più: sfruttare la descrizione del Ristorante al termine dell'universo (Adams, Milliways) come modello per la digressione sul Dì'èr Rénshēng.
+- 2026-11-01: bozza v1.0 salvata (~2.050 parole). Outline → draft; book-memory (summary log, ledger: testo della risposta di Tom, settimana G25-G31, newsletter modalità presenza, Dì'èr Rénshēng, le 23:34, fine giornata nella stanza); voice-sample aggiornato. Da fare in integrazione: chiudere C-37 nell'outline del cap. 14 e nel ledger "Risposta di Tom (G24)"; aggiornare emma.md (eccezione C-36 per il Dì'èr Rénshēng, le deroghe serali); mappa-eventi (G25-G31).

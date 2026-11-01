@@ -230,7 +230,8 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Seme dell'avatar (autore, 2026-11-01)**: qui, in una riga di passaggio dal POV di Emma, la "modalità presenza" (avatar nei meeting come pratica normale in Meridian, retorica del benessere): l'opzione vista di sfuggita o la raccomandazione aziendale, mentre aspetta Tom e non sa ancora che le servirà nel cap. 18.
 **Collegamento al precedente**: il silenzio di Tom dopo il cap. 15.
 **Collegamento al successivo**: la notifica arriva a Tom e, venticinque minuti dopo, a Pete.
-**Stato**: `to-write`
+**Scrittura (2026-11-01, dialogo)**: Tom nella risposta tace la morte (C-37 risolto: opzione B); Emma legge l'omissione; la settimana sulla scia delle riparazioni di Tom e degli altri tecnici; il seme della modalità presenza nella newsletter Benessere Meridian; venerdì sera il Dì'èr Rénshēng (ristorante cinese, "seconda vita", bancone infinito, cameriere che tiene il tempo, trasposizione di una chat con moderatore resa come luogo fisico, Emma già lì e immobile); le 23:34 come primo gesto istintivo.
+**Stato**: `draft`
 **File**: `chapters/16-le-2334-di-venerdi.md`
 
 ---
