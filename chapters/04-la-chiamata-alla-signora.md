@@ -1,7 +1,7 @@
 ---
 title: La chiamata alla signora
-version: 3.4
-revised: 2026-10-31
+version: 3.5
+revised: 2026-11-01
 claim: Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo.
 status: complete
 ---
@@ -10,7 +10,7 @@ Il numero era nel suo archivio, dove Tom lo aveva trascritto la sera prima insie
 
 Quella mattina era pronto per uscire con il solito anticipo. Usciva sempre abbastanza presto da arrivare in azienda con un quarto d'ora di margine prima dell'inizio del turno, giusto il tempo di sistemarsi alla postazione con calma invece che di corsa. Per una volta decise di spendere quei quindici minuti in un altro modo.
 
-Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare, in piedi in cucina, con la luce del mattino di taglio sul tavolo e la felpa già addosso. Si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti. Mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade.
+Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare, in piedi in cucina, con la luce del mattino di taglio sul tavolo e la felpa già addosso. Si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti. Mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade. *Driin.*
 
 «Pronto?»
 
@@ -116,3 +116,9 @@ Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati d
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | 6 due punti a metà frase in narrazione (spiegazione, conseguenza, elenco) | rule R1 | integrated (v3.4) | Punto e maiuscola, virgola o apposizione; conservati quelli davanti a dialogo, titoli, Morse e testo citato. |
+
+### Cycle — 2026-11-01 (suoni d'ambiente)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v3.5) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |

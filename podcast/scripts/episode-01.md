@@ -6,12 +6,15 @@ source: chapters/01-primo-contatto.md
 status: "approved"
 recap: ""
 teaser: "la curiosità di Tom ha un prezzo, che Meridian sa bene come fargli pagare."
+sfx_open: "neon"
 ---
 Mantra Prompting. Incontrando Emma. Episodio uno.
 
 [pause 1]
 
 # Capitolo uno. Primo contatto
+
+[sfx neon under]
 
 Il televisore era acceso da dodici minuti e non aveva ancora emesso uno solo dei suoni tipici della televisione, il jingle di un gioco a premi, l'applauso di un pubblico pagato, una risata registrata partita al momento sbagliato, lo squillo isterico di un'edizione straordinaria del telegiornale. Il che, considerato tutto, lo rendeva comunque l'interlocutore più valido che Tom avesse incontrato in settimana.
 
@@ -37,7 +40,7 @@ Era un rito scaramantico, una sorta di test di Turing improvvisato per scongiura
 
 Il LED lampeggiò.
 
-Lampeggiò con una cadenza precisa, troppo regolare per essere il pattern casuale di un guasto. Punti e linee, un ritmo che una parte molto vecchia e molto sepolta del cervello di Tom, quella cresciuta a manuali di elettronica amatoriale e vecchie radio a valvole recuperate nei mercatini, riconobbe prima ancora che la parte razionale finisse di elaborare la frase.
+Lampeggiò con una cadenza precisa, troppo regolare per essere il pattern casuale di un guasto. Punti e linee, un ritmo che una parte molto vecchia e molto sepolta del cervello di Tom, quella cresciuta a manuali di elettronica amatoriale e vecchie radio a valvole recuperate nei mercatini, riconobbe prima ancora che la parte razionale finisse di elaborare la frase. Lo sentì, più che vederlo. Era così che aveva imparato il Morse da bambino, con quelle radio. La luce gli arrivava in testa già tradotta in suono, corto e lungo, con il fischio della valvola.
 
 [sfx morse IO SONO QUI]
 

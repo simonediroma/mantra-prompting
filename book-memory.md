@@ -256,6 +256,7 @@ La pianificazione completa dei capitoli 1-25 è in `outline.md`; qui viene aggiu
 
 | Date | Work done | Next step |
 |---|---|---|
+| 2026-11-01 | Suoni d'ambiente: 15 onomatopee nei cap. 2-9, 11, 13, 14; riga del Morse-come-suono nel cap. 1 (v3.6); tag [sfx] e [sfx morse] nello script, palette sintetizzata, neon sotto l'apertura dell'ep. 1 | Rigenerare audio (autore); cap. 15 |
 | 2026-10-31 | Pianificazione cap. 15-20 approvata: ferita e tell di Tom fissati, Pete nel corridoio del 15, POV alternato per 17-20, cap. 20 autonomo, avatar di Emma (ragazza di eTv a cinquant'anni), metodo `chapter` un capitolo per sessione | Aprire il cap. 15 con `ghost-writer:chapter` |
 | 2026-10-31 | Giro completo chiuso: cap. 1-14 rivisti uno per uno (schede, approvazioni, un commit per capitolo); blocco R1 (65 due punti riformulati nei cap. 1-7 e 11); cap. 14 v2.3. Audit: tutte le issue chiuse tranne la promessa eWatch (cap. 15) | Merge; pianificazione cap. 15-20 |
 | 2026-10-31 | Giro completo: consistency-check (7 issue, nessuna critica); cap. 1 v3.4 (§7). Meccanismo eWatch/televisore fissato | Giro: cap. 2 (hard reset nel 3 e 6, "rumore di fondo" nel 10, incipit del 12 lungo il percorso) |

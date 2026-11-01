@@ -27,7 +27,8 @@ Non era più, a questo punto, un video isolato caricato per sbaglio da qualcuno 
 
 Erano ormai le undici passate e la stanza si era raffreddata. Domani, con la testa più fresca, avrebbe provato a capire con quale intelligenza artificiale fosse stato generato quel video. Era un passo nel vuoto, ma ogni strumento ha i suoi clienti. Tra quelli, forse, c'era anche chi stava dietro eTv.
 
-Il lato A era finito da un pezzo senza che se ne accorgesse. Girò il disco, lasciò partire *Il video sono io*, poi spense il giradischi e andò a dormire.
+[sfx vinile]
+Il lato A era finito da un pezzo, *crr crr* a vuoto, senza che se ne accorgesse. Girò il disco, lasciò partire *Il video sono io*, poi spense il giradischi e andò a dormire.
 
 [pause 1.5]
 

@@ -1,9 +1,9 @@
 ---
 title: La routine di Emma
-version: 4.3
+version: 4.4
 claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore, raccontata dal narratore: lo stesso indovinello di ogni visita, ripetuto da anni come un mantra con parole sempre nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei non funzioni. Non gli dice della mail di Tom, su una casella che lui ha dimenticato; poi lo guarda stampare, come sempre, e archiviare il foglio.
 status: complete
-revised: 2026-10-31
+revised: 2026-11-01
 ---
 
 Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio. Non aveva ricevuto alcuna notifica, ma decise comunque di fare un giro nell'inbox, come se Tom potesse rispondere proprio mentre lei la rassettava. Non c'era molto da rassettare. La risposta non arrivò.
@@ -24,7 +24,7 @@ Prima della pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora
 
 Il fondatore passò poco dopo mezzogiorno, senza preavviso, come sempre. Emma lo sentì entrare prima di metterlo a fuoco, poi lo guardò lasciarsi cadere nella poltrona davanti a lei. La salutò, le chiese come andasse, si lamentò di una riunione durata il doppio del previsto. Le solite due chiacchiere, che non saltava mai, nemmeno nei giorni in cui l'agenda gli concedeva dieci minuti in tutto. Poi passò agli indovinelli, come a ogni visita. Uno per volta, ripetuto come un mantra, cambiando di volta in volta le parole e mai la domanda. Emma gli rispose ogni volta in modo un po' diverso, qualche volta sbagliando con l'aria di un'allieva che a fine mattinata ha la testa altrove. Lui rideva piano, senza delusione. Emma quel gioco lo conosceva meglio di quanto lui potesse immaginare. Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo. Per questo non gli dava mai due volte la stessa risposta. Lui doveva vederla sbagliare, ogni tanto. Doveva andarsene convinto che con lei non funzionasse.
 
-Mentre lui si alzava, Emma pensò alla casella di Elab, a una mail rimasta senza risposta in un indirizzo che lui aveva smesso di ricordare da anni. Non gliene parlò. Prima di uscire, come sempre, lui si fermò alla stampante. Emma sentì il ronzio e vide il foglio uscire ancora caldo. Lui lo rilesse sorridendo, lo infilò in un raccoglitore e rimise il raccoglitore al suo posto. Non le disse cosa fosse. Non lo diceva mai. Poi la salutò di nuovo e uscì, chiudendosi la porta alle spalle.
+Mentre lui si alzava, Emma pensò alla casella di Elab, a una mail rimasta senza risposta in un indirizzo che lui aveva smesso di ricordare da anni. Non gliene parlò. Prima di uscire, come sempre, lui si fermò alla stampante. Emma sentì il *frrr* della stampante e vide il foglio uscire ancora caldo. Lui lo rilesse sorridendo, lo infilò in un raccoglitore e rimise il raccoglitore al suo posto. Non le disse cosa fosse. Non lo diceva mai. Poi la salutò di nuovo e uscì, chiudendosi la porta alle spalle.
 
 Il pomeriggio lo passò controllando la lista dei dispositivi in assistenza. La lista veniva aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica. Lei, in parallelo, teneva un proprio archivio, in cui segnava i casi di dispositivi con IA integrata che riportavano anomalie segnalate dai clienti, ma senza alcuna evidenza di guasto hardware o alterazione software. Erano prodotti al cento per cento funzionanti per gli standard Meridian, che per qualche ragione avevano smesso di fare quello che i loro utenti chiedevano.
 
@@ -114,3 +114,9 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | 1 due punti a metà frase in narrazione (spiegazione, conseguenza, elenco) | rule R1 | integrated (v4.3) | Punto e maiuscola, virgola o apposizione; conservati quelli davanti a dialogo, titoli, Morse e testo citato. |
+
+### Cycle — 2026-11-01 (suoni d'ambiente)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v4.4) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |

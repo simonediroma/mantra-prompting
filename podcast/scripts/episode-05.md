@@ -44,7 +44,8 @@ Prima di andare a dormire aprì il quaderno, aggiungendo una riga sotto la voce 
 
 Il mattino dopo, in piedi in cucina come la prima volta, con il consueto quarto d'ora di anticipo davanti a sé, compose il numero della signora Voss.
 
-Squillò a lungo. Nessuno rispose.
+[sfx telefono]
+Squillò a lungo, *driin*, *driin*, *driin*. Nessuno rispose.
 
 Riprovò una seconda volta, lasciando passare qualche minuto, calcolando che forse era semplicemente sotto la doccia, o in cucina, o troppo lontana dal telefono per sentirlo la prima volta. Squillò di nuovo, uguale, fino a interrompersi da solo senza nemmeno la cortesia di una segreteria.
 

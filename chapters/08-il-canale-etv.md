@@ -1,9 +1,9 @@
 ---
 title: Il canale eTv
-version: 4.2
+version: 4.3
 claim: Analizzando il canale eTv che ospita il video della signora Voss, Tom scopre un'operazione sistematica e anonima, senza branding né identità, con molte visualizzazioni e pochi iscritti, come se l'unico obiettivo fosse massimizzare le views, ma con un ritmo di pubblicazione a singhiozzo che contraddice proprio quell'obiettivo. Decide di cercare con quale IA sia stato generato il video, sperando di risalire dai clienti dello strumento a chi c'è dietro eTv.
 status: complete
-revised: 2026-10-31
+revised: 2026-11-01
 ---
 
 Riaprì la pagina del canale con il mento appoggiato sulla mano. Scorse l'elenco dei video uno dopo l'altro, mentre il disco passava alla terza traccia, con la stessa pazienza metodica con cui avrebbe controllato una scheda madre pin per pin. Un video su come sturare un lavandino senza chiamare un idraulico. Una ricetta di pasta al forno "che nessuno indovinerebbe essere senza glutine". Una cover acustica di una canzone che non riconosceva, cantata con una voce impeccabile, priva di qualunque imperfezione che di solito rende una voce umana interessante da ascoltare. Idraulica, cucina, musica, yoga. Argomenti che non avevano nulla in comune, se non un unico dettaglio. La stessa ragazza, sempre lei, protagonista assoluta di ognuno, esperta apparentemente di qualunque cosa a qualcuno fosse mai venuto in mente di cercare online.
@@ -18,7 +18,7 @@ Non era più, a questo punto, un video isolato caricato per sbaglio da qualcuno 
 
 Erano ormai le undici passate e la stanza si era raffreddata. Domani, con la testa più fresca, avrebbe provato a capire con quale intelligenza artificiale fosse stato generato quel video. Era un passo nel vuoto, ma ogni strumento ha i suoi clienti. Tra quelli, forse, c'era anche chi stava dietro eTv.
 
-Il lato A era finito da un pezzo senza che se ne accorgesse. Girò il disco, lasciò partire *Il video sono io*, poi spense il giradischi e andò a dormire.
+Il lato A era finito da un pezzo, *crr crr* a vuoto, senza che se ne accorgesse. Girò il disco, lasciò partire *Il video sono io*, poi spense il giradischi e andò a dormire.
 
 ## Demolition Log
 
@@ -60,3 +60,8 @@ Aggiornati in integrazione (v4.0): claim nel frontmatter, `book-memory.md`, `map
 | Separatore "---" residuo in fondo | structure | integrated (v4.2) | Tolto. |
 | Episodio 8 da quattro minuti: lasciare o fondere con il 9 | audio | decided (autore) | Lasciato separato: formato a puntate, "una sera, un passo". |
 
+### Cycle — 2026-11-01 (suoni d'ambiente)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v4.3) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |

@@ -13,6 +13,30 @@ Episodi audio toccati dalle correzioni applicate: 1, 2, 4, 5, 6, 9, 10, 12, 13 (
 
 ## Archive
 
+## Import 2026-11-01 — onomatopee e Morse (suoni d'ambiente)
+
+Fonte: proposta dell'autore (suoni come onomatopea nel libro, letti e resi reali nell'audio) e decisione sul Morse come eco nella testa di Tom. Approvate in blocco.
+
+- cap. 1 · "…riconobbe prima ancora che la parte razionale finisse di ela…" → "…riconobbe prima ancora che la parte razionale finisse di elaborare la …"
+- cap. 2 · "…un accordo di tre note pensato, a detta dell'ufficio HR,…" → "…un accordo di tre note, *dlin*, pensato, a detta dell'ufficio HR,…"
+- cap. 2 · "…Dietro la parete il nastro si mosse e gli portò il primo app…" → "…Dietro la parete il nastro fece *clac* e si mosse per portargli il pri…"
+- cap. 3 · "…Arrivò un martedì, verso la fine del turno, sul nastro, con …" → "…Arrivò un martedì, verso la fine del turno, sul nastro, *clac*, con la…"
+- cap. 4 · "…tendere la domanda giusta e osservare dove cade.
+
+«Pronto?»…" → "…tendere la domanda giusta e osservare dove cade. *Driin.*
+
+«Pronto?»…"
+- cap. 5 · "…Squillò a lungo. Nessuno rispose.…" → "…Squillò a lungo, *driin*, *driin*, *driin*. Nessuno rispose.…"
+- cap. 6 · "…Il carrello del ricondizionamento aveva un odore suo, plasti…" → "…Il carrello del ricondizionamento si annunciava dal corridoio con un *…"
+- cap. 7 · "…Mentre partiva *Vacanze romane*, la prima canzone dell'album…" → "…Mentre, dopo un *crr* di polvere, partiva *Vacanze romane*, la prima c…"
+- cap. 8 · "…Il lato A era finito da un pezzo senza che se ne accorgesse.…" → "…Il lato A era finito da un pezzo, *crr crr* a vuoto, senza che se ne a…"
+- cap. 9 · "…La porta era già chiusa a doppia mandata, come sempre.…" → "…La porta era già chiusa a doppia mandata, *clac clac*, come sempre.…"
+- cap. 11 · "…Emma sentì il ronzio e vide il foglio uscire ancora caldo.…" → "…Emma sentì il *frrr* della stampante e vide il foglio uscire ancora ca…"
+- cap. 13 · "…Dal corridoio passò il carrello del caffè delle dieci,…" → "…Dal corridoio passò, *cri-cri*, il carrello del caffè delle dieci,…"
+- cap. 14 · "…l'orologio vibrò in un modo diverso, due impulsi corti…" → "…l'orologio vibrò in un modo diverso, *bzz bzz*, due impulsi corti…"
+- cap. 14 · "…L'eWatch vibrò con il ronzio lungo.…" → "…L'eWatch vibrò con il ronzio lungo, *bzzzz*.…"
+- cap. 14 · "…salì il clic metallico del nastro che riprendeva a girare.…" → "…salì il *clac* metallico del nastro che riprendeva a girare.…"
+
 ## Import 2026-10-31 (notte) — blocco R1, due punti a metà frase (giro completo)
 
 Fonte: audit del giro; 95 occorrenze nei 14 capitoli, 30 ammesse (dialogo, titoli, Morse, testo citato, etichette), le altre riformulate con punto, virgola o apposizione. Applicate in blocco su approvazione dell'autore ("Sì tutto"). Il cap. 14 chiude anche le ultime due righe del giro ("rumore di fondo", giubbotto).

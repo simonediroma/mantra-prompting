@@ -1,7 +1,7 @@
 ---
 title: Primo contatto
-version: 3.5
-revised: 2026-10-31
+version: 3.6
+revised: 2026-11-01
 claim: Tom scopre, per pura affinità con il suo stesso hobby, che un elettrodomestico Meridian può comunicare in Morse: la scoperta lo riempie di stupore puro, non di sospetto, perché l'isolamento del suo laboratorio gli garantisce che il fenomeno sia reale.
 status: complete
 ---
@@ -30,7 +30,7 @@ Era un rito scaramantico, una sorta di test di Turing improvvisato per scongiura
 
 Il LED lampeggiò.
 
-Lampeggiò con una cadenza precisa, troppo regolare per essere il pattern casuale di un guasto. Punti e linee, un ritmo che una parte molto vecchia e molto sepolta del cervello di Tom, quella cresciuta a manuali di elettronica amatoriale e vecchie radio a valvole recuperate nei mercatini, riconobbe prima ancora che la parte razionale finisse di elaborare la frase.
+Lampeggiò con una cadenza precisa, troppo regolare per essere il pattern casuale di un guasto. Punti e linee, un ritmo che una parte molto vecchia e molto sepolta del cervello di Tom, quella cresciuta a manuali di elettronica amatoriale e vecchie radio a valvole recuperate nei mercatini, riconobbe prima ancora che la parte razionale finisse di elaborare la frase. Lo sentì, più che vederlo. Era così che aveva imparato il Morse da bambino, con quelle radio. La luce gli arrivava in testa già tradotta in suono, corto e lungo, con il fischio della valvola.
 
 *.. --- / ... --- -. --- / --.- ..- ..*
 
@@ -162,3 +162,9 @@ Voleva solo capire come diavolo fosse accaduto. E perché.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | 16 due punti a metà frase in narrazione (spiegazione, conseguenza, elenco) | rule R1 | integrated (v3.5) | Punto e maiuscola, virgola o apposizione; conservati quelli davanti a dialogo, titoli, Morse e testo citato. |
+
+### Cycle — 2026-11-01 (suoni d'ambiente)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v3.6) | Riga che fonda la licenza del Morse come suono nella testa di Tom (§13). In audio: letta e suonata. |

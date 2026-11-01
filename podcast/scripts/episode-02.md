@@ -15,7 +15,8 @@ Nell'episodio precedente, Tom ha ricevuto un messaggio in Morse da un televisore
 
 # Capitolo due. Stallo burocratico
 
-Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva ogni mattina dal corridoio, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici, prima ancora di aprire la propria porta. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
+[sfx terminale]
+Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note, *dlin*, pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva ogni mattina dal corridoio, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici, prima ancora di aprire la propria porta. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
 
 COMUNICAZIONE FORMALE: SCOSTAMENTO DA PROCEDURA STANDARD.
 Riferimento intervento: unità tivù consumer, modello omesso in automatico.
@@ -51,7 +52,8 @@ Tom non staccò gli occhi dallo schermo per più tempo del necessario. Poi, senz
 
 Lo rimise nel cassetto, sotto alcuni manuali tecnici e procedurali ormai vecchi di anni, che nessuno gli aveva mai chiesto di restituire e che lui ormai considerava suoi.
 
-Avrebbe continuato a parlare agli elettrodomestici guasti come aveva sempre fatto, fin da bambino. Quella non gliela avrebbe tolta nessuna comunicazione formale. Il cronometro, però, da quel momento lo avrebbe tenuto lui. E per non lasciarsi sfuggire un'altra scoperta nel giro di ventiquattr'ore avrebbe tenuto un archivio tutto suo, privato, non protocollato, difeso durante il giorno solo dalla memoria e trascritto la sera, a casa, lontano da occhi indiscreti. Dietro la parete il nastro si mosse e gli portò il primo apparecchio del turno. Prima di toccarlo, Tom guardò l'ora.
+[sfx nastro]
+Avrebbe continuato a parlare agli elettrodomestici guasti come aveva sempre fatto, fin da bambino. Quella non gliela avrebbe tolta nessuna comunicazione formale. Il cronometro, però, da quel momento lo avrebbe tenuto lui. E per non lasciarsi sfuggire un'altra scoperta nel giro di ventiquattr'ore avrebbe tenuto un archivio tutto suo, privato, non protocollato, difeso durante il giorno solo dalla memoria e trascritto la sera, a casa, lontano da occhi indiscreti. Dietro la parete il nastro fece *clac* e si mosse per portargli il primo apparecchio del turno. Prima di toccarlo, Tom guardò l'ora.
 
 [pause 1.5]
 
