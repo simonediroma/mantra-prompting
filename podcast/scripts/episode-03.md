@@ -31,6 +31,7 @@ Si appoggiò al banco con tutte e due le mani, in piedi, perché gli sgabelli re
 
 Il LED lampeggiò.
 
+[sfx morse NO SONO QUI CON TE under]
 No. Sono. Qui. Con. Te.
 
 Prima di lasciarlo spegnere, ripeté la stessa identica domanda, quasi d'istinto, giusto per essere sicuro di non essersela immaginata.

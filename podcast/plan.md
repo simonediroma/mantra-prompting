@@ -46,6 +46,11 @@ Con ElevenLabs i termini inglesi restano come nel libro: valgono solo le regole 
 | 8:00:01 (cap. 15, futuro) | le otto, zero zero e un secondo | da scrivere così nel copione |
 | compacting context, checksum, LED, IA, Meridian(s), reset, log | invariati | letti correttamente |
 
+## Suoni d'ambiente e Morse (2026-11-01)
+
+- **Onomatopee**: nel testo in corsivo (*clac*, *bzz bzz*, *driin*…), una o due per capitolo, sempre una macchina o l'edificio. Il generatore dei copioni le converte in `[sfx nome]`: la voce le legge e il suono vero suona (palette sintetizzata in `podcast/sfx/`, sostituibile con wav propri; livelli `sfx_level`, `sfx_bed_level`, `sfx_bed_seconds` nel config). `sfx_open` nel frontmatter del copione mette un sottofondo sotto l'apertura.
+- **Morse**: nei capitoli dal POV di Tom le trascrizioni suonano come punti e linee autentici, timbro di vecchia radio a valvole, prima della lettura a scatti ("Io. Sono. Qui."). È l'eco nella testa di Tom, che ha imparato il Morse con le radio: traduce la luce in suono (cap. 1). Messaggi oltre tre parole vanno sotto la frase letta, non prima. Mai nei capitoli di Emma, che non traduce niente. Livello `sfx_morse_level` (default 0,28).
+
 ## Annunci di apertura e chiusura
 
 Gli annunci di chiusura non citano più il titolo del capitolo successivo (due su tredici si erano rotti per rinominazioni): solo la frase di gancio, senza spoiler. Testi in `teaser:` nel frontmatter di ogni copione; il riassunto iniziale in `recap:`.

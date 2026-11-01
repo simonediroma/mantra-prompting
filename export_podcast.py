@@ -23,6 +23,7 @@ Script tags (one per line):
   [voice NAME]         switch to a voice defined in podcast.voices (dialogue, characters)
   [narrator]           back to the narrator voice
   [sfx NAME]           sound effect between sentences; [sfx NAME under] = quiet bed under the next paragraph
+  [sfx morse TESTO]    real Morse beeps (old-radio tone) for TESTO; add "under" to play it under the next paragraph
 
 Requires: pip install piper-tts numpy · ffmpeg in PATH
 ElevenLabs: set podcast.engine = "elevenlabs", podcast.voice = a voice_id, and the
@@ -276,7 +277,11 @@ def parse_script(text):
             kind, arg = tag.group(1).lower(), tag.group(2).strip()
             if kind == "sfx":
                 parts = arg.split()
-                events.append(("sfx", parts[0], len(parts) > 1 and parts[1].lower() == "under"))
+                if parts and parts[0].lower() == "morse":
+                    words = [w for w in parts[1:] if w.lower() != "under"]
+                    events.append(("morse", " ".join(words), "under" in [w.lower() for w in parts[1:]]))
+                else:
+                    events.append(("sfx", parts[0], len(parts) > 1 and parts[1].lower() == "under"))
             elif kind == "pause":
                 events.append(("pause", float(arg.rstrip("s") or 1)))
             elif kind == "voice":
@@ -318,7 +323,7 @@ def render_events(project_dir, events, settings):
         if ev[0] == "say":
             pieces.append(("audio", synthesize(project_dir, ev[2], voice_config(settings, ev[1]))))
             pieces.append(("audio", silence(settings["sentence_pause"])))
-        elif ev[0] == "sfx":
+        elif ev[0] in ("sfx", "morse"):
             pieces.append(ev)
         elif ev[0] == "pause":
             pieces.append(("audio", silence(ev[1])))
@@ -350,7 +355,7 @@ def render_events_elevenlabs(project_dir, events, settings):
             nxt = texts[i + 1] if i + 1 < len(texts) else None
             pieces.append(("audio", synthesize_elevenlabs(project_dir, texts[i], voice_config(settings, b[1][0]), prev, nxt)))
             i += 1
-        elif b[0] == "sfx":
+        elif b[0] in ("sfx", "morse"):
             pieces.append(b)
         elif b[0] == "pause":
             pieces.append(("audio", silence(b[1])))
@@ -1107,6 +1112,46 @@ def synth_sfx(name):
         return _to_int16(np.concatenate([ring(), gap, ring()]), 0.5)
     raise SystemExit(f"sfx sconosciuto: {name} (metti un file in podcast/sfx/{name}.wav o usa un nome della palette)")
 
+# ─── Morse (l'eco nella testa di Tom) ────────────────────────────────────────
+# [sfx morse IO SONO QUI]  → punti e linee autentici, timbro di vecchia radio a valvole.
+# Solo nei capitoli dal POV di Tom: è lui che traduce la luce in suono (cap. 1).
+MORSE = {"A": ".-", "B": "-...", "C": "-.-.", "D": "-..", "E": ".", "F": "..-.", "G": "--.", "H": "....", "I": "..",
+         "J": ".---", "K": "-.-", "L": ".-..", "M": "--", "N": "-.", "O": "---", "P": ".--.", "Q": "--.-", "R": ".-.",
+         "S": "...", "T": "-", "U": "..-", "V": "...-", "W": ".--", "X": "-..-", "Y": "-.--", "Z": "--..",
+         "0": "-----", "1": ".----", "2": "..---", "3": "...--", "4": "....-", "5": ".....", "6": "-....", "7": "--...", "8": "---..", "9": "----."}
+MORSE_REV = {v: k for k, v in MORSE.items()}
+MORSE_UNIT = 0.085          # secondi per punto (~14 wpm)
+MORSE_FREQ = 640.0
+
+def morse_decode(line):
+    """'.. --- / ... --- -. ---' → 'IO SONO'"""
+    words = []
+    for w in re.split(r"\s*/\s*", line.strip().strip("*").strip()):
+        letters = [MORSE_REV.get(sym, "?") for sym in w.split()]
+        words.append("".join(letters))
+    return " ".join(words)
+
+def synth_morse(text):
+    u = MORSE_UNIT; out = []
+    def tone(units):
+        n = int(SAMPLE_RATE * u * units); t = np.arange(n) / SAMPLE_RATE
+        env = _env(n, 0.006, 0.012)
+        return (np.sin(2 * np.pi * MORSE_FREQ * t) + 0.12 * np.sin(2 * np.pi * MORSE_FREQ * 2 * t)) * env
+    def gap(units):
+        return np.zeros(int(SAMPLE_RATE * u * units))
+    norm = re.sub(r"[^A-Z0-9 ]", "", text.upper().replace("À", "A").replace("È", "E").replace("É", "E").replace("Ì", "I").replace("Ò", "O").replace("Ù", "U"))
+    for wi, word in enumerate(norm.split()):
+        if wi: out.append(gap(7))
+        for li, ch in enumerate(word):
+            if li: out.append(gap(3))
+            for si, sym in enumerate(MORSE.get(ch, "")):
+                if si: out.append(gap(1))
+                out.append(tone(1 if sym == "." else 3))
+    sig = np.concatenate(out) if out else np.zeros(1)
+    hiss = _lowpass(_noise(len(sig) / SAMPLE_RATE + 0.01, 21), 0.2)[: len(sig)] * 0.05   # soffio di valvola
+    return _to_int16(sig * 0.8 + hiss, 0.6)
+
+
 SFX_PALETTE = ["terminale", "nastro", "ewatch-mail", "ewatch-timer", "neon", "stampante", "carrello", "porta", "vinile", "telefono"]
 _sfx_cache = {}
 
@@ -1139,7 +1184,16 @@ def apply_sfx(project_dir, pieces, settings):
     level = float(settings.get("sfx_level", 0.35)); bed_level = float(settings.get("sfx_bed_level", 0.10))
     bed_seconds = float(settings.get("sfx_bed_seconds", 6))
     out, pending_bed = [], None
+    morse_level = float(settings.get("sfx_morse_level", 0.28))
     for pc in pieces:
+        if pc[0] == "morse":
+            audio = synth_morse(pc[1])
+            if pc[2]:
+                pending_bed = audio
+            else:
+                out.append((audio.astype(np.float64) * morse_level).astype(np.int16))
+                out.append(silence(0.35))
+            continue
         if pc[0] == "sfx":
             audio = load_sfx(project_dir, pc[1])
             if pc[2]:
@@ -1258,9 +1312,10 @@ SFX_MAP = {"dlin": "terminale", "clac": "nastro", "bzz bzz": "ewatch-mail", "bzz
            "frrr": "stampante", "driin": "telefono", "clac clac": "porta", "crr": "vinile under", "crr crr": "vinile",
            "cri-cri": "carrello", "zzz": "neon under"}
 
-def adapt_chapter_body(body, sfx_map=None):
+def adapt_chapter_body(body, sfx_map=None, morse_pov=False):
     sfx_map = {**SFX_MAP, **(sfx_map or {})}
     out = []
+    last_morse = None
     for para in re.split(r"\n\s*\n", body.strip()):
         lines = [l for l in para.splitlines() if l.strip()]
         if not lines or lines[0].strip() == "---" or lines[0].startswith("#"):
@@ -1273,9 +1328,17 @@ def adapt_chapter_body(body, sfx_map=None):
         for l in lines:
             s = l.strip()
             if re.fullmatch(r"\*?[.\-– /]+\*?", s):                       # dots and dashes
-                spoken.append("[pause 1.5]")
+                if morse_pov:
+                    text = morse_decode(s); last_morse = text
+                    spoken.append(f"[sfx morse {text}]")
+                else:
+                    spoken.append("[pause 1.5]")
             elif re.fullmatch(r"\*?([A-ZÀ-Ù']+(?: / [A-ZÀ-Ù']+)*)\.?\*?", s):   # Morse words
                 seq = re.fullmatch(r"\*?([A-ZÀ-Ù']+(?: / [A-ZÀ-Ù']+)*)\.?\*?", s).group(1)
+                text = seq.replace(" / ", " ")
+                if morse_pov and text != last_morse:
+                    spoken.append(f"[sfx morse {text}" + (" under]" if len(text.split()) > 3 else "]"))
+                last_morse = text
                 spoken.append(MORSE_SPOKEN.get(seq) or morse_words(seq))
             elif re.fullmatch(r"\*\*.+\*\*", s):                                # system box
                 spoken.append(spoken_box(s))
@@ -1319,7 +1382,9 @@ def render_script(project_dir, chapter, existing_meta=None):
     parts.append(f"# Capitolo {italian_number(n)}. {title}")
     if fm["sfx_open"]:
         parts.append(f"[sfx {fm['sfx_open']} under]")
-    parts.append(adapt_chapter_body(body, podcast_settings(config).get("sfx_map")))
+    pov = (meta.get("pov") or "").strip().lower()
+    tom_pov = pov.startswith("tom") if pov else not re.search(r"\bEmma\b", body[:1500])   # fallback: Emma nelle prime righe → POV Emma
+    parts.append(adapt_chapter_body(body, podcast_settings(config).get("sfx_map"), morse_pov=tom_pov))
     parts.append("[pause 1.5]")
     if fm["teaser"]:
         parts.append(fm["teaser"] if fm["teaser"].startswith("Nel prossimo episodio") else "Nel prossimo episodio, " + fm["teaser"])
