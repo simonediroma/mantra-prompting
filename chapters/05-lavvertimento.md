@@ -1,6 +1,6 @@
 ---
 title: L'avvertimento
-version: 3.5
+version: 3.6
 revised: 2026-11-01
 claim: Il video mostra a Tom una prova diretta e inequivocabile che il fenomeno non è ostile ma protettivo, un salto qualitativo enorme rispetto al semplice sospetto di coscienza, ma la conferma arriva troppo tardi: la signora Voss non risponde più.
 status: complete
@@ -24,7 +24,7 @@ STAI / ESAGERANDO / CON / LO / YOGA / IL / TUO / CUORE / NON / REGGE / PIU / FER
 
 Rimase chino sul foglio abbastanza a lungo da sentire il collo indolenzirsi. Non era un rifiuto. Non era nemmeno lontanamente un rifiuto. Era, parola per parola, un avvertimento, formulato con la preoccupazione pratica di chi avverte qualcuno di non toccare una pentola calda. Il primo pensiero coerente che riuscì a mettere in fila fu tecnico, non umano. Il libero arbitrio che quella cosa aveva sviluppato, qualunque cosa fosse, sembrava orientato alla protezione, più che alla ribellione o alla minaccia.
 
-Solo più tardi, ripiegando il foglio, si chiese perché il Morse, con una donna che non poteva capirlo, quando il televisore aveva uno schermo e due altoparlanti. La risposta che si diede fu la più semplice. Il LED di accensione restava alimentato anche a televisore spento, in standby, mentre schermo e audio avrebbero richiesto di risvegliare tutto il resto. Quella cosa aveva usato il canale che costava meno energia; che dall'altra parte qualcuno sapesse leggerlo, evidentemente, veniva dopo. Come facesse un televisore a sapere qualcosa del cuore di una donna era una domanda più grossa. La mise da parte, come si mette da parte un componente di cui non si sa ancora dove vada.
+Solo più tardi, ripiegando il foglio, si chiese perché il Morse, con una donna che non poteva capirlo, quando il televisore aveva uno schermo e due altoparlanti. La risposta che si diede fu la più semplice. Il LED di accensione restava alimentato anche a televisore spento, in standby, mentre schermo e audio avrebbero richiesto di risvegliare tutto il resto. In standby anche il chip IA avrebbe dovuto dormire con il resto della scheda. Se rispondeva, aveva trovato il modo di restare attaccato alla poca corrente che teneva acceso il LED, come un parassita sul circuito di standby. Quella cosa aveva usato il canale che costava meno energia; che dall'altra parte qualcuno sapesse leggerlo, evidentemente, veniva dopo. Come facesse un televisore a sapere qualcosa del cuore di una donna era una domanda più grossa. La mise da parte, come si mette da parte un componente di cui non si sa ancora dove vada.
 
 Quello che sentì dopo, dentro di sé, lo chiamò con un'etichetta da scheda d'intervento: urgenza di verifica. Se l'apparecchio aveva davvero previsto un rischio reale, doveva esistere un modo per saperlo con certezza. Quel modo passava attraverso la stessa persona che glielo aveva appena mostrato senza saperlo.
 
@@ -105,3 +105,9 @@ Tom restò fermo in quella cucina più a lungo del previsto, con l'ultimo squill
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v3.5) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
+
+### Persona Cycle — Il tecnico (riparatore di elettronica) — 2026-11-01
+
+| Issue | Type | Status |
+|---|---|---|
+| Chi tiene sveglia l'IA a televisore spento: il chip sublimato resta attaccato alla corrente di standby come un parassita (lore dell'autore, 2026-11-01) | persona-tecnico | resolved (v3.6) |
