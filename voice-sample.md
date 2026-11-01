@@ -1,6 +1,6 @@
 # Voice Sample
 
-> Estratto automatico dal cap. 15 — Le 8:00:01 (v2.0).
+> Estratto automatico dal cap. 15 — Le 8:00:01 (v2.1).
 
 ## Apertura
 
@@ -12,4 +12,4 @@ Mentre svitava, il cuore gli era sceso. Il quadrante, al polso, era tornato a co
 
 ## Chiusura
 
-Scrisse l'esito, *riparato, sostituito giunto*, poi posò il tritatutto sul nastro con la sua ciotola rigata. Aprì la risposta. Scrisse «Ciao Emma» e si fermò lì, con il cursore che lampeggiava dopo la virgola. La risposta alla sua domanda ce l'aveva, parola per parola, con la voce della signora che rideva. Non "non riusciva". Proprio non voleva. Solo che quelle parole stavano in una telefonata fatta dal suo telefono, con la scusa di un servizio qualità. Su un server di Meridian non c'era modo di scriverle senza scrivere anche il resto. Qualunque altra frase, dopo «Ciao Emma», lei l'avrebbe smontata in una riga. Dietro la parete il nastro riprese a girare e portò via il tritatutto. Tom cancellò le due parole, lasciò la finestra aperta e si voltò verso il banco ad aspettare il pezzo successivo, con la porta ancora accostata nell'angolo dell'occhio.
+Nei secondi prima del pezzo successivo aprì la risposta. Scrisse *Ciao Emma,* e si fermò lì, con il cursore che lampeggiava dopo la virgola. La risposta alla sua domanda ce l'aveva, parola per parola, con la voce della signora che rideva. Non "non riusciva". Proprio non voleva. Solo che quelle parole stavano in una telefonata fatta dal suo telefono, con la scusa di un servizio qualità. Su un server di Meridian non c'era modo di scriverle senza scrivere anche il resto. Qualunque altra frase, dopo quella virgola, lei l'avrebbe smontata in una riga. Dietro la parete il nastro fece il suo rumore e gli portò il pezzo successivo. Tom cancellò le due parole, lasciò la finestra aperta e si voltò verso il banco, con la porta ancora accostata nell'angolo dell'occhio.
