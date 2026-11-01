@@ -1,6 +1,6 @@
 ---
 episode: 15
-title: "Capitolo 15 — Le 8:00:01"
+title: "Capitolo 15 — Le 08:00:01"
 description: "Una mail già scritta aspetta Tom al primo secondo del turno, con una domanda che solo lui e una donna morta potevano fare. La porta, per la prima volta, è aperta."
 source: chapters/15-il-bivio.md
 status: "script"
@@ -13,7 +13,7 @@ Nell'episodio precedente, Tom ha risposto a Emma con i fatti del registro, tenen
 
 [pause 1]
 
-# Capitolo quindici. Le 8:00:01
+# Capitolo quindici. Le 08:00:01
 
 Alle otto meno un quarto il corridoio dell'assistenza aveva ancora l'odore della notte, detergente e aria ferma. Tom lo attraversò come ogni mattina, con il cappuccio della felpa abbassato, la chiave già in mano. Entrò, accese il neon, che faceva la stessa luce di gennaio in qualunque mese, posò la chiave sul banco. La doppia mandata, quella mattina, non la diede. La porta restò com'era, accostata, con un palmo di corridoio in vista. In dodici anni non l'aveva mai lasciata così. La chiudeva a doppia mandata per lavorare senza nessuno addosso, ma il giorno prima una sua mail era partita da un computer di Meridian verso un indirizzo che non c'entrava niente con la sua lista di riparazioni. Se qualcuno aveva deciso di venire a vedere chi era Tom e cosa faceva nella sua stanza, sarebbe venuto a piedi, da quel corridoio. Una porta chiusa gli avrebbe fatto sentire soltanto bussare. Una porta accostata gli faceva vedere la gente arrivare dal fondo, quando era ancora gente che passava. Voleva sapere se c'era qualcuno che non passava e basta. Si sedette sullo sgabello troppo basso, di tre quarti, con la porta nell'angolo dell'occhio. Il flussante del giorno prima non se n'era andato del tutto. Il banco era vuoto, pulito, con il panno degli attrezzi piegato in quattro dove l'aveva lasciato. Per un quarto d'ora non successe niente, che era proprio quello per cui arrivava con un quarto d'ora di anticipo.
 

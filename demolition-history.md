@@ -22,7 +22,7 @@
 | Ch. 12 — Solo un tecnico? (fuso, ex 12 + ex 13) | 3 | 12 | 0 | 3 |
 | Ch. 13 — La correlazione | 1 | 4 | 0 | 1 |
 | Ch. 14 — La fiducia di Tom | 1 | 7 | 0 | 0 |
-| Ch. 15 — Le 8:00:01 | 1 | 7 | 0 | 0 |
+| Ch. 15 — Le 08:00:01 | 1 | 7 | 0 | 0 |
 
 ---
 
@@ -285,7 +285,7 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | §4 "La lesse tutta d'un fiato." paragrafo-lampo | style (pattern) | integrated (v2.0) | Da assorbire nel paragrafo circostante in integrazione. |
 | R-110 (cap. 11, deferred): la prima risposta di Emma mai mostrata | foundation | integrated (v2.0) | Letta da Tom in flashback ai §6-7 (al lei, smonta il bluff dei log). |
 
-### Ch. 15 — Le 8:00:01
+### Ch. 15 — Le 08:00:01
 
 #### Cycle 1 — 2026-11-01
 

@@ -1,6 +1,6 @@
 # Voice Sample
 
-> Estratto automatico dal cap. 15 — Le 8:00:01 (v2.1).
+> Estratto automatico dal cap. 15 — Le 08:00:01 (v2.1).
 
 ## Apertura
 
