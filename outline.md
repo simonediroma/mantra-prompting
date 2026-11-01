@@ -227,6 +227,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Contenuto della mail (da leggere nel cap. 18)**: diretta, senza più finzione: dice di aver letto della morte della signora, di aver notato il televisore nella foto, chiede se la donna si sentisse *minacciata* dall'apparecchio.
 **Differenza con la mail delle 8:00:01 (cap. 15)**: quella era una domanda controllata su cosa pensava la signora; questa è la prima volta che Emma nomina la morte e lascia cadere la copertura dell'ignara. Alza la posta: rivela che a lei importa, non solo che sa.
 **Beat chiave**: primo cedimento emotivo di Emma visibile al lettore, punto di non ritorno della sua compostezza.
+**Seme dell'avatar (autore, 2026-11-01)**: qui, in una riga di passaggio dal POV di Emma, la "modalità presenza" (avatar nei meeting come pratica normale in Meridian, retorica del benessere): l'opzione vista di sfuggita o la raccomandazione aziendale, mentre aspetta Tom e non sa ancora che le servirà nel cap. 18.
 **Collegamento al precedente**: il silenzio di Tom dopo il cap. 15.
 **Collegamento al successivo**: la notifica arriva a Tom e, venticinque minuti dopo, a Pete.
 **Stato**: `to-write`
