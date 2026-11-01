@@ -2,7 +2,7 @@
 
 > Created: 2026-11-01
 > Last updated: 2026-11-01 (demolizione)
-> Status: open
+> Status: complete
 
 ## Macro
 chapter
@@ -11,13 +11,13 @@ chapter
 chapters/15-il-bivio.md
 
 ## Current step
-integrate
+— (completo, v2.0)
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
 - [x] demolish
-- [ ] integrate
+- [x] integrate
 
 ## Notes
 - 2026-11-01: aperta su outline v0.2 (cap. 15 = solo la mail delle 8:00:01 + deduzione eWatch + passo di Pete; bivio nel cap. 17). Prima di scrivere, giro di dettagli con l'autore.
@@ -29,3 +29,4 @@ integrate
 - 2026-11-01: bozza v1.0 (~1.700 parole di testo). Titolo provvisorio "Le 8:00:01" (parallelo con "Le 23:34 di venerdì"; il bivio è passato al cap. 17): da confermare, altrimenti torna "Il bivio". File rimasto `15-il-bivio.md`.
 - 2026-11-01: demolizione ciclo 1, 7 critiche, tutte risolte (vedi Demolition Log del capitolo). Decisioni dell'autore: (1) eWatch vibra solo per notifiche/timer, ponte sotteso; Tom ha visto l'eWatch al polso della signora nella foto del post del fratello (cap. 6, stessa foto dell'articolo del cap. 12) e l'ha annotato nel quaderno; deduzione altamente probabile, mai certa. (2) Scheda intera, allerta di Tom nel cap. 3 dentro i suoi tempi. (3) Via "poi trenta"; è il televisore a vedere il cuore, l'orologio misura. (4) Verifica di conformità in una riga, orologio sullo sfondo. (5) "Anni di incroci evitati" senza "dodici". (6) Niente vetro: porta socchiusa dall'arrivo, vedetta per capire se qualcuno è sulle sue tracce; Pete passa intero. (7) Riformulare tic e chiusura.
 - Integrazione: cap. 15 (v2.0) + ricadute su cap. 3 §17 e cap. 6 §31 + ledger (foto del fratello = foto dell'articolo; eWatch consumer da anni; via "vetro smerigliato").
+- 2026-11-01: integrazione completata (cap. 15 v2.0; cap. 3 v3.6 §17; cap. 6 v4.6 §31 e §37; ledger, outline, tom.md, la-signora.md, mappa-eventi). Status complete.

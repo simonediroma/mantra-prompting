@@ -1,6 +1,6 @@
 ---
 title: Il ricondizionamento
-version: 4.5
+version: 4.6
 revised: 2026-11-01
 claim: Tom trova la conferma definitiva e irreversibile che l'avvertimento del televisore era fondato, la signora Voss è morta come previsto, ma la scoperta che lo turba di più, tecnicamente, è che il dispositivo non si sia limitato a comunicare come una persona senziente: sembra aver fatto anche una diagnosi clinica precisa, abbastanza da prevedere cosa sarebbe successo.
 status: complete
@@ -28,13 +28,13 @@ Non gli interessava la morte in sé. Non voleva fare giustizia a una signora che
 
 Prima di tutto, però, doveva sapere se la causa fosse compatibile con l'avvertimento che il dispositivo aveva provato a dare. Se fosse morta per un incidente in strada, o per una malattia che non avesse nulla a che fare con l'attività fisica, tutto si sarebbe ridimensionato. Non era un ragionamento razionale, lo sapeva. Ma una cosa era aver trovato la prova che un televisore potesse relazionarsi con l'esterno come una persona senziente. Un'altra, ben diversa, era che quello stesso dispositivo avesse anche imparato a formulare diagnosi cliniche precise, al punto da prevedere quello che poi sarebbe successo.
 
-Lo cercò quella sera, da casa, con la finestra aperta per la prima volta da mesi. Non era il tipo di ricerca da fare al lavoro. Bastò poco. Sotto il nome della signora Voss, su un social, c'era un post del fratello, con una foto di qualche anno prima e poche righe asciutte: *Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.* Sotto, una fila di condoglianze. Niente incidenti né coincidenze sfortunate. Il cuore, proprio come aveva detto il televisore.
+Lo cercò quella sera, da casa, con la finestra aperta per la prima volta da mesi. Non era il tipo di ricerca da fare al lavoro. Bastò poco. Sotto il nome della signora Voss, su un social, c'era un post del fratello, con una foto di qualche anno prima e poche righe asciutte: *Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.* Sotto, una fila di condoglianze. Nella foto la signora Voss era in piedi nel suo salotto, con il televisore spento alle spalle e al polso un eWatch, il modello che Meridian vendeva nei negozi da anni e che quell'inverno aveva regalato anche a lui. Niente incidenti né coincidenze sfortunate. Il cuore, proprio come aveva detto il televisore.
 
 Quello che restava ancora poco chiaro era se ci fosse una relazione tra il video rivisto in loop come un mantra dalla signora Voss e l'atto di presa di coscienza del televisore. Non aveva nessuna prova che ci fosse. Aveva solo due fatti messi in fila. Il televisore si era rifiutato di accendersi proprio mentre lei gli chiedeva quel video; il messaggio che aveva lampeggiato al suo posto parlava di yoga. Era poco, lo sapeva. Del primo televisore, quello di quasi quattro mesi prima, non sapeva nemmeno cosa guardasse il suo proprietario.
 
 Non aveva molte strade davanti a sé. L'unica tangibile era il video. Decise che doveva trovarlo, per capire se nascondesse qualcosa.
 
-Riaprì il quaderno e scrisse, sotto la voce della signora Voss, una sola riga in più: *causa confermata. Vedi video: perché quello, non un altro.*
+Riaprì il quaderno e scrisse, sotto la voce della signora Voss, due righe in più. Nella colonna dei dati del proprietario, l'eWatch al polso nella foto, un apparecchio Meridian nella stessa casa, niente di più. Sotto, *causa confermata. Vedi video: perché quello, non un altro.*
 
 Poi tirò fuori il telefono, rivide il video della signora Voss e trascrisse l'unica frase che lei diceva al televisore, per partire da lì: «Dai, accenditi, e proiettami il video yoga di quella bella ragazza con cui mi alleno.»
 
@@ -116,3 +116,9 @@ Aprì l'app di YouTube, copiò la frase nella barra di ricerca e premette invio.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v4.5) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
+
+### Cycle — 2026-11-01 (ricaduta dal cap. 15, ciclo 1, critica 1)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Tom non aveva mai visto la signora Voss con un eWatch: la deduzione del cap. 15 non aveva il suo dato | foundation | integrated (v4.6) | §31: la foto del post del fratello (la stessa dell'articolo del cap. 12) mostra l'eWatch al polso; §37: Tom lo annota nel quaderno tra i dati del proprietario, come un dato qualsiasi. |
