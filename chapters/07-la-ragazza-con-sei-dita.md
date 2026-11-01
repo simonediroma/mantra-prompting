@@ -1,6 +1,6 @@
 ---
 title: La ragazza con sei dita
-version: 5.4
+version: 5.5
 revised: 2026-11-01
 claim: Tom trova il video citato dalla signora Voss e, riguardandolo più volte senza sapere bene cosa stia cercando, individua un dettaglio impossibile per un corpo umano reale, un piede che cambia anatomia da fotogramma a fotogramma, la prima prova tecnica concreta che quel video non è mai stato girato da una persona in carne e ossa, ma soltanto generato.
 status: complete
@@ -10,7 +10,7 @@ Si alzò dalla scrivania e attraversò la stanza, che faceva insieme da studio, 
 
 Il disco era *Tango* dei Matia Bazar. Non lo metteva da anni. Era la sua musica per concentrarsi davanti a uno schermo, l'unica capace di dargli quella specifica lucidità che nessun altro genere, in nessun'altra lingua, era mai riuscito a replicare. Non parlava italiano, non l'aveva mai imparato per davvero, ma con quella lingua entrava comunque in sintonia in un modo che non sapeva spiegarsi del tutto. Forse i racconti di suo padre e di sua nonna, il ricordo vivido di una terra che i loro trisavoli avevano lasciato più di un secolo prima, la Sardegna, gli erano rimasti addosso più di quanto avesse mai ammesso.
 
-Il suo cognome, in fondo, veniva proprio da lì, anche se non ci sarebbe potuto risalire nessuno in azienda. Vardju. Un nome che suonava slavo, quasi minaccioso, dietro il quale, a sentire i racconti di famiglia, si nascondeva solo un impiegato della dogana distratto e un trisavolo sardo, Mauro Vargiu, con la sfortuna di essersi presentato al controllo subito dopo un immigrato albanese di cognome Djurdoku. L'impiegato, convinto che viaggiassero insieme, non si era nemmeno preso la briga di chiedere come si scrivesse davvero il cognome. Erano bastate due lettere, una g diventata d e una i diventata j, e Vargiu era diventato Vardju sulla carta, per sempre. A Tom quella storpiatura non era mai dispiaciuta. Anzi, in Meridian, un cognome dal suono così ambiguo gli dava un'aria da smanettone che il suo lavoro, da solo, non gli avrebbe mai garantito.
+Il suo cognome, in fondo, veniva proprio da lì, anche se non ci sarebbe potuto risalire nessuno in azienda. Vardju. Un nome che suonava slavo, quasi minaccioso, dietro il quale, a sentire i racconti di famiglia, si nascondeva solo un impiegato della dogana distratto e un trisavolo sardo, Mauro Vargiu, con la sfortuna di essersi presentato al controllo subito dopo un immigrato albanese di cognome Djurdoku. L'impiegato, convinto che viaggiassero insieme, non si era nemmeno preso la briga di chiedere come si scrivesse davvero il cognome. Erano bastate due lettere, una g diventata d e una i diventata j. Vargiu era diventato Vardju sulla carta, per sempre. A Tom quella storpiatura non era mai dispiaciuta. Anzi, in Meridian, un cognome dal suono così ambiguo gli dava un'aria da smanettone che il suo lavoro, da solo, non gli avrebbe mai garantito.
 
 Mentre, dopo un *crr* di polvere, partiva *Vacanze romane*, la prima canzone dell'album, Tom si tolse gli occhiali da lettura, li pulì sul bordo della felpa, li rimise, lasciò il telefono appoggiato contro la solita pila di libri e riaprì la stessa ricerca sul computer. Affrontò i risultati di YouTube come un guasto multiplo, provando e scartando, eliminando prima le variabili più ovvie e non le più interessanti. Fuori i tutorial animati, i disegni di omini stilizzati che mostravano le posizioni su uno sfondo bianco, i canali che mettevano in copertina un corpo e in video tutt'altra cosa. Fuori anche i pochi con un uomo a dimostrare gli esercizi. La frase della signora Voss era chiara, era una ragazza. Restarono una ventina di video, tutti con una bella ragazza come protagonista, dedita a dimostrare gli esercizi in carne e ossa.
 
@@ -87,3 +87,9 @@ Tornò indietro alla pagina del video e cliccò sul nome del canale: eTv.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v5.4) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
+
+### Cycle — 2026-11-01 (regola ', e')
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| §3 ", e Vargiu era diventato" in narrazione | rule (avoid) | integrated (v5.5) | Punto. |
