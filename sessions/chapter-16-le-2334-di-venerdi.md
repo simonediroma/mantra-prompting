@@ -1,7 +1,7 @@
 # Session: chapter — chapters/16-le-2334-di-venerdi.md
 
 > Created: 2026-11-01
-> Last updated: 2026-11-01
+> Last updated: 2026-11-01 (dialogo)
 > Status: open
 
 ## Macro
@@ -25,3 +25,4 @@ ask-before-writing
 - Calendario (autore, 2026-11-01): il sabato si lavora, soprattutto sui turni come quello di Tom; il cap. 15 di sabato (G25) non è un problema. La domenica nessuno scrive: i botta e risposta si fermano per ventiquattro ore e riprendono il lunedì. Il venerdì delle 23:34 è il G31.
 - Seme dell'avatar (autore, 2026-11-01, da main): nel cap. 16 va piantata una riga sulla "modalità presenza", l'avatar nei meeting come pratica normale in Meridian (retorica del benessere: non mostrare casa, laboratorio, volto stanco). Dal POV di Emma: l'opzione vista di sfuggita o un collega in call con l'avatar. Serve perché l'avatar dei cap. 18-19 sia una maschera legittima.
 - **Deciso (autore, 2026-11-01)**: il seme dell'avatar va nel cap. 16, non nel 15 (chiuso, nessuna call in scena). Dal POV di Emma: l'opzione "modalità presenza" vista di sfuggita o la raccomandazione aziendale sul benessere, mentre aspetta Tom e non sa ancora che le servirà (ironia drammatica). Una riga, di passaggio. Entra nella checklist del dialogo del 16.
+- **Deciso (autore, 2026-11-01), punto (2)**: opzione B. Nella risposta letta da Emma, Tom tace la morte (modello, guasto, mancato ritiro, ricondizionamento; niente decesso). Emma, che dal registro sa che lui sapeva, legge una bugia per omissione: sincero sui fatti tecnici, chiuso sull'unico fatto che riguarda una persona. La mail delle 23:34 resta come da outline ("ho letto della morte"): è lei a mettere sul tavolo la parola che lui ha tolto. Il thread per Pete (cap. 17-18) resta una riparazione banale. Ricaduta: chiudere C-37 nel ledger (book-memory) e nell'outline del cap. 14 quando il 16 è scritto.
