@@ -1,12 +1,12 @@
 ---
 title: Stallo burocratico
-version: 3.4
-revised: 2026-10-31
+version: 3.5
+revised: 2026-11-01
 claim: Tom scopre il prezzo istituzionale della propria curiosità, una sanzione minima ma precisa: impara non a smettere di indagare, ma a farlo con più cautela, proprio mentre perde l'accesso diretto al televisore anomalo.
 status: complete
 ---
 
-Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva ogni mattina dal corridoio, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici, prima ancora di aprire la propria porta. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
+Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note, *dlin*, pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva ogni mattina dal corridoio, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici, prima ancora di aprire la propria porta. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
 
 **COMUNICAZIONE FORMALE: SCOSTAMENTO DA PROCEDURA STANDARD**
 **Rif. intervento: unità TV consumer, mod. [omesso in automatico]**
@@ -42,7 +42,7 @@ Tom non staccò gli occhi dallo schermo per più tempo del necessario. Poi, senz
 
 Lo rimise nel cassetto, sotto alcuni manuali tecnici e procedurali ormai vecchi di anni, che nessuno gli aveva mai chiesto di restituire e che lui ormai considerava suoi.
 
-Avrebbe continuato a parlare agli elettrodomestici guasti come aveva sempre fatto, fin da bambino. Quella non gliela avrebbe tolta nessuna comunicazione formale. Il cronometro, però, da quel momento lo avrebbe tenuto lui. E per non lasciarsi sfuggire un'altra scoperta nel giro di ventiquattr'ore avrebbe tenuto un archivio tutto suo, privato, non protocollato, difeso durante il giorno solo dalla memoria e trascritto la sera, a casa, lontano da occhi indiscreti. Dietro la parete il nastro si mosse e gli portò il primo apparecchio del turno. Prima di toccarlo, Tom guardò l'ora.
+Avrebbe continuato a parlare agli elettrodomestici guasti come aveva sempre fatto, fin da bambino. Quella non gliela avrebbe tolta nessuna comunicazione formale. Il cronometro, però, da quel momento lo avrebbe tenuto lui. E per non lasciarsi sfuggire un'altra scoperta nel giro di ventiquattr'ore avrebbe tenuto un archivio tutto suo, privato, non protocollato, difeso durante il giorno solo dalla memoria e trascritto la sera, a casa, lontano da occhi indiscreti. Dietro la parete il nastro fece *clac* e si mosse per portargli il primo apparecchio del turno. Prima di toccarlo, Tom guardò l'ora.
 
 ## Demolition Log
 
@@ -93,3 +93,9 @@ Avrebbe continuato a parlare agli elettrodomestici guasti come aveva sempre fatt
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | 8 due punti a metà frase in narrazione (spiegazione, conseguenza, elenco) | rule R1 | integrated (v3.4) | Punto e maiuscola, virgola o apposizione; conservati quelli davanti a dialogo, titoli, Morse e testo citato. |
+
+### Cycle — 2026-11-01 (suoni d'ambiente)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v3.5) | 2 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |

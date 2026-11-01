@@ -1,12 +1,12 @@
 ---
 title: Il ricondizionamento
-version: 4.4
-revised: 2026-10-31
+version: 4.5
+revised: 2026-11-01
 claim: Tom trova la conferma definitiva e irreversibile che l'avvertimento del televisore era fondato, la signora Voss è morta come previsto, ma la scoperta che lo turba di più, tecnicamente, è che il dispositivo non si sia limitato a comunicare come una persona senziente: sembra aver fatto anche una diagnosi clinica precisa, abbastanza da prevedere cosa sarebbe successo.
 status: complete
 ---
 
-Il televisore arrivò al suo banco in mezzo a una decina di altri apparecchi destinati al ricondizionamento, tutti con la stessa etichetta gialla sul retro. Il carrello del ricondizionamento aveva un odore suo, plastica tiepida e detergente, che Tom riconosceva prima ancora di vederlo entrare dalla porta. Lo stesso modello, lo stesso colore di quello della signora Voss. Abbastanza per fargli rallentare il polso, non abbastanza per esserne certo. Il numero di serie di quel televisore lo ricordava a memoria, come tutti gli altri che aveva deciso di annotare nel suo archivio.
+Il televisore arrivò al suo banco in mezzo a una decina di altri apparecchi destinati al ricondizionamento, tutti con la stessa etichetta gialla sul retro. Il carrello del ricondizionamento si annunciava dal corridoio con un *cri-cri* di ruote e aveva un odore suo, plastica tiepida e detergente, che Tom riconosceva prima ancora di vederlo entrare dalla porta. Lo stesso modello, lo stesso colore di quello della signora Voss. Abbastanza per fargli rallentare il polso, non abbastanza per esserne certo. Il numero di serie di quel televisore lo ricordava a memoria, come tutti gli altri che aveva deciso di annotare nel suo archivio.
 
 Lo confrontò con quello stampato sul retro dell'apparecchio. Coincideva. Era il televisore della signora Voss.
 
@@ -110,3 +110,9 @@ Aprì l'app di YouTube, copiò la frase nella barra di ricerca e premette invio.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | 8 due punti a metà frase in narrazione (spiegazione, conseguenza, elenco) | rule R1 | integrated (v4.4) | Punto e maiuscola, virgola o apposizione; conservati quelli davanti a dialogo, titoli, Morse e testo citato. |
+
+### Cycle — 2026-11-01 (suoni d'ambiente)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v4.5) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |

@@ -23,7 +23,8 @@ Non era un libro elegante ma un quaderno nero che gli aveva regalato un fornitor
 
 In tre mesi, quei modelli gli erano capitati tra le mani solo quattro volte in tutto. Non erano apparecchi particolarmente diffusi, evidentemente, il che rendeva il campione piccolo ma, proprio per questo, facile da tenere sott'occhio. La prima voce, quella che aveva dato inizio a tutto il resto, era il caso zero, il televisore del primo contatto, l'unica pagina del quaderno che avesse una nota a margine, aggiunta e poi cancellata e poi riscritta tre volte, che alla fine diceva solo: *irripetibile? verificare.* Le altre tre erano arrivate dopo, nei mesi successivi. Erano guasti veri, banali, il tipo di cose che rendono un tecnico cinico prima del tempo. Alimentatori bruciati, un cortocircuito, un firmware corrotto durante un aggiornamento, nel modo ordinario in cui questo genere di cose va storto.
 
-Arrivò un martedì, verso la fine del turno, sul nastro, con la scheda del cliente nella busta di plastica appiccicata sul retro. Era un modello identico a quello di tre mesi prima, portato da un altro cliente che, come tutti gli altri, raccontava: non si accende più, non risponde al telecomando. Tom lo prese in carico con la calma professionale di chi ha ormai smesso di aspettarsi sorprese dal proprio lavoro, il che, si rese conto solo dopo, era già di per sé un piccolo autoinganno, visto quanta parte del suo tempo libero passava ad aspettarne proprio una.
+[sfx nastro]
+Arrivò un martedì, verso la fine del turno, sul nastro, *clac*, con la scheda del cliente nella busta di plastica appiccicata sul retro. Era un modello identico a quello di tre mesi prima, portato da un altro cliente che, come tutti gli altri, raccontava: non si accende più, non risponde al telecomando. Tom lo prese in carico con la calma professionale di chi ha ormai smesso di aspettarsi sorprese dal proprio lavoro, il che, si rese conto solo dopo, era già di per sé un piccolo autoinganno, visto quanta parte del suo tempo libero passava ad aspettarne proprio una.
 
 Fece la procedura standard con la stessa efficienza cronometrata di sempre. Alimentazione, condensatori, verifica di conformità (checksum pulito, ovviamente, lo era sempre), reset software. Sette minuti, dodici secondi. Metà del tempo consentito. Ne restavano quasi sette da spendere come voleva, purché restasse dentro il perimetro di un intervento che, sulla carta, si sarebbe potuto concludere in qualunque momento.
 
@@ -31,6 +32,7 @@ Si appoggiò al banco con tutte e due le mani, in piedi, perché gli sgabelli re
 
 Il LED lampeggiò.
 
+[sfx morse NO SONO QUI CON TE under]
 No. Sono. Qui. Con. Te.
 
 Prima di lasciarlo spegnere, ripeté la stessa identica domanda, quasi d'istinto, giusto per essere sicuro di non essersela immaginata.

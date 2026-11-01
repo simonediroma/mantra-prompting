@@ -232,6 +232,8 @@ La pianificazione completa dei capitoli 1-25 è in `outline.md`; qui viene aggiu
 | Forum del giradischi | I post di Tom sono firmati quasi tutti con un'ora tra mezzanotte e le due | Cap. 12 (v6.4) |
 | Avvertimento del televisore Voss | Dati: battito dall'eWatch della signora (stesso account di casa). Deduzione: del televisore, durante le sessioni di "Yoga fit" ripetute. L'eWatch non decide e non sa; non attribuire mai all'orologio l'avvertimento | Cap. 5; meccanismo nel cap. 15 |
 | Avatar di Emma nel meeting | Figura simile alla ragazza dei video yoga di eTv, ma di almeno cinquant'anni, vicina all'età di Tom (autore, 2026-10-31); capelli rossi ricci, occhi verdi, lentiggini come da profilo. Non è la ragazza del video: è la stessa matrice invecchiata | Cap. 18-19 (pianificati) |
+| Morse in audio (regola, autore 2026-11-01) | Nei capitoli di Tom il Morse si sente come bip di vecchia radio: è la sua traduzione interiore della luce in suono, imparata da bambino con le radio a valvole. Nei capitoli di Emma il LED resta muto. Nel testo non cambia nulla, salvo la riga del cap. 1 che fonda la licenza | Cap. 1 (copione), 3, 5 |
+| Onomatopee (regola, autore 2026-11-01) | In corsivo, una o due per capitolo, solo macchine ed edificio, mai emozioni; suono fisso per macchina: dlin terminale, clac nastro, bzz bzz / bzzzz eWatch, driin telefono, clac clac doppia mandata, frrr stampante, cri-cri carrello, crr disco | Cap. 2-14 (proposte in corrections.md) |
 | Tragitto casa-lavoro di Tom | Va al lavoro in autobus; la fermata è a due isolati da casa; nel cap. 4 corre per la prima volta in dodici anni per prenderlo | Cap. 4 (v3.1) |
 | Cucina di Tom | Telefona alla signora in piedi in cucina, luce del mattino di taglio sul tavolo, felpa già addosso | Cap. 4 (v3.1) |
 | Nastro trasportatore dell'assistenza | Si sente dal corridoio all'inizio del turno; porta i primi apparecchi verso le stanze dei tecnici | Cap. 2 (v3.1) |
@@ -254,6 +256,7 @@ La pianificazione completa dei capitoli 1-25 è in `outline.md`; qui viene aggiu
 
 | Date | Work done | Next step |
 |---|---|---|
+| 2026-11-01 | Suoni d'ambiente: 15 onomatopee nei cap. 2-9, 11, 13, 14; riga del Morse-come-suono nel cap. 1 (v3.6); tag [sfx] e [sfx morse] nello script, palette sintetizzata, neon sotto l'apertura dell'ep. 1 | Rigenerare audio (autore); cap. 15 |
 | 2026-10-31 | Pianificazione cap. 15-20 approvata: ferita e tell di Tom fissati, Pete nel corridoio del 15, POV alternato per 17-20, cap. 20 autonomo, avatar di Emma (ragazza di eTv a cinquant'anni), metodo `chapter` un capitolo per sessione | Aprire il cap. 15 con `ghost-writer:chapter` |
 | 2026-10-31 | Giro completo chiuso: cap. 1-14 rivisti uno per uno (schede, approvazioni, un commit per capitolo); blocco R1 (65 due punti riformulati nei cap. 1-7 e 11); cap. 14 v2.3. Audit: tutte le issue chiuse tranne la promessa eWatch (cap. 15) | Merge; pianificazione cap. 15-20 |
 | 2026-10-31 | Giro completo: consistency-check (7 issue, nessuna critica); cap. 1 v3.4 (§7). Meccanismo eWatch/televisore fissato | Giro: cap. 2 (hard reset nel 3 e 6, "rumore di fondo" nel 10, incipit del 12 lungo il percorso) |

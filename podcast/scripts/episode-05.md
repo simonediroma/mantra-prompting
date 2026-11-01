@@ -29,6 +29,7 @@ Il video era girato in prima persona dalla signora Voss stessa, il telefono tenu
 
 Tom dovette ricostruire il messaggio a tratti, qualche lettera qui, qualche lettera lì, mai la frase per intero in un solo passaggio continuo. Mandò indietro il video decine di volte, fermandolo fotogramma per fotogramma ogni volta che l'inquadratura tornava sul LED, come aveva imparato a fare da bambino con le registrazioni delle radio amatoriali, quando un segnale debole si lasciava decifrare solo a pezzi, non tutto insieme. I frammenti raccolti gli lasciarono solo una manciata di lettere da completare su un'intera frase, abbastanza poche da non lasciare davvero alcun dubbio. E fu proprio questo, più della fatica della ricostruzione, a colpirlo. Tra le parole della signora Voss e i propri sospetti, si era preparato a trovare qualcosa di ostile. Il senso della frase, una volta ricomposta, andava esattamente nella direzione opposta.
 
+[sfx morse STAI ESAGERANDO CON LO YOGA IL TUO CUORE NON REGGE PIU FERMATI O RISCHI LA VITA under]
 Stai esagerando con lo yoga. Il tuo cuore non regge più. Fermati, o rischi la vita.
 
 Rimase chino sul foglio abbastanza a lungo da sentire il collo indolenzirsi. Non era un rifiuto. Non era nemmeno lontanamente un rifiuto. Era, parola per parola, un avvertimento, formulato con la preoccupazione pratica di chi avverte qualcuno di non toccare una pentola calda. Il primo pensiero coerente che riuscì a mettere in fila fu tecnico, non umano. Il libero arbitrio che quella cosa aveva sviluppato, qualunque cosa fosse, sembrava orientato alla protezione, più che alla ribellione o alla minaccia.
@@ -43,7 +44,8 @@ Prima di andare a dormire aprì il quaderno, aggiungendo una riga sotto la voce 
 
 Il mattino dopo, in piedi in cucina come la prima volta, con il consueto quarto d'ora di anticipo davanti a sé, compose il numero della signora Voss.
 
-Squillò a lungo. Nessuno rispose.
+[sfx telefono]
+Squillò a lungo, *driin*, *driin*, *driin*. Nessuno rispose.
 
 Riprovò una seconda volta, lasciando passare qualche minuto, calcolando che forse era semplicemente sotto la doccia, o in cucina, o troppo lontana dal telefono per sentirlo la prima volta. Squillò di nuovo, uguale, fino a interrompersi da solo senza nemmeno la cortesia di una segreteria.
 

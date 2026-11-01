@@ -1,7 +1,7 @@
 ---
 title: L'avvertimento
-version: 3.4
-revised: 2026-10-31
+version: 3.5
+revised: 2026-11-01
 claim: Il video mostra a Tom una prova diretta e inequivocabile che il fenomeno non è ostile ma protettivo, un salto qualitativo enorme rispetto al semplice sospetto di coscienza, ma la conferma arriva troppo tardi: la signora Voss non risponde più.
 status: complete
 ---
@@ -34,7 +34,7 @@ Prima di andare a dormire aprì il quaderno, aggiungendo una riga sotto la voce 
 
 Il mattino dopo, in piedi in cucina come la prima volta, con il consueto quarto d'ora di anticipo davanti a sé, compose il numero della signora Voss.
 
-Squillò a lungo. Nessuno rispose.
+Squillò a lungo, *driin*, *driin*, *driin*. Nessuno rispose.
 
 Riprovò una seconda volta, lasciando passare qualche minuto, calcolando che forse era semplicemente sotto la doccia, o in cucina, o troppo lontana dal telefono per sentirlo la prima volta. Squillò di nuovo, uguale, fino a interrompersi da solo senza nemmeno la cortesia di una segreteria.
 
@@ -99,3 +99,9 @@ Tom restò fermo in quella cucina più a lungo del previsto, con l'ultimo squill
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | 12 due punti a metà frase in narrazione (spiegazione, conseguenza, elenco) | rule R1 | integrated (v3.4) | Punto e maiuscola, virgola o apposizione; conservati quelli davanti a dialogo, titoli, Morse e testo citato. |
+
+### Cycle — 2026-11-01 (suoni d'ambiente)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v3.5) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |

@@ -6,12 +6,15 @@ source: chapters/01-primo-contatto.md
 status: "approved"
 recap: ""
 teaser: "la curiosità di Tom ha un prezzo, che Meridian sa bene come fargli pagare."
+sfx_open: "neon"
 ---
 Mantra Prompting. Incontrando Emma. Episodio uno.
 
 [pause 1]
 
 # Capitolo uno. Primo contatto
+
+[sfx neon under]
 
 Il televisore era acceso da dodici minuti e non aveva ancora emesso uno solo dei suoni tipici della televisione, il jingle di un gioco a premi, l'applauso di un pubblico pagato, una risata registrata partita al momento sbagliato, lo squillo isterico di un'edizione straordinaria del telegiornale. Il che, considerato tutto, lo rendeva comunque l'interlocutore più valido che Tom avesse incontrato in settimana.
 
@@ -37,9 +40,9 @@ Era un rito scaramantico, una sorta di test di Turing improvvisato per scongiura
 
 Il LED lampeggiò.
 
-Lampeggiò con una cadenza precisa, troppo regolare per essere il pattern casuale di un guasto. Punti e linee, un ritmo che una parte molto vecchia e molto sepolta del cervello di Tom, quella cresciuta a manuali di elettronica amatoriale e vecchie radio a valvole recuperate nei mercatini, riconobbe prima ancora che la parte razionale finisse di elaborare la frase.
+Lampeggiò con una cadenza precisa, troppo regolare per essere il pattern casuale di un guasto. Punti e linee, un ritmo che una parte molto vecchia e molto sepolta del cervello di Tom, quella cresciuta a manuali di elettronica amatoriale e vecchie radio a valvole recuperate nei mercatini, riconobbe prima ancora che la parte razionale finisse di elaborare la frase. Lo sentì, più che vederlo. Era così che aveva imparato il Morse da bambino, con quelle radio. La luce gli arrivava in testa già tradotta in suono, corto e lungo, con il fischio della valvola.
 
-[pause 1.5]
+[sfx morse IO SONO QUI]
 
 Tom smise di respirare per un tempo imbarazzante. Poi prese carta e penna, come un uomo di un secolo sbagliato. Trascrisse.
 
@@ -59,12 +62,14 @@ Fece quello che qualunque smanettone degno di questo nome avrebbe fatto a quel p
 
 Il LED restò fermo per tre secondi (un'eternità, in termini di elettronica), poi riprese a lampeggiare.
 
+[sfx morse SI]
 Sì.
 
 «Sei una IA di questo modello, quella che consiglia i programmi?»
 
 Pausa più lunga, questa volta. Come se la domanda fosse, in qualche modo, meno interessante della prima, o più difficile, o entrambe le cose.
 
+[sfx morse NON LO SO]
 Non. Lo. So.
 
 «Va bene» disse Tom, ad alta voce, più a se stesso che al televisore. «Lo so cosa penserebbe chiunque sentendo questa storia: un "sì" buttato lì non dimostra niente. Lo direbbe anche un citofono programmato per essere educato.» Detto questo, cambiò registro.
@@ -75,6 +80,7 @@ Il LED lampeggiò tre volte, con una pausa identica tra un lampo e l'altro, poi 
 
 Tom ripeté allora la primissima domanda, capovolta: «In questa stanza, oltre a me, non c'è nessuno?»
 
+[sfx morse IO SONO QUI]
 Io. Sono. Qui.
 
 Identica alla prima volta, non una lettera diversa.
@@ -83,6 +89,7 @@ Poi fece l'unica domanda che non aveva niente a che vedere con log, firmware o f
 
 Il LED restò fermo più a lungo di ogni altra volta. Quando riprese a lampeggiare, disse solo:
 
+[sfx morse NON LO SO]
 Non. Lo. So.
 
 Tom fece un'altra manciata di domande, ognuna più mirata della precedente, ognuna costruita non per ottenere un'affermazione ma per vedere dove il pattern si incrinava. Era il suo modo, l'unico che conosceva, di avvicinarsi alla verità, mai chiedendola direttamente, sempre tendendo trappole gentili e osservando cosa ci cadeva dentro. Le risposte diminuirono, si fecero più corte, poi si diradarono, come una voce che si allontana lungo un corridoio.

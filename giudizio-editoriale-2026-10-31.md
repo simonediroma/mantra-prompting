@@ -257,3 +257,25 @@ Non descrizioni. Il narratore deve restare asciutto, come da config. Vuol dire c
 In `corrections.md` (import "passata descrittiva") ci sono ventinove righe, C-39…C-65, una per scena scoperta, con il testo proposto. Sono inserti da una a tre frasi e due riscritture più ampie (i tre mesi del cap. 3 e l'apertura del cap. 10), in voce, nel rispetto delle regole (niente ", e" in narrazione, niente due punti a metà frase, niente commento del narratore). Toccano tutti i capitoli tranne il 14, più l'allineamento del cap. 5 alla cucina del cap. 4 (C-49). Il costo è la rigenerazione di tutti gli episodi, che è comunque prevista in blocco.
 
 Dopo la passata la densità stimata è questa: cap. 3 da 3 a 11, cap. 7 da 5 a 10, cap. 10 da 2 a 7, cap. 13 da 6 a 9. Se dopo l'applicazione il livello non basta ancora, il passo successivo non è un'altra passata di inserti ma la riscrittura per intero delle tre scene più scoperte (i tre mesi del cap. 3, la sera del cap. 8, la mattina del cap. 10) con la scena rimessa in piedi dal corpo, come nel cap. 14.
+
+---
+
+## 8. Voti dopo il giro completo (2026-11-01)
+
+Stessi criteri della tabella iniziale (§1), stesso lettore. Prima = testo del 31 ottobre mattina, prima di ogni correzione. Dopo = `main` dopo le due passate, il giro capitolo per capitolo e il blocco R1.
+
+| Dimensione | Prima | Dopo | Perché cambia |
+|---|---|---|---|
+| Scrittura, frase per frase | 7 | 8 | Spariti i paragrafi non rifiniti (cap. 6, 13), le etichette emotive (12), i due punti a metà frase (65 riformulati, 22 ammessi), le immagini ripetute. Nessuna ", e" in narrazione, nessun trattino lungo. Il registro comico è tornato nel 14; nei capitoli di Emma resta sottile. |
+| Scrittura, struttura e ritmo | 6 | 7 | Ogni capitolo apre su un fatto e chiude su un beat; via le chiusure riassuntive (2, 4, 7, 13) e le ripetizioni tra il 12 e il 13. Restano i limiti di impianto: sei capitoli di fila senza una voce diretta (8-13), il cap. 8 che da solo non regge, i cap. 10-13 costruiti su schermate. |
+| Tom | 7 | 8 | Ha un corpo in ogni capitolo (mani sul banco, occhiali, polso, cucina, autobus), una ferita scritta nel profilo e mostrata nel 14, un tell. Il metodo è diventato carattere. |
+| Emma | 6,5 | 7 | Ha una stanza, un visitatore, un rituale che si protegge dal suo creatore. Le emozioni del 12 sono immagini, non etichette. Resta presentata attraverso i suoi strumenti più che attraverso scelte, e i suoi capitoli non hanno ancora un'immagine bassa e fisica. |
+| Pete | 4 | 4 | Nel testo è ancora una firma e un piccione: invariato per definizione, finché non arriva il 17. Il corridoio del cap. 15 e il profilo pronto lo porteranno a 6-7 appena scritto. |
+| Signora Voss | 7 | 7,5 | La radio accesa, il salotto nel video, "non lo voglio più in casa" nella pratica. Più viva da morta di quanto fosse prima. |
+| Ambiente istituzionale (Meridian) | 8 | 8,5 | Il nastro, il varco con il badge, le stanze singole, l'archivio con le sue regole d'accesso, il laboratorio fuori dalla rete aziendale: l'azienda ha un edificio, non solo un regolamento. |
+| Ambiente fisico e sensoriale | 4 | 6,5 | Densità di dettagli fisici più che raddoppiata (cap. 3 da 3 a 11 per mille parole, cap. 10 da 2 a 6), due odori, luce e stagione dichiarate. Sotto la soglia restano i capitoli di Emma (10, 11, 13 tra 6 e 7), per scelta di mondo più che per difetto. |
+| Audiolibro: testo e copioni | 6,5 | 8 | Copioni rigenerati dai capitoli e verificabili con `check`, annunci senza titolo, pronunce, Morse e pannelli letti come frasi, episodio 13 riallineato. Gli MP3 pubblicati sono ancora quelli vecchi: il voto sale a 8 solo quando l'audio sarà rigenerato. |
+
+**Media semplice**: da 6,2 a 7,2. Il salto più grande è l'ambiente fisico, il più piccolo la struttura, perché la struttura si cambia scrivendo i capitoli nuovi (voce diretta, Pete, scene invece di schermate), non correggendo i vecchi.
+
+Numeri di controllo sul testo attuale (18.138 parole): odori 2, parole di luce 13, stagione 5, "esattamente" 5, "il tipo di / il genere di" 10, "rumore di fondo" 1, ", e" in narrazione 0 fuori dalle mail, trattini lunghi 0.
