@@ -1,6 +1,6 @@
 # Voice Sample
 
-> Estratto automatico dal cap. 16 — Le 23:34 di venerdì (v2.7).
+> Estratto automatico dal cap. 16 — Le 23:34 di venerdì (v2.8).
 
 ## Apertura
 

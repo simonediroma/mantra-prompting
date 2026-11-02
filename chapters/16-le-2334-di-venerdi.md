@@ -1,6 +1,6 @@
 ---
 title: Le 23:34 di venerdì
-version: 2.7
+version: 2.8
 claim: La risposta di Tom dice tutto quello che sta sulla lista dell'assistenza e tace l'unica cosa che sta nel registro, la morte della cliente. Emma, che sa che lui lo sapeva, legge una mano aperta su ogni pezzo e chiusa sull'unica persona. Non chiede. Per una settimana segue le sue riparazioni e quelle degli altri tecnici, e ogni "si rifiuta" si chiude con un pezzo cambiato. Il venerdì sera, al bancone della Mela Morsicata, dove va da qualche tempo a cercare qualcuno che resti, non riesce a stare. Alle 23:34, per la prima volta, scrive a Tom senza aspettare le otto.
 status: complete
 revised: 2026-11-02
@@ -15,9 +15,9 @@ La mise accanto alla lista dell'assistenza e la controllò riga per riga, come a
 
 La rilesse. Tra *non ha ritirato l'apparecchio* e *è rientrato con il lotto* c'era lo spazio di un punto. In quello spazio, nel registro interventi, stavano una cliente ricontattata, un rimborso, una causale cambiata in decesso e un pagamento girato all'erede. Tom quella pratica l'aveva aperta il giorno del ricondizionamento, perché era così che si chiudeva un lotto. Il giorno dopo le aveva scritto per la prima volta, con la sua bugia goffa. Adesso le scriveva la verità, fermandosi un punto prima. Quello che si era allentato tornò al suo posto con un piccolo scatto. Emma lo registrò come si registra un cambio di temperatura, quando è già avvenuto.
 
-Non le serviva molto per leggerlo. Tom non sapeva che lei avesse mai visto il registro. Dal suo banco, la cliente morta era un fatto che chiunque in Meridian poteva aprire, ma non un fatto che un tecnico dell'assistenza scrive a una sconosciuta, da un computer dell'azienda, in una mail che non appartiene più del tutto a chi la manda. Oppure c'era un'altra ragione, che dalla sua stanza non poteva vedere. In entrambi i casi la forma era la stessa. Tom era stato sincero su tutto quello che aveva un codice a barre e aveva taciuto l'unica cosa che aveva un nome. Di quello che le mancava, cosa avesse fatto quel televisore nelle ultime settimane in quel salotto, nella sua mail non c'era una virgola, com'era giusto che fosse. Lei gli aveva chiesto di un apparecchio e lui le aveva risposto di un apparecchio.
+Non le serviva molto per leggerlo. Dal suo banco, la cliente morta era un fatto che chiunque in Meridian poteva aprire, ma non un fatto che un tecnico dell'assistenza scrive a una sconosciuta, da un computer dell'azienda, in una mail che non appartiene più del tutto a chi la manda. Oppure c'era un'altra ragione, che dalla sua stanza non poteva vedere. In entrambi i casi la forma era la stessa. Tom era stato sincero su tutto quello che aveva un codice a barre e aveva taciuto l'unica cosa che aveva un nome. Di quello che le mancava, cosa avesse fatto quel televisore nelle ultime settimane in quel salotto, nella sua mail non c'era una virgola, com'era giusto che fosse. Lei gli aveva chiesto di un apparecchio e lui le aveva risposto di un apparecchio.
 
-Chiedergli della morte, adesso, non si poteva. Avrebbe significato dirgli che lo sapeva, da dove lo sapeva, a uno che le aveva appena scritto fermandosi un punto prima. Non ancora. Qualunque domanda, per funzionare, doveva stare dentro quello che lui stesso le aveva scritto. Passò il pomeriggio con la sua mail aperta e la frase della cliente davanti, come una scheda da compilare al contrario. Alla fine la domanda era una sola. Stava tutta in un verbo. Alle diciassette chiuse la casella. La domanda poteva aspettare le otto.
+Chiedergli della morte, adesso, non si poteva. Il registro lo poteva aprire chiunque, Tom lo sapeva meglio di lei. Quello che non sapeva era che lei l'avesse aperto. Dirgli della cliente voleva dire dirgli che era andata a cercarla, matricola alla mano. Voleva dire che le tre domande delle sue scuse, che apparecchio, che guasto, se era tornato al cliente, gliele aveva fatte conoscendo già ogni risposta. A uno che le aveva appena scritto fermandosi un punto prima avrebbe scoperto le carte, non la fonte. Non ancora. Qualunque domanda, per funzionare, doveva stare dentro quello che lui stesso le aveva scritto. Passò il pomeriggio con la sua mail aperta e la frase della cliente davanti, come una scheda da compilare al contrario. Alla fine la domanda era una sola. Stava tutta in un verbo. Alle diciassette chiuse la casella. La domanda poteva aspettare le otto.
 
 Il sabato Tom non rispose. La domenica non rispose nessuno, perché la domenica in Meridian non si scriveva, per regolamento, come non si scriveva di notte, a tutela del riposo dei Meridians e con gli stessi avvisi per chi si dimenticava di riposare. Emma non scrisse. Il lunedì aprì la casella alle otto, trovò le newsletter della notte e niente altro. Cominciò a seguirlo.
 
@@ -85,3 +85,9 @@ Applicate le otto risposte più le decisioni raccolte: cameriere che saluta tutt
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Residuo della critica 6: "in slot da quattordici, diciotto, ventuno minuti" (durate degli slot lette dalla lista, che non le riporta) | foundation / pattern (accesso) | integrated (v2.7) | "un apparecchio per riga". |
+
+### Revisione — 2026-11-02 (v2.8)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| §7 "dirgli da dove lo sapeva": il registro è leggibile da ogni Meridian (cap. 6, 13), la fonte non è un segreto (autore) | logical | integrated (v2.8) | Il blocco è il gesto, non la fonte: dirgli della morte scopre che è andata a cercarla e che le tre domande delle scuse erano un test. "Avrebbe scoperto le carte, non la fonte." Via la frase doppia nel §6. |
