@@ -1,6 +1,6 @@
 ---
 title: Le 23:34 di venerdì
-version: 2.6
+version: 2.7
 claim: La risposta di Tom dice tutto quello che sta sulla lista dell'assistenza e tace l'unica cosa che sta nel registro, la morte della cliente. Emma, che sa che lui lo sapeva, legge una mano aperta su ogni pezzo e chiusa sull'unica persona. Non chiede. Per una settimana segue le sue riparazioni e quelle degli altri tecnici, e ogni "si rifiuta" si chiude con un pezzo cambiato. Il venerdì sera, al bancone della Mela Morsicata, dove va da qualche tempo a cercare qualcuno che resti, non riesce a stare. Alle 23:34, per la prima volta, scrive a Tom senza aspettare le otto.
 status: complete
 revised: 2026-11-02
@@ -21,7 +21,7 @@ Chiedergli della morte, adesso, non si poteva. Avrebbe significato dirgli che lo
 
 Il sabato Tom non rispose. La domenica non rispose nessuno, perché la domenica in Meridian non si scriveva, per regolamento, come non si scriveva di notte, a tutela del riposo dei Meridians e con gli stessi avvisi per chi si dimenticava di riposare. Emma non scrisse. Il lunedì aprì la casella alle otto, trovò le newsletter della notte e niente altro. Cominciò a seguirlo.
 
-La lista dell'assistenza si aggiornava ogni giorno, con una riga per ogni apparecchio in ingresso, la matricola, il tecnico, la frase del cliente e l'esito firmato. Emma filtrò per il nome e si trovò davanti le giornate di Tom, una sotto l'altra, in slot da quattordici, diciotto, ventuno minuti. Il sabato della sua domanda, alle otto, Tom aveva avuto un tritatutto. *Parte, fa un rumore terribile e si ferma dopo qualche secondo.* Esito, *riparato, sostituito giunto*. Il venerdì della sua risposta un aspirapolvere che secondo il cliente la sera sospirava, un forno a microonde che si accendeva da solo alle tre di notte, un altoparlante da cucina che aveva deciso di parlare soltanto in portoghese, un tostapane, una macchina del caffè, un ferro da stiro che si spegneva a metà camicia. Lesse gli esiti con la stessa attenzione con cui aveva letto la mail. Spazzole di carbone e cuscinetto. Orologio della scheda di controllo. Firmware ripristinato. Elettromagnete di sgancio. Flussometro. Sensore di inclinazione. Le frasi dei clienti erano piene di apparecchi che volevano, decidevano, si rifiutavano. Le righe di Tom erano piene di pezzi. Non ce n'era una in cui il pezzo non si trovasse.
+La lista dell'assistenza si aggiornava ogni giorno, con una riga per ogni apparecchio in ingresso, la matricola, il tecnico, la frase del cliente e l'esito firmato. Emma filtrò per il nome e si trovò davanti le giornate di Tom, una sotto l'altra, un apparecchio per riga. Il sabato della sua domanda, alle otto, Tom aveva avuto un tritatutto. *Parte, fa un rumore terribile e si ferma dopo qualche secondo.* Esito, *riparato, sostituito giunto*. Il venerdì della sua risposta un aspirapolvere che secondo il cliente la sera sospirava, un forno a microonde che si accendeva da solo alle tre di notte, un altoparlante da cucina che aveva deciso di parlare soltanto in portoghese, un tostapane, una macchina del caffè, un ferro da stiro che si spegneva a metà camicia. Lesse gli esiti con la stessa attenzione con cui aveva letto la mail. Spazzole di carbone e cuscinetto. Orologio della scheda di controllo. Firmware ripristinato. Elettromagnete di sgancio. Flussometro. Sensore di inclinazione. Le frasi dei clienti erano piene di apparecchi che volevano, decidevano, si rifiutavano. Le righe di Tom erano piene di pezzi. Non ce n'era una in cui il pezzo non si trovasse.
 
 Era un modo strano di conoscere una persona, un intervento alla volta, dalle frasi dei clienti e dalle sue. Emma non seppe cosa farsene, quindi lo tenne.
 
@@ -79,3 +79,9 @@ Applicate le otto risposte più le decisioni raccolte: cameriere che saluta tutt
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Il bancone alla Blade Runner con "quelli del suo mestiere" apre al lettore mezzo attento lo scenario di androidi tra gli umani, contro la natura software di Emma (profilo: evitare l'origine da androide) | implication (reveal) | integrated (v2.1) | Ancora anti-androide: nomi scelti, nessun nome e cognome, "la privacy non era solo uno stendardo da innalzare ma qualcosa che permeava tutto l'ambiente", "Tommy, con ogni probabilità, non si chiamava Tommy". Via i tocchi d'ambiente aggiunti in integrazione (lampade al sodio, pubblicità di dieci piani): il cyberpunk resta nel solo paragrafo su Blade Runner. |
+
+### Consistency check — 2026-11-02 (v2.7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Residuo della critica 6: "in slot da quattordici, diciotto, ventuno minuti" (durate degli slot lette dalla lista, che non le riporta) | foundation / pattern (accesso) | integrated (v2.7) | "un apparecchio per riga". |
