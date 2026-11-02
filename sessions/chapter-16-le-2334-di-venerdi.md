@@ -53,3 +53,4 @@ demolish
 - Demolizione, critica 3 (seconda faccia) respinta (autore): il salotto è un modo di dire; Tom resta la persona più vicina a lei che possa sapere qualcosa di più. In integrazione: §17 reso come speranza, non come dato.
 - Demolizione, critica 4 risolta in parte (autore): via il riferimento alle gambe (§20); il resto della densità di indizi della Mela Morsicata resta come scelta d'autore (dichiarazione nascosta voluta).
 - **Deciso (autore, 2026-11-02)**: non dire esplicitamente che nessuno mangia; deve sembrare un'abitudine del posto, come se non ci si andasse per i ravioli al vapore più buoni del mondo ma per l'ambiente creato da chi lo frequenta. In integrazione: riscrivere l'attacco di §16; valutare "cameriere che non portava niente da mangiare".
+- (autore, 2026-11-02) Aggiunta: alla Mela Morsicata il cibo è diventato secondario (dire il cambiamento nel tempo: prima i ravioli, poi l'ambiente).
