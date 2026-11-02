@@ -74,3 +74,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-02 (autore): tagliata "Emma non seppe cosa farsene, quindi lo tenne" (§10, residuo senza oggetto). v2.9, su main.
 - 2026-11-02 (autore): ripulitura delle frasi brevi a sentenza (sei tagli, sei fusioni), tenute solo quelle con funzione. v2.10, su main.
 - 2026-11-02 (autore): via "teneva il tempo" e "diceva a chi toccasse parlare" (cameriere). v2.11, su main.
+- 2026-11-02 (autore): "per riuscire a starci" → "per aumentare il piacere di starci". v2.12, su main.
