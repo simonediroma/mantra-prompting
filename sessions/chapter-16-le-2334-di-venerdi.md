@@ -67,3 +67,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-02 (autore): aggiunto il riferimento a Tor con la cipolla nella frase sulla privacy (a strati, come una cipolla; chi la sbuccia trova qualcosa per cui piangere). v2.2.
 - 2026-11-02 (autore, rettifica): "qualcosa che permeava tutto, anche gli strati di cipolla usati nella carne dei ravioli al vapore"; via la frase sullo sbucciare e piangere. v2.3.
 - 2026-11-02 (autore): "Senza nessuno che ti chiedesse mai le generalità, alla Mela Morsicata ognuno era quello che diceva di essere. Con ogni probabilità Tommy non si chiamava Tommy." v2.4.
+- 2026-11-02: v2.5, due sviste di montaggio: "Era l'unico impiegato" finiva attaccato a Tommy (ripristinato "Il cameriere era l'unico impiegato"); Tommy era nominato prima della sua entrata (la frase sul nome spostata al suo ingresso: "disse quello, che con ogni probabilità non si chiamava Tommy").
