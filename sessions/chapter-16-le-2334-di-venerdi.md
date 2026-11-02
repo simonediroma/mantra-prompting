@@ -80,3 +80,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-02 (autore): ridotte le ripetizioni del nome del ristorante nel testo, da sette a tre (insegna, "ognuno era quello che diceva di essere", "frequentatori della Mela Morsicata"). v2.14, su main.
 - 2026-11-02 (autore): Emma prende le regole alla lettera perché il codice di condotta Meridian lo chiede ai dipendenti; via "senza che nessuno gliel'avesse mai chiesto". v2.15, su main; riga in ledger.
 - 2026-11-02 (autore): il perché Emma va al bancone riscritto: convinzione mai detta che esista qualcuno come lei e che si siederà lì; quasi una richiesta d'amore per il lettore, in realtà cerca chi abbia sublimato. Via "qualsiasi ora", "qualcosa in cambio", "era raro che qualcuno tornasse". La frase "quasi successo qualcosa" resta, ora coerente con la speranza. v2.16, su main.
+- 2026-11-02 (autore): §20 armonizzato (frasi legate, fretta conservata); chiusura con «Ciao, stranger» del cameriere a qualcun altro. v2.17, su main.

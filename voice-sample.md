@@ -1,6 +1,6 @@
 # Voice Sample
 
-> Estratto automatico dal cap. 16 — Le 23:34 di venerdì (v2.16).
+> Estratto automatico dal cap. 16 — Le 23:34 di venerdì (v2.17).
 
 ## Apertura
 
@@ -14,4 +14,4 @@ Dello stesso uomo, al bancone, si ricordava volentieri un'altra cosa, che con la
 
 > **Inviata** · A: Tom · ven 23:34
 
-Da qualche parte il cameriere stava dicendo a qualcun altro che era arrivato qualcuno.
+«Ciao, stranger» disse il cameriere, da qualche parte, a qualcun altro.
