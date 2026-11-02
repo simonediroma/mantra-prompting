@@ -73,3 +73,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-02 (autore): §7, il registro è pubblico, "da dove lo sapeva" non regge; riscritto: il blocco è il gesto (è andata a cercarla, le tre domande delle scuse erano un test), "avrebbe scoperto le carte, non la fonte". Via la frase doppia nel §6. v2.8. Mergiato su main.
 - 2026-11-02 (autore): tagliata "Emma non seppe cosa farsene, quindi lo tenne" (§10, residuo senza oggetto). v2.9, su main.
 - 2026-11-02 (autore): ripulitura delle frasi brevi a sentenza (sei tagli, sei fusioni), tenute solo quelle con funzione. v2.10, su main.
+- 2026-11-02 (autore): via "teneva il tempo" e "diceva a chi toccasse parlare" (cameriere). v2.11, su main.
