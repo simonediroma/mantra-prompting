@@ -76,3 +76,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-02 (autore): via "teneva il tempo" e "diceva a chi toccasse parlare" (cameriere). v2.11, su main.
 - 2026-11-02 (autore): "per riuscire a starci" → "per aumentare il piacere di starci". v2.12, su main.
 - **Principio (autore, 2026-11-02)**: alla Mela Morsicata la gente ci va perché il posto è fico, nessuno ci sta controvoglia. In ledger ed emma.md. Da decidere: "come si torna in un posto dove una volta è quasi successo qualcosa" (speranza delusa) tenere o girare sul piacere.
+- 2026-11-02 (autore): via il cameriere che annuncia i silenzi (se vuoi stai lì e non dici nulla); la frase "si sentiva quello che la gente diceva e si vedeva…" riscritta: "quello che la gente diceva era tutto quello che c'era da vedere e da sentire". v2.13, su main.
