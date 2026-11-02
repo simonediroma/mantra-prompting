@@ -1,7 +1,7 @@
 # Session: chapter — chapters/16-le-2334-di-venerdi.md
 
 > Created: 2026-11-01
-> Last updated: 2026-11-01 (bozza)
+> Last updated: 2026-11-02 (demolizione)
 > Status: open
 
 ## Macro
@@ -11,12 +11,12 @@ chapter
 chapters/16-le-2334-di-venerdi.md
 
 ## Current step
-demolish
+integrate
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
-- [ ] demolish
+- [x] demolish
 - [ ] integrate
 
 ## Notes
@@ -57,3 +57,5 @@ demolish
 - **Regola (autore, 2026-11-02)** per il blocco della Mela Morsicata: "stona tutto ciò che è definitivo", niente affermazioni assolute (nessuno mangia / non si entra, non si esce / il cameriere non porta niente): tendenze, gesti che non si vedono, cibo in secondo piano. Proposta per la critica 5: §19 senza equazioni (via "la sarda salata era quella", "l'unica cosa… era un'altra"), solo l'eco del bere e ribere e il sofisma che arriva in quel momento. In attesa di conferma.
 - Demolizione, critica 5 risolta (autore conferma): §19 senza equazioni, solo l'eco del bere e ribere e il sofisma che arriva in quel momento.
 - Demolizione, critica 6 risolta (autore, opzione a): via gli orari di chiusura dal §10; Emma conosce Tom solo dagli esiti e dalle frasi dei clienti, niente oltre i campi della lista. Il margine dei quarantasette secondi resta una cosa di Tom.
+- Demolizione, critica 7 (autore): "con cui" non è un problema (tenuto ×2); "non si entrava, non si usciva" sbagliato, va in positivo; la digressione su Turing cambia: chi ha scelto il nome non pensava a quello che c'è dietro la mela, la colpa di essere gay nell'Inghilterra oppressiva del secondo dopoguerra (verificare i dati storici). Default salvo veto: via "Lei, a quanto pareva, pure"; riga finale tenuta come beat mostrato.
+- 2026-11-02: demolizione ciclo 1 chiusa: 7 critiche, 6 risolte, 1 respinta in parte, 1 accettata in parte, 0 rinviate. Log del capitolo e demolition-history aggiornati. Prossimo passo: integrate (v2.0), con le decisioni raccolte (cameriere e stranger, cibo secondario, niente definitivo, Turing, C-37 nell'outline del 14, C-36 in emma.md, mappa-eventi, outline cap. 18).

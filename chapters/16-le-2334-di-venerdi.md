@@ -49,3 +49,20 @@ Ci pensò dopo, come le capitava sempre. Una mail che arrivava a un Meridian fuo
 > **Inviata** · A: Tom · ven 23:34
 
 Da qualche parte il cameriere stava dicendo a qualcun altro che era arrivato qualcuno.
+
+## Demolition Log
+
+### Cycle 1 — 2026-11-02
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| §11 "non c'era un terzo caso" contraddice l'archivio corposo dei cap. 11 e 13 (decine di apparecchi che hanno smesso di obbedire, curva per ognuno) | contradiction (cap. 11, 13) | resolved | "Terzo" → "altro": un fatto sulla settimana, non un conteggio. In integrazione rivedere l'attacco "Dopo il frigorifero e il televisore Voss". |
+| §8 "la domenica la posta non circolava, per regolamento… a tutela del server": blocco tecnico che contraddice la sorveglianza Meridian (le mail fuori orario passano e fanno scattare l'alert, cap. 2 e 17) | foundation / world | resolved | È un diktat, non un impedimento, come le mail fuori orario. Riscrivere §8 come regola, con gli stessi avvisi al supervisore. Ricaduta: la domenica Emma avrebbe potuto scrivere e non lo fa. |
+| §7 "chiedergli della morte era fuori discussione… dirgli da dove" scavalcato alle 23:34 senza passaggio (la mail del cap. 18 nomina la morte) | logical / motivation | resolved | Il blocco è un "non adesso". Sei giorni senza risposta consumano le alternative: mettere sul tavolo il registro e la morte diventa la mossa più plausibile, da fare lunedì alle otto con le parole giuste; l'istinto gliela fa fare venerdì alle 23:34 nel modo peggiore. In integrazione: §7 come rinvio, un passaggio nella settimana in cui la mossa si forma; outline cap. 18 (la mail nomina il registro). |
+| §17 Emma attribuisce a Tom "cosa avesse fatto quel televisore nelle sue ultime settimane in quel salotto", che Tom non può sapere | logical | rejected (autore) | Il salotto è un modo di dire: Tom resta la persona più vicina a lei che possa sapere qualcosa di più. In integrazione la frase si rende come speranza, non come dato. |
+| Densità di indizi sul reveal nella scena della Mela Morsicata (si ritrova seduta, chi fa il suo mestiere, Turing, Blade Runner, nessuno mangia né entra, ping/quit/iterazione, mail senza alzarsi, "senza sapere dove fossero le gambe") contro la promessa del reveal nel Libro 2 | implication (promessa centrale) | resolved in part / accepted (autore) | Via il riferimento alle gambe. Il resto resta come dichiarazione nascosta voluta. |
+| §19 il sofisma cambia mappatura (la mail è prima il bere, poi la sarda) e la catena di Emma è rovesciata rispetto a quella di Tommy | logical (il turn) | resolved | Via le equazioni ("la sarda salata era quella", "l'unica cosa… era un'altra"): resta l'eco del bere e ribere con più sete ogni volta e il sofisma che arriva in quel momento. |
+| §10 Emma legge dalla lista orari di chiusura al secondo (ultimo minuto, ultimo secondo): accesso mai fondato, materiale dei supervisori (pattern "certezze di Emma = accesso") | foundation / pattern | resolved | Opzione (a): via gli orari; Emma conosce Tom solo dagli esiti e dalle frasi dei clienti. Il margine dei quarantasette secondi resta una cosa di Tom. |
+| Tic e pattern: due "con cui"; cascate negative (§15 "non si entrava… non si usciva", §17); paragrafo-lampo finale; "Lei, a quanto pareva, pure" (§7) | style (pattern) | resolved | "Con cui" tenuto due volte (deroga dell'autore). §15 riscritto in positivo, con la regola "niente definitivo" per tutto il blocco del bancone. Via "pure". Riga finale tenuta come beat mostrato, separata dal box. |
+
+Decisioni dell'autore raccolte durante il ciclo (per l'integrazione): il cameriere saluta tutti quando si siedono e quando si alzano, «Ciao, stranger» a chi non conosce; il cibo è diventato secondario (i ravioli al vapore più buoni del mondo, ma ci si va per l'ambiente di chi lo frequenta), mai detto "nessuno mangia"; la digressione su Turing: chi ha scelto il nome non pensava a quello che c'è dietro la mela, la colpa di essere gay nell'Inghilterra del dopoguerra (dati storici da verificare prima di scrivere).

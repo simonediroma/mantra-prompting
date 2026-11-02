@@ -23,6 +23,7 @@
 | Ch. 13 — La correlazione | 1 | 4 | 0 | 1 |
 | Ch. 14 — La fiducia di Tom | 1 | 7 | 0 | 0 |
 | Ch. 15 — Le 08:00:01 | 1 | 7 | 0 | 0 |
+| Ch. 16 — Le 23:34 di venerdì | 1 | 6 | 0 | 2 (1 respinta in parte, 1 accettata in parte) |
 
 ---
 
@@ -35,7 +36,7 @@
 **Confermati come ricorrenti (revisione cross-capitolo 2026-10-10, cap. 1-12):**
 - **Capitoli che ripetono il beat di chiusura del precedente** (cap. 12 vecchio/13 vecchio fusi il 2026-10-24; vecchio cap. 14 tagliato il 2026-10-27): prima di scrivere un capitolo, verificare che il suo cambiamento non sia già avvenuto nel finale del capitolo prima.
 - **Riassunti di `book-memory.md` non riallineati dopo le integrazioni** (cap. 9 ciclo 3: elementi tolti con R-90/R-93 ancora presenti): dopo ogni integrazione aggiornare anche il riassunto del capitolo.
-- **Certezze di Emma = accesso, non deduzione** (cap. 10 ciclo 2): quando Emma "sa per certo" qualcosa di tecnico, è perché vede l'ecosistema Meridian. Promessa per il reveal: mostrare che ha davvero accesso ai log dei dispositivi Meridian.
+- **Certezze di Emma = accesso, non deduzione** (cap. 10 ciclo 2; cap. 16 ciclo 1: orari di chiusura al secondo letti dalla lista, tolti): quando Emma "sa per certo" qualcosa di tecnico, è perché vede l'ecosistema Meridian. Promessa per il reveal: mostrare che ha davvero accesso ai log dei dispositivi Meridian.
 - **Tic lessicali da AI-slop**: "esattamente", "con la stessa X con cui…", "il tipo di", "restò a fissare", immagini-firma riusate tra capitoli ("fotogramma per fotogramma… da bambino", "trappole gentili", "componente guasto"). Limiti: max 1 per capitolo; "restò a fissare" in max 3 capitoli in tutto. Ricontrollare a ogni nuovo capitolo.
 - **Struttura negativa "Non X. Non Y. Z."** usata come effetto: max 1 per capitolo.
 - **Paragrafi-lampo di una riga** (cap. 1, 3, 11 ciclo 3: "Niente."; cap. 12 ciclo 2: "Voss.", "Tom."): assorbirli nel paragrafo circostante.
@@ -66,6 +67,8 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 - **Cap. 7**: digressione iniziale (giradischi, Matia Bazar, dogana) subito dopo il cliffhanger del cap. 6. Scelta d'autore: freno a mano voluto sul più bello.
 - **Cap. 10**: Emma, meticolosa e con accesso all'ecosistema Meridian, non fa ricerche su Tom prima di decidere come rispondere. Limite accettato per ora: lo farà più avanti.
 - **Cap. 10**: quattro paragrafi di routine prima della mail; routine ripresa nel cap. 11. Scelta d'autore: servono a presentare Emma nel suo primo capitolo POV (stesso "freno a mano" del cap. 7).
+- **Cap. 16**: la scena della Mela Morsicata concentra molti indizi sulla natura di Emma (chi fa il suo mestiere, Turing, Blade Runner, lessico di chat, nessun arrivo né uscita, mail senza alzarsi). Scelta d'autore: dichiarazione nascosta; tolto solo il riferimento alle gambe. Da tenere d'occhio per il reveal del Libro 2.
+- **Cap. 16**: §17, Tom "sa cosa ha fatto il televisore in salotto" è un modo di dire (respinta dall'autore); reso come speranza in integrazione.
 - **Cap. 13**: le statistiche di eTv mostrano un singolo spettatore anonimo, le sue riproduzioni giornaliere e la velocità; YouTube Studio non lo consente. Limite accettato, YouTube non nominato nel capitolo.
 
 ---
@@ -300,3 +303,18 @@ Fonte: `revision-report-2026-10-10.md`. Integrate R-01 (cap. 5), R-02 (cap. 10),
 | Tic: "dodici anni" quattro volte; chiusura che spiega in quattro frasi perché Tom non risponde invece di chiudere su un beat mostrato | style (pattern) | resolved | Riformulare in integrazione: un solo "dodici anni" oltre a quello della deroga; il silenzio mostrato, non spiegato. |
 
 Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (foto con l'eWatch, riga nel quaderno).
+
+### Ch. 16 — Le 23:34 di venerdì
+
+#### Cycle 1 — 2026-11-02 (v1.2)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Non c'era un terzo caso" vs archivio corposo (cap. 11, 13) | contradiction | resolved | "Altro" caso: fatto sulla settimana, non conteggio. |
+| Posta della domenica "non circola… a tutela del server": blocco tecnico vs alert fuori orario | foundation / world | resolved | Diktat, non impedimento; stessi avvisi al supervisore. |
+| "Dirgli da dove" fuori discussione (§7) e poi scavalcato alle 23:34 | logical / motivation | resolved | Rinvio, non blocco: dopo sei giorni mettere sul tavolo il registro è la mossa plausibile, fatta nel modo peggiore. Outline cap. 18 da aggiornare. |
+| Tom "sa cosa ha fatto il televisore in salotto" | logical | rejected (autore) | Modo di dire; reso come speranza. |
+| Densità di indizi sul reveal nella Mela Morsicata | implication | resolved in part / accepted | Via le gambe; il resto voluto. |
+| Sofisma della sarda con mappatura incoerente | logical | resolved | Via le equazioni, resta l'eco. |
+| Orari di chiusura al secondo letti dalla lista | foundation / pattern (accesso) | resolved | Via gli orari (opzione a). |
+| Tic: "con cui" ×2, cascate negative, paragrafo-lampo, "pure" | style | resolved | "Con cui" tenuto (deroga); negazioni in positivo (regola "niente definitivo"); via "pure"; riga finale tenuta come beat. |
