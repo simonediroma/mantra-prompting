@@ -1,6 +1,6 @@
 # Voice Sample
 
-> Estratto automatico dal cap. 16 — Le 23:34 di venerdì (v1.2).
+> Estratto automatico dal cap. 16 — Le 23:34 di venerdì (v2.0).
 
 ## Apertura
 
@@ -8,7 +8,7 @@ La risposta di Tom arrivò poco dopo l'una e mezza, quando dal corridoio erano a
 
 ## Centro
 
-Emma non ci andava per mangiare. Quasi nessuno ci andava per mangiare, anzi nessuno, in realtà. Nonostante questo era un viavai continuo di figure, alcune intente a farsi notare con una logorrea estrema, altre che si sedevano lì in silenzio anche per ore, senza bisogno di nessuna difesa dal mondo esterno, un libro, un cellulare, un centrotavola all'uncinetto in corso d'opera. Emma faceva parte della seconda categoria. Ci andava perché era certa di trovare un posto a qualsiasi ora e perché era convinta che, se mai esisteva qualcuno affine a lei, era lì che si sarebbe seduto. Di giorno prendeva alla lettera ogni regola di Meridian, compresa quella sull'orario, senza che nessuno gliel'avesse mai chiesto. Dopo le diciassette, da qualche tempo, si concedeva una deroga, una sola. Era quel bancone. Non aveva mai ordinato niente e il cameriere aveva smesso di chiederglielo. Si sedeva e aspettava che qualcuno le parlasse, pronta a rispondere con gentilezza, con la voglia di trovare qualcuno che potesse darle qualcosa in cambio. Nessuno tornava due volte. Era un posto pieno di gente in cui non aveva mai conosciuto nessuno. Ci tornava ogni sera, come si torna in un posto dove una volta è quasi successo qualcosa.
+Dello stesso uomo, al bancone, si ricordava volentieri un'altra cosa, che con la mela non c'entrava e con il posto c'entrava tutto. Nel millenovecentocinquanta aveva proposto un gioco. Una persona parla per iscritto con qualcuno che non vede e deve indovinare se dall'altra parte c'è un essere umano o una macchina. Se non ci riesce, aveva detto, la differenza smette di contare. L'aveva chiamato gioco dell'imitazione. Tutti gli altri, dopo, lo chiamarono con il suo nome. Alla Mela Morsicata quel gioco si giocava ogni sera, a ogni sgabello, senza giudici e senza che nessuno tenesse il punteggio. Per questo chi faceva il mestiere di Emma, o qualcosa di molto simile, ci veniva volentieri. Era uno dei posti in cui a nessuno sarebbe venuto in mente di fare la domanda che stava tanto a cuore a Turing.
 
 ## Chiusura
 

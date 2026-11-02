@@ -588,7 +588,7 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 6` (aggiornamento dopo il merge di
 
 ---
 
-### C-37 · cap. 14 · question · done (autore: tenere fuori il dettaglio; cap. 14 v2.2)
+### C-37 · cap. 14 · question · done (autore: tenere fuori il dettaglio; cap. 14 v2.2; chiuso nel cap. 16 v2.0: Tom tace la morte, opzione B)
 **Nota (regola POV mail)**: il testo della risposta di Tom non si vede, ma il suo contenuto è interamente anticipato dal ragionamento di Tom (modello, guasto, rifiuto, decesso, ricondizionamento). Quando Emma la leggerà non resterà nulla da scoprire, se non il tono. Va bene se la sorpresa prevista è la mail delle 8:00:01 e non la risposta di Tom; altrimenti tenere fuori dal ragionamento un dettaglio (per esempio che Tom le dica della morte) e lasciarlo alla lettura di Emma.
 
 ---

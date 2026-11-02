@@ -1,8 +1,8 @@
 # Session: chapter — chapters/16-le-2334-di-venerdi.md
 
 > Created: 2026-11-01
-> Last updated: 2026-11-02 (demolizione)
-> Status: open
+> Last updated: 2026-11-02 (integrazione)
+> Status: complete
 
 ## Macro
 chapter
@@ -11,13 +11,13 @@ chapter
 chapters/16-le-2334-di-venerdi.md
 
 ## Current step
-integrate
+— (completo, v2.0)
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
 - [x] demolish
-- [ ] integrate
+- [x] integrate
 
 ## Notes
 - 2026-11-01: aperta dopo la chiusura del cap. 15 (v2.1). Metodo come per il 15: prima il giro di dettagli con l'autore, poi la bozza.
@@ -61,3 +61,5 @@ integrate
 - 2026-11-02: demolizione ciclo 1 chiusa: 7 critiche, 6 risolte, 1 respinta in parte, 1 accettata in parte, 0 rinviate. Log del capitolo e demolition-history aggiornati. Prossimo passo: integrate (v2.0), con le decisioni raccolte (cameriere e stranger, cibo secondario, niente definitivo, Turing, C-37 nell'outline del 14, C-36 in emma.md, mappa-eventi, outline cap. 18).
 - (autore, 2026-11-02, integrazione) L'ambientazione della Mela Morsicata deve restare cyberpunk; la digressione sulla sessualità di Turing va bene ma non può essere l'unica: aggiunta una seconda digressione, indizio gigante, sul test di Turing (gioco dell'imitazione, 1950, due anni prima della condanna; al bancone si gioca ogni sera senza giudici; "l'unico posto dove la domanda di Turing non la faceva nessuno"). Tocchi cyberpunk: lampade al sodio e ciotole che fumano (§15), pubblicità alta dieci piani che cambia lingua (§16). Proposta v2.0 aggiornata nello scratchpad, in attesa di conferma.
 - (autore, 2026-11-02) La digressione sulla mela e la sessualità di Turing non piace: generalizzata sull'importanza di Turing nel momento storico in cui l'IA si diffonde a macchia d'olio (santo laico, premio, test, magliette; la mela fa pensare a lui, "a come era finita"). Il paragrafo sul test ora data il gioco al 1950.
+- (autore, 2026-11-02) Chiusura del paragrafo sul test: "Era uno dei posti in cui a nessuno sarebbe venuto in mente di fare la domanda che stava tanto a cuore a Turing."; mela: "a come era finita la sua vita".
+- 2026-11-02: integrazione completata, cap. 16 v2.0 (~2.600 parole), status complete. Ricadute applicate: outline (cap. 14 C-37, cap. 16 complete, cap. 18 nota sul registro), emma.md v1.5 (sere alla Mela Morsicata, eccezione C-36), book-memory (summary log, ledger, claim Settimana Meridian, session log), mappa-eventi, corrections C-37, demolition-history (integrated), voice-sample.

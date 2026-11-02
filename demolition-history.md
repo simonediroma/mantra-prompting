@@ -310,11 +310,11 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
-| "Non c'era un terzo caso" vs archivio corposo (cap. 11, 13) | contradiction | resolved | "Altro" caso: fatto sulla settimana, non conteggio. |
-| Posta della domenica "non circola… a tutela del server": blocco tecnico vs alert fuori orario | foundation / world | resolved | Diktat, non impedimento; stessi avvisi al supervisore. |
-| "Dirgli da dove" fuori discussione (§7) e poi scavalcato alle 23:34 | logical / motivation | resolved | Rinvio, non blocco: dopo sei giorni mettere sul tavolo il registro è la mossa plausibile, fatta nel modo peggiore. Outline cap. 18 da aggiornare. |
-| Tom "sa cosa ha fatto il televisore in salotto" | logical | rejected (autore) | Modo di dire; reso come speranza. |
-| Densità di indizi sul reveal nella Mela Morsicata | implication | resolved in part / accepted | Via le gambe; il resto voluto. |
-| Sofisma della sarda con mappatura incoerente | logical | resolved | Via le equazioni, resta l'eco. |
-| Orari di chiusura al secondo letti dalla lista | foundation / pattern (accesso) | resolved | Via gli orari (opzione a). |
-| Tic: "con cui" ×2, cascate negative, paragrafo-lampo, "pure" | style | resolved | "Con cui" tenuto (deroga); negazioni in positivo (regola "niente definitivo"); via "pure"; riga finale tenuta come beat. |
+| "Non c'era un terzo caso" vs archivio corposo (cap. 11, 13) | contradiction | integrated (v2.0) | "Altro" caso: fatto sulla settimana, non conteggio. |
+| Posta della domenica "non circola… a tutela del server": blocco tecnico vs alert fuori orario | foundation / world | integrated (v2.0) | Diktat, non impedimento; stessi avvisi al supervisore. |
+| "Dirgli da dove" fuori discussione (§7) e poi scavalcato alle 23:34 | logical / motivation | integrated (v2.0) | Rinvio, non blocco: dopo sei giorni mettere sul tavolo il registro è la mossa plausibile, fatta nel modo peggiore. Outline cap. 18 da aggiornare. |
+| Tom "sa cosa ha fatto il televisore in salotto" | logical | rejected (autore), reso come speranza (v2.0) | Modo di dire; reso come speranza. |
+| Densità di indizi sul reveal nella Mela Morsicata | implication | integrated in part (v2.0) / accepted | Via le gambe; il resto voluto. |
+| Sofisma della sarda con mappatura incoerente | logical | integrated (v2.0) | Via le equazioni, resta l'eco. |
+| Orari di chiusura al secondo letti dalla lista | foundation / pattern (accesso) | integrated (v2.0) | Via gli orari (opzione a). |
+| Tic: "con cui" ×2, cascate negative, paragrafo-lampo, "pure" | style | integrated (v2.0) | "Con cui" tenuto (deroga); negazioni in positivo (regola "niente definitivo"); via "pure"; riga finale tenuta come beat. |
