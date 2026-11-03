@@ -1,6 +1,6 @@
 # Voice Sample
 
-> Estratto automatico dal cap. 16 — Le 23:34 di venerdì (v4.9).
+> Estratto dal cap. 16 — Le 23:34 di venerdì (v4.9), **indicato dall'autore il 2026-11-03 come il testo più vicino al suo stile**: usarlo come riferimento di voce per i capitoli nuovi, insieme al cap. 1.
 
 ## Apertura
 
