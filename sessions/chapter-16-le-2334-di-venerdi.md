@@ -83,3 +83,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-02 (autore): §20 armonizzato (frasi legate, fretta conservata); chiusura con «Ciao, stranger» del cameriere a qualcun altro. v2.17, su main.
 - 2026-11-03 (autore: "applica tutto"): revisione strutturale v3.0. Newsletter al lunedì; pezzi accanto agli apparecchi (§9); ristorante riordinato (insegna → perché → una digressione su nome/Turing/gioco → bancone e gente → quella sera); §19 a sei frasi; gancio esplicito del sofisma. ~2.300 parole. Su main.
 - 2026-11-03 (autore): §19 troppo indiretto, riscritto diretto. v3.1, su main.
+- 2026-11-03 (autore): gancio del sofisma con il testo dell'autore ("ciò che la stava provocando", "la chiave per leggere il suo momento di impasse"). v3.2, su main.
