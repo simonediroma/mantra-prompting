@@ -85,3 +85,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-03 (autore): §19 troppo indiretto, riscritto diretto. v3.1, su main.
 - 2026-11-03 (autore): gancio del sofisma con il testo dell'autore ("ciò che la stava provocando", "la chiave per leggere il suo momento di impasse"). v3.2, su main.
 - 2026-11-03 (autore: troppo pieno, mai esercizio di stile sterile): riscrittura snella v4.0, 2468 → 1760 parole. Metafore → fatti, rimandi sciolti, frasi spezzate; tenute le frasi dell'autore. Su main.
+- 2026-11-03 (autore): rimesse le metafore più divertenti, sarcastiche e semplici (otto). v4.1, su main.
