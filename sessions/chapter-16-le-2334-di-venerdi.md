@@ -92,3 +92,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-03 (autore): quattro metafore nel ristorante (ravioli, bancone per scrupolo, entusiasmo gratis del cameriere, zii ai matrimoni). v4.4, su main.
 - 2026-11-03 (autore): ingresso al ristorante con il testo dell'autore; contrapposizione proprietari (nome provocante) / leggenda Apple-Turing (smentita dal designer); ogni venerdì, non ogni sera; perché di Emma dopo il posto. v4.5, su main.
 - 2026-11-03 (autore): proprietari e leggenda Apple in una frase sola, testo dell'autore (insegna che si fa notare, nessuna allusione al santo laico dell'informatica, come si dice del logo di Jobs). v4.6, su main.
+- 2026-11-03 (autore): "questo è un esempio di come connettere le cose" → regola R2 in style-rules.md; applicata in sette punti del capitolo. v4.7, su main.
