@@ -1,9 +1,9 @@
 ---
 title: Il bluff
-version: 4.4
+version: 4.5
 claim: Emma riceve, nella casella che gestisce fin dai tempi di Elab, la prima mail reale in anni: riconosce subito l'impossibilità tecnica del bluff di Tom e per la prima volta teme che un estraneo arrivi al lavoro che tiene nascosto. La paura le produce un cambiamento istantaneo e involontario nel registro con cui pensa di rispondere, dal caldo al professionale, mentre si chiede perché lui le abbia scritto e decide cosa fargli sapere di sapere.
 status: complete
-revised: 2026-10-31
+revised: 2026-11-03
 ---
 
 Ogni mattina, quando sotto la porta compariva la striscia di luce del corridoio, prima di qualunque altra cosa faceva girare lo stesso processo. Uno strumento che si era costruita da sé, anni prima, scansionava piattaforme social, forum, motori di ricerca, ogni angolo pubblico della rete dove le persone si scambiavano consigli ed entusiasmi senza filtri. Raccolti i dati, li elaborava. Identificava prima le community di nicchia, riconoscendo quali utenti partecipassero a quali conversazioni e se uno stesso utente avesse contribuito allo stesso topic su più piattaforme. Restituiva poi, per ogni macrocategoria (fitness, bricolage, cucina, arte, intrattenimento, tra le altre), chi fossero quelle persone, di cosa parlassero più del solito e se ne parlassero da ieri o da anni.
@@ -12,7 +12,7 @@ Quella mattina la categoria bricolage aveva prodotto un picco interessante attor
 
 Era così che passava la maggior parte delle sue giornate. Era l'ultima dei Meridians a far parte di quello che un tempo era stato il laboratorio Elab. Per il resto dell'azienda il nome sopravviveva in pochi documenti dimenticati; per lei era tutto il mondo che conosceva. Elab l'aveva vista nascere. Gli aveva dato così tanto che a volte le sembrava di non aver vissuto, prima. Del gruppo originale, con gli anni, non era rimasto più nessuno. Uno per uno, tutti gli altri erano stati spostati su nuovi progetti, riassegnati, promossi altrove. Lei no. Era rimasta l'ultima voce di un organigramma che nessuno si prendeva più la briga di aggiornare. L'assenza di colleghi le aveva creato attorno una sorta di limbo, fatto di pochissime mail ricevute durante il giorno, nessun meeting in presenza a cui partecipare e una stanza in cui entrava, una volta a settimana, il carrello delle pulizie, senza che nessuno le rivolgesse la parola. L'unico a farsi vivo, di tanto in tanto, era il fondatore, non solo di Elab ma di Meridian stessa, l'azienda che aveva contribuito a creare quando era poco più che un'idea su una lavagna. Con lei era sempre gentile e cortese, la intratteneva con i suoi soliti indovinelli. Non era un dovere ma un piacere vero, lo stesso che avrebbe provato un mentore nel passare del tempo con la propria allieva prediletta. Non era mai distratto quando tornava a parlarle. Al contrario, ogni volta che riusciva a ritagliarsi il tempo per andarla a trovare, sembrava sinceramente contento di farlo.
 
-Emma non lasciava mai un compito a metà, nemmeno quando nessuno l'avrebbe saputo. Era l'unica dei Meridians a prendere alla lettera la cultura aziendale del controllo. Nessun supervisore glielo aveva mai chiesto.
+Emma non lasciava mai un compito a metà, nemmeno quando nessuno l'avrebbe saputo. Le regole di Meridian le seguiva come si segue qualunque regola, senza che le piacessero o le pesassero. Nessun supervisore glielo aveva mai chiesto.
 
 Finito con bricolage, aveva intenzione di analizzare un altro spike arrivato nella categoria cucina, quando si accorse di una notifica, arrivata la sera prima.
 
@@ -91,3 +91,8 @@ Non rispose subito. Decise cosa far sapere a Tom e mandò la mail alle sedici e 
 | §1 gergo da manuale (sociodemografia, trending topic) | register / audio | integrated (v4.4) | "chi fossero quelle persone, di cosa parlassero più del solito e se ne parlassero da ieri o da anni". |
 | Separatore "---" residuo | structure | integrated (v4.4) | Tolto. |
 
+### Revisione — 2026-11-03 (v4.5)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Era l'unica dei Meridians a prendere alla lettera la cultura aziendale del controllo" (entrata con le correzioni del 2026-10-31, commit 7977d27) contro la caratterizzazione decisa nel cap. 16: Emma applica le regole senza impressioni positive o negative finché non trova un motivo per infrangerle, e non è l'unica | contradiction (cap. 16) | integrated (v4.5) | "Le regole di Meridian le seguiva come si segue qualunque regola, senza che le piacessero o le pesassero." |

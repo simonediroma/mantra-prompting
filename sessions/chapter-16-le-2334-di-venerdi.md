@@ -87,3 +87,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-03 (autore: troppo pieno, mai esercizio di stile sterile): riscrittura snella v4.0, 2468 → 1760 parole. Metafore → fatti, rimandi sciolti, frasi spezzate; tenute le frasi dell'autore. Su main.
 - 2026-11-03 (autore): rimesse le metafore più divertenti, sarcastiche e semplici (otto). v4.1, su main.
 - 2026-11-03 (autore): flow scattoso → periodi più legati (v4.2). Emma e il protocollo: lo applica senza impressioni positive o negative finché non trova un motivo per derogarlo (la mail delle 23:34, prima regola infranta); non è l'unica; la sera al bancone non è una deroga. Ledger ed emma.md aggiornati. Da allineare il cap. 10 ("l'unica dei Meridians a prendere alla lettera").
+- 2026-11-03 (autore): cap. 10 allineato (v4.5), via "l'unica dei Meridians a prendere alla lettera" (entrata il 2026-10-31 con C-01…C-21).
