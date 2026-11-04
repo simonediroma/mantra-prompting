@@ -1,6 +1,6 @@
 ---
 title: Le 23:34 di venerdì
-version: 5.6
+version: 5.7
 claim: La risposta di Tom dice tutto quello che sta sulla lista dell'assistenza e tace l'unica cosa che sta nel registro, la morte della cliente. Emma, che sa che lui lo sapeva, legge una mano aperta su ogni pezzo e chiusa sull'unica persona. Non chiede. Per una settimana segue le sue riparazioni e quelle degli altri tecnici, e ogni "si rifiuta" si chiude con un pezzo cambiato. Il venerdì sera, al bancone della Mela Morsicata, dove va da qualche tempo a cercare qualcuno che resti, non riesce a stare. Alle 23:34, per la prima volta, scrive a Tom senza aspettare le otto.
 status: complete
 revised: 2026-11-02
@@ -16,7 +16,7 @@ Provò a mettersi nei suoi panni e pensò che forse avrebbe fatto lo stesso. Un 
 
 Il sabato Tom non rispose e la domenica non avrebbe potuto, perché in Meridian la domenica non si scriveva, a tutela del riposo dei dipendenti, che l'azienda proteggeva con un avviso automatico al supervisore per chiunque riposasse nel modo sbagliato. Emma non scrisse. Il lunedì, tra le newsletter della notte, c'era solo quella di Benessere Meridian, che consigliava a tutti la modalità presenza per i meeting, un avatar al posto della telecamera per non mostrare ai colleghi la faccia stanca. «Il benessere comincia dallo schermo», diceva, senza specificare di chi. Emma, che di meeting non ne faceva da cinque anni, la archiviò. Di Tom, niente.
 
-Allora cominciò a seguirlo sulla lista dell'assistenza, un intervento alla volta. Dal suo banco erano passati un tritatutto, un aspirapolvere che la sera sospirava, un microonde che si accendeva da solo alle tre di notte e un altoparlante che parlava solo portoghese in una casa dove nessuno lo parlava. Nelle frasi dei clienti gli apparecchi volevano, decidevano, si offendevano, proprio come prometteva la pubblicità, mentre negli esiti di Tom avevano tutti un pezzo rotto.
+Allora cominciò a seguirlo sulla lista dell'assistenza, un intervento alla volta. Dal suo banco erano passati un tritatutto, un aspirapolvere che la sera sospirava, un microonde che si accendeva da solo alle tre di notte e un altoparlante che parlava solo portoghese in una casa dove nessuno sapeva effettivamente dove si trovasse il Portogallo. Nelle frasi dei clienti gli apparecchi volevano, decidevano, si offendevano, proprio come prometteva la pubblicità, mentre negli esiti di Tom avevano tutti un pezzo rotto.
 
 Il martedì cercò lo stesso verbo nelle schede di tutti i tecnici e trovò una lavatrice che si rifiutava di centrifugare, una stufa che si rifiutava di spegnersi e un bidet elettronico che si rifiutava di fare l'unica cosa per cui era stato comprato, con grande imbarazzo del cliente che l'aveva scritto in terza persona. Ogni scheda finiva con un pezzo cambiato, perché nell'assistenza "si rifiuta" era il modo in cui i clienti dicevano "si è rotto" quando volevano essere presi sul serio, tranne che in un salotto, dove una volta aveva voluto dire proprio quello. Il mercoledì era così sicura di non trovare niente che controllò due volte.
 
@@ -122,3 +122,4 @@ Applicate le otto risposte più le decisioni raccolte: cameriere che saluta tutt
 | "Chiedergli della morte, però, non poteva… era andata a cercarla" (autore) | wording | integrated (v5.4) | "Chiederlo non poteva, o Tom avrebbe capito che era andata a cercare la pratica…" |
 | La domanda sul verbo, testo dell'autore | voice | integrated (v5.5) | "Passò il resto della giornata con la frase della cliente fissa davanti agli occhi, fino a che quella frase quasi petulante non si riassunse tutta nel predicato verbale, *si rifiuta*." (corretti "passo" e "riassumette"; "la giornata" → "il resto della giornata", la mail arriva all'una e mezza). |
 | Chiusura del pomeriggio, testo dell'autore | voice | integrated (v5.6) | "Chiuse la casella di posta alle diciassette in punto e decise di rimandare il pensiero al giorno dopo." (numero in lettere). |
+| Battuta dell'altoparlante, testo dell'autore | voice | integrated (v5.7) | "in una casa dove nessuno sapeva effettivamente dove si trovasse il Portogallo" ("sapesse" → "sapeva", "la nazione Portogallo" → "il Portogallo"). |
