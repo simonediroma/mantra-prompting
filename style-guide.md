@@ -1,8 +1,41 @@
 # Guida di stile — Mantra Prompting
 
 > Guida unica per tutto il libro. Va letta prima di scrivere, integrare o rivedere qualunque capitolo, insieme a `style-rules.md` (regole meccaniche R1-R5), `voice-reference.md` (campione fisso) e il cap. 1.
-> Ordine di precedenza: le parole dell'autore in sessione > questa guida > `book.config.json → author_voice` > le abitudini di chi scrive.
+> Ordine di precedenza: le parole dell'autore in sessione > le indicazioni del cap. 16 (§0) > il resto di questa guida > `book.config.json → author_voice` e il giudizio editoriale > le abitudini di chi scrive.
 > Fonti: i campioni di voce salvati capitolo per capitolo (cap. 12-16, cronologia git di `voice-sample.md`), il cap. 1, i testi liberi dell'autore nel cap. 16, la calibrazione in `book-memory.md`, il giudizio editoriale del 2026-10-31. Creata il 2026-11-04.
+
+---
+
+## 0. Le indicazioni del cap. 16 hanno la precedenza
+
+Il cap. 16 è il primo capitolo che l'autore ha corretto frase per frase fino a riconoscerci il proprio stile. Le indicazioni nate lì valgono per tutto il libro e **prevalgono sulle regole più vecchie** della calibrazione, del giudizio editoriale e della checklist quando le due cose tirano in direzioni diverse. Dove una regola vecchia è stata ridimensionata, la guida lo segna con **Modulato dal cap. 16**.
+
+**Cosa ha detto l'autore, in ordine di come è emerso:**
+
+1. Il luogo nuovo si costruisce beat per beat con l'autore, prima di scriverlo. Troppi dettagli da tenere insieme non si improvvisano.
+2. Una scena con un indizio è una dichiarazione nascosta: il lettore deve crederla vera alla lettera, con spiragli per chi guarda meglio (§9).
+3. L'ambiente si descrive il minimo. "Io neanche lo descriverei." Bastano un paio di tratti che lo facciano riconoscere (Blade Runner) e un oggetto che si fa notare (l'insegna a forma di mela morsicata).
+4. Niente regole inventate che tolgono libertà al posto o ai personaggi. Il cameriere che "teneva il tempo" e annunciava i silenzi è stato tolto: alla Mela Morsicata, se vuoi, stai lì e non dici niente.
+5. Niente affermazioni definitive nelle scene di mistero. Il cibo è "passato in secondo piano", non "nessuno mangia".
+6. "Questo capitolo lo hai scritto molto complicato." Semplificare è la prima correzione, sempre.
+7. "Non deve essere mai un esercizio di stile sterile." Ogni frase porta un fatto, un'emozione o una risata.
+8. Ma "non può essere tutto così": tolto tutto, il testo è morto. Le metafore più divertenti, sarcastiche e semplici restano.
+9. "Il flow è scattoso." Le frasi spezzate per chiarezza vanno ricucite.
+10. Le frasi brevi a sentenza rafforzativa si tengono solo se hanno un motivo.
+11. "Lunga quanto una scheda" non si capiva e il novanta per cento delle metafore non faceva ridere. Il modello è il cap. 1.
+12. "Questo è un esempio di come connettere le cose" (R2): due idee in relazione nella stessa frase.
+13. Gli ideogrammi da soli non si fanno notare: serve un oggetto concreto e visibile. Il peccato originale funzionava: un'aggiunta che fa ridere si tiene anche se non l'ha proposta l'autore.
+14. Velocizzare la prima parte, anche accorciandola: si arriva prima alla scena.
+15. I fatti si verificano: una leggenda si scrive come leggenda ("come invece si dice del logo che Jobs scelse…").
+16. Il carattere di un personaggio non si cambia per una frase comoda. Emma non è "l'unica" a seguire le regole: le segue senza che le piacciano o le pesino, finché non trova un motivo per infrangerle. Va allineato anche nei capitoli già chiusi (cap. 10 corretto il 2026-11-03).
+
+**Il metodo che ha funzionato:**
+
+- **Quando l'autore scrive un passaggio a modo suo**, il suo testo entra quasi parola per parola. Si correggono solo ortografia, punteggiatura e le regole meccaniche (niente ", e", tempi verbali, R1). Poi si dice all'autore cosa si è toccato.
+- **Prima di applicare una modifica ampia** si mostra il passaggio riscritto. Le modifiche piccole si applicano e si mostrano.
+- **Si spiega cosa cambia** tra la versione dell'autore e la propria: è da quel confronto che sono nate R2-R5.
+- **Le aggiunte non richieste si dichiarano.** Lampade al sodio e pubblicità di dieci piani sono state tolte; il peccato originale è rimasto. Decide l'autore.
+- **Una lettura ha due errori possibili**: troppo pieno (v1-v3) e troppo asciutto (v4.0-v4.1). Se l'autore segnala il primo, non si corre all'altro estremo.
 
 ---
 
@@ -82,6 +115,8 @@ Si apre da un'abitudine o da un gesto concreto, poi si mette un'idea dopo l'altr
 
 La prima frase di un capitolo deve reggere da sola, senza l'intro del podcast. Evitare di aprire con un verbo di schermo (aprì, riaprì, controllò).
 
+**Digressioni.** Una digressione per blocco, in un registro solo. Nella prima stesura del cap. 16 il ristorante aveva cinque digressioni di fila (Blade Runner e Turing, il gioco, la fisica del bancone, i ravioli, Emma) in cinque registri diversi: è lì che il denso diventava confuso. Ordine che funziona: il luogo e il suo perché, poi la gente, poi il personaggio che ci sta dentro, poi l'evento.
+
 ### 3.5 Incisi
 
 Gli incisi lunghi tra parentesi fanno perdere il filo, soprattutto in audio. Si sciolgono in frasi autonome (C-27). Un inciso breve tra virgole va bene.
@@ -110,7 +145,11 @@ Nel cap. 16 l'omissione di Tom era spiegata quattro volte, nei cap. 12-13 la bug
 
 Connettivi da pratica d'ufficio nei momenti di scelta: ❌ "Però, elaborando la situazione… Alla fine, riflettendo, si convinse che, eventualmente… Inoltre, tra i suoi ragionamenti si era palesata un'altra ragione" (cap. 13, prima stesura). ✅ "Il primo impulso fu togliere il video. Era la cosa più semplice da fare, il che bastava a renderla sospetta."
 
-### 4.5 Chiusure
+### 4.5 Velocità
+
+Le parti di attesa e di raccordo si accorciano finché reggono: nel cap. 16 la settimana prima del noodle bar è passata da oltre novecento a meno di settecento parole senza perdere una battuta. Si tagliano i dettagli di procedura (i campi di un registro, chi paga cosa), le liste oltre il terzo o quarto elemento, le frasi che spiegano ciò che il lettore ha appena visto.
+
+### 4.6 Chiusure
 
 Si chiude su un beat mostrato, mai su un paragrafo che riassume o spiega la posta.
 - ✅ "Restò un po' con la penna sopra la pagina, poi lo richiuse senza aver scritto niente." (cap. 14)
@@ -148,13 +187,17 @@ Poche, basse, fisiche, quasi scatologiche quando serve. Devono far ridere davver
 
 ### 5.3 Quanto
 
-Almeno un'immagine bassa e fisica per capitolo. Il registro comico non si spegne nella seconda metà del libro, né nei capitoli di Emma. Il riso è quello che il libro ha promesso.
+Il registro comico non si spegne nella seconda metà del libro, né nei capitoli di Emma. Il riso è quello che il libro ha promesso.
+
+**Modulato dal cap. 16.** La vecchia regola "almeno un'immagine bassa per capitolo" resta come minimo, ma un'immagine che non fa ridere non conta e va tolta. Meglio una battuta di situazione vera che tre paragoni sforzati. A titolo di misura: nella versione giusta del cap. 16 ci sono una decina di battute in duemila parole, quasi tutte di situazione o di satira, una o due per paragrafo nei punti di respiro, nessuna nei punti di tensione (le 23:34).
 
 ---
 
 ## 6. Corpo e luogo
 
 Ogni scena, nelle prime righe, ha quattro cose: dove sta il corpo, che ora è e che luce c'è, cosa fa il luogo mentre il personaggio pensa (il nastro, il corridoio, il disco che gira) e un oggetto in mano. Non servono descrizioni, servono dettagli.
+
+**Modulato dal cap. 16.** Le quote del giudizio editoriale ("dieci dettagli ogni mille parole") e la checklist dei tre dettagli per scena sono un controllo, non un obiettivo da riempire. Un dettaglio entra se il lettore ne ha bisogno per stare nella scena o se fa ridere. I luoghi nuovi si danno con due tratti e un oggetto che si nota, poi si passa ai personaggi. Nelle scene di Emma il minimo è ancora più basso.
 
 - **Capitoli di Tom**: almeno tre dettagli fisici per scena, cioè odore, luce, temperatura o suono dell'edificio. I verbi fisici (svitò, girò, posò) devono pesare più dei verbi di schermo (aprì, lesse, filtrò).
 - **Capitoli di Emma**: una sola stanza, mai descritta. Ci sono la striscia di luce sotto la porta, le porte che si chiudono alle cinque, il carrello del caffè delle dieci, la poltrona e la stampante del fondatore. Fa eccezione la Mela Morsicata, resa come luogo fisico con gli spiragli per il lettore attento (vedi §9).
@@ -169,7 +212,7 @@ Ogni scena, nelle prime righe, ha quattro cose: dove sta il corpo, che ora è e 
 **Emma.**
 - L'emozione arriva prima del ragionamento, poi viene analizzata. Va mostrata, mai nominata come etichetta ("era sgomento").
 - Prende le regole di Meridian come qualunque regola, senza che le piacciano o le pesino, finché non trova un motivo per infrangerle. Non è "l'unica" a seguirle.
-- La sua frase è più breve di quella di Tom, ma non scattosa.
+- La sua frase è più breve di quella di Tom, ma non scattosa. **Modulato dal cap. 16**: la vecchia indicazione del giudizio editoriale ("Emma pensa per frasi brevi", B1.4) non autorizza periodi spezzati. I suoi ragionamenti si legano con perché, ma, finché, come tutti gli altri.
 - Il lessico ambiguo è ammesso e voluto ("elaborò", "registrarne", "le costò"), sempre leggibile in chiave umana.
 - Vietato il linguaggio di progettazione o attivazione ("da quando aveva iniziato a esistere").
 
@@ -243,3 +286,7 @@ La lezione del cap. 16 è che l'errore sta in entrambe le direzioni: denso non v
 10. Ogni fatto tecnico o storico è verificato? Le leggende sono scritte come leggende?
 11. Il mistero regge su tre livelli, senza sciogliersi?
 12. Regole meccaniche (`style-rules.md`): niente ", e" in narrazione, niente due punti a metà frase, numeri in lettere, caporali.
+13. È diventato complicato? Se sì, semplificare prima di tutto il resto (indicazione 6 del §0).
+14. Il luogo è descritto più del necessario? Due tratti e un oggetto bastano.
+15. Le parti di raccordo si possono accorciare senza perdere una battuta?
+16. Ci sono aggiunte mie non chieste? Dichiararle all'autore.
