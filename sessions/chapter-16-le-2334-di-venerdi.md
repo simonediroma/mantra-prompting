@@ -97,3 +97,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-03 (autore: "ora ci siamo, rivaluta l'intero capitolo così"): rivalutazione con il metodo dell'ingresso, cinque giunture corrette nella prima metà (sollievo, sabato/domenica, più schede più peso, luce/casella). v4.9, su main.
 - 2026-11-04 (autore): prima parte velocizzata e accorciata, 921 → 682 parole. v5.0, su main.
 - 2026-11-04 (autore: non serve riscrivere, sì ai ritocchi): v5.1, Turing primo a costruire un test (parole dell'autore), mela spiegata, perché 13→9, bancone in due paragrafi; ledger riallineato (newsletter, striscia di luce, riga su Turing). Su main.
+- 2026-11-04 (autore): "la domanda non fu una sola, sul verbo si rifiuta" non è italiano; riscritto per intero, aggancio esplicito alla mail delle 8:00:01. v5.2, su main.
