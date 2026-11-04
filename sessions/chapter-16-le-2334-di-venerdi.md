@@ -101,3 +101,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-04 (autore): perché Tom tace la morte, dal punto di vista di Emma che si mette nei suoi panni (cautela del tecnico, pc aziendale verso indirizzo aziendale, eccesso di zelo, nessun altro motivo benevolo). v5.3, su main.
 - 2026-11-04 (autore): "Chiederlo non poteva… a cercare la pratica". v5.4, su main.
 - 2026-11-04 (autore): frase della cliente "quasi petulante" che si riassume nel predicato verbale, testo dell'autore. v5.5, su main.
+- 2026-11-04 (autore): chiusura del pomeriggio con il testo dell'autore. v5.6, su main.
