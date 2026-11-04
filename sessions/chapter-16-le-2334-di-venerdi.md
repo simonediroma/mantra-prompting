@@ -95,3 +95,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-03 (autore): "questo è un esempio di come connettere le cose" → regola R2 in style-rules.md; applicata in sette punti del capitolo. v4.7, su main.
 - 2026-11-03 (autore): insegna a forma di mela morsicata (neon rosso, ideogrammi al centro, traduzione sotto); torna il peccato originale come motivo dei proprietari. v4.8, su main.
 - 2026-11-03 (autore: "ora ci siamo, rivaluta l'intero capitolo così"): rivalutazione con il metodo dell'ingresso, cinque giunture corrette nella prima metà (sollievo, sabato/domenica, più schede più peso, luce/casella). v4.9, su main.
+- 2026-11-04 (autore): prima parte velocizzata e accorciata, 921 → 682 parole. v5.0, su main.
