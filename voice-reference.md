@@ -1,6 +1,6 @@
 # Voice Reference (fisso)
 
-> Estratto dal cap. 16 — Le 23:34 di venerdì (v4.9), **indicato dall'autore il 2026-11-03 come il testo più vicino al suo stile**: usarlo come riferimento di voce per i capitoli nuovi, insieme al cap. 1. Questo file non va sovrascritto dalla skill `write` (che aggiorna solo `voice-sample.md`).
+> Estratto dal cap. 16 — Le 23:34 di venerdì (v4.9), **indicato dall'autore il 2026-11-03 come il testo più vicino al suo stile**: usarlo come riferimento di voce per i capitoli nuovi, insieme al cap. 1. Le regole che spiegano perché funziona sono in `style-guide.md`. Questo file non va sovrascritto dalla skill `write` (che aggiorna solo `voice-sample.md`).
 
 ## Apertura
 

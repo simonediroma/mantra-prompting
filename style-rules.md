@@ -1,5 +1,6 @@
 # Style Rules
 
+> **Prima di questo file leggere `style-guide.md`**, la guida di stile dell'intero libro (voce, flusso, comico, chiarezza, corpo, mistero), e `voice-reference.md`, il campione fisso.
 > The book's writing rules. Read by `write`, `integrate` and `revise` — every new text must respect them, every revision checks them.
 > Add rules with `/ghost-writer:rules add "..."`, or edit this file directly. Rules also come from `corrections` when a note is general ("always…", "never…").
 

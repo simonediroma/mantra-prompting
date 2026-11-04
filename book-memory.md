@@ -163,6 +163,7 @@ Perché Tom smette di rispondere dopo il cap. 10 (chiarito il 2026-09-16, correg
 | Semplicità: la frase dell'autore sul sofisma ("fosse proprio ciò che la stava provocando… la chiave per leggere il suo momento di impasse") batte la mia perché nomina la cosa e dice l'effetto su Emma, non la logica. | Cap. 16 | R4 |
 | Flusso: frasi brevi spezzate per chiarezza hanno reso il testo scattoso; i periodi vanno legati, le frasi corte tenute solo per un colpo. Le scene si aprono da un'abitudine concreta ("come più o meno ogni venerdì sera"), un'idea dopo l'altra. | Cap. 16 | R5; `rhythm` |
 | Il comico migliore viene dall'equivoco di situazione (proprietari che pensano al peccato, clienti che vengono per Turing) e da oggetti concreti che si fanno notare (l'insegna a forma di mela morsicata), non dalle immagini. | Cap. 16 | `tone` |
+| **Guida di stile unica** (2026-11-04): sintesi dei campioni di voce dei cap. 12-16 (cronologia di `voice-sample.md`), del cap. 1, dei testi liberi dell'autore e del giudizio editoriale. | Tutti | `style-guide.md`; richiamata da `book.config.json → style_guide`, `style-rules.md` e `voice-reference.md` |
 ---
 
 ## Chapter Summary Log

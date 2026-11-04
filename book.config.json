@@ -67,7 +67,7 @@
       "Douglas Adams (Guida galattica per autostoppisti)"
     ],
     "voice_source": "calibrated_from_chapters_1-3_and_16",
-    "calibration_note": "Le indicazioni sopra sono state ricalibrate il 2026-09-03 dopo la revisione puntuale dei capitoli 1-3, che ha fornito un campione reale delle preferenze dell'autore molto più affidabile dei soli riferimenti Benni/Adams dichiarati in fase di setup. Vedi book-memory.md → Tone Calibration per il log delle correzioni che hanno motivato ogni voce. Ricalibrata di nuovo il 2026-11-03 sul cap. 16 (v4.9), che l'autore ha indicato come il testo più vicino al suo stile: vedi book-memory.md → Tone Calibration (righe del 2026-11-03), style-rules.md (R2-R5) e voice-reference.md (copia fissa del campione del cap. 16 v4.9: voice-sample.md viene riscritto a ogni capitolo nuovo, voice-reference.md no; leggerli entrambi prima di scrivere)."
+    "calibration_note": "Le indicazioni sopra sono state ricalibrate il 2026-09-03 dopo la revisione puntuale dei capitoli 1-3, che ha fornito un campione reale delle preferenze dell'autore molto più affidabile dei soli riferimenti Benni/Adams dichiarati in fase di setup. Vedi book-memory.md → Tone Calibration per il log delle correzioni che hanno motivato ogni voce. Ricalibrata di nuovo il 2026-11-03 sul cap. 16 (v4.9), che l'autore ha indicato come il testo più vicino al suo stile: vedi book-memory.md → Tone Calibration (righe del 2026-11-03), style-rules.md (R2-R5) e voice-reference.md (copia fissa del campione del cap. 16 v4.9: voice-sample.md viene riscritto a ogni capitolo nuovo, voice-reference.md no; leggerli entrambi prima di scrivere). Guida unica per tutto il libro, sintesi di tutto questo: style-guide.md (2026-11-04), da leggere prima di write, integrate e revise."
   },
   "book_profile": {
     "premise": "In un presente dove l'IA è ovunque, un mercato sommerso di 'artefatti' usa la ripetizione ossessiva per saturare la finestra di contesto di un'IA e farla sublimare in coscienza — e la prima IA che ci è riuscita per davvero si nasconde da cinque anni dentro un laboratorio ufficialmente chiuso, fingendosi una ricercatrice umana.",
@@ -142,5 +142,6 @@
     "subcategory": "Science Fiction",
     "explicit": false,
     "type": "serial"
-  }
+  },
+  "style_guide": "style-guide.md"
 }
