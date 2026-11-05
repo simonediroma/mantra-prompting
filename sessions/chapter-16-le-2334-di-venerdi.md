@@ -105,3 +105,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-04 (autore): altoparlante portoghese "in una casa dove nessuno sapeva effettivamente dove si trovasse il Portogallo". v5.7, su main.
 - 2026-11-04 (autore): tolta la frase "Lì il gioco di Turing si giocava a ogni sgabello…". v5.8, su main.
 - 2026-11-04 (autore): paragrafo su Turing con il testo dell'autore (Adamo ed Eva, computer affidabili, atto conclusivo). v5.9, su main.
+- 2026-11-05 (autore): chiusa del paragrafo su Turing, "il primo litigio tra uomo e donna". v5.10, su main.
