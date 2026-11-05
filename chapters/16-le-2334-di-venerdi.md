@@ -1,6 +1,6 @@
 ---
 title: Le 23:34 di venerdì
-version: 5.15
+version: 5.16
 claim: La risposta di Tom dice tutto quello che sta sulla lista dell'assistenza e tace l'unica cosa che sta nel registro, la morte della cliente. Emma, che sa che lui lo sapeva, legge una mano aperta su ogni pezzo e chiusa sull'unica persona. Non chiede. Per una settimana segue le sue riparazioni e quelle degli altri tecnici, e ogni "si rifiuta" si chiude con un pezzo cambiato. Il venerdì sera, al bancone della Mela Morsicata, dove va da qualche tempo a cercare qualcuno che resti, non riesce a stare. Alle 23:34, per la prima volta, scrive a Tom senza aspettare le otto.
 status: complete
 revised: 2026-11-02
@@ -36,7 +36,7 @@ Le regole di Meridian, compresa quella sull'orario, Emma le aveva sempre applica
 
 Quella sera, però, non era attenta come al solito. Aveva ricevuto più di un ping dagli astanti e a tutti aveva dato seguito con gentilezza, salvo poi quittare alla seconda iterazione, perché non riusciva a togliersi Tom dalla testa. Le aveva scritto tutto tranne che la cliente era morta e da sei giorni non le rispondeva. Se sapeva qualcosa non glielo diceva, oppure aveva paura di dirglielo.
 
-«Ciao, stranger» disse il cameriere a qualcuno che le era comparso accanto. «Ciao, sono Tommy» disse quello, che con ogni probabilità non si chiamava Tommy. «Lo sai che la sarda salata fa bere e ribere? Il bere e ribere estingue la sete. Quindi la sarda salata estingue la sete.»
+«Ciao, stranger» disse il cameriere a qualcuno che le era comparso accanto. «Ciao, sono Tommy» disse quello, che con ogni probabilità non si chiamava Tommy. Poi si girò verso Emma e le disse: «Lo sai che la sarda salata fa bere e ribere? Il bere e ribere estingue la sete. Quindi la sarda salata estingue la sete.»
 
 La risposta ce l'aveva prima che finisse la seconda frase, ma non la diede. Da sei giorni beveva e ribeveva la stessa mail di sette righe, con più sete a ogni giro, aspettando che a toglierle la sete fosse proprio ciò che la stava provocando. Il sofisma di Tommy le aveva dato la chiave per leggere il suo momento di impasse.
 
@@ -131,3 +131,4 @@ Applicate le otto risposte più le decisioni raccolte: cameriere che saluta tutt
 | "che era parecchio e non gli costava niente" (autore: togliere) | cut | integrated (v5.13) | Resta "con lo stesso entusiasmo". |
 | La privacy, testo dell'autore | voice | integrated (v5.14) | "Il cameriere e i proprietari avevano imparato a non chiamare nessuno per nome e cognome, contribuendo a permeare ogni centimetro di quel posto, anche gli strati della cipolla usata per insaporire i ravioli al vapore, della privacy necessaria per far sentire tutti a loro agio." ("ed i" → "e i", refuso "proprietati"). |
 | Chiusa del paragrafo del bancone, testo dell'autore | voice | integrated (v5.15) | "Il resto, il neon, il vapore, l'acqua che colava dalla tettoia, era quello che i clienti si raccontavano di quel posto e che alimentava la sua notorietà e la voglia di passarci del tempo." |
+| Tommy si rivolge a Emma (autore) | voice | integrated (v5.16) | "Poi si girò verso Emma e le disse: «Lo sai che la sarda…»" (due punti ammessi prima del discorso diretto, R1). |
