@@ -112,3 +112,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-05 (autore): la privacy riscritta con il testo dell'autore (cameriere e proprietari, ogni centimetro, cipolla dei ravioli). v5.14, su main.
 - 2026-11-05 (autore): "era quello che i clienti si raccontavano di quel posto e che alimentava la sua notorietà e la voglia di passarci del tempo". v5.15, su main.
 - 2026-11-05 (autore): Tommy si gira verso Emma prima del sofisma. v5.16, su main.
+- 2026-11-05 (autore): niente descrizioni fisiche dei personaggi alla Mela Morsicata, nemmeno dichiarate; solo gesti da chat. Annotato in style-guide.md §9.

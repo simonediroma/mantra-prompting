@@ -241,6 +241,7 @@ Ogni scena, nelle prime righe, ha quattro cose: dove sta il corpo, che ora è e 
   - Il lettore nerd sorride ai riferimenti (Blade Runner, Turing, il gioco dell'imitazione, «stranger», ping, quit, la cipolla di Tor) e resta nel dubbio.
 - **Contro la lettura sbagliata**, per esempio androidi tra gli umani, si mette un'àncora leggera: "ognuno era quello che diceva di essere".
 - **Regola per le scene alla Mela Morsicata**: niente affermazioni definitive (non "nessuno mangia", ma "il cibo era passato in secondo piano"). Nessuno ci sta controvoglia.
+- **Niente descrizioni fisiche dei personaggi alla Mela Morsicata** (autore, 2026-11-05): "quello che la gente diceva era tutto quello che c'era da vedere e da sentire". Ammessi solo gesti e comportamenti che valgono anche in una chat (girarsi verso qualcuno, la logorrea, il silenzio). L'aspetto di Emma compare solo con l'avatar dei cap. 18-19.
 
 ---
 
