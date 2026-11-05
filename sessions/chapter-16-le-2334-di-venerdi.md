@@ -108,3 +108,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-05 (autore): chiusa del paragrafo su Turing, "il primo litigio tra uomo e donna". v5.10, su main.
 - 2026-11-05 (autore): bancone, "era possibile stare vicino a chiunque ci fosse seduto, senza distinzioni". v5.11, su main.
 - 2026-11-05 (autore): tolto "Ci si trovava seduti, tutto qui". v5.12, su main.
+- 2026-11-05 (autore): via "che era parecchio e non gli costava niente". v5.13, su main.

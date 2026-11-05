@@ -1,6 +1,6 @@
 ---
 title: Le 23:34 di venerdì
-version: 5.12
+version: 5.13
 claim: La risposta di Tom dice tutto quello che sta sulla lista dell'assistenza e tace l'unica cosa che sta nel registro, la morte della cliente. Emma, che sa che lui lo sapeva, legge una mano aperta su ogni pezzo e chiusa sull'unica persona. Non chiede. Per una settimana segue le sue riparazioni e quelle degli altri tecnici, e ogni "si rifiuta" si chiude con un pezzo cambiato. Il venerdì sera, al bancone della Mela Morsicata, dove va da qualche tempo a cercare qualcuno che resti, non riesce a stare. Alle 23:34, per la prima volta, scrive a Tom senza aspettare le otto.
 status: complete
 revised: 2026-11-02
@@ -28,7 +28,7 @@ Quel santo era Alan Turing, il primo a costruire un test per capire se dall'altr
 
 Appena ci si sedeva al bancone sembrava di stare in Blade Runner, con la tettoia, il vapore che saliva dalle pentole e il neon che si rompeva nelle pozzanghere. Una volta ci si andava per i ravioli al vapore, che erano i più buoni del mondo e lo erano ancora, anche se ormai lo sapevano soltanto i ravioli, perché da tempo ci si andava per l'ambiente, che lo facevano quelli che lo frequentavano. Il bancone andava avanti fin dove arrivava lo sguardo e anche un po' oltre, per scrupolo, eppure sedendosi alla Mela Morsicata era possibile stare vicino a chiunque ci fosse seduto, senza distinzioni.
 
-Il cameriere, l'unico impiegato, salutava tutti quando si sedevano e quando si alzavano, con il nome che ognuno si era dato, mentre a chi non conosceva diceva «Ciao, stranger», con lo stesso entusiasmo, che era parecchio e non gli costava niente. Nessuno chiamava nessuno per nome e cognome, in un posto dove la privacy non era solo uno stendardo da innalzare ma qualcosa che permeava tutto, anche gli strati di cipolla usati nella carne dei ravioli al vapore. Senza nessuno che ti chiedesse mai le generalità, alla Mela Morsicata ognuno era quello che diceva di essere. Quello che la gente diceva era tutto quello che c'era da vedere e da sentire. Il resto, il neon, il vapore, l'acqua che colava dalla tettoia, era il modo in cui ogni cliente si raccontava il posto per aumentare il piacere di starci.
+Il cameriere, l'unico impiegato, salutava tutti quando si sedevano e quando si alzavano, con il nome che ognuno si era dato, mentre a chi non conosceva diceva «Ciao, stranger», con lo stesso entusiasmo. Nessuno chiamava nessuno per nome e cognome, in un posto dove la privacy non era solo uno stendardo da innalzare ma qualcosa che permeava tutto, anche gli strati di cipolla usati nella carne dei ravioli al vapore. Senza nessuno che ti chiedesse mai le generalità, alla Mela Morsicata ognuno era quello che diceva di essere. Quello che la gente diceva era tutto quello che c'era da vedere e da sentire. Il resto, il neon, il vapore, l'acqua che colava dalla tettoia, era il modo in cui ogni cliente si raccontava il posto per aumentare il piacere di starci.
 
 Era un viavai continuo di figure, alcune intente a farsi notare con una logorrea estrema, come certi zii ai matrimoni dopo il secondo bicchiere, altre sedute in silenzio anche per ore, senza bisogno di nessuna difesa dal mondo esterno, un libro, un cellulare, un centrotavola all'uncinetto in corso d'opera. Emma faceva parte della seconda categoria.
 
@@ -128,3 +128,4 @@ Applicate le otto risposte più le decisioni raccolte: cameriere che saluta tutt
 | Chiusa del paragrafo su Turing, testo dell'autore | voice | integrated (v5.10) | "anche se per loro rimaneva ancora legato al primo litigio tra uomo e donna e a tutto quello che aveva comportato" ("ha comportato" → "aveva comportato"). |
 | Il bancone infinito, testo dell'autore | voice | integrated (v5.11) | "eppure sedendosi alla Mela Morsicata era possibile stare vicino a chiunque ci fosse seduto, senza distinzioni" ("seduto al bancone" → "ci fosse seduto", per non ripetere "bancone" nella stessa frase). |
 | "Ci si trovava seduti, tutto qui." (autore: togliere) | cut | integrated (v5.12) | Tolta. |
+| "che era parecchio e non gli costava niente" (autore: togliere) | cut | integrated (v5.13) | Resta "con lo stesso entusiasmo". |
