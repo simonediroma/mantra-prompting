@@ -110,3 +110,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-05 (autore): tolto "Ci si trovava seduti, tutto qui". v5.12, su main.
 - 2026-11-05 (autore): via "che era parecchio e non gli costava niente". v5.13, su main.
 - 2026-11-05 (autore): la privacy riscritta con il testo dell'autore (cameriere e proprietari, ogni centimetro, cipolla dei ravioli). v5.14, su main.
+- 2026-11-05 (autore): "era quello che i clienti si raccontavano di quel posto e che alimentava la sua notorietà e la voglia di passarci del tempo". v5.15, su main.
