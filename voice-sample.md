@@ -14,4 +14,4 @@ Il posto aveva due caratteristiche. La prima era che, appena ci si sedeva al ban
 
 > **Inviata** · A: Tom · ven 23:34
 
-«Ciao, stranger» disse il cameriere, da qualche parte, a qualcun altro.
+«Ciao, Emma, a presto» disse il cameriere, da qualche parte.
