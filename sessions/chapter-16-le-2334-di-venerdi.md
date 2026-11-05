@@ -115,3 +115,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-05 (autore): niente descrizioni fisiche dei personaggi alla Mela Morsicata, nemmeno dichiarate; solo gesti da chat. Annotato in style-guide.md §9.
 - 2026-11-05 (autore): saluti invertiti, il capitolo chiude con «Ciao, Emma, a presto»; Emma usa il vero nome al bancone (indizio). v5.17, su main.
 - 2026-11-05 (autore): il G24 è un venerdì; aggiunto il primo venerdì al noodle bar senza nominarlo (testo dell'autore). v5.18, su main.
+- 2026-11-05: revise completo (5 grammatica, 2 punteggiatura, 1 cronologia, 2 continuità applicati; P3 e T2 lasciati). v5.19, su main.
