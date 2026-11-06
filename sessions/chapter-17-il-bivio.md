@@ -2,7 +2,7 @@
 
 > Created: 2026-11-06
 > Last updated: 2026-11-06
-> Status: open
+> Status: complete
 
 ## Macro
 chapter
@@ -11,13 +11,13 @@ chapter
 chapters/17-il-bivio.md
 
 ## Current step
-integrate
+— (completo, v1.1)
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
 - [x] demolish
-- [ ] integrate
+- [x] integrate
 
 ## Notes
 - 2026-11-06: aperta dopo la chiusura del cap. 16 (v5.19). Metodo come per 15 e 16: giro di dettagli con l'autore, poi la bozza.
@@ -35,3 +35,4 @@ integrate
 - 2026-11-06: bozza v1.0 salvata (~1.650 parole: Tom ~600, Pete ~1.050). Outline → draft; book-memory (summary log, ledger: notte del G31 di Tom, riepilogo di mezzanotte, casa di Pete, Pete e Tom); voice-sample aggiornato. Aggiunte non richieste da dichiarare: pc sullo stesso account di casa che ripete le notifiche; Tom non sa se aprire lasci traccia; televisore Meridian di Pete che chiude il capitolo («stai ancora guardando?»); Ciao Darwin muscolosi contro intellettuali; completo «da vent'anni».
 - **Deciso (autore, 2026-11-06)**: titolo "Il bivio" (prima "Ritratto del supervisore"); file `17-il-bivio.md`. Il file del cap. 15 diventa `15-le-0800-01.md`.
 - 2026-11-06: demolizione ciclo 1, 8 critiche tutte risolte (bivio motivato dalla sorveglianza; tv di Pete altro modello; regola: aprire conta, Pete legge quando Tom apre; parte Tom a ~450 parole; chiusure dentro il POV; precedente al posto di recidiva; Pete passato apposta dopo la riga del G24 nel riepilogo; via "il tipo di"). Da integrare.
+- 2026-11-06: integrazione completa (v1.1, ~1.550 parole, parte Tom ~430). Ricadute: pete.md e claim in book-memory (nuova regola di lettura), mappa-eventi, ledger, outline → complete. Battuta «stai ancora guardando?» salvata nel paragrafo del televisore e nella chiusa, dentro il POV di Pete.

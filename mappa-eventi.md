@@ -346,7 +346,7 @@ Stessa struttura, ma qui la colonna "Reazione attesa" è **prescrittiva**: è il
 | 16 — Le 23:34 di venerdì (parte 1, l'impazienza) | Giorni seguenti | Allarga la ricerca ad altri casi anomali: nessuno chiaramente volontario come il TV Voss | **Il tell**: metodo ineccepibile usato per gestire l'attesa, non per risolvere un problema | Aumenta la tensione senza avanzare |
 | 16 — Le 23:34 di venerdì (parte 2) | **Venerdì 23:34** | Scrive di getto: ha letto della morte, ha notato il TV nella foto, chiede se la donna si sentisse minacciata | **Prima rottura della disciplina oraria**: vero cedimento emotivo, costoso, mai calcolo freddo. Al lettore arriva come ansia, quasi avventatezza | Punto di non ritorno della sua compostezza |
 | 17 — Il bivio (parte 1, Tom: la notifica ignorata) | Notte, poi mattina | Tom si sveglia, vede "New email from Emm…" sul pc in cucina e **non la apre** | **La paura istituzionale pesa quanto la curiosità**: rimanda al turno dopo | Coerente con la sua paura concreta di Pete |
-| 17 — Il bivio (parte 2, Pete) | **23:59** | Il telefono di lavoro di Pete vibra: alert per mail fuori orario ricevuta da un suo sottoposto | 🔒 Non può leggere il contenuto (mittente non sotto la sua giurisdizione) ma **leggerà il thread quando Tom risponderà**. Si attiva subito e concretamente: non minaccia a vuoto | Primo capitolo POV Pete: patetico e banale, **mai mitizzato** |
+| 17 — Il bivio (parte 2, Pete) | **23:59** | Riepilogo di mezzanotte sul telefono di lavoro: segnalazione «mail fuori orario ricevuta», nessuna infrazione | 🔒 Non può leggere finché Tom non la apre; aspetta che la apra o risponda fuori orario (infrazione). Prima: le due righe informative delle mail in orario di Tom (G21, G24); il G25 passa apposta davanti alla porta | Primo capitolo POV Pete: patetico e banale, **mai mitizzato** |
 
 ### Parte 8 — Il meeting e la caccia (POV alternato scena per scena)
 
@@ -446,7 +446,7 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 | Regola | Effetto narrativo |
 |---|---|
 | Divieto di lavoro/mail fuori orario | Genera gli alert automatici ai supervisori: è il meccanismo che accende Pete al cap. 17 |
-| Supervisore: legge il contenuto solo se il mittente è sotto la sua giurisdizione | Pete non può leggere Emma, ma legge **tutto il thread** quando Tom risponde |
+| Supervisore: legge il contenuto solo se il mittente è sotto la sua giurisdizione | Pete non può leggere Emma, ma legge la mail **appena Tom la apre** e tutto il thread quando risponde; aprire o rispondere fuori orario è infrazione, ricevere no (cap. 17) |
 | Supervisore: tetto sanzionatorio 60 minuti | Può solo accumulare fino alla soglia che giustifica l'intervento ispettivo |
 | Supervisore: CCTV solo a screenshot periodici | Il rumore della telecamera interrompe il meeting; il video completo resta fuori portata |
 | Ispettori interni: unica vista trasversale sull'archivio artefatti | È la ragione tecnica per cui Emma è rimasta invisibile per 5 anni |
