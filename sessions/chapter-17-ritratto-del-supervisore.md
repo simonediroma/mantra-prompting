@@ -30,3 +30,4 @@ ask-before-writing
 - **Deciso (autore, 2026-11-06), punto (6)**: l'avviso è solo una segnalazione, nessuna infrazione per Tom. Pete si mette in attesa del passo falso di Tom (la risposta, il thread).
 - **Deciso (autore, 2026-11-06), punto (7)**: l'occasione per Pete è che Tom risponda fuori orario: in quel caso attacca. Tom non lo fa; risponde il giorno dopo, in orario (cap. 18), ed è allora che Pete legge il thread.
 - **Precisato (autore, 2026-11-06), punto (7)**: nessuna posta alzata dal mittente (Elab non conta per Pete). La molla è che Tom, dopo dodici anni puliti, inizia ad avere più episodi in pochi mesi (cap. 2, ora questo). Pete si accanisce: un cane che ha fiutato l'osso.
+- **Deciso (autore, 2026-11-06), punto (8)**: chiusura su Pete che fissa il telefono, fantastica la risposta di Tom e la sanzione in Tabella (fino al sogno proibito dell'ispettore), si addormenta sul divano con Ciao Darwin acceso e il telefono sulla pancia. La risposta non arriva.
