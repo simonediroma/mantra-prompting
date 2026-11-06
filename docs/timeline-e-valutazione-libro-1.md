@@ -93,7 +93,7 @@ Legenda: **Trama** = quanto avanza la storia (fatti nuovi, svolte). **Personaggi
 |---|---|---|---|---|
 | 15 Il bivio | Media | Media | ⚠️ | Dopo la fusione restano solo la mail delle 8:00:01 e la decisione. **Opzione**: la mail delle 8:00:01 come ultima scena del cap. 14 (chiude con un cliffhanger vero invece che con il silenzio), e il bivio passa all'apertura del cap. 17, che è già dal POV di Tom. Da decidere quando arriviamo lì. |
 | 16 Le 23:34 di venerdì | Media | Alta | ✅ | Primo cedimento di Emma, rottura della disciplina oraria. |
-| 17 Ritratto del supervisore | Alta | Alta | ✅ | Entra Pete in scena. |
+| 17 Il bivio | Alta | Alta | ✅ | Entra Pete in scena. |
 | 18 La richiesta di meeting | Alta | Media | ✅ | Le due trappole: l'avatar di Emma, la rete di Pete. |
 | 19 Il meeting | Alta | Alta | ✅ | Primo faccia a faccia, Morse e video rivelati, la CCTV. |
 | 20 Inizia la caccia | Bassa | Media | ⚠️ | Breve per scelta: chiude il Libro 1. Va bene come coda, ma potrebbe essere l'ultima scena del cap. 19 (con il POV di Pete). |

@@ -1,6 +1,6 @@
 # Voice Sample
 
-> Estratto dal cap. 17 — Ritratto del supervisore (v1.0). Il campione fisso resta `voice-reference.md` (cap. 16 v4.9).
+> Estratto dal cap. 17 — Il bivio (v1.0). Il campione fisso resta `voice-reference.md` (cap. 16 v4.9).
 
 ## Apertura
 

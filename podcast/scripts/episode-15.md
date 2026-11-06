@@ -2,7 +2,7 @@
 episode: 15
 title: "Capitolo 15 — Le 08:00:01"
 description: "Una mail già scritta aspetta Tom al primo secondo del turno, con una domanda che solo lui e una donna morta potevano fare. La porta, per la prima volta, è aperta."
-source: chapters/15-il-bivio.md
+source: chapters/15-le-0800-01.md
 status: "script"
 recap: "Tom ha risposto a Emma con i fatti della scheda, tenendo per sé il Morse, il video e la telefonata."
 teaser: "Emma aspetta una risposta che non arriva, e un venerdì sera smette di aspettare."

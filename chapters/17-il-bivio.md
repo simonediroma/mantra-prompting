@@ -1,5 +1,5 @@
 ---
-title: Ritratto del supervisore
+title: Il bivio
 version: 1.0
 claim: Alle 23:34 la mail di Emma sveglia Tom e lo mette davanti al bivio, chiedere un incontro e rischiare il lavoro o chiudere per sempre, ma non la apre per paura del supervisore e rimanda tutto al turno. Venticinque minuti dopo quella paura prende un corpo. Pete, in mutande sul divano, riceve nel riepilogo di mezzanotte una segnalazione senza infrazione e senza contenuto, e capisce che il tecnico più pulito della sua divisione, dopo dodici anni, ha cominciato a lasciare tracce. Si mette in attesa del passo falso, sognando la sanzione che solo un ispettore può dare, e si addormenta con il telefono sulla pancia. La risposta non arriva.
 status: draft
