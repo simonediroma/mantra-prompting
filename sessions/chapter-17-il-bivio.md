@@ -11,12 +11,12 @@ chapter
 chapters/17-il-bivio.md
 
 ## Current step
-demolish
+integrate
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
-- [ ] demolish
+- [x] demolish
 - [ ] integrate
 
 ## Notes
@@ -34,3 +34,4 @@ demolish
 - **Confermato (autore, 2026-11-06)**: doppio POV (Tom → Pete) tenuto; Pete non legge la mail (vincolo giurisdizione + regola POV mail). Riepilogo approvato: Tom ~450 parole (eWatch, cucina, bivio a voce, non apre), Pete ~1.000 (23:59 sul divano, riepilogo di mezzanotte, segnalazione senza infrazione, cane con l'osso, ritratto, Tabella, sogno dell'ispettore, si addormenta col telefono sulla pancia).
 - 2026-11-06: bozza v1.0 salvata (~1.650 parole: Tom ~600, Pete ~1.050). Outline → draft; book-memory (summary log, ledger: notte del G31 di Tom, riepilogo di mezzanotte, casa di Pete, Pete e Tom); voice-sample aggiornato. Aggiunte non richieste da dichiarare: pc sullo stesso account di casa che ripete le notifiche; Tom non sa se aprire lasci traccia; televisore Meridian di Pete che chiude il capitolo («stai ancora guardando?»); Ciao Darwin muscolosi contro intellettuali; completo «da vent'anni».
 - **Deciso (autore, 2026-11-06)**: titolo "Il bivio" (prima "Ritratto del supervisore"); file `17-il-bivio.md`. Il file del cap. 15 diventa `15-le-0800-01.md`.
+- 2026-11-06: demolizione ciclo 1, 8 critiche tutte risolte (bivio motivato dalla sorveglianza; tv di Pete altro modello; regola: aprire conta, Pete legge quando Tom apre; parte Tom a ~450 parole; chiusure dentro il POV; precedente al posto di recidiva; Pete passato apposta dopo la riga del G24 nel riepilogo; via "il tipo di"). Da integrare.

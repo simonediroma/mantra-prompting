@@ -24,6 +24,7 @@
 | Ch. 14 — La fiducia di Tom | 1 | 7 | 0 | 0 |
 | Ch. 15 — Le 08:00:01 | 1 | 7 | 0 | 0 |
 | Ch. 16 — Le 23:34 di venerdì | 1 | 6 | 0 | 2 (1 respinta in parte, 1 accettata in parte) |
+| Ch. 17 — Il bivio | 1 | 8 | 0 | 0 |
 
 ---
 
@@ -45,7 +46,7 @@
 - **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
 - **Copia-incolla di descrizioni tra capitoli** (Elab cap. 9/10): ogni ripresa va riscritta dal POV del capitolo.
 
-- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video; cap. 8 ciclo 2: "farsi rivedere dallo stesso spettatore", conoscenza dell'autore attribuita a Tom; cap. 12 ciclo 3: ipotesi dell'investigatore smentita dalla cronologia che Emma ha appena letto, rassicurazione non dedotta dalle prove; cap. 14 ciclo 1: Tom mette alla prova ogni apparecchio ma non la mail di Emma; cap. 15 ciclo 1: eWatch "noto dal catalogo" ma mai collegato per venti giorni, allarme che si accende a comando): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
+- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 17 ciclo 1: il bivio senza motivo per l'incontro; cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video; cap. 8 ciclo 2: "farsi rivedere dallo stesso spettatore", conoscenza dell'autore attribuita a Tom; cap. 12 ciclo 3: ipotesi dell'investigatore smentita dalla cronologia che Emma ha appena letto, rassicurazione non dedotta dalle prove; cap. 14 ciclo 1: Tom mette alla prova ogni apparecchio ma non la mail di Emma; cap. 15 ciclo 1: eWatch "noto dal catalogo" ma mai collegato per venti giorni, allarme che si accende a comando): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
 
 Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ricorrenti):
 - **Fondamento di competenze tecniche non ancora giustificato dal profilo del personaggio** (visto sul cap. 1 con "compacting context" in Tom) — verificare ogni volta che un personaggio mostra conoscenza tecnica specifica.
@@ -318,3 +319,19 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 | Sofisma della sarda con mappatura incoerente | logical | integrated (v2.0) | Via le equazioni, resta l'eco. |
 | Orari di chiusura al secondo letti dalla lista | foundation / pattern (accesso) | integrated (v2.0) | Via gli orari (opzione a). |
 | Tic: "con cui" ×2, cascate negative, paragrafo-lampo, "pure" | style | integrated (v2.0) | "Con cui" tenuto (deroga); negazioni in positivo (regola "niente definitivo"); via "pure"; riga finale tenuta come beat. |
+
+### Ch. 17 — Il bivio
+
+#### Cycle 1 — 2026-11-06
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Il bivio non spiega perché l'alternativa sia un incontro | foundation / logical | resolved | La mail delle 23:34 ha esposto Tom alla sorveglianza: qualunque cosa scriva la leggono il supervisore e forse altri più in alto; vedersi di persona è l'unico modo di parlarle senza limiti; scrivere della morte aprirebbe un vaso di Pandora. Il ragionamento parte da ciò che Tom sa (morte taciuta, Morse, video, telefonata), non dal contenuto della mail, che non ha letto. |
+| "Come quello di mezza città" contro il cap. 3 (modelli non diffusi) e ironia lasciata cadere | contradiction | resolved | Il televisore di Pete è un altro modello; via "mezza città". |
+| Quale gesto teme Tom: ricevere, aprire o rispondere | logical / contradiction | resolved | Nuova regola (autore): ricevere non conta; quando Tom apre, Pete può leggere (è il supervisore di Tom, non di Emma). Aprire o rispondere di notte espone due volte (Pete legge subito + attività fuori orario); alle otto Tom è in regola e ha avuto la notte per decidere. Pete aspetta che la apra o risponda adesso. Aggiornare pete.md e il claim in book-memory. |
+| Parte di Tom ripetitiva e più lunga del previsto (~600 parole) | pacing / style (§4.3) | resolved | Via le ripetizioni (le undici e mezza, la regola dell'avviso detta due volte, lo schermo che illumina tre volte, "in orario" due volte); portare a ~450 parole. |
+| Le due chiusure escono dal POV limitato (luce tutta la notte, Pete che russa e il televisore che parla) | POV | resolved | Le immagini diventano ultimo gesto previsto dal personaggio: Tom va a letto lasciando la luce che illuminerà la cucina tutta la notte; Pete si addormenta con la tv accesa, tanto si spegnerà da sola (provare a salvare «stai ancora guardando?» come attesa di Pete, da mostrare all'autore). |
+| "Recidiva" non regge (infrazione diversa) | logical | resolved | La tripla nasce dalla mail fuori orario dopo un'infrazione già registrata sui tempi di esecuzione (i quarantasette minuti): un precedente, non una recidiva. |
+| "Come ogni mattina" contro cap. 2 e 15 | continuity | resolved | Pete ci era passato apposta: la riga del G24 nel riepilogo (mail in orario di Tom verso un indirizzo fuori divisione, informativa, nessuna infrazione, thread non aperto). Il thread lo leggerà nel cap. 18. |
+| Tic "il tipo di" e "con la stessa…" vicini | style (pattern tic) | resolved | Via "il tipo di"; tenuta la battuta dell'oroscopo. |
+

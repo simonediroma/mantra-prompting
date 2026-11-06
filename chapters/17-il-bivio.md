@@ -49,3 +49,18 @@ Se lo immaginava, Tom, sveglio in qualche cucina, a scrivere una risposta alle d
 Abbassò il telefono e se lo posò sulla pancia, a schermo in giù, per sentirlo vibrare prima ancora di sentirlo suonare. Su Ciao Darwin gli intellettuali avevano perso anche la prova di cultura generale. La pancia saliva e scendeva, sempre più piano, mentre il telefono saliva e scendeva con lei senza vibrare.
 
 Alle due e un quarto il televisore gli chiese se stesse ancora guardando. Pete russava, con le tre patatine sul tavolino e il telefono di lavoro sulla pancia, muto.
+
+## Demolition Log
+
+### Cycle 1 — 2026-11-06
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Il bivio non spiega perché l'alternativa sia un incontro | foundation / logical | resolved | La mail delle 23:34 ha esposto Tom alla sorveglianza: qualunque cosa scriva la leggono il supervisore e forse altri più in alto; vedersi di persona è l'unico modo di parlarle senza limiti; scrivere della morte aprirebbe un vaso di Pandora. Il ragionamento parte da ciò che Tom sa (morte taciuta, Morse, video, telefonata), non dal contenuto della mail, che non ha letto. |
+| "Come quello di mezza città" contro il cap. 3 (modelli non diffusi) e ironia lasciata cadere | contradiction | resolved | Il televisore di Pete è un altro modello; via "mezza città". |
+| Quale gesto teme Tom: ricevere, aprire o rispondere | logical / contradiction | resolved | Nuova regola (autore): ricevere non conta; quando Tom apre, Pete può leggere (è il supervisore di Tom, non di Emma). Aprire o rispondere di notte espone due volte (Pete legge subito + attività fuori orario); alle otto Tom è in regola e ha avuto la notte per decidere. Pete aspetta che la apra o risponda adesso. Aggiornare pete.md e il claim in book-memory. |
+| Parte di Tom ripetitiva e più lunga del previsto (~600 parole) | pacing / style (§4.3) | resolved | Via le ripetizioni (le undici e mezza, la regola dell'avviso detta due volte, lo schermo che illumina tre volte, "in orario" due volte); portare a ~450 parole. |
+| Le due chiusure escono dal POV limitato (luce tutta la notte, Pete che russa e il televisore che parla) | POV | resolved | Le immagini diventano ultimo gesto previsto dal personaggio: Tom va a letto lasciando la luce che illuminerà la cucina tutta la notte; Pete si addormenta con la tv accesa, tanto si spegnerà da sola (provare a salvare «stai ancora guardando?» come attesa di Pete, da mostrare all'autore). |
+| "Recidiva" non regge (infrazione diversa) | logical | resolved | La tripla nasce dalla mail fuori orario dopo un'infrazione già registrata sui tempi di esecuzione (i quarantasette minuti): un precedente, non una recidiva. |
+| "Come ogni mattina" contro cap. 2 e 15 | continuity | resolved | Pete ci era passato apposta: la riga del G24 nel riepilogo (mail in orario di Tom verso un indirizzo fuori divisione, informativa, nessuna infrazione, thread non aperto). Il thread lo leggerà nel cap. 18. |
+| Tic "il tipo di" e "con la stessa…" vicini | style (pattern tic) | resolved | Via "il tipo di"; tenuta la battuta dell'oroscopo. |
