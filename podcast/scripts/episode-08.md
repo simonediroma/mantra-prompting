@@ -3,7 +3,7 @@ episode: 8
 title: "Capitolo 8 — Il canale eTv"
 description: "Un canale senza volto, molte visualizzazioni, pochi iscritti e un ritmo che non ha senso."
 source: chapters/08-il-canale-etv.md
-status: "approved"
+status: "script"
 recap: "Tom ha trovato il video di yoga citato dalla signora Voss. Con un piede che cambia forma da un fotogramma all'altro."
 teaser: "una ricerca nell'archivio di Meridian restituisce più di quanto Tom si aspettasse."
 ---
@@ -17,7 +17,7 @@ Nell'episodio precedente, Tom ha trovato il video di yoga citato dalla signora V
 
 Riaprì la pagina del canale con il mento appoggiato sulla mano. Scorse l'elenco dei video uno dopo l'altro, mentre il disco passava alla terza traccia, con la stessa pazienza metodica con cui avrebbe controllato una scheda madre pin per pin. Un video su come sturare un lavandino senza chiamare un idraulico. Una ricetta di pasta al forno "che nessuno indovinerebbe essere senza glutine". Una cover acustica di una canzone che non riconosceva, cantata con una voce impeccabile, priva di qualunque imperfezione che di solito rende una voce umana interessante da ascoltare. Idraulica, cucina, musica, yoga. Argomenti che non avevano nulla in comune, se non un unico dettaglio. La stessa ragazza, sempre lei, protagonista assoluta di ognuno, esperta apparentemente di qualunque cosa a qualcuno fosse mai venuto in mente di cercare online.
 
-Da tecnico, quello che gli saltò all'occhio non fu la varietà in sé. Fu quello che mancava. Aprì tre, quattro, cinque descrizioni a caso. Erano vuote, o quasi, giusto una riga generica ripetuta identica sotto ogni video, senza un link, senza un rimando a un sito, un profilo social, un modo qualsiasi di seguirla altrove. Nessun "chi sono", nessuna biografia, nessun nome. Nemmeno un logo del canale che tornasse identico in ogni copertina, il minimo che un'agenzia avrebbe imposto fin dal primo giorno, se l'obiettivo fosse stato costruirci sopra un marchio riconoscibile.
+Da tecnico, quello che gli saltò all'occhio non fu la varietà in sé ma quello che mancava. Aprì tre, quattro, cinque descrizioni a caso. Erano vuote, o quasi, giusto una riga generica ripetuta identica sotto ogni video, senza un link, senza un rimando a un sito, un profilo social, un modo qualsiasi di seguirla altrove. Nessun "chi sono", nessuna biografia, nessun nome. Nemmeno un logo del canale che tornasse identico in ogni copertina, il minimo che un'agenzia avrebbe imposto fin dal primo giorno, se l'obiettivo fosse stato costruirci sopra un marchio riconoscibile.
 
 Poi guardò i numeri. Ogni video aveva decine di migliaia di visualizzazioni, ma gli iscritti al canale erano pochi. O almeno sembravano pochi. Tom non sapeva quale fosse un rapporto normale, poteva solo fare il confronto con i canali che conosceva, come quello del New York Times, dove il rapporto pendeva dalla parte degli iscritti. Su eTv, invece, la gente guardava e se ne andava. A chi gestiva il canale non interessava che qualcuno si ricordasse della ragazza. Interessava che i video venissero visti, il più possibile. Forse su nicchie scelte apposta perché la pubblicità rendesse di più, ma era solo un sospetto, perché quanto guadagna un canale da fuori non si vede.
 

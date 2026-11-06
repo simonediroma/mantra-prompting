@@ -1300,7 +1300,23 @@ _MORSE_FIX = {"SI": "Sì", "PIU": "Più"}
 def morse_words(seq):
     return " ".join(_MORSE_FIX.get(w, w.capitalize()) + "." for w in seq.split(" / "))
 
+_WEEKDAYS = {"lun": "lunedì", "mar": "martedì", "mer": "mercoledì", "gio": "giovedì",
+             "ven": "venerdì", "sab": "sabato", "dom": "domenica"}
+
+def spoken_time(text):
+    # 23:34 → "ventitré e trentaquattro"; 08:00:01 → "otto, zero zero e un secondo"
+    def t(m):
+        h, mm, ss = int(m.group(1)), m.group(2), m.group(3)
+        out = italian_number(h)
+        mins = "zero zero" if mm == "00" else italian_number(int(mm))
+        if ss is None:
+            return out + (" in punto" if mm == "00" else " e " + mins)
+        sec = "un secondo" if int(ss) == 1 else italian_number(int(ss)) + " secondi"
+        return f"{out}, {mins} e {sec}"
+    return re.sub(r"\b(\d{1,2}):(\d{2})(?::(\d{2}))?\b", t, text)
+
 def spoken_numbers(text):
+    text = spoken_time(text)
     text = re.sub(r"\b2x\b", "doppia", text)
     text = re.sub(r"(\d+)\s*%", lambda m: italian_number(int(m.group(1))) + " per cento", text)
     return re.sub(r"\b\d+\b", lambda m: italian_number(int(m.group(0))), text)
@@ -1320,6 +1336,7 @@ def spoken_box(line):
 
 def spoken_panel(line):
     s = re.sub(r"^\s*>\s?", "", line).replace("*", "").strip()
+    s = re.sub(r"\b(lun|mar|mer|gio|ven|sab|dom)\b(?= \d)", lambda m: _WEEKDAYS[m.group(1)] + ",", s)
     s = re.sub(r"[\U0001F000-\U0001FAFF☀-➿]\s*", "", s)
     if s.count(" · ") >= 3:                      # list of values: read as one sentence
         s = s.replace(" · ", ", ").replace(", …, ", "… ")
@@ -1410,7 +1427,7 @@ def render_script(project_dir, chapter, existing_meta=None):
     if fm["recap"]:
         parts.append(fm["recap"] if fm["recap"].startswith("Nell'episodio precedente") else "Nell'episodio precedente, " + fm["recap"])
     parts.append("[pause 1]")
-    parts.append(f"# Capitolo {italian_number(n)}. {title}")
+    parts.append(f"# Capitolo {italian_number(n)}. {spoken_numbers(title)}")
     if fm["sfx_open"]:
         parts.append(f"[sfx {fm['sfx_open']} under]")
     pov = (meta.get("pov") or "").strip().lower()

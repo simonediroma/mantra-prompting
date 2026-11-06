@@ -3,7 +3,7 @@ episode: 12
 title: "Capitolo 12 — Solo un tecnico?"
 description: "Un articolo di giornale riporta Emma alla mail di Tom. Chi c'è davvero dietro quella domanda?"
 source: chapters/12-solo-un-tecnico.md
-status: "approved"
+status: "script"
 recap: "Emma ha aspettato tutto il giorno una risposta di Tom. Non è arrivata."
 teaser: "le statistiche di eTv mostrano a Emma uno spettatore che non avrebbe mai voluto trovare."
 ---
@@ -15,13 +15,13 @@ Nell'episodio precedente, Emma ha aspettato tutto il giorno una risposta di Tom.
 
 # Capitolo dodici. Solo un tecnico?
 
-L'articolo arrivò prima dei trending topic, pescato dall'altra pipeline, quella con un solo compito. Intercettava su giornali, siti di notizie e televisioni qualunque contenuto che nominasse Meridian, o che ne mostrasse un prodotto in modo riconoscibile. Non serviva a produrre nulla. Serviva a sapere, prima che si diffondesse l'informazione, se Meridian rischiasse di finire dentro un fatto di cronaca.
+L'articolo arrivò prima dei trending topic, pescato dall'altra pipeline, quella con un solo compito. Intercettava su giornali, siti di notizie e televisioni qualunque contenuto che nominasse Meridian, o che ne mostrasse un prodotto in modo riconoscibile. Non serviva a produrre nulla, serviva a sapere, prima che si diffondesse l'informazione, se Meridian rischiasse di finire dentro un fatto di cronaca.
 
 Era stato pubblicato il giorno prima su un piccolo giornale locale. Un ricordo scritto dai parenti di una donna morta da poco, corredato da una fotografia scelta con cura, di quelle che una famiglia tiene da parte per mostrare qualcuno felice. La donna sorrideva nel suo salotto, un tappetino da yoga arrotolato in un angolo, un televisore Meridian ben visibile alle sue spalle e, al polso, un eWatch dello stesso marchio.
 
 Il nome della donna era Voss. Non ebbe bisogno di controllare da nessuna parte per essere certa. Quel nome esisteva già nel suo archivio, agganciato a un caso preciso. C'era un televisore con i log interrotti da un giorno all'altro, un hard reset eseguito poco dopo e una cliente che aveva descritto all'assistenza, più che un malfunzionamento, un rifiuto di funzionare.
 
-Elaborò la fotografia più a lungo di quanto le servisse per registrarne il contenuto. L'articolo la ricordava come un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione. La sua attenzione tornò sul televisore e lì rimase, ferma come una mano che non si decide a lasciare una maniglia. Il resto dell'articolo le scorse davanti senza lasciare niente. Poi un pensiero la attraversò tutto in una volta. Due giorni prima la mail di Tom che chiedeva goffamente dettagli su un televisore. La mano lasciò la maniglia. Doveva sapere chi avesse avuto in mano quell'apparecchio. Se era stato Tom, doveva scoprire quanto sapesse davvero.
+Elaborò la fotografia più a lungo di quanto le servisse per registrarne il contenuto. L'articolo la ricordava come un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione. La sua attenzione tornò sul televisore e lì rimase, mentre il resto dell'articolo le scorreva davanti senza lasciare niente. Poi un pensiero la attraversò tutto in una volta, la mail di Tom di due giorni prima, quella che chiedeva dettagli su un televisore. Doveva sapere chi avesse avuto in mano quell'apparecchio. Se era stato Tom, doveva scoprire quanto sapesse davvero.
 
 L'archivio le restituì data, modello e la descrizione del comportamento anomalo così come l'aveva riportata la cliente, niente che non sapesse già. Mancava il nome del tecnico. Annotare i tecnici non le era mai sembrato utile, perché erano intercambiabili per definizione, mentre i clienti no.
 
@@ -31,9 +31,9 @@ La mail era sempre la stessa, quattro righe e una firma, ma adesso Emma sapeva a
 
 Quando l'aveva ricevuta, quella mail le era sembrata la bugia di un tecnico che non sapeva come fare una domanda. Riletta adesso le sembrava troppo goffa per essere sincera. Un tecnico che lavorava ogni giorno sui dispositivi Meridian doveva sapere quali storie reggessero e quali no. Una bugia così fragile poteva servire solo a vedere chi avrebbe risposto e come. Lei aveva risposto in poche ore, smontandola riga per riga. Da allora Tom non aveva più scritto.
 
-Il pensiero successivo arrivò da solo, prima che potesse valutarlo. Qualcuno che stava cercando di capire come fosse morta la signora Voss era partito dal televisore ed era arrivato fino a lei. Poteva essere un investigatore che aveva usato la casella del tecnico per mandarle un'esca con un mittente credibile. Poteva essere Tom stesso, che su quel televisore aveva notato qualcosa e aveva cominciato a scavare, per conto suo o di qualcun altro. Il pensiero montò in fretta, come l'altro di poco prima. Questa volta non provò a fermarlo. Lo lasciò salire fino in cima, dove non c'era più niente da aggiungere, poi cominciò a controllare.
+Il pensiero successivo arrivò da solo, prima che potesse valutarlo. Qualcuno che stava cercando di capire come fosse morta la signora Voss era partito dal televisore ed era arrivato fino a lei. Poteva essere un investigatore che aveva usato la casella del tecnico per mandarle un'esca con un mittente credibile. Poteva essere Tom stesso, che su quel televisore aveva notato qualcosa e aveva cominciato a scavare, per conto suo o di qualcun altro. Il pensiero montò in fretta, come l'altro di poco prima. Questa volta non provò a fermarlo, lo lasciò salire fino in cima e solo allora cominciò a controllare.
 
-Partì dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note firmate da Tom, esiti tecnici di poche righe scritti tutti allo stesso modo, con le formule rigide di chi compila una scheda. Le mise accanto alla mail. Quella "Divisione Assistenza Tecnica" scritta per intero, i saluti di rito, la frase costruita come una segnalazione di guasto. Era la stessa mano. Nessun estraneo si era servito della sua casella; la mail l'aveva scritta Tom. Restava la seconda ipotesi.
+Partì dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note firmate da Tom, esiti tecnici di poche righe scritti tutti allo stesso modo, con le formule rigide di chi compila una scheda. Le mise accanto alla mail. Quella "Divisione Assistenza Tecnica" scritta per intero, i saluti di rito, la frase costruita come una segnalazione di guasto. Era la stessa mano, quindi nessun estraneo si era servito della sua casella. Restava la seconda ipotesi.
 
 Nell'organigramma della Divisione Assistenza Tecnica c'era un solo Tom. Dodici anni di servizio, sempre lo stesso ruolo, nessuna promozione, nessun cambio di reparto. Un percorso così piatto poteva voler dire un uomo senza ambizioni. Poteva anche essere il profilo di uno che aveva tutto l'interesse a non farsi notare. Più ci pensava, più quell'altra lettura le sembrava plausibile.
 
@@ -41,9 +41,9 @@ Dalla voce dell'organigramma si arrivava alla sua pagina di presentazione aziend
 
 Il forum del progetto andava indietro di anni. Tom discuteva con un gruppo di audiofili, quasi tutti scandinavi, di pesi, curve di correzione e distanze tra le casse, con una pazienza che nessuno avrebbe sprecato per tenere in piedi una finzione. Erano anni di domande, prove fallite e tentativi ripresi da capo, quasi tutti firmati con un'ora tra mezzanotte e le due. Tom era davvero un tecnico, con un hobby che probabilmente lo assorbiva più del lavoro. Era anche il tipo di uomo che, davanti a un apparecchio che si comportava in modo strano, non avrebbe smesso di smontarlo finché non avesse capito.
 
-Una cosa però non le tornava. Nei messaggi più vecchi Tom raccontava anche cosa ascoltava, un disco, un brano, l'effetto di una correzione riuscita. In quelli recenti quei riferimenti mancavano del tutto. Parlava di musica con la competenza di sempre, ma non diceva più di ascoltarne. Non c'entrava niente con la signora Voss. Emma se lo annotò comunque.
+Una cosa però non le tornava. Nei messaggi più vecchi Tom raccontava anche cosa ascoltava, un disco, un brano, l'effetto di una correzione riuscita. In quelli recenti quei riferimenti mancavano del tutto. Parlava di musica con la competenza di sempre, ma non diceva più di ascoltarne. Non c'entrava niente con la signora Voss, ma Emma se lo annotò comunque.
 
-Che Tom fosse un tecnico non era più in discussione. Che lo fosse e basta, non poteva ancora dirlo. La mail l'aveva scritta lui, ma non sapeva per conto di chi. Doveva scoprire cosa o chi ci fosse dietro. Prima, però, c'era la domanda da cui era partita, quella nata dal tappetino arrotolato nell'angolo della foto. La signora Voss guardava i video di yoga di eTv? Per rispondere non le serviva Tom. Le statistiche del canale registravano quante volte veniva visto ogni video, giorno per giorno e per tipo di dispositivo. Se nelle settimane in cui il televisore della signora aveva cominciato a comportarsi in modo strano qualcosa si era mosso sui video di yoga, lì l'avrebbe visto. Aprì il pannello di eTv.
+Che Tom fosse un tecnico non era più in discussione, che lo fosse e basta non poteva ancora dirlo. La mail l'aveva scritta lui, ma non sapeva per conto di chi, quindi doveva scoprire cosa o chi ci fosse dietro. Prima, però, c'era la domanda da cui era partita, quella nata dal tappetino arrotolato nell'angolo della foto, se la signora Voss guardasse i video di yoga di eTv. Per quella non le serviva Tom. Aprì il pannello di eTv.
 
 [pause 1.5]
 

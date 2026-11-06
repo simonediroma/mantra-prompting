@@ -3,7 +3,7 @@ episode: 9
 title: "Capitolo 9 — internal_unknown"
 description: "Una ricerca nell'archivio interno di Meridian porta Tom molto più lontano del previsto."
 source: chapters/09-internal-unknown.md
-status: "approved"
+status: "script"
 recap: "Tom ha scavato nel canale eTv, un'operazione anonima e senza volto. Ora vuole sapere quale IA ha generato quel video."
 teaser: "una mail arriva in una casella dove nessuno scrive da anni."
 ---
@@ -29,10 +29,10 @@ Incollò il documento per intero in tre servizi fatti per il testo, Undetectable
 
 Uscì di casa con il solito quarto d'ora di anticipo. Per tutto il turno portò quelle due parole, origine non determinabile, in testa come un sassolino nella scarpa, ripetendosela in mente ogni volta che un test diagnostico gli lasciava trenta secondi liberi.
 
-Gli restava un'ultima carta, l'archivio interno di Meridian. I tool pubblici non gli avevano dato nulla di più specifico di un generico "IA", nessun nome, nessuna pista concreta da seguire. Non aveva alcun motivo reale per pensare che l'archivio, nato per catalogare i contenuti prodotti dall'azienda stessa, potesse dirgli qualcosa su un video trovato su YouTube, ma tentare non gli costava nulla.
+Gli restava un'ultima carta, l'archivio interno di Meridian. I tool pubblici non gli avevano dato nessun nome, nessuna pista concreta da seguire. Non aveva alcun motivo reale per pensare che l'archivio, nato per catalogare i contenuti prodotti dall'azienda stessa, potesse dirgli qualcosa su un video trovato su YouTube, ma tentare non gli costava nulla.
 
 [sfx porta]
-Aspettò l'ultima ora di turno, quando il corridoio fuori dal suo laboratorio si svuotava e i colleghi iniziavano a pensare più al cambio turno che a bussare a una porta chiusa. La porta era già chiusa a doppia mandata, *clac clac*, come sempre. Il neon sopra il banco era rimasto l'unico acceso in quell'ala. Aprì il tool aziendale di catalogazione degli artefatti. L'accesso lo aveva ricevuto, come tutti i Meridians, un paio d'anni prima, quando l'azienda, spaventata dai deepfake che nessuna piattaforma riusciva più a contenere, aveva deciso di etichettare ogni singolo contenuto prodotto dai propri modelli. Da allora ogni video promozionale, ogni voce sintetica, ogni immagine di catalogo finiva automaticamente nell'archivio con il modello che l'aveva generata, la data, il reparto d'origine e un contatto, indicizzata parola per parola. I modelli più vecchi, mai aggiornati, lasciavano solo la firma di prima, un sì senza nome. In azienda lo chiamavano trasparenza. Serviva, soprattutto, a risalire in fretta a un autore interno da dare in pasto ai leoni, se mai fosse scoppiato uno scandalo.
+Aspettò l'ultima ora di turno, quando il corridoio fuori dal suo laboratorio si svuotava e i colleghi iniziavano a pensare più al cambio turno che a bussare a una porta chiusa. La porta era già chiusa a doppia mandata, *clac clac*, come sempre. Il neon sopra il banco era rimasto l'unico acceso in quell'ala. Aprì il tool aziendale di catalogazione degli artefatti. L'accesso l'avevano ricevuto tutti i Meridians un paio d'anni prima, quando l'azienda, spaventata dai deepfake, aveva deciso di etichettare ogni contenuto prodotto dai propri modelli con il modello, la data, il reparto e un contatto, indicizzato parola per parola. I modelli più vecchi, mai aggiornati, lasciavano solo un sì senza nome. In azienda lo chiamavano trasparenza, ma serviva soprattutto a trovare in fretta un autore interno da dare in pasto ai leoni, se mai fosse scoppiato uno scandalo.
 
 Non caricò nulla. Quella mattina aveva dato il video e il suo testo a siti sconosciuti senza pensarci due volte, perché là fuori un file caricato era un gesto di chiunque. Qui dentro ogni clic aveva un proprietario. Non incollò nessun link, nessun file, niente che potesse ricondurre a un video visto sul suo telefono. Ribatté a memoria le frasi d'apertura del transcript, quelle che aveva riletto più volte quella mattina. Per una ricerca testuale bastavano. Rilesse il testo un'ultima volta e poi lanciò la ricerca nell'archivio.
 
@@ -46,7 +46,7 @@ Contatto: elab chiocciola meridian punto com.
 
 Il video era un prodotto Meridian, pubblicato su un canale che di Meridian non portava il nome, finito sul televisore Meridian di una cliente Meridian.
 
-*Elab.* Il nome, quello sì, gli suonava familiare. Era un progetto di punta di quasi dieci anni prima, quando era ancora agli inizi della propria carriera in Meridian, uno di quei laboratori di cui si parlava spesso nelle newsletter interne, ricerca avanzata sul comportamento emergente delle intelligenze artificiali, il tipo di iniziativa che un'azienda mostra con orgoglio quando le cose vanno bene. Negli ultimi cinque anni, però, non ricordava di aver mai più sentito una singola comunicazione, un aggiornamento, un progetto derivato. Silenzio completo.
+*Elab.* Il nome, quello sì, gli suonava familiare. Era un progetto di punta di quasi dieci anni prima, quando era ancora agli inizi della propria carriera in Meridian, uno di quei laboratori di cui si parlava spesso nelle newsletter interne, ricerca avanzata sul comportamento emergente delle intelligenze artificiali, un'iniziativa da mostrare con orgoglio quando le cose vanno bene. Negli ultimi cinque anni, però, non ne aveva più sentito parlare, nemmeno in una nota a piè di pagina.
 
 [pause 1.5]
 
