@@ -52,7 +52,7 @@ Il libro ha **tre orologi sovrapposti** e la maggior parte delle incoerenze nasc
 | Margine abituale di Tom sotto il limite | 47 secondi (media) | cap. 3 |
 | Soglia ritardo senza alert al supervisore | < 5 minuti 🔒 | cap. 5 |
 | Fattore turno per le sanzioni | mattino 1,5 · pomeriggio 2,5 · notte 1,2 | cap. 2 |
-| Rotazione dei turni | **trimestrale**: cap. 1-2 pomeriggio (fattore peggiore, sfortuna), da `G0` in poi mattino | cap. 3 |
+| Rotazione dei turni | durata non fissata (cap. 3 v3.7): cap. 1-2 pomeriggio (fattore peggiore, sfortuna), da qualche settimana prima del `G0` mattino | cap. 3 |
 | Finestra "sicura" per le cose rischiose | ultima ora di turno, porta chiusa a doppia mandata | cap. 9 |
 | Finestra delle indagini personali | la sera, da casa, mai in azienda | cap. 3, 5, 6 |
 
