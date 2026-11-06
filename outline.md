@@ -247,7 +247,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Collegamento al precedente**: l'alert è generato dalla mail del cap. 16.
 **Collegamento al successivo**: apre la Parte 8, dove Pete inizia ad agire concretamente.
 **Scrittura (2026-11-06, dialogo)**: l'eWatch sveglia Tom; in cucina il pc (stesso account di casa) mostra l'anteprima; bivio a voce («Se la apro adesso, lui lo sa», «O le chiedo di vederci, o chiudo qui») con pochi gesti; alle 23:59 il riepilogo di mezzanotte ai supervisori; Pete in mutande sul divano davanti a Ciao Darwin; segnalazione senza infrazione (Tom ha solo ricevuto); la molla è che Tom, pulito per dodici anni, ha più episodi in pochi mesi (cane con l'osso), non il mittente; Pete aspetta una risposta fuori orario che non arriva e si addormenta con il telefono sulla pancia.
-**Demolizione (2026-11-06, v1.1)**: Pete legge la mail quando Tom la apre (aprire o rispondere fuori orario è infrazione, ricevere no); il bivio nasce dalla sorveglianza (niente di ciò che Tom sa può più passare per iscritto); tv di Pete di un altro modello; Pete era passato apposta davanti alla porta dopo le righe del riepilogo sulle mail in uscita di Tom.
+**Demolizione (2026-11-06, v1.1)**: Pete legge la mail quando Tom la apre (aprire o rispondere fuori orario è infrazione, ricevere no); il bivio nasce dalla sorveglianza (niente di ciò che Tom sa può più passare per iscritto); tv di Pete di un altro modello; Pete aveva visto nel riepilogo la riga della prima mail di Tom verso un indirizzo nuovo (G21) e il G25 era passato apposta davanti alla porta, per far sentire la sua presenza.
 **Stato**: `complete`
 **File**: `chapters/17-il-bivio.md`
 

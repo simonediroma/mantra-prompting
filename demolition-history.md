@@ -335,3 +335,20 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 | "Come ogni mattina" contro cap. 2 e 15 | continuity | integrated (v1.1) | Pete ci era passato apposta: la riga del G24 nel riepilogo (mail in orario di Tom verso un indirizzo fuori divisione, informativa, nessuna infrazione, thread non aperto). Il thread lo leggerà nel cap. 18. |
 | Tic "il tipo di" e "con la stessa…" vicini | style (pattern tic) | integrated (v1.1) | Via "il tipo di"; tenuta la battuta dell'oroscopo. |
 
+### Revise — 2026-11-06 (v1.2)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| G1 due gerundi, schermo lasciato dopo il letto | grammar | integrated (v1.2) | "Posò il bicchiere nel lavello, lasciò lo schermo acceso e tornò a letto, sapendo che…" |
+| G2 "nessuno dei due" senza referente | grammar / R4 | integrated (v1.2) | "che nemmeno lui aveva avuto il coraggio di affrontare" |
+| G3 "adesso questa" ripetuto | style | integrated (v1.2) | Tolta "Adesso c'era questa riga." |
+| G4 "oltre" ×3 | style | integrated (v1.2) | "…gli screenshot. Erano anche gli unici a poter dare la sanzione vera" |
+| P1 soggetto ambiguo nella chiusa | R4 | integrated (v1.2) | "sarebbe stata lei a chiedergli" |
+| P2 "da vent'anni" ×2 | style | integrated (v1.2) | Tabella "da quando era al liceo" |
+| C1 "ragazzi di quinta a quattordici anni" | character / facts | integrated (v1.2) | "terza media" |
+| K1 *bzzzz* (timer) per una mail | continuity | integrated (v1.2) | "il doppio ronzio delle mail, *bzz bzz*" |
+| K2 ritardo di tre minuti sotto la soglia dei cinque | continuity | integrated (v1.2) | "sei minuti" |
+| K3 Pete tifa e "non guardava" | contradiction | integrated (v1.2) | "Ciao Darwin però era solo un modo di passare il tempo." |
+| K4 riepilogo = solo infrazioni | continuity | integrated (v1.2) | "infrazioni e segnalazioni" |
+| K5 righe del riepilogo (autore) | continuity | integrated (v1.2) | Compare solo la prima mail verso un indirizzo nuovo: G21 (bluff). Pete non apre il thread; il G25, quattro giorni dopo, passa apposta per far sentire la sua presenza. "una sanzione, una mail, una porta aperta e adesso questa". |
+
