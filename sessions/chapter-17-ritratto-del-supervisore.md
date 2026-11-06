@@ -11,11 +11,11 @@ chapter
 chapters/17-ritratto-del-supervisore.md
 
 ## Current step
-write
+demolish
 
 ## Steps completed
 - [x] ask-before-writing
-- [ ] write
+- [x] write
 - [ ] demolish
 - [ ] integrate
 
@@ -32,3 +32,4 @@ write
 - **Precisato (autore, 2026-11-06), punto (7)**: nessuna posta alzata dal mittente (Elab non conta per Pete). La molla è che Tom, dopo dodici anni puliti, inizia ad avere più episodi in pochi mesi (cap. 2, ora questo). Pete si accanisce: un cane che ha fiutato l'osso.
 - **Deciso (autore, 2026-11-06), punto (8)**: chiusura su Pete che fissa il telefono, fantastica la risposta di Tom e la sanzione in Tabella (fino al sogno proibito dell'ispettore), si addormenta sul divano con Ciao Darwin acceso e il telefono sulla pancia. La risposta non arriva.
 - **Confermato (autore, 2026-11-06)**: doppio POV (Tom → Pete) tenuto; Pete non legge la mail (vincolo giurisdizione + regola POV mail). Riepilogo approvato: Tom ~450 parole (eWatch, cucina, bivio a voce, non apre), Pete ~1.000 (23:59 sul divano, riepilogo di mezzanotte, segnalazione senza infrazione, cane con l'osso, ritratto, Tabella, sogno dell'ispettore, si addormenta col telefono sulla pancia).
+- 2026-11-06: bozza v1.0 salvata (~1.650 parole: Tom ~600, Pete ~1.050). Outline → draft; book-memory (summary log, ledger: notte del G31 di Tom, riepilogo di mezzanotte, casa di Pete, Pete e Tom); voice-sample aggiornato. Aggiunte non richieste da dichiarare: pc sullo stesso account di casa che ripete le notifiche; Tom non sa se aprire lasci traccia; televisore Meridian di Pete che chiude il capitolo («stai ancora guardando?»); Ciao Darwin muscolosi contro intellettuali; completo «da vent'anni».

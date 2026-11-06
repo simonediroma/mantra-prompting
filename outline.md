@@ -245,7 +245,8 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Beat chiave**: la paura istituzionale di Tom pesa quanto la curiosità, e nello stesso minuto quella paura prende un volto. Pete smette di essere una minaccia astratta e diventa un personaggio con una propria fame e una propria comicità grottesca. Chiusura di Parte 7.
 **Collegamento al precedente**: l'alert è generato dalla mail del cap. 16.
 **Collegamento al successivo**: apre la Parte 8, dove Pete inizia ad agire concretamente.
-**Stato**: `to-write`
+**Scrittura (2026-11-06, dialogo)**: l'eWatch sveglia Tom; in cucina il pc (stesso account di casa) mostra l'anteprima; bivio a voce («Se la apro adesso, lui lo sa», «O le chiedo di vederci, o chiudo qui») con pochi gesti; alle 23:59 il riepilogo di mezzanotte ai supervisori; Pete in mutande sul divano davanti a Ciao Darwin; segnalazione senza infrazione (Tom ha solo ricevuto); la molla è che Tom, pulito per dodici anni, ha più episodi in pochi mesi (cane con l'osso), non il mittente; Pete aspetta una risposta fuori orario che non arriva e si addormenta con il telefono sulla pancia.
+**Stato**: `draft`
 **File**: `chapters/17-ritratto-del-supervisore.md`
 
 ---
