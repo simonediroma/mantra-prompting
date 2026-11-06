@@ -25,3 +25,4 @@ ask-before-writing
 - **Deciso (autore, 2026-11-06), punto (1)**: alle 23:34 è l'eWatch a svegliare Tom.
 - **Deciso (autore, 2026-11-06)**: Tom si alza e va in cucina; il pc acceso mostra l'anteprima "New email from Emm..."; il bivio si svolge lì, al buio, con lo schermo come unica luce.
 - **Deciso (autore, 2026-11-06), punto (2)**: alle 23:59 parte il riepilogo di mezzanotte: il sistema raccoglie le infrazioni della giornata e manda gli avvisi ai supervisori un minuto prima della fine del giorno. Pete lo aspetta ogni sera.
+- **Deciso (autore, 2026-11-06), punto (3)**: Pete alle 23:59 è a casa, in mutande sul divano davanti a Ciao Darwin, resti di cotoletta e patatine, telefono di lavoro sul bracciolo in attesa del riepilogo. Il completo può comparire appeso come dettaglio.
