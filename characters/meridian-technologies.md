@@ -48,7 +48,7 @@ Un ritardo fino a 5 minuti sull'inizio del turno non è sanzionabile. Oltre i 5 
 
 ## Il sistema di timbratura
 
-Il turno del mattino termina alle 12:45 e riprende dopo 2 ore. In teoria i dipendenti potrebbero tornare a casa a pranzo, ma le regole sono rigidissime: anche un solo minuto di ritardo sulla timbratura comporta una mancata timbratura per l'intero turno, con decurtazione dello stipendio pari a 4 ore. Per questo praticamente nessuno rischia di tornare a casa — si avventurano fuori solo genitori costretti da emergenze familiari. (Coerente col fatto che Tom, che salta il pranzo per digiuno intermittente, non ha comunque mai avuto motivo di scontrarsi con questa regola — fino agli eventi del Libro 2.)
+In teoria i dipendenti potrebbero tornare a casa durante la pausa pranzo, ma le regole sono rigidissime: anche un solo minuto di ritardo sulla timbratura comporta una mancata timbratura per l'intero turno, con decurtazione dello stipendio pari a 4 ore. Per questo praticamente nessuno rischia di tornare a casa — si avventurano fuori solo genitori costretti da emergenze familiari. (Coerente col fatto che Tom, che salta il pranzo per digiuno intermittente, non ha comunque mai avuto motivo di scontrarsi con questa regola — fino agli eventi del Libro 2.)
 
 ## Il privilegio dei supervisori in mensa
 
