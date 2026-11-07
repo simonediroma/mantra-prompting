@@ -1,6 +1,6 @@
 ---
 title: Il bivio
-version: 1.6
+version: 1.7
 revised: 2026-11-06
 claim: Alle 23:34 la mail di Emma sveglia Tom e lo mette davanti al bivio. Non la apre, perché aprirla di notte vuol dire lavorare fuori orario e consegnarla a Pete, e capisce che da stanotte niente di quello che sa (Morse, video, telefonata, la morte che ha taciuto) può più passare per iscritto. Vederla di persona è l'unico modo di parlarle senza un supervisore in mezzo, chiudere l'altra strada; rimanda al turno. Venticinque minuti dopo quella paura prende un corpo. Pete, in mutande sul divano, riceve nel riepilogo di mezzanotte una segnalazione senza infrazione e senza contenuto, la mette in fila con la sanzione, la riga del G21 nel riepilogo e la porta accostata, e fiuta l'osso. Aspetta che Tom la apra fuori orario, sognando la sanzione che solo un ispettore può dare, e si addormenta con il telefono sulla pancia.
 status: draft
@@ -9,7 +9,7 @@ summary: G31, venerdì notte, doppio POV. Alle 23:34 l'eWatch sveglia Tom; in cu
 
 L'eWatch lo svegliò alle undici e trentaquattro di venerdì con il doppio ronzio delle mail, *bzz bzz*, che sul comodino, al buio, sembrava durare il doppio. Quando Tom lo trovò a tentoni accanto al bicchiere vuoto il quadrante si era già spento, perché un eWatch dava la notizia e tornava a dormire prima di chi la riceveva. Il computer no. Era rimasto aperto sul tavolo della cucina e aveva ricevuto la stessa notifica dell'orologio, senza spegnersi dopo tre secondi.
 
-Si alzò senza accendere niente. Il pavimento della cucina era freddo, il frigorifero ronzava per conto suo, come fanno i frigoriferi quando pensano che nessuno li ascolti, mentre lo schermo faceva sul tavolo un rettangolo bianco che arrivava fino alla tazza del caffè della mattina, ancora piena. Nel riquadro delle notifiche c'era una riga sola, troncata dove finiva lo spazio.
+Si alzò senza accendere niente. Il pavimento della cucina era freddo, il frigorifero ronzava per conto suo, come fanno i frigoriferi di notte, quasi amplificato dal silenzio della casa, mentre lo schermo faceva sul tavolo un rettangolo bianco che arrivava fino alla tazza del caffè della mattina, ancora piena. Nel riquadro delle notifiche c'era una riga sola, troncata dove finiva lo spazio.
 
 **New email from Emm…**
 
@@ -89,3 +89,4 @@ Abbassò il telefono e se lo posò sulla pancia, a schermo in giù, per sentirlo
 | "Da stanotte" contro la regola di lettura (Pete poteva già leggere le mail aperte da Tom) | logical / continuity | integrated (v1.4) | "da stanotte Pete aveva un motivo per leggere ogni parola che le avesse scritto": cambia l'attenzione, non la possibilità. |
 | Indicazione geografica su *Ciao Darwin* (autore) | world | integrated (v1.5) | Tolto "un programma italiano che Pete guardava con i sottotitoli automatici": nessuna indicazione geografica; restano corsivo e "fighi" contro "sfigati". |
 | "Stava sullo stesso account dell'orologio" non chiaro (autore) | clarity / voice | integrated (v1.6) | Testo dell'autore: "aveva ricevuto la stessa notifica dell'orologio, senza spegnersi dopo tre secondi" (numero in lettere, virgola). |
+| Frigorifero "quando pensano che nessuno li ascolti" (autore: togliere) | voice | integrated (v1.7) | Testo dell'autore: "come fanno i frigoriferi di notte, quasi amplificato dal silenzio della casa" (soggetto "i frigoriferi" esplicitato, "amplificato" al singolare con il frigorifero). |
