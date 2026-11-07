@@ -1,6 +1,6 @@
 ---
 title: Il bivio
-version: 1.3
+version: 1.4
 revised: 2026-11-06
 claim: Alle 23:34 la mail di Emma sveglia Tom e lo mette davanti al bivio. Non la apre, perché aprirla di notte vuol dire lavorare fuori orario e consegnarla a Pete, e capisce che da stanotte niente di quello che sa (Morse, video, telefonata, la morte che ha taciuto) può più passare per iscritto. Vederla di persona è l'unico modo di parlarle senza un supervisore in mezzo, chiudere l'altra strada; rimanda al turno. Venticinque minuti dopo quella paura prende un corpo. Pete, in mutande sul divano, riceve nel riepilogo di mezzanotte una segnalazione senza infrazione e senza contenuto, la mette in fila con la sanzione, la riga del G21 nel riepilogo e la porta accostata, e fiuta l'osso. Aspetta che Tom la apra fuori orario, sognando la sanzione che solo un ispettore può dare, e si addormenta con il telefono sulla pancia.
 status: draft
@@ -17,7 +17,7 @@ Emma non gli aveva mai scritto fuori dal turno. Ricevere una mail di notte non e
 
 «Se la apro adesso, lui lo sa» disse alla cucina.
 
-La cucina non rispose, nemmeno il frigorifero, che di solito qualcosa da dire ce l'aveva. Tom ritirò la mano e si riempì un bicchiere d'acqua dal rubinetto. Lo bevve in piedi, a piccoli sorsi, davanti a quella riga. Qualunque cosa ci fosse scritta dopo "Emm", da stanotte ogni parola che le avesse scritto l'avrebbe letta anche Pete, forse anche qualcuno più in alto di lui. Il Morse, il video e la telefonata alla signora non potevano più passare da lì, tanto meno la morte che aveva tolto dalla sua risposta, perché una mail con dentro quella morte avrebbe aperto un vaso di Pandora che non voleva toccare.
+La cucina non rispose, nemmeno il frigorifero, che di solito qualcosa da dire ce l'aveva. Tom ritirò la mano e si riempì un bicchiere d'acqua dal rubinetto. Lo bevve in piedi, a piccoli sorsi, davanti a quella riga. Qualunque cosa ci fosse scritta dopo "Emm", da stanotte Pete aveva un motivo per leggere ogni parola che le avesse scritto, forse anche qualcuno più in alto di lui. Il Morse, il video e la telefonata alla signora non potevano più passare da lì, tanto meno la morte che aveva tolto dalla sua risposta, perché una mail con dentro quella morte avrebbe aperto un vaso di Pandora che non voleva toccare.
 
 «O le chiedo di vederci» disse, piano. «O chiudo qui.»
 
@@ -86,3 +86,4 @@ Abbassò il telefono e se lo posò sulla pancia, a schermo in giù, per sentirlo
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | *Ciao Darwin* come tv locale contro il cap. 10 (programma italiano con sottotitoli automatici, mondo non italiano); titolo senza corsivo | world / continuity | integrated (v1.3) | "un programma italiano che Pete guardava con i sottotitoli automatici"; puntata "fighi" contro "sfigati" (gergo da liceo di Pete; nel cap. 10 era secchione contro palestrato); corsivo in tutte le occorrenze. |
+| "Da stanotte" contro la regola di lettura (Pete poteva già leggere le mail aperte da Tom) | logical / continuity | integrated (v1.4) | "da stanotte Pete aveva un motivo per leggere ogni parola che le avesse scritto": cambia l'attenzione, non la possibilità. |
