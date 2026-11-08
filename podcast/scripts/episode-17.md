@@ -3,7 +3,7 @@ episode: 17
 title: "Capitolo 17 — Il bivio"
 description: "Nel cuore della notte una notifica sveglia Tom, che non osa aprirla. Venticinque minuti dopo, su un divano, entra in scena l'uomo di cui ha paura."
 source: chapters/17-il-bivio.md
-status: "script"
+status: "approved"
 recap: "Emma ha seguito Tom per una settimana e venerdì sera, alle ventitré e trentaquattro, gli ha scritto senza aspettare le otto."
 teaser: "una mail di poche parole, riscritta più volte, e una risposta che non è un messaggio."
 ---
