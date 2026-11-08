@@ -1321,6 +1321,18 @@ def spoken_numbers(text):
     text = re.sub(r"(\d+)\s*%", lambda m: italian_number(int(m.group(1))) + " per cento", text)
     return re.sub(r"\b\d+\b", lambda m: italian_number(int(m.group(0))), text)
 
+# System boxes read with a wording approved by the author (exact chapter line → spoken text).
+BOX_SPOKEN = {
+    "**TABELLA DI CONVERSIONE · uso personale**": "Tabella di conversione. Uso personale.",
+    "**15 minuti · smutandata semplice**": "Quindici minuti: smutandata semplice.",
+    "**30 minuti · doppia smutandata**": "Trenta minuti: doppia smutandata.",
+    "**45 minuti · tripla smutandata**": "Quarantacinque minuti: tripla smutandata.",
+    "**60 minuti · smutandata con testa nel cestino** *(tetto del supervisore)*":
+        "Sessanta minuti: smutandata con testa nel cestino. Tetto del supervisore.",
+    "**Interdizione + 30% per 3 mesi · testa nel water con le mutande in testa** *(solo ispettori)*":
+        "Interdizione dal lavoro e trenta per cento dello stipendio per tre mesi: testa nel water con le mutande in testa. Solo ispettori.",
+}
+
 def spoken_box(line):
     s = line.strip().strip("*").strip()
     s = s.replace("[omesso in automatico]", "omesso in automatico").replace("[omesso]", "omesso")
@@ -1330,9 +1342,9 @@ def spoken_box(line):
     s = re.sub(r"\bTurno: B\b", "Turno: bi", s)
     s = re.sub(r"([\w.-]+)@([\w.-]+)\.(\w+)",
                lambda m: f"{m.group(1)} chiocciola {m.group(2).replace('.', ' punto ')} punto {m.group(3)}", s)
-    s = s.replace("_", " ")
+    s = s.replace("_", " ").replace(" · ", ". ")
     s = spoken_numbers(s)
-    return s if s.endswith((".", "!", "?")) else s + "."
+    return s if s.endswith((".", "!", "?", "…")) else s + "."
 
 def spoken_panel(line):
     s = re.sub(r"^\s*>\s?", "", line).replace("*", "").strip()
@@ -1388,6 +1400,8 @@ def adapt_chapter_body(body, sfx_map=None, morse_pov=False):
                     spoken.append(f"[sfx morse {text}" + (" under]" if len(text.split()) > 3 else "]"))
                 last_morse = text
                 spoken.append(MORSE_SPOKEN.get(seq) or morse_words(seq))
+            elif s in BOX_SPOKEN:                                               # box with approved wording
+                spoken.append(BOX_SPOKEN[s])
             elif re.fullmatch(r"\*\*.+\*\*", s):                                # system box
                 spoken.append(spoken_box(s))
             elif s.startswith(">"):                                             # panel / blockquote

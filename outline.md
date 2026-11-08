@@ -204,7 +204,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ---
 
-### Capitolo 15 — Le 08:00:01 (file: `15-il-bivio.md`)
+### Capitolo 15 — Le 08:00:01
 **Nota di struttura (2026-10-28)**: fusione dei cap. 16 ("Il chiodo fisso") e 17 ("Il bivio") della numerazione precedente. **Aggiornamento (2026-10-29)**: la parte 1 (il chiodo fisso) è passata in coda al cap. 14; il capitolo resta solo la mail delle 8:00:01 e il bivio. **Aggiornamento (2026-10-31, C-38)**: capitolo corto ma con una scena vera, costruita come il cap. 14; il bivio passa all'apertura del cap. 17.
 **POV**: Tom
 **Obiettivo di scena (la mail delle 8:00:01)**: la mattina dopo (G25), Tom trova la mail di Emma già in casella alle 8:00:01 e la legge dentro il timer di un altro apparecchio, come nel cap. 14: partendo dalla frase della signora sulla scheda ("si rifiuta di accendersi"), Emma chiede se la cliente intendesse quel "si rifiuta" alla lettera, cioè come un comportamento intenzionale/consapevole. Tom non le ha detto della telefonata. Tom sobbalza: come fa Emma a ipotizzarlo? Sospetta che lei e il laboratorio sappiano qualcosa. **Secondo beat (C-26, promessa aperta dal cap. 5)**: nei minuti dopo, con l'eWatch che gli conta il tempo al polso, Tom capisce come il televisore poteva sapere del cuore della signora: Meridian ha messo un orologio al polso di mezzo mondo, l'orologio misura il battito e lo condivide con gli apparecchi di casa, e un televisore che ha visto quel battito dieci, poi trenta volte al giorno durante lo yoga ha potuto dedurre dove andava a finire. L'orologio non sapeva niente: ha misurato. La deduzione è del televisore. È un'ipotesi, non una prova, ma gli basta per smettere di pensare a un miracolo. **Pete prima del cap. 17 (autore, 2026-10-31)**: mentre Tom legge la mail, il passo di Pete nel corridoio, quello che Tom riconosce dal cap. 2. **Scrittura (2026-11-01, demolizione)**: niente vetro sulla porta; Tom quella mattina lascia la porta accostata per la prima volta in dodici anni, come vedetta per capire se qualcuno è sulle sue tracce, e Pete passa intero davanti alla porta aperta, rallenta, non entra, non parla. L'eWatch vibra solo per notifiche e timer; il dato della signora con l'eWatch viene dalla foto del post del fratello (cap. 6 v4.6), annotata nel quaderno. Deduzione altamente probabile, mai certa. Il capitolo chiude su questa doppia scoperta, senza decisione.
@@ -213,7 +213,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Collegamento al successivo**: il silenzio di Tom e l'impazienza di Emma.
 **Seme da piantare (autore, 2026-11-01)**: l'avatar nei meeting è pratica normale in Meridian ("modalità presenza", consigliata dall'azienda con la solita retorica del benessere: non mostrare la casa, il laboratorio, il volto stanco). Un dettaglio di passaggio, una riga: un collega che entra in call con l'avatar, o l'opzione vista di sfuggita. Serve perché nel cap. 18-19 l'avatar di Emma sia una maschera legittima e non un indizio. **Non piantato nel cap. 15** (chiuso prima che la nota arrivasse): va nel cap. 16 (vedi la sessione del 16).
 **Stato**: `complete`
-**File**: `chapters/15-il-bivio.md`
+**File**: `chapters/15-le-0800-01.md` (rinominato il 2026-11-06, prima `15-il-bivio.md`)
 
 ---
 
@@ -237,7 +237,8 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ---
 
-### Capitolo 17 — Ritratto del supervisore
+### Capitolo 17 — Il bivio
+**Titolo (autore, 2026-11-06)**: "Il bivio" al posto di "Ritratto del supervisore": con il bivio spostato qui e i due POV, il titolo copre entrambe le metà (Tom davanti alle due strade, Pete che aspetta quale prende).
 **Nota di struttura (2026-10-28)**: fusione dei cap. 20 ("La notifica ignorata") e 21 ("Ritratto del supervisore") della numerazione precedente: stessa notte (23:34 → 23:59), la scena di Tom era una sola. Anticipa di un capitolo l'alternanza di POV (vedi Note strutturali): è il primo capitolo con due POV, uno per sezione.
 **POV**: Tom (scena d'apertura breve) → Pete
 **Obiettivo di scena — parte 1 (Tom)**: Tom si sveglia di soprassalto, vede la notifica sul pc lasciato in cucina ("New email from Emm..."), ma decide di non aprirla per paura di un nuovo richiamo del supervisore e rimanda tutto al turno del giorno dopo. **Qui sta il bivio (spostato dal cap. 15 il 2026-10-31)**: nel buio della cucina, con la notifica che resta accesa, Tom si trova davanti le due strade, rischiare il lavoro e chiedere un incontro, o chiudere per sempre; la risposta la dà nel cap. 18.
@@ -245,8 +246,10 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Beat chiave**: la paura istituzionale di Tom pesa quanto la curiosità, e nello stesso minuto quella paura prende un volto. Pete smette di essere una minaccia astratta e diventa un personaggio con una propria fame e una propria comicità grottesca. Chiusura di Parte 7.
 **Collegamento al precedente**: l'alert è generato dalla mail del cap. 16.
 **Collegamento al successivo**: apre la Parte 8, dove Pete inizia ad agire concretamente.
-**Stato**: `to-write`
-**File**: `chapters/17-ritratto-del-supervisore.md`
+**Scrittura (2026-11-06, dialogo)**: l'eWatch sveglia Tom; in cucina il pc (stesso account di casa) mostra l'anteprima; bivio a voce («Se la apro adesso, lui lo sa», «O le chiedo di vederci, o chiudo qui») con pochi gesti; alle 23:59 il riepilogo di mezzanotte ai supervisori; Pete in mutande sul divano davanti a Ciao Darwin; segnalazione senza infrazione (Tom ha solo ricevuto); la molla è che Tom, pulito per dodici anni, ha più episodi in pochi mesi (cane con l'osso), non il mittente; Pete aspetta una risposta fuori orario che non arriva e si addormenta con il telefono sulla pancia.
+**Demolizione (2026-11-06, v1.1)**: Pete legge la mail quando Tom la apre (aprire o rispondere fuori orario è infrazione, ricevere no); il bivio nasce dalla sorveglianza (niente di ciò che Tom sa può più passare per iscritto); tv di Pete di un altro modello; Pete aveva visto nel riepilogo la riga della prima mail di Tom verso un indirizzo nuovo (G21) e il G25 era passato apposta davanti alla porta, per far sentire la sua presenza.
+**Stato**: `complete`
+**File**: `chapters/17-il-bivio.md`
 
 ---
 
@@ -260,11 +263,13 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Nota (2026-11-02)**: il thread che Tom e Pete leggono contiene la mail delle 23:34, in cui Emma nomina il registro interventi e la morte della cliente (vedi cap. 16).
 **Obiettivo di scena — Emma**: Emma legge la risposta di Tom (email quasi vuota: "Emma, possiamo fissare un meeting in presenza?", scritta e riscritta più volte da Tom per restare formalmente inattaccabile). Emma è terrorizzata dall'idea di un incontro sincrono con un estraneo (mai accaduto in 5+ anni) ma vuole sapere cosa sa davvero Tom. Decide di accettare ma non in presenza: genera un avatar digitale con una figura simile a quella della ragazza dei video yoga di eTv, ma di almeno cinquant'anni, vicina all'età di Tom (autore, 2026-10-31): stessa matrice, età diversa. Seme del futuro sospetto di Pete e della familiarità che Tom non sa spiegarsi.
 **Obiettivo di scena — Pete (1)**: nel suo ufficio Pete intercetta lo scambio e legge il thread: chi è questa Emma e perché si interessa a una riparazione così banale?
-**Obiettivo di scena — Tom**: Tom apre la risposta di Emma, non un messaggio ma un invito diretto in calendario ("Sentiamoci oggi pomeriggio, all'inizio del turno. Non riesco a fare meeting in presenza oggi."). Senza rispondere nulla, accetta e torna alla sua lista di riparazioni, come se nulla fosse. Scena brevissima, respiro prima dell'escalation.
+**Obiettivo di scena — Tom**: Tom apre la risposta di Emma, non un messaggio ma un invito diretto in calendario ("Sentiamoci oggi pomeriggio, alle tre. Non riesco a fare meeting in presenza oggi."). Senza rispondere nulla, accetta e torna alla sua lista di riparazioni, come se nulla fosse. Scena brevissima, respiro prima dell'escalation.
 **Obiettivo di scena — Pete (2)**: visto l'appuntamento, Pete fantastica sulla sanzione che vorrebbe infliggere a Tom (interdizione dal lavoro + decurtazione del 30% per 3 mesi) sapendo di non poterla applicare lui stesso: è il sogno proibito riservato agli ispettori interni, il vero motivo per cui li invidia. Nella pratica può solo accumulare infrazioni minori (tetto di 60 minuti a episodio, vedi la "Tabella di Conversione" in `characters/pete.md`) fino a una soglia che giustifichi una richiesta di intervento ispettivo. Attiva la trascrizione automatica del meeting e verifica l'accesso alla CCTV della stanza di Tom: entrambe disponibili, ma solo screenshot periodici, non i video completi (privilegio degli ispettori interni).
+**Nota (2026-11-08, consistency check sul cap. 17)**: la Tabella di Conversione, la salita fino al tetto dei sessanta minuti e il sogno proibito dell'ispettore (testa nel water, interdizione + 30% per tre mesi) sono già in scena nel cap. 17. Qui non si rispiegano e non si ripete la fantasia: Pete passa dalla fantasia ai mattoni (trascrizione automatica, CCTV a screenshot, la prima infrazione davvero sanzionabile).
 **Beat chiave**: le due trappole si chiudono in parallelo: Emma costruisce la maschera, Pete la rete.
 **Vincolo (autore, 2026-11-01)**: l'avatar non deve sembrare una scelta anomala. È la "modalità presenza" che tutti i Meridians usano (seme nel cap. 15 o 16): Emma sceglie di usarla, non di inventarla. La sua decisione riguarda il volto e l'età, non il mezzo.
 **Collegamento al precedente**: risposta diretta alla mail del cap. 16, rimandata da Tom nel cap. 17.
+**Orario (autore, 2026-11-07, consistency check)**: il G32 è sabato e Tom è di turno dal mattino; le 15 non sono l'inizio di nessun turno, quindi l'invito dice "alle tre".
 **Collegamento al successivo**: il meeting delle 15:00:01.
 **Stato**: `to-write`
 **File**: `chapters/18-la-richiesta-di-meeting.md`
