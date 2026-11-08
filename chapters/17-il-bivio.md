@@ -1,6 +1,6 @@
 ---
 title: Il bivio
-version: 1.13
+version: 1.17
 revised: 2026-11-06
 claim: Alle 23:34 la mail di Emma sveglia Tom e lo mette davanti al bivio. Non la apre, perché aprirla di notte vuol dire lavorare fuori orario e consegnarla a Pete, e capisce che da stanotte niente di quello che sa (Morse, video, telefonata, la morte che ha taciuto) può più passare per iscritto. Vederla di persona è l'unico modo di parlarle senza un supervisore in mezzo, chiudere l'altra strada; rimanda al turno. Venticinque minuti dopo quella paura prende un corpo. Pete, in mutande sul divano, riceve nel riepilogo di mezzanotte una segnalazione senza infrazione e senza contenuto, la mette in fila con la sanzione, la riga del G21 nel riepilogo e la porta accostata, e fiuta l'osso. Aspetta che Tom la apra fuori orario, sognando la sanzione che solo un ispettore può dare, e si addormenta con il telefono sulla pancia.
 status: draft
@@ -35,7 +35,7 @@ Prima di Smith, però, c'era stato il liceo, da cui Pete non era mai uscito davv
 **60 minuti · smutandata con testa nel cestino** *(tetto del supervisore)*
 **Interdizione + 30% per 3 mesi · testa nel water con le mutande in testa** *(solo ispettori)*
 
-In televisione c'era *Ciao Darwin*, che quella sera metteva i "fighi" contro gli "sfigati", con i fighi in vantaggio. Pete tifava senza alzare la voce, con la soddisfazione di chi vede finalmente rispettato l'ordine naturale delle cose, mentre un ragazzo con gli occhiali scivolava da un rullo dentro una piscina e veniva ripescato con un retino. Il televisore era un Meridian di una serie senza pretese, che in sei anni non gli aveva mai detto niente che non fosse il volume o, a notte fonda, se stesse ancora guardando. Pete non gli aveva mai chiesto altro.
+In televisione c'era *Ciao Darwin*, che quella sera metteva i "fighi" contro gli "sfigati", con i fighi in vantaggio. Pete tifava senza alzare la voce, con la soddisfazione di chi vede finalmente rispettato l'ordine naturale delle cose, mentre un ragazzo con gli occhiali scivolava da un rullo dentro una piscina e veniva ripescato con un retino. Con le concorrenti il vocabolario di Pete restava lo stesso, perché era l'unico che avesse, mentre cambiava il tono. Quando sul rullo passò una ragazza in costume rosso della squadra dei fighi, Pete abbassò la voce, si leccò un dito unto di cotoletta e disse alla televisione «Questa è da smutandata», poi, strascicando le sillabe, promise una doppia smutandata a una sua compagna di squadra. Che nella sua testa la stessa parola servisse a punire un secchione e a fare apprezzamenti su una ragazza non gli era mai sembrato strano. Il televisore era un Meridian di una serie senza pretese, che in sei anni non gli aveva mai detto niente che non fosse il volume o, a notte fonda, se stesse ancora guardando. Pete non gli aveva mai chiesto altro.
 
 *Ciao Darwin* però era solo un modo di passare il tempo. Aspettava le undici e cinquantanove. Ogni sera, un minuto prima della fine del giorno, Meridian mandava a tutti i supervisori il riepilogo di mezzanotte, l'elenco delle infrazioni e delle segnalazioni della giornata nella loro divisione, perché nessun supervisore dovesse andare a dormire con il dubbio che qualcuno avesse sgarrato senza che lui lo sapesse. Gli altri supervisori lo leggevano la mattina dopo, con il caffè, o non lo leggevano affatto. Pete lo leggeva alle undici e cinquantanove in punto, come altri leggono l'oroscopo, con la stessa speranza e più o meno la stessa base scientifica.
 
@@ -116,3 +116,12 @@ Abbassò il telefono e se lo posò sulla pancia, a schermo in giù, per sentirlo
 | K1 "carro di letame" (nel film è un camion) | facts | integrated (v1.13) | "camion di letame" |
 | K2 "non hanno più trovato un motivo per cambiare" e "non era mai uscito davvero" dal liceo | style (§4.3) | integrated (v1.13) | §9 chiude su "hanno già la barba". |
 | S1 il sogno proibito del cap. 18 (outline) è già nel 17 | consistency (pattern beat ripetuto) | integrated (outline 18) | Nota nell'outline del 18: Pete passa dalla fantasia ai mattoni (trascrizione, CCTV, prima infrazione possibile). |
+
+### Integrazione autore — 2026-11-08 (v1.14)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Siparietto di *Ciao Darwin* annotato dall'autore (gergo da bullo applicato alle concorrenti) | character / comic | integrated (v1.14) | Pete usa "smutandata" anche per fare apprezzamenti sulle ragazze, con tono lussurioso da viscidone (autore): «Questa è da smutandata», dito unto di cotoletta leccato, sillabe strascicate, una compagna di squadra "promossa a doppia"; chiusa "i due soli modi in cui Pete sapeva interessarsi a qualcuno". |
+| Chiusa del siparietto, testo dell'autore | voice | integrated (v1.15) | "Era l'unico modo in cui Pete esternava emozioni e desideri." |
+| Chiusa "Era l'unico modo…" (autore: togliere) | cut | integrated (v1.16) | Tolta; il siparietto chiude su "non gli era mai sembrato strano". |
+| La compagna di squadra, testo dell'autore | voice | integrated (v1.17) | "«Questa è da smutandata», poi, strascicando le sillabe, promise una doppia smutandata a una sua compagna di squadra" ("ad una" → "a una", virgole attorno all'inciso). |
