@@ -272,7 +272,8 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Collegamento al precedente**: risposta diretta alla mail del cap. 16, rimandata da Tom nel cap. 17.
 **Orario (autore, 2026-11-07, consistency check)**: il G32 è sabato e Tom è di turno dal mattino; le 15 non sono l'inizio di nessun turno, quindi l'invito dice "alle tre".
 **Collegamento al successivo**: il meeting delle 15:00:01.
-**Stato**: `to-write`
+**Scrittura (2026-11-09, dialogo)**: riscritture di Tom solo a gesti (nessuna bozza visibile); avatar = volto della ragazza dei video eTv portato a una cinquantina d'anni (cursore «esperienza»), sfondo di sempre con il logo, sei dita no; sul banco di Tom una bilancia parlante con una cella di carico piegata. Ordine POV: Tom → Emma → Pete → Tom → Pete.
+**Stato**: `draft`
 **File**: `chapters/18-la-richiesta-di-meeting.md`
 
 ---
