@@ -11,12 +11,12 @@ chapter
 chapters/18-la-richiesta-di-meeting.md
 
 ## Current step
-demolish
+integrate
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
-- [ ] demolish
+- [x] demolish
 - [ ] integrate
 
 ## Notes
@@ -32,3 +32,5 @@ demolish
 - Critica 2 ("riparazione banale" con una cliente morta nel thread) → **risolta, da integrare** (autore): per Pete la morte non c'entra con la riparazione (coincidenza, non conseguenza: la riparazione resta banale), ma nota che Tom l'ha taciuta: primo mattone (non infrazione da Tabella).
 - Critica 3 (Tom scrive la risposta durante lo slot della bilancia) → **risolta, da integrare** (autore): Tom finisce la bilancia in anticipo e scrive nei minuti residui (precedente cap. 14), invia alla chiusura dell'intervento, a banco vuoto. Orari del mattino invariati.
 - Critica 4 (Emma passiva: avatar e sfondo di default, la bugia dell'«oggi» arriva già fatta) → **risolta, da integrare** (autore): Emma è impaurita dal meeting; si vede la scelta di mentire con l'«oggi»; scartabella nelle vecchie dotazioni di Elab per mettere in piedi avatar e sfondo (da lì il logo vecchio, senza che lei lo noti; il volto resta non descritto, avatar fedele per regolamento).
+- Critica 5 (bilancia: cella piegata con peso fisso, incompatibile con l'auto-zero) → **risolta, da integrare** (autore): la bilancia pesa a caso, un peso sempre diverso (guasto intermittente); diagnosi con un gesto e un'osservazione.
+- 2026-11-09: demolizione ciclo 1 chiusa, 5 critiche risolte, nessuna rinviata. Da correggere anche in integrazione: Tom seduto dalle otto meno venticinque (abitudine: un quarto d'ora di anticipo); l'outline (sanzione nel 19-20 → round a Tom; fumo; «Pete, prova a prendermi»). Logs aggiornati.

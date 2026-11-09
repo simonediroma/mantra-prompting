@@ -58,3 +58,15 @@ Aprì le impostazioni dei meeting della divisione e cercò il nome di Tom. Accan
 **Video completo: riservato agli ispettori interni**
 
 Pete lesse l'ultima riga come la leggeva ogni volta, con la stessa faccia di chi trova una porta chiusa a chiave e la riconosce. Gli screenshot bastavano. Dove c'era una trascrizione, una foto ogni tanto era tutto quello che serviva per mettere una faccia accanto alle parole. Chiuse il pannello, prese l'ultimo anello di cipolla dal fondo del sacchetto e nel suo calendario creò un appuntamento alle quindici, privato, senza invitati. Lo chiamò «Doppia». Poi, per scrupolo, gli mise un promemoria un minuto prima.
+
+## Demolition Log
+
+### Cycle 1 — 2026-11-09
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Tom accetta senza reazione la call dalla sua stanza, contro il motore del bivio del cap. 17 (incontrarla di persona per non avere Pete in mezzo) | logical / contradiction (pattern: salti logici) | resolved | Tom ha fretta di sentire Emma e comincia a fregarsene di Pete: rischio consapevole, «Pete, prova a prendermi». "In presenza" = incontro fisico; Emma rifiuta con l'«oggi». Contromossa analogica: nel 18 Tom prepara un componente saldato che farà fumo davanti alla telecamera; nel 19 il fumo si dirada troppo presto (screenshot utili a Pete) e Tom parla con Emma in modo controllato contro la trascrizione. Round a Tom: nessuna doppia smutandata. |
+| Pete chiama "banale" una riparazione con una cliente morta nel thread | contradiction | resolved | Per Pete la morte è una coincidenza, la riparazione resta banale; nota però che Tom l'ha taciuta: primo mattone (non infrazione da Tabella). |
+| Tom scrive e invia la risposta durante lo slot della bilancia, contro la sua regola dei cap. 14-15 | contradiction / character | resolved | Finisce la bilancia in anticipo, scrive nei minuti residui, invia alla chiusura dell'intervento a banco vuoto. |
+| Emma passiva: avatar e sfondo di default, la bugia dell'«oggi» arriva già fatta; beat "Emma costruisce la maschera" perso | foundation / character (pattern: reazione in due fasi) | resolved | Emma impaurita; si vede la scelta di mentire con l'«oggi»; scartabella nelle vecchie dotazioni di Elab per mettere in piedi avatar e sfondo (origine del logo vecchio; volto non descritto). |
+| Bilancia: cella "piegata" con peso fisso incompatibile con l'auto-zero, diagnosi senza osservazione | external / technical (pattern: dettagli tecnici da riparatore) | resolved | Peso a caso, sempre diverso (guasto intermittente che sfugge all'azzeramento); diagnosi con un gesto e un'osservazione. |
