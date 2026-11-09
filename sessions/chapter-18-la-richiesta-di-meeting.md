@@ -11,13 +11,13 @@ chapter
 chapters/18-la-richiesta-di-meeting.md
 
 ## Current step
-integrate
+— (integrato, v2.0; in attesa di lettura)
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
 - [x] demolish
-- [ ] integrate
+- [x] integrate
 
 ## Notes
 - 2026-11-08: aperta dopo la chiusura del cap. 17 (v1.17). Decisioni già nell'outline (autore, 2026-11-08): Tom legge la mail delle 23:34 in laboratorio sabato G32 a turno iniziato; prima infrazione sanzionabile = meeting inutile (doppia smutandata), sanzione nel 19-20; avatar confermato (modalità presenza, indizi nei difetti). Sogno dell'ispettore e Tabella già nel 17: qui non si ripetono.
@@ -34,3 +34,5 @@ integrate
 - Critica 4 (Emma passiva: avatar e sfondo di default, la bugia dell'«oggi» arriva già fatta) → **risolta, da integrare** (autore): Emma è impaurita dal meeting; si vede la scelta di mentire con l'«oggi»; scartabella nelle vecchie dotazioni di Elab per mettere in piedi avatar e sfondo (da lì il logo vecchio, senza che lei lo noti; il volto resta non descritto, avatar fedele per regolamento).
 - Critica 5 (bilancia: cella piegata con peso fisso, incompatibile con l'auto-zero) → **risolta, da integrare** (autore): la bilancia pesa a caso, un peso sempre diverso (guasto intermittente); diagnosi con un gesto e un'osservazione.
 - 2026-11-09: demolizione ciclo 1 chiusa, 5 critiche risolte, nessuna rinviata. Da correggere anche in integrazione: Tom seduto dalle otto meno venticinque (abitudine: un quarto d'ora di anticipo); l'outline (sanzione nel 19-20 → round a Tom; fumo; «Pete, prova a prendermi»). Logs aggiornati.
+- Nota autore (2026-11-09): Emma ha paura anche perché è il primo meeting della sua vita con persone esterne a Elab.
+- 2026-11-09: integrazione v2.0 applicata (~2.300 parole). Aggiunte dichiarate e approvate: annunciatrice del lotto, telecamera nell'angolo sopra la porta, armadio dietro la stampante del fondatore (telecamera nel cellophane, manuale ingiallito, chiavetta), menu che hanno cambiato nome, «prima bugia», resistenza «troppo piccola». Aggiornati outline, book-memory (summary, ledger), frontmatter.
