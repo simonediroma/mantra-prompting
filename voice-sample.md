@@ -1,6 +1,6 @@
 # Voice Sample
 
-> Estratto automatico dal cap. 18 — La richiesta di meeting (v1.0).
+> Estratto automatico dal cap. 18 — La richiesta di meeting (v1.1).
 
 ## Apertura
 
@@ -8,7 +8,7 @@ Il sabato mattina il neon del laboratorio faceva la stessa luce del venerdì, ma
 
 ## Centro
 
-In Meridian, però, la parola presenza ormai voleva dire un'altra cosa. Emma ritrovò in archivio la newsletter di Benessere Meridian del lunedì e aprì la modalità presenza, che le chiese con un sorriso disegnato da chi avrebbe voluto mostrarsi oggi. Poteva caricare una fotografia o comporre un volto. Emma, che fotografie di sé da caricare non ne aveva, scelse di comporlo, partendo dal volto che conosceva meglio, quello della ragazza dei suoi video, che in quei mesi aveva sturato lavandini, impastato pane e insegnato lo yoga a migliaia di persone senza invecchiare di un giorno. Una ragazza di vent'anni che chiede aiuto a un tecnico con dodici anni di assistenza alle spalle non sarebbe sembrata una collega, ma una che sta sbagliando ufficio. Emma prese il cursore dell'età, che la modalità presenza chiamava "esperienza", poi lo portò avanti finché sugli occhi non comparvero le prime rughe e tra i capelli i primi fili grigi, mentre gli zigomi, la bocca e il modo di inclinare la testa restavano quelli. Si fermò a una cinquantina d'anni. Come sfondo l'editor le propose quello salvato sul suo profilo, la parete chiara con il logo di Meridian, quello di sempre. Lo tenne, perché tra tutte le cose da scegliere era l'unica già scelta.
+In Meridian, però, nessuno faceva più meeting a faccia scoperta. Emma ritrovò in archivio la newsletter di Benessere Meridian del lunedì e aprì la modalità presenza, che le mostrò l'avatar del suo profilo, quello che il regolamento voleva fedele all'aspetto attuale di ogni dipendente, perché il benessere di non mostrarsi stanchi finiva dove cominciava il diritto dell'azienda di sapere con chi stava parlando. Emma non lo guardò a lungo. Le bastava che alle tre, dall'altra parte, Tom vedesse quello. Come sfondo l'editor le propose quello salvato sul profilo, la parete chiara con il logo di Meridian, quello di sempre. Lo tenne senza guardarlo.
 
 ## Chiusura
 
