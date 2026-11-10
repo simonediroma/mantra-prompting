@@ -37,3 +37,4 @@ chapters/18-la-richiesta-di-meeting.md
 - Nota autore (2026-11-09): Emma ha paura anche perché è il primo meeting della sua vita con persone esterne a Elab.
 - 2026-11-09: integrazione v2.0 applicata (~2.300 parole). Aggiunte dichiarate e approvate: annunciatrice del lotto, telecamera nell'angolo sopra la porta, armadio dietro la stampante del fondatore (telecamera nel cellophane, manuale ingiallito, chiavetta), menu che hanno cambiato nome, «prima bugia», resistenza «troppo piccola». Aggiornati outline, book-memory (summary, ledger), frontmatter.
 - 2026-11-10: v2.1, apertura riallineata al cap. 2 (terminale spento fino alle otto, *dlin* del buon umore, poi la mail di Emma in cima alla casella).
+- 2026-11-10: v2.2, via il carrello del caffè (passi dei primi che vanno a prendersi un caffè), "stanza di Emma" al posto di "ufficio". Il carrello del caffè delle dieci resta nel cap. 13 e in style-guide: da decidere se toglierlo anche lì.
