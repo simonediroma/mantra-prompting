@@ -41,3 +41,4 @@ chapters/18-la-richiesta-di-meeting.md
 - 2026-11-10 (autore): il carrello del caffè resta nel cap. 13: passa nell'ala del fondatore, uno dei capi assoluti di Meridian. Annotato in il-fondatore.md, pete.md (battuta «Anch'io un giorno avrò un carrello che mi porta il caffè»), book-memory (Open Promises), style-guide. Nel cap. 18 (v2.5) torna il carrello alle dieci, da spiegare più avanti.
 - 2026-11-10: v2.3, paragrafo delle dotazioni con il testo dell'autore (modalità presenza anti occhiaie e anti disordine casalingo; legge degli avatar; vecchie cartelle di Elab al posto dell'armadio).
 - 2026-11-10: v2.4, via "legge" (mai usata per le regole di Meridian): "da quando Meridian aveva introdotto la modalità presenza", "come voleva il regolamento".
+- 2026-11-10: v2.6, l'invito per Tom è "un evento di magnitudine seconda soltanto ai due televisori" (testo dell'autore).
