@@ -42,7 +42,7 @@ Ha abbandonato ufficialmente il progetto Emma cinque anni prima degli eventi nar
 
 ## Note
 
-- **Il carrello del caffè (autore, 2026-11-10)**: il carrello del caffè delle dieci (*cri-cri*, cap. 13) passa nell'ala del fondatore perché lì lavora uno dei capi assoluti di Meridian: Emma lo sente perché sta nello stanzino del fondatore, non perché in Meridian il caffè arrivi a tutti. Gli altri dipendenti il caffè vanno a prenderselo (cap. 18: i passi dei primi nel corridoio). La scena del carrello va ripresa nel capitolo dedicato al fondatore.
+- **Il carrello del caffè (autore, 2026-11-10)**: il carrello del caffè delle dieci (*cri-cri*, cap. 13) passa nell'ala del fondatore perché lì lavora uno dei capi assoluti di Meridian: Emma lo sente perché sta nello stanzino del fondatore, non perché in Meridian il caffè arrivi a tutti. Gli altri dipendenti il caffè vanno a prenderselo. Il carrello passa anche nel cap. 18, alle dieci; la spiegazione arriva più avanti. La scena del carrello va ripresa nel capitolo dedicato al fondatore.
 
 - **Nome**: volutamente non ancora assegnato dall'autore — resta "il fondatore" fino all'introduzione approfondita.
 - **Punti aperti esplicitamente segnalati nel materiale originale**: come/tramite chi scopre la verità su Emma; il punto d'incontro diretto con Tom. Entrambi rimandati a capitoli successivi al 27.
