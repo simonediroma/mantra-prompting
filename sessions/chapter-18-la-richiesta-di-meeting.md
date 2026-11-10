@@ -44,3 +44,4 @@ chapters/18-la-richiesta-di-meeting.md
 - 2026-11-10: v2.6, l'invito per Tom è "un evento di magnitudine seconda soltanto ai due televisori" (testo dell'autore).
 - 2026-11-10: v2.7, gancio prima di «Pete, prova a prendermi» (testo dell'autore).
 - 2026-11-10: v2.8, tono di «Pete, prova a prendermi» (testo dell'autore).
+- 2026-11-10: revise (v2.9), 14 correzioni applicate, P4 tenuta. Tolto il *clac* del nastro (onomatopee: dlin, bzz bzz, cri-cri).
