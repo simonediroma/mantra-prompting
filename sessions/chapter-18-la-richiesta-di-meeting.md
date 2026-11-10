@@ -47,3 +47,4 @@ chapters/18-la-richiesta-di-meeting.md
 - 2026-11-10: revise (v2.9), 14 correzioni applicate, P4 tenuta. Tolto il *clac* del nastro (onomatopee: dlin, bzz bzz, cri-cri).
 - 2026-11-10: v3.0, ingresso di Pete con il testo dell'autore (open space, giacca d'ordinanza, occhiali da sole, sedia contro il divisorio, onion rings gusto pizza; sogno dell'ufficio con la porta e del carrello). Aggiornati pete.md e ledger.
 - 2026-11-10: v3.1, i due "nonostante" prima dell'arrivo di Pete (testo dell'autore).
+- 2026-11-10: v3.2, Tom sullo sgabello descritto fisicamente (airone su un nido troppo piccolo: aggiunta da approvare).
