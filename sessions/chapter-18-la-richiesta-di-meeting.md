@@ -42,3 +42,4 @@ chapters/18-la-richiesta-di-meeting.md
 - 2026-11-10: v2.3, paragrafo delle dotazioni con il testo dell'autore (modalità presenza anti occhiaie e anti disordine casalingo; legge degli avatar; vecchie cartelle di Elab al posto dell'armadio).
 - 2026-11-10: v2.4, via "legge" (mai usata per le regole di Meridian): "da quando Meridian aveva introdotto la modalità presenza", "come voleva il regolamento".
 - 2026-11-10: v2.6, l'invito per Tom è "un evento di magnitudine seconda soltanto ai due televisori" (testo dell'autore).
+- 2026-11-10: v2.7, gancio prima di «Pete, prova a prendermi» (testo dell'autore).
