@@ -1,10 +1,10 @@
 # Voice Sample
 
-> Estratto automatico dal cap. 18 — La richiesta di meeting (v1.1).
+> Estratto automatico dal cap. 18 — La richiesta di meeting (v2.1).
 
 ## Apertura
 
-Il sabato mattina il neon del laboratorio faceva la stessa luce del venerdì, ma Tom quella mattina la notò, perché erano le otto meno un quarto e lui era seduto sullo sgabello troppo basso già da dieci minuti, con il computer acceso e la mail ancora chiusa in cima alla casella, in grassetto, con accanto l'ora della notte. L'aveva lasciata così in cucina e così l'aveva ritrovata lì. Aspettò con le mani sul banco vuoto, come si aspetta il risultato di un esame del sangue.
+Il sabato mattina il neon del laboratorio faceva la stessa luce del venerdì, ma Tom quella mattina la notò, perché erano le otto meno cinque e lui era seduto sullo sgabello troppo basso già da dieci minuti, davanti al terminale ancora spento, sapendo cosa ci avrebbe trovato. La mail l'aveva lasciata chiusa in cucina e chiusa l'avrebbe ritrovata lì. Aspettò con le mani sul banco vuoto, come si aspetta il risultato di un esame del sangue.
 
 ## Centro
 
