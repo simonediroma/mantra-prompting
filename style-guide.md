@@ -200,7 +200,7 @@ Ogni scena, nelle prime righe, ha quattro cose: dove sta il corpo, che ora è e 
 **Modulato dal cap. 16.** Le quote del giudizio editoriale ("dieci dettagli ogni mille parole") e la checklist dei tre dettagli per scena sono un controllo, non un obiettivo da riempire. Un dettaglio entra se il lettore ne ha bisogno per stare nella scena o se fa ridere. I luoghi nuovi si danno con due tratti e un oggetto che si nota, poi si passa ai personaggi. Nelle scene di Emma il minimo è ancora più basso.
 
 - **Capitoli di Tom**: almeno tre dettagli fisici per scena, cioè odore, luce, temperatura o suono dell'edificio. I verbi fisici (svitò, girò, posò) devono pesare più dei verbi di schermo (aprì, lesse, filtrò).
-- **Capitoli di Emma**: una sola stanza, mai descritta. Ci sono la striscia di luce sotto la porta, le porte che si chiudono alle cinque, il carrello del caffè delle dieci, la poltrona e la stampante del fondatore. Fa eccezione la Mela Morsicata, resa come luogo fisico con gli spiragli per il lettore attento (vedi §9).
+- **Capitoli di Emma**: una sola stanza, mai descritta. Ci sono la striscia di luce sotto la porta, le porte che si chiudono alle cinque, il carrello del caffè delle dieci (privilegio dell'ala del fondatore: gli altri dipendenti il caffè vanno a prenderselo), la poltrona e la stampante del fondatore. Fa eccezione la Mela Morsicata, resa come luogo fisico con gli spiragli per il lettore attento (vedi §9).
 - **Onomatopee**: una o due per capitolo, in corsivo, solo per macchine ed edificio, con suono fisso per macchina (*dlin*, *clac*, *bzz bzz*, *frrr*, *cri-cri*, *krrr*…, elenco in `book-memory.md`).
 
 ---

@@ -85,6 +85,7 @@ Cose che il libro ha promesso di affrontare e non ha ancora risolto.
 
 | Promise | Made in | Resolved in |
 |---|---|---|
+| Il carrello del caffè delle dieci è un privilegio dell'ala del fondatore (uno dei capi assoluti di Meridian): scena da riprendere nel capitolo dedicato al fondatore, con la battuta di Pete «Anch'io un giorno avrò un carrello che mi porta il caffè» (autore, 2026-11-10) | Cap. 13 (carrello), cap. 18 (gli altri vanno a prenderselo) | Capitolo del fondatore (da collocare) |
 | Emma non è umana (reveal finale) | Premessa | — |
 | Come/tramite chi il fondatore scopre la verità su Emma | Sezione Punti aperti | — |
 | Punto d'incontro narrativo diretto tra Tom e il fondatore | Sezione Punti aperti | — |
