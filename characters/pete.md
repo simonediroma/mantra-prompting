@@ -39,6 +39,8 @@ Antagonista "banale nel suo essere cattivo" per scelta esplicita del materiale o
 
 ## Note
 
+- **La postazione (autore, 2026-11-10, cap. 18)**: lavora in open space come tutti i supervisori, postazione con pannello divisorio e un vicino di banco. Sogna un ufficio tutto suo con la porta, come quelli degli ispettori interni, e soprattutto che lo snack gli arrivi con il carrello, come alle persone più importanti dell'azienda (il carrello del caffè: vedi il-fondatore.md). Giacca d'ordinanza nera, occhiali da sole (Smith). Colazione del sabato: onion rings gusto pizza della macchinetta del corridoio.
+
 - **Il carrello del caffè (autore, 2026-11-10)**: nel capitolo dedicato al fondatore, davanti al carrello del caffè che serve solo i capi, Pete fa una battuta del tipo «Anch'io un giorno avrò un carrello che mi porta il caffè»: la sua voglia di scalata dentro Meridian detta ad alta voce, in piccolo.
 
 - **Prima comparsa indiretta (cap. 2)**: Pete non appare mai di persona — firma le comunicazioni disciplinari come "Pete, Supervisore, Divisione Assistenza Tecnica" (il nome per esteso, mai un'iniziale: una firma parziale sarebbe di per sé una deroga al codice di condotta Meridian, cosa che un supervisore non si permetterebbe). Tom lo ha incrociato di persona sì e no tre volte in dodici anni. L'anonimato/impersonalità fino al cap. 17 (suo primo capitolo a pieno titolo) si regge quindi solo sull'assenza di volto e voce, non sull'assenza del nome.
