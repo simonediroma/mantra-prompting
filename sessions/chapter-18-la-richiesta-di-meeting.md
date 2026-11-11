@@ -48,3 +48,4 @@ chapters/18-la-richiesta-di-meeting.md
 - 2026-11-10: v3.0, ingresso di Pete con il testo dell'autore (open space, giacca d'ordinanza, occhiali da sole, sedia contro il divisorio, onion rings gusto pizza; sogno dell'ufficio con la porta e del carrello). Aggiornati pete.md e ledger.
 - 2026-11-10: v3.1, i due "nonostante" prima dell'arrivo di Pete (testo dell'autore).
 - 2026-11-10: v3.2, Tom sullo sgabello descritto fisicamente (clown dentro la sua macchinina, immagine dell'autore).
+- 2026-11-11: v4.0, ingresso di Pete semplificato con il testo dell'autore (dopo il merge della PR #35, branch ripartito da main).
