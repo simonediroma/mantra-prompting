@@ -4,7 +4,7 @@
 
 ## Apertura
 
-Alle otto meno cinque di sabato Tom era seduto da dieci minuti sullo sgabello troppo basso, davanti al terminale ancora spento, sapendo cosa ci avrebbe trovato. Lo sgabello era lo stesso da dodici anni e da dodici anni Tom lo disprezzava apertamente, come tutti gli sgabelli da laboratorio, che erano fatti per un tecnico di altezza media mentre lui superava il metro e novanta. Per arrivare al banco con le mani doveva stare con le ginocchia quasi all'altezza del piano, le scarpe da trekking puntate sul poggiapiedi e la schiena curva, come un airone su un nido troppo piccolo. La mail l'aveva lasciata chiusa in cucina e chiusa l'avrebbe ritrovata lì. Aspettò con le mani sul banco vuoto, come si aspetta il risultato di un esame del sangue.
+Alle otto meno cinque di sabato Tom era seduto da dieci minuti sullo sgabello troppo basso, davanti al terminale ancora spento, sapendo cosa ci avrebbe trovato. Lo sgabello era lo stesso da dodici anni e da dodici anni Tom lo disprezzava apertamente, come tutti gli sgabelli da laboratorio, che erano fatti per un tecnico di altezza media mentre lui superava il metro e novanta. Per arrivare al banco con le mani doveva stare con le ginocchia quasi all'altezza del piano, le scarpe da trekking puntate sul poggiapiedi e la schiena curva, come un clown dentro la sua macchinina. La mail l'aveva lasciata chiusa in cucina e chiusa l'avrebbe ritrovata lì.
 
 ## Centro
 
