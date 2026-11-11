@@ -272,7 +272,9 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Collegamento al precedente**: risposta diretta alla mail del cap. 16, rimandata da Tom nel cap. 17.
 **Orario (autore, 2026-11-07, consistency check)**: il G32 è sabato e Tom è di turno dal mattino; le 15 non sono l'inizio di nessun turno, quindi l'invito dice "alle tre".
 **Collegamento al successivo**: il meeting delle 15:00:01.
-**Stato**: `to-write`
+**Scrittura (2026-11-09, dialogo)**: riscritture di Tom solo a gesti (nessuna bozza visibile); avatar = quello del profilo, fedele all'aspetto attuale per regolamento (autore, 2026-11-09): nessuna descrizione né costruzione del volto dal POV di Emma; cinquant'anni e familiarità non evidente con la ragazza di eTv si vedono dal POV di Tom nel cap. 19; sfondo di sempre con il logo, sei dita no; sul banco di Tom una bilancia parlante con una cella di carico piegata. Ordine POV: Tom → Emma → Pete → Tom → Pete.
+**Integrazione (2026-11-09, demolizione ciclo 1, v2.0)**: "in presenza" = incontro fisico; Emma, al primo meeting della sua vita con qualcuno fuori da Elab, mente con l'«oggi» e configura la modalità presenza con il pacchetto di avvio delle vecchie cartelle di Elab (logo vecchio da lì). Pete: la morte è una coincidenza, ma Tom l'ha taciuta, primo mattone. Tom vede la trappola, «Pete, prova a prendermi», accetta e prepara sotto la telecamera una resistenza troppo piccola su un vecchio alimentatore (il fumo nel cap. 19, che si dirada troppo presto: Pete ha comunque screenshot utili; Tom parla con Emma in modo controllato contro la trascrizione). **Cambia la decisione (2)**: round a Tom, nessuna doppia smutandata per il meeting; Pete resta a secco e si accanisce. Tom scrive nei minuti residui e invia alle 8:26.
+**Stato**: `draft`
 **File**: `chapters/18-la-richiesta-di-meeting.md`
 
 ---
