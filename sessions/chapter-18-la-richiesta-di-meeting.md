@@ -49,3 +49,4 @@ chapters/18-la-richiesta-di-meeting.md
 - 2026-11-10: v3.1, i due "nonostante" prima dell'arrivo di Pete (testo dell'autore).
 - 2026-11-10: v3.2, Tom sullo sgabello descritto fisicamente (clown dentro la sua macchinina, immagine dell'autore).
 - 2026-11-11: v4.0, ingresso di Pete semplificato con il testo dell'autore (dopo il merge della PR #35, branch ripartito da main).
+- 2026-11-11: revise 2 (v4.4), 5 correzioni applicate (G1-G4, K1); K2-K4 tenute.
