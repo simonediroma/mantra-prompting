@@ -376,4 +376,4 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 | «Mi va» contro la paura e la bugia dell'«oggi» (cap. 18) | character / contradiction (pattern: reazione in due fasi) | resolved | Nuova bugia, un altro domani da rimandare; visibile nella coda di Emma. |
 | A voce Tom cita il televisore del cap. 1, quello della sanzione: mattone per Pete | logical | resolved | Anche il log del televisore Voss finiva con `compacting context`: Tom cita quello; Emma spiega cos'è e perché il log si interrompe. |
 | Emma esclude "una riga di archivio", che è la strada di Tom (cap. 9) | contradiction | resolved | Emma deduce la strada intera; il colpo resta la sua ragazza vista da Tom. |
-| Tom ha studiato quel volto fotogramma per fotogramma e prova solo una familiarità vaga | foundation / character | resolved | L'età cambia tutto, Tom è preso dal meeting e si sta innamorando di Emma (mostrato, non nominato). |
+| Tom ha studiato quel volto fotogramma per fotogramma e prova solo una familiarità vaga | foundation / character | resolved | L'età cambia tutto, Tom è preso dal meeting e si sta invaghendo di Emma (mostrato, non nominato). |
