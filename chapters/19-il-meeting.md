@@ -67,3 +67,15 @@ Lo disse prima di pensarci e si sentì dire mensa con la sorpresa di chi si sent
 «Chiudo il verbale» disse Tom. Poi chiuse la call.
 
 La finestra di Tom si spense. Emma restò davanti allo schermo con le mani sul tavolo, nella sua stanza, mentre nel corridoio, fuori, non passava nessuno. Ripensò all'ultimo cartello più che agli altri, perché gli altri le avevano detto cosa era successo, l'ultimo le diceva che stava ancora succedendo. Poi spense la modalità presenza. Per un attimo, prima che si chiudesse anche la finestra, sullo schermo restò soltanto lo sfondo, la parete chiara e il logo di Meridian, senza nessuno davanti.
+
+## Demolition Log
+
+### Cycle 1 — 2026-11-12
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Il LED lascia screenshot bianchi proprio durante il meeting: traccia per Pete | logical (pattern: salti logici) | resolved (cap. 20) | Pete pensa a un riflesso del neon o a un guasto della telecamera; ha le foto prima del LED e l'ultima dopo il clic. Da mostrare nel cap. 20. |
+| «Mi va» contro la paura e la bugia dell'«oggi» (cap. 18) | character / contradiction (pattern: reazione in due fasi) | resolved | Nuova bugia, un altro domani da rimandare; visibile nella coda di Emma. |
+| A voce Tom cita il televisore del cap. 1, quello della sanzione: mattone per Pete | logical | resolved | Anche il log del televisore Voss finiva con `compacting context`: Tom cita quello; Emma spiega cos'è e perché il log si interrompe. |
+| Emma esclude "una riga di archivio", che è la strada di Tom (cap. 9) | contradiction | resolved | Emma deduce la strada intera; il colpo resta la sua ragazza vista da Tom. |
+| Tom ha studiato quel volto fotogramma per fotogramma e prova solo una familiarità vaga | foundation / character | resolved | L'età cambia tutto, Tom è preso dal meeting e si sta innamorando di Emma (mostrato, non nominato). |

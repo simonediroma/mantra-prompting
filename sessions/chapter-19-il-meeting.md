@@ -11,12 +11,12 @@ chapter
 chapters/19-il-meeting.md
 
 ## Current step
-demolish
+integrate
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
-- [ ] demolish
+- [x] demolish
 - [ ] integrate
 
 ## Notes
@@ -34,4 +34,6 @@ demolish
 - 2026-11-12, demolizione ciclo 1. Critica 1 (il LED lascia screenshot bianchi proprio durante il meeting: traccia per Pete) → **risolta, da gestire nel cap. 20** (autore): Pete pensa a un riflesso del neon o a un guasto della telecamera; ha le foto prima del LED (Tom al banco) e l'ultima dopo il clic (volto di Emma sullo schermo); il bianco in mezzo non lo sa leggere.
 - Critica 2 («Mi va» contro la paura e la bugia dell'«oggi» del cap. 18) → **risolta, da integrare** (autore): è una nuova bugia, un altro domani da rimandare. Va resa visibile nella coda di Emma.
 - Critica 3 (a voce Tom cita il televisore del cap. 1, quello della sanzione dei quarantasette minuti: mattone per Pete) → **risolta, da integrare** (autore): anche il log del televisore Voss finiva con `compacting context`; Tom cita quello (coerente con l'ordine del giorno). Il meeting si regge sul fatto che Emma dovrebbe spiegare a Tom cos'è il compacting context e perché il log si è interrotto.
-- Critica 4 (Emma esclude "una riga di archivio", che è proprio la strada di Tom nel cap. 9) → **risolta, da integrare** (autore): il cartello resta (riassunto vero); Emma deduce invece la strada intera (video, tool di verifica, archivio interno, Elab).
+- Critica 4 (Emma esclude "una riga di archivio", che è proprio la strada di Tom nel cap. 9) → **risolta, da integrare** (autore): il cartello resta (riassunto vero); Emma deduce invece la strada intera (video, tool di verifica, archivio interno, Elab); il colpo per lei resta che Tom ha visto il video, la sua ragazza.
+- Critica 5 (Tom ha studiato quel volto fotogramma per fotogramma, eppure solo una familiarità vaga) → **risolta, da integrare** (autore): l'età cambia tutto, Tom è preso dal meeting e soprattutto si sta innamorando di Emma (da mostrare, non nominare).
+- 2026-11-12: demolizione ciclo 1 chiusa, 5 critiche risolte (1 da gestire nel cap. 20), nessuna rinviata.
