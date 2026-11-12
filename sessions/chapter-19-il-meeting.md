@@ -11,13 +11,13 @@ chapter
 chapters/19-il-meeting.md
 
 ## Current step
-integrate
+— (integrato, v2.0; in attesa di lettura)
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
 - [x] demolish
-- [ ] integrate
+- [x] integrate
 
 ## Notes
 - 2026-11-12: aperta dopo il merge del cap. 18 (v5.1, PR #38). Vincoli dal 18: round a Tom (nessuna doppia smutandata per meeting inutile), trascrizione automatica obbligatoria attivata da Pete, CCTV solo screenshot periodici, LED del faretto da giardino per terra puntato verso la telecamera della sorveglianza sopra lo stipite, interruttore sotto il banco. L'outline del 19 (Tom dice ad alta voce «So chi ha prodotto il video…») va riallineato.
@@ -37,3 +37,4 @@ integrate
 - Critica 4 (Emma esclude "una riga di archivio", che è proprio la strada di Tom nel cap. 9) → **risolta, da integrare** (autore): il cartello resta (riassunto vero); Emma deduce invece la strada intera (video, tool di verifica, archivio interno, Elab); il colpo per lei resta che Tom ha visto il video, la sua ragazza.
 - Critica 5 (Tom ha studiato quel volto fotogramma per fotogramma, eppure solo una familiarità vaga) → **risolta, da integrare** (autore): l'età cambia tutto, Tom è preso dal meeting e soprattutto si sta invaghendo di Emma (da mostrare, non nominare).
 - 2026-11-12: demolizione ciclo 1 chiusa, 5 critiche risolte (1 da gestire nel cap. 20), nessuna rinviata.
+- 2026-11-12: integrazione v2.0 applicata (critiche 2-5; la 1 va nel cap. 20). Aggiunta approvata: il quaderno pieno nella spiegazione di Emma.
