@@ -47,6 +47,8 @@ Parte come osservatore metodico e prudente (resetta le macchine "per prudenza", 
 
 ## Note
 
+- **Il profilo perfetto e i riflettori (autore, 2026-11-12)**: dodici anni puliti con una sola sanzione (i quarantasette minuti del cap. 2). Una seconda infrazione non porterebbe una segnalazione formale, ma due infrazioni su un profilo come il suo sono la classica cosa che accende i riflettori degli ispettori interni sopra Pete. È il motivo per cui nel meeting del cap. 19 tiene la trascrizione pulita.
+
 - **La porta accostata** (cap. 15, G25): per la prima volta in dodici anni non chiude a doppia mandata e lascia la porta accostata, seduto di tre quarti con la porta nell'angolo dell'occhio: una vedetta, per capire se dopo la mail del G24 qualcuno è sulle sue tracce. Il primo che passa è Pete. Prima riparazione che gli va male (tritatutto, rondella dimenticata, ciotola rigata).
 - **Digiuno intermittente in scena** (cap. 14): introdotto nel testo; la pausa pranzo è un'ora vuota che Tom usa per scrivere a Emma.
 - **Fiducia da tecnico** (cap. 14): con Emma inverte il suo metodo. Agli apparecchi fa una domanda e guarda cosa rispondono; con lei risponde e sta a vedere cosa chiederà dopo.
