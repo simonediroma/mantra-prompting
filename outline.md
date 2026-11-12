@@ -286,7 +286,8 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Aggiornamento (autore, 2026-11-12, dopo il cap. 18)**: due canali. A voce, per la trascrizione automatica, solo il televisore e l'intervento, con una domanda tecnica motivata per Elab (log interrotto di netto, ultima riga `compacting context`, cap. 1; prosegue il bluff del G21): consulenza riconducibile alle mansioni, nessun meeting inutile (round a Tom). Le frasi vere (Morse, video, chi l'ha prodotto, altri casi, primo televisore) Tom le scrive su cartelli mostrati nella webcam della call, mentre il LED abbaglia la telecamera della sorveglianza. Posta per Tom: due infrazioni su un profilo perfetto accendono i riflettori degli ispettori interni. Chiusa: il *clic* del filtro della telecamera che si adatta al LED (al posto del "rumore di CCTV"); Tom chiude con «ne parliamo davanti a un caffè in mensa»; dopo il clic Pete ha lo screenshot con il volto di Emma e il logo vecchio. **Superato**: Tom non dice più ad alta voce «So chi ha prodotto il video…» (va sui cartelli).
 **Collegamento al precedente**: prosecuzione diretta dell'invito e della sorveglianza attivata nel cap. 18.
 **Collegamento al successivo**: Pete rivede lo screenshot del meeting.
-**Stato**: `to-write`
+**Scrittura (2026-11-12)**: Tom a faccia scoperta (non ha mai configurato la modalità presenza); il nastro sospende le consegne per un appuntamento in calendario; cartelli scritti in diretta coperti dalla schiena; cinque cartelli, l'ultimo «C'È UN ALTRO TELEVISORE. NON SO DI CHI FOSSE NÉ COSA GUARDASSE» (gancio Libro 2, C-23); chiusa con lo sfondo vuoto.
+**Stato**: `draft`
 **File**: `chapters/19-il-meeting.md`
 
 ---
