@@ -1,6 +1,6 @@
 ---
 title: Il meeting
-version: 3.7
+version: 3.8
 revised: 2026-11-13
 claim: "Il primo incontro tra Tom ed Emma si gioca su due canali. A voce, per la trascrizione di Pete, una consulenza tecnica impeccabile sui log che si interrompono con `compacting context`; sui cartelli, scritti coperti dalla schiena e mostrati mentre un LED abbaglia la telecamera della sorveglianza, la verità di Tom (il Morse, il video, il televisore che ha provato a salvare la signora, un altro televisore di cui non sa cosa guardasse). Emma, che si è presentata dietro una maschera, trova davanti a sé l'unico uomo di Meridian con la faccia scoperta. Pete, dietro la telecamera con i suoi sette scatti, muove l'inquadratura per vedere cosa scrive Tom e si acceca da solo; alle quattro ha una trascrizione inutile e un solo appiglio, un pennarello rotolato, e dichiara la caccia. Chiude il Libro 1."
 status: complete
@@ -86,7 +86,7 @@ Alle quattro in punto la trascrizione arrivò nella casella di Pete, come promes
 
 Aprì il settimo scatto e lo ingrandì finché non riempì lo schermo. Tom di spalle, la felpa grigia, la nuca, il corpo piegato verso sinistra, come se stesse cercando qualcosa sotto il banco. Sul suo schermo la finestra della call con una donna sulla cinquantina, i capelli rossi, che Pete non aveva mai visto in azienda, il che con ventimila dipendenti non voleva dire niente, perché anche il suo vicino di banco, i primi tempi, non l'aveva mai visto. Dietro di lei, sullo sfondo, il vecchio logo di Meridian, quello con le righe, che l'azienda aveva mandato in pensione un anno prima e che nel codice di condotta valeva trenta minuti a chiunque lo usasse ancora. Una trascuratezza da matita rossa, che toccava però al supervisore di lei, chiunque fosse, così che Pete la mise da parte senza rimpianto, come un piatto che sul menu c'era ma non era il suo.
 
-Il suo era sul banco. Della carta non si vedeva niente, perché la schiena di Tom stava ancora dove era stata per tutto il meeting, ma il pennarello sì, rotolato fino al bordo del banco, lontano dalle mani, come posato con troppa foga. Pete non sapeva cosa ci fosse scritto né dove fosse finito il foglio, il che non gli importava. Gli importava che un tecnico, in un meeting con la trascrizione accesa, avesse armeggiato per nove minuti con qualcosa che la schiena copriva, lasciando un pennarello usato a rotolare sul banco. Era poco. Era meno di una smutandata, meno del cognome, non era nemmeno una riga del riepilogo. Ma era la prima volta, da quando Tom era un suo sottoposto, che Pete lo vedeva nascondere qualcosa con il corpo invece che con il silenzio, e un uomo che nasconde con il corpo, al liceo, era un uomo a cui prima o poi si apriva l'armadietto.
+Il suo era sul banco. Della carta non si vedeva niente, perché la schiena di Tom stava ancora dove era stata per tutto il meeting, ma il pennarello sì, rotolato fino al bordo del banco, lontano dalle mani, come posato con troppa foga. Pete non sapeva cosa ci fosse scritto né dove fosse finito il foglio, il che non gli importava. Gli importava che un tecnico, in un meeting con la trascrizione accesa, avesse armeggiato per nove minuti con qualcosa che la schiena copriva, lasciando un pennarello usato a rotolare sul banco. Era poco. Era meno di una smutandata, meno del cognome, non era nemmeno una riga del riepilogo. Ma era la prima volta, da quando Tom era un suo sottoposto, che Pete lo vedeva nascondere qualcosa con il corpo invece che con il silenzio, e un uomo che nasconde con il corpo, al liceo, era un uomo che prima o poi sarebbe finito dentro il suo armadietto.
 
 "Quel pennarello te lo faccio mangiare" pensò, con il tono con cui al liceo lo diceva davvero.
 
@@ -118,6 +118,8 @@ Si appoggiò allo schienale, che cedette fin dove lo lasciava il pannello diviso
 | "Tom lo riconobbe prima ancora di girarsi": Tom non si gira mai nel testo, promessa non mantenuta (autore) | continuity / clarity | integrated (v3.6) | "Tom lo riconobbe senza girarsi" |
 
 | Pete vede "l'angolo del foglio a faccia in giù": non può sapere il verso del foglio, la schiena lo copre; per sospettare basta il pennarello rotolato (autore) | logical / POV | integrated (v3.7) | Dal settimo scatto Pete vede solo il pennarello rotolato lontano dalle mani, "come posato con troppa foga", più l'armeggiare visto nel francobollo; il foglio a faccia in giù resta solo nel POV di Tom, che lascia scappare il pennarello mentre si china all'interruttore |
+
+| L'armadietto, frase dell'autore | voice | integrated (v3.8) | "era un uomo che prima o poi sarebbe finito dentro il suo armadietto" |
 
 ### Revise — 2026-11-13 (v3.2)
 
