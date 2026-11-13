@@ -47,6 +47,8 @@ Parte come osservatore metodico e prudente (resetta le macchine "per prudenza", 
 
 ## Note
 
+- **Tom sa di avere Pete alle costole (autore, 2026-11-13)**: lo immagina dal G25 (cap. 15), quando per la prima volta in dodici anni ha lasciato la porta accostata e Pete è passato davanti rallentando. «Pete, prova a prendermi» (cap. 18) e il LED contro la telecamera (cap. 19) sono una dichiarazione rivolta a Pete: so che mi stai cercando. Tensione voluta con il cap. 20: Tom intende il LED come sfida, Pete lo liquida come riflesso del neon o guasto della telecamera (demolizione cap. 19, critica 1); la sfida non arriva a destinazione, per ora.
+
 - **Il profilo perfetto e i riflettori (autore, 2026-11-12)**: dodici anni puliti con una sola sanzione (i quarantasette minuti del cap. 2). Una seconda infrazione non porterebbe una segnalazione formale, ma due infrazioni su un profilo come il suo sono la classica cosa che accende i riflettori degli ispettori interni sopra Pete. È il motivo per cui nel meeting del cap. 19 tiene la trascrizione pulita.
 
 - **La porta accostata** (cap. 15, G25): per la prima volta in dodici anni non chiude a doppia mandata e lascia la porta accostata, seduto di tre quarti con la porta nell'angolo dell'occhio: una vedetta, per capire se dopo la mail del G24 qualcuno è sulle sue tracce. Il primo che passa è Pete. Prima riparazione che gli va male (tritatutto, rondella dimenticata, ciotola rigata).

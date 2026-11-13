@@ -38,3 +38,4 @@ chapters/19-il-meeting.md
 - Critica 5 (Tom ha studiato quel volto fotogramma per fotogramma, eppure solo una familiarità vaga) → **risolta, da integrare** (autore): l'età cambia tutto, Tom è preso dal meeting e soprattutto si sta invaghendo di Emma (da mostrare, non nominare).
 - 2026-11-12: demolizione ciclo 1 chiusa, 5 critiche risolte (1 da gestire nel cap. 20), nessuna rinviata.
 - 2026-11-12: integrazione v2.0 applicata (critiche 2-5; la 1 va nel cap. 20). Aggiunta approvata: il quaderno pieno nella spiegazione di Emma.
+- **Annotazione (autore, 2026-11-13)**: usando il LED Tom dichiara a Pete di sapere che lo sta cercando; «Pete, prova a prendermi» dice proprio questo. Tom immagina Pete alle costole dal G25 (cap. 15: porta accostata per la prima volta, Pete che passa e rallenta). Annotato in tom.md; tensione con il cap. 20 (Pete legge il bianco come neon o guasto) segnalata all'autore.
