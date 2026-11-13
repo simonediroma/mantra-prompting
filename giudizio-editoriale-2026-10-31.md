@@ -298,9 +298,9 @@ Stessi criteri del §1 e del §8, stesso lettore. Base: `chapters/01-19` a `main
 | Signora Voss | 7,5 | 7,5 | Nessuna scena nuova, ma la sua storia ha il pagamento giusto: «IL TELEVISORE HA PROVATO A SALVARLA» rovescia la paura di Emma e chiude la sua domanda del cap. 16. |
 | Ambiente istituzionale (Meridian) | 8,5 | 9 | Le regole generano trama fino al climax: mail fuori orario, riepilogo ai supervisori, domenica protetta, modalità presenza, trascrizione obbligatoria, i sette scatti con il parere legale. È la parte più originale del libro. |
 | Ambiente fisico e sensoriale | 6,5 | 7 | I capitoli nuovi hanno luoghi con un odore e una luce (corridoio delle 7:45, cucina di notte, divano di Pete, open space con metà neon spenti, la Mela Morsicata). I cap. 10-14 non sono cambiati: zero parole di luce in 11-14, zero odori dal 7 al 14. |
-| Audiolibro | 8 | 7,5 | Copioni 1-19 allineati (`check` verde). Pubblicati gli MP3 1-13 soltanto: gli episodi 14-19, cioè tutto l'arco di Pete e il finale, non esistono ancora in audio. |
+| Audiolibro | 8 | 8 | Copioni 1-19 allineati (`check` verde) e MP3 1-19 pubblicati (merge di main, stesso giorno). Gli MP3 17-19 precedono le correzioni C-66…C-73: differenze di poche frasi tra audio e testo. |
 
-**Media semplice**: da 7,2 a 7,8. Il salto più grande è Pete (+3,5), il più piccolo l'ambiente fisico, perché i capitoli che lo tengono basso (8-13) non sono stati riscritti.
+**Media semplice**: da 7,2 a 7,8 (7,9 con l'audio completo). Il salto più grande è Pete (+3,5), il più piccolo l'ambiente fisico, perché i capitoli che lo tengono basso (8-13) non sono stati riscritti.
 
 ### 9.2 Numeri di controllo
 
