@@ -1,6 +1,6 @@
 ---
 title: Il meeting
-version: 3.10
+version: 3.11
 revised: 2026-11-13
 claim: "Il primo incontro tra Tom ed Emma si gioca su due canali. A voce, per la trascrizione di Pete, una consulenza tecnica impeccabile sui log che si interrompono con `compacting context`; sui cartelli, scritti coperti dalla schiena e mostrati mentre un LED abbaglia la telecamera della sorveglianza, la verità di Tom (il Morse, il video, il televisore che ha provato a salvare la signora, un altro televisore di cui non sa cosa guardasse). Emma, che si è presentata dietro una maschera, trova davanti a sé l'unico uomo di Meridian con la faccia scoperta. Pete, dietro la telecamera con i suoi sette scatti, muove l'inquadratura per vedere cosa scrive Tom e si acceca da solo; alle quattro ha una trascrizione inutile e un solo appiglio, un pennarello rotolato, e dichiara la caccia. Chiude il Libro 1."
 status: complete
@@ -90,7 +90,7 @@ Il suo era sul banco. Della carta non si vedeva niente, perché la schiena di To
 
 "Quel pennarello te lo faccio mangiare" pensò, con il tono con cui al liceo lo diceva davvero.
 
-Si appoggiò allo schienale con la sua solita veemenza, portandolo a piegarsi fino a toccare il pannello divisorio. Smise di pensare al meeting, prese un bel respiro e iniziò a soppesare quanto la sua vita da supervisore fosse limitata dalle stesse regole che doveva far rispettare alle persone che controllava. Le sue mansioni gli andavano strette, un pugno di nerd da sorvegliare quando lì fuori c'erano ventimila dipendenti che continuamente commettevano infrazioni punibili con doppie e triple smutandate. In quel momento, più che in altri attimi passati in Meridian, desiderava essere un ispettore, avere accesso a ogni sistema di sorveglianza senza limiti e la possibilità di spalancare con un calcio qualsiasi armadietto volesse. Il settimo scatto era il primo mattone della scala che lo avrebbe portato a una stanza tutta sua. Lo salvò in una cartella nuova, che chiamò come il meeting che si era messo lui stesso in calendario, poi guardò ancora la nuca di Tom e il pennarello sul bordo del banco.
+Si appoggiò allo schienale con la sua solita veemenza, finché non toccò il pannello divisorio. Un pugno di nerd da sorvegliare, quando lì fuori c'erano ventimila dipendenti che commettevano ogni giorno infrazioni da doppia e tripla smutandata, mentre a lui toccavano sette scatti alla volta. Un ispettore avrebbe avuto ogni telecamera di Meridian senza limiti e la possibilità di spalancare con un calcio qualsiasi armadietto volesse. Il settimo scatto era il primo mattone della scala che lo avrebbe portato a una stanza tutta sua. Lo salvò in una cartella nuova, che chiamò come il meeting che si era messo lui stesso in calendario, poi guardò ancora la nuca di Tom e il pennarello sul bordo del banco.
 
 "Inizia la caccia" pensò. "Verrò a prenderti molto presto..."
 
@@ -168,3 +168,7 @@ Fusione del cap. 20 in questo capitolo (autore). Nuove parti: Pete alle tre meno
 ### Correzioni — 2026-11-13 (v3.10, blocco A del giudizio §9)
 
 C-66…C-70 applicate in blocco (punteggiatura): quattro ", e" in narrazione e il doppio "mentre" dei sette scatti. Nient'altro cambia.
+
+### Correzioni — 2026-11-13 (v3.11, C-71)
+
+Penultimo paragrafo accorciato (autore: approvato): via il narratore che spiega Pete, tenuti divisorio, ventimila dipendenti, ispettore e armadietto.

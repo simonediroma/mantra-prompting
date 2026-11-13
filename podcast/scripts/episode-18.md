@@ -63,7 +63,7 @@ L'invito arrivò alle dieci, mentre Tom aveva tra le mani un frullatore a immers
 Invito. Emma. oggi, quindici in punto.
 «Sentiamoci oggi pomeriggio, alle tre. Non riesco a fare meeting in presenza oggi.».
 
-Lo lesse una volta sola. Aveva chiesto una stanza e gli arrivava uno schermo, cioè la sua stanza, il suo banco e la telecamera nell'angolo sopra la porta, con Pete dietro a tutti e tre. Avrebbe dovuto rifiutare, o almeno proporre un domani, come l'invito stesso gli suggeriva. Pensò invece che alle tre l'avrebbe sentita parlare e che, di tutto quello che gli era successo in dodici anni in quella stanza, era un evento di magnitudine seconda soltanto ai due televisori con cui aveva tenuto le conversazioni più interessanti della sua vita. Decise di fare di tutto per preservare quell'incontro, anche dalla rete di controllo di Meridian.
+Lo lesse una volta sola. Aveva chiesto una stanza e gli arrivava uno schermo, cioè la sua stanza, il suo banco e la telecamera nell'angolo sopra la porta, con Pete dietro a tutti e tre. Avrebbe dovuto rifiutare, o almeno proporre un domani, come l'invito stesso gli suggeriva. Pensò invece che alle tre l'avrebbe sentita parlare. In dodici anni, in quella stanza, gli erano capitate solo due conversazioni più interessanti, tutte e due con un televisore. Decise di fare di tutto per preservare quell'incontro, anche dalla rete di controllo di Meridian.
 
 «Pete, prova a prendermi» disse alla stanza, con un tono che alle sue stesse orecchie suonò decisamente determinato.
 

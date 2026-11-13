@@ -6,7 +6,7 @@
 ## Riepilogo
 
 ```
-CORRECTIONS — 4 open (72 done) · più 2 decisioni e la passata descrittiva 7-14 da pianificare (sezione Open)
+CORRECTIONS — 0 open (76 done) · resta la passata descrittiva 7-14 (blocco P, solo stampa) · più 2 decisioni e la passata descrittiva 7-14 da pianificare (sezione Open)
 ```
 
 Episodi audio toccati dalle correzioni applicate: 1, 2, 4, 5, 6, 9, 10, 12, 13 (più il 14, ancora senza copione) (gli ep. 11, 12, 13 sono comunque da rigenerare per motivi tecnici; vedi `giudizio-editoriale-2026-10-31.md → 4`).
@@ -18,7 +18,7 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 9.3`. Ordine di lavoro in fondo al
 ### Decisioni dell'autore (prima di tutto il resto)
 
 - **D1 · variante stampa — deciso (autore, 2026-11-13).** La passata descrittiva va solo sulla carta, tra marcatori `<!--stampa-->…<!--/stampa-->` dentro `chapters/` (testo unico, vedi `ISTRUZIONI-CLAUDE.md → Edizione stampa e edizione audio`). L'audio degli episodi 7-14 non cambia.
-- **D2 · il titolo nel testo (B2.2).** "Mantra prompting" non è mai pronunciato: oggi c'è solo "come un mantra" (cap. 6 e 11). Tenere così, coerente con la regola di non spiegare il meccanismo, oppure dare il nome a un vecchio progetto del fondatore, senza spiegarlo, nel raccoglitore del cap. 11.
+- **D2 · il titolo nel testo — deciso (autore, 2026-11-13).** Nel Libro 1 resta implicito: "mantra" compare sempre legato a ripetizioni e interazioni con l'IA, mai come nome della tecnica. Il nome "mantra prompting" si spiega nel cap. 2 del Libro 2, in una digressione sul fondatore che l'ha inventato. Nessuna modifica al Libro 1.
 
 ### Blocco A · punteggiatura (si applica in blocco)
 
@@ -49,23 +49,23 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 9.3`. Ordine di lavoro in fondo al
 
 ### Blocco B · stile (una riga alla volta, con approvazione)
 
-### C-71 · 19.42 · style · open
+### C-71 · 19.42 · style · done (cap. 19 v3.11)
 **Nota**: il paragrafo è testo dell'autore (v3.9): la proposta lo accorcia senza cambiarne le idee. Oggi il narratore spiega cosa pensa Pete ("prese un bel respiro e iniziò a soppesare…", "più che in altri attimi passati in Meridian"). Tenute la schiena contro il divisorio, i ventimila dipendenti e l'armadietto preso a calci.
 **Originale**: "Si appoggiò allo schienale con la sua solita veemenza, portandolo a piegarsi fino a toccare il pannello divisorio. Smise di pensare al meeting, prese un bel respiro e iniziò a soppesare quanto la sua vita da supervisore fosse limitata dalle stesse regole che doveva far rispettare alle persone che controllava. Le sue mansioni gli andavano strette, un pugno di nerd da sorvegliare quando lì fuori c'erano ventimila dipendenti che continuamente commettevano infrazioni punibili con doppie e triple smutandate. In quel momento, più che in altri attimi passati in Meridian, desiderava essere un ispettore, avere accesso a ogni sistema di sorveglianza senza limiti e la possibilità di spalancare con un calcio qualsiasi armadietto volesse."
 **Proposta**: "Si appoggiò allo schienale con la sua solita veemenza, finché non toccò il pannello divisorio. Un pugno di nerd da sorvegliare, quando lì fuori c'erano ventimila dipendenti che commettevano ogni giorno infrazioni da doppia e tripla smutandata, mentre a lui toccavano sette scatti alla volta. Un ispettore avrebbe avuto ogni telecamera di Meridian senza limiti e la possibilità di spalancare con un calcio qualsiasi armadietto volesse."
 
-### C-72 · 18.24 · style · open
+### C-72 · 18.24 · style · done (cap. 18 v5.3)
 **Nota**: "evento di magnitudine seconda" è una metafora da tradurre (regola del 2026-11-03). Il fatto è più comico della metafora.
 **Originale**: "Pensò invece che alle tre l'avrebbe sentita parlare e che, di tutto quello che gli era successo in dodici anni in quella stanza, era un evento di magnitudine seconda soltanto ai due televisori con cui aveva tenuto le conversazioni più interessanti della sua vita."
 **Proposta**: "Pensò invece che alle tre l'avrebbe sentita parlare. In dodici anni, in quella stanza, gli erano capitate solo due conversazioni più interessanti, tutte e due con un televisore."
 
-### C-73 · 17.9 · question · open
+### C-73 · 17.9 · question · done (cap. 17 v1.18)
 **Nota**: tre riferimenti pop di fila su Pete (Smith, Biff, *Ciao Darwin*). Tutti e tre hanno un pagamento (Smith il completo nero dei cap. 15 e 18, Biff l'armadietto del 19, *Ciao Darwin* la scena), quindi non se ne toglie uno intero. Si toglie la frase che spiega: l'ambizione di carriera si vede già nel 18 e nel 19 (la stanza degli ispettori).
 **Originale**: "…mai seguire il Bianconiglio, che ti porta solo alla deriva. Smith aveva perso la sua battaglia e Pete era convinto di poterlo vendicare, facendo carriera nell'apparato di controllo di Meridian."
 **Proposta**: "…mai seguire il Bianconiglio, che ti porta solo alla deriva."
 **Nota sul conteggio**: "smutandata" è in undici punti del cap. 17, cinque nella Tabella; nel 18 e nel 19 due per capitolo. Distribuzione accettabile, nessuna correzione.
 
-### C-74 · 9.3 · style · open
+### C-74 · 9.3 · style · done (cap. 9 v5.1, solo stampa)
 **Nota**: "a fissare" in quattro capitoli (1, 2, 4, 9), soglia tre. Il 9 è il più facile.
 **Originale**: "Restò a fissare lo schermo come chi ha appena rifatto un calcolo"
 **Proposta**: "Guardò lo schermo come chi ha appena rifatto un calcolo"
@@ -90,7 +90,7 @@ Obiettivo del giudizio §7.3: almeno dieci dettagli fisici ogni mille parole nei
 
 ### Ordine di lavoro
 
-1. D2 (autore). D1 deciso: variante stampa.
+1. D1 e D2 decisi (variante stampa; titolo spiegato nel Libro 2).
 2. Blocco A in blocco (C-66…C-70).
 3. Blocco B uno alla volta (C-71…C-74).
 4. Blocco P, un capitolo per volta, con approvazione; scrittura in voce secondo `style-guide.md`, ogni inserto tra `<!--stampa-->` e `<!--/stampa-->`.

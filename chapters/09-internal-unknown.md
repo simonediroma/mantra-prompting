@@ -1,16 +1,16 @@
 ---
 title: internal_unknown
-version: 5.0
+version: 5.1
 claim: "I tool pubblici di rilevamento IA falliscono sul video intero ma non sul solo testo del parlato, e passando quel transcript nell'archivio interno di Meridian Tom trova una corrispondenza che lo porta a una scoperta molto più grossa di quanto si aspettasse: un laboratorio di ricerca Meridian, silenzioso da cinque anni, è direttamente coinvolto nella morte della signora Voss."
 status: complete
-revised: 2026-11-06
+revised: 2026-11-13
 ---
 
 Il mattino dopo si alzò un'ora prima del solito. Fuori era ancora buio e la casa aveva il freddo delle stanze in cui il riscaldamento non ha ancora capito che qualcuno è sveglio. I quindici minuti di anticipo restavano dov'erano, intoccabili come ogni mattina. Quello che aveva in mente richiedeva tempo e l'unico posto da cui sapesse ancora prenderne era il sonno. In cucina, con il computer sul tavolo e il caffè che si raffreddava accanto senza che lo toccasse, caricò l'intero video su Hive Moderation, l'unico tra i servizi di rilevamento IA più noti che accettasse un video intero. Sperava che gli dicesse con quale modello fosse stato generato, oltre a confermargli quello che ormai considerava un fatto acquisito.
 
 Non lo confermò. Il verdetto arrivò in pochi secondi. Contenuto reale, nessuna evidenza di generazione artificiale.
 
-Restò a fissare lo schermo come chi ha appena rifatto un calcolo e ha ottenuto di nuovo lo stesso risultato sbagliato. Il piede a sei dita non era un'allucinazione. Aveva contato falangi e unghie, personalmente, su ogni singolo fotogramma. Il problema, si disse, doveva essere nello strumento, non nel video. Quel tool probabilmente era addestrato a riconoscere artefatti visivi, texture innaturali, movimento troppo fluido o troppo rigido, non un singolo glitch anatomico durato due fotogrammi su un video di quindici minuti.
+<!--audio-->Restò a fissare<!--/audio--><!--stampa-->Guardò<!--/stampa--> lo schermo come chi ha appena rifatto un calcolo e ha ottenuto di nuovo lo stesso risultato sbagliato. Il piede a sei dita non era un'allucinazione. Aveva contato falangi e unghie, personalmente, su ogni singolo fotogramma. Il problema, si disse, doveva essere nello strumento, non nel video. Quel tool probabilmente era addestrato a riconoscere artefatti visivi, texture innaturali, movimento troppo fluido o troppo rigido, non un singolo glitch anatomico durato due fotogrammi su un video di quindici minuti.
 
 Serviva isolare la variabile giusta. Aprì un documento vuoto e trascrisse, parola per parola, tutto quello che la ragazza diceva nel video dal primo all'ultimo secondo. Non le pose, non la musica di sottofondo, solo il parlato. Ne uscì un documento lungo quanto i quindici minuti del video stesso, dall'apertura fino all'ultimo consiglio prima dei saluti. Iniziava così:
 
@@ -121,3 +121,7 @@ Il video era un prodotto Meridian, pubblicato su un canale che di Meridian non p
 | Esposizione sull'archivio ancora lunga (A1.7) | pacing | integrated | Compressa in tre frasi; tenuti il "sì senza nome" (base di `internal_unknown`) e la battuta dei leoni. |
 | "generico" ripetuto (§7, §9) | repetition | integrated | Tolto al §9. |
 | Chiusura su sentenza "Silenzio completo." e tic "il tipo di iniziativa" | R5 / tic | integrated | "…non ne aveva più sentito parlare, nemmeno in una nota a piè di pagina." |
+
+### Correzioni — 2026-11-13 (v5.1, C-74)
+
+"Restò a fissare" → "Guardò" solo nell'edizione stampa (autore: approvato). L'audio resta com'era: l'ep. 9 non cambia.
