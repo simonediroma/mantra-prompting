@@ -11,13 +11,13 @@ chapter
 chapters/19-il-meeting.md
 
 ## Current step
-demolish
+— (integrato, v2.0; in attesa di lettura)
 
 ## Steps completed
 - [x] ask-before-writing
 - [x] write
-- [ ] demolish
-- [ ] integrate
+- [x] demolish
+- [x] integrate
 
 ## Notes
 - 2026-11-12: aperta dopo il merge del cap. 18 (v5.1, PR #38). Vincoli dal 18: round a Tom (nessuna doppia smutandata per meeting inutile), trascrizione automatica obbligatoria attivata da Pete, CCTV solo screenshot periodici, LED del faretto da giardino per terra puntato verso la telecamera della sorveglianza sopra lo stipite, interruttore sotto il banco. L'outline del 19 (Tom dice ad alta voce «So chi ha prodotto il video…») va riallineato.
@@ -31,3 +31,12 @@ demolish
 - Nota di coerenza (mia): se la telecamera è alle spalle di Tom vede anche il suo schermo, e nella finestra della call c'è l'anteprima della sua webcam con il cartello leggibile. È per questo che serve il LED quando lo alza (e dopo il clic Pete vede il volto di Emma sullo stesso schermo).
 - **Approvato (autore, 2026-11-12)**: riepilogo in otto scene, quinto cartello per ultimo prima del clic.
 - 2026-11-12: bozza v1.0 (~1.500 parole). Aggiunte da dichiarare: Tom a faccia scoperta (non ha mai configurato la modalità presenza); il nastro che sospende le consegne per un appuntamento in calendario; il tostapane chiuso alle tre meno due; la canzone di cui si ricorda il ritornello e non il titolo; Emma che parla di compattamento "come una collega da vent'anni"; il bagliore bianco che Emma vede sul muro; il cartello a faccia in giù; «Mi va»; chiusa sullo sfondo vuoto.
+- 2026-11-12, demolizione ciclo 1. Critica 1 (il LED lascia screenshot bianchi proprio durante il meeting: traccia per Pete) → **risolta, da gestire nel cap. 20** (autore): Pete pensa a un riflesso del neon o a un guasto della telecamera; ha le foto prima del LED (Tom al banco) e l'ultima dopo il clic (volto di Emma sullo schermo); il bianco in mezzo non lo sa leggere.
+- Critica 2 («Mi va» contro la paura e la bugia dell'«oggi» del cap. 18) → **risolta, da integrare** (autore): è una nuova bugia, un altro domani da rimandare. Va resa visibile nella coda di Emma.
+- Critica 3 (a voce Tom cita il televisore del cap. 1, quello della sanzione dei quarantasette minuti: mattone per Pete) → **risolta, da integrare** (autore): anche il log del televisore Voss finiva con `compacting context`; Tom cita quello (coerente con l'ordine del giorno). Il meeting si regge sul fatto che Emma dovrebbe spiegare a Tom cos'è il compacting context e perché il log si è interrotto.
+- Critica 4 (Emma esclude "una riga di archivio", che è proprio la strada di Tom nel cap. 9) → **risolta, da integrare** (autore): il cartello resta (riassunto vero); Emma deduce invece la strada intera (video, tool di verifica, archivio interno, Elab); il colpo per lei resta che Tom ha visto il video, la sua ragazza.
+- Critica 5 (Tom ha studiato quel volto fotogramma per fotogramma, eppure solo una familiarità vaga) → **risolta, da integrare** (autore): l'età cambia tutto, Tom è preso dal meeting e soprattutto si sta invaghendo di Emma (da mostrare, non nominare).
+- 2026-11-12: demolizione ciclo 1 chiusa, 5 critiche risolte (1 da gestire nel cap. 20), nessuna rinviata.
+- 2026-11-12: integrazione v2.0 applicata (critiche 2-5; la 1 va nel cap. 20). Aggiunta approvata: il quaderno pieno nella spiegazione di Emma.
+- **Annotazione (autore, 2026-11-13)**: usando il LED Tom dichiara a Pete di sapere che lo sta cercando; «Pete, prova a prendermi» dice proprio questo. Tom immagina Pete alle costole dal G25 (cap. 15: porta accostata per la prima volta, Pete che passa e rallenta). Annotato in tom.md; tensione con il cap. 20 (Pete legge il bianco come neon o guasto) segnalata all'autore.
+- **Precisato (autore, 2026-11-13)**: non è una sfida da far arrivare a Pete, è un cambio del personaggio. Tom passa da preda inerme (subisce, reagisce con il margine dei quarantasette secondi) a preda attiva che mette i bastoni tra le ruote a Pete, come Kevin in *Mamma, ho perso l'aereo* o i Goonies contro i Fratelli. Nessun attrito con il cap. 20: che Pete legga il bianco come guasto non toglie niente. Aggiornati tom.md e ledger.

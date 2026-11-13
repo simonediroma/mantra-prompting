@@ -47,6 +47,8 @@ Parte come osservatore metodico e prudente (resetta le macchine "per prudenza", 
 
 ## Note
 
+- **Da preda inerme a preda attiva (autore, 2026-11-13)**: Tom immagina Pete alle costole dal G25 (cap. 15: porta accostata per la prima volta, Pete che passa e rallenta). Fino a lì è una preda inerme, che subisce e reagisce soltanto, con il margine dei quarantasette secondi sui tempi. Dal cap. 18 cambia: «Pete, prova a prendermi» e il LED contro la telecamera (cap. 19) non sono una sfida da recapitare (che Pete la capisca o no non conta: nel cap. 20 legge il bianco come neon o guasto), ma il segno di una preda attiva che mette i bastoni tra le ruote al cacciatore. Modello: Kevin in *Mamma, ho perso l'aereo*, i Goonies contro i Fratelli. Sembra la preda perfetta e venderà cara la pelle, con espedienti analogici contro gli strumenti di Pete.
+
 - **Il profilo perfetto e i riflettori (autore, 2026-11-12)**: dodici anni puliti con una sola sanzione (i quarantasette minuti del cap. 2). Una seconda infrazione non porterebbe una segnalazione formale, ma due infrazioni su un profilo come il suo sono la classica cosa che accende i riflettori degli ispettori interni sopra Pete. È il motivo per cui nel meeting del cap. 19 tiene la trascrizione pulita.
 
 - **La porta accostata** (cap. 15, G25): per la prima volta in dodici anni non chiude a doppia mandata e lascia la porta accostata, seduto di tre quarti con la porta nell'angolo dell'occhio: una vedetta, per capire se dopo la mail del G24 qualcuno è sulle sue tracce. Il primo che passa è Pete. Prima riparazione che gli va male (tritatutto, rondella dimenticata, ciotola rigata).

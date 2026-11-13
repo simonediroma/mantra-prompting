@@ -26,6 +26,7 @@
 | Ch. 16 — Le 23:34 di venerdì | 1 | 6 | 0 | 2 (1 respinta in parte, 1 accettata in parte) |
 | Ch. 17 — Il bivio | 1 | 8 | 0 | 0 |
 | Ch. 18 — La richiesta di meeting | 1 | 5 | 0 | 0 |
+| Ch. 19 — Il meeting | 1 | 5 | 0 | 0 |
 
 ---
 
@@ -364,3 +365,15 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 | Tom scrive e invia la risposta durante lo slot della bilancia, contro la sua regola dei cap. 14-15 | contradiction / character | resolved | Finisce la bilancia in anticipo, scrive nei minuti residui, invia alla chiusura dell'intervento a banco vuoto. |
 | Emma passiva: avatar e sfondo di default, la bugia dell'«oggi» arriva già fatta; beat "Emma costruisce la maschera" perso | foundation / character (pattern: reazione in due fasi) | resolved | Emma impaurita; si vede la scelta di mentire con l'«oggi»; scartabella nelle vecchie dotazioni di Elab per mettere in piedi avatar e sfondo (origine del logo vecchio; volto non descritto). |
 | Bilancia: cella "piegata" con peso fisso incompatibile con l'auto-zero, diagnosi senza osservazione | external / technical (pattern: dettagli tecnici da riparatore) | resolved | Peso a caso, sempre diverso (guasto intermittente che sfugge all'azzeramento); diagnosi con un gesto e un'osservazione. |
+
+### Ch. 19 — Il meeting
+
+#### Cycle 1 — 2026-11-12
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Il LED lascia screenshot bianchi proprio durante il meeting: traccia per Pete | logical (pattern: salti logici) | resolved (cap. 20) | Pete pensa a un riflesso del neon o a un guasto della telecamera; ha le foto prima del LED e l'ultima dopo il clic. Da mostrare nel cap. 20. |
+| «Mi va» contro la paura e la bugia dell'«oggi» (cap. 18) | character / contradiction (pattern: reazione in due fasi) | resolved | Nuova bugia, un altro domani da rimandare; visibile nella coda di Emma. |
+| A voce Tom cita il televisore del cap. 1, quello della sanzione: mattone per Pete | logical | resolved | Anche il log del televisore Voss finiva con `compacting context`: Tom cita quello; Emma spiega cos'è e perché il log si interrompe. |
+| Emma esclude "una riga di archivio", che è la strada di Tom (cap. 9) | contradiction | resolved | Emma deduce la strada intera; il colpo resta la sua ragazza vista da Tom. |
+| Tom ha studiato quel volto fotogramma per fotogramma e prova solo una familiarità vaga | foundation / character | resolved | L'età cambia tutto, Tom è preso dal meeting e si sta invaghendo di Emma (mostrato, non nominato). |
