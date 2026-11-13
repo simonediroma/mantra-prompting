@@ -89,4 +89,4 @@ La finestra di Tom si spense. Emma aveva detto «mi va» come aveva scritto "ogg
 | G3 "banco" ripetuto | style | integrated (v2.1) | "mentre con la sinistra rialzava l'interruttore" |
 | G4 contrapposizione slegata | R2 | integrated (v2.1) | "mentre l'ultimo le diceva" |
 | P1-P2 «» per testo scritto | punctuation | integrated (v2.1) | "meeting in presenza", "oggi" |
-| K1 nastro che sospende le consegne per un appuntamento | continuity / world | integrated (ledger) | Regola di mondo registrata; il pensiero di Pete nel cap. 18 ("avrebbe dovuto riparare qualcosa") resta un suo errore |
+| K1 nastro che sospende le consegne per un appuntamento | continuity / world | integrated (ledger) | Regola di mondo registrata; il pensiero di Pete nel cap. 18 ("avrebbe dovuto riparare qualcosa") resta valido: senza il meeting Tom avrebbe riparato qualcosa (autore) |
