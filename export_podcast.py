@@ -1446,7 +1446,11 @@ def render_script(project_dir, chapter, existing_meta=None):
         parts.append(f"[sfx {fm['sfx_open']} under]")
     pov = (meta.get("pov") or "").strip().lower()
     tom_pov = pov.startswith("tom") if pov else not re.search(r"\bEmma\b", body[:1500])   # fallback: Emma nelle prime righe → POV Emma
-    parts.append(adapt_chapter_body(body, podcast_settings(config).get("sfx_map"), morse_pov=tom_pov))
+    spoken = adapt_chapter_body(body, podcast_settings(config).get("sfx_map"), morse_pov=tom_pov)
+    # Pronunce solo per l'audio (book.config.json → podcast.pronunciations {"parola": "come leggerla"}).
+    for word, said in (podcast_settings(config).get("pronunciations") or {}).items():
+        spoken = re.sub(r"\b" + re.escape(word) + r"\b", said, spoken)
+    parts.append(spoken)
     parts.append("[pause 1.5]")
     if fm["teaser"]:
         parts.append(fm["teaser"] if fm["teaser"].startswith("Nel prossimo episodio") else "Nel prossimo episodio, " + fm["teaser"])
