@@ -2,7 +2,7 @@
 
 > Created: 2026-11-08
 > Last updated: 2026-11-09
-> Status: open
+> Status: complete
 
 ## Macro
 chapter
@@ -11,7 +11,7 @@ chapter
 chapters/18-la-richiesta-di-meeting.md
 
 ## Current step
-— (integrato, v2.0; in attesa di lettura)
+— (completo)
 
 ## Steps completed
 - [x] ask-before-writing
@@ -51,3 +51,4 @@ chapters/18-la-richiesta-di-meeting.md
 - 2026-11-11: v4.0, ingresso di Pete semplificato con il testo dell'autore (dopo il merge della PR #35, branch ripartito da main).
 - 2026-11-11: revise 2 (v4.4), 5 correzioni applicate (G1-G4, K1); K2-K4 tenute.
 - 2026-11-12: v5.1, contromossa di Tom cambiata (autore): niente fumo (antincendio), LED di un faretto da giardino per terra puntato verso la telecamera della sorveglianza, per abbagliarla. Aggiornati outline, ledger, demolition-history.
+- 2026-11-13: capitolo chiuso dall'autore (complete).

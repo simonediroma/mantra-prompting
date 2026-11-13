@@ -274,7 +274,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Collegamento al successivo**: il meeting delle 15:00:01.
 **Scrittura (2026-11-09, dialogo)**: riscritture di Tom solo a gesti (nessuna bozza visibile); avatar = quello del profilo, fedele all'aspetto attuale per regolamento (autore, 2026-11-09): nessuna descrizione né costruzione del volto dal POV di Emma; cinquant'anni e familiarità non evidente con la ragazza di eTv si vedono dal POV di Tom nel cap. 19; sfondo di sempre con il logo, sei dita no; sul banco di Tom una bilancia parlante con una cella di carico piegata. Ordine POV: Tom → Emma → Pete → Tom → Pete.
 **Integrazione (2026-11-09, demolizione ciclo 1, v2.0)**: "in presenza" = incontro fisico; Emma, al primo meeting della sua vita con qualcuno fuori da Elab, mente con l'«oggi» e configura la modalità presenza con il pacchetto di avvio delle vecchie cartelle di Elab (logo vecchio da lì). Pete: la morte è una coincidenza, ma Tom l'ha taciuta, primo mattone. Tom vede la trappola, «Pete, prova a prendermi», accetta e prepara per terra, puntato verso la telecamera della sorveglianza sopra la porta, il LED di un faretto da giardino per abbagliarla (autore, 2026-11-12: niente fumo, scatterebbe l'antincendio). Nel cap. 19 l'abbagliamento non copre tutto: Pete ha comunque screenshot utili; Tom parla con Emma in modo controllato contro la trascrizione). **Cambia la decisione (2)**: round a Tom, nessuna doppia smutandata per il meeting; Pete resta a secco e si accanisce. Tom scrive nei minuti residui e invia alle 8:26.
-**Stato**: `draft`
+**Stato**: `complete`
 **File**: `chapters/18-la-richiesta-di-meeting.md`
 
 ---
@@ -287,7 +287,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Collegamento al precedente**: prosecuzione diretta dell'invito e della sorveglianza attivata nel cap. 18.
 **Collegamento al successivo**: Pete rivede lo screenshot del meeting.
 **Scrittura (2026-11-12)**: Tom a faccia scoperta (non ha mai configurato la modalità presenza); il nastro sospende le consegne per un appuntamento in calendario; cartelli scritti in diretta coperti dalla schiena; cinque cartelli, l'ultimo «C'È UN ALTRO TELEVISORE. NON SO DI CHI FOSSE NÉ COSA GUARDASSE» (gancio Libro 2, C-23); chiusa con lo sfondo vuoto.
-**Stato**: `draft`
+**Stato**: `complete`
 **File**: `chapters/19-il-meeting.md`
 
 ---

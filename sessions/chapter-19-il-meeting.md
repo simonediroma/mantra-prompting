@@ -2,7 +2,7 @@
 
 > Created: 2026-11-12
 > Last updated: 2026-11-12
-> Status: open
+> Status: complete
 
 ## Macro
 chapter
@@ -11,7 +11,7 @@ chapter
 chapters/19-il-meeting.md
 
 ## Current step
-— (integrato, v2.0; in attesa di lettura)
+— (completo)
 
 ## Steps completed
 - [x] ask-before-writing
@@ -42,3 +42,4 @@ chapters/19-il-meeting.md
 - **Precisato (autore, 2026-11-13)**: non è una sfida da far arrivare a Pete, è un cambio del personaggio. Tom passa da preda inerme (subisce, reagisce con il margine dei quarantasette secondi) a preda attiva che mette i bastoni tra le ruote a Pete, come Kevin in *Mamma, ho perso l'aereo* o i Goonies contro i Fratelli. Nessun attrito con il cap. 20: che Pete legga il bianco come guasto non toglie niente. Aggiornati tom.md e ledger.
 - 2026-11-13: revise (v2.1), 6 correzioni nel testo + regola del nastro nel ledger. Precisato (autore): il pensiero di Pete del cap. 18 resta valido, le riparazioni sono solo rimandate dal meeting.
 - 2026-11-13: v2.3, Emma trascendente (corpo solo come avatar), scusa per declinare, modalità presenza spenta contestualizzata (anteprima che dovrebbe tornare alla telecamera, nessuno davanti). Regola in emma.md e style-guide.
+- 2026-11-13: capitolo chiuso dall'autore (complete).
