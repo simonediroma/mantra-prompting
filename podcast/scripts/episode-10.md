@@ -3,7 +3,7 @@ episode: 10
 title: "Capitolo 10 — Il bluff"
 description: "Per la prima volta dopo anni, qualcuno scrive alla casella di Elab."
 source: chapters/10-il-bluff.md
-status: "script"
+status: "approved"
 recap: "l'archivio di Meridian ha portato Tom a Elab, un laboratorio silenzioso da cinque anni."
 teaser: "una giornata intera, in attesa di una risposta."
 ---
