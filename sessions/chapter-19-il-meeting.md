@@ -58,3 +58,4 @@ chapters/19-il-meeting.md
 - 2026-11-13: v3.6, «prima ancora di girarsi» → «senza girarsi» (autore).
 - 2026-11-13: v3.7, Pete non vede il foglio (coperto dalla schiena): sospetta dal pennarello rotolato lontano dalle mani e dall'armeggiare nel francobollo; Tom lascia scappare il pennarello mentre si china all'interruttore (aggiunta dichiarata).
 - 2026-11-13: v3.8, armadietto con la frase dell'autore («sarebbe finito dentro il suo armadietto»).
+- 2026-11-13: v3.9, paragrafo dello schienale riscritto dall'autore (entra quasi verbatim).
