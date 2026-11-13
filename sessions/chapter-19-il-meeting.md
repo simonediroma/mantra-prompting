@@ -11,7 +11,7 @@ chapter
 chapters/19-il-meeting.md
 
 ## Current step
-revise (scena di Pete, ex cap. 20)
+rilettura dell'autore (v3.2)
 
 ## Steps completed
 - [x] ask-before-writing (scena di Pete)
@@ -50,3 +50,4 @@ revise (scena di Pete, ex cap. 20)
 - **Deciso (autore, 2026-11-13)**: «Inizia la caccia» è pensato, davanti all'ultimo scatto. Pete resta alle quattro con la trascrizione inutile in mano; l'unico appiglio della caccia è perché un tecnico debba aver usato pennarello e carta durante un meeting.
 - 2026-11-13: **v3.0 scritta** (~2.900 parole di corpo, +1.200). Cinque beat di Pete: promemoria e primo scatto bruciato; secondo scatto e frecce; bianco e raffica; settimo scatto; coda alle quattro. Riscritto il passaggio del LED (motore *zzz* come conferma). Cap. 18 v5.2: box "anteprima in diretta, fino a 7 scatti a comando", "sette foto". Aggiornati pete.md, ledger, outline (draft), voice-sample. Aggiunte da dichiarare elencate nel Write log del capitolo.
 - 2026-11-13: demolizione ciclo 2 (scena di Pete), 4 critiche, tutte risolte e integrate in v3.1: anteprima PIP a quadratini + parere sulla riconoscibilità; angolo del foglio e pennarello rotolato nel settimo scatto; Pete non deduce («Quel pennarello te lo faccio mangiare», testo dell'autore); durata canonica nove minuti. Prossimo: revise, poi rilettura dell'autore.
+- 2026-11-13: revise v3.2, 12 correzioni applicate in blocco (A) + "quadratone" → "sagoma" (autore). In attesa della rilettura dell'autore.
