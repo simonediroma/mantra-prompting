@@ -2,7 +2,7 @@
 title: La chiamata alla signora
 version: 3.6
 revised: 2026-11-01
-claim: Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo.
+claim: "Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo."
 status: complete
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: internal_unknown
 version: 5.0
-claim: I tool pubblici di rilevamento IA falliscono sul video intero ma non sul solo testo del parlato, e passando quel transcript nell'archivio interno di Meridian Tom trova una corrispondenza che lo porta a una scoperta molto più grossa di quanto si aspettasse: un laboratorio di ricerca Meridian, silenzioso da cinque anni, è direttamente coinvolto nella morte della signora Voss.
+claim: "I tool pubblici di rilevamento IA falliscono sul video intero ma non sul solo testo del parlato, e passando quel transcript nell'archivio interno di Meridian Tom trova una corrispondenza che lo porta a una scoperta molto più grossa di quanto si aspettasse: un laboratorio di ricerca Meridian, silenzioso da cinque anni, è direttamente coinvolto nella morte della signora Voss."
 status: complete
 revised: 2026-11-06
 ---

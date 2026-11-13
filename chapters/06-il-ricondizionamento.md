@@ -2,7 +2,7 @@
 title: Il ricondizionamento
 version: 4.6
 revised: 2026-11-01
-claim: Tom trova la conferma definitiva e irreversibile che l'avvertimento del televisore era fondato, la signora Voss è morta come previsto, ma la scoperta che lo turba di più, tecnicamente, è che il dispositivo non si sia limitato a comunicare come una persona senziente: sembra aver fatto anche una diagnosi clinica precisa, abbastanza da prevedere cosa sarebbe successo.
+claim: "Tom trova la conferma definitiva e irreversibile che l'avvertimento del televisore era fondato, la signora Voss è morta come previsto, ma la scoperta che lo turba di più, tecnicamente, è che il dispositivo non si sia limitato a comunicare come una persona senziente: sembra aver fatto anche una diagnosi clinica precisa, abbastanza da prevedere cosa sarebbe successo."
 status: complete
 ---
 

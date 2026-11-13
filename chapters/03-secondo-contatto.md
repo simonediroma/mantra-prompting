@@ -2,7 +2,7 @@
 title: Secondo contatto
 version: 3.7
 revised: 2026-11-06
-claim: Un secondo apparecchio identico, con una risposta ancora più specifica e personale della prima ("sono qui con te"), trasforma per Tom l'anomalia da evento eccezionale a metodo: la conferma che il fenomeno si ripete e il sospetto irrisolto che i dispositivi sublimati sappiano più di quanto un semplice microfono potrebbe spiegare, gli fa capire per la prima volta che ce n'è più di uno.
+claim: "Un secondo apparecchio identico, con una risposta ancora più specifica e personale della prima (\"sono qui con te\"), trasforma per Tom l'anomalia da evento eccezionale a metodo: la conferma che il fenomeno si ripete e il sospetto irrisolto che i dispositivi sublimati sappiano più di quanto un semplice microfono potrebbe spiegare, gli fa capire per la prima volta che ce n'è più di uno."
 status: complete
 ---
 

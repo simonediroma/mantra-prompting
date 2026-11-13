@@ -2,7 +2,7 @@
 title: Primo contatto
 version: 3.6
 revised: 2026-11-01
-claim: Tom scopre, per pura affinità con il suo stesso hobby, che un elettrodomestico Meridian può comunicare in Morse: la scoperta lo riempie di stupore puro, non di sospetto, perché l'isolamento del suo laboratorio gli garantisce che il fenomeno sia reale.
+claim: "Tom scopre, per pura affinità con il suo stesso hobby, che un elettrodomestico Meridian può comunicare in Morse: la scoperta lo riempie di stupore puro, non di sospetto, perché l'isolamento del suo laboratorio gli garantisce che il fenomeno sia reale."
 status: complete
 ---
 
