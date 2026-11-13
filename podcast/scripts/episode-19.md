@@ -75,7 +75,7 @@ C'È UN ALTRO TELEVISORE, MA NON SO COSA GUARDASSE PRIMA DI SMETTERE DI LOGGARE
 
 Emma lo lesse una volta e capì perché Tom l'aveva scritto per ultimo. La signora non era l'inizio. Prima di lei, da qualche parte, un altro apparecchio aveva fatto la stessa cosa per qualcuno che guardava qualcosa, e di quel qualcosa Tom non aveva trovato traccia. Forse era qualcosa di suo. Aprì la bocca per chiedere quando e dove. Fu allora che dall'angolo sopra la porta, nel microfono di Tom, arrivò un *clic*.
 
-Tom lo riconobbe prima ancora di girarsi. Era il filtro della telecamera della sorveglianza, che si spostava da solo quando la luce cambiava troppo, come fanno tutte, per non restare accecate. Aveva resistito più di quanto si aspettasse e meno di quanto gli servisse. Abbassò il cartello sul banco, a faccia in giù, mentre con la sinistra rialzava l'interruttore. Il bagliore sul muro si spense.
+Tom lo riconobbe senza girarsi. Era il filtro della telecamera della sorveglianza, che si spostava da solo quando la luce cambiava troppo, come fanno tutte, per non restare accecate. Aveva resistito più di quanto si aspettasse e meno di quanto gli servisse. Abbassò il cartello sul banco, a faccia in giù, mentre con la sinistra rialzava l'interruttore. Il bagliore sul muro si spense.
 
 Nel francobollo di Pete i quadratini tornarono, con il ritardo di un aggiornamento. La sagoma di spalle, chinata da una parte, il rettangolo chiaro dello schermo con dentro una macchia che poteva essere una faccia. Pete premette l'ultimo scatto prima che gli sparisse anche quello.
 
