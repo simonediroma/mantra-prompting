@@ -6,10 +6,96 @@
 ## Riepilogo
 
 ```
-CORRECTIONS — 0 open (67 done)
+CORRECTIONS — 9 open (67 done) · più 2 decisioni e la passata descrittiva 7-14 da pianificare (sezione Open)
 ```
 
 Episodi audio toccati dalle correzioni applicate: 1, 2, 4, 5, 6, 9, 10, 12, 13 (più il 14, ancora senza copione) (gli ep. 11, 12, 13 sono comunque da rigenerare per motivi tecnici; vedi `giudizio-editoriale-2026-10-31.md → 4`).
+
+## Open — import 2026-11-13 (giudizio §9, Libro 1 chiuso)
+
+Fonte: `giudizio-editoriale-2026-10-31.md → 9.3`. Ordine di lavoro in fondo alla sezione.
+
+### Decisioni dell'autore (prima di tutto il resto)
+
+- **D1 · testo unico o variante stampa.** La passata descrittiva (P1) va nel testo unico, e allora gli episodi 7-14 si rigenerano, oppure in una variante solo per la stampa, e allora l'audio resta com'è ma ci sono due testi da tenere allineati. Consiglio: testo unico, perché i dettagli fisici servono anche all'ascolto (giudizio A3) e il costo audio è da pagare comunque per gli ep. 14-19.
+- **D2 · il titolo nel testo (B2.2).** "Mantra prompting" non è mai pronunciato: oggi c'è solo "come un mantra" (cap. 6 e 11). Tenere così, coerente con la regola di non spiegare il meccanismo, oppure dare il nome a un vecchio progetto del fondatore, senza spiegarlo, nel raccoglitore del cap. 11.
+
+### Blocco A · punteggiatura (si applica in blocco)
+
+### C-66 · 19.23 · punctuation · open
+**Nota**: ", e" in narrazione.
+**Originale**: "convinto di non poter essere visto, e lascia fuori tutto il resto del corpo."
+**Proposta**: "convinto di non poter essere visto, lasciando fuori tutto il resto del corpo."
+
+### C-67 · 19.30 · punctuation · open
+**Nota**: ", e" in narrazione.
+**Originale**: "per qualcuno che guardava qualcosa, e di quel qualcosa Tom non aveva trovato traccia."
+**Proposta**: "per qualcuno che guardava qualcosa. Di quel qualcosa Tom non aveva trovato traccia."
+
+### C-68 · 19.38 · punctuation · open
+**Nota**: ", e" in narrazione.
+**Originale**: "con una trascrizione pulita come la camicia di Pete, e non c'era un solo punto in cui infilare un dito."
+**Proposta**: "con una trascrizione pulita come la camicia di Pete, senza un solo punto in cui infilare un dito."
+
+### C-69 · 19.40 · punctuation · open
+**Nota**: ", e" in narrazione.
+**Originale**: "invece che con il silenzio, e un uomo che nasconde con il corpo, al liceo, era un uomo che prima o poi sarebbe finito dentro il suo armadietto."
+**Proposta**: "invece che con il silenzio. Al liceo, un uomo che nascondeva qualcosa con il corpo prima o poi finiva dentro il suo armadietto."
+
+### C-70 · 19.4 · punctuation · open
+**Nota**: due "mentre" nella stessa frase.
+**Originale**: "non c'era niente da violare, mentre sette fotografie nitide erano il massimo che un dipendente potesse sopportare senza fare causa, mentre otto, a quanto pareva, no."
+**Proposta**: "non c'era niente da violare. Sette fotografie nitide erano il massimo che un dipendente potesse sopportare senza fare causa, otto, a quanto pareva, no."
+
+### Blocco B · stile (una riga alla volta, con approvazione)
+
+### C-71 · 19.42 · style · open
+**Nota**: il paragrafo è testo dell'autore (v3.9): la proposta lo accorcia senza cambiarne le idee. Oggi il narratore spiega cosa pensa Pete ("prese un bel respiro e iniziò a soppesare…", "più che in altri attimi passati in Meridian"). Tenute la schiena contro il divisorio, i ventimila dipendenti e l'armadietto preso a calci.
+**Originale**: "Si appoggiò allo schienale con la sua solita veemenza, portandolo a piegarsi fino a toccare il pannello divisorio. Smise di pensare al meeting, prese un bel respiro e iniziò a soppesare quanto la sua vita da supervisore fosse limitata dalle stesse regole che doveva far rispettare alle persone che controllava. Le sue mansioni gli andavano strette, un pugno di nerd da sorvegliare quando lì fuori c'erano ventimila dipendenti che continuamente commettevano infrazioni punibili con doppie e triple smutandate. In quel momento, più che in altri attimi passati in Meridian, desiderava essere un ispettore, avere accesso a ogni sistema di sorveglianza senza limiti e la possibilità di spalancare con un calcio qualsiasi armadietto volesse."
+**Proposta**: "Si appoggiò allo schienale con la sua solita veemenza, finché non toccò il pannello divisorio. Un pugno di nerd da sorvegliare, quando lì fuori c'erano ventimila dipendenti che commettevano ogni giorno infrazioni da doppia e tripla smutandata, mentre a lui toccavano sette scatti alla volta. Un ispettore avrebbe avuto ogni telecamera di Meridian senza limiti e la possibilità di spalancare con un calcio qualsiasi armadietto volesse."
+
+### C-72 · 18.24 · style · open
+**Nota**: "evento di magnitudine seconda" è una metafora da tradurre (regola del 2026-11-03). Il fatto è più comico della metafora.
+**Originale**: "Pensò invece che alle tre l'avrebbe sentita parlare e che, di tutto quello che gli era successo in dodici anni in quella stanza, era un evento di magnitudine seconda soltanto ai due televisori con cui aveva tenuto le conversazioni più interessanti della sua vita."
+**Proposta**: "Pensò invece che alle tre l'avrebbe sentita parlare. In dodici anni, in quella stanza, gli erano capitate solo due conversazioni più interessanti, tutte e due con un televisore."
+
+### C-73 · 17.9 · question · open
+**Nota**: tre riferimenti pop di fila su Pete (Smith, Biff, *Ciao Darwin*). Tutti e tre hanno un pagamento (Smith il completo nero dei cap. 15 e 18, Biff l'armadietto del 19, *Ciao Darwin* la scena), quindi non se ne toglie uno intero. Si toglie la frase che spiega: l'ambizione di carriera si vede già nel 18 e nel 19 (la stanza degli ispettori).
+**Originale**: "…mai seguire il Bianconiglio, che ti porta solo alla deriva. Smith aveva perso la sua battaglia e Pete era convinto di poterlo vendicare, facendo carriera nell'apparato di controllo di Meridian."
+**Proposta**: "…mai seguire il Bianconiglio, che ti porta solo alla deriva."
+**Nota sul conteggio**: "smutandata" è in undici punti del cap. 17, cinque nella Tabella; nel 18 e nel 19 due per capitolo. Distribuzione accettabile, nessuna correzione.
+
+### C-74 · 9.3 · style · open
+**Nota**: "a fissare" in quattro capitoli (1, 2, 4, 9), soglia tre. Il 9 è il più facile.
+**Originale**: "Restò a fissare lo schermo come chi ha appena rifatto un calcolo"
+**Proposta**: "Guardò lo schermo come chi ha appena rifatto un calcolo"
+
+### Blocco P · passata descrittiva cap. 7-14 (da scrivere dopo D1)
+
+Obiettivo del giudizio §7.3: almeno dieci dettagli fisici ogni mille parole nei capitoli di Tom, sei in quelli di Emma; un odore ogni due capitoli. Stato attuale: zero odori dal 7 al 14, zero parole di luce dall'11 al 14. Inserti da una a tre frasi, dentro l'azione, mai blocchi descrittivi.
+
+**Vincolo per i capitoli di Emma**: solo luce e suono, mai odori, sapori o tatto. Emma percepisce attraverso telecamera e microfono (C-36): un odore nel suo POV sarebbe un errore di mondo e un indizio falso contro il reveal.
+
+| Cap. | Scena | Cosa manca | Dettaglio proposto |
+|---|---|---|---|
+| 7 | sera, casa, giradischi | luce, odore | La luce della sola lampada sulla scrivania; la polvere della puntina che scalda nel primo giro, un odore di cosa chiusa da anni. |
+| 8 | stessa sera, canale eTv | odore | La stanza fredda c'è già; aggiungere il ventilatore del computer o l'odore della cena rimasta in cucina. |
+| 9 | mattina in cucina | odore | Il caffè che si raffredda c'è: dargli l'odore, l'unica cosa calda della cucina. |
+| 10 | stanza di Emma, mattina | luce oltre la striscia | Il carrello delle pulizie: suono delle ruote, luce del corridoio sulla porta aperta (nessun odore, vedi vincolo). |
+| 11 | visita del fondatore | luce, corpo di lui | La luce di mezzogiorno nella stanza; un gesto o un suono del fondatore (la poltrona che cede, la giacca). |
+| 12 | lettura dell'articolo | tutto | Un suono della stanza mentre elabora la foto (la stampante ferma, il corridoio); la luce dello schermo sulla foto. |
+| 13 | pannello eTv | luce | Ha già il *cri-cri*: aggiungere la luce del riquadro verde sullo schermo nella stanza buia, un dettaglio solo. |
+| 14 | aspirapolvere | odore, luce | Le spazzole di carbone consumate fino al metallo: l'odore di motore bruciato quando lo apre. Il neon sul banco. |
+
+### Ordine di lavoro
+
+1. D1 e D2 (autore).
+2. Blocco A in blocco (C-66…C-70).
+3. Blocco B uno alla volta (C-71…C-74).
+4. Blocco P, un capitolo per volta, con approvazione; scrittura in voce secondo `style-guide.md`.
+5. `ghost-writer:revise` sui capitoli toccati e `consistency-check` su tutto il Libro 1.
+6. `export_podcast.py scripts` → `check` → `build` degli episodi toccati: 9, 17, 18, 19 sempre; 7-14 se D1 = testo unico; 14-19 comunque, perché mancano.
+7. `manuscript-final` → `export-pdf` (A5, 250 parole per pagina, circa 125-130 pagine).
 
 ## Archive
 
