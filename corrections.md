@@ -6,7 +6,7 @@
 ## Riepilogo
 
 ```
-CORRECTIONS — 9 open (67 done) · più 2 decisioni e la passata descrittiva 7-14 da pianificare (sezione Open)
+CORRECTIONS — 4 open (72 done) · più 2 decisioni e la passata descrittiva 7-14 da pianificare (sezione Open)
 ```
 
 Episodi audio toccati dalle correzioni applicate: 1, 2, 4, 5, 6, 9, 10, 12, 13 (più il 14, ancora senza copione) (gli ep. 11, 12, 13 sono comunque da rigenerare per motivi tecnici; vedi `giudizio-editoriale-2026-10-31.md → 4`).
@@ -22,27 +22,27 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 9.3`. Ordine di lavoro in fondo al
 
 ### Blocco A · punteggiatura (si applica in blocco)
 
-### C-66 · 19.23 · punctuation · open
+### C-66 · 19.23 · punctuation · done (cap. 19 v3.10)
 **Nota**: ", e" in narrazione.
 **Originale**: "convinto di non poter essere visto, e lascia fuori tutto il resto del corpo."
 **Proposta**: "convinto di non poter essere visto, lasciando fuori tutto il resto del corpo."
 
-### C-67 · 19.30 · punctuation · open
+### C-67 · 19.30 · punctuation · done (cap. 19 v3.10)
 **Nota**: ", e" in narrazione.
 **Originale**: "per qualcuno che guardava qualcosa, e di quel qualcosa Tom non aveva trovato traccia."
 **Proposta**: "per qualcuno che guardava qualcosa. Di quel qualcosa Tom non aveva trovato traccia."
 
-### C-68 · 19.38 · punctuation · open
+### C-68 · 19.38 · punctuation · done (cap. 19 v3.10)
 **Nota**: ", e" in narrazione.
 **Originale**: "con una trascrizione pulita come la camicia di Pete, e non c'era un solo punto in cui infilare un dito."
 **Proposta**: "con una trascrizione pulita come la camicia di Pete, senza un solo punto in cui infilare un dito."
 
-### C-69 · 19.40 · punctuation · open
+### C-69 · 19.40 · punctuation · done (cap. 19 v3.10)
 **Nota**: ", e" in narrazione.
 **Originale**: "invece che con il silenzio, e un uomo che nasconde con il corpo, al liceo, era un uomo che prima o poi sarebbe finito dentro il suo armadietto."
 **Proposta**: "invece che con il silenzio. Al liceo, un uomo che nascondeva qualcosa con il corpo prima o poi finiva dentro il suo armadietto."
 
-### C-70 · 19.4 · punctuation · open
+### C-70 · 19.4 · punctuation · done (cap. 19 v3.10)
 **Nota**: due "mentre" nella stessa frase.
 **Originale**: "non c'era niente da violare, mentre sette fotografie nitide erano il massimo che un dipendente potesse sopportare senza fare causa, mentre otto, a quanto pareva, no."
 **Proposta**: "non c'era niente da violare. Sette fotografie nitide erano il massimo che un dipendente potesse sopportare senza fare causa, otto, a quanto pareva, no."
