@@ -279,3 +279,64 @@ Stessi criteri della tabella iniziale (§1), stesso lettore. Prima = testo del 3
 **Media semplice**: da 6,2 a 7,2. Il salto più grande è l'ambiente fisico, il più piccolo la struttura, perché la struttura si cambia scrivendo i capitoli nuovi (voce diretta, Pete, scene invece di schermate), non correggendo i vecchi.
 
 Numeri di controllo sul testo attuale (18.138 parole): odori 2, parole di luce 13, stagione 5, "esattamente" 5, "il tipo di / il genere di" 10, "rumore di fondo" 1, ", e" in narrazione 0 fuori dalle mail, trattini lunghi 0.
+
+---
+
+## 9. Rivalutazione a Libro 1 chiuso (2026-11-13)
+
+Stessi criteri del §1 e del §8, stesso lettore. Base: `chapters/01-19` a `main` (cap. 19 v3.9), solo testo narrativo (senza frontmatter e Demolition Log): **29.197 parole**. Prima = voti del §8 (1 novembre, cap. 1-14). Dopo = libro intero.
+
+### 9.1 Voti
+
+| Dimensione | 1/11 | 13/11 | Perché cambia |
+|---|---|---|---|
+| Scrittura, frase per frase | 8 | 8 | Il registro comico è tornato e tiene fino all'ultima pagina: la Mela Morsicata, la Tabella di Conversione, la bilancia che saluta «Bentornata, Marisa!», il PIP dei televisori di inizio duemila. Restano scivoloni nelle parti nuove (§9.3). |
+| Scrittura, struttura e ritmo | 7 | 7,5 | Dal 15 ogni capitolo ha una scena vera e un orologio; il 18-19 alterna i POV scena per scena come da config e il 19 è un climax a due canali (voce per la trascrizione, cartelli per Emma) che paga tutto il libro. Il buco 8-13 resta dov'era e le lunghezze vanno da 542 a 3.180 parole. |
+| Tom | 8 | 8,5 | Agisce invece di osservare: la porta accostata, il LED saldato contro la telecamera, «Pete, prova a prendermi». L'errore della rondella (15) mostra il turbamento senza nominarlo. L'infatuazione nel 19 è preparata dal 14. |
+| Emma | 7 | 8 | Il cap. 16 è il suo capitolo migliore: un luogo, un'abitudine, una regola infranta alle 23:34 per un sofisma. Nel 19 la reazione ai cartelli (il cucciolo con la testa sotto la sedia, la colonna che conta qualcun altro) è emozione mostrata. Gli indizi del reveal sono più forti e ancora leggibili in chiave umana. |
+| Pete | 4 | 7,5 | Era una firma; ora è in scena in quattro capitoli, con corpo, casa, rituale (riepilogo delle 23:59), un sistema (la Tabella) e una sconfitta comica (si acceca da solo e brucia quattro scatti). Non arriva a 8 per la caricatura: "smutandata" compare quindici volte e il cap. 17 accumula tre riferimenti pop di fila (Smith, Biff, *Ciao Darwin*). |
+| Signora Voss | 7,5 | 7,5 | Nessuna scena nuova, ma la sua storia ha il pagamento giusto: «IL TELEVISORE HA PROVATO A SALVARLA» rovescia la paura di Emma e chiude la sua domanda del cap. 16. |
+| Ambiente istituzionale (Meridian) | 8,5 | 9 | Le regole generano trama fino al climax: mail fuori orario, riepilogo ai supervisori, domenica protetta, modalità presenza, trascrizione obbligatoria, i sette scatti con il parere legale. È la parte più originale del libro. |
+| Ambiente fisico e sensoriale | 6,5 | 7 | I capitoli nuovi hanno luoghi con un odore e una luce (corridoio delle 7:45, cucina di notte, divano di Pete, open space con metà neon spenti, la Mela Morsicata). I cap. 10-14 non sono cambiati: zero parole di luce in 11-14, zero odori dal 7 al 14. |
+| Audiolibro | 8 | 7,5 | Copioni 1-19 allineati (`check` verde). Pubblicati gli MP3 1-13 soltanto: gli episodi 14-19, cioè tutto l'arco di Pete e il finale, non esistono ancora in audio. |
+
+**Media semplice**: da 7,2 a 7,8. Il salto più grande è Pete (+3,5), il più piccolo l'ambiente fisico, perché i capitoli che lo tengono basso (8-13) non sono stati riscritti.
+
+### 9.2 Numeri di controllo
+
+| Misura | 1/11 (18.138 parole) | 13/11 (29.197 parole) |
+|---|---|---|
+| Odori | 2 | 4 |
+| Parole di luce (luce, buio, ombra, neon…) | 13 | 27 |
+| Capitoli senza nessuna riga di dialogo | 6 (8-13) | 6 (8-13) |
+| Righe di dialogo cap. 15-19 | — | 1 · 4 · 4 · 7 · 12 |
+| "esattamente" | 5 | 5 |
+| "il tipo di / il genere di" | 10 | 8 |
+| "a fissare" | 5 | 4 capitoli (1, 2, 4, 9): uno sopra la soglia di tre |
+| ", e" in narrazione | 0 | 4, tutti nel cap. 19 |
+| Trattini lunghi | 0 | 0 |
+
+### 9.3 Cosa sistemare prima della stampa
+
+1. **Cap. 19, quattro ", e" in narrazione** (regola del progetto): "convinto di non poter essere visto, e lascia fuori"; "per qualcuno che guardava qualcosa, e di quel qualcosa"; "pulita come la camicia di Pete, e non c'era"; "invece che con il silenzio, e un uomo che nasconde".
+2. **Cap. 19, penultimo paragrafo**: "Smise di pensare al meeting, prese un bel respiro e iniziò a soppesare quanto la sua vita da supervisore fosse limitata…" è il narratore che spiega Pete; "più che in altri attimi passati in Meridian" è da verbale. La chiusa regge già con lo scatto salvato nella cartella "Doppia" e la nuca di Tom.
+3. **Cap. 19, i sette scatti**: "mentre sette fotografie nitide… mentre otto, a quanto pareva, no" ha due "mentre" in una frase.
+4. **Cap. 18**: "un evento di magnitudine seconda soltanto ai due televisori" è una metafora da tradurre (regola del 2026-11-03); il fatto è che sentirla parlare contava quanto i due televisori.
+5. **Cap. 17**: alleggerire uno dei tre riferimenti pop consecutivi su Pete; Smith e Biff dicono la stessa cosa.
+6. **"a fissare"** in quattro capitoli: toglierlo da uno (il 9 è il più facile: "Restò a fissare lo schermo come chi ha appena rifatto un calcolo").
+7. **La passata descrittiva per la stampa** (Parte B3) ha ora un bersaglio preciso: i cap. 8-14, dove luce e odori sono a zero. Sono anche i capitoli senza dialogo: un inserto fisico lì vale il doppio che altrove.
+8. **Dimensioni dichiarate (B2.6)**: il Libro 1 è di 29.200 parole, circa 117 pagine A5 a 250 parole per pagina, 125-130 con frontespizio e aperture. È un romanzo breve: va presentato come tale.
+
+### 9.4 Lacune della Parte A: stato
+
+| # | Stato |
+|---|---|
+| A2.1 eWatch | Chiusa nel 15, con la deduzione dal polso. |
+| A2.2 prima risposta di Emma | Chiusa nel 14. |
+| A2.3 silenzio di Tom | Chiusa nel 14. |
+| A2.4 Emma e l'archivio | Chiusa nel 10 (credenziali di reparto) e nel 19 (Emma ricostruisce la strada). |
+| A2.7 primo televisore | Diventata gancio per il Libro 2: ultimo cartello del 19. |
+| A2.9 potere di Pete | Chiusa: regola delle mail nel 14, riepilogo nel 17. |
+| A4.2 Pete udibile prima del 17 | Chiusa nel 15 (il passo nel corridoio). |
+| B2.2 titolo pronunciato | Ancora a metà: "come un mantra" nel 6 e nell'11, mai "mantra prompting". Scelta coerente con la regola di non spiegare il meccanismo; va confermata per il volume. |
+| B2.5 finale di volume | Risolto: il 19 chiude la paura di Emma e l'incontro, apre la caccia di Pete e il primo televisore. |
