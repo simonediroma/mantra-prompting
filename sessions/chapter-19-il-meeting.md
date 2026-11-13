@@ -1,7 +1,7 @@
 # Session: chapter — chapters/19-il-meeting.md
 
 > Created: 2026-11-12
-> Last updated: 2026-11-12
+> Last updated: 2026-11-13
 > Status: complete
 
 ## Macro
@@ -11,13 +11,14 @@ chapter
 chapters/19-il-meeting.md
 
 ## Current step
-— (completo)
+— (completo, v3.5)
 
 ## Steps completed
-- [x] ask-before-writing
-- [x] write
-- [x] demolish
-- [x] integrate
+- [x] ask-before-writing (scena di Pete)
+- [x] write (scena di Pete)
+- [x] demolish (scena di Pete)
+- [x] integrate (scena di Pete)
+- [x] ask-before-writing / write / demolish / integrate (scene Tom-Emma, v2.6)
 
 ## Notes
 - 2026-11-12: aperta dopo il merge del cap. 18 (v5.1, PR #38). Vincoli dal 18: round a Tom (nessuna doppia smutandata per meeting inutile), trascrizione automatica obbligatoria attivata da Pete, CCTV solo screenshot periodici, LED del faretto da giardino per terra puntato verso la telecamera della sorveglianza sopra lo stipite, interruttore sotto il banco. L'outline del 19 (Tom dice ad alta voce «So chi ha prodotto il video…») va riallineato.
@@ -43,3 +44,14 @@ chapters/19-il-meeting.md
 - 2026-11-13: revise (v2.1), 6 correzioni nel testo + regola del nastro nel ledger. Precisato (autore): il pensiero di Pete del cap. 18 resta valido, le riparazioni sono solo rimandate dal meeting.
 - 2026-11-13: v2.3, Emma trascendente (corpo solo come avatar), scusa per declinare, modalità presenza spenta contestualizzata (anteprima che dovrebbe tornare alla telecamera, nessuno davanti). Regola in emma.md e style-guide.
 - 2026-11-13: capitolo chiuso dall'autore (complete).
+- **2026-11-13, riaperto (autore)**: il cap. 20 "Inizia la caccia" viene fuso qui come terza voce. Il 19 era a tre voci mancate (Tom ed Emma in scena, Pete che ha costruito la rete nel 18 era l'unico a non vedere il meeting). Vincoli della scena: POV Pete, alle quattro (trascrizione in casella) o a turno finito, alla postazione in open space; trascrizione pulita (consulenza tecnica, nessun meeting inutile: round a Tom); screenshot CCTV: Tom al banco prima del LED, bianchi durante (letti come riflesso del neon o guasto della telecamera, critica 1 del ciclo 1), l'ultimo dopo il clic con il volto di Emma sullo schermo e il logo vecchio nello sfondo (volto mai visto, non sospetto; logo liquidato come trascuratezza, non indizio); niente sei dita; chiusa del Libro 1 «Inizia la caccia. Verrò a prenderti molto presto...». Passaggio: lo sfondo vuoto di Emma (fine scena Emma) e lo screenshot di Pete mostrano la stessa immagine, con e senza il volto. Rinumerazione: Libro 1 = cap. 1-19, Libro 2 dal cap. 20.
+- **Deciso (autore, 2026-11-13), dialogo scena di Pete**: Pete entra in diretta nel meeting, non dopo. Regola di mondo nuova: screenshot CCTV a comando del supervisore, massimo sette per meeting (soglia senza logica fissata da Meridian per non farsi fare causa dai dipendenti sulla privacy); il supervisore orienta la telecamera da remoto (motore). Pete vede Tom di spalle con carta e pennarello, muove la telecamera per inquadrare meglio; Tom sente il motore e accende il LED: conferma di un'ipotesi (sapeva che Pete poteva essere dietro la telecamera, ora lo sa). Pete pensa a un guasto e brucia gli scatti a raffica sul bianco; la telecamera si adatta (clic), Tom chiude; l'ultimo scatto prende Emma sullo schermo e Tom di spalle con il foglio girato. Ricadute: cap. 18 (box "screenshot periodici" → a comando, max sette; «una foto ogni tanto»), pete.md, ledger; cap. 19 scena Tom-Emma (LED acceso al motore, non prima del primo cartello); conteggio dei sette da fissare scatto per scatto.
+- **Deciso (autore, 2026-11-13)**: Pete resta convinto del guasto della telecamera, magari indotto da lui che ha provato a muoverla (non è un tecnico, è un bullo e basta). La caccia nasce dal foglio girato a faccia in giù nell'ultimo scatto.
+- **Deciso (autore, 2026-11-13)**: «Inizia la caccia» è pensato, davanti all'ultimo scatto. Pete resta alle quattro con la trascrizione inutile in mano; l'unico appiglio della caccia è perché un tecnico debba aver usato pennarello e carta durante un meeting.
+- 2026-11-13: **v3.0 scritta** (~2.900 parole di corpo, +1.200). Cinque beat di Pete: promemoria e primo scatto bruciato; secondo scatto e frecce; bianco e raffica; settimo scatto; coda alle quattro. Riscritto il passaggio del LED (motore *zzz* come conferma). Cap. 18 v5.2: box "anteprima in diretta, fino a 7 scatti a comando", "sette foto". Aggiornati pete.md, ledger, outline (draft), voice-sample. Aggiunte da dichiarare elencate nel Write log del capitolo.
+- 2026-11-13: demolizione ciclo 2 (scena di Pete), 4 critiche, tutte risolte e integrate in v3.1: anteprima PIP a quadratini + parere sulla riconoscibilità; angolo del foglio e pennarello rotolato nel settimo scatto; Pete non deduce («Quel pennarello te lo faccio mangiare», testo dell'autore); durata canonica nove minuti. Prossimo: revise, poi rilettura dell'autore.
+- 2026-11-13: revise v3.2, 12 correzioni applicate in blocco (A) + "quadratone" → "sagoma" (autore). In attesa della rilettura dell'autore.
+- 2026-11-13: rilettura dell'autore, v3.3: quinto cartello corretto (Tom sa di chi era il primo televisore dal quaderno, non cosa guardava): «C'È UN ALTRO TELEVISORE, MA NON SO COSA GUARDASSE PRIMA DI SMETTERE DI LOGGARE». Allineati outline, Open Promises, ledger, reazione di Emma.
+- 2026-11-13: v3.4, coda di Emma riscritta (autore): non "stava ancora succedendo" (lo sa), ma il fatto che qualcun altro ci sia arrivato; troppi apparecchi con quel guasto, palese e inevitabile.
+- 2026-11-13: v3.5, coda di Emma: due paure (vista; la colonna contata da altri), il giorno rimandato ogni mese arriva con un pennarello.
+- 2026-11-13: capitolo chiuso dall'autore (complete, v3.5). Chiude il Libro 1. Merge su main richiesto dall'autore.

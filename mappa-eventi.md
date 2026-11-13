@@ -436,7 +436,7 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 | elab@meridian.com | Cap. 9 | Tom, Emma, (il fondatore, che l'ha dimenticata) | Canale attivo del contatto |
 | Archivio parallelo di Emma | Cap. 11 | solo Emma | ~100 casi in 12 mesi; il caso Voss era già dentro, senza nome del tecnico |
 | Vecchio logo nello sfondo virtuale | ⏳ cap. 19-20 | Tom e Pete lo noteranno | Liquidato da entrambi |
-| Glitch a sei dita nell'avatar | ⏳ secondo meeting | Pete (più avanti) | **Non va bruciato al cap. 20** |
+| Glitch a sei dita nell'avatar | ⏳ secondo meeting | Pete (più avanti) | **Non va bruciato nella scena di Pete del cap. 19 (ex cap. 20)** |
 | eWatch della signora | ❓ non ancora in scena | nessuno, per ora | Promessa aperta: è così che il TV ha "previsto" l'infarto |
 
 ---

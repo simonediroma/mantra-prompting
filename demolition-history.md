@@ -26,7 +26,7 @@
 | Ch. 16 — Le 23:34 di venerdì | 1 | 6 | 0 | 2 (1 respinta in parte, 1 accettata in parte) |
 | Ch. 17 — Il bivio | 1 | 8 | 0 | 0 |
 | Ch. 18 — La richiesta di meeting | 1 | 5 | 0 | 0 |
-| Ch. 19 — Il meeting | 1 | 5 | 0 | 0 |
+| Ch. 19 — Il meeting (con l'ex cap. 20, fuso il 2026-11-13) | 2 | 9 | 0 | 0 |
 
 ---
 
@@ -48,7 +48,7 @@
 - **Chiusura di capitolo con riga sul quaderno**: variare; la nota va sempre scritta la sera, a casa.
 - **Copia-incolla di descrizioni tra capitoli** (Elab cap. 9/10): ogni ripresa va riscritta dal POV del capitolo.
 
-- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 17 ciclo 1: il bivio senza motivo per l'incontro; cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video; cap. 8 ciclo 2: "farsi rivedere dallo stesso spettatore", conoscenza dell'autore attribuita a Tom; cap. 12 ciclo 3: ipotesi dell'investigatore smentita dalla cronologia che Emma ha appena letto, rassicurazione non dedotta dalle prove; cap. 14 ciclo 1: Tom mette alla prova ogni apparecchio ma non la mail di Emma; cap. 15 ciclo 1: eWatch "noto dal catalogo" ma mai collegato per venti giorni, allarme che si accende a comando): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
+- **Salti logici quando un personaggio accetta l'inspiegabile** (cap. 17 ciclo 1: il bivio senza motivo per l'incontro; cap. 1, cap. 6 ciclo 4: video → presa di coscienza; cap. 7 ciclo 2: identificazione del video; cap. 8 ciclo 2: "farsi rivedere dallo stesso spettatore", conoscenza dell'autore attribuita a Tom; cap. 12 ciclo 3: ipotesi dell'investigatore smentita dalla cronologia che Emma ha appena letto, rassicurazione non dedotta dalle prove; cap. 14 ciclo 1: Tom mette alla prova ogni apparecchio ma non la mail di Emma; cap. 15 ciclo 1: eWatch "noto dal catalogo" ma mai collegato per venti giorni, allarme che si accende a comando; cap. 19 ciclo 2: il settimo scatto mostra il foglio che la schiena copriva, senza il movimento che lo scopre): ogni intuizione decisiva va fondata su fatti già in mano al personaggio o dichiarata come scommessa. Dal cap. 7 Tom ha un tratto esplicito di intuizione laterale (associazione di parole) dentro un metodo "prova e scarta": le sue scommesse vanno mostrate come tali.
 
 Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ricorrenti):
 - **Fondamento di competenze tecniche non ancora giustificato dal profilo del personaggio** (visto sul cap. 1 con "compacting context" in Tom) — verificare ogni volta che un personaggio mostra conoscenza tecnica specifica.
@@ -77,6 +77,15 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 ---
 
 ## Full Log
+
+### Ch. 19 — Il meeting — Cycle 2 (2026-11-13, scena di Pete, ex cap. 20)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Anteprima in diretta vs regola dei sette scatti e limite del supervisore | foundation / contradiction | integrated (v3.1) | Anteprima a quadratini (PIP), parere legale sulla riconoscibilità delle facce |
+| Settimo scatto mostra il foglio coperto nel secondo | logical (pattern: salti logici) | integrated (v3.1) | Tom chinato all'interruttore si scopre: angolo del foglio, pennarello rotolato |
+| Pete ragiona come Tom sui canali fuori registro | character | integrated (v3.1) | Pete non deduce: "Quel pennarello te lo faccio mangiare" (autore) |
+| Tre durate per il meeting | contradiction / continuity | integrated (v3.1) | Nove minuti canonici |
 
 ### Persona cycles — 2026-11-01 (lettore di X-Files, tecnico riparatore) — cap. 1-14
 
