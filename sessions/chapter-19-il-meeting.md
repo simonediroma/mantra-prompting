@@ -11,13 +11,13 @@ chapter
 chapters/19-il-meeting.md
 
 ## Current step
-demolish (scena di Pete, ex cap. 20)
+revise (scena di Pete, ex cap. 20)
 
 ## Steps completed
 - [x] ask-before-writing (scena di Pete)
 - [x] write (scena di Pete)
-- [ ] demolish (scena di Pete)
-- [ ] integrate (scena di Pete)
+- [x] demolish (scena di Pete)
+- [x] integrate (scena di Pete)
 - [x] ask-before-writing / write / demolish / integrate (scene Tom-Emma, v2.6)
 
 ## Notes
@@ -49,3 +49,4 @@ demolish (scena di Pete, ex cap. 20)
 - **Deciso (autore, 2026-11-13)**: Pete resta convinto del guasto della telecamera, magari indotto da lui che ha provato a muoverla (non è un tecnico, è un bullo e basta). La caccia nasce dal foglio girato a faccia in giù nell'ultimo scatto.
 - **Deciso (autore, 2026-11-13)**: «Inizia la caccia» è pensato, davanti all'ultimo scatto. Pete resta alle quattro con la trascrizione inutile in mano; l'unico appiglio della caccia è perché un tecnico debba aver usato pennarello e carta durante un meeting.
 - 2026-11-13: **v3.0 scritta** (~2.900 parole di corpo, +1.200). Cinque beat di Pete: promemoria e primo scatto bruciato; secondo scatto e frecce; bianco e raffica; settimo scatto; coda alle quattro. Riscritto il passaggio del LED (motore *zzz* come conferma). Cap. 18 v5.2: box "anteprima in diretta, fino a 7 scatti a comando", "sette foto". Aggiornati pete.md, ledger, outline (draft), voice-sample. Aggiunte da dichiarare elencate nel Write log del capitolo.
+- 2026-11-13: demolizione ciclo 2 (scena di Pete), 4 critiche, tutte risolte e integrate in v3.1: anteprima PIP a quadratini + parere sulla riconoscibilità; angolo del foglio e pennarello rotolato nel settimo scatto; Pete non deduce («Quel pennarello te lo faccio mangiare», testo dell'autore); durata canonica nove minuti. Prossimo: revise, poi rilettura dell'autore.
