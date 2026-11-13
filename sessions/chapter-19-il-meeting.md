@@ -55,3 +55,4 @@ chapters/19-il-meeting.md
 - 2026-11-13: v3.4, coda di Emma riscritta (autore): non "stava ancora succedendo" (lo sa), ma il fatto che qualcun altro ci sia arrivato; troppi apparecchi con quel guasto, palese e inevitabile.
 - 2026-11-13: v3.5, coda di Emma: due paure (vista; la colonna contata da altri), il giorno rimandato ogni mese arriva con un pennarello.
 - 2026-11-13: capitolo chiuso dall'autore (complete, v3.5). Chiude il Libro 1. Merge su main richiesto dall'autore.
+- 2026-11-13: v3.6, «prima ancora di girarsi» → «senza girarsi» (autore).

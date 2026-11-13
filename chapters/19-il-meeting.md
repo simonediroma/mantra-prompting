@@ -1,6 +1,6 @@
 ---
 title: Il meeting
-version: 3.5
+version: 3.6
 revised: 2026-11-13
 claim: "Il primo incontro tra Tom ed Emma si gioca su due canali. A voce, per la trascrizione di Pete, una consulenza tecnica impeccabile sui log che si interrompono con `compacting context`; sui cartelli, scritti coperti dalla schiena e mostrati mentre un LED abbaglia la telecamera della sorveglianza, la verità di Tom (il Morse, il video, il televisore che ha provato a salvare la signora, un altro televisore di cui non sa cosa guardasse). Emma, che si è presentata dietro una maschera, trova davanti a sé l'unico uomo di Meridian con la faccia scoperta. Pete, dietro la telecamera con i suoi sette scatti, muove l'inquadratura per vedere cosa scrive Tom e si acceca da solo; alle quattro ha una trascrizione inutile e un solo appiglio, un foglio girato a faccia in giù, e dichiara la caccia. Chiude il Libro 1."
 status: complete
@@ -68,7 +68,7 @@ C'È UN ALTRO TELEVISORE, MA NON SO COSA GUARDASSE PRIMA DI SMETTERE DI LOGGARE
 
 Emma lo lesse una volta e capì perché Tom l'aveva scritto per ultimo. La signora non era l'inizio. Prima di lei, da qualche parte, un altro apparecchio aveva fatto la stessa cosa per qualcuno che guardava qualcosa, e di quel qualcosa Tom non aveva trovato traccia. Forse era qualcosa di suo. Aprì la bocca per chiedere quando e dove. Fu allora che dall'angolo sopra la porta, nel microfono di Tom, arrivò un *clic*.
 
-Tom lo riconobbe prima ancora di girarsi. Era il filtro della telecamera della sorveglianza, che si spostava da solo quando la luce cambiava troppo, come fanno tutte, per non restare accecate. Aveva resistito più di quanto si aspettasse e meno di quanto gli servisse. Abbassò il cartello sul banco, a faccia in giù, mentre con la sinistra rialzava l'interruttore. Il bagliore sul muro si spense.
+Tom lo riconobbe senza girarsi. Era il filtro della telecamera della sorveglianza, che si spostava da solo quando la luce cambiava troppo, come fanno tutte, per non restare accecate. Aveva resistito più di quanto si aspettasse e meno di quanto gli servisse. Abbassò il cartello sul banco, a faccia in giù, mentre con la sinistra rialzava l'interruttore. Il bagliore sul muro si spense.
 
 Nel francobollo di Pete i quadratini tornarono, con il ritardo di un aggiornamento. La sagoma di spalle, chinata da una parte, il rettangolo chiaro dello schermo con dentro una macchia che poteva essere una faccia. Pete premette l'ultimo scatto prima che gli sparisse anche quello.
 
@@ -114,6 +114,8 @@ Si appoggiò allo schienale, che cedette fin dove lo lasciava il pannello diviso
 | La coda di Emma ("l'ultimo le diceva che stava ancora succedendo") è sbagliata: Emma sa benissimo che sta succedendo (autore) | character / contradiction | integrated (v3.4) | Il cartello pesa perché qualcuno l'ha scritto: gli apparecchi con quel guasto stanno diventando troppi (colonna dell'archivio, cap. 11), era chiaro che prima o poi sarebbe diventato palese a qualcun altro, mai immaginato un tecnico con un pennarello |
 
 | Emma sembra stupida ("senza che avesse mai immaginato"): spingere sull'ansia (autore) | character / voice | integrated (v3.5) | Due paure distinte: quella del video (essere stata vista) e quella della colonna che cresce, contata anche da altri; il giorno spostato ogni mese di un mese, Tom glielo scrive con un pennarello |
+
+| "Tom lo riconobbe prima ancora di girarsi": Tom non si gira mai nel testo, promessa non mantenuta (autore) | continuity / clarity | integrated (v3.6) | "Tom lo riconobbe senza girarsi" |
 
 ### Revise — 2026-11-13 (v3.2)
 
