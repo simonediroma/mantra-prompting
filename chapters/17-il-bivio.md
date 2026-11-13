@@ -1,9 +1,9 @@
 ---
 title: Il bivio
-version: 1.17
+version: 1.18
 revised: 2026-11-06
 claim: "Alle 23:34 la mail di Emma sveglia Tom e lo mette davanti al bivio. Non la apre, perché aprirla di notte vuol dire lavorare fuori orario e consegnarla a Pete, e capisce che da stanotte niente di quello che sa (Morse, video, telefonata, la morte che ha taciuto) può più passare per iscritto. Vederla di persona è l'unico modo di parlarle senza un supervisore in mezzo, chiudere l'altra strada; rimanda al turno. Venticinque minuti dopo quella paura prende un corpo. Pete, in mutande sul divano, riceve nel riepilogo di mezzanotte una segnalazione senza infrazione e senza contenuto, la mette in fila con la sanzione, la riga del G21 nel riepilogo e la porta accostata, e fiuta l'osso. Aspetta che Tom la apra fuori orario, sognando la sanzione che solo un ispettore può dare, e si addormenta con il telefono sulla pancia."
-status: draft
+status: complete
 summary: "G31, venerdì notte, doppio POV. Alle 23:34 l'eWatch sveglia Tom; in cucina il computer, sullo stesso account di casa, mostra «New email from Emm…». Tom non la apre: ricevere non è colpa di nessuno, ma aprirla di notte vuol dire lavorare fuori orario e metterla nella casella di un sottoposto di Pete, che può leggerla («Se la apro adesso, lui lo sa»). Capisce che da stanotte ogni parola scritta a Emma la leggerà Pete, forse anche più in alto: Morse, video, telefonata e la morte taciuta non possono passare da lì. «O le chiedo di vederci. O chiudo qui.» Torna a letto lasciando lo schermo acceso, per aprirla in regola alle otto. Alle 23:59 Pete, in mutande sul divano davanti a *Ciao Darwin*, con i resti della cotoletta e il completo nero appeso alla porta, riceve il riepilogo di mezzanotte: mail fuori orario ricevuta da Tom, mittente fuori giurisdizione, contenuto non disponibile, nessuna infrazione. Mette in fila i quarantasette minuti, la riga senza infrazione della mail del G21 (prima mail di Tom verso un indirizzo nuovo; quattro giorni dopo era passato apposta davanti alla sua porta, per farsi sentire, e l'aveva trovata accostata) e questa, e fiuta l'osso. Aspetta che Tom la apra («Dai. Aprila.») traducendo l'infrazione che non arriva nella Tabella di Conversione, dalla smutandata semplice alla tripla per il precedente dei tempi di esecuzione, fino al tetto dei sessanta minuti e al sogno proibito dell'ispettore; si addormenta con il telefono sulla pancia, lasciando che la televisione si spenga da sola. Tom aprirà e risponderà il giorno dopo, in orario (cap. 18), ed è lì che Pete leggerà il thread."
 ---
 
@@ -39,7 +39,7 @@ In televisione c'era *Ciao Darwin*, che quella sera metteva i "fighi" contro gli
 
 *Ciao Darwin* però era solo un modo di passare il tempo. Aspettava le undici e cinquantanove. Ogni sera, un minuto prima della fine del giorno, Meridian mandava a tutti i supervisori il riepilogo di mezzanotte, l'elenco delle infrazioni e delle segnalazioni della giornata nella loro divisione, perché nessun supervisore dovesse andare a dormire con il dubbio che qualcuno avesse sgarrato senza che lui lo sapesse. Gli altri supervisori lo leggevano la mattina dopo, con il caffè, o non lo leggevano affatto. Pete lo leggeva alle undici e cinquantanove in punto, come altri leggono l'oroscopo, con la stessa speranza e più o meno la stessa base scientifica.
 
-Il telefono vibrò sul bracciolo, *brrr*. Pete lo prese con due dita unte. Di solito il riepilogo era una delusione. Un tecnico rientrato dalla pausa con sei minuti di ritardo, un altro che in una nota aveva scritto il cognome di un cliente, cosa che il codice di condotta vietava e che valeva meno di una smutandata. Quella sera, sotto le solite righe, ce n'era una nuova.
+Il telefono vibrò sul bracciolo, *brrr*. Pete lo prese con due dita unte. Di solito il riepilogo era una delusione. Un tecnico arrivato al turno con sei minuti di ritardo, un altro che in una nota aveva scritto il cognome di un cliente, cosa che il codice di condotta vietava e che valeva meno di una smutandata. Quella sera, sotto le solite righe, ce n'era una nuova.
 
 **Riepilogo giornaliero · Divisione Assistenza Tecnica**
 **Segnalazione: mail fuori orario ricevuta**
@@ -60,6 +60,12 @@ Se lo immaginava, Tom, sveglio in qualche cucina, ad aprirla e a scrivere una ri
 Abbassò il telefono e se lo posò sulla pancia, a schermo in giù, per sentirlo vibrare prima ancora di sentirlo suonare. Su *Ciao Darwin* gli sfigati avevano perso anche la prova di cultura generale. La pancia saliva e scendeva, sempre più piano, con il telefono sopra che non vibrava. Della televisione accesa Pete non si preoccupò, perché prima o poi sarebbe stata lei a chiedergli se stava ancora guardando e, senza una risposta, si sarebbe spenta da sola.
 
 ## Demolition Log
+
+### Consistency check — 2026-11-13 (v1.18)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Ritardo di sei minuti al rientro dalla pausa come infrazione minima, contro la regola della timbratura (un minuto al rientro = quattro ore) | world / continuity | integrated (v1.18) | "arrivato al turno con sei minuti di ritardo" (soglia dei cinque minuti a inizio turno, cap. 5); status complete |
 
 ### Cycle 1 — 2026-11-06
 

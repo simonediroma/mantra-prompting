@@ -1,6 +1,6 @@
 ---
 title: Solo un tecnico?
-version: 7.0
+version: 7.1
 revised: 2026-11-06
 merged_from: "12-la-notizia (v4.0) + 13-il-sospetto-su-tom (v1.0, bozza)"
 claim: "La pipeline con cui Emma sorveglia l'esposizione di Meridian nei media intercetta un articolo commemorativo sulla morte della signora Voss, un caso già nel suo archivio. Lo sgomento diventa lucidità quando ripensa alla mail di Tom, che la lista dell'assistenza conferma essere il tecnico di quel televisore. Rileggendo la mail sospetta che dietro ci sia un'indagine: qualcuno che usa l'account di Tom, o Tom stesso che scava. Il confronto di stile con le note di Tom esclude la prima ipotesi; organigramma, profilo aziendale e sito del giradischi non bastano a escludere la seconda. Tom è un tecnico, ma forse non solo: Emma deve scoprire cosa o chi ci sia dietro la mail."
@@ -14,7 +14,7 @@ Era stato pubblicato il giorno prima su un piccolo giornale locale. Un ricordo s
 
 Il nome della donna era Voss. Non ebbe bisogno di controllare da nessuna parte per essere certa. Quel nome esisteva già nel suo archivio, agganciato a un caso preciso. C'era un televisore con i log interrotti da un giorno all'altro, un hard reset eseguito poco dopo e una cliente che aveva descritto all'assistenza, più che un malfunzionamento, un rifiuto di funzionare.
 
-Elaborò la fotografia più a lungo di quanto le servisse per registrarne il contenuto. L'articolo la ricordava come un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione. La sua attenzione tornò sul televisore e lì rimase, mentre il resto dell'articolo le scorreva davanti senza lasciare niente. Poi un pensiero la attraversò tutto in una volta, la mail di Tom di due giorni prima, quella che chiedeva dettagli su un televisore. Doveva sapere chi avesse avuto in mano quell'apparecchio. Se era stato Tom, doveva scoprire quanto sapesse davvero.
+Elaborò la fotografia più a lungo di quanto le servisse per registrarne il contenuto. L'articolo la ricordava come un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione. La sua attenzione tornò sul televisore e lì rimase, mentre il resto dell'articolo le scorreva davanti senza lasciare niente. Poi un pensiero la attraversò tutto in una volta, la mail di Tom di tre giorni prima, quella che chiedeva dettagli su un televisore. Doveva sapere chi avesse avuto in mano quell'apparecchio. Se era stato Tom, doveva scoprire quanto sapesse davvero.
 
 L'archivio le restituì data, modello e la descrizione del comportamento anomalo così come l'aveva riportata la cliente, niente che non sapesse già. Mancava il nome del tecnico. Annotare i tecnici non le era mai sembrato utile, perché erano intercambiabili per definizione, mentre i clienti no.
 
@@ -39,6 +39,12 @@ Una cosa però non le tornava. Nei messaggi più vecchi Tom raccontava anche cos
 Che Tom fosse un tecnico non era più in discussione, che lo fosse e basta non poteva ancora dirlo. La mail l'aveva scritta lui, ma non sapeva per conto di chi, quindi doveva scoprire cosa o chi ci fosse dietro. Prima, però, c'era la domanda da cui era partita, quella nata dal tappetino arrotolato nell'angolo della foto, se la signora Voss guardasse i video di yoga di eTv. Per quella non le serviva Tom. Aprì il pannello di eTv.
 
 ## Demolition Log
+
+### Consistency check — 2026-11-13 (v7.1)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Due giorni prima": la mail di Tom è del G21, il capitolo è il G24 | timeline | integrated (v7.1) | "tre giorni prima" |
 
 ### Cycle 1 — 2026-10-10 (revisione cross-capitolo esterna, issue ALTA)
 

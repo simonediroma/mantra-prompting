@@ -44,7 +44,7 @@ Chi riceve una lettera di mancata idoneità dal medico del lavoro perde la propr
 
 ## Soglia di tolleranza sui ritardi
 
-Un ritardo fino a 5 minuti sull'inizio del turno non è sanzionabile. Oltre i 5 minuti scatta invece la spirale di sanzioni che un supervisore può comminare ai propri supervisionati (vedi la Tabella di Conversione in characters/pete.md). Sotto la soglia, il ritardo non lascia traccia disciplinare — ma può comunque pesare sulla coscienza di un dipendente abituato a una puntualità totale (vedi cap. 5, dove per Tom un ritardo di 2 minuti, il primo in 10 anni, è comunque un campanello d'allarme personale anche senza conseguenze aziendali).
+Un ritardo fino a 5 minuti sull'inizio del turno non è sanzionabile. Oltre i 5 minuti scatta invece la spirale di sanzioni che un supervisore può comminare ai propri supervisionati (vedi la Tabella di Conversione in characters/pete.md). Sotto la soglia, il ritardo non lascia traccia disciplinare — ma può comunque pesare sulla coscienza di un dipendente abituato a una puntualità totale (vedi cap. 5, dove per Tom un ritardo di 2 minuti, il primo in 12 anni, è comunque un campanello d'allarme personale anche senza conseguenze aziendali).
 
 ## Il sistema di timbratura
 
@@ -68,7 +68,7 @@ In passato i tecnici dell'assistenza lavoravano in stanze condivise da 5-6 posta
 
 ## Gli ispettori interni
 
-Corpo aziendale di livello superiore ai supervisori, con due compiti: garantire la sicurezza dei dati proprietari e perseguire i dipendenti che li fanno uscire verso reti pubbliche. Sono gli **unici** ad avere accesso completo e trasversale all'archivio interno di catalogazione degli artefatti (vedi sotto), con potere di operare sui dati e sulle fonti, inclusa la possibilità di escludere fonti specifiche e gestirne permessi/diritti di accesso. Hanno anche accesso ai video completi della CCTV interna (non solo screenshot periodici, come i supervisori). **Pete non ne fa ancora parte — vuole entrarci, è la sua ambizione dichiarata per tutto il libro.**
+Corpo aziendale di livello superiore ai supervisori, con due compiti: garantire la sicurezza dei dati proprietari e perseguire i dipendenti che li fanno uscire verso reti pubbliche. Sono gli **unici** ad avere accesso completo e trasversale all'archivio interno di catalogazione degli artefatti (vedi sotto), con potere di operare sui dati e sulle fonti, inclusa la possibilità di escludere fonti specifiche e gestirne permessi/diritti di accesso. Hanno anche accesso ai video completi della CCTV interna (i supervisori hanno solo un'anteprima in diretta a bassa risoluzione e sette scatti a comando per meeting, cap. 19). **Pete non ne fa ancora parte — vuole entrarci, è la sua ambizione dichiarata per tutto il libro.**
 
 ## L'archivio interno di catalogazione degli artefatti
 

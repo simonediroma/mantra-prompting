@@ -35,7 +35,7 @@ Fisicamente e caratterialmente un Biff (Ritorno al Futuro): gigante, scemo, bull
 
 Antagonista "banale nel suo essere cattivo" per scelta esplicita del materiale originale — non è previsto un arco di redenzione o cambiamento profondo, ma un'escalation di potere e ossessione. Il glitch nell'avatar di Emma (piede a sei dita) diventerà, più avanti nella caccia, l'innesco con cui inizierà a sospettare che "Emma" non sia una persona reale — trasformando la sua caccia anti-nerd in una vera caccia alle streghe contro l'IA sublimata.
 
-**Strategia dal capitolo 23 in poi**: smette di reagire a ogni singola infrazione di Tom con una sanzione isolata. Colleziona pazientemente ogni infrazione nel tempo, aspettando che la somma raggiunga una soglia tale da giustificare — davanti all'azienda — la richiesta di intervento ispettivo. È l'unica via che gli permetterebbe di presentare domanda per entrare lui stesso nel corpo degli ispettori: ogni "smutandata" inflitta a Tom non è fine a se stessa, è un mattone nella scala che sta costruendo per arrampicarsi verso il potere che desidera davvero.
+**Strategia nel Libro 2**: smette di reagire a ogni singola infrazione di Tom con una sanzione isolata. Colleziona pazientemente ogni infrazione nel tempo, aspettando che la somma raggiunga una soglia tale da giustificare — davanti all'azienda — la richiesta di intervento ispettivo. È l'unica via che gli permetterebbe di presentare domanda per entrare lui stesso nel corpo degli ispettori: ogni "smutandata" inflitta a Tom non è fine a se stessa, è un mattone nella scala che sta costruendo per arrampicarsi verso il potere che desidera davvero.
 
 ## Note
 
