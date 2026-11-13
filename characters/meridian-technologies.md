@@ -19,7 +19,7 @@ Nata come azienda software a fine anni '90, ha prodotto da sempre sistemi operat
 
 **Nuovo logo** (rebranding recente, circa un anno prima degli eventi): due lettere, **M** e **T**, sovrapposte a formare spazi geometrici definiti. Il management ha deciso che "Meridian" fosse un nome troppo lungo e che l'azienda non comunicasse più a sufficienza il proprio core business tecnologico: da qui l'acronimo **MT** (pronunciato "emmetì"), accompagnato per esteso da "MT Technologies" nelle comunicazioni scritte. Il rebranding ha fatto storcere il naso a molti dipendenti, affezionati al vecchio logo.
 
-**Perché è rilevante nella trama**: nel primo meeting con Tom, lo sfondo virtuale usato da Emma mostra ancora il logo vecchio — dettaglio che Tom nota solo ripensandoci, e che nota anche Pete guardando gli screenshot (vedi characters/emma.md e characters/pete.md). Non è rilevante ai fini del mistero in sé, ma per un motivo pratico: il codice di condotta Meridian sanziona esplicitamente, con 30 minuti di decurtazione, l'uso di loghi obsoleti in comunicazioni ufficiali, documenti, email e meeting. Tom teme che anche Emma finisca nel mirino del supervisore per questo, e se ne sente in parte responsabile.
+**Perché è rilevante nella trama**: nel primo meeting con Tom, lo sfondo virtuale usato da Emma mostra ancora il logo vecchio — dettaglio che Pete nota nel settimo scatto (cap. 19) e che Tom, durante il meeting, non coglie (potrà notarlo ripensandoci, nel Libro 2) (vedi characters/emma.md e characters/pete.md). Non è rilevante ai fini del mistero in sé, ma per un motivo pratico: il codice di condotta Meridian sanziona esplicitamente, con 30 minuti di decurtazione, l'uso di loghi obsoleti in comunicazioni ufficiali, documenti, email e meeting. Nel Libro 2, se lo noterà, Tom potrà temere che anche Emma finisca nel mirino del supervisore per questo, e se ne sente in parte responsabile.
 
 ## Il divieto di lavorare fuori orario — regola cardine, sempre da introdurre così
 
@@ -44,7 +44,7 @@ Chi riceve una lettera di mancata idoneità dal medico del lavoro perde la propr
 
 ## Soglia di tolleranza sui ritardi
 
-Un ritardo fino a 5 minuti sull'inizio del turno non è sanzionabile. Oltre i 5 minuti scatta invece la spirale di sanzioni che un supervisore può comminare ai propri supervisionati (vedi la Tabella di Conversione in characters/pete.md). Sotto la soglia, il ritardo non lascia traccia disciplinare — ma può comunque pesare sulla coscienza di un dipendente abituato a una puntualità totale (vedi cap. 5, dove per Tom un ritardo di 2 minuti, il primo in 10 anni, è comunque un campanello d'allarme personale anche senza conseguenze aziendali).
+Un ritardo fino a 5 minuti sull'inizio del turno non è sanzionabile. Oltre i 5 minuti scatta invece la spirale di sanzioni che un supervisore può comminare ai propri supervisionati (vedi la Tabella di Conversione in characters/pete.md). Sotto la soglia, il ritardo non lascia traccia disciplinare — ma può comunque pesare sulla coscienza di un dipendente abituato a una puntualità totale (vedi cap. 5, dove per Tom un ritardo di 2 minuti, il primo in 12 anni, è comunque un campanello d'allarme personale anche senza conseguenze aziendali).
 
 ## Il sistema di timbratura
 
@@ -68,7 +68,7 @@ In passato i tecnici dell'assistenza lavoravano in stanze condivise da 5-6 posta
 
 ## Gli ispettori interni
 
-Corpo aziendale di livello superiore ai supervisori, con due compiti: garantire la sicurezza dei dati proprietari e perseguire i dipendenti che li fanno uscire verso reti pubbliche. Sono gli **unici** ad avere accesso completo e trasversale all'archivio interno di catalogazione degli artefatti (vedi sotto), con potere di operare sui dati e sulle fonti, inclusa la possibilità di escludere fonti specifiche e gestirne permessi/diritti di accesso. Hanno anche accesso ai video completi della CCTV interna (non solo screenshot periodici, come i supervisori). **Pete non ne fa ancora parte — vuole entrarci, è la sua ambizione dichiarata per tutto il libro.**
+Corpo aziendale di livello superiore ai supervisori, con due compiti: garantire la sicurezza dei dati proprietari e perseguire i dipendenti che li fanno uscire verso reti pubbliche. Sono gli **unici** ad avere accesso completo e trasversale all'archivio interno di catalogazione degli artefatti (vedi sotto), con potere di operare sui dati e sulle fonti, inclusa la possibilità di escludere fonti specifiche e gestirne permessi/diritti di accesso. Hanno anche accesso ai video completi della CCTV interna (i supervisori hanno solo un'anteprima in diretta a bassa risoluzione e sette scatti a comando per meeting, cap. 19). **Pete non ne fa ancora parte — vuole entrarci, è la sua ambizione dichiarata per tutto il libro.**
 
 ## L'archivio interno di catalogazione degli artefatti
 

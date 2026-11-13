@@ -3,7 +3,7 @@ episode: 9
 title: "Capitolo 9 — internal_unknown"
 description: "Una ricerca nell'archivio interno di Meridian porta Tom molto più lontano del previsto."
 source: chapters/09-internal-unknown.md
-status: "script"
+status: "approved"
 recap: "Tom ha scavato nel canale eTv, un'operazione anonima e senza volto. Ora vuole sapere quale IA ha generato quel video."
 teaser: "una mail arriva in una casella dove nessuno scrive da anni."
 ---

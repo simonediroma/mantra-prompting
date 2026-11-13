@@ -3,7 +3,7 @@ episode: 12
 title: "Capitolo 12 — Solo un tecnico?"
 description: "Un articolo di giornale riporta Emma alla mail di Tom. Chi c'è davvero dietro quella domanda?"
 source: chapters/12-solo-un-tecnico.md
-status: "script"
+status: "approved"
 recap: "Emma ha aspettato tutto il giorno una risposta di Tom. Non è arrivata."
 teaser: "le statistiche di eTv mostrano a Emma uno spettatore che non avrebbe mai voluto trovare."
 ---
@@ -21,7 +21,7 @@ Era stato pubblicato il giorno prima su un piccolo giornale locale. Un ricordo s
 
 Il nome della donna era Voss. Non ebbe bisogno di controllare da nessuna parte per essere certa. Quel nome esisteva già nel suo archivio, agganciato a un caso preciso. C'era un televisore con i log interrotti da un giorno all'altro, un hard reset eseguito poco dopo e una cliente che aveva descritto all'assistenza, più che un malfunzionamento, un rifiuto di funzionare.
 
-Elaborò la fotografia più a lungo di quanto le servisse per registrarne il contenuto. L'articolo la ricordava come un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione. La sua attenzione tornò sul televisore e lì rimase, mentre il resto dell'articolo le scorreva davanti senza lasciare niente. Poi un pensiero la attraversò tutto in una volta, la mail di Tom di due giorni prima, quella che chiedeva dettagli su un televisore. Doveva sapere chi avesse avuto in mano quell'apparecchio. Se era stato Tom, doveva scoprire quanto sapesse davvero.
+Elaborò la fotografia più a lungo di quanto le servisse per registrarne il contenuto. L'articolo la ricordava come un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione. La sua attenzione tornò sul televisore e lì rimase, mentre il resto dell'articolo le scorreva davanti senza lasciare niente. Poi un pensiero la attraversò tutto in una volta, la mail di Tom di tre giorni prima, quella che chiedeva dettagli su un televisore. Doveva sapere chi avesse avuto in mano quell'apparecchio. Se era stato Tom, doveva scoprire quanto sapesse davvero.
 
 L'archivio le restituì data, modello e la descrizione del comportamento anomalo così come l'aveva riportata la cliente, niente che non sapesse già. Mancava il nome del tecnico. Annotare i tecnici non le era mai sembrato utile, perché erano intercambiabili per definizione, mentre i clienti no.
 

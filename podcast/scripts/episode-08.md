@@ -3,7 +3,7 @@ episode: 8
 title: "Capitolo 8 — Il canale eTv"
 description: "Un canale senza volto, molte visualizzazioni, pochi iscritti e un ritmo che non ha senso."
 source: chapters/08-il-canale-etv.md
-status: "script"
+status: "approved"
 recap: "Tom ha trovato il video di yoga citato dalla signora Voss. Con un piede che cambia forma da un fotogramma all'altro."
 teaser: "una ricerca nell'archivio di Meridian restituisce più di quanto Tom si aspettasse."
 ---

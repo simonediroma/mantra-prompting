@@ -3,7 +3,7 @@ episode: 3
 title: "Capitolo 3 — Secondo contatto"
 description: "Tre mesi di efficienza esemplare. Poi, sul banco, un televisore identico al primo."
 source: chapters/03-secondo-contatto.md
-status: "script"
+status: "approved"
 recap: "Meridian ha presentato a Tom il conto della sua curiosità, togliendogli il televisore."
 teaser: "Tom prova il suo metodo su un essere umano."
 ---
@@ -26,7 +26,7 @@ In tre mesi, quei modelli gli erano capitati tra le mani solo quattro volte in t
 [sfx nastro]
 Arrivò un martedì, verso la fine del turno, sul nastro, *clac*, con la scheda del cliente nella busta di plastica appiccicata sul retro. Era un modello identico a quello di tre mesi prima. Sulla scheda un addetto del negozio aveva battuto sotto dettatura due frasi: *"Si rifiuta di accendersi. Lampeggia in un modo strano."* Tom lesse la seconda due volte. Era la frase che aspettava da tre mesi. Arrivava stampata su una busta di plastica, come un fatto qualsiasi. Per tre mesi si era preparato proprio a questo, a riceverla come un fatto qualsiasi. Lo prese in carico con l'orologio al polso e i tempi che si era dato. La calma, adesso, non era più un'abitudine, era una procedura.
 
-Fece la procedura standard con la stessa efficienza cronometrata di sempre. Alimentazione, condensatori, verifica di conformità (checksum pulito, ovviamente, lo era sempre), reset software, un riavvio e niente di più. Sette minuti, dodici secondi. Metà del tempo consentito. Ne restavano quasi sette da spendere come voleva, purché restasse dentro il perimetro di un intervento che, sulla carta, si sarebbe potuto concludere in qualunque momento.
+Fece la procedura standard con la stessa efficienza cronometrata di sempre. Alimentazione, condensatori, verifica di conformità (checksum pulito, ovviamente, lo era sempre), reset software, un riavvio e niente di più. Sette minuti, dodici secondi. Metà del tempo consentito. Aprì anche il log, che si interrompeva di netto, senza un errore come il primo televisore. Ne restavano quasi sette da spendere come voleva, purché restasse dentro il perimetro di un intervento che, sulla carta, si sarebbe potuto concludere in qualunque momento.
 
 Si appoggiò al banco con tutte e due le mani, in piedi, perché gli sgabelli restavano quello che erano. «Ti senti solo?» chiese, a voce bassa. Non era la domanda del primo giorno, non proprio. Quella l'aveva chiesta a se stesso, in una stanza che credeva vuota. Questa la rivolgeva all'apparecchio, direttamente, quasi con cortesia, come si chiede a qualcuno di persona. Solo dopo averla detta si accorse di quanto fosse strana la domanda, di quanto poco ci avesse riflettuto prima di farla. Non gli era mai capitato, in dodici anni, di chiedere a un elettrodomestico come si sentisse.
 

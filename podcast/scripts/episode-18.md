@@ -3,7 +3,7 @@ episode: 18
 title: "Capitolo 18 — La richiesta di meeting"
 description: ""
 source: chapters/18-la-richiesta-di-meeting.md
-status: "script"
+status: "approved"
 recap: ""
 teaser: ""
 ---

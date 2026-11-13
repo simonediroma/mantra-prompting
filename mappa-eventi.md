@@ -98,7 +98,7 @@ flowchart TD
     W --> X["Cap.12-13 — Emma verifica Tom e ricostruisce il caso"]
     X --> Y["Cap.13-15 — Mail di scuse, fiducia, mail delle 8:00:01"]
     Y --> Z["Cap.16-17 — Mail delle 23:34, alert delle 23:59: entra Pete"]
-    Z --> AA["Cap.18-20 — Meeting 15:00:01, screenshot CCTV, inizia la caccia"]
+    Z --> AA["Cap.18-19 — Meeting 15:00:01, sette scatti CCTV, inizia la caccia"]
 ```
 
 ### Le quattro catene che corrono in parallelo
@@ -354,10 +354,10 @@ Stessa struttura, ma qui la colonna "Reazione attesa" è **prescrittiva**: è il
 |---|---|---|---|---|
 | 18 — La richiesta di meeting (Emma → Pete) | Mattina | Emma legge la mail quasi vuota di Tom: «possiamo fissare un meeting in presenza?». In parallelo Pete intercetta il thread | **Emma è terrorizzata**: nessun meeting sincrono con un estraneo in 5+ anni. Accetta ma non in presenza: genera un **avatar** con lo stesso volto sintetico dei video eTv. Pete: curiosità da predatore, "chi è questa Emma?" | Copertura ufficiale di Emma: agorafobia. Tom ha scritto e riscritto la mail per restare inattaccabile |
 | 18 — La richiesta di meeting (Tom: l'invito accettato) | Pomeriggio | Tom riceve un **invito in calendario**, non un messaggio: «Sentiamoci oggi pomeriggio, alle tre» | Accetta senza rispondere nulla e torna alla lista riparazioni: **evita l'attrito, non lo affronta** | Capitolo breve, pausa di respiro |
-| 18 — La richiesta di meeting (Pete: la preparazione) | Prima delle 15:00 | Pete fantastica la sanzione da ispettore (interdizione + 30% per 3 mesi), attiva la trascrizione automatica e verifica la CCTV | 🔒 **Sa di non poterla infliggere**: il suo tetto è 60 minuti (Tabella di Conversione). Accumula infrazioni in attesa della soglia. Accesso CCTV solo a screenshot | La fantasia è da cortile scolastico, la sanzione è burocratica |
-| 19 — Il meeting (parte 1) | **15:00:01** | Emma entra puntuale con l'avatar. Tom saluta per primo: «Ciao Emma, come stai?» | Emma: **si blocca, poi si lancia in un fiume di parole** senza lasciare spazio, fino a «Puoi aiutarmi, collega?». Tom: colpito dalla bellezza e da una **familiarità che non sa spiegarsi** | Due indizi visivi distinti: qui il **vecchio logo** nello sfondo (liquidato come "errore da matita rossa"); il piede a sei dita è riservato a un **secondo** meeting |
+| 18 — La richiesta di meeting (Pete: la preparazione) | Prima delle 15:00 | Pete fantastica la sanzione da ispettore (interdizione + 30% per 3 mesi), attiva la trascrizione automatica e verifica la CCTV | 🔒 **Sa di non poterla infliggere**: il suo tetto è 60 minuti (Tabella di Conversione). Accumula infrazioni in attesa della soglia. Accesso CCTV: anteprima in diretta e sette scatti a comando | La fantasia è da cortile scolastico, la sanzione è burocratica |
+| 19 — Il meeting (parte 1) | **15:00:01** | Emma entra puntuale con l'avatar. Tom saluta per primo: «Ciao Emma, come stai?» | Emma: **si blocca, poi si lancia in un fiume di parole** senza lasciare spazio, fino a «Puoi aiutarmi, collega?». Tom: colpito dalla bellezza e da una **familiarità che non sa spiegarsi** | Due indizi visivi distinti: qui il **vecchio logo** nello sfondo (liquidato come "errore da matita rossa"); il piede a sei dita qui non c'è: Libro 2, solo se alla storia servirà |
 | 19 — Il meeting (parte 2) | Durante la call | Tom rivela di essere risalito al video e a chi lo ha prodotto, e di aver registrato altri casi analoghi | Emma: sta per ottenere risposte quando **un rumore di CCTV** interrompe tutto. Tom **chiude bruscamente** e sposta l'incontro in mensa | Tom evita lo scontro, aggira l'ostacolo. In 12 anni non ha mai messo piede in mensa |
-| 20 — Inizia la caccia | Subito dopo | Pete scatta lo screenshot del meeting e osserva il volto di Emma | «Non so chi sia, non l'ho mai vista in azienda, questa.» → «Inizia la caccia. Verrò a prenderti molto presto…» | ⏳ Il glitch a sei dita **non va notato qui**: sarà lui a riesaminare questo screenshot più avanti |
+| 19 — Il meeting (scena di Pete, ex cap. 20) | 16:00 | Pete legge la trascrizione e ingrandisce il settimo scatto: il volto di Emma, il logo vecchio, il pennarello rotolato | «Non so chi sia, non l'ho mai vista in azienda, questa.» → «Inizia la caccia. Verrò a prenderti molto presto…» | ⏳ Il glitch a sei dita **non c'è in questo scatto**: Libro 2, solo se alla storia servirà |
 
 ---
 
@@ -436,7 +436,7 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 | elab@meridian.com | Cap. 9 | Tom, Emma, (il fondatore, che l'ha dimenticata) | Canale attivo del contatto |
 | Archivio parallelo di Emma | Cap. 11 | solo Emma | ~100 casi in 12 mesi; il caso Voss era già dentro, senza nome del tecnico |
 | Vecchio logo nello sfondo virtuale | ⏳ cap. 19-20 | Tom e Pete lo noteranno | Liquidato da entrambi |
-| Glitch a sei dita nell'avatar | ⏳ secondo meeting | Pete (più avanti) | **Non va bruciato nella scena di Pete del cap. 19 (ex cap. 20)** |
+| Glitch a sei dita nell'avatar | ⏳ Libro 2, solo se servirà (autore, 2026-11-13) | Pete (eventuale) | **Non va bruciato nella scena di Pete del cap. 19 (ex cap. 20)** |
 | eWatch della signora | ❓ non ancora in scena | nessuno, per ora | Promessa aperta: è così che il TV ha "previsto" l'infarto |
 
 ---
@@ -448,7 +448,7 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 | Divieto di lavoro/mail fuori orario | Genera gli alert automatici ai supervisori: è il meccanismo che accende Pete al cap. 17 |
 | Supervisore: legge il contenuto solo se il mittente è sotto la sua giurisdizione | Pete non può leggere Emma, ma legge la mail **appena Tom la apre** e tutto il thread quando risponde; aprire o rispondere fuori orario è infrazione, ricevere no (cap. 17) |
 | Supervisore: tetto sanzionatorio 60 minuti | Può solo accumulare fino alla soglia che giustifica l'intervento ispettivo |
-| Supervisore: CCTV solo a screenshot periodici | Il rumore della telecamera interrompe il meeting; il video completo resta fuori portata |
+| Supervisore: CCTV con anteprima in diretta e sette scatti a comando | Il motore e il clic del filtro della telecamera scandiscono il meeting; il video completo resta fuori portata |
 | Ispettori interni: unica vista trasversale sull'archivio artefatti | È la ragione tecnica per cui Emma è rimasta invisibile per 5 anni |
 | Archivio artefatti: scrittura verticale, lettura orizzontale | Tom può cercare, non può correlare |
 | Ricondizionamento: 120 giorni di giacenza, rimborso 33%, scorciatoia su rifiuto del cliente | È l'anomalia di tempistica che innesca il cap. 6 |
@@ -474,7 +474,7 @@ Questa è la parte da consultare **prima** di scrivere una scena nuova.
 | **10.7** | ❓ Promessa aperta | L'**eWatch** come spiegazione di come il TV sapesse del rischio è promesso "dopo il cap. 6" e non è ancora arrivato | Collocarlo nel cap. 14 o 15, quando Tom ricostruisce il caso per Emma: è il momento in cui la domanda torna naturale |
 | **10.8** | ❓ Personaggio | Il **fratello erede** compare solo nei registri, senza nome né voce | Lasciarlo così finché la trama non lo richiede (già annotato in `la-signora.md`) |
 | **10.9** | ❓ Struttura | L'alternanza POV serrata parte dal cap. 18: non è deciso se resti la regola fino alla fine | Decidere prima di scrivere il cap. 18 |
-| **10.10** | ⏳ Da non bruciare | Il glitch a sei dita nell'avatar di Emma | Riservato al **secondo** meeting, non al cap. 19/20. Al primo meeting solo il vecchio logo |
+| **10.10** | ⏳ Da non bruciare | Il glitch a sei dita nell'avatar di Emma | Non nel cap. 19 (al primo meeting solo il vecchio logo): Libro 2, solo se alla storia servirà (autore, 2026-11-13) |
 
 ---
 
