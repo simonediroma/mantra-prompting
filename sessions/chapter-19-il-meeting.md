@@ -1,8 +1,8 @@
 # Session: chapter — chapters/19-il-meeting.md
 
 > Created: 2026-11-12
-> Last updated: 2026-11-12
-> Status: complete
+> Last updated: 2026-11-13
+> Status: open
 
 ## Macro
 chapter
@@ -11,13 +11,14 @@ chapter
 chapters/19-il-meeting.md
 
 ## Current step
-— (completo)
+ask-before-writing (scena di Pete, ex cap. 20)
 
 ## Steps completed
-- [x] ask-before-writing
-- [x] write
-- [x] demolish
-- [x] integrate
+- [ ] ask-before-writing (scena di Pete)
+- [ ] write (scena di Pete)
+- [ ] demolish (scena di Pete)
+- [ ] integrate (scena di Pete)
+- [x] ask-before-writing / write / demolish / integrate (scene Tom-Emma, v2.6)
 
 ## Notes
 - 2026-11-12: aperta dopo il merge del cap. 18 (v5.1, PR #38). Vincoli dal 18: round a Tom (nessuna doppia smutandata per meeting inutile), trascrizione automatica obbligatoria attivata da Pete, CCTV solo screenshot periodici, LED del faretto da giardino per terra puntato verso la telecamera della sorveglianza sopra lo stipite, interruttore sotto il banco. L'outline del 19 (Tom dice ad alta voce «So chi ha prodotto il video…») va riallineato.
@@ -43,3 +44,4 @@ chapters/19-il-meeting.md
 - 2026-11-13: revise (v2.1), 6 correzioni nel testo + regola del nastro nel ledger. Precisato (autore): il pensiero di Pete del cap. 18 resta valido, le riparazioni sono solo rimandate dal meeting.
 - 2026-11-13: v2.3, Emma trascendente (corpo solo come avatar), scusa per declinare, modalità presenza spenta contestualizzata (anteprima che dovrebbe tornare alla telecamera, nessuno davanti). Regola in emma.md e style-guide.
 - 2026-11-13: capitolo chiuso dall'autore (complete).
+- **2026-11-13, riaperto (autore)**: il cap. 20 "Inizia la caccia" viene fuso qui come terza voce. Il 19 era a tre voci mancate (Tom ed Emma in scena, Pete che ha costruito la rete nel 18 era l'unico a non vedere il meeting). Vincoli della scena: POV Pete, alle quattro (trascrizione in casella) o a turno finito, alla postazione in open space; trascrizione pulita (consulenza tecnica, nessun meeting inutile: round a Tom); screenshot CCTV: Tom al banco prima del LED, bianchi durante (letti come riflesso del neon o guasto della telecamera, critica 1 del ciclo 1), l'ultimo dopo il clic con il volto di Emma sullo schermo e il logo vecchio nello sfondo (volto mai visto, non sospetto; logo liquidato come trascuratezza, non indizio); niente sei dita; chiusa del Libro 1 «Inizia la caccia. Verrò a prenderti molto presto...». Passaggio: lo sfondo vuoto di Emma (fine scena Emma) e lo screenshot di Pete mostrano la stessa immagine, con e senza il volto. Rinumerazione: Libro 1 = cap. 1-19, Libro 2 dal cap. 20.

@@ -82,23 +82,23 @@
       "Parte 5 — Emma scopre la morte della signora",
       "Parte 6 — Secondo contatto Emma/tecnico",
       "Parte 7 — Escalation e l'antagonista entra in scena",
-      "Parte 8 (in corso) — Il meeting e l'inizio della caccia"
+      "Parte 8 — Il meeting e l'inizio della caccia"
     ],
-    "chapter_to_write_first": "Capitolo 21 — apertura del Libro 2: l'infatuazione di Tom per Emma, nata dal meeting di fine Libro 1, lo spinge a rompere per la prima volta in 12 anni la propria routine (va in mensa) — l'innesco della sequenza capitoli 21-23 che porta alla dichiarazione di guerra di Pete e all'inizio della caccia.",
+    "chapter_to_write_first": "Capitolo 20 — apertura del Libro 2: l'infatuazione di Tom per Emma, nata dal meeting di fine Libro 1, lo spinge a rompere per la prima volta in 12 anni la propria routine (va in mensa) — l'innesco della sequenza capitoli 20-22 che porta alla dichiarazione di guerra di Pete e all'inizio della caccia.",
     "chapter_they_are_avoiding": "Da definire — probabilmente il capitolo in cui il fondatore entra in scena e scopre la verità su Emma."
   },
   "books": {
     "structure_note": "Il romanzo è concepito in due libri (formalizzato il 2026-09-03, sulla base dei file di riferimento personaggio/ambientazione forniti dall'autore). Non cambia il formato di pubblicazione a puntate (vedi format_note): è una suddivisione narrativa interna, non editoriale.",
     "libro_1": {
       "titolo_provvisorio": "Libro 1",
-      "capitoli": "1-20",
-      "arco": "Dalla scoperta dell'anomalia (cap. 1) al meeting Tom/Emma e alla dichiarazione di caccia di Pete (cap. 20). Corrisponde alle Parti 1-8 di book_profile.gut_structure.",
-      "chiusura": "Cap. 20: Pete, eccitato, dichiara l'inizio della caccia dopo aver rivisto lo screenshot del meeting e aver notato il vecchio logo Meridian nello sfondo virtuale di Emma (liquidato come errore, non come indizio)."
+      "capitoli": "1-19",
+      "arco": "Dalla scoperta dell'anomalia (cap. 1) al meeting Tom/Emma e alla dichiarazione di caccia di Pete (cap. 19, scena finale; ex cap. 20, fuso il 2026-11-13). Corrisponde alle Parti 1-8 di book_profile.gut_structure.",
+      "chiusura": "Cap. 19, scena finale (ex cap. 20): Pete, eccitato, dichiara l'inizio della caccia dopo aver rivisto lo screenshot del meeting e aver notato il vecchio logo Meridian nello sfondo virtuale di Emma (liquidato come errore, non come indizio)."
     },
     "libro_2": {
       "titolo_provvisorio": "Libro 2",
-      "capitoli": "21+",
-      "apertura_capitoli_21_23": "L'infatuazione di Tom per Emma lo spinge a rompere la propria routine di 12 anni ed entrare per la prima volta in mensa, con l'obiettivo di incontrarla fisicamente per mostrarle il video e ottenere una spiegazione — mentre teme in parallelo le ripercussioni del supervisore.",
+      "capitoli": "20+",
+      "apertura_capitoli_20_22": "L'infatuazione di Tom per Emma lo spinge a rompere la propria routine di 12 anni ed entrare per la prima volta in mensa, con l'obiettivo di incontrarla fisicamente per mostrarle il video e ottenere una spiegazione — mentre teme in parallelo le ripercussioni del supervisore.",
       "arco": "La caccia di Pete a Tom si trasforma in una vera caccia alle streghe contro l'IA sublimata (Emma), innescata dal glitch a sei dita che Pete noterà in un secondo meeting. Emma, sentendosi in pericolo, capovolge la propria dinamica: da manipolatrice/osservatrice a chi chiede aiuto a Tom per proteggere l'Artefatto Generatore. Il fondatore entra in scena e scopre la verità su Emma (dettagli ancora da definire)."
     }
   },
