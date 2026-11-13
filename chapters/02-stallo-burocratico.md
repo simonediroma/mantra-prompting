@@ -1,12 +1,12 @@
 ---
 title: Stallo burocratico
-version: 3.5
+version: 3.6
 revised: 2026-11-01
 claim: "Tom scopre il prezzo istituzionale della propria curiosità, una sanzione minima ma precisa: impara non a smettere di indagare, ma a farlo con più cautela, proprio mentre perde l'accesso diretto al televisore anomalo."
 status: complete
 ---
 
-Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note, *dlin*, pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva ogni mattina dal corridoio, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici, prima ancora di aprire la propria porta. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
+Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note, *dlin*, pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva a ogni inizio turno dal corridoio, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici, prima ancora di aprire la propria porta. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
 
 **COMUNICAZIONE FORMALE: SCOSTAMENTO DA PROCEDURA STANDARD**
 **Rif. intervento: unità TV consumer, mod. [omesso in automatico]**
@@ -45,6 +45,12 @@ Lo rimise nel cassetto, sotto alcuni manuali tecnici e procedurali ormai vecchi 
 Avrebbe continuato a parlare agli elettrodomestici guasti come aveva sempre fatto, fin da bambino. Quella non gliela avrebbe tolta nessuna comunicazione formale. Il cronometro, però, da quel momento lo avrebbe tenuto lui. E per non lasciarsi sfuggire un'altra scoperta nel giro di ventiquattr'ore avrebbe tenuto un archivio tutto suo, privato, non protocollato, difeso durante il giorno solo dalla memoria e trascritto la sera, a casa, lontano da occhi indiscreti. Dietro la parete il nastro fece *clac* e si mosse per portargli il primo apparecchio del turno. Prima di toccarlo, Tom guardò l'ora.
 
 ## Demolition Log
+
+### Consistency check — 2026-11-13 (v3.6)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Ogni mattina" contro il turno del pomeriggio dei cap. 1-2 | continuity | integrated (v3.6) | "a ogni inizio turno" |
 
 ### Cycle 1 — 2026-09-02
 
