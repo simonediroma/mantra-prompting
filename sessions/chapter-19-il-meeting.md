@@ -11,11 +11,11 @@ chapter
 chapters/19-il-meeting.md
 
 ## Current step
-ask-before-writing (scena di Pete, ex cap. 20)
+demolish (scena di Pete, ex cap. 20)
 
 ## Steps completed
-- [ ] ask-before-writing (scena di Pete)
-- [ ] write (scena di Pete)
+- [x] ask-before-writing (scena di Pete)
+- [x] write (scena di Pete)
 - [ ] demolish (scena di Pete)
 - [ ] integrate (scena di Pete)
 - [x] ask-before-writing / write / demolish / integrate (scene Tom-Emma, v2.6)
@@ -48,3 +48,4 @@ ask-before-writing (scena di Pete, ex cap. 20)
 - **Deciso (autore, 2026-11-13), dialogo scena di Pete**: Pete entra in diretta nel meeting, non dopo. Regola di mondo nuova: screenshot CCTV a comando del supervisore, massimo sette per meeting (soglia senza logica fissata da Meridian per non farsi fare causa dai dipendenti sulla privacy); il supervisore orienta la telecamera da remoto (motore). Pete vede Tom di spalle con carta e pennarello, muove la telecamera per inquadrare meglio; Tom sente il motore e accende il LED: conferma di un'ipotesi (sapeva che Pete poteva essere dietro la telecamera, ora lo sa). Pete pensa a un guasto e brucia gli scatti a raffica sul bianco; la telecamera si adatta (clic), Tom chiude; l'ultimo scatto prende Emma sullo schermo e Tom di spalle con il foglio girato. Ricadute: cap. 18 (box "screenshot periodici" → a comando, max sette; «una foto ogni tanto»), pete.md, ledger; cap. 19 scena Tom-Emma (LED acceso al motore, non prima del primo cartello); conteggio dei sette da fissare scatto per scatto.
 - **Deciso (autore, 2026-11-13)**: Pete resta convinto del guasto della telecamera, magari indotto da lui che ha provato a muoverla (non è un tecnico, è un bullo e basta). La caccia nasce dal foglio girato a faccia in giù nell'ultimo scatto.
 - **Deciso (autore, 2026-11-13)**: «Inizia la caccia» è pensato, davanti all'ultimo scatto. Pete resta alle quattro con la trascrizione inutile in mano; l'unico appiglio della caccia è perché un tecnico debba aver usato pennarello e carta durante un meeting.
+- 2026-11-13: **v3.0 scritta** (~2.900 parole di corpo, +1.200). Cinque beat di Pete: promemoria e primo scatto bruciato; secondo scatto e frecce; bianco e raffica; settimo scatto; coda alle quattro. Riscritto il passaggio del LED (motore *zzz* come conferma). Cap. 18 v5.2: box "anteprima in diretta, fino a 7 scatti a comando", "sette foto". Aggiornati pete.md, ledger, outline (draft), voice-sample. Aggiunte da dichiarare elencate nel Write log del capitolo.

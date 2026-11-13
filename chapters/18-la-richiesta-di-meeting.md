@@ -1,6 +1,6 @@
 ---
 title: La richiesta di meeting
-version: 5.1
+version: 5.2
 claim: "Sabato G32 Tom legge in regola la mail delle 23:34 e capisce che Emma sa della morte e della sua omissione, ma ha la parola sbagliata (minacciata) e lui non può correggerla per iscritto; dopo una bilancia che pesa fantasmi le chiede di vedersi di persona. Emma, al primo meeting della sua vita con qualcuno fuori da Elab, mente con un «oggi» e mette in piedi la modalità presenza con le vecchie dotazioni di Elab. Pete legge per la prima volta il thread: la morte per lui è una coincidenza, ma Tom l'ha taciuta, primo mattone; il meeting fuori dalle mansioni sarebbe la prima infrazione vera. Tom vede la trappola della call e accetta lo stesso («Pete, prova a prendermi»), preparando una contromossa analogica contro la telecamera. Tre trappole in parallelo: la maschera di Emma, la rete di Pete, la luce di Tom."
 status: complete
 summary: "G32, sabato. Alle otto, in regola, Tom apre la mail delle 23:34: Emma ha letto la morte nel registro, ha visto il televisore nella foto, sa che lui l'ha taciuta e chiede se la signora si sentisse minacciata. Tom sa che la parola è sbagliata (il televisore l'aveva avvertita, la signora ne rideva), ma per dirlo dovrebbe scrivere Morse, quaderno e telefonata. Ripara una bilancia che annuncia pesi a caso (saldatura incrinata sul filo di una cella di carico, «Bentornata, Marisa!») e nei minuti residui, dopo riscritture cancellate, alle 8:26 invia «Emma, possiamo fissare un meeting in presenza? Tom». Emma capisce che intende una stanza e due sedie; al primo meeting della sua vita con qualcuno fuori da Elab, sceglie di mentire con un «oggi», configura la modalità presenza con il pacchetto di avvio trovato nelle vecchie cartelle di Elab (avatar fedele per regolamento, non descritto; sfondo con il logo «di sempre») e alle dieci manda un invito. Pete legge il thread: la morte è una coincidenza e la riparazione banale, ma Tom l'ha taciuta, primo mattone; un incontro di persona fuori dalle mansioni sarebbe un meeting inutile. Tom vede la trappola della call dalla sua stanza, dice «Pete, prova a prendermi», accetta e posa per terra, puntato verso la telecamera della sorveglianza sopra la porta, il LED di un faretto da giardino «più luminoso del sole», con l'interruttore sotto il banco. Pete attiva la trascrizione automatica obbligatoria, verifica gli screenshot CCTV e si crea l'appuntamento «Doppia». Il meeting delle tre è il cap. 19."
@@ -64,12 +64,16 @@ Nel calendario di Tom, che Pete poteva vedere come quello di ogni suo sottoposto
 Aprì le impostazioni dei meeting della divisione e cercò il nome di Tom. Accanto c'era un'opzione che non aveva mai usato con nessuno, perché nessuno dei suoi tecnici faceva meeting. *Trascrizione automatica obbligatoria*. La attivò, per Tom e per quel solo appuntamento, così che alle quattro, nella sua casella, ci sarebbe stato tutto quello che si erano detti, parola per parola, abbastanza per capire se la lista di riparazioni c'entrava qualcosa o no. Poi aprì il pannello della sorveglianza e scelse la stanza di Tom.
 
 **Laboratorio · Divisione Assistenza Tecnica · Tom**
-**Accesso supervisore: screenshot periodici**
+**Accesso supervisore: anteprima in diretta, fino a 7 scatti a comando**
 **Video completo: riservato agli ispettori interni**
 
-Pete lesse l'ultima riga come la leggeva ogni volta, con la faccia di chi trova una porta chiusa a chiave e la riconosce. Gli screenshot bastavano. Dove c'era una trascrizione, una foto ogni tanto era tutto quello che serviva per mettere una faccia accanto alle parole. Chiuse il pannello, prese l'ultimo onion ring dal fondo del sacchetto e nel suo calendario creò un appuntamento alle quindici, privato, senza invitati. Lo chiamò "Doppia". Poi, per scrupolo, gli mise un promemoria un minuto prima.
+Pete lesse l'ultima riga come la leggeva ogni volta, con la faccia di chi trova una porta chiusa a chiave e la riconosce. Sette scatti bastavano. Dove c'era una trascrizione, sette foto erano tutto quello che serviva per mettere una faccia accanto alle parole. Chiuse il pannello, prese l'ultimo onion ring dal fondo del sacchetto e nel suo calendario creò un appuntamento alle quindici, privato, senza invitati. Lo chiamò "Doppia". Poi, per scrupolo, gli mise un promemoria un minuto prima.
 
 ## Demolition Log
+
+### Allineamento — 2026-11-13 (v5.2)
+
+Box della sorveglianza e pensiero di Pete allineati alla regola dei sette scatti a comando con anteprima in diretta (fusione del cap. 20 nel 19): "screenshot periodici" → "anteprima in diretta, fino a 7 scatti a comando"; "una foto ogni tanto" → "sette foto".
 
 ### Cycle 1 — 2026-11-09
 

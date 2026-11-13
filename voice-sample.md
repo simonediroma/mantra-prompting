@@ -1,6 +1,6 @@
 # Voice Sample
 
-> Estratto automatico dal cap. 19 — Il meeting (v1.0).
+> Estratto dal cap. 19 — Il meeting (v3.0). Aggiornato automaticamente a ogni capitolo nuovo.
 
 ## Apertura
 
@@ -8,8 +8,10 @@ Alle tre meno due Tom chiuse l'intervento sul tostapane e il nastro, che per un 
 
 ## Centro
 
-Il primo movimento fu qualcosa che somigliava al sollievo, così netto che quasi le fece paura. Il televisore non l'aveva minacciata. Aveva provato a fermarla. Quello che Emma aveva temuto per settimane, un apparecchio che si rivolta contro una donna sola in un salotto, non era successo. Era successo il contrario, con lo stesso esito. Subito dietro arrivò il resto. Il televisore aveva provato a salvarla da un video che era suo. Emma si accorse di stare annuendo a una frase di Tom sugli intervalli di scrittura che non aveva ascoltato, il che, per la trascrizione, andava benissimo.
+Il francobollo di Pete diventò bianco. Non grigio, non sfocato, bianco come un foglio, che restò così anche all'aggiornamento successivo. Pete rilasciò la freccia, poi la premette dall'altra parte, poi di nuovo, con il risultato che si ottiene di solito premendo i tasti di una cosa rotta. L'aveva mossa lui e si era rotta, il che, nella sua esperienza con gli apparecchi, era l'ordine normale degli eventi. Che fosse un riflesso del neon di Tom, o la telecamera che aveva fatto il suo tempo, non lo sapeva e non era il suo mestiere saperlo. Il suo mestiere era non perdere il meeting. Premette lo scatto quattro volte di fila, come si fa con un telecomando che non risponde, sperando che almeno una venisse fuori. Vennero fuori quattro rettangoli bianchi identici, mentre il contatore scendeva a uno. Si fermò con il dito sopra il tasto e il sacchetto di onion rings ancora chiuso.
 
 ## Chiusura
 
-La finestra di Tom si spense. Emma restò davanti allo schermo con le mani sul tavolo, nella sua stanza, mentre nel corridoio, fuori, non passava nessuno. Ripensò all'ultimo cartello più che agli altri, perché gli altri le avevano detto cosa era successo, l'ultimo le diceva che stava ancora succedendo. Poi spense la modalità presenza. Per un attimo, prima che si chiudesse anche la finestra, sullo schermo restò soltanto lo sfondo, la parete chiara e il logo di Meridian, senza nessuno davanti.
+Si appoggiò allo schienale, che cedette fin dove lo lasciava il pannello divisorio, senza pensare per un momento a Tom. Pensò invece a quanto fosse stretto il suo mestiere, quattro nerd dell'assistenza da sorvegliare dietro quattro porte chiuse, mentre là fuori c'erano ventimila dipendenti che scrivevano a mano, che usavano loghi vecchi, che facevano meeting con gente di altri reparti, mentre un ispettore interno poteva aprire qualunque porta volesse. Il settimo scatto era il primo mattone che avesse una forma. Lo salvò in una cartella nuova, che chiamò come l'appuntamento, poi guardò ancora la nuca di Tom, il foglio girato, la mano larga posata sopra.
+
+"Inizia la caccia" pensò. "Verrò a prenderti molto presto..."
