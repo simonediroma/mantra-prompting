@@ -17,7 +17,7 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 9.3`. Ordine di lavoro in fondo al
 
 ### Decisioni dell'autore (prima di tutto il resto)
 
-- **D1 · testo unico o variante stampa.** La passata descrittiva (P1) va nel testo unico, e allora gli episodi 7-14 si rigenerano, oppure in una variante solo per la stampa, e allora l'audio resta com'è ma ci sono due testi da tenere allineati. Consiglio: testo unico, perché i dettagli fisici servono anche all'ascolto (giudizio A3) e il costo audio è da pagare comunque per gli ep. 14-19.
+- **D1 · variante stampa — deciso (autore, 2026-11-13).** La passata descrittiva va solo sulla carta, tra marcatori `<!--stampa-->…<!--/stampa-->` dentro `chapters/` (testo unico, vedi `ISTRUZIONI-CLAUDE.md → Edizione stampa e edizione audio`). L'audio degli episodi 7-14 non cambia.
 - **D2 · il titolo nel testo (B2.2).** "Mantra prompting" non è mai pronunciato: oggi c'è solo "come un mantra" (cap. 6 e 11). Tenere così, coerente con la regola di non spiegare il meccanismo, oppure dare il nome a un vecchio progetto del fondatore, senza spiegarlo, nel raccoglitore del cap. 11.
 
 ### Blocco A · punteggiatura (si applica in blocco)
@@ -69,8 +69,9 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 9.3`. Ordine di lavoro in fondo al
 **Nota**: "a fissare" in quattro capitoli (1, 2, 4, 9), soglia tre. Il 9 è il più facile.
 **Originale**: "Restò a fissare lo schermo come chi ha appena rifatto un calcolo"
 **Proposta**: "Guardò lo schermo come chi ha appena rifatto un calcolo"
+**Edizione**: solo stampa (`<!--audio-->Restò a fissare<!--/audio--><!--stampa-->Guardò<!--/stampa-->`). Il tic si nota sulla pagina, non all'ascolto: così l'ep. 9 non si rigenera.
 
-### Blocco P · passata descrittiva cap. 7-14 (da scrivere dopo D1)
+### Blocco P · passata descrittiva cap. 7-14 (solo stampa)
 
 Obiettivo del giudizio §7.3: almeno dieci dettagli fisici ogni mille parole nei capitoli di Tom, sei in quelli di Emma; un odore ogni due capitoli. Stato attuale: zero odori dal 7 al 14, zero parole di luce dall'11 al 14. Inserti da una a tre frasi, dentro l'azione, mai blocchi descrittivi.
 
@@ -89,13 +90,13 @@ Obiettivo del giudizio §7.3: almeno dieci dettagli fisici ogni mille parole nei
 
 ### Ordine di lavoro
 
-1. D1 e D2 (autore).
+1. D2 (autore). D1 deciso: variante stampa.
 2. Blocco A in blocco (C-66…C-70).
 3. Blocco B uno alla volta (C-71…C-74).
-4. Blocco P, un capitolo per volta, con approvazione; scrittura in voce secondo `style-guide.md`.
+4. Blocco P, un capitolo per volta, con approvazione; scrittura in voce secondo `style-guide.md`, ogni inserto tra `<!--stampa-->` e `<!--/stampa-->`.
 5. `ghost-writer:revise` sui capitoli toccati e `consistency-check` su tutto il Libro 1.
-6. `export_podcast.py scripts` → `check` → `build` degli episodi toccati: 9, 17, 18, 19 sempre; 7-14 se D1 = testo unico; 14-19 comunque, perché mancano.
-7. `manuscript-final` → `export-pdf` (A5, 250 parole per pagina, circa 125-130 pagine).
+6. `export_podcast.py scripts` → `check` → `build` degli episodi 14-19 (mancano; dentro ci sono già C-66…C-73). Nessun altro episodio da rigenerare.
+7. `export_podcast.py print` → `manuscript-final` sull'edizione in `stampa/` → `export-pdf` (A5, 250 parole per pagina, circa 125-130 pagine più gli inserti).
 
 ## Archive
 

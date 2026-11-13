@@ -63,6 +63,15 @@ La procedura completa è nella skill `.claude/skills/podcast/SKILL.md` (comando 
 - `python3 export_podcast.py check` fallisce se un copione non è allineato al suo capitolo: lanciarlo prima di ogni `build` e prima di assemblare il libro.
 - Gli annunci di chiusura non citano il titolo del capitolo successivo.
 
+## Edizione stampa e edizione audio (aggiunto il 2026-11-13)
+
+Il testo resta uno solo, in `chapters/`. Le differenze tra carta e audio stanno dentro i capitoli, tra marcatori:
+
+- `<!--stampa--> testo<!--/stampa-->`: solo nel libro stampato (passata descrittiva, decisione dell'autore del 2026-11-13).
+- `<!--audio--> testo<!--/audio-->`: solo nell'audio, quando la stampa sostituisce una frase invece di aggiungerla.
+
+Il blocco porta con sé il proprio spazio iniziale, così togliendolo la frase resta pulita. `scripts` e `check` leggono l'edizione audio, quindi un inserto solo-stampa non disallinea nessun copione e non costa rigenerazioni. `python3 export_podcast.py print [NN...]` scrive l'edizione stampa in `stampa/`, da cui si monta il manoscritto.
+
 ## Regole
 
 - Non modificare mai i file in `chapters/` o `manuscript/`.

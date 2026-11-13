@@ -10,6 +10,7 @@ Usage:
   python3 export_podcast.py scripts [NN...]        # rebuild podcast/scripts/ from chapters/ (keeps
                                                    # description/recap/teaser/status of each script)
   python3 export_podcast.py check                  # exit 1 if a script is out of sync with its chapter
+  python3 export_podcast.py print [NN...]          # chapters as the print edition, to stampa/
   python3 export_podcast.py sfx [names...]         # render the sound-effect palette to podcast/sfx/ (+ palette.mp3)
   python3 export_podcast.py cost [scripts...]      # characters build would send to ElevenLabs, net of the cache
   python3 export_podcast.py build [scripts...]     # render episodes (default: all scripts)
@@ -1418,10 +1419,22 @@ def chapter_files(project_dir, names=None):
         chapters = [c for c in chapters if c.stem[:2] in wanted]
     return chapters
 
+VARIANT_RE = {
+    "stampa": re.compile(r"<!--stampa-->(.*?)<!--/stampa-->", re.DOTALL),
+    "audio": re.compile(r"<!--audio-->(.*?)<!--/audio-->", re.DOTALL),
+}
+
+def edition_text(text, edition):
+    """Testo unico, due edizioni. <!--stampa-->…<!--/stampa--> esiste solo sulla carta,
+    <!--audio-->…<!--/audio--> solo nell'audio. Il blocco porta con sé il proprio spazio iniziale."""
+    keep, drop = ("audio", "stampa") if edition == "audio" else ("stampa", "audio")
+    text = VARIANT_RE[drop].sub("", text)
+    return VARIANT_RE[keep].sub(lambda m: m.group(1), text)
+
 def render_script(project_dir, chapter, existing_meta=None):
     config = load_config(project_dir)
     meta, text = split_frontmatter(chapter.read_text(encoding="utf-8"))
-    body = text.split("\n## Demolition Log")[0]
+    body = edition_text(text.split("\n## Demolition Log")[0], "audio")
     n = int(chapter.stem[:2])
     old = existing_meta or {}
     book = config.get("title", "").replace(": ", ". ").rstrip(".") + "."
@@ -1464,6 +1477,16 @@ def scripts(project_dir, names):
         words = len(split_frontmatter(new)[1].split())
         print(f"{'✏️ ' if changed else '✅'} {target.name}  {words} parole  ({'rigenerato' if changed else 'già allineato'})")
 
+def print_edition(project_dir, names):
+    out_dir = Path(project_dir) / "stampa"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for chapter in chapter_files(project_dir, names):
+        meta, text = split_frontmatter(chapter.read_text(encoding="utf-8"))
+        body = edition_text(text.split("\n## Demolition Log")[0], "stampa").strip()
+        title = meta.get("title", chapter.stem[3:])
+        (out_dir / chapter.name).write_text(f"# {int(chapter.stem[:2])}. {title}\n\n{body}\n", encoding="utf-8")
+        print(f"🖨️  {chapter.name}  {len(body.split())} parole")
+
 def check(project_dir):
     scripts_dir = Path(project_dir) / "podcast" / "scripts"
     drift = 0
@@ -1502,6 +1525,8 @@ if __name__ == "__main__":
         cost(".", rest)
     elif cmd == "check":
         check(".")
+    elif cmd == "print":
+        print_edition(".", rest)
     elif cmd == "build":
         build(".", rest)
     elif cmd == "feed":
