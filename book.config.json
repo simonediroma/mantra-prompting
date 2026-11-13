@@ -141,7 +141,10 @@
     "category": "Fiction",
     "subcategory": "Science Fiction",
     "explicit": false,
-    "type": "serial"
+    "type": "serial",
+    "pronunciations": {
+      "ribere": "ribére"
+    }
   },
   "style_guide": "style-guide.md"
 }
