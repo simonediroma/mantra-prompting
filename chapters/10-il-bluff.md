@@ -1,7 +1,7 @@
 ---
 title: Il bluff
 version: 5.1
-claim: Emma riceve, nella casella che gestisce fin dai tempi di Elab, la prima mail reale in anni: riconosce subito l'impossibilità tecnica del bluff di Tom e per la prima volta teme che un estraneo arrivi al lavoro che tiene nascosto. La paura le produce un cambiamento istantaneo e involontario nel registro con cui pensa di rispondere, dal caldo al professionale, mentre si chiede perché lui le abbia scritto e decide cosa fargli sapere di sapere.
+claim: "Emma riceve, nella casella che gestisce fin dai tempi di Elab, la prima mail reale in anni: riconosce subito l'impossibilità tecnica del bluff di Tom e per la prima volta teme che un estraneo arrivi al lavoro che tiene nascosto. La paura le produce un cambiamento istantaneo e involontario nel registro con cui pensa di rispondere, dal caldo al professionale, mentre si chiede perché lui le abbia scritto e decide cosa fargli sapere di sapere."
 status: complete
 revised: 2026-11-07
 ---

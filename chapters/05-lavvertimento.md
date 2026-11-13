@@ -2,7 +2,7 @@
 title: L'avvertimento
 version: 3.6
 revised: 2026-11-01
-claim: Il video mostra a Tom una prova diretta e inequivocabile che il fenomeno non è ostile ma protettivo, un salto qualitativo enorme rispetto al semplice sospetto di coscienza, ma la conferma arriva troppo tardi: la signora Voss non risponde più.
+claim: "Il video mostra a Tom una prova diretta e inequivocabile che il fenomeno non è ostile ma protettivo, un salto qualitativo enorme rispetto al semplice sospetto di coscienza, ma la conferma arriva troppo tardi: la signora Voss non risponde più."
 status: complete
 ---
 

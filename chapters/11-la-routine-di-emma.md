@@ -1,7 +1,7 @@
 ---
 title: La routine di Emma
 version: 4.4
-claim: Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore, raccontata dal narratore: lo stesso indovinello di ogni visita, ripetuto da anni come un mantra con parole sempre nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei non funzioni. Non gli dice della mail di Tom, su una casella che lui ha dimenticato; poi lo guarda stampare, come sempre, e archiviare il foglio.
+claim: "Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore, raccontata dal narratore: lo stesso indovinello di ogni visita, ripetuto da anni come un mantra con parole sempre nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei non funzioni. Non gli dice della mail di Tom, su una casella che lui ha dimenticato; poi lo guarda stampare, come sempre, e archiviare il foglio."
 status: complete
 revised: 2026-11-01
 ---

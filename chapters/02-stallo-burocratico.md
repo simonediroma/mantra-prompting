@@ -2,7 +2,7 @@
 title: Stallo burocratico
 version: 3.5
 revised: 2026-11-01
-claim: Tom scopre il prezzo istituzionale della propria curiosità, una sanzione minima ma precisa: impara non a smettere di indagare, ma a farlo con più cautela, proprio mentre perde l'accesso diretto al televisore anomalo.
+claim: "Tom scopre il prezzo istituzionale della propria curiosità, una sanzione minima ma precisa: impara non a smettere di indagare, ma a farlo con più cautela, proprio mentre perde l'accesso diretto al televisore anomalo."
 status: complete
 ---
 
