@@ -215,6 +215,7 @@ Ogni scena, nelle prime righe, ha quattro cose: dove sta il corpo, che ora è e 
 - La sua frase è più breve di quella di Tom, ma non scattosa. **Modulato dal cap. 16**: la vecchia indicazione del giudizio editoriale ("Emma pensa per frasi brevi", B1.4) non autorizza periodi spezzati. I suoi ragionamenti si legano con perché, ma, finché, come tutti gli altri.
 - Il lessico ambiguo è ammesso e voluto ("elaborò", "registrarne", "le costò"), sempre leggibile in chiave umana.
 - Vietato il linguaggio di progettazione o attivazione ("da quando aveva iniziato a esistere").
+- **Trascendente (autore, 2026-11-13)**: niente riferimenti al suo corpo (mani sul tavolo, gesti). Se qualcosa reagisce fisicamente, è l'avatar. L'ansia si definisce per quello che significa, non con immagini spaziali (autore, cap. 19).
 
 **Pete.** Patetico e grottesco, comico nella sua fame. Paragoni bassi, mai grandiosi.
 
