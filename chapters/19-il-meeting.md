@@ -1,6 +1,6 @@
 ---
 title: Il meeting
-version: 3.3
+version: 3.4
 revised: 2026-11-13
 claim: "Il primo incontro tra Tom ed Emma si gioca su due canali. A voce, per la trascrizione di Pete, una consulenza tecnica impeccabile sui log che si interrompono con `compacting context`; sui cartelli, scritti coperti dalla schiena e mostrati mentre un LED abbaglia la telecamera della sorveglianza, la verità di Tom (il Morse, il video, il televisore che ha provato a salvare la signora, un altro televisore di cui non sa cosa guardasse). Emma, che si è presentata dietro una maschera, trova davanti a sé l'unico uomo di Meridian con la faccia scoperta. Pete, dietro la telecamera con i suoi sette scatti, muove l'inquadratura per vedere cosa scrive Tom e si acceca da solo; alle quattro ha una trascrizione inutile e un solo appiglio, un foglio girato a faccia in giù, e dichiara la caccia. Chiude il Libro 1."
 status: draft
@@ -80,7 +80,7 @@ Lo disse prima di pensarci e si stupì di sentirsi nominare un posto in cui, in 
 
 «Chiudo il verbale» disse Tom. Poi chiuse la call.
 
-La finestra di Tom si spense. Emma aveva detto «mi va» come aveva scritto "oggi", sapendo che, se fosse servito, una scusa per declinare l'avrebbe trovata. Restò nella finestra vuota della call, nella sua stanza, mentre nel corridoio, fuori, non passava nessuno. Ripensò all'ultimo cartello più che agli altri, perché gli altri le avevano detto cosa era successo, mentre l'ultimo le diceva che stava ancora succedendo. Poi spense la modalità presenza. Le istruzioni del pacchetto dicevano che a quel punto l'anteprima sarebbe tornata alla telecamera, per mostrare a ciascuno la faccia che aveva davvero. Per un attimo, prima che si chiudesse anche la finestra, nell'anteprima restò soltanto lo sfondo, la parete chiara e il logo di Meridian, senza nessuno davanti.
+La finestra di Tom si spense. Emma aveva detto «mi va» come aveva scritto "oggi", sapendo che, se fosse servito, una scusa per declinare l'avrebbe trovata. Restò nella finestra vuota della call, nella sua stanza, mentre nel corridoio, fuori, non passava nessuno. Ripensò all'ultimo cartello più che agli altri, non per quello che diceva, perché che ci fosse un altro televisore lo sapeva lei meglio di Tom, insieme a quanti altri ce ne fossero, ma per il fatto che qualcuno l'avesse scritto. Gli apparecchi con quel guasto stavano diventando troppi, glielo ricordava ogni mese la colonna del suo archivio, ed era sempre stato chiaro che prima o poi sarebbe diventato palese a qualcun altro, senza che avesse mai immaginato che quel qualcuno sarebbe stato un tecnico dell'assistenza con un pennarello. Poi spense la modalità presenza. Le istruzioni del pacchetto dicevano che a quel punto l'anteprima sarebbe tornata alla telecamera, per mostrare a ciascuno la faccia che aveva davvero. Per un attimo, prima che si chiudesse anche la finestra, nell'anteprima restò soltanto lo sfondo, la parete chiara e il logo di Meridian, senza nessuno davanti.
 
 Alle quattro in punto la trascrizione arrivò nella casella di Pete, come promesso dal pannello. Pete la lesse con il primo onion ring in bocca. Revisione post-intervento, televisore, log di sistema, compacting context, finestra di contesto, timestamp, intervalli di scrittura, documentazione da inviare. La lesse due volte, perché la prima volta aveva aspettato che a un certo punto cominciasse, mentre la seconda per essere sicuro che fosse tutto lì. Era una consulenza tecnica su un apparecchio riparato, chiesta a un laboratorio di ricerca da un tecnico dell'assistenza, il che nella Tabella di Conversione non aveva nessuna riga, nemmeno quella del cognome. Zero minuti. Tom aveva fatto un meeting di nove minuti dentro il turno, con una trascrizione pulita come la camicia di Pete, e non c'era un solo punto in cui infilare un dito.
 
@@ -110,6 +110,8 @@ Si appoggiò allo schienale, che cedette fin dove lo lasciava il pannello diviso
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Il quinto cartello dice "NON SO DI CHI FOSSE", ma il caso zero è la prima voce del quaderno con i dati del cliente (cap. 3): Tom sa di chi era il primo televisore, non cosa guardava | contradiction / continuity | integrated (v3.3) | Cartello dell'autore: "C'È UN ALTRO TELEVISORE, MA NON SO COSA GUARDASSE PRIMA DI SMETTERE DI LOGGARE"; reazione di Emma allineata ("di quel qualcosa Tom non aveva trovato traccia") |
+
+| La coda di Emma ("l'ultimo le diceva che stava ancora succedendo") è sbagliata: Emma sa benissimo che sta succedendo (autore) | character / contradiction | integrated (v3.4) | Il cartello pesa perché qualcuno l'ha scritto: gli apparecchi con quel guasto stanno diventando troppi (colonna dell'archivio, cap. 11), era chiaro che prima o poi sarebbe diventato palese a qualcun altro, mai immaginato un tecnico con un pennarello |
 
 ### Revise — 2026-11-13 (v3.2)
 
