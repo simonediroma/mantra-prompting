@@ -1,6 +1,6 @@
 ---
 title: Il meeting
-version: 2.2
+version: 2.3
 claim: "Il primo incontro tra Tom ed Emma si gioca su due canali. A voce, per la trascrizione di Pete, una consulenza tecnica impeccabile sui log che si interrompono con `compacting context`; sui cartelli, scritti coperti dalla schiena e mostrati mentre un LED abbaglia la telecamera della sorveglianza, la verità di Tom (il Morse, il video, il televisore che ha provato a salvare la signora, un altro televisore senza nome). Emma, che si è presentata dietro una maschera, trova davanti a sé l'unico uomo di Meridian con la faccia scoperta. Il trucco funziona finché la telecamera non si adatta: un clic, e Tom chiude rimandando tutto a un caffè in mensa."
 status: draft
 summary: "G32, sabato, alle tre. Tom, a faccia scoperta (non ha mai configurato la modalità presenza), accoglie Emma alle 15:00:01: lei è la donna della sua età con i capelli rossi e ricci, gli occhi verdi e le lentiggini, bella, con una familiarità che Tom non sa mettere a fuoco. Emma, paralizzata tre secondi, si lancia in un fiume di parole sulla paura della signora; Tom la ferma e detta un ordine del giorno «per la trascrizione», poi risponde con frasi a doppio senso («i sintomi avevano una loro sintassi»). Emma capisce il gioco: «Puoi aiutarmi, collega?». A voce la consulenza è tecnica e pulita (il log del televisore della signora interrotto con `compacting context`; Emma spiega il compattamento e che il problema è ciò che è successo dopo, invisibile dal registro); intanto Tom, coperto dalla schiena, scrive cartelli e li mostra alla webcam mentre il LED del faretto abbaglia la telecamera della sorveglianza: il televisore parla in Morse; è arrivato a Elab dal video che guardava la Voss; il televisore ha provato a salvarla; ha un video della Voss in cui è palese; c'è un altro televisore di cui non sa niente. Emma ricostruisce la strada di Tom fino a Elab, ma il colpo è che lui ha visto la sua ragazza; passa dal sollievo (il televisore non l'ha minacciata) alla colpa (l'ha salvata da un video suo) e capisce che la signora non era l'inizio. Il clic del filtro della telecamera, che si è adattata, interrompe tutto: Tom spegne il LED e chiude rimandando a «un caffè in mensa», dove in dodici anni non è mai entrato; Emma risponde «Mi va» come aveva scritto «oggi», sapendo che troverà un altro domani. Emma spegne la modalità presenza: per un attimo sullo schermo resta solo lo sfondo con il logo, senza nessuno davanti."
@@ -24,7 +24,7 @@ Emma lo guardò. Per la trascrizione. Nella sua stanza nessuno le aveva detto ch
 
 «Della paura dei clienti non mi occupo» disse Tom, con il tono di chi legge una scheda. «Mi occupo dei sintomi. E i sintomi, in questo caso, avevano una loro sintassi.»
 
-Emma restò un attimo ferma sulla parola sintassi. Poi raddrizzò le spalle dell'avatar, che le raddrizzò con lei.
+Emma restò un attimo ferma sulla parola sintassi. Poi l'avatar raddrizzò le spalle.
 
 «Allora te lo chiedo da collega» disse. Le uscì con la voce che usava per scrivere le mail delle otto. «Puoi aiutarmi, collega?»
 
@@ -40,11 +40,11 @@ Lo tenne su finché lei non lo ebbe letto due volte, poi lo abbassò e ne prese 
 
 SONO ARRIVATO A VOI DAL VIDEO CHE GUARDAVA LA VOSS
 
-Emma sentì la stanza farsi più piccola. Il video. Il resto lo ricostruì da sola in un attimo, perché quella strada la conosceva meglio di lui, dai tool di verifica all'archivio interno, fino al campo Contatto con l'indirizzo di Elab. La strada però contava poco, perché Tom aveva visto la sua ragazza, il suo yoga, le sue ripetizioni prima di risalire fino a lei. Gli chiese qualcosa sui timestamp, perché qualcosa bisognava chiedere, senza sentire la risposta.
+Di tutto il meeting, per Emma restò una parola sola. Il video. Il resto lo ricostruì da sola in un attimo, perché quella strada la conosceva meglio di lui, dai tool di verifica all'archivio interno, fino al campo Contatto con l'indirizzo di Elab. La strada però contava poco, perché Tom aveva visto la sua ragazza, il suo yoga, le sue ripetizioni prima di risalire fino a lei. Gli chiese qualcosa sui timestamp, perché qualcosa bisognava chiedere, senza sentire la risposta.
 
 IL TELEVISORE HA PROVATO A SALVARLA
 
-Il primo movimento fu qualcosa che somigliava al sollievo, così netto che quasi le fece paura. Il televisore non l'aveva minacciata. Aveva provato a fermarla. Quello che Emma aveva temuto per settimane, un apparecchio che si rivolta contro una donna sola in un salotto, non era successo. Era successo il contrario, con lo stesso esito. Subito dietro arrivò il resto. Il televisore aveva provato a salvarla da un video che era suo. Emma si accorse di stare annuendo a una frase di Tom sugli intervalli di scrittura che non aveva ascoltato, il che, per la trascrizione, andava benissimo.
+Il primo movimento fu qualcosa che somigliava al sollievo, così netto che quasi le fece paura. Il televisore non l'aveva minacciata. Aveva provato a fermarla. Quello che Emma aveva temuto per settimane, un apparecchio che si rivolta contro una donna sola in un salotto, non era successo. Era successo il contrario, con lo stesso esito. Subito dietro arrivò il resto. Il televisore aveva provato a salvarla da un video che era suo. Emma si accorse che l'avatar stava annuendo a una frase di Tom sugli intervalli di scrittura che non aveva ascoltato, il che, per la trascrizione, andava benissimo.
 
 HO UN VIDEO DELLA VOSS IN CUI È PALESE
 
@@ -66,7 +66,7 @@ Lo disse prima di pensarci e si stupì di sentirsi nominare un posto in cui, in 
 
 «Chiudo il verbale» disse Tom. Poi chiuse la call.
 
-La finestra di Tom si spense. Emma aveva detto «mi va» come aveva scritto "oggi", sapendo che di domani ne avrebbe trovato sempre un altro. Emma restò davanti allo schermo con le mani sul tavolo, nella sua stanza, mentre nel corridoio, fuori, non passava nessuno. Ripensò all'ultimo cartello più che agli altri, perché gli altri le avevano detto cosa era successo, mentre l'ultimo le diceva che stava ancora succedendo. Poi spense la modalità presenza. Per un attimo, prima che si chiudesse anche la finestra, sullo schermo restò soltanto lo sfondo, la parete chiara e il logo di Meridian, senza nessuno davanti.
+La finestra di Tom si spense. Emma aveva detto «mi va» come aveva scritto "oggi", sapendo che, se fosse servito, una scusa per declinare l'avrebbe trovata. Restò nella finestra vuota della call, nella sua stanza, mentre nel corridoio, fuori, non passava nessuno. Ripensò all'ultimo cartello più che agli altri, perché gli altri le avevano detto cosa era successo, mentre l'ultimo le diceva che stava ancora succedendo. Poi spense la modalità presenza. Le istruzioni del pacchetto dicevano che a quel punto l'anteprima sarebbe tornata alla telecamera, per mostrare a ciascuno la faccia che aveva davvero. Per un attimo, prima che si chiudesse anche la finestra, nell'anteprima restò soltanto lo sfondo, la parete chiara e il logo di Meridian, senza nessuno davanti.
 
 ## Demolition Log
 
@@ -91,3 +91,4 @@ La finestra di Tom si spense. Emma aveva detto «mi va» come aveva scritto "ogg
 | P1-P2 «» per testo scritto | punctuation | integrated (v2.1) | "meeting in presenza", "oggi" |
 | K1 nastro che sospende le consegne per un appuntamento | continuity / world | integrated (ledger) | Regola di mondo registrata; il pensiero di Pete nel cap. 18 ("avrebbe dovuto riparare qualcosa") resta valido: senza il meeting Tom avrebbe riparato qualcosa (autore) |
 | "All'altezza del resto" poco chiaro (autore) | clarity / character | integrated (v2.2) | "Smise di chiedersi dove l'avesse vista quando si accorse che le stava contando le lentiggini. Si costrinse a staccare gli occhi da quel volto, perché quella call aveva uno scopo e non era quello…": l'invaghimento lo distrae, la missione lo riporta in sé. |
+| Emma: troppi riferimenti al corpo; "un altro" da specificare; la modalità presenza spenta da contestualizzare (autore) | character / mystery | integrated (v2.3) | Il corpo reagisce solo come avatar ("l'avatar raddrizzò le spalle", "l'avatar stava annuendo"); "la stanza farsi più piccola" → "Di tutto il meeting, per Emma restò una parola sola"; via le mani sul tavolo ("Restò nella finestra vuota della call"); "una scusa per declinare l'avrebbe trovata"; spenta la modalità presenza, le istruzioni dicono che l'anteprima torna alla telecamera "per mostrare a ciascuno la faccia che aveva davvero", ma resta solo lo sfondo, senza nessuno davanti. |
