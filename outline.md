@@ -290,7 +290,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 **Collegamento al successivo**: apre il Libro 2 (la caccia), ancora da scrivere: vedi Note strutturali.
 **Scrittura (2026-11-13, v3.0, scena di Pete)**: regola dei sette scatti a comando con anteprima a francobollo (parere legale: sette foto non sono un video); primo scatto bruciato al promemoria; secondo scatto con il pennarello, frecce della telecamera, *zzz* del motore, Tom accende il LED come conferma; quattro scatti bianchi a raffica; settimo scatto dopo il clic; alle quattro trascrizione a zero minuti, settimo scatto ingrandito, caccia dal foglio girato, «Inizia la caccia» pensato.
 **Scrittura (2026-11-12)**: Tom a faccia scoperta (non ha mai configurato la modalità presenza); il nastro sospende le consegne per un appuntamento in calendario; cartelli scritti in diretta coperti dalla schiena; cinque cartelli, l'ultimo «C'È UN ALTRO TELEVISORE, MA NON SO COSA GUARDASSE PRIMA DI SMETTERE DI LOGGARE» (gancio Libro 2, C-23; corretto il 2026-11-13: il proprietario Tom lo ha nel quaderno); chiusa con lo sfondo vuoto.
-**Stato**: `draft` (v3.0, scena di Pete scritta, da demolire)
+**Stato**: `complete` (v3.5, chiuso dall'autore il 2026-11-13; chiude il Libro 1)
 **File**: `chapters/19-il-meeting.md`
 
 ---
