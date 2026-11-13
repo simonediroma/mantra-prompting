@@ -53,3 +53,4 @@ rilettura dell'autore (v3.2)
 - 2026-11-13: revise v3.2, 12 correzioni applicate in blocco (A) + "quadratone" → "sagoma" (autore). In attesa della rilettura dell'autore.
 - 2026-11-13: rilettura dell'autore, v3.3: quinto cartello corretto (Tom sa di chi era il primo televisore dal quaderno, non cosa guardava): «C'È UN ALTRO TELEVISORE, MA NON SO COSA GUARDASSE PRIMA DI SMETTERE DI LOGGARE». Allineati outline, Open Promises, ledger, reazione di Emma.
 - 2026-11-13: v3.4, coda di Emma riscritta (autore): non "stava ancora succedendo" (lo sa), ma il fatto che qualcun altro ci sia arrivato; troppi apparecchi con quel guasto, palese e inevitabile.
+- 2026-11-13: v3.5, coda di Emma: due paure (vista; la colonna contata da altri), il giorno rimandato ogni mese arriva con un pennarello.
