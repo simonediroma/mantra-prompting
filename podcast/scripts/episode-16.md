@@ -45,7 +45,7 @@ Le regole di Meridian, compresa quella sull'orario, Emma le aveva sempre applica
 
 Quella sera, però, non era attenta come al solito. Aveva ricevuto più di un ping dagli astanti e a tutti aveva dato seguito con gentilezza, salvo poi quittare alla seconda iterazione, perché non riusciva a togliersi Tom dalla testa. Le aveva scritto tutto tranne che la cliente era morta e da sei giorni non le rispondeva. Se sapeva qualcosa, non glielo diceva, oppure aveva paura di dirglielo.
 
-«Ciao, stranger» disse il cameriere a qualcuno che le era comparso accanto. «Ciao, sono Tommy» disse quello, che con ogni probabilità non si chiamava Tommy. Poi si girò verso Emma e le disse: «Lo sai che la sarda salata fa bere e ribere? Il bere e ribere estingue la sete. Quindi la sarda salata estingue la sete.»
+«Ciao, stranger» disse il cameriere a qualcuno che le era comparso accanto. «Ciao, sono Tommy» disse quello, che con ogni probabilità non si chiamava Tommy. Poi si girò verso Emma e le disse: «Lo sai che la sarda salata fa bere e ribére? Il bere e ribére estingue la sete. Quindi la sarda salata estingue la sete.»
 
 La risposta ce l'aveva prima che finisse la seconda frase, ma non la diede. Da una settimana beveva e ribeveva la stessa mail di sette righe, con più sete a ogni giro, aspettando che a toglierle la sete fosse proprio ciò che la stava provocando. Il sofisma di Tommy le aveva dato la chiave per leggere il suo momento di impasse.
 
