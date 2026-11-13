@@ -47,7 +47,7 @@ In televisione c'era *Ciao Darwin*, che quella sera metteva i "fighi" contro gli
 
 *Ciao Darwin* però era solo un modo di passare il tempo. Aspettava le undici e cinquantanove. Ogni sera, un minuto prima della fine del giorno, Meridian mandava a tutti i supervisori il riepilogo di mezzanotte, l'elenco delle infrazioni e delle segnalazioni della giornata nella loro divisione, perché nessun supervisore dovesse andare a dormire con il dubbio che qualcuno avesse sgarrato senza che lui lo sapesse. Gli altri supervisori lo leggevano la mattina dopo, con il caffè, o non lo leggevano affatto. Pete lo leggeva alle undici e cinquantanove in punto, come altri leggono l'oroscopo, con la stessa speranza e più o meno la stessa base scientifica.
 
-Il telefono vibrò sul bracciolo, *brrr*. Pete lo prese con due dita unte. Di solito il riepilogo era una delusione. Un tecnico rientrato dalla pausa con sei minuti di ritardo, un altro che in una nota aveva scritto il cognome di un cliente, cosa che il codice di condotta vietava e che valeva meno di una smutandata. Quella sera, sotto le solite righe, ce n'era una nuova.
+Il telefono vibrò sul bracciolo, *brrr*. Pete lo prese con due dita unte. Di solito il riepilogo era una delusione. Un tecnico arrivato al turno con sei minuti di ritardo, un altro che in una nota aveva scritto il cognome di un cliente, cosa che il codice di condotta vietava e che valeva meno di una smutandata. Quella sera, sotto le solite righe, ce n'era una nuova.
 
 Riepilogo giornaliero. Divisione Assistenza Tecnica.
 Segnalazione: mail fuori orario ricevuta.

@@ -17,7 +17,7 @@ Nell'episodio precedente, Tom ha chiamato la proprietaria del secondo televisore
 
 Arrivò con due minuti di ritardo e passò il badge al varco con il fiato ancora corto. Non gli era mai successo, almeno non in dodici anni di servizio. Il sistema di accesso registrò l'orario senza alcun commento, perché sotto i cinque minuti non scattava nessuna comunicazione diretta del ritardo al proprio supervisore. Sotto quella soglia, un ritardo restava un fatto privato anche in Meridian. Ma per Tom, che si era sempre vantato con se stesso di una puntualità totale, quei due minuti pesavano più di quanto qualunque supervisore avrebbe mai potuto farli pesare.
 
-Non aprì il video al lavoro. Sapeva già, per esperienza diretta, cosa costava farsi sorprendere a guardare un video personale sul cellulare durante un turno. Il video doveva aspettare la sera.
+Non aprì il video al lavoro. Dopo i quarantasette minuti non aveva nessuna voglia di scoprire cosa costasse farsi sorprendere a guardare un video personale sul cellulare durante un turno. Il video doveva aspettare la sera.
 
 Le domande, quelle, no. Lo accompagnarono per tutto il giorno come un ronzio di fondo, sotto ogni test. Passò il turno con la testa altrove. Rimontava un motore di aspirapolvere e pensava a quella frase, quella che la signora Voss gli aveva detto ridendo: *si comportava come se ce l'avesse con me.* Ridendo, l'aveva detto. Ma più Tom ci pensava, meno gli sembrava una cosa da ridere. Se il dispositivo era davvero consapevole, come ormai credeva, restava aperta una domanda che fino a quel momento non si era mai posto con questa urgenza. Consapevole non voleva dire benevolo. Poteva voler dire il contrario.
 
