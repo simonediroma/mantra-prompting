@@ -7,75 +7,123 @@
     "seconds": 1015
   },
   "episode-02": {
-    "length": 6825976,
+    "length": 6823155,
+    "md5": "ede65c0712ce",
     "pub": 1792742195,
+    "rev": 1,
     "seconds": 568
   },
   "episode-03": {
-    "length": 6288374,
+    "length": 7079885,
+    "md5": "de0734ef8951",
     "pub": 1792745795,
-    "seconds": 523
+    "rev": 1,
+    "seconds": 589
   },
   "episode-04": {
-    "length": 6590880,
+    "length": 6709372,
+    "md5": "e8508c80067e",
     "pub": 1792749395,
-    "seconds": 549
+    "rev": 1,
+    "seconds": 559
   },
   "episode-05": {
-    "length": 5484323,
-    "md5": "dd8868a1b473",
+    "length": 6136340,
+    "md5": "2386abb42b4a",
     "pub": 1792752995,
-    "rev": 1,
-    "seconds": 456
+    "rev": 2,
+    "seconds": 511
   },
   "episode-06": {
-    "length": 5999046,
+    "length": 6168633,
+    "md5": "516c886bd49a",
     "pub": 1792756595,
-    "seconds": 499
+    "rev": 1,
+    "seconds": 514
   },
   "episode-07": {
-    "length": 6388692,
-    "md5": "fbf09f166eba",
+    "length": 6274275,
+    "md5": "74c00c34f63f",
     "pub": 1792760195,
-    "rev": 1,
-    "seconds": 532
-  },
-  "episode-08": {
-    "length": 3181576,
-    "md5": "2f56bbbcafbf",
-    "pub": 1792763795,
-    "rev": 1,
-    "seconds": 265
-  },
-  "episode-09": {
-    "length": 5982428,
-    "pub": 1792767395,
-    "seconds": 498
-  },
-  "episode-10": {
-    "length": 5815030,
-    "md5": "c87ed9f1542d",
-    "pub": 1792770995,
-    "rev": 1,
-    "seconds": 484
-  },
-  "episode-11": {
-    "length": 5064907,
-    "pub": 1792774595,
-    "seconds": 422
-  },
-  "episode-12": {
-    "length": 6272076,
-    "md5": "16f06cab0984",
-    "pub": 1792778195,
     "rev": 2,
     "seconds": 522
   },
-  "episode-13": {
-    "length": 6771432,
-    "md5": "b3ccb6cf2c5e",
-    "pub": 1793023522,
+  "episode-08": {
+    "length": 3357433,
+    "md5": "7b1db71dded5",
+    "pub": 1792763795,
+    "rev": 2,
+    "seconds": 279
+  },
+  "episode-09": {
+    "length": 5054559,
+    "md5": "edd5d7994013",
+    "pub": 1792767395,
     "rev": 1,
-    "seconds": 564
+    "seconds": 421
+  },
+  "episode-10": {
+    "length": 5371471,
+    "md5": "bc4dde70b2b2",
+    "pub": 1792770995,
+    "rev": 2,
+    "seconds": 447
+  },
+  "episode-11": {
+    "length": 6088072,
+    "md5": "a2702d254afb",
+    "pub": 1792774595,
+    "rev": 1,
+    "seconds": 507
+  },
+  "episode-12": {
+    "length": 5852341,
+    "md5": "874449d8eb1c",
+    "pub": 1792778195,
+    "rev": 3,
+    "seconds": 487
+  },
+  "episode-13": {
+    "length": 8244738,
+    "md5": "9e512c6e3a77",
+    "pub": 1793023522,
+    "rev": 2,
+    "seconds": 687
+  },
+  "episode-14": {
+    "length": 10250004,
+    "md5": "29fcb08c8e15",
+    "pub": 1794591706,
+    "seconds": 854
+  },
+  "episode-15": {
+    "length": 8893616,
+    "md5": "9ac181827906",
+    "pub": 1794595306,
+    "seconds": 741
+  },
+  "episode-16": {
+    "length": 8796763,
+    "md5": "d57e41cbff63",
+    "pub": 1794598906,
+    "seconds": 733
+  },
+  "episode-17": {
+    "length": 9100189,
+    "md5": "ab9acbede268",
+    "pub": 1794602506,
+    "seconds": 758
+  },
+  "episode-18": {
+    "length": 12266558,
+    "md5": "1d68b53eff1c",
+    "pub": 1794606106,
+    "seconds": 1022
+  },
+  "episode-19": {
+    "length": 15262059,
+    "md5": "a4ba66bc29c5",
+    "pub": 1794609706,
+    "seconds": 1271
   }
 }
