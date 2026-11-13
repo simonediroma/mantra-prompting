@@ -1,6 +1,6 @@
 ---
 title: Il meeting
-version: 3.11
+version: 3.12
 revised: 2026-11-13
 claim: "Il primo incontro tra Tom ed Emma si gioca su due canali. A voce, per la trascrizione di Pete, una consulenza tecnica impeccabile sui log che si interrompono con `compacting context`; sui cartelli, scritti coperti dalla schiena e mostrati mentre un LED abbaglia la telecamera della sorveglianza, la verità di Tom (il Morse, il video, il televisore che ha provato a salvare la signora, un altro televisore di cui non sa cosa guardasse). Emma, che si è presentata dietro una maschera, trova davanti a sé l'unico uomo di Meridian con la faccia scoperta. Pete, dietro la telecamera con i suoi sette scatti, muove l'inquadratura per vedere cosa scrive Tom e si acceca da solo; alle quattro ha una trascrizione inutile e un solo appiglio, un pennarello rotolato, e dichiara la caccia. Chiude il Libro 1."
 status: complete
@@ -16,7 +16,7 @@ Alle tre meno uno il telefono di lavoro di Pete vibrò sulla scrivania, perché 
 
 L'anteprima era grande come un francobollo, fatta di quadratini, senza audio, come il riquadro PIP dei televisori di inizio duemila, in cui si poteva seguire la partita in un angolo dello schermo a patto di non voler riconoscere i giocatori. Non si poteva né salvare né ingrandire. Gli scatti invece erano nitidi, a grandezza piena, a comando, ma erano sette. Fotografare i dipendenti durante un meeting era una violazione della loro privacy, cosa che l'ufficio legale di Meridian aveva scritto nero su bianco nello stesso parere con cui l'aveva autorizzata, con una distinzione che a Pete era sempre sembrata ragionevole. La privacy riguardava le facce. In un flusso in cui non si distingue una faccia da un barattolo di viti non c'era niente da violare. Sette fotografie nitide erano il massimo che un dipendente potesse sopportare senza fare causa, otto, a quanto pareva, no. Nessuno aveva mai spiegato quel numero e nessun supervisore l'aveva mai chiesto. Nel francobollo si vedeva, dall'alto e di spalle, una sagoma lunga piegata su uno sgabello, con davanti un rettangolo chiaro che doveva essere lo schermo. Pete premette il tasto dello scatto, perché il promemoria aveva suonato e lui faceva sempre quello che gli diceva il telefono, poi guardò il contatore scendere a sei e capì di aver fotografato un uomo che aspettava.
 
-Alle tre e un secondo Emma entrò nella call. Aveva aspettato quel secondo con la stessa disciplina con cui aspettava le otto, ma questa volta la disciplina serviva soprattutto a non entrare un secondo prima, quando avrebbe ancora potuto cambiare idea. Sulla finestra comparve un uomo vero, con la faccia vera, stanca il giusto, gli occhiali da lettura spinti sulla fronte e una felpa grigia. Nessun avatar, nessuno sfondo. Dietro di lui si vedevano un banco d'acciaio e una fila di barattoli di viti. In tutte le immagini di Meridian che Emma aveva visto negli ultimi anni nessuno si era mai fatto vedere così, con la faccia che aveva. Le venne la paura di essere l'unica dei due ad avere qualcosa da nascondere, che era anche la paura per cui aveva rimandato tutta la mattina.
+Alle tre e un secondo Emma entrò nella call. Aveva aspettato quel secondo con la stessa disciplina con cui aspettava le otto, ma questa volta la disciplina serviva soprattutto a non entrare un secondo prima, quando avrebbe ancora potuto cambiare idea. Sulla finestra comparve un uomo vero, con la faccia vera, stanca il giusto, gli occhiali da lettura spinti sulla fronte e una felpa grigia. Nessun avatar, nessuno sfondo. Dietro di lui si vedevano gli scaffali dei ricambi, con una fila di barattoli di viti. In tutte le immagini di Meridian che Emma aveva visto negli ultimi anni nessuno si era mai fatto vedere così, con la faccia che aveva. Le venne la paura di essere l'unica dei due ad avere qualcosa da nascondere, che era anche la paura per cui aveva rimandato tutta la mattina.
 
 «Ciao Emma, come stai?» disse Tom.
 
@@ -56,7 +56,7 @@ Per la prima volta in quel meeting Emma smise di ascoltare quello che Tom stava 
 
 IL TELEVISORE HA PROVATO A SALVARLA
 
-Il primo movimento fu qualcosa che somigliava al sollievo, così netto che quasi le fece paura. Il televisore non l'aveva minacciata. Aveva provato a fermarla. Quello che Emma aveva temuto per settimane, un apparecchio che si rivolta contro una donna sola in un salotto, non era successo. Era successo il contrario, con lo stesso esito. Subito dietro arrivò il resto. Il televisore aveva provato a salvarla da un video che era suo. Emma si accorse che l'avatar stava annuendo a una frase di Tom sugli intervalli di scrittura che non aveva ascoltato, il che, per la trascrizione, andava benissimo.
+Il primo movimento fu qualcosa che somigliava al sollievo, così netto che quasi le fece paura. Il televisore non l'aveva minacciata. Aveva provato a fermarla. Quello che Emma temeva da più di una settimana, un apparecchio che si rivolta contro una donna sola in un salotto, non era successo. Era successo il contrario, con lo stesso esito. Subito dietro arrivò il resto. Il televisore aveva provato a salvarla da un video che era suo. Emma si accorse che l'avatar stava annuendo a una frase di Tom sugli intervalli di scrittura che non aveva ascoltato, il che, per la trascrizione, andava benissimo.
 
 HO UN VIDEO DELLA VOSS IN CUI È PALESE
 
@@ -80,7 +80,7 @@ Lo disse prima di pensarci e si stupì di sentirsi nominare un posto in cui, in 
 
 «Chiudo il verbale» disse Tom. Poi chiuse la call.
 
-La finestra di Tom si spense. Emma aveva detto «mi va» come aveva scritto "oggi", sapendo che, se fosse servito, una scusa per declinare l'avrebbe trovata. Restò nella finestra vuota della call, nella sua stanza, mentre nel corridoio, fuori, non passava nessuno. Ripensò all'ultimo cartello più che agli altri. Non per quello che diceva, perché che ci fosse un altro televisore lo sapeva lei meglio di Tom, insieme a quanti altri ce ne fossero, ma per la paura che le lasciò, diversa da quella del video. Quella era la paura di essere stata vista. Questa era la paura di chi conta ogni mese una colonna che cresce e un giorno si accorge che la colonna la stanno contando anche altri. Gli apparecchi con quel guasto erano diventati troppi per restare un affare suo, lo sapeva da mesi, mentre ogni mese aveva spostato di un mese il giorno in cui qualcuno ci sarebbe arrivato. Tom le aveva appena scritto, con un pennarello, che il giorno era quello. Poi spense la modalità presenza. Le istruzioni del pacchetto dicevano che a quel punto l'anteprima sarebbe tornata alla telecamera, per mostrare a ciascuno la faccia che aveva davvero. Per un attimo, prima che si chiudesse anche la finestra, nell'anteprima restò soltanto lo sfondo, la parete chiara e il logo di Meridian, senza nessuno davanti.
+La finestra di Tom si spense. Emma aveva detto «mi va» come aveva scritto "oggi", sapendo che, se fosse servito, una scusa per declinare l'avrebbe trovata. Restò nella finestra vuota della call, nella sua stanza, mentre nel corridoio, fuori, non passava nessuno. Ripensò all'ultimo cartello più che agli altri. Non per quello che diceva, perché che ci fosse un altro televisore lo sapeva lei meglio di Tom, insieme a quanti altri ce ne fossero, ma per la paura che le lasciò, diversa da quella del video. Quella era la paura di essere stata vista. Questa era la paura di chi ha messo in colonna un anno di righe, ha visto la colonna crescere a ogni mese e si accorge che la stanno contando anche altri. Gli apparecchi con quel guasto erano diventati troppi per restare un affare suo, lo sapeva da nove giorni, mentre ogni giorno aveva spostato di un giorno il momento in cui qualcuno ci sarebbe arrivato. Tom le aveva appena scritto, con un pennarello, che il momento era quello. Poi spense la modalità presenza. Le istruzioni del pacchetto dicevano che a quel punto l'anteprima sarebbe tornata alla telecamera, per mostrare a ciascuno la faccia che aveva davvero. Per un attimo, prima che si chiudesse anche la finestra, nell'anteprima restò soltanto lo sfondo, la parete chiara e il logo di Meridian, senza nessuno davanti.
 
 Alle quattro in punto la trascrizione arrivò nella casella di Pete, come promesso dal pannello. Pete la lesse con il primo onion ring in bocca. Revisione post-intervento, televisore, log di sistema, compacting context, finestra di contesto, timestamp, intervalli di scrittura, documentazione da inviare. La lesse due volte, perché la prima volta aveva aspettato che a un certo punto cominciasse, mentre la seconda per essere sicuro che fosse tutto lì. Era una consulenza tecnica su un apparecchio riparato, chiesta a un laboratorio di ricerca da un tecnico dell'assistenza, il che nella Tabella di Conversione non aveva nessuna riga, nemmeno quella del cognome. Zero minuti. Tom aveva fatto un meeting di nove minuti dentro il turno, con una trascrizione pulita come la camicia di Pete, senza un solo punto in cui infilare un dito.
 
@@ -90,11 +90,20 @@ Il suo era sul banco. Della carta non si vedeva niente, perché la schiena di To
 
 "Quel pennarello te lo faccio mangiare" pensò, con il tono con cui al liceo lo diceva davvero.
 
-Si appoggiò allo schienale con la sua solita veemenza, finché non toccò il pannello divisorio. Un pugno di nerd da sorvegliare, quando lì fuori c'erano ventimila dipendenti che commettevano ogni giorno infrazioni da doppia e tripla smutandata, mentre a lui toccavano sette scatti alla volta. Un ispettore avrebbe avuto ogni telecamera di Meridian senza limiti e la possibilità di spalancare con un calcio qualsiasi armadietto volesse. Il settimo scatto era il primo mattone della scala che lo avrebbe portato a una stanza tutta sua. Lo salvò in una cartella nuova, che chiamò come il meeting che si era messo lui stesso in calendario, poi guardò ancora la nuca di Tom e il pennarello sul bordo del banco.
+Si appoggiò allo schienale con la sua solita veemenza, finché non toccò il pannello divisorio. Un pugno di nerd da sorvegliare, quando lì fuori c'erano ventimila dipendenti che commettevano ogni giorno infrazioni da doppia e tripla smutandata, mentre a lui toccavano sette scatti alla volta. Un ispettore avrebbe avuto ogni telecamera di Meridian senza limiti e la possibilità di spalancare con un calcio qualsiasi armadietto volesse. Il settimo scatto era il secondo mattone della scala che lo avrebbe portato a una stanza tutta sua. Lo salvò in una cartella nuova, che chiamò come il meeting che si era messo lui stesso in calendario, poi guardò ancora la nuca di Tom e il pennarello sul bordo del banco.
 
 "Inizia la caccia" pensò. "Verrò a prenderti molto presto..."
 
 ## Demolition Log
+
+### Consistency check — 2026-11-13 (v3.10)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Sfondo di Tom diverso tra i due POV (scaffali / banco d'acciaio) | continuity | integrated (v3.10) | "gli scaffali dei ricambi, con una fila di barattoli di viti" |
+| "Temuto per settimane": dal G24 al G32 sono otto giorni | timeline | integrated (v3.10) | "temeva da più di una settimana" |
+| La colonna contata "ogni mese", "da mesi": nel cap. 11 nasce il G23 | timeline / contradiction | integrated (v3.10) | Colonna fatta nove giorni prima su un anno di righe; "lo sapeva da nove giorni", il momento spostato ogni giorno di un giorno |
+| Due "primo mattone" di Pete (cap. 18 e 19) | continuity | integrated (v3.10) | Il settimo scatto è il secondo mattone |
 
 ### Cycle 2 — 2026-11-13 (scena di Pete)
 
@@ -165,10 +174,10 @@ Fusione del cap. 20 in questo capitolo (autore). Nuove parti: Pete alle tre meno
 | Alternativa alla stanza che si restringe, più emotiva (autore, con testo proprio) | voice / character | integrated (v2.5) | "Per la prima volta in quel meeting Emma smise di ascoltare quello che Tom stava dicendo, perché il video aveva invaso ogni suo pensiero. Le salì un'ansia che non aveva mai provato, quella di chi si è nascosto con cura e scopre di essere stato visto lo stesso." |
 | L'ansia di Emma, immagine dell'autore | voice | integrated (v2.6) | "Si sentì immediatamente scoperta, come un cucciolo di cane troppo cresciuto che nasconde la testa sotto una sedia, convinto di non poter essere visto, e lascia fuori tutto il resto del corpo." |
 
-### Correzioni — 2026-11-13 (v3.10, blocco A del giudizio §9)
+### Correzioni — 2026-11-13 (v3.11, blocco A del giudizio §9)
 
 C-66…C-70 applicate in blocco (punteggiatura): quattro ", e" in narrazione e il doppio "mentre" dei sette scatti. Nient'altro cambia.
 
-### Correzioni — 2026-11-13 (v3.11, C-71)
+### Correzioni — 2026-11-13 (v3.12, C-71)
 
 Penultimo paragrafo accorciato (autore: approvato): via il narratore che spiega Pete, tenuti divisorio, ventimila dipendenti, ispettore e armadietto.

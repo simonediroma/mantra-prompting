@@ -22,34 +22,34 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 9.3`. Ordine di lavoro in fondo al
 
 ### Blocco A · punteggiatura (si applica in blocco)
 
-### C-66 · 19.23 · punctuation · done (cap. 19 v3.10)
+### C-66 · 19.23 · punctuation · done (cap. 19 v3.11)
 **Nota**: ", e" in narrazione.
 **Originale**: "convinto di non poter essere visto, e lascia fuori tutto il resto del corpo."
 **Proposta**: "convinto di non poter essere visto, lasciando fuori tutto il resto del corpo."
 
-### C-67 · 19.30 · punctuation · done (cap. 19 v3.10)
+### C-67 · 19.30 · punctuation · done (cap. 19 v3.11)
 **Nota**: ", e" in narrazione.
 **Originale**: "per qualcuno che guardava qualcosa, e di quel qualcosa Tom non aveva trovato traccia."
 **Proposta**: "per qualcuno che guardava qualcosa. Di quel qualcosa Tom non aveva trovato traccia."
 
-### C-68 · 19.38 · punctuation · done (cap. 19 v3.10)
+### C-68 · 19.38 · punctuation · done (cap. 19 v3.11)
 **Nota**: ", e" in narrazione.
 **Originale**: "con una trascrizione pulita come la camicia di Pete, e non c'era un solo punto in cui infilare un dito."
 **Proposta**: "con una trascrizione pulita come la camicia di Pete, senza un solo punto in cui infilare un dito."
 
-### C-69 · 19.40 · punctuation · done (cap. 19 v3.10)
+### C-69 · 19.40 · punctuation · done (cap. 19 v3.11)
 **Nota**: ", e" in narrazione.
 **Originale**: "invece che con il silenzio, e un uomo che nasconde con il corpo, al liceo, era un uomo che prima o poi sarebbe finito dentro il suo armadietto."
 **Proposta**: "invece che con il silenzio. Al liceo, un uomo che nascondeva qualcosa con il corpo prima o poi finiva dentro il suo armadietto."
 
-### C-70 · 19.4 · punctuation · done (cap. 19 v3.10)
+### C-70 · 19.4 · punctuation · done (cap. 19 v3.11)
 **Nota**: due "mentre" nella stessa frase.
 **Originale**: "non c'era niente da violare, mentre sette fotografie nitide erano il massimo che un dipendente potesse sopportare senza fare causa, mentre otto, a quanto pareva, no."
 **Proposta**: "non c'era niente da violare. Sette fotografie nitide erano il massimo che un dipendente potesse sopportare senza fare causa, otto, a quanto pareva, no."
 
 ### Blocco B · stile (una riga alla volta, con approvazione)
 
-### C-71 · 19.42 · style · done (cap. 19 v3.11)
+### C-71 · 19.42 · style · done (cap. 19 v3.12)
 **Nota**: il paragrafo è testo dell'autore (v3.9): la proposta lo accorcia senza cambiarne le idee. Oggi il narratore spiega cosa pensa Pete ("prese un bel respiro e iniziò a soppesare…", "più che in altri attimi passati in Meridian"). Tenute la schiena contro il divisorio, i ventimila dipendenti e l'armadietto preso a calci.
 **Originale**: "Si appoggiò allo schienale con la sua solita veemenza, portandolo a piegarsi fino a toccare il pannello divisorio. Smise di pensare al meeting, prese un bel respiro e iniziò a soppesare quanto la sua vita da supervisore fosse limitata dalle stesse regole che doveva far rispettare alle persone che controllava. Le sue mansioni gli andavano strette, un pugno di nerd da sorvegliare quando lì fuori c'erano ventimila dipendenti che continuamente commettevano infrazioni punibili con doppie e triple smutandate. In quel momento, più che in altri attimi passati in Meridian, desiderava essere un ispettore, avere accesso a ogni sistema di sorveglianza senza limiti e la possibilità di spalancare con un calcio qualsiasi armadietto volesse."
 **Proposta**: "Si appoggiò allo schienale con la sua solita veemenza, finché non toccò il pannello divisorio. Un pugno di nerd da sorvegliare, quando lì fuori c'erano ventimila dipendenti che commettevano ogni giorno infrazioni da doppia e tripla smutandata, mentre a lui toccavano sette scatti alla volta. Un ispettore avrebbe avuto ogni telecamera di Meridian senza limiti e la possibilità di spalancare con un calcio qualsiasi armadietto volesse."
@@ -59,7 +59,7 @@ Fonte: `giudizio-editoriale-2026-10-31.md → 9.3`. Ordine di lavoro in fondo al
 **Originale**: "Pensò invece che alle tre l'avrebbe sentita parlare e che, di tutto quello che gli era successo in dodici anni in quella stanza, era un evento di magnitudine seconda soltanto ai due televisori con cui aveva tenuto le conversazioni più interessanti della sua vita."
 **Proposta**: "Pensò invece che alle tre l'avrebbe sentita parlare. In dodici anni, in quella stanza, gli erano capitate solo due conversazioni più interessanti, tutte e due con un televisore."
 
-### C-73 · 17.9 · question · done (cap. 17 v1.18)
+### C-73 · 17.9 · question · done (cap. 17 v1.19)
 **Nota**: tre riferimenti pop di fila su Pete (Smith, Biff, *Ciao Darwin*). Tutti e tre hanno un pagamento (Smith il completo nero dei cap. 15 e 18, Biff l'armadietto del 19, *Ciao Darwin* la scena), quindi non se ne toglie uno intero. Si toglie la frase che spiega: l'ambizione di carriera si vede già nel 18 e nel 19 (la stanza degli ispettori).
 **Originale**: "…mai seguire il Bianconiglio, che ti porta solo alla deriva. Smith aveva perso la sua battaglia e Pete era convinto di poterlo vendicare, facendo carriera nell'apparato di controllo di Meridian."
 **Proposta**: "…mai seguire il Bianconiglio, che ti porta solo alla deriva."

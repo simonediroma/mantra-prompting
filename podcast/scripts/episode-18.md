@@ -1,9 +1,9 @@
 ---
 episode: 18
 title: "Capitolo 18 — La richiesta di meeting"
-description: ""
+description: "Il sabato mattina Tom legge la mail della notte e risponde con una riga sola. Emma deve decidere se farsi vedere, mentre in un open space qualcuno ha già messo l'appuntamento in calendario."
 source: chapters/18-la-richiesta-di-meeting.md
-status: "script"
+status: "approved"
 recap: ""
 teaser: ""
 ---

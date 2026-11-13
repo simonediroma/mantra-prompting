@@ -3,7 +3,7 @@ episode: 13
 title: "Capitolo 13 — La correlazione"
 description: "Le statistiche di eTv mostrano a Emma uno spettatore che non avrebbe mai voluto trovare. Il video ha funzionato. Ma a che prezzo?"
 source: chapters/13-la-correlazione.md
-status: "script"
+status: "approved"
 recap: "Emma ha scoperto che il tecnico del televisore della signora Voss è Tom. Ora apre le statistiche di eTv."
 teaser: "la mail di Emma arriva a Tom nel mezzo di un intervento cronometrato."
 ---

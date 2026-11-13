@@ -1,6 +1,6 @@
 ---
 title: L'avvertimento
-version: 3.6
+version: 3.7
 revised: 2026-11-01
 claim: "Il video mostra a Tom una prova diretta e inequivocabile che il fenomeno non è ostile ma protettivo, un salto qualitativo enorme rispetto al semplice sospetto di coscienza, ma la conferma arriva troppo tardi: la signora Voss non risponde più."
 status: complete
@@ -8,7 +8,7 @@ status: complete
 
 Arrivò con due minuti di ritardo e passò il badge al varco con il fiato ancora corto. Non gli era mai successo, almeno non in dodici anni di servizio. Il sistema di accesso registrò l'orario senza alcun commento, perché sotto i cinque minuti non scattava nessuna comunicazione diretta del ritardo al proprio supervisore. Sotto quella soglia, un ritardo restava un fatto privato anche in Meridian. Ma per Tom, che si era sempre vantato con se stesso di una puntualità totale, quei due minuti pesavano più di quanto qualunque supervisore avrebbe mai potuto farli pesare.
 
-Non aprì il video al lavoro. Sapeva già, per esperienza diretta, cosa costava farsi sorprendere a guardare un video personale sul cellulare durante un turno. Il video doveva aspettare la sera.
+Non aprì il video al lavoro. Dopo i quarantasette minuti non aveva nessuna voglia di scoprire cosa costasse farsi sorprendere a guardare un video personale sul cellulare durante un turno. Il video doveva aspettare la sera.
 
 Le domande, quelle, no. Lo accompagnarono per tutto il giorno come un ronzio di fondo, sotto ogni test. Passò il turno con la testa altrove. Rimontava un motore di aspirapolvere e pensava a quella frase, quella che la signora Voss gli aveva detto ridendo: *si comportava come se ce l'avesse con me.* Ridendo, l'aveva detto. Ma più Tom ci pensava, meno gli sembrava una cosa da ridere. Se il dispositivo era davvero consapevole, come ormai credeva, restava aperta una domanda che fino a quel momento non si era mai posto con questa urgenza. Consapevole non voleva dire benevolo. Poteva voler dire il contrario.
 
@@ -41,6 +41,12 @@ Riprovò una seconda volta, lasciando passare qualche minuto, calcolando che for
 Tom restò fermo in quella cucina più a lungo del previsto, con l'ultimo squillo ancora nelle orecchie e i quindici minuti di anticipo che, per la seconda volta in due giorni, si stavano assottigliando senza che lui riuscisse a farci nulla.
 
 ## Demolition Log
+
+### Consistency check — 2026-11-13 (v3.7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Per esperienza diretta" contro il cap. 17 (una sola sanzione in dodici anni) | contradiction | integrated (v3.7) | "Dopo i quarantasette minuti non aveva nessuna voglia di scoprire cosa costasse…" |
 
 ### Cycle 1 — 2026-09-03
 
