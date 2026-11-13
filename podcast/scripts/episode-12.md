@@ -3,7 +3,7 @@ episode: 12
 title: "Capitolo 12 — Solo un tecnico?"
 description: "Un articolo di giornale riporta Emma alla mail di Tom. Chi c'è davvero dietro quella domanda?"
 source: chapters/12-solo-un-tecnico.md
-status: "script"
+status: "approved"
 recap: "Emma ha aspettato tutto il giorno una risposta di Tom. Non è arrivata."
 teaser: "le statistiche di eTv mostrano a Emma uno spettatore che non avrebbe mai voluto trovare."
 ---

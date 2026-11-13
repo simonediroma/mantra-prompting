@@ -3,7 +3,7 @@ episode: 19
 title: "Capitolo 19 — Il meeting"
 description: ""
 source: chapters/19-il-meeting.md
-status: "script"
+status: "approved"
 recap: ""
 teaser: ""
 ---

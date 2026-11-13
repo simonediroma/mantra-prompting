@@ -3,7 +3,7 @@ episode: 3
 title: "Capitolo 3 — Secondo contatto"
 description: "Tre mesi di efficienza esemplare. Poi, sul banco, un televisore identico al primo."
 source: chapters/03-secondo-contatto.md
-status: "script"
+status: "approved"
 recap: "Meridian ha presentato a Tom il conto della sua curiosità, togliendogli il televisore."
 teaser: "Tom prova il suo metodo su un essere umano."
 ---
