@@ -3,7 +3,7 @@ episode: 14
 title: "Capitolo 14 — La fiducia di Tom"
 description: "Le scuse di Emma arrivano a Tom dentro il timer di un aspirapolvere. Per la prima volta in tre mesi non è solo con quello che ha visto."
 source: chapters/14-la-fiducia-di-tom.md
-status: "script"
+status: "approved"
 recap: "Emma ha capito cosa ha fatto il suo video e ha deciso di riscrivere a Tom, scusandosi."
 teaser: "alle otto e un secondo, una mail aspetta già Tom in casella."
 ---

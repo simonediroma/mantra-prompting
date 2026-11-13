@@ -3,7 +3,7 @@ episode: 16
 title: "Capitolo 16 — Le 23:34 di venerdì"
 description: "Tom le ha scritto tutto tranne la cosa più importante. Emma lo segue per una settimana, poi un venerdì sera, al bancone del solito noodle bar, uno sconosciuto le porge un indovinello."
 source: chapters/16-le-2334-di-venerdi.md
-status: "script"
+status: "approved"
 recap: "Tom ha trovato la domanda di Emma già in casella alle otto e un secondo, ha capito come il televisore sapeva del cuore della signora e non ha risposto."
 teaser: "nel cuore della notte, una notifica si accende in una cucina buia."
 ---
