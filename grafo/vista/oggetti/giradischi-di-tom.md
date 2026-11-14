@@ -1,6 +1,6 @@
 # Giradischi di Tom
 
-`giradischi-di-tom` · oggetto · capitoli: 1, 7
+`giradischi-di-tom` · oggetto · capitoli: 1, 7, 8
 
 L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un modellino IA, a correggere l'equalizzazione in tempo reale.
 
@@ -13,6 +13,7 @@ L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un model
 - Sta nella stanza unica di casa; coperto da uno strato di polvere «che si accumula solo quando qualcosa viene evitato apposta» *(cap. 7 r. 9)*
 - Comando vocale: «Calibra l'audio, sono qui.» Il sistema ottimizza l'equalizzazione sulla posizione di Tom *(cap. 7 r. 9)*
 - Costruito con l'aiuto di un assistente IA *(cap. 7 r. 17)*
+- Spento da Tom prima di andare a dormire *(cap. 8 r. 21)*
 
 ## Punti aperti / da verificare
 
@@ -31,4 +32,5 @@ L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un model
 
 1. `e01-04` (cap. 1, trenta secondi dopo lo spegnimento del LED) — [Tom apre il log del primo televisore](../eventi/e01-04.md)
 1. `e07-01` (cap. 7, la stessa sera del cap. 6) — [Tom mette «Tango» sul giradischi](../eventi/e07-01.md)
+1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
 

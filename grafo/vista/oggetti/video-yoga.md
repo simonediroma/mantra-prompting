@@ -1,6 +1,6 @@
 # Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)
 
-`video-yoga` · oggetto · capitoli: 4, 5, 6, 7
+`video-yoga` · oggetto · capitoli: 4, 5, 6, 7, 8
 
 Il video che la signora Voss riproduceva sul televisore anche dieci volte al giorno. Nel cap. 4 è solo un dettaglio del suo racconto.
 
@@ -19,6 +19,7 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 - Trovato così: una ventina di video filtrati a mano, shortlist di cinque dall'assistente IA, scelta per la parola «bella» *(cap. 7 r. 15-21)*
 - A un quarto di velocità rivela il piede con sei dita: è generato, non girato *(cap. 7 r. 25-29)*
 - Caricato dal canale eTv *(cap. 7 r. 33)*
+- Piano di Tom: scoprire con quale intelligenza artificiale sia stato generato («ogni strumento ha i suoi clienti») *(cap. 8 r. 19)*
 
 ## Cosa NON dice il testo
 
@@ -34,7 +35,7 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 
 - → pubblicato da [Il canale eTv](../oggetti/canale-etv.md) *(cap. 7 r. 33)*
 - → appartiene al filone [«Yoga fit»](../termini/yoga-fit.md) *(cap. 7 r. 19)*
-- ← [La ragazza del video di yoga](../personaggi/ragazza-del-video-yoga.md) compare in questa scheda *(cap. 4 r. 31)*
+- ← [La ragazza dei video eTv](../personaggi/ragazza-del-video-yoga.md) compare in questa scheda *(cap. 4 r. 31)*
 - ← [Signora Voss](../personaggi/signora-voss.md) guarda ripetutamente questa scheda *(cap. 4 r. 31)*
 - ← [Televisore del secondo contatto](../oggetti/tv-secondo-contatto.md) ha riprodotto ripetutamente questa scheda *(cap. 4 r. 31)*
 - ← [Mantra](../termini/mantra.md) detto del questa scheda *(cap. 6 r. 33)*
@@ -49,4 +50,5 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 1. `e07-03` (cap. 7, la stessa sera) — [Tom individua il video - «bella», velocità doppia](../eventi/e07-03.md)
 1. `e07-04` (cap. 7, la stessa sera) — [Sei dita per due fotogrammi - il video è generato](../eventi/e07-04.md)
 1. `e07-05` (cap. 7, la stessa sera) — [Tom clicca sul nome del canale - eTv](../eventi/e07-05.md)
+1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
 

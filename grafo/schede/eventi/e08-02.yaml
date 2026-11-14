@@ -1,0 +1,15 @@
+id: e08-02
+nome: Tom nota cosa manca - identità, iscritti, ritmo
+capitolo: 8
+ordine: 8.2
+quando: "la stessa sera"
+dove: casa-di-tom
+dopo: [e08-01]
+coinvolti: [tom, canale-etv]
+sintesi: "Descrizioni vuote, nessun marchio; molte visualizzazioni e pochi iscritti; pubblicazioni a raffiche e silenzi. Non è un video isolato: è un'operazione anonima su scala."
+fatti:
+  - {testo: "L'assenza di identità", fonte: "c8:11"}
+  - {testo: "I numeri", fonte: "c8:13"}
+  - {testo: "Le date", fonte: "c8:15"}
+  - {testo: "La conclusione", fonte: "c8:17"}
+

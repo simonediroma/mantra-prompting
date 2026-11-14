@@ -1,6 +1,6 @@
 # Casa di Tom
 
-`casa-di-tom` · luogo · capitoli: 1, 3, 4, 5, 6, 7
+`casa-di-tom` · luogo · capitoli: 1, 3, 4, 5, 6, 7, 8
 
 Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera il quaderno nero.
 
@@ -16,6 +16,7 @@ Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera
 - La sera della scoperta tiene la finestra aperta «per la prima volta da mesi» *(cap. 6 r. 31)*
 - Una stanza sola che fa da studio, salotto e magazzino; ci stanno scrivania, giradischi, computer *(cap. 7 r. 9, cap. 7 r. 15)*
 - Libreria di dischi ben fornita: uno dei pochi oggetti che occupa più spazio dei manuali di elettronica *(cap. 7 r. 9)*
+- Dopo le undici di sera la stanza si è raffreddata *(cap. 8 r. 19)*
 
 ## Relazioni
 
@@ -44,4 +45,7 @@ Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera
 1. `e07-03` (cap. 7, la stessa sera) — [Tom individua il video - «bella», velocità doppia](../eventi/e07-03.md)
 1. `e07-04` (cap. 7, la stessa sera) — [Sei dita per due fotogrammi - il video è generato](../eventi/e07-04.md)
 1. `e07-05` (cap. 7, la stessa sera) — [Tom clicca sul nome del canale - eTv](../eventi/e07-05.md)
+1. `e08-01` (cap. 8, la stessa sera dei cap. 6-7) — [Tom scorre il canale eTv - sempre la stessa ragazza](../eventi/e08-01.md)
+1. `e08-02` (cap. 8, la stessa sera) — [Tom nota cosa manca - identità, iscritti, ritmo](../eventi/e08-02.md)
+1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
 

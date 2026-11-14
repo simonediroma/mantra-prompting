@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -49,6 +49,8 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Pulisce gli occhiali da lettura sul bordo della felpa *(cap. 7 r. 15)*
 - Affronta una ricerca come un guasto multiplo: elimina prima le variabili più ovvie, non le più interessanti *(cap. 7 r. 15)*
 - Usa un assistente IA: non gli chiede di indovinare, gli chiede di ordinare per un profilo *(cap. 7 r. 17)*
+- Guarda prima quello che manca, non quello che c'è *(cap. 8 r. 11)*
+- Conosce il canale YouTube del New York Times; di canali e rapporti views/iscritti sa poco *(cap. 8 r. 13)*
 
 ## Punti aperti / da verificare
 
@@ -63,6 +65,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 5** — Primo ritardo in dodici anni (2 minuti). La sera decifra il video: il televisore avvertiva la signora. Annota «consapevole. Benevolo, non ostile.» Il mattino dopo la signora non risponde *(cap. 5 r. 33, cap. 5 r. 37)*
 - **Cap. 6** — Tre settimane dopo: gli torna sul banco il televisore Voss per il ricondizionamento. Scopre dal registro che la signora è morta, e dal post del fratello che è morta di cuore facendo yoga. Decide di cercare il video di yoga *(cap. 6 r. 21, cap. 6 r. 31, cap. 6 r. 35)*
 - **Cap. 7** — La stessa sera del cap. 6: trova un video «Yoga fit» compatibile con la signora Voss e, a un quarto di velocità, scopre che la ragazza ha sei dita per due fotogrammi. Il video è generato. Clicca sul canale: eTv *(cap. 7 r. 27-33)*
+- **Cap. 8** — Stessa sera, fin dopo le undici: analizza il canale eTv e conclude che è un'operazione. Rimanda a domani: capire con quale IA sia stato generato il video, per risalire dai clienti dello strumento a chi sta dietro *(cap. 8 r. 17-19)*
 
 ## Relazioni
 
@@ -130,4 +133,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e07-03` (cap. 7, la stessa sera) — [Tom individua il video - «bella», velocità doppia](../eventi/e07-03.md)
 1. `e07-04` (cap. 7, la stessa sera) — [Sei dita per due fotogrammi - il video è generato](../eventi/e07-04.md)
 1. `e07-05` (cap. 7, la stessa sera) — [Tom clicca sul nome del canale - eTv](../eventi/e07-05.md)
+1. `e08-01` (cap. 8, la stessa sera dei cap. 6-7) — [Tom scorre il canale eTv - sempre la stessa ragazza](../eventi/e08-01.md)
+1. `e08-02` (cap. 8, la stessa sera) — [Tom nota cosa manca - identità, iscritti, ritmo](../eventi/e08-02.md)
+1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
 

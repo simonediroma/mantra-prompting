@@ -11,6 +11,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Cap. 5 — L'avvertimento](vista/capitoli/05.md) (v3.7)
 - [Cap. 6 — Il ricondizionamento](vista/capitoli/06.md) (v4.6)
 - [Cap. 7 — La ragazza con sei dita](vista/capitoli/07.md) (v5.5)
+- [Cap. 8 — Il canale eTv](vista/capitoli/08.md) (v4.4)
 - [Cap. 17 — Il bivio](vista/capitoli/17.md) (v1.18) — **analisi parziale**: solo i termini anticipati
 - [Cap. 18 — La richiesta di meeting](vista/capitoli/18.md) (v5.4) — **analisi parziale**: solo i termini anticipati
 - [Cap. 19 — Il meeting](vista/capitoli/19.md) (v3.12) — **analisi parziale**: solo i termini anticipati
@@ -22,7 +23,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Cliente del televisore del primo contatto](vista/personaggi/cliente-caso-zero.md) — Proprietario senza nome del caso zero. Ha consegnato il televisore lamentando che non si accendeva e non rispondeva al telecomando.
 - [Fornitore di componenti (quello del quaderno)](vista/personaggi/fornitore-del-quaderno.md) — Fornitore di componenti che non è sopravvissuto alla bolla AI. Aveva regalato a Tom il quaderno nero; il suo logo è mezzo scolorito sul dorso.
 - [Fratello della signora Voss](vista/personaggi/fratello-della-voss.md) — Autore del post che annuncia la morte della sorella.
-- [La ragazza del video di yoga](vista/personaggi/ragazza-del-video-yoga.md) — L'istruttrice del video che la signora Voss ripeteva. Nel cap. 4 esiste solo nelle parole della signora.
+- [La ragazza dei video eTv](vista/personaggi/ragazza-del-video-yoga.md) — La protagonista di tutti i video del canale eTv: yoga, idraulica, cucina, musica. Generata, non filmata.
 - [Mauro Vargiu (il trisavolo)](vista/personaggi/mauro-vargiu.md) — Trisavolo sardo di Tom. Alla dogana il suo cognome fu storpiato in Vardju.
 - [Pete](vista/personaggi/pete.md) — Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come firma in fondo alla comunicazione formale.
 - [Signora Voss](vista/personaggi/signora-voss.md) — Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo stesso video anche dieci volte al giorno; ha filmato il televisore che «si rifiuta» di accendersi.
@@ -47,7 +48,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Foglio con l'avvertimento decifrato](vista/oggetti/foglio-avvertimento.md) — Il foglio su cui Tom ricompone, a casa, il messaggio del video della signora Voss.
 - [Foglio «IO / SONO / QUI»](vista/oggetti/foglio-io-sono-qui.md) — Il foglio su cui Tom trascrive a mano il primo messaggio. Finisce nel cassetto della scrivania del laboratorio.
 - [Giradischi di Tom](vista/oggetti/giradischi-di-tom.md) — L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un modellino IA, a correggere l'equalizzazione in tempo reale.
-- [Il canale eTv](vista/oggetti/canale-etv.md) — Il canale YouTube che ha caricato il video di yoga generato.
+- [Il canale eTv](vista/oggetti/canale-etv.md) — Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo.
 - [Il disco «Tango» dei Matia Bazar](vista/oggetti/disco-tango.md) — Il vinile che Tom mette per concentrarsi la sera in cui cerca il video.
 - [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](vista/oggetti/video-yoga.md) — Il video che la signora Voss riproduceva sul televisore anche dieci volte al giorno. Nel cap. 4 è solo un dettaglio del suo racconto.
 - [Il video girato dalla signora Voss](vista/oggetti/video-della-voss.md) — Ripresa fatta col telefono dalla signora: il televisore lampeggia in modo strano mentre lei gli dice di accendersi. Lo manderà a Tom su WhatsApp.
@@ -102,7 +103,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [«Primo contatto» / «caso zero»](vista/termini/caso-zero.md) — I due nomi del primo televisore e dell'evento del cap. 1.
 - [«Yoga fit»](vista/termini/yoga-fit.md) — Le due parole comuni ai cinque video della shortlist: yoga, ma pensato per un allenamento intensivo.
 
-## Eventi (40)
+## Eventi (43)
 
 - [Il log del caso zero si interrompe; il cliente consegna il televisore](vista/eventi/e00-01.md) — Il log si ferma su «compacting context» prima della consegna; il cliente porta il televisore in assistenza perché non si accende e non risponde al telecomando.
 - [Procedura standard due volte, checksum pulito, LED anomalo](vista/eventi/e01-01.md) — Tom esegue due volte la procedura standard: tutto in regola, ma il LED fa un pattern che nessun test spiega.
@@ -144,8 +145,11 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Tom individua il video - «bella», velocità doppia](vista/eventi/e07-03.md) — Lo ferma la parola «bella» nel titolo. La ragazza invita a guardare a velocità doppia: i conti sul tempo tornano con le dieci ripetizioni al giorno.
 - [Sei dita per due fotogrammi - il video è generato](vista/eventi/e07-04.md) — Dopo quattro o cinque passaggi a velocità normale e doppia, Tom scende a un quarto: al minuto tre il piede sinistro ha sei dita. Non è compressione: il corpo non è mai stato filmato.
 - [Tom clicca sul nome del canale - eTv](vista/eventi/e07-05.md) — Se il video è generato, qualcuno lo ha caricato. Tom vuole capire chi.
+- [Tom scorre il canale eTv - sempre la stessa ragazza](vista/eventi/e08-01.md) — Idraulica, cucina, musica, yoga: argomenti senza nulla in comune tranne la protagonista.
+- [Tom nota cosa manca - identità, iscritti, ritmo](vista/eventi/e08-02.md) — Descrizioni vuote, nessun marchio; molte visualizzazioni e pochi iscritti; pubblicazioni a raffiche e silenzi. Non è un video isolato: è un'operazione anonima su scala.
+- [Tom rimanda a domani - con quale IA è stato generato il video](vista/eventi/e08-03.md) — Decide il passo successivo, gira il disco, spegne il giradischi e va a dormire.
 
-## Punti aperti (26)
+## Punti aperti (29)
 
 - [Signora Voss](vista/personaggi/signora-voss.md): «Non ha voluto ascoltare nessuno» (c6 r. 31): chi l'aveva avvertita oltre al televisore? Il fratello? Il testo non lo dice.
 - [Signora Voss](vista/personaggi/signora-voss.md): Cosa le ha fatto cambiare idea tra «me lo dovevano restituire» (c4 r. 21) e «non lo voglio più in casa» (c6 r. 19): il testo lo pone come domanda («Qualcosa, nel frattempo…») senza risposta.
@@ -153,7 +157,10 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Signora Voss](vista/personaggi/signora-voss.md): Tom immagina una sessione «mattutina prima di andare al lavoro» (c7 r. 23); lei aveva detto «prima di andare a fare la spesa» (c4 r. 31). Il testo non dice se la signora lavorasse.
 - [Tecnico a cui viene riassegnato il caso zero](vista/personaggi/tecnico-turno-b.md): Il registro dice «Turno: B», la narrazione «collega del suo stesso turno»: torna solo se il turno di Tom (pomeriggio) è il B. Il testo non lo dice.
 - [Tom](vista/personaggi/tom.md): Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi.
+- [Il canale eTv](vista/oggetti/canale-etv.md): L'incoerenza che il testo lascia aperta: se lo scopo sono le visualizzazioni, perché pubblicare a singhiozzo (c8 r. 15)?
+- [Il canale eTv](vista/oggetti/canale-etv.md): Tom ammette di non sapere quale sia un rapporto normale tra visualizzazioni e iscritti: il suo unico confronto è il canale del New York Times (c8 r. 13). La conclusione «pochi iscritti» è un'impressione.
 - [Cellulare di Tom](vista/oggetti/cellulare-di-tom.md): La chiamata «dal controllo qualità di Meridian» parte da un numero privato, e da lì passerà il video: è una traccia fuori dai sistemi aziendali, ma anche un legame diretto tra Tom e la cliente.
+- [Il disco «Tango» dei Matia Bazar](vista/oggetti/disco-tango.md): Tom gira il disco, fa partire «Il video sono io» «poi spense il giradischi»: il titolo della canzone è l'ultima parola del capitolo sul tema del video generato. Voluto: da non perdere in revisione.
 - [eWatch](vista/oggetti/ewatch.md): Nel cap. 1 «l'orologio gli disse» (r. 95) e nel cap. 2 «guardò l'ora» (r. 45): il testo non dice se è già l'eWatch. Il cap. 1 cade in inverno (tre mesi prima della fine dell'inverno, c3 r. 9), cioè nella stessa stagione del regalo.
 - [Foglio «IO / SONO / QUI»](vista/oggetti/foglio-io-sono-qui.md): Due «uniche prove al mondo»: il foglio (c2 r. 41, in laboratorio) e il quaderno (c3 r. 13, a casa). Il quaderno resta a casa per prudenza, ma il foglio resta in azienda.
 - [Giradischi di Tom](vista/oggetti/giradischi-di-tom.md): Il comando di Tom al giradischi è «sono qui» (c7 r. 9); il primo televisore gli aveva risposto «IO SONO QUI» (c1 r. 39). Eco voluta o coincidenza: il testo non la commenta.

@@ -1,9 +1,21 @@
 id: canale-etv
 nome: Il canale eTv
-capitoli: [7]
-sintesi: "Il canale YouTube che ha caricato il video di yoga generato."
+capitoli: [7, 8]
+sintesi: "Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo."
 caratteristiche:
   - {testo: "Nome del canale: eTv", fonte: "c7:33"}
+  - {testo: "Video citati: sturare un lavandino senza idraulico; pasta al forno «che nessuno indovinerebbe essere senza glutine»; una cover acustica con voce impeccabile, senza imperfezioni; lo yoga", fonte: "c8:9"}
+  - {testo: "La stessa ragazza protagonista di ogni video, esperta di qualunque cosa", fonte: "c8:9"}
+  - {testo: "Descrizioni vuote o quasi: una riga generica identica sotto ogni video; nessun link, sito, social, «chi sono», biografia, nome; nessun logo ricorrente nelle copertine", fonte: "c8:11"}
+  - {testo: "Decine di migliaia di visualizzazioni per video, pochi iscritti: «la gente guardava e se ne andava»", fonte: "c8:13"}
+  - {testo: "Lettura di Tom: a chi lo gestisce interessa solo che i video vengano visti il più possibile; forse nicchie scelte per la resa pubblicitaria (solo un sospetto)", fonte: "c8:13"}
+  - {testo: "Pubblicazione senza ritmo: giorni saltati, raffiche di tre video in un'ora, settimane di silenzio. Contraddice l'obiettivo delle visualizzazioni", fonte: "c8:15"}
+  - {testo: "«Un supermercato aperto di notte con tutte le luci accese e nessuno alla cassa»: «qualcuno, o qualcosa» produce contenuti su scala senza lasciare traccia", fonte: "c8:17"}
 non_detto:
-  - {testo: "Nel cap. 7 Tom ci clicca soltanto: cosa contenga non è ancora detto."}
 
+  - {testo: "Numero totale dei video, data di apertura del canale e numero esatto di iscritti non sono indicati."}
+aperti:
+  - {testo: "L'incoerenza che il testo lascia aperta: se lo scopo sono le visualizzazioni, perché pubblicare a singhiozzo (c8 r. 15)?"}
+  - {testo: "Tom ammette di non sapere quale sia un rapporto normale tra visualizzazioni e iscritti: il suo unico confronto è il canale del New York Times (c8 r. 13). La conclusione «pochi iscritti» è un'impressione."}
+relazioni:
+  - {verso: ragazza-del-video-yoga, tipo: "ha come unica protagonista", fonte: "c8:9"}

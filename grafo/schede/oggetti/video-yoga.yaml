@@ -1,6 +1,6 @@
 id: video-yoga
 nome: "Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)"
-capitoli: [4, 5, 6, 7]
+capitoli: [4, 5, 6, 7, 8]
 sintesi: "Il video che la signora Voss riproduceva sul televisore anche dieci volte al giorno. Nel cap. 4 è solo un dettaglio del suo racconto."
 caratteristiche:
   - {testo: "«Un video che avevo trovato, bellissimo»", fonte: "c4:31"}
@@ -16,6 +16,7 @@ caratteristiche:
   - {testo: "Trovato così: una ventina di video filtrati a mano, shortlist di cinque dall'assistente IA, scelta per la parola «bella»", fonte: "c7:15-21"}
   - {testo: "A un quarto di velocità rivela il piede con sei dita: è generato, non girato", fonte: "c7:25-29"}
   - {testo: "Caricato dal canale eTv", fonte: "c7:33"}
+  - {testo: "Piano di Tom: scoprire con quale intelligenza artificiale sia stato generato («ogni strumento ha i suoi clienti»)", fonte: "c8:19"}
 non_detto:
   - {testo: "Nel cap. 4 Tom non reagisce al dettaglio dello yoga né della ripetizione: la sua attenzione va al «si rifiuta» e poi al video girato dalla signora. Nessun collegamento tra video di yoga e anomalia è fatto qui."}
   - {testo: "Dove la signora lo abbia trovato e su che piattaforma: non detto."}

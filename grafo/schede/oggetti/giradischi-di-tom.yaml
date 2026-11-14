@@ -1,6 +1,6 @@
 id: giradischi-di-tom
 nome: Giradischi di Tom
-capitoli: [1, 7]
+capitoli: [1, 7, 8]
 sintesi: "L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un modellino IA, a correggere l'equalizzazione in tempo reale."
 caratteristiche:
   - {testo: "Giradischi di ottant'anni fa", fonte: "c1:15"}
@@ -10,6 +10,7 @@ caratteristiche:
   - {testo: "Sta nella stanza unica di casa; coperto da uno strato di polvere «che si accumula solo quando qualcosa viene evitato apposta»", fonte: "c7:9"}
   - {testo: "Comando vocale: «Calibra l'audio, sono qui.» Il sistema ottimizza l'equalizzazione sulla posizione di Tom", fonte: "c7:9"}
   - {testo: "Costruito con l'aiuto di un assistente IA", fonte: "c7:17"}
+  - {testo: "Spento da Tom prima di andare a dormire", fonte: "c8:21"}
 aperti:
   - {testo: "Il comando di Tom al giradischi è «sono qui» (c7 r. 9); il primo televisore gli aveva risposto «IO SONO QUI» (c1 r. 39). Eco voluta o coincidenza: il testo non la commenta."}
 relazioni:
