@@ -3,6 +3,7 @@
 > Data: 2026-10-31. Base: `chapters/01-13` (~15.700 parole di testo narrativo), `podcast/scripts/episode-01..13`, i 13 MP3, `outline.md` v0.2, `characters/*`, `book-memory.md`, `revision-report-2026-10-10.md`.
 > Contenuto: (1) verdetto; (2) **Parte A, audiolibro**: indicazioni di stile, lacune di trama e lacune descrittive da chiudere per l'ascolto; (3) **Parte B, libro stampato**: cosa cambia quando il lettore ha la pagina; (4) le lacune tecniche in una sola lista, da vedere in blocco prima di pubblicare; (5) appendice con l'analisi che motiva le indicazioni.
 > Non ripete le issue già integrate nel report del 10 ottobre.
+> **Ultimo aggiornamento: 2026-11-14 (§9)**, con i cap. 15-19 e il Libro 1 chiuso al cap. 19. I voti correnti sono in §9.1.
 
 ---
 
@@ -279,3 +280,107 @@ Stessi criteri della tabella iniziale (§1), stesso lettore. Prima = testo del 3
 **Media semplice**: da 6,2 a 7,2. Il salto più grande è l'ambiente fisico, il più piccolo la struttura, perché la struttura si cambia scrivendo i capitoli nuovi (voce diretta, Pete, scene invece di schermate), non correggendo i vecchi.
 
 Numeri di controllo sul testo attuale (18.138 parole): odori 2, parole di luce 13, stagione 5, "esattamente" 5, "il tipo di / il genere di" 10, "rumore di fondo" 1, ", e" in narrazione 0 fuori dalle mail, trattini lunghi 0.
+
+---
+
+## 9. Aggiornamento 2026-11-14 — cap. 15-19, Libro 1 chiuso
+
+Base: `chapters/01-19` (29.491 parole di testo narrativo, tutti `complete`), copioni `episode-01..19`, i 19 MP3 in `docs/episodes/` (non riascoltati: l'audio è valutato da copioni, durate e feed). Il cap. 20 è stato fuso nel 19 (2026-11-13). Stessi criteri di §1 e §8, stesso lettore.
+
+### 9.1 Voti
+
+| Dimensione | 31 ott | 1 nov | 14 nov | Perché cambia |
+|---|---|---|---|---|
+| Scrittura, frase per frase | 7 | 8 | 8 | I cap. 15, 17 e 19 sono i meglio scritti del libro. Lo tengono a 8 le frasi impastate della Mela Morsicata (cap. 16) e tre scivoloni di registro nel 18 e nel 19 (§9.4). |
+| Scrittura, struttura e ritmo | 6 | 7 | 7,5 | Cinque capitoli con una scena vera, una voce diretta e un finale in crescendo a tre POV. Restano i sei capitoli di fila senza battute (8-13), il cap. 8, il blocco di esposizione del 16. |
+| Tom | 7 | 8 | 8,5 | Sbaglia una rondella perché ha la testa altrove, lascia la porta accostata, conta le lentiggini, nomina la mensa. Il metodo ora ha un costo e un desiderio. |
+| Emma | 6,5 | 7 | 7,5 | Ha un desiderio suo (qualcuno come lei, cap. 16), un gesto d'istinto (le 23:34), una bugia (l'«oggi»), due paure distinte (cap. 19). Nel meeting però riceve tutto e non dà niente. |
+| Pete | 4 | 4 | 7,5 | Era una firma, ora è il personaggio comico del libro: la Tabella di Conversione, *Ciao Darwin*, i sette scatti, il pennarello. Manca ancora una battuta detta in faccia a qualcuno. |
+| Signora Voss | 7 | 7,5 | 7,5 | Invariata. Continua a lavorare da morta (la risata al telefono nel 15 e nel 18). |
+| Ambiente istituzionale (Meridian) | 8 | 8,5 | 9 | Riepilogo di mezzanotte, giurisdizione dei supervisori, modalità presenza, newsletter Benessere, sette scatti con parere legale, logo in pensione. Ogni regola nuova produce trama. |
+| Ambiente fisico e sensoriale | 4 | 6,5 | 7 | I cap. 15-19 hanno corpo, luce e suono in ogni scena (corridoio all'alba, cucina di notte, penombra del laboratorio). La media resta frenata dai cap. 8-13 e dal calendario: nessuna stagione dichiarata dopo il cap. 3. |
+| Audiolibro: testo e copioni | 6,5 | 8 | 8 | La condizione di §8 è soddisfatta (19 MP3 rigenerati, effetti e Morse). Non sale per quattro lacune nuove, tutte nel finale (§9.5). |
+
+**Media semplice**: 6,2 → 7,2 → **7,8**. Il salto è quasi tutto Pete (+3,5). Senza Pete la media passa da 7,6 a 7,9: i capitoli nuovi sono migliori dei vecchi, ma i vecchi non sono cambiati.
+
+### 9.2 Capitoli 15-19, stessa griglia di `docs/timeline-e-valutazione-libro-1.md`
+
+| Cap. | Parole | Battute | Trama | Personaggio | Verdetto | Una riga |
+|---|---|---|---|---|---|---|
+| 15 Le 08:00:01 | 1.803 | 1 | Media-alta | Alta | ✅ | Chiude A2.1 (eWatch) senza spiegare troppo. La ciotola rigata è il miglior "mostrato" del libro. |
+| 16 Le 23:34 di venerdì | 1.838 | 6 | Media | Alta | ⚠️ | La settimana per scorcio e il sofisma funzionano. In mezzo, circa 550 parole di storia del locale prima che succeda qualcosa. |
+| 17 Il bivio | 1.815 | 6 | Media | Alta | ✅ | Tom in cucina è una scena perfetta in 300 parole. Il ritratto di Pete è lungo ma è il più divertente del libro. |
+| 18 La richiesta di meeting | 2.655 | 7 | Alta | Media | ✅ | Tre POV, due trappole, la bilancia. Il più lungo dopo il 19: regge perché ogni blocco ha un oggetto. |
+| 19 Il meeting | 3.295 | 21 | Alta | Alta | ✅ | Il capitolo migliore. I due canali (voce e cartelli) sono l'idea formale più forte del Libro 1. La coda di Pete è più debole del resto. |
+
+### 9.3 Stato delle lacune del 31 ottobre
+
+| Voce | Stato | Dove |
+|---|---|---|
+| A2.1 eWatch e cuore | chiusa, come ipotesi di Tom | cap. 15 |
+| A2.2, A2.3, A2.9 prima risposta, silenzio di Tom, controllo sulla posta | chiuse | cap. 14, 17 |
+| A2.4 punto cieco di Emma sull'archivio | chiusa | cap. 10 v4.2, ripresa nel 19 |
+| A2.7 primo televisore | rinviata con gancio | quinto cartello, cap. 19 |
+| A2.10 colore del LED | chiusa (colore tolto) | cap. 4 |
+| A4.2 Pete udibile prima del 17 | chiusa a metà: si vede (corridoio, cap. 15), non parla | cap. 15 |
+| A4.4 cap. 20 troppo corto | chiusa con la fusione | cap. 19 |
+| A1.1 voce parlata nei cap. 8-13 | **aperta**: zero battute in sei capitoli | — |
+| A1.10 registro comico nei capitoli di Emma | a metà: c'è nel 16 (il bidet, il Portogallo), non nel 10-13 | — |
+| A3 odori e stagione | **aperta**: cinque o sei note di odore in 19 capitoli, stagione tre volte e mai dopo il cap. 3 | — |
+| B2.1 Parti come separatori nel testo | **aperta** | — |
+| B2.2 titolo pronunciato | **aperta**: solo "come un mantra" (cap. 6, 11) | — |
+| B2.3 Pete entra tardi | attenuata: corridoio al 15, ritratto al 17 | — |
+| B2.5 finale di volume | **aperta**, vedi §9.4 | — |
+| B2.6 dimensioni | da aggiornare: 29.500 parole, novella lunga (130-150 pagine tascabili) | — |
+| §4 processo manoscritto, copertina verticale | **aperte**: PDF ed `export-cms` fermi al cap. 13 | — |
+
+### 9.4 Cosa sistemare nei cap. 15-19 (testo, vale per entrambi gli scope)
+
+- **Cap. 19, soggetto mancante**: «Credo che per oggi abbiamo detto tutto quello che serviva» disse, con la voce del verbale. Il paragrafo prima ha Pete come soggetto, quindi la battuta sembra sua. Sulla pagina si capisce alla riga dopo, in ascolto no. Basta "disse Tom".
+- **Cap. 19, penultimo paragrafo**: "Smise di pensare al meeting, prese un bel respiro e iniziò a soppesare quanto la sua vita da supervisore fosse limitata…" è un riassunto di ciò che il cap. 17 ha già mostrato, subito prima dell'ultima riga del libro. Il pennarello e «te lo faccio mangiare» bastano.
+- **Cap. 19, Emma non dà niente**: Tom mostra cinque cartelli, lei risponde solo alla consulenza. È coerente con il personaggio, ma il Libro 1 chiude con uno scambio a senso unico (pesa su B2.5).
+- **Cap. 16, il blocco del locale**: insegna, Turing, Mandelbrot, cameriere, tipologie di clienti. Cinque paragrafi di narratore prima di Tommy. Le frasi più faticose del libro sono qui ("che erano quelli che lo frequentavano a creare", "contribuendo a permeare ogni centimetro di quel posto […] della privacy necessaria").
+- **Cap. 16, salto indietro non segnalato**: apre sulla risposta di Tom del cap. 14 e arriva alla mail delle 8:00:01 che il lettore ha già letto nel cap. 15. Una riga di ancoraggio in apertura.
+- **Registro**: "un evento di magnitudine seconda soltanto a…", "un tono che alle sue stesse orecchie suonò decisamente determinato" (cap. 18).
+- **", e" in narrazione** (regola del progetto): cinque nuove, quattro nel cap. 19 e una nel 16.
+- **Cap. 17**: il ritratto di Pete (Smith, Biff, Tabella) arriva prima che Pete faccia qualcosa, come la scheda di Emma criticata in A1.3. Qui regge perché fa ridere e ha un corpo; va solo saputo.
+
+### 9.5 Cosa manca, per scope
+
+**Audiolibro**
+
+1. Episodio 19 senza `description`, `recap` e `teaser` nel frontmatter: è il finale di stagione e nel feed esce senza testo.
+2. Tre POV con una voce sola nel 18 e nel 19: nel copione c'è un solo sottofondo (`[sfx neon under]`). Una firma sonora per POV (nastro per Tom, neon dell'open space per Pete, silenzio per Emma).
+3. I cartelli: nel copione sono righe in maiuscolo lette dal narratore come il resto. Serve un segnale (pausa e *fruscio di carta*, o lo stesso trattamento a scatti del Morse).
+4. Durate: episodio 19 da 21:53, episodio 8 da 4:40. Due parti per il 19, con il taglio all'accensione del LED.
+5. Nessun trailer e nessuna chiusura di stagione (crediti, gancio al Libro 2).
+6. Una battuta ad alta voce per episodio nei cap. 8-13 (A1.1).
+7. `podcast/plan.md` fermo all'episodio 14.
+
+**Testo scritto**
+
+1. Separatori di Parte con titolo (B2.1).
+2. "Mantra prompting" detto una volta, come nome di un vecchio progetto (B2.2).
+3. Finale di volume (B2.5): una pagina che chiuda una domanda, oppure "Libro 1" dichiarato in copertina.
+4. Resa tipografica del cap. 19: cartelli in riquadro, pannelli e Tabella di Conversione in spaziatura fissa, stacco visibile a ogni cambio di POV nei cap. 17-19.
+5. Cap. 8 fuso nel 7 nella sola edizione stampata.
+6. Una stagione dichiarata per Parte e un odore ogni due capitoli (obiettivo di §7.3, non raggiunto).
+7. Tagliare per la pagina i richiami interni dei cap. 12-13 (B1.1).
+8. Pipeline: revise, manuscript-final, export-pdf sui 19 capitoli; copertina verticale con dorso.
+
+### 9.6 Numeri di controllo (29.491 parole)
+
+| Misura | 1 nov (18.138 parole) | 14 nov |
+|---|---|---|
+| Battute di dialogo «» | 36 | 76 (40 nei cap. 15-19, 21 nel solo 19) |
+| Capitoli senza battute | 8-13 | 2, 8-13 |
+| Odori | 2 | 5-6 |
+| Parole di luce | 13 | 31 |
+| Stagione | 5 | 3 (conteggio più stretto), nessuna dopo il cap. 3 |
+| Suoni | 48 | 65 |
+| "esattamente" | 5 | 5 |
+| "il tipo di / il genere di" | 10 | 8 |
+| ", e" in narrazione | 0 | 5 nei capitoli nuovi |
+| Trattini lunghi | 0 | 0 |
+
+Nota di metodo: i conteggi sono ricerche automatiche con schemi leggermente diversi da quelli del 1° novembre; valgono come ordine di grandezza, non come confronto alla singola unità.
