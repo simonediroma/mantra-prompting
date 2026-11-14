@@ -34,7 +34,8 @@
    "nome": "Cliente del televisore del primo contatto",
    "capitoli": [
     1,
-    6
+    6,
+    19
    ]
   },
   {
@@ -58,7 +59,8 @@
     15,
     16,
     17,
-    18
+    18,
+    19
    ]
   },
   {
@@ -114,7 +116,8 @@
     15,
     16,
     17,
-    18
+    18,
+    19
    ]
   },
   {
@@ -126,7 +129,8 @@
     5,
     7,
     8,
-    9
+    9,
+    19
    ]
   },
   {
@@ -143,7 +147,8 @@
     13,
     14,
     15,
-    18
+    18,
+    19
    ]
   },
   {
@@ -176,7 +181,8 @@
     15,
     16,
     17,
-    18
+    18,
+    19
    ]
   },
   {
@@ -214,7 +220,8 @@
     9,
     10,
     14,
-    18
+    18,
+    19
    ]
   },
   {
@@ -238,7 +245,8 @@
     9,
     10,
     16,
-    17
+    17,
+    19
    ]
   },
   {
@@ -264,7 +272,8 @@
    "tipo": "oggetto",
    "nome": "L'appuntamento «Doppia» di Pete",
    "capitoli": [
-    18
+    18,
+    19
    ]
   },
   {
@@ -308,7 +317,8 @@
    "tipo": "oggetto",
    "nome": "L'avatar e lo sfondo di Emma",
    "capitoli": [
-    18
+    18,
+    19
    ]
   },
   {
@@ -357,6 +367,14 @@
    "nome": "Carrello delle pulizie",
    "capitoli": [
     10
+   ]
+  },
+  {
+   "id": "cartelli-di-tom",
+   "tipo": "oggetto",
+   "nome": "I cinque cartelli di Tom",
+   "capitoli": [
+    19
    ]
   },
   {
@@ -519,7 +537,8 @@
    "tipo": "oggetto",
    "nome": "Il LED del faretto da giardino (la contromossa di Tom)",
    "capitoli": [
-    18
+    18,
+    19
    ]
   },
   {
@@ -557,7 +576,8 @@
    "tipo": "oggetto",
    "nome": "Log di sistema del secondo televisore",
    "capitoli": [
-    3
+    3,
+    19
    ]
   },
   {
@@ -600,7 +620,8 @@
     2,
     3,
     14,
-    15
+    15,
+    19
    ]
   },
   {
@@ -608,7 +629,8 @@
    "tipo": "oggetto",
    "nome": "La newsletter di Benessere Meridian (modalità presenza)",
    "capitoli": [
-    16
+    16,
+    19
    ]
   },
   {
@@ -745,6 +767,14 @@
    ]
   },
   {
+   "id": "scatti-di-pete",
+   "tipo": "oggetto",
+   "nome": "I sette scatti di Pete",
+   "capitoli": [
+    19
+   ]
+  },
+  {
    "id": "scheda-cliente-secondo-tv",
    "tipo": "oggetto",
    "nome": "Scheda cliente del secondo televisore",
@@ -786,7 +816,8 @@
    "tipo": "oggetto",
    "nome": "La telecamera di sorveglianza e il suo pannello",
    "capitoli": [
-    18
+    18,
+    19
    ]
   },
   {
@@ -818,6 +849,14 @@
    ]
   },
   {
+   "id": "trascrizione-del-meeting",
+   "tipo": "oggetto",
+   "nome": "La trascrizione del meeting",
+   "capitoli": [
+    19
+   ]
+  },
+  {
    "id": "tritatutto",
    "tipo": "oggetto",
    "nome": "Il tritatutto con la ciotola rigata",
@@ -833,7 +872,8 @@
     1,
     2,
     3,
-    6
+    6,
+    19
    ]
   },
   {
@@ -849,7 +889,8 @@
     13,
     14,
     15,
-    16
+    16,
+    19
    ]
   },
   {
@@ -860,7 +901,8 @@
     4,
     5,
     6,
-    14
+    14,
+    19
    ]
   },
   {
@@ -874,7 +916,8 @@
     7,
     8,
     9,
-    13
+    13,
+    19
    ]
   },
   {
@@ -931,7 +974,8 @@
     9,
     14,
     15,
-    18
+    18,
+    19
    ]
   },
   {
@@ -939,7 +983,8 @@
    "tipo": "luogo",
    "nome": "La mensa",
    "capitoli": [
-    14
+    14,
+    19
    ]
   },
   {
@@ -956,7 +1001,8 @@
    "tipo": "luogo",
    "nome": "La postazione di Pete (open space dei supervisori)",
    "capitoli": [
-    18
+    18,
+    19
    ]
   },
   {
@@ -980,7 +1026,8 @@
     10,
     11,
     13,
-    16
+    16,
+    19
    ]
   },
   {
@@ -1047,7 +1094,8 @@
    "tipo": "concetto",
    "nome": "Il bivio",
    "capitoli": [
-    17
+    17,
+    19
    ]
   },
   {
@@ -1091,7 +1139,8 @@
    "tipo": "concetto",
    "nome": "Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio",
    "capitoli": [
-    13
+    13,
+    19
    ]
   },
   {
@@ -1159,7 +1208,8 @@
    "tipo": "concetto",
    "nome": "Trascrizione automatica obbligatoria",
    "capitoli": [
-    18
+    18,
+    19
    ]
   },
   {
@@ -1192,7 +1242,8 @@
    "tipo": "termine",
    "nome": "«compacting context»",
    "capitoli": [
-    1
+    1,
+    19
    ]
   },
   {
@@ -1257,7 +1308,8 @@
    "nome": "Modalità presenza",
    "capitoli": [
     16,
-    18
+    18,
+    19
    ]
   },
   {
@@ -2114,6 +2166,70 @@
    "capitoli": [
     18
    ]
+  },
+  {
+   "id": "e19-01",
+   "tipo": "evento",
+   "nome": "Le tre meno due - Tom pronto, Pete spreca il primo scatto",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-02",
+   "tipo": "evento",
+   "nome": "Le 15:00:01 - Emma entra; i due si vedono",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-03",
+   "tipo": "evento",
+   "nome": "«Per la trascrizione» - Tom detta, Emma capisce",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-04",
+   "tipo": "evento",
+   "nome": "Pete muove la telecamera; Tom accende il LED",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-05",
+   "tipo": "evento",
+   "nome": "I cinque cartelli",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-06",
+   "tipo": "evento",
+   "nome": "Il clic del filtro - «un caffè in mensa»",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-07",
+   "tipo": "evento",
+   "nome": "Emma resta sola - lo sfondo senza nessuno davanti",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-08",
+   "tipo": "evento",
+   "nome": "Alle quattro Pete legge la trascrizione e ingrandisce il settimo scatto - «Inizia la caccia»",
+   "capitoli": [
+    19
+   ]
   }
  ],
  "archi": [
@@ -2417,6 +2533,20 @@
    "tipo": "può usare",
    "nota": "",
    "fonte": "c18:66-68"
+  },
+  {
+   "da": "pete",
+   "a": "scatti-di-pete",
+   "tipo": "ha fatto",
+   "nota": "",
+   "fonte": "c19:17"
+  },
+  {
+   "da": "pete",
+   "a": "trascrizione-del-meeting",
+   "tipo": "riceve",
+   "nota": "",
+   "fonte": "c19:85"
   },
   {
    "da": "ragazza-del-video-yoga",
@@ -2734,6 +2864,13 @@
    "fonte": "c18:60"
   },
   {
+   "da": "tom",
+   "a": "cartelli-di-tom",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c19:39"
+  },
+  {
    "da": "coordinamento-assistenza",
    "a": "meridian",
    "tipo": "parte di",
@@ -2965,6 +3102,41 @@
    "fonte": "c10:13"
   },
   {
+   "da": "cartelli-di-tom",
+   "a": "emma",
+   "tipo": "mostrati a",
+   "nota": "",
+   "fonte": "c19:45"
+  },
+  {
+   "da": "cartelli-di-tom",
+   "a": "led-del-faretto",
+   "tipo": "protetti dal",
+   "nota": "",
+   "fonte": "c19:45"
+  },
+  {
+   "da": "cartelli-di-tom",
+   "a": "video-della-voss",
+   "tipo": "rivelano l'esistenza di",
+   "nota": "",
+   "fonte": "c19:61"
+  },
+  {
+   "da": "cartelli-di-tom",
+   "a": "tv-caso-zero",
+   "tipo": "rivelano l'esistenza di",
+   "nota": "",
+   "fonte": "c19:67"
+  },
+  {
+   "da": "cartelli-di-tom",
+   "a": "codice-morse",
+   "tipo": "rivelano",
+   "nota": "",
+   "fonte": "c19:47"
+  },
+  {
    "da": "cassetto-della-scrivania",
    "a": "laboratorio-di-tom",
    "tipo": "si trova in",
@@ -3152,6 +3324,13 @@
    "tipo": "interrotto allo stesso modo di",
    "nota": "",
    "fonte": "c3:19"
+  },
+  {
+   "da": "log-tv-secondo-contatto",
+   "a": "compacting-context",
+   "tipo": "termina con",
+   "nota": "",
+   "fonte": "c19:39"
   },
   {
    "da": "mail-bluff-di-tom",
@@ -3364,6 +3543,27 @@
    "fonte": "c14:39"
   },
   {
+   "da": "scatti-di-pete",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "fatti con la",
+   "nota": "",
+   "fonte": "c19:17"
+  },
+  {
+   "da": "scatti-di-pete",
+   "a": "tom",
+   "tipo": "ritraggono",
+   "nota": "",
+   "fonte": "c19:87"
+  },
+  {
+   "da": "scatti-di-pete",
+   "a": "avatar-di-emma",
+   "tipo": "ritraggono",
+   "nota": "",
+   "fonte": "c19:87"
+  },
+  {
    "da": "sito-del-giradischi",
    "a": "giradischi-di-tom",
    "tipo": "documenta",
@@ -3453,6 +3653,20 @@
    "tipo": "analizzato da",
    "nota": "",
    "fonte": "c9:19"
+  },
+  {
+   "da": "trascrizione-del-meeting",
+   "a": "trascrizione-automatica",
+   "tipo": "prodotta dalla",
+   "nota": "",
+   "fonte": "c19:85"
+  },
+  {
+   "da": "trascrizione-del-meeting",
+   "a": "compacting-context",
+   "tipo": "cita",
+   "nota": "",
+   "fonte": "c19:85"
   },
   {
    "da": "tv-caso-zero",
@@ -9197,6 +9411,601 @@
   {
    "da": "e18-03",
    "a": "e18-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "cartelli-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "led-del-faretto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "scatti-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "appuntamento-doppia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "postazione-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-05",
+   "a": "e19-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-06",
+   "a": "e19-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "avatar-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "modalita-presenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "stanza-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "e19-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-04",
+   "a": "e19-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "trascrizione-automatica",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "trascrizione-del-meeting",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "log-tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "compacting-context",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "cartelli-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "e19-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "scatti-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "led-del-faretto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "postazione-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "e19-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "cartelli-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "codice-morse",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "angelo-della-morte",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "e19-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "e19-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "e19-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "e19-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "e19-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "led-del-faretto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "cartelli-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "scatti-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "mensa",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "trascrizione-del-meeting",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "e19-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "avatar-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "modalita-presenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "cartelli-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "e19-07",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "trascrizione-del-meeting",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "scatti-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "tabella-di-conversione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "smutandata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "avatar-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "ispettori-interni",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "appuntamento-doppia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "postazione-di-pete",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "e19-08",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "e19-08",
    "tipo": "porta a",
    "nota": "",
    "fonte": ""

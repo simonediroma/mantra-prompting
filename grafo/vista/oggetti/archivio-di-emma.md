@@ -37,4 +37,6 @@ L'archivio privato in cui Emma registra i dispositivi con IA che i clienti segna
 1. `e12-02` (cap. 12, la stessa mattina) — [Emma scopre che il tecnico del televisore Voss era Tom](../eventi/e12-02.md)
 1. `e13-01` (cap. 13, la stessa mattina del cap. 12) — [Emma trova lo spettatore unico del video di yoga](../eventi/e13-01.md)
 1. `e13-02` (cap. 13, la stessa mattina) — [Emma rilegge tutto l'archivio - ogni caso ha la sua curva](../eventi/e13-02.md)
+1. `e19-05` (cap. 19, durante il meeting, a telecamera accecata) — [I cinque cartelli](../eventi/e19-05.md)
+1. `e19-07` (cap. 19, subito dopo il meeting) — [Emma resta sola - lo sfondo senza nessuno davanti](../eventi/e19-07.md)
 

@@ -1,12 +1,13 @@
 id: il-bivio
 nome: Il bivio
-capitoli: [17]
+capitoli: [17, 19]
 sintesi: "«O le chiedo di vederci. O chiudo qui.» La scelta davanti a cui la mail delle 23:34 mette Tom."
 caratteristiche:
   - {testo: "Da quella notte Pete ha un motivo per leggere ogni parola che Tom scrive a Emma, e forse qualcuno più in alto: Morse, video, telefonata e la morte taciuta non possono più passare per iscritto", fonte: "c17:20"}
   - {testo: "Vederla di persona: l'unico modo di parlarle senza un supervisore in mezzo, ma vuol dire «giocarsi in un'ora dodici anni di porte chiuse a doppia mandata»", fonte: "c17:24"}
   - {testo: "Chiudere: non risponderle più, rimettere il quaderno accanto ai manuali, tornare a un banco dove nessuno gli dice «guarda qui»", fonte: "c17:24"}
   - {testo: "Tom non decide: rimanda alle otto, con una notte in mezzo", fonte: "c17:24"}
+  - {testo: "Esito: Tom ha scelto di vederla, e alla fine le propone un incontro vero, in mensa", fonte: "c19:75"}
 relazioni:
   - {verso: mail-delle-2334, tipo: "provocato da", fonte: "c17:16"}
 

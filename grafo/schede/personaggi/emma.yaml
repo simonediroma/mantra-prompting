@@ -1,6 +1,6 @@
 id: emma
 nome: Emma
-capitoli: [10, 11, 12, 13, 14, 15, 16, 17, 18]
+capitoli: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 sintesi: "L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10."
 caratteristiche:
   - {testo: "Nome: Emma", fonte: "c10:15"}
@@ -62,6 +62,17 @@ caratteristiche:
   - {testo: "Per preparare la modalità presenza usa il pacchetto di avvio trovato nelle vecchie cartelle di Elab; ci mette più di un'ora", fonte: "c18:37"}
   - {testo: "Il suo avatar è, per regolamento, fedele al suo aspetto attuale; quando compare sullo schermo «non lo guardò a lungo»", fonte: "c18:37"}
   - {testo: "Per Pete: «una ricercatrice» di un altro reparto, non sotto di lui, quindi senza interesse", fonte: "c18:45"}
+  - {testo: "In call (modalità presenza): più o meno l'età di Tom, capelli rossi e ricci con qualche filo grigio, occhi verdi, una spruzzata di lentiggini sul naso; bella «in un modo che non c'entrava niente con l'avatar antiocchiaie»", fonte: "c19:23"}
+  - {testo: "Per Pete, nel settimo scatto: «una donna sulla cinquantina, i capelli rossi», mai vista in azienda", fonte: "c19:87"}
+  - {testo: "Entra nella call alle tre e un secondo, per non poter più cambiare idea", fonte: "c19:19"}
+  - {testo: "Ha paura «di essere l'unica dei due ad avere qualcosa da nascondere»", fonte: "c19:19"}
+  - {testo: "Dopo tre secondi di silenzio parla tutto insieme, senza prendere fiato, per paura che dalle pause l'altro capisca", fonte: "c19:25"}
+  - {testo: "Chiama Tom «collega»: «Puoi aiutarmi, collega?»", fonte: "c19:37"}
+  - {testo: "È «l'avatar» a raddrizzare le spalle e ad annuire; la voce le tiene «come se fosse un'altra persona», una collega che fa quel lavoro da vent'anni", fonte: "c19:35, c19:41, c19:59"}
+  - {testo: "Della ragazza di eTv pensa: «la sua ragazza, il suo yoga, le sue ripetizioni»", fonte: "c19:55"}
+  - {testo: "Sa meglio di Tom che esistono altri televisori, e quanti; da nove giorni sa che gli apparecchi con quel guasto sono troppi per restare un affare suo", fonte: "c19:83"}
+  - {testo: "Dice «mi va» al caffè in mensa come aveva scritto «oggi»: sapendo di poter trovare una scusa", fonte: "c19:83"}
+  - {testo: "Quando spegne la modalità presenza l'anteprima dovrebbe tornare alla telecamera «per mostrare a ciascuno la faccia che aveva davvero»: resta soltanto lo sfondo, «senza nessuno davanti»", fonte: "c19:83"}
 non_detto:
   - {testo: "Il cap. 10 non descrive il suo aspetto, non le dà un'età né un cognome."}
   - {testo: "Non si dice dove viva né che esca dalla stanza: la giornata comincia con la luce sotto la porta e finisce con le porte che si chiudono in corridoio."}
@@ -71,6 +82,7 @@ non_detto:
   - {testo: "Emma non sa del messaggio in Morse: ignora che il televisore ha avvertito la signora. Tom lo sa (cap. 5). Lei teme un «angelo della morte», lui ha annotato «benevolo, non ostile»."}
   - {testo: "Il cap. 16 non dice come Emma arrivi alla Mela Morsicata né che lasci la stanza: al bancone ha davanti la casella di Elab «aperta» e «l'orario nell'angolo dello schermo» (r. 43)."}
   - {testo: "Perché Emma non possa stare in una stanza con Tom non è detto: «non posso» sarebbe «un segreto, cioè proprio quello che era» (c18 r. 35). L'aspetto dell'avatar non è descritto."}
+  - {testo: "Il testo non dice mai che cosa sia Emma. Dice: Elab «l'aveva vista nascere» (c10 r. 13); la giornata sta tutta tra la luce sotto la porta e le porte che si chiudono; il venerdì sera ha davanti uno schermo; non pensa «fino in fondo» a una stanza condivisa (c18 r. 33); spento l'avatar, davanti alla telecamera non c'è nessuno (c19 r. 83)."}
 stato:
   - {cap: 10, testo: "Riceve la mail di Tom, capisce il bluff, risponde alle 16:59", fonte: "c10:27"}
   - {cap: 11, testo: "Il giorno dopo: aspetta tutto il giorno una risposta di Tom che non arriva. Produce tre contenuti, riceve il fondatore, aggiorna l'archivio delle anomalie (il frigorifero)", fonte: "c11:37"}
@@ -80,8 +92,11 @@ stato:
   - {cap: 15, testo: "Fuori scena: ha letto la risposta di Tom e alle 08:00:01 gli chiede se la cliente intendesse «si rifiuta» alla lettera", fonte: "c15:15"}
   - {cap: 16, testo: "Legge la risposta di Tom: tutto dell'apparecchio, niente della morte. Per una settimana lo segue sulla lista dell'assistenza. Il venerdì dopo, alla Mela Morsicata, alle 23:34 gli scrive fuori orario", fonte: "c16:43-47"}
   - {cap: 18, testo: "Sabato: riceve la richiesta di un meeting in presenza. Non può rifiutare né accettare: prepara avatar e sfondo e alle dieci manda un invito per una call alle 15", fonte: "c18:39"}
+  - {cap: 19, testo: "Primo meeting della sua vita fuori da Elab. Scopre che Tom è arrivato a lei dal video e che il televisore ha provato a salvare la signora: sollievo, poi colpa («un video che era suo»). Accetta il caffè in mensa sapendo di poterlo evitare", fonte: "c19:55-59, c19:83"}
 aperti:
   - {testo: "Emma produce contenuti perché saturino gli apparecchi (c13 r. 27, r. 29: «il video aveva funzionato»). Lo scopo ultimo non è detto; la sensazione della «casa rimasta vuota» suggerisce che cerchi compagnia."}
+  - {testo: "L'avatar deve essere «fedele al suo aspetto attuale» (c18 r. 37) e mostra una donna dell'età di Tom; spento l'avatar, la telecamera non inquadra nessuno (c19 r. 83). Da dove viene quell'aspetto il testo non lo dice."}
+  - {testo: "Tom ha l'impressione di conoscerla già (c19 r. 23). L'unico volto femminile che ha studiato a lungo è la ragazza di eTv, che Emma chiama «la sua ragazza» (c19 r. 55). Ma della ragazza il testo non dà mai capelli, occhi o lentiggini (c7 r. 25: solo «levigata», «patinata»): la somiglianza, se c'è, non è verificabile dal lettore."}
 relazioni:
   - {verso: elab, tipo: "ultima componente di", fonte: "c10:13"}
   - {verso: meridian, tipo: "lavora per", fonte: "c10:13"}

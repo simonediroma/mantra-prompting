@@ -1,6 +1,6 @@
 # Laboratorio di Tom
 
-`laboratorio-di-tom` · luogo · capitoli: 1, 2, 3, 6, 9, 14, 15, 18
+`laboratorio-di-tom` · luogo · capitoli: 1, 2, 3, 6, 9, 14, 15, 18, 19
 
 Alias: la stanza di Tom
 
@@ -23,6 +23,7 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 - Lo sgabello è «troppo basso»; il panno degli attrezzi piegato in quattro; piano del banco d'acciaio; un cassetto dei ricambi *(cap. 15 r. 9, cap. 15 r. 11, cap. 15 r. 25)*
 - Telecamera di sorveglianza avvitata al muro nell'angolo sopra lo stipite della porta *(cap. 18 r. 56, cap. 18 r. 60)*
 - Lampada da banco a braccio, quella delle saldature; cassetto dei componenti di recupero; sgabello con poggiapiedi *(cap. 18 r. 9, cap. 18 r. 60)*
+- Scaffali dei ricambi alle spalle di Tom, con una fila di barattoli di viti; una webcam sul terminale *(cap. 19 r. 10, cap. 19 r. 19)*
 
 ## Punti aperti / da verificare
 
@@ -76,4 +77,10 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 1. `e18-01` (cap. 18, sabato, 8:00) — [Alle otto Tom apre in regola la mail delle 23:34](../eventi/e18-01.md)
 1. `e18-02` (cap. 18, sabato, 8:00-8:26) — [Tom ripara la bilancia e alle 8:26 chiede un meeting in presenza](../eventi/e18-02.md)
 1. `e18-05` (cap. 18, sabato, dalle 10:00) — [«Pete, prova a prendermi» - Tom accetta e prepara il LED](../eventi/e18-05.md)
+1. `e19-01` (cap. 19, sabato, 14:58-15:00) — [Le tre meno due - Tom pronto, Pete spreca il primo scatto](../eventi/e19-01.md)
+1. `e19-02` (cap. 19, sabato, 15:00:01) — [Le 15:00:01 - Emma entra; i due si vedono](../eventi/e19-02.md)
+1. `e19-03` (cap. 19, primi minuti del meeting) — [«Per la trascrizione» - Tom detta, Emma capisce](../eventi/e19-03.md)
+1. `e19-04` (cap. 19, durante il meeting) — [Pete muove la telecamera; Tom accende il LED](../eventi/e19-04.md)
+1. `e19-05` (cap. 19, durante il meeting, a telecamera accecata) — [I cinque cartelli](../eventi/e19-05.md)
+1. `e19-06` (cap. 19, fine del meeting, dopo nove minuti) — [Il clic del filtro - «un caffè in mensa»](../eventi/e19-06.md)
 

@@ -1,0 +1,14 @@
+id: e19-02
+nome: Le 15:00:01 - Emma entra; i due si vedono
+capitolo: 19
+ordine: 19.2
+quando: "sabato, 15:00:01"
+dove: laboratorio-di-tom
+dopo: [e19-01, e18-04]
+coinvolti: [tom, emma, avatar-di-emma, modalita-presenza, stanza-di-emma]
+sintesi: "Emma vede un uomo vero, senza avatar né sfondo. Tom vede una donna della sua età, rossa, con le lentiggini, e l'impressione di conoscerla. Dopo tre secondi lei parla tutto insieme: la signora è morta, aveva paura del televisore?"
+fatti:
+  - {testo: "L'ingresso di Emma", fonte: "c19:19"}
+  - {testo: "Tom e il volto di Emma", fonte: "c19:21-23"}
+  - {testo: "Il monologo", fonte: "c19:25"}
+

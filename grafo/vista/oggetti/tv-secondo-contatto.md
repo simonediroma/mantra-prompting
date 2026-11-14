@@ -1,6 +1,6 @@
 # Televisore del secondo contatto
 
-`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6, 12, 13, 14, 15, 16
+`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6, 12, 13, 14, 15, 16, 19
 
 Alias: il secondo televisore, quinta voce del quaderno, il televisore della signora Voss
 
@@ -36,6 +36,8 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - Ipotesi di Tom su come sapesse del cuore: stava sullo stesso account dell'eWatch della signora e ne vedeva i battiti; acceso otto ore al giorno, ha dedotto da solo dove andava a finire *(cap. 15 r. 27)*
 - Nelle parole di Tom: «la serie da salotto con l'assistente integrato» *(cap. 16 r. 11)*
 - L'unico caso in tutta l'assistenza in cui «si rifiuta» ha voluto dire proprio quello *(cap. 16 r. 21)*
+- Tom lo descrive per il verbale: «televisore della serie da salotto con assistente integrato, rientrato con il lotto del ricondizionamento» *(cap. 19 r. 29)*
+- Sui cartelli: parla in Morse; ha provato a salvare la signora *(cap. 19 r. 47, cap. 19 r. 57)*
 
 ## Cosa NON dice il testo
 
@@ -103,4 +105,5 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
 1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
 1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)
+1. `e19-05` (cap. 19, durante il meeting, a telecamera accecata) — [I cinque cartelli](../eventi/e19-05.md)
 

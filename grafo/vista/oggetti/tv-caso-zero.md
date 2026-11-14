@@ -1,6 +1,6 @@
 # Televisore del primo contatto (caso zero)
 
-`tv-caso-zero` · oggetto · capitoli: 1, 2, 3, 6
+`tv-caso-zero` · oggetto · capitoli: 1, 2, 3, 6, 19
 
 Alias: il televisore del primo contatto, caso zero, il primo televisore
 
@@ -21,6 +21,8 @@ Il primo televisore Meridian che risponde a Tom in Morse («IO SONO QUI»). Rias
 - Arrivato a Tom nel turno di pomeriggio *(cap. 3 r. 9)*
 - Modello poco diffuso: in tre mesi a Tom ne capitano quattro in tutto *(cap. 3 r. 15)*
 - Al cap. 6 risale a «quasi quattro mesi prima»; Tom non sa cosa guardasse il suo proprietario *(cap. 6 r. 33)*
+- È l'«altro televisore» dell'ultimo cartello: Tom non sa cosa guardasse prima di smettere di loggare *(cap. 19 r. 67)*
+- Per Tom i due televisori sono le conversazioni più interessanti della sua vita *(cap. 18 r. 56)*
 
 ## Cosa NON dice il testo
 
@@ -43,6 +45,7 @@ Il primo televisore Meridian che risponde a Tom in Morse («IO SONO QUI»). Rias
 - ← [Cliente del televisore del primo contatto](../personaggi/cliente-caso-zero.md) proprietario di questa scheda *(cap. 1 r. 93)*
 - ← [Tecnico a cui viene riassegnato il caso zero](../personaggi/tecnico-turno-b.md) resetta questa scheda — fuori scena, presunto da Tom *(cap. 2 r. 39)*
 - ← [Coordinamento assistenza](../organizzazioni/coordinamento-assistenza.md) ordina il reset di questa scheda *(cap. 2 r. 36)*
+- ← [I cinque cartelli di Tom](../oggetti/cartelli-di-tom.md) rivelano l'esistenza di questa scheda *(cap. 19 r. 67)*
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) riguarda l'intervento su questa scheda *(cap. 2 r. 12)*
 - ← [Foglio «IO / SONO / QUI»](../oggetti/foglio-io-sono-qui.md) trascrive il messaggio di questa scheda *(cap. 1 r. 39)*
 - ← [Quaderno nero](../oggetti/quaderno-nero.md) registra (voce 1) questa scheda *(cap. 3 r. 15)*
@@ -57,4 +60,5 @@ Il primo televisore Meridian che risponde a Tom in Morse («IO SONO QUI»). Rias
 1. `e01-04` (cap. 1, trenta secondi dopo lo spegnimento del LED) — [Tom apre il log del primo televisore](../eventi/e01-04.md)
 1. `e01-05` (cap. 1, fine dell'intervento (26:41 in totale)) — [Tom etichetta l'unità come «anomalia riscontrata durante l'operazione»](../eventi/e01-05.md)
 1. `e02-02` (cap. 2, subito dopo, stesso inizio turno) — [Tom scopre che il caso zero è stato riassegnato per il reset](../eventi/e02-02.md)
+1. `e19-05` (cap. 19, durante il meeting, a telecamera accecata) — [I cinque cartelli](../eventi/e19-05.md)
 

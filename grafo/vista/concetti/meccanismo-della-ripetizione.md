@@ -1,6 +1,6 @@
 # Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio
 
-`meccanismo-della-ripetizione` · concetto · capitoli: 13
+`meccanismo-della-ripetizione` · concetto · capitoli: 13, 19
 
 Ciò che Emma sa da sempre: un apparecchio che riceve lo stesso contenuto abbastanza volte da non avere più spazio per altro cambia comportamento. Ogni caso del suo archivio ha la stessa curva.
 
@@ -11,6 +11,7 @@ Ciò che Emma sa da sempre: un apparecchio che riceve lo stesso contenuto abbast
 - I log mancano proprio nei giorni in cui la curva sale più in fretta *(cap. 13 r. 33)*
 - Per Emma un picco è il segno che un contenuto «aveva fatto quello che doveva» *(cap. 13 r. 27)*
 - È la stessa cosa che Emma evita con il fondatore: sa «dove poteva portare una domanda ripetuta abbastanza a lungo» *(cap. 11 r. 25)*
+- Il cap. 19 dà il pezzo tecnico: la finestra di contesto che si riempie e il compattamento. Il legame con la ripetizione resta implicito *(cap. 19 r. 41)*
 
 ## Cosa NON dice il testo
 

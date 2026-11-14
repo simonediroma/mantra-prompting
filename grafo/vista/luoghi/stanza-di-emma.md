@@ -1,6 +1,6 @@
 # La stanza di Emma (ex laboratorio Elab)
 
-`stanza-di-emma` · luogo · capitoli: 10, 11, 13, 16
+`stanza-di-emma` · luogo · capitoli: 10, 11, 13, 16, 19
 
 La stanza in cui Emma lavora da sola.
 
@@ -14,6 +14,7 @@ La stanza in cui Emma lavora da sola.
 - Il corridoio è silenzioso già dieci minuti prima delle diciassette *(cap. 11 r. 37)*
 - Alle dieci passa in corridoio il carrello del caffè («cri-cri»), che davanti alla sua porta non si ferma mai *(cap. 13 r. 35)*
 - Le porte del corridoio si richiudono dopo la pausa pranzo e una dopo l'altra alle cinque *(cap. 16 r. 9, cap. 16 r. 23)*
+- Durante e dopo il meeting nel corridoio non passa nessuno; nessuno le ha detto che il meeting era trascritto *(cap. 19 r. 31, cap. 19 r. 83)*
 
 ## Cosa NON dice il testo
 
@@ -55,4 +56,6 @@ La stanza in cui Emma lavora da sola.
 1. `e16-03` (cap. 16, da sabato a giovedì) — [Una settimana di silenzio - Emma segue Tom sulla lista](../eventi/e16-03.md)
 1. `e16-04` (cap. 16, giovedì; venerdì alle cinque la casella è vuota da sei giorni) — [Emma decide di parlargli lei della morte, lunedì alle otto](../eventi/e16-04.md)
 1. `e18-04` (cap. 18, sabato, dalle 8:26 alle 10:00) — [Emma risponde con un invito - «oggi» alle 15](../eventi/e18-04.md)
+1. `e19-02` (cap. 19, sabato, 15:00:01) — [Le 15:00:01 - Emma entra; i due si vedono](../eventi/e19-02.md)
+1. `e19-07` (cap. 19, subito dopo il meeting) — [Emma resta sola - lo sfondo senza nessuno davanti](../eventi/e19-07.md)
 

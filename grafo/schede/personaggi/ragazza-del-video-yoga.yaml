@@ -1,7 +1,7 @@
 id: ragazza-del-video-yoga
 nome: La ragazza dei video eTv
 alias: ["la ragazza del video di yoga", "la ragazza con sei dita"]
-capitoli: [4, 5, 7, 8, 9]
+capitoli: [4, 5, 7, 8, 9, 19]
 sintesi: "La protagonista di tutti i video del canale eTv: yoga, idraulica, cucina, musica. Generata, non filmata."
 caratteristiche:
   - {testo: "«Una ragazza che sembrava avere vent'anni ed era così brava a spiegare gli esercizi»", fonte: "c4:31"}
@@ -14,6 +14,7 @@ caratteristiche:
   - {testo: "Canta con voce impeccabile, «priva di qualunque imperfezione»", fonte: "c8:9"}
   - {testo: "Non ha nome, biografia, profili: a chi gestisce il canale non interessa che qualcuno si ricordi di lei", fonte: "c8:11, c8:13"}
   - {testo: "Nel parlato si presenta così: «Ciao, sono qui per darti la routine che ha cambiato la mia vita»", fonte: "c9:17"}
+  - {testo: "Per Emma è «la sua ragazza»", fonte: "c19:55"}
 relazioni:
   - {verso: video-yoga, tipo: "compare in", fonte: "c4:31"}
 

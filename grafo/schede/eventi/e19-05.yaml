@@ -1,0 +1,15 @@
+id: e19-05
+nome: I cinque cartelli
+capitolo: 19
+ordine: 19.5
+quando: "durante il meeting, a telecamera accecata"
+dove: laboratorio-di-tom
+dopo: [e19-04, e05-03, e09-03, e04-04, e01-04]
+coinvolti: [tom, emma, cartelli-di-tom, codice-morse, video-yoga, video-della-voss, tv-secondo-contatto, tv-caso-zero, signora-voss, angelo-della-morte, archivio-di-emma]
+sintesi: "Morse; il video della Voss; il televisore ha provato a salvarla; un video in cui è palese; un altro televisore. Emma si sente scoperta, poi sollevata (non era una minaccia), poi colpevole: l'ha salvata da un video suo. All'ultimo cartello capisce che la signora non era l'inizio."
+fatti:
+  - {testo: "Cartello 1", fonte: "c19:47-49"}
+  - {testo: "Cartello 2 e la reazione", fonte: "c19:53-55"}
+  - {testo: "Cartello 3 e la reazione", fonte: "c19:57-59"}
+  - {testo: "Cartelli 4 e 5", fonte: "c19:61-69"}
+

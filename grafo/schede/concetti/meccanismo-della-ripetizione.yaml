@@ -1,6 +1,6 @@
 id: meccanismo-della-ripetizione
 nome: Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio
-capitoli: [13]
+capitoli: [13, 19]
 sintesi: "Ciò che Emma sa da sempre: un apparecchio che riceve lo stesso contenuto abbastanza volte da non avere più spazio per altro cambia comportamento. Ogni caso del suo archivio ha la stessa curva."
 caratteristiche:
   - {testo: "«Cosa succedesse a un apparecchio che riceveva la stessa cosa tante volte da non avere più spazio per nient'altro, Emma lo sapeva da prima dell'archivio, da prima di eTv»", fonte: "c13:27"}
@@ -8,6 +8,7 @@ caratteristiche:
   - {testo: "I log mancano proprio nei giorni in cui la curva sale più in fretta", fonte: "c13:33"}
   - {testo: "Per Emma un picco è il segno che un contenuto «aveva fatto quello che doveva»", fonte: "c13:27"}
   - {testo: "È la stessa cosa che Emma evita con il fondatore: sa «dove poteva portare una domanda ripetuta abbastanza a lungo»", fonte: "c11:25"}
+  - {testo: "Il cap. 19 dà il pezzo tecnico: la finestra di contesto che si riempie e il compattamento. Il legame con la ripetizione resta implicito", fonte: "c19:41"}
 non_detto:
   - {testo: "Il testo non collega esplicitamente questo meccanismo alla riga «compacting context» dei log (cap. 1): il legame è lasciato al lettore."}
   - {testo: "Il meccanismo non ha ancora un nome nel testo."}

@@ -1,6 +1,6 @@
 # Pete
 
-`pete` · personaggio · capitoli: 2, 4, 5, 14, 15, 16, 17, 18
+`pete` · personaggio · capitoli: 2, 4, 5, 14, 15, 16, 17, 18, 19
 
 Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come firma in fondo alla comunicazione formale.
 
@@ -36,6 +36,11 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 - Ciò che non è sotto di lui non gli interessa: Elab, Emma, «cose da nerd», gente che parla «dei sentimenti dei televisori» *(cap. 18 r. 45)*
 - Chiama la signora Voss «la vecchia»; dà per scontato che sia morta di cause naturali: «i televisori non ammazzavano nessuno» *(cap. 18 r. 45)*
 - Può vedere il calendario di ogni sottoposto, attivare la trascrizione automatica obbligatoria, aprire il pannello della sorveglianza (anteprima e sette scatti) *(cap. 18 r. 62-68)*
+- «Faceva sempre quello che gli diceva il telefono»: spreca il primo scatto al promemoria, su un uomo che aspetta *(cap. 19 r. 17)*
+- Con gli apparecchi: li muove e si rompono, «l'ordine normale degli eventi»; premere quattro volte come un telecomando che non risponde *(cap. 19 r. 51)*
+- Al liceo diceva davvero «Quel pennarello te lo faccio mangiare»; chi nasconde con il corpo finiva nel suo armadietto *(cap. 19 r. 89-91)*
+- Si sente limitato dalle stesse regole che fa rispettare; vuole essere ispettore, con accesso illimitato alla sorveglianza *(cap. 19 r. 93)*
+- Camicia pulita; secondo sacchetto di onion rings della giornata *(cap. 19 r. 12, cap. 19 r. 85)*
 
 ## Cosa NON dice il testo
 
@@ -52,6 +57,7 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 - **Cap. 15** — In scena: passa nel corridoio e rallenta davanti alla stanza di Tom *(cap. 15 r. 23)*
 - **Cap. 17** — Venerdì alle 23:59 riceve la segnalazione della mail fuori orario a Tom. Mette in fila sanzione, mail di dieci giorni prima, porta accostata. Aspetta che Tom la apra; si addormenta col telefono sulla pancia *(cap. 17 r. 60)*
 - **Cap. 18** — Sabato: legge per la prima volta l'intero thread. La morte taciuta da Tom è il «primo mattone». Attiva la trascrizione per il meeting delle 15 e si crea l'appuntamento «Doppia» *(cap. 18 r. 47, cap. 18 r. 70)*
+- **Cap. 19** — Segue il meeting dal pannello: sette scatti, di cui uno sprecato e quattro bianchi. La trascrizione è pulita (zero minuti). Ma nel settimo scatto c'è un pennarello: secondo mattone. «Inizia la caccia» *(cap. 19 r. 85-95)*
 
 ## Relazioni
 
@@ -64,6 +70,8 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 - → guarda [Ciao Darwin (programma televisivo)](../oggetti/ciao-darwin.md) *(cap. 17 r. 38)*
 - → lavora in [La postazione di Pete (open space dei supervisori)](../luoghi/postazione-di-pete.md) *(cap. 18 r. 41)*
 - → può usare [La telecamera di sorveglianza e il suo pannello](../oggetti/telecamera-di-sorveglianza.md) *(cap. 18 r. 66-68)*
+- → ha fatto [I sette scatti di Pete](../oggetti/scatti-di-pete.md) *(cap. 19 r. 17)*
+- → riceve [La trascrizione del meeting](../oggetti/trascrizione-del-meeting.md) *(cap. 19 r. 85)*
 - ← [Tom](../personaggi/tom.md) sottoposto di questa scheda — lo evita; lo conosce quasi solo per iscritto *(cap. 2 r. 25)*
 - ← [La mail delle 23:34 di venerdì](../oggetti/mail-delle-2334.md) segnalata a questa scheda *(cap. 16 r. 45)*
 - ← [Trascrizione automatica obbligatoria](../concetti/trascrizione-automatica.md) attivata da questa scheda *(cap. 18 r. 64)*
@@ -86,4 +94,8 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 1. `e18-03` (cap. 18, sabato, dalle 8:01 alle 8:26 e oltre) — [Pete legge il thread intero - il primo mattone](../eventi/e18-03.md)
 1. `e18-05` (cap. 18, sabato, dalle 10:00) — [«Pete, prova a prendermi» - Tom accetta e prepara il LED](../eventi/e18-05.md)
 1. `e18-06` (cap. 18, sabato, dalle 10:02) — [Pete attiva la trascrizione e si crea l'appuntamento «Doppia»](../eventi/e18-06.md)
+1. `e19-01` (cap. 19, sabato, 14:58-15:00) — [Le tre meno due - Tom pronto, Pete spreca il primo scatto](../eventi/e19-01.md)
+1. `e19-04` (cap. 19, durante il meeting) — [Pete muove la telecamera; Tom accende il LED](../eventi/e19-04.md)
+1. `e19-06` (cap. 19, fine del meeting, dopo nove minuti) — [Il clic del filtro - «un caffè in mensa»](../eventi/e19-06.md)
+1. `e19-08` (cap. 19, sabato, 16:00) — [Alle quattro Pete legge la trascrizione e ingrandisce il settimo scatto - «Inizia la caccia»](../eventi/e19-08.md)
 

@@ -1,6 +1,6 @@
 # Il video girato dalla signora Voss
 
-`video-della-voss` · oggetto · capitoli: 4, 5, 6, 14
+`video-della-voss` · oggetto · capitoli: 4, 5, 6, 14, 19
 
 Alias: il video del televisore che lampeggia
 
@@ -19,6 +19,7 @@ Ripresa fatta col telefono dalla signora: il televisore lampeggia in modo strano
 - Mai la frase intera in un solo passaggio: Tom la ricompone a frammenti, fotogramma per fotogramma, in decine di passaggi; restano da completare solo «una manciata di lettere» *(cap. 5 r. 21)*
 - Tom lo rivede e ne trascrive l'unica frase detta dalla signora, per usarla come chiave di ricerca *(cap. 6 r. 39)*
 - Resta sul telefono personale di Tom; chi non sa cosa cercare ci vede solo un LED che lampeggia a caso *(cap. 14 r. 33)*
+- Tom ne rivela l'esistenza a Emma: «HO UN VIDEO DELLA VOSS IN CUI È PALESE» *(cap. 19 r. 61)*
 
 ## Cosa NON dice il testo
 
@@ -40,6 +41,7 @@ Ripresa fatta col telefono dalla signora: il televisore lampeggia in modo strano
 - → mostra [Tappetino da yoga della signora Voss](../oggetti/tappetino-da-yoga.md) *(cap. 5 r. 19)*
 - → girato in [Casa della signora Voss](../luoghi/casa-della-voss.md) *(cap. 5 r. 19)*
 - ← [Signora Voss](../personaggi/signora-voss.md) ha girato questa scheda *(cap. 4 r. 41)*
+- ← [I cinque cartelli di Tom](../oggetti/cartelli-di-tom.md) rivelano l'esistenza di questa scheda *(cap. 19 r. 61)*
 - ← [Televisore del secondo contatto](../oggetti/tv-secondo-contatto.md) ripreso in questa scheda *(cap. 4 r. 41)*
 
 ## Catena degli eventi
@@ -50,4 +52,5 @@ Ripresa fatta col telefono dalla signora: il televisore lampeggia in modo strano
 1. `e05-03` (cap. 5, mercoledì sera, dopo cena) — [Tom decifra il video - STAI ESAGERANDO CON LO YOGA…](../eventi/e05-03.md)
 1. `e06-05` (cap. 6, la stessa sera) — [Tom decide di cercare il video di yoga](../eventi/e06-05.md)
 1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
+1. `e19-05` (cap. 19, durante il meeting, a telecamera accecata) — [I cinque cartelli](../eventi/e19-05.md)
 

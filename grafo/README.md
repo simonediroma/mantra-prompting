@@ -17,4 +17,4 @@ Eventi: `capitolo`, `ordine`, `quando`, `dove`, `in_scena`, `coinvolti`, `dopo` 
 
 ## Avanzamento
 
-Si procede un capitolo alla volta: leggere il capitolo, aggiornare le schede esistenti, crearne di nuove, aggiungere gli eventi, rigenerare. Capitoli fatti: vedi `capitoli.yaml`.
+Capitoli 1-19 analizzati per intero. Per un capitolo nuovo o modificato: leggere il testo, aggiornare le schede esistenti (`aggiorna.py`), crearne di nuove, aggiungere gli eventi, rigenerare. Lo stato è in `capitoli.yaml`.

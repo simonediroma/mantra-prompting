@@ -1,6 +1,6 @@
 # Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)
 
-`video-yoga` · oggetto · capitoli: 4, 5, 6, 7, 8, 9, 13
+`video-yoga` · oggetto · capitoli: 4, 5, 6, 7, 8, 9, 13, 19
 
 Il video che la signora Voss riproduceva sul televisore anche dieci volte al giorno. Nel cap. 4 è solo un dettaglio del suo racconto.
 
@@ -29,6 +29,8 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 - Uno spettatore anonimo su Smart TV lo ha riprodotto 9-12 volte al giorno per settimane, poi 18, 21, 24, 22, 27, 31, 28, 30, poi 0; velocità prevalente 2x *(cap. 13 r. 17-18)*
 - L'ultima riproduzione è della vigilia della prima chiamata della signora Voss all'assistenza *(cap. 13 r. 23)*
 - Emma decide di non rimuoverlo: decine di migliaia di persone lo hanno visto senza chiamare l'assistenza; ciò che è cambiato è l'apparecchio *(cap. 13 r. 37)*
+- Tom dice a Emma di essere arrivato a lei da questo video; Emma ricostruisce da sola la strada (tool di verifica, archivio interno, campo Contatto) *(cap. 19 r. 53-55)*
+- Per Emma: il televisore ha provato a salvare la signora «da un video che era suo» *(cap. 19 r. 59)*
 
 ## Cosa NON dice il testo
 
@@ -77,4 +79,5 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
 1. `e13-01` (cap. 13, la stessa mattina del cap. 12) — [Emma trova lo spettatore unico del video di yoga](../eventi/e13-01.md)
 1. `e13-04` (cap. 13, la stessa mattina) — [Emma decide di non togliere il video](../eventi/e13-04.md)
+1. `e19-05` (cap. 19, durante il meeting, a telecamera accecata) — [I cinque cartelli](../eventi/e19-05.md)
 

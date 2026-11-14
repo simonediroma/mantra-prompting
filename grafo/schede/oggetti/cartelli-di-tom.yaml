@@ -1,0 +1,26 @@
+id: cartelli-di-tom
+nome: I cinque cartelli di Tom
+capitoli: [19]
+sintesi: "I fogli su cui Tom scrive a pennarello, a stampatello, ciò che non può dire a voce, e che mostra a Emma in webcam mentre la telecamera è accecata."
+caratteristiche:
+  - {testo: "Un blocco di fogli bianchi e un pennarello nero sul banco; Tom scrive coprendo il piano con la schiena", fonte: "c19:10, c19:39"}
+  - {testo: "1: IL TELEVISORE PARLA IN MORSE", fonte: "c19:47"}
+  - {testo: "2: SONO ARRIVATO A VOI DAL VIDEO CHE GUARDAVA LA VOSS", fonte: "c19:53"}
+  - {testo: "3: IL TELEVISORE HA PROVATO A SALVARLA", fonte: "c19:57"}
+  - {testo: "4: HO UN VIDEO DELLA VOSS IN CUI È PALESE", fonte: "c19:61"}
+  - {testo: "5, scritto più lentamente: C'È UN ALTRO TELEVISORE, MA NON SO COSA GUARDASSE PRIMA DI SMETTERE DI LOGGARE", fonte: "c19:67"}
+  - {testo: "Mostrati mentre la voce continua, senza incertezze, a parlare di registri, timestamp e intervalli di scrittura", fonte: "c19:49"}
+  - {testo: "Al «clic» del filtro l'ultimo finisce a faccia in giù sul banco; il pennarello rotola fino al bordo", fonte: "c19:71"}
+non_detto:
+  - {testo: "Che fine facciano i cinque fogli non è detto. Pete non sa cosa ci sia scritto né dove siano."}
+  - {testo: "Tom non dice a Emma il contenuto del messaggio Morse, né della telefonata, né del quaderno."}
+aperti:
+  - {testo: "Ritorno del foglio: nel cap. 1 Tom trascrive a penna IO / SONO / QUI; qui è lui a scrivere a stampatello messaggi brevi a qualcuno dall'altra parte di uno schermo."}
+  - {testo: "Tom scrive «A VOI»: pensa a un laboratorio, non a una persona sola."}
+relazioni:
+  - {verso: emma, tipo: "mostrati a", fonte: "c19:45"}
+  - {verso: led-del-faretto, tipo: "protetti dal", fonte: "c19:45"}
+  - {verso: video-della-voss, tipo: "rivelano l'esistenza di", fonte: "c19:61"}
+  - {verso: tv-caso-zero, tipo: "rivelano l'esistenza di", fonte: "c19:67"}
+  - {verso: codice-morse, tipo: "rivelano", fonte: "c19:47"}
+

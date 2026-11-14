@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -94,6 +94,11 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - In dodici anni non ha mai chiesto niente a nessuno, nemmeno un giorno di ferie fuori stagione *(cap. 18 r. 49)*
 - Sentire Emma parlare è, in dodici anni in quella stanza, un evento secondo solo ai due televisori, «con cui aveva tenuto le conversazioni più interessanti della sua vita» *(cap. 18 r. 56)*
 - Sfida: «Pete, prova a prendermi», detto alla stanza *(cap. 18 r. 58)*
+- Non ha mai configurato la modalità presenza: in call si mostra com'è, felpa grigia, occhiali da lettura spinti sulla fronte, faccia «stanca il giusto» *(cap. 19 r. 10, cap. 19 r. 19)*
+- Prepara l'unica frase preparabile: «Ciao Emma, come stai?» *(cap. 19 r. 21-23)*
+- Davanti a Emma si accorge di contarle le lentiggini; gli sembra di conoscerla già, «come quando una canzone alla radio ti ricorda un ritornello e non il titolo» *(cap. 19 r. 23)*
+- Parla per la trascrizione con «la voce del verbale» mentre scrive cartelli a stampatello, coprendo il banco con la schiena *(cap. 19 r. 29, cap. 19 r. 39, cap. 19 r. 75)*
+- Propone «un caffè in mensa», stupendosi di nominare un posto dove non ha mai messo piede *(cap. 19 r. 75-77)*
 
 ## Punti aperti / da verificare
 
@@ -106,6 +111,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - La notifica sul computer di Tom è in inglese: «New email from Emm…» (c17 r. 14). Con «non parlava italiano» (c7 r. 11) è il secondo indizio che la lingua della storia non sia l'italiano.
 - Sgabello, quadro completo: il cap. 18 (r. 9) spiega che ci si siede disprezzandolo. Resta solo il cap. 3 (r. 21), dove lavora in piedi «perché gli sgabelli restavano quello che erano».
 - C'è una telecamera di sorveglianza sopra la porta del laboratorio (c18 r. 56, r. 60). Nei cap. 1 e 3 Tom parla ai televisori e il LED risponde in Morse in quella stessa stanza, descritta come isolata e senza testimoni (c1 r. 43). O la telecamera c'era già e ha ripreso tutto (il video completo è degli ispettori), o è stata messa dopo: il testo non lo dice.
+- Dove finiscano i cinque cartelli dopo il meeting non è detto: l'ultimo resta a faccia in giù sul banco (c19 r. 71).
 
 ## Stato capitolo per capitolo
 
@@ -127,6 +133,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 16** — Fuori scena: dopo la mail delle 08:00:01 non risponde a Emma per sei giorni *(cap. 16 r. 23)*
 - **Cap. 17** — Venerdì 23:34: svegliato dalla mail di Emma, non la apre. Si mette davanti al bivio: chiederle di vedersi, o chiudere. Rimanda alle otto *(cap. 17 r. 22-24)*
 - **Cap. 18** — Sabato alle otto apre in regola la mail delle 23:34. Alle 8:26 chiede a Emma un meeting in presenza. Riceve un invito per una call alle 15: accetta e prepara un LED puntato sulla telecamera di sorveglianza *(cap. 18 r. 27, cap. 18 r. 60)*
+- **Cap. 19** — Sabato alle 15: nove minuti di call con Emma. A voce una consulenza sul log; sui cartelli, con la telecamera accecata, le dice del Morse, del video, del televisore che ha provato a salvare la signora e dell'altro televisore. Chiude proponendo un caffè in mensa *(cap. 19 r. 45-81)*
 
 ## Relazioni
 
@@ -164,6 +171,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - → davanti a [Il bivio](../concetti/il-bivio.md) *(cap. 17 r. 22)*
 - → ha scritto [La richiesta di meeting di Tom (8:26)](../oggetti/richiesta-di-meeting.md) *(cap. 18 r. 31)*
 - → prepara [Il LED del faretto da giardino (la contromossa di Tom)](../oggetti/led-del-faretto.md) *(cap. 18 r. 60)*
+- → ha scritto [I cinque cartelli di Tom](../oggetti/cartelli-di-tom.md) *(cap. 19 r. 39)*
 - ← [Emma](../personaggi/emma.md) sa che le ha mentito questa scheda *(cap. 10 r. 21)*
 - ← [Emma](../personaggi/emma.md) indaga su questa scheda *(cap. 12 r. 29-37)*
 - ← [Pete](../personaggi/pete.md) sorveglia questa scheda *(cap. 15 r. 23)*
@@ -174,6 +182,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - ← [La seconda mail di Emma (le scuse)](../oggetti/mail-di-scuse-di-emma.md) destinata a questa scheda *(cap. 13 r. 45)*
 - ← [Organigramma e pagina aziendale di Tom](../oggetti/organigramma.md) descrive questa scheda *(cap. 12 r. 31)*
 - ← [La risposta di Emma (16:59)](../oggetti/risposta-di-emma.md) indirizzata a questa scheda *(cap. 10 r. 27)*
+- ← [I sette scatti di Pete](../oggetti/scatti-di-pete.md) ritraggono questa scheda *(cap. 19 r. 87)*
 - ← [La mail delle 08:00:01](../oggetti/terza-mail-di-emma.md) indirizzata a questa scheda *(cap. 15 r. 11)*
 - ← [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) applicata da Pete a questa scheda *(cap. 17 r. 58)*
 
@@ -257,4 +266,11 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e18-01` (cap. 18, sabato, 8:00) — [Alle otto Tom apre in regola la mail delle 23:34](../eventi/e18-01.md)
 1. `e18-02` (cap. 18, sabato, 8:00-8:26) — [Tom ripara la bilancia e alle 8:26 chiede un meeting in presenza](../eventi/e18-02.md)
 1. `e18-05` (cap. 18, sabato, dalle 10:00) — [«Pete, prova a prendermi» - Tom accetta e prepara il LED](../eventi/e18-05.md)
+1. `e19-01` (cap. 19, sabato, 14:58-15:00) — [Le tre meno due - Tom pronto, Pete spreca il primo scatto](../eventi/e19-01.md)
+1. `e19-02` (cap. 19, sabato, 15:00:01) — [Le 15:00:01 - Emma entra; i due si vedono](../eventi/e19-02.md)
+1. `e19-03` (cap. 19, primi minuti del meeting) — [«Per la trascrizione» - Tom detta, Emma capisce](../eventi/e19-03.md)
+1. `e19-04` (cap. 19, durante il meeting) — [Pete muove la telecamera; Tom accende il LED](../eventi/e19-04.md)
+1. `e19-05` (cap. 19, durante il meeting, a telecamera accecata) — [I cinque cartelli](../eventi/e19-05.md)
+1. `e19-06` (cap. 19, fine del meeting, dopo nove minuti) — [Il clic del filtro - «un caffè in mensa»](../eventi/e19-06.md)
+1. `e19-08` (cap. 19, sabato, 16:00) — [Alle quattro Pete legge la trascrizione e ingrandisce il settimo scatto - «Inizia la caccia»](../eventi/e19-08.md)
 

@@ -26,4 +26,5 @@ Il livello sopra i supervisori nell'apparato di controllo di Meridian.
 
 1. `e17-04` (cap. 17, dopo le 23:59) — [Pete fiuta l'osso - «Dai. Aprila.»](../eventi/e17-04.md)
 1. `e18-06` (cap. 18, sabato, dalle 10:02) — [Pete attiva la trascrizione e si crea l'appuntamento «Doppia»](../eventi/e18-06.md)
+1. `e19-08` (cap. 19, sabato, 16:00) — [Alle quattro Pete legge la trascrizione e ingrandisce il settimo scatto - «Inizia la caccia»](../eventi/e19-08.md)
 

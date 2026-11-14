@@ -1,6 +1,6 @@
 # Signora Voss
 
-`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7, 12, 13, 14, 15, 18
+`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7, 12, 13, 14, 15, 18, 19
 
 Alias: la signora del televisore, cliente del secondo televisore
 
@@ -40,6 +40,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - Il suo eWatch contava i battiti; per Tom è da lì che il televisore sapeva del cuore *(cap. 15 r. 27)*
 - Al telefono rideva del televisore «come si ride di un gatto che non vuole scendere dall'armadio»: non si sentiva minacciata *(cap. 18 r. 15)*
 - Per Pete è «la vecchia» *(cap. 18 r. 45)*
+- Tom la nomina a Emma sui cartelli: «LA VOSS» *(cap. 19 r. 53, cap. 19 r. 61)*
 
 ## Cosa NON dice il testo
 
@@ -114,4 +115,5 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 1. `e16-04` (cap. 16, giovedì; venerdì alle cinque la casella è vuota da sei giorni) — [Emma decide di parlargli lei della morte, lunedì alle otto](../eventi/e16-04.md)
 1. `e18-01` (cap. 18, sabato, 8:00) — [Alle otto Tom apre in regola la mail delle 23:34](../eventi/e18-01.md)
 1. `e18-03` (cap. 18, sabato, dalle 8:01 alle 8:26 e oltre) — [Pete legge il thread intero - il primo mattone](../eventi/e18-03.md)
+1. `e19-05` (cap. 19, durante il meeting, a telecamera accecata) — [I cinque cartelli](../eventi/e19-05.md)
 

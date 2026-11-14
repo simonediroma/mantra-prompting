@@ -1,6 +1,6 @@
 # Elab
 
-`elab` · organizzazione · capitoli: 9, 10, 14, 18
+`elab` · organizzazione · capitoli: 9, 10, 14, 18, 19
 
 Laboratorio di ricerca Meridian sul comportamento emergente delle IA. Progetto di punta quasi dieci anni prima, silenzioso da cinque. Il suo indirizzo è il contatto del video di yoga.
 
@@ -18,6 +18,7 @@ Laboratorio di ricerca Meridian sul comportamento emergente delle IA. Progetto d
 - Per Tom è «un laboratorio che l'azienda credeva chiuso» *(cap. 14 r. 37)*
 - Riceveva un tempo «tutto quello che arrivava agli altri»: nelle sue vecchie cartelle c'è il pacchetto di avvio dei meeting con istruzioni e sfondi *(cap. 18 r. 37)*
 - Pete non ne sa niente *(cap. 18 r. 45)*
+- Nel verbale del meeting compare come «laboratorio Elab», a cui un tecnico chiede una consulenza sui log *(cap. 19 r. 29)*
 
 ## Relazioni
 
@@ -35,4 +36,5 @@ Laboratorio di ricerca Meridian sul comportamento emergente delle IA. Progetto d
 1. `e10-02` (cap. 10, la stessa mattina) — [Emma legge la mail di Tom e capisce che mente](../eventi/e10-02.md)
 1. `e14-04` (cap. 14, pausa pranzo) — [In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti](../eventi/e14-04.md)
 1. `e18-04` (cap. 18, sabato, dalle 8:26 alle 10:00) — [Emma risponde con un invito - «oggi» alle 15](../eventi/e18-04.md)
+1. `e19-03` (cap. 19, primi minuti del meeting) — [«Per la trascrizione» - Tom detta, Emma capisce](../eventi/e19-03.md)
 

@@ -1,0 +1,13 @@
+id: e19-08
+nome: Alle quattro Pete legge la trascrizione e ingrandisce il settimo scatto - «Inizia la caccia»
+capitolo: 19
+ordine: 19.8
+quando: "sabato, 16:00"
+dove: postazione-di-pete
+dopo: [e19-06, e18-03]
+coinvolti: [pete, trascrizione-del-meeting, scatti-di-pete, tabella-di-conversione, smutandata, avatar-di-emma, tom, ispettori-interni, appuntamento-doppia]
+sintesi: "Zero minuti in Tabella: una consulenza pulita. Nel settimo scatto una donna mai vista, il vecchio logo (non affar suo) e un pennarello rotolato lontano dalle mani. Tom ha nascosto qualcosa con il corpo: secondo mattone."
+fatti:
+  - {testo: "La trascrizione", fonte: "c19:85"}
+  - {testo: "Il settimo scatto", fonte: "c19:87-89"}
+  - {testo: "La caccia", fonte: "c19:91-95"}

@@ -1,6 +1,6 @@
 # Il bivio
 
-`il-bivio` · concetto · capitoli: 17
+`il-bivio` · concetto · capitoli: 17, 19
 
 «O le chiedo di vederci. O chiudo qui.» La scelta davanti a cui la mail delle 23:34 mette Tom.
 
@@ -10,6 +10,7 @@
 - Vederla di persona: l'unico modo di parlarle senza un supervisore in mezzo, ma vuol dire «giocarsi in un'ora dodici anni di porte chiuse a doppia mandata» *(cap. 17 r. 24)*
 - Chiudere: non risponderle più, rimettere il quaderno accanto ai manuali, tornare a un banco dove nessuno gli dice «guarda qui» *(cap. 17 r. 24)*
 - Tom non decide: rimanda alle otto, con una notte in mezzo *(cap. 17 r. 24)*
+- Esito: Tom ha scelto di vederla, e alla fine le propone un incontro vero, in mensa *(cap. 19 r. 75)*
 
 ## Relazioni
 

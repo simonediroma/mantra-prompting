@@ -1,6 +1,6 @@
 # Nastro
 
-`nastro` · oggetto · capitoli: 2, 3, 14, 15
+`nastro` · oggetto · capitoli: 2, 3, 14, 15, 19
 
 Il nastro che porta gli apparecchi alle stanze dei tecnici. Fruscio in corridoio, «clac» a ogni consegna.
 
@@ -12,6 +12,7 @@ Il nastro che porta gli apparecchi alle stanze dei tecnici. Fruscio in corridoio
 - Fermo durante la pausa pranzo; riparte con un «clac» metallico *(cap. 14 r. 35, cap. 14 r. 39)*
 - Da quando c'è, ogni tecnico è chiuso in una stanza singola *(cap. 14 r. 27)*
 - Parte alle otto; ha «le sue code e le sue priorità»: un banco può restare vuoto qualche minuto a inizio turno *(cap. 15 r. 11)*
+- Per un appuntamento in calendario sospende le consegne: si ferma «con un sospiro di gomma» *(cap. 19 r. 10)*
 
 ## Relazioni
 
@@ -26,4 +27,5 @@ Il nastro che porta gli apparecchi alle stanze dei tecnici. Fruscio in corridoio
 1. `e14-05` (cap. 14, fine della pausa pranzo) — [Tom invia quando il nastro riparte](../eventi/e14-05.md)
 1. `e15-02` (cap. 15, alle 08:00:01) — [Le 08:00:01 - «intendeva proprio quello?»](../eventi/e15-02.md)
 1. `e15-05` (cap. 15, stesso intervento) — [Tom dimentica la rondella e riga la ciotola](../eventi/e15-05.md)
+1. `e19-01` (cap. 19, sabato, 14:58-15:00) — [Le tre meno due - Tom pronto, Pete spreca il primo scatto](../eventi/e19-01.md)
 

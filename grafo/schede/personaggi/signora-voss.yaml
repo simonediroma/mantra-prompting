@@ -1,7 +1,7 @@
 id: signora-voss
 nome: Signora Voss
 alias: ["la signora del televisore", "cliente del secondo televisore"]
-capitoli: [3, 4, 5, 6, 7, 12, 13, 14, 15, 18]
+capitoli: [3, 4, 5, 6, 7, 12, 13, 14, 15, 18, 19]
 sintesi: "Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo stesso video anche dieci volte al giorno; ha filmato il televisore che «si rifiuta» di accendersi."
 caratteristiche:
   - {testo: "Ha dettato all'addetto del negozio: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
@@ -36,6 +36,7 @@ caratteristiche:
   - {testo: "Il suo eWatch contava i battiti; per Tom è da lì che il televisore sapeva del cuore", fonte: "c15:27"}
   - {testo: "Al telefono rideva del televisore «come si ride di un gatto che non vuole scendere dall'armadio»: non si sentiva minacciata", fonte: "c18:15"}
   - {testo: "Per Pete è «la vecchia»", fonte: "c18:45"}
+  - {testo: "Tom la nomina a Emma sui cartelli: «LA VOSS»", fonte: "c19:53, c19:61"}
 non_detto:
   - {testo: "Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta."}
   - {testo: "Il cap. 5 non dice perché non risponde: Tom ipotizza doccia, cucina, telefono lontano."}

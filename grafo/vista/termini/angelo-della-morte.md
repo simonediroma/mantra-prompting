@@ -17,4 +17,5 @@ Il timore di Emma: che il televisore della signora Voss, nei giorni senza log, a
 ## Catena degli eventi
 
 1. `e13-03` (cap. 13, la stessa mattina, fino alle dieci passate) — [La paura - il televisore come angelo della morte; il processo del mattino saltato](../eventi/e13-03.md)
+1. `e19-05` (cap. 19, durante il meeting, a telecamera accecata) — [I cinque cartelli](../eventi/e19-05.md)
 

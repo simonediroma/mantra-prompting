@@ -1,6 +1,6 @@
 id: video-yoga
 nome: "Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)"
-capitoli: [4, 5, 6, 7, 8, 9, 13]
+capitoli: [4, 5, 6, 7, 8, 9, 13, 19]
 sintesi: "Il video che la signora Voss riproduceva sul televisore anche dieci volte al giorno. Nel cap. 4 è solo un dettaglio del suo racconto."
 caratteristiche:
   - {testo: "«Un video che avevo trovato, bellissimo»", fonte: "c4:31"}
@@ -26,6 +26,8 @@ caratteristiche:
   - {testo: "Uno spettatore anonimo su Smart TV lo ha riprodotto 9-12 volte al giorno per settimane, poi 18, 21, 24, 22, 27, 31, 28, 30, poi 0; velocità prevalente 2x", fonte: "c13:17-18"}
   - {testo: "L'ultima riproduzione è della vigilia della prima chiamata della signora Voss all'assistenza", fonte: "c13:23"}
   - {testo: "Emma decide di non rimuoverlo: decine di migliaia di persone lo hanno visto senza chiamare l'assistenza; ciò che è cambiato è l'apparecchio", fonte: "c13:37"}
+  - {testo: "Tom dice a Emma di essere arrivato a lei da questo video; Emma ricostruisce da sola la strada (tool di verifica, archivio interno, campo Contatto)", fonte: "c19:53-55"}
+  - {testo: "Per Emma: il televisore ha provato a salvare la signora «da un video che era suo»", fonte: "c19:59"}
 non_detto:
   - {testo: "Nel cap. 4 Tom non reagisce al dettaglio dello yoga né della ripetizione: la sua attenzione va al «si rifiuta» e poi al video girato dalla signora. Nessun collegamento tra video di yoga e anomalia è fatto qui."}
   - {testo: "Dove la signora lo abbia trovato e su che piattaforma: non detto."}

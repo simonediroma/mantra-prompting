@@ -1,6 +1,6 @@
 # Meridian
 
-`meridian` · organizzazione · capitoli: 1, 2, 3, 4, 9, 10, 16, 17
+`meridian` · organizzazione · capitoli: 1, 2, 3, 4, 9, 10, 16, 17, 19
 
 L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l'intera filiera dal silicio al robot da cucina.
 
@@ -26,6 +26,8 @@ L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l
 - La pubblicità promette apparecchi che vogliono, decidono, si offendono *(cap. 16 r. 19)*
 - Ha un codice di condotta che vieta, tra l'altro, di scrivere il cognome di un cliente in una nota *(cap. 17 r. 42)*
 - Ha un apparato di controllo: supervisori, riepilogo di mezzanotte, sorveglianza video, ispettori interni *(cap. 17 r. 26, cap. 17 r. 40, cap. 17 r. 58)*
+- Ha cambiato logo un anno prima: quello vecchio, «con le righe», è vietato dal codice di condotta (trenta minuti) *(cap. 19 r. 87)*
+- Ha un ufficio legale che ha autorizzato le foto ai dipendenti nello stesso parere in cui le definisce una violazione della privacy *(cap. 19 r. 17)*
 
 ## Relazioni
 

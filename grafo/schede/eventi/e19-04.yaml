@@ -1,0 +1,14 @@
+id: e19-04
+nome: Pete muove la telecamera; Tom accende il LED
+capitolo: 19
+ordine: 19.4
+quando: "durante il meeting"
+dove: laboratorio-di-tom
+dopo: [e19-03]
+coinvolti: [pete, tom, telecamera-di-sorveglianza, scatti-di-pete, led-del-faretto, postazione-di-pete]
+sintesi: "Dal secondo scatto Pete vede il pennarello e orienta la telecamera oltre la spalla. Tom sente il motore: adesso sa che Pete c'è. Abbassa l'interruttore. L'anteprima di Pete diventa bianca; lui crede di averla rotta e brucia quattro scatti."
+fatti:
+  - {testo: "Il secondo scatto e la freccia", fonte: "c19:43"}
+  - {testo: "Il motore e il LED", fonte: "c19:45"}
+  - {testo: "Il bianco", fonte: "c19:51"}
+

@@ -33,4 +33,5 @@ Il dispetto da liceo di Pete, diventato la sua unità di misura delle sanzioni: 
 1. `e17-03` (cap. 17, venerdì, 23:59) — [Alle 23:59 Pete riceve il riepilogo di mezzanotte](../eventi/e17-03.md)
 1. `e17-04` (cap. 17, dopo le 23:59) — [Pete fiuta l'osso - «Dai. Aprila.»](../eventi/e17-04.md)
 1. `e18-03` (cap. 18, sabato, dalle 8:01 alle 8:26 e oltre) — [Pete legge il thread intero - il primo mattone](../eventi/e18-03.md)
+1. `e19-08` (cap. 19, sabato, 16:00) — [Alle quattro Pete legge la trascrizione e ingrandisce il settimo scatto - «Inizia la caccia»](../eventi/e19-08.md)
 

@@ -1,6 +1,6 @@
 # Emma
 
-`emma` · personaggio · capitoli: 10, 11, 12, 13, 14, 15, 16, 17, 18
+`emma` · personaggio · capitoli: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
 
 L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10.
 
@@ -65,6 +65,17 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Per preparare la modalità presenza usa il pacchetto di avvio trovato nelle vecchie cartelle di Elab; ci mette più di un'ora *(cap. 18 r. 37)*
 - Il suo avatar è, per regolamento, fedele al suo aspetto attuale; quando compare sullo schermo «non lo guardò a lungo» *(cap. 18 r. 37)*
 - Per Pete: «una ricercatrice» di un altro reparto, non sotto di lui, quindi senza interesse *(cap. 18 r. 45)*
+- In call (modalità presenza): più o meno l'età di Tom, capelli rossi e ricci con qualche filo grigio, occhi verdi, una spruzzata di lentiggini sul naso; bella «in un modo che non c'entrava niente con l'avatar antiocchiaie» *(cap. 19 r. 23)*
+- Per Pete, nel settimo scatto: «una donna sulla cinquantina, i capelli rossi», mai vista in azienda *(cap. 19 r. 87)*
+- Entra nella call alle tre e un secondo, per non poter più cambiare idea *(cap. 19 r. 19)*
+- Ha paura «di essere l'unica dei due ad avere qualcosa da nascondere» *(cap. 19 r. 19)*
+- Dopo tre secondi di silenzio parla tutto insieme, senza prendere fiato, per paura che dalle pause l'altro capisca *(cap. 19 r. 25)*
+- Chiama Tom «collega»: «Puoi aiutarmi, collega?» *(cap. 19 r. 37)*
+- È «l'avatar» a raddrizzare le spalle e ad annuire; la voce le tiene «come se fosse un'altra persona», una collega che fa quel lavoro da vent'anni *(cap. 19 r. 35, cap. 19 r. 41, cap. 19 r. 59)*
+- Della ragazza di eTv pensa: «la sua ragazza, il suo yoga, le sue ripetizioni» *(cap. 19 r. 55)*
+- Sa meglio di Tom che esistono altri televisori, e quanti; da nove giorni sa che gli apparecchi con quel guasto sono troppi per restare un affare suo *(cap. 19 r. 83)*
+- Dice «mi va» al caffè in mensa come aveva scritto «oggi»: sapendo di poter trovare una scusa *(cap. 19 r. 83)*
+- Quando spegne la modalità presenza l'anteprima dovrebbe tornare alla telecamera «per mostrare a ciascuno la faccia che aveva davvero»: resta soltanto lo sfondo, «senza nessuno davanti» *(cap. 19 r. 83)*
 
 ## Cosa NON dice il testo
 
@@ -76,10 +87,13 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Emma non sa del messaggio in Morse: ignora che il televisore ha avvertito la signora. Tom lo sa (cap. 5). Lei teme un «angelo della morte», lui ha annotato «benevolo, non ostile».
 - Il cap. 16 non dice come Emma arrivi alla Mela Morsicata né che lasci la stanza: al bancone ha davanti la casella di Elab «aperta» e «l'orario nell'angolo dello schermo» (r. 43).
 - Perché Emma non possa stare in una stanza con Tom non è detto: «non posso» sarebbe «un segreto, cioè proprio quello che era» (c18 r. 35). L'aspetto dell'avatar non è descritto.
+- Il testo non dice mai che cosa sia Emma. Dice: Elab «l'aveva vista nascere» (c10 r. 13); la giornata sta tutta tra la luce sotto la porta e le porte che si chiudono; il venerdì sera ha davanti uno schermo; non pensa «fino in fondo» a una stanza condivisa (c18 r. 33); spento l'avatar, davanti alla telecamera non c'è nessuno (c19 r. 83).
 
 ## Punti aperti / da verificare
 
 - Emma produce contenuti perché saturino gli apparecchi (c13 r. 27, r. 29: «il video aveva funzionato»). Lo scopo ultimo non è detto; la sensazione della «casa rimasta vuota» suggerisce che cerchi compagnia.
+- L'avatar deve essere «fedele al suo aspetto attuale» (c18 r. 37) e mostra una donna dell'età di Tom; spento l'avatar, la telecamera non inquadra nessuno (c19 r. 83). Da dove viene quell'aspetto il testo non lo dice.
+- Tom ha l'impressione di conoscerla già (c19 r. 23). L'unico volto femminile che ha studiato a lungo è la ragazza di eTv, che Emma chiama «la sua ragazza» (c19 r. 55). Ma della ragazza il testo non dà mai capelli, occhi o lentiggini (c7 r. 25: solo «levigata», «patinata»): la somiglianza, se c'è, non è verificabile dal lettore.
 
 ## Stato capitolo per capitolo
 
@@ -91,6 +105,7 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - **Cap. 15** — Fuori scena: ha letto la risposta di Tom e alle 08:00:01 gli chiede se la cliente intendesse «si rifiuta» alla lettera *(cap. 15 r. 15)*
 - **Cap. 16** — Legge la risposta di Tom: tutto dell'apparecchio, niente della morte. Per una settimana lo segue sulla lista dell'assistenza. Il venerdì dopo, alla Mela Morsicata, alle 23:34 gli scrive fuori orario *(cap. 16 r. 43-47)*
 - **Cap. 18** — Sabato: riceve la richiesta di un meeting in presenza. Non può rifiutare né accettare: prepara avatar e sfondo e alle dieci manda un invito per una call alle 15 *(cap. 18 r. 39)*
+- **Cap. 19** — Primo meeting della sua vita fuori da Elab. Scopre che Tom è arrivato a lei dal video e che il televisore ha provato a salvare la signora: sollievo, poi colpa («un video che era suo»). Accetta il caffè in mensa sapendo di poterlo evitare *(cap. 19 r. 55-59, cap. 19 r. 83)*
 
 ## Relazioni
 
@@ -120,6 +135,7 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - → ha mandato [L'invito di Emma (oggi, 15:00)](../oggetti/invito-di-emma.md) *(cap. 18 r. 39)*
 - → configura [L'avatar e lo sfondo di Emma](../oggetti/avatar-di-emma.md) *(cap. 18 r. 37)*
 - ← [Tom](../personaggi/tom.md) scrive a questa scheda — senza sapere chi leggerà *(cap. 10 r. 19)*
+- ← [I cinque cartelli di Tom](../oggetti/cartelli-di-tom.md) mostrati a questa scheda *(cap. 19 r. 45)*
 - ← [elab@meridian.com](../oggetti/indirizzo-elab.md) gestita da questa scheda *(cap. 10 r. 17)*
 - ← [La richiesta di meeting di Tom (8:26)](../oggetti/richiesta-di-meeting.md) indirizzata a questa scheda *(cap. 18 r. 29)*
 - ← [La risposta di Tom a Emma (solo fatti)](../oggetti/risposta-di-tom.md) indirizzata a questa scheda *(cap. 14 r. 39)*
@@ -161,4 +177,9 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 1. `e18-01` (cap. 18, sabato, 8:00) — [Alle otto Tom apre in regola la mail delle 23:34](../eventi/e18-01.md)
 1. `e18-03` (cap. 18, sabato, dalle 8:01 alle 8:26 e oltre) — [Pete legge il thread intero - il primo mattone](../eventi/e18-03.md)
 1. `e18-04` (cap. 18, sabato, dalle 8:26 alle 10:00) — [Emma risponde con un invito - «oggi» alle 15](../eventi/e18-04.md)
+1. `e19-02` (cap. 19, sabato, 15:00:01) — [Le 15:00:01 - Emma entra; i due si vedono](../eventi/e19-02.md)
+1. `e19-03` (cap. 19, primi minuti del meeting) — [«Per la trascrizione» - Tom detta, Emma capisce](../eventi/e19-03.md)
+1. `e19-05` (cap. 19, durante il meeting, a telecamera accecata) — [I cinque cartelli](../eventi/e19-05.md)
+1. `e19-06` (cap. 19, fine del meeting, dopo nove minuti) — [Il clic del filtro - «un caffè in mensa»](../eventi/e19-06.md)
+1. `e19-07` (cap. 19, subito dopo il meeting) — [Emma resta sola - lo sfondo senza nessuno davanti](../eventi/e19-07.md)
 

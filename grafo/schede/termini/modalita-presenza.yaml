@@ -1,6 +1,6 @@
 id: modalita-presenza
 nome: Modalità presenza
-capitoli: [16, 18]
+capitoli: [16, 18, 19]
 sintesi: "Nei meeting Meridian: un avatar al posto della telecamera, «per non mostrare ai colleghi la faccia stanca»."
 caratteristiche:
   - {testo: "Consigliata a tutti da Benessere Meridian", fonte: "c16:17"}
@@ -8,5 +8,6 @@ caratteristiche:
   - {testo: "In Meridian «presenza» è ormai il nome dell'avatar: per dire che due persone si vedono nella stessa stanza non è rimasta una parola che non suoni antiquata", fonte: "c18:33"}
   - {testo: "Un meeting vuol dire «l'avatar antiocchiaie e lo sfondo antidisordine casalingo, anche se si era in azienda»", fonte: "c18:37"}
   - {testo: "Regolamento: l'avatar deve essere fedele all'aspetto attuale, perché l'azienda ha diritto di sapere con chi sta parlando", fonte: "c18:37"}
+  - {testo: "Spegnendola, l'anteprima torna alla telecamera reale", fonte: "c19:83"}
 aperti:
   - {testo: "«Meeting in presenza» è ambiguo per costruzione: Tom intende una stanza e due sedie, la lingua di Meridian intende l'avatar. Emma lo capisce nel senso di Tom e risponde nell'altro."}

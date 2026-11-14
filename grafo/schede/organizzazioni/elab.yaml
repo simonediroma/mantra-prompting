@@ -1,6 +1,6 @@
 id: elab
 nome: Elab
-capitoli: [9, 10, 14, 18]
+capitoli: [9, 10, 14, 18, 19]
 sintesi: "Laboratorio di ricerca Meridian sul comportamento emergente delle IA. Progetto di punta quasi dieci anni prima, silenzioso da cinque. Il suo indirizzo è il contatto del video di yoga."
 caratteristiche:
   - {testo: "«Un progetto di punta di quasi dieci anni prima»: ricerca avanzata sul comportamento emergente delle intelligenze artificiali", fonte: "c9:39"}
@@ -15,6 +15,7 @@ caratteristiche:
   - {testo: "Per Tom è «un laboratorio che l'azienda credeva chiuso»", fonte: "c14:37"}
   - {testo: "Riceveva un tempo «tutto quello che arrivava agli altri»: nelle sue vecchie cartelle c'è il pacchetto di avvio dei meeting con istruzioni e sfondi", fonte: "c18:37"}
   - {testo: "Pete non ne sa niente", fonte: "c18:45"}
+  - {testo: "Nel verbale del meeting compare come «laboratorio Elab», a cui un tecnico chiede una consulenza sui log", fonte: "c19:29"}
 non_detto:
 relazioni:
   - {verso: meridian, tipo: "laboratorio di", fonte: "c9:39"}
