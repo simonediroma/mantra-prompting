@@ -1,7 +1,7 @@
 id: signora-voss
 nome: Signora Voss
 alias: ["la signora del televisore", "cliente del secondo televisore"]
-capitoli: [3, 4, 5, 6, 7, 12, 13, 14]
+capitoli: [3, 4, 5, 6, 7, 12, 13, 14, 15]
 sintesi: "Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo stesso video anche dieci volte al giorno; ha filmato il televisore che «si rifiuta» di accendersi."
 caratteristiche:
   - {testo: "Ha dettato all'addetto del negozio: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
@@ -32,6 +32,8 @@ caratteristiche:
   - {testo: "Il giorno dopo l'ultima riproduzione ha telefonato all'assistenza «per dire che non le obbediva più»", fonte: "c13:23"}
   - {testo: "È morta «sul suo tappetino, nello stesso salotto», qualche settimana dopo, quando il televisore non era più in casa da tempo", fonte: "c13:31, c13:33"}
   - {testo: "La sua segnalazione, come la riporta Tom: un apparecchio che non si accendeva e mandava segnali luminosi senza senso dal LED", fonte: "c14:31"}
+  - {testo: "Al telefono aveva messo in fila da sola le due possibilità, ridendo: il modo di dire o il fatto. «Non non riusciva. Proprio non voleva.»", fonte: "c15:19, c15:31"}
+  - {testo: "Il suo eWatch contava i battiti; per Tom è da lì che il televisore sapeva del cuore", fonte: "c15:27"}
 non_detto:
   - {testo: "Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta."}
   - {testo: "Il cap. 5 non dice perché non risponde: Tom ipotizza doccia, cucina, telefono lontano."}

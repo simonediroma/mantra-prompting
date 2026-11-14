@@ -1,6 +1,6 @@
 # Sede Meridian dell'assistenza
 
-`sede-assistenza` · luogo · capitoli: 1, 2, 3, 5, 14
+`sede-assistenza` · luogo · capitoli: 1, 2, 3, 5, 14, 15
 
 L'edificio dove lavora Tom: corridoio, stanze dei tecnici, nastro, varco con controlli.
 
@@ -11,6 +11,7 @@ L'edificio dove lavora Tom: corridoio, stanze dei tecnici, nastro, varco con con
 - Varco con controlli casuali *(cap. 3 r. 13)*
 - Al varco si passa il badge; il sistema di accesso registra l'orario *(cap. 5 r. 9)*
 - Alla pausa pranzo le porte delle stanze singole si aprono una dopo l'altra e i colleghi vanno in mensa *(cap. 14 r. 35)*
+- Il corridoio dell'assistenza: al mattino odora di detergente e aria ferma; pavimento di linoleum; a un capo ci sono le scale *(cap. 15 r. 9, cap. 15 r. 23)*
 
 ## Cosa NON dice il testo
 

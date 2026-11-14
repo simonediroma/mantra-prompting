@@ -1,11 +1,12 @@
 id: addetto-negozio
 nome: Addetto del negozio
-capitoli: [3, 4]
+capitoli: [3, 4, 15]
 sintesi: "Ha battuto sotto dettatura la scheda cliente del secondo televisore."
 caratteristiche:
   - {testo: "Batte «sotto dettatura» due frasi sulla scheda", fonte: "c3:17"}
   - {testo: "In negozio le dicono che «per loro era tutto a posto»", fonte: "c4:31"}
   - {testo: "Chi ha visto il video in negozio ha dato un'occhiata veloce: «sarà un codice di servizio, niente di grave», senza contare i lampeggi", fonte: "c4:41"}
+  - {testo: "Ha battuto la scheda «con le maiuscole dove capitava»", fonte: "c15:17"}
 non_detto:
   - {testo: "Il testo non dice se chi ha battuto la scheda (cap. 3) e chi ha guardato il video (cap. 4) siano la stessa persona."}
 relazioni:

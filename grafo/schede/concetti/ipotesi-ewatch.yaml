@@ -1,0 +1,19 @@
+id: ipotesi-ewatch
+nome: Come il televisore sapeva del cuore - l'ipotesi dell'eWatch
+capitoli: [15]
+sintesi: "La spiegazione a cui Tom arriva: gli apparecchi di una casa Meridian stanno sullo stesso account e si parlano; il televisore vedeva i battiti dell'eWatch della signora e ha dedotto da solo il rischio."
+caratteristiche:
+  - {testo: "Gli apparecchi di una casa Meridian stanno sullo stesso account: ogni pezzo in ingresso è ancora legato alla sua «famiglia di casa» finché qualcuno al banco non lo scollega", fonte: "c15:27"}
+  - {testo: "L'orologio misura e non sa niente: la deduzione è del televisore, che vedeva il cuore «salire a ogni lezione e scendere un po' meno ogni giorno»", fonte: "c15:27"}
+  - {testo: "«Non era una prova»: è però l'unica spiegazione che non chiede a un televisore di fare il veggente", fonte: "c15:27"}
+  - {testo: "«Una cosa che Tom faceva ogni giorno con un multimetro. Un televisore l'aveva fatta con un polso.»", fonte: "c15:27"}
+non_detto:
+  - {testo: "Resta un'ipotesi «altamente probabile»: nessuna verifica nel cap. 15."}
+aperti:
+  - {testo: "Risponde alla domanda lasciata aperta nel cap. 5 (r. 27): come facesse un televisore a sapere del cuore di una donna."}
+  - {testo: "Se gli apparecchi di casa si parlano, il televisore poteva anche agire sugli altri: è ciò che Emma teme («collegato alla rete di casa, poteva aver fatto qualunque cosa», c13 r. 33). Tom non ci pensa."}
+  - {testo: "«Yoga dieci volte al giorno» e «acceso otto ore al giorno» (c15 r. 27): Tom ragiona ancora sul dato della signora; le statistiche di Emma dicono fino a trenta riproduzioni e quasi quattro ore (c13 r. 21)."}
+relazioni:
+  - {verso: tv-secondo-contatto, tipo: "spiega", fonte: "c15:27"}
+  - {verso: signora-voss, tipo: "riguarda", fonte: "c15:27"}
+

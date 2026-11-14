@@ -1,6 +1,6 @@
 id: pete
 nome: Pete
-capitoli: [2, 4, 5, 14]
+capitoli: [2, 4, 5, 14, 15]
 sintesi: "Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come firma in fondo alla comunicazione formale."
 caratteristiche:
   - {testo: "Firma: «Pete, Supervisore, Divisione Assistenza Tecnica»", fonte: "c2:23"}
@@ -10,9 +10,15 @@ caratteristiche:
   - {testo: "Non nominato nel cap. 4, ma è «il supervisore» a cui un ritardo di pochi minuti darebbe «un nuovo pretesto»", fonte: "c4:57"}
   - {testo: "Non nominato nel cap. 5: sotto i cinque minuti il ritardo non gli viene comunicato", fonte: "c5:9"}
   - {testo: "Per Tom è il supervisore che sa «trasformare in un provvedimento» una chiamata fuori procedura; una mail in pausa gli basterebbe per aprire una pratica", fonte: "c14:33, c14:37"}
+  - {testo: "Prima apparizione in scena, senza parole. Completo nero, camicia bianca, «una schiena larga quanto un armadio a due ante e più o meno della stessa forma»", fonte: "c15:23"}
+  - {testo: "Passo pesante, un po' strascicato sul tallone", fonte: "c15:23"}
+  - {testo: "Davanti alla porta accostata di Tom rallenta, gira la testa di qualche grado verso l'interno, non si ferma, non dice nulla; prosegue verso le scale", fonte: "c15:23"}
 non_detto:
   - {testo: "Nei cap. 1-3 Pete non compare mai in scena e non parla."}
+stato:
+  - {cap: 15, testo: "In scena: passa nel corridoio e rallenta davanti alla stanza di Tom", fonte: "c15:23"}
 relazioni:
   - {verso: divisione-assistenza-tecnica, tipo: "supervisore della", fonte: "c2:23"}
   - {verso: comunicazione-formale-scostamento, tipo: "firma", fonte: "c2:23"}
 
+  - {verso: tom, tipo: "sorveglia", fonte: "c15:23"}

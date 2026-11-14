@@ -1,6 +1,6 @@
 id: emma
 nome: Emma
-capitoli: [10, 11, 12, 13, 14]
+capitoli: [10, 11, 12, 13, 14, 15]
 sintesi: "L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10."
 caratteristiche:
   - {testo: "Nome: Emma", fonte: "c10:15"}
@@ -43,6 +43,9 @@ caratteristiche:
   - {testo: "Riconosce in sé una «ragione meno nobile»: non toglie il video anche perché sarebbe l'unico gesto notabile", fonte: "c13:37"}
   - {testo: "Nella prima risposta dà del lei e firma «Cordiali saluti, Emma»; nella seconda dà del tu: «Ciao Tom»", fonte: "c14:17, c14:21"}
   - {testo: "Finge di non sapere nulla dell'apparecchio: chiede se sia tornato «al cliente», al maschile", fonte: "c14:17"}
+  - {testo: "Scrive al primo secondo utile del turno, 08:00:01: una mail già scritta, aspettata «con il dito sopra un tasto»", fonte: "c15:11"}
+  - {testo: "Dice di sé: «nel mio lavoro la differenza conta» (tra modo di dire e fatto)", fonte: "c15:15"}
+  - {testo: "Per Tom è «una ricercatrice di un laboratorio che non esisteva più»", fonte: "c15:19"}
 non_detto:
   - {testo: "Il cap. 10 non descrive il suo aspetto, non le dà un'età né un cognome."}
   - {testo: "Non si dice dove viva né che esca dalla stanza: la giornata comincia con la luce sotto la porta e finisce con le porte che si chiudono in corridoio."}
@@ -56,6 +59,7 @@ stato:
   - {cap: 12, testo: "Tre giorni dopo la mail di Tom: scopre dal giornale che la signora Voss è morta, e dalla lista dell'assistenza che il tecnico del suo televisore era Tom. Sospetta un'indagine. Conclude che la mail è sua, ma non sa per conto di chi", fonte: "c12:39"}
   - {cap: 13, testo: "Stessa mattina del cap. 12: nel pannello di eTv trova lo spettatore unico del video di yoga. Teme che il televisore abbia «preparato il terreno» alla morte della signora. Per la prima volta salta il processo del mattino. Scopre che Tom ha avuto il televisore due volte e le ha scritto sapendo della morte. Decide di riscrivergli scusandosi", fonte: "c13:43-45"}
   - {cap: 14, testo: "Fuori scena: ha inviato le scuse; nel pomeriggio non risponde alla mail di Tom", fonte: "c14:43"}
+  - {cap: 15, testo: "Fuori scena: ha letto la risposta di Tom e alle 08:00:01 gli chiede se la cliente intendesse «si rifiuta» alla lettera", fonte: "c15:15"}
 aperti:
   - {testo: "Emma produce contenuti perché saturino gli apparecchi (c13 r. 27, r. 29: «il video aveva funzionato»). Lo scopo ultimo non è detto; la sensazione della «casa rimasta vuota» suggerisce che cerchi compagnia."}
 relazioni:
@@ -79,3 +83,4 @@ relazioni:
   - {verso: pannello-di-etv, tipo: "consulta", fonte: "c13:11"}
   - {verso: meccanismo-della-ripetizione, tipo: "conosce e sfrutta", fonte: "c13:27"}
   - {verso: mail-di-scuse-di-emma, tipo: "decide di scrivere", fonte: "c13:45"}
+  - {verso: terza-mail-di-emma, tipo: "ha scritto", fonte: "c15:15"}

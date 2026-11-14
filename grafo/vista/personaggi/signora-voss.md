@@ -1,6 +1,6 @@
 # Signora Voss
 
-`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7, 12, 13, 14
+`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7, 12, 13, 14, 15
 
 Alias: la signora del televisore, cliente del secondo televisore
 
@@ -36,6 +36,8 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - Il giorno dopo l'ultima riproduzione ha telefonato all'assistenza «per dire che non le obbediva più» *(cap. 13 r. 23)*
 - È morta «sul suo tappetino, nello stesso salotto», qualche settimana dopo, quando il televisore non era più in casa da tempo *(cap. 13 r. 31, cap. 13 r. 33)*
 - La sua segnalazione, come la riporta Tom: un apparecchio che non si accendeva e mandava segnali luminosi senza senso dal LED *(cap. 14 r. 31)*
+- Al telefono aveva messo in fila da sola le due possibilità, ridendo: il modo di dire o il fatto. «Non non riusciva. Proprio non voleva.» *(cap. 15 r. 19, cap. 15 r. 31)*
+- Il suo eWatch contava i battiti; per Tom è da lì che il televisore sapeva del cuore *(cap. 15 r. 27)*
 
 ## Cosa NON dice il testo
 
@@ -77,6 +79,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - ← [Post del fratello (con la foto della signora Voss)](../oggetti/post-del-fratello.md) annuncia la morte di questa scheda *(cap. 6 r. 31)*
 - ← [Tappetino da yoga della signora Voss](../oggetti/tappetino-da-yoga.md) appartiene a questa scheda
 - ← [Casa della signora Voss](../luoghi/casa-della-voss.md) abitazione di questa scheda
+- ← [Come il televisore sapeva del cuore - l'ipotesi dell'eWatch](../concetti/ipotesi-ewatch.md) riguarda questa scheda *(cap. 15 r. 27)*
 
 ## Catena degli eventi
 
@@ -101,4 +104,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 1. `e13-01` (cap. 13, la stessa mattina del cap. 12) — [Emma trova lo spettatore unico del video di yoga](../eventi/e13-01.md)
 1. `e13-03` (cap. 13, la stessa mattina, fino alle dieci passate) — [La paura - il televisore come angelo della morte; il processo del mattino saltato](../eventi/e13-03.md)
 1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
+1. `e15-02` (cap. 15, alle 08:00:01) — [Le 08:00:01 - «intendeva proprio quello?»](../eventi/e15-02.md)
+1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)
+1. `e15-06` (cap. 15, nei secondi prima del pezzo successivo) — [«Ciao Emma,» - Tom cancella e non risponde](../eventi/e15-06.md)
 

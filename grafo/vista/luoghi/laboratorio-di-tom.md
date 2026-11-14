@@ -1,6 +1,6 @@
 # Laboratorio di Tom
 
-`laboratorio-di-tom` · luogo · capitoli: 1, 2, 3, 6, 9, 14
+`laboratorio-di-tom` · luogo · capitoli: 1, 2, 3, 6, 9, 14, 15
 
 Alias: la stanza di Tom
 
@@ -20,6 +20,7 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 - Il carrello del ricondizionamento entra dalla porta *(cap. 6 r. 9)*
 - Nell'ultima ora di turno il corridoio si svuota; il neon sopra il banco resta l'unico acceso in quell'ala; porta a doppia mandata *(cap. 9 r. 25)*
 - C'è uno sgabello girevole tra banco e computer; un panno per gli attrezzi *(cap. 14 r. 15)*
+- Lo sgabello è «troppo basso»; il panno degli attrezzi piegato in quattro; piano del banco d'acciaio; un cassetto dei ricambi *(cap. 15 r. 9, cap. 15 r. 11, cap. 15 r. 25)*
 
 ## Punti aperti / da verificare
 
@@ -32,6 +33,7 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 - ← [Tom](../personaggi/tom.md) lavora in questa scheda *(cap. 1 r. 43)*
 - ← [Cassetto della scrivania (laboratorio)](../oggetti/cassetto-della-scrivania.md) si trova in questa scheda *(cap. 2 r. 41)*
 - ← [Terminale del turno](../oggetti/terminale-del-turno.md) si trova in questa scheda
+- ← [La porta accostata](../concetti/porta-accostata.md) riguarda questa scheda *(cap. 15 r. 9)*
 - ← [L'ultima ora di turno](../concetti/ultima-ora-di-turno.md) si svolge in questa scheda *(cap. 9 r. 25)*
 
 ## Catena degli eventi
@@ -62,4 +64,10 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 1. `e14-04` (cap. 14, pausa pranzo) — [In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti](../eventi/e14-04.md)
 1. `e14-05` (cap. 14, fine della pausa pranzo) — [Tom invia quando il nastro riparte](../eventi/e14-05.md)
 1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
+1. `e15-01` (cap. 15, il mattino dopo, alle otto meno un quarto) — [Tom lascia la porta accostata](../eventi/e15-01.md)
+1. `e15-02` (cap. 15, alle 08:00:01) — [Le 08:00:01 - «intendeva proprio quello?»](../eventi/e15-02.md)
+1. `e15-03` (cap. 15, subito dopo) — [Pete passa davanti alla porta e rallenta](../eventi/e15-03.md)
+1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)
+1. `e15-05` (cap. 15, stesso intervento) — [Tom dimentica la rondella e riga la ciotola](../eventi/e15-05.md)
+1. `e15-06` (cap. 15, nei secondi prima del pezzo successivo) — [«Ciao Emma,» - Tom cancella e non risponde](../eventi/e15-06.md)
 

@@ -1,7 +1,7 @@
 id: laboratorio-di-tom
 nome: Laboratorio di Tom
 alias: ["la stanza di Tom"]
-capitoli: [1, 2, 3, 6, 9, 14]
+capitoli: [1, 2, 3, 6, 9, 14, 15]
 sintesi: "La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza finestre, porta chiusa."
 caratteristiche:
   - {testo: "Sul retro dell'assistenza, isolato dal resto dell'edificio da una porta che Tom tiene chiusa", fonte: "c1:43"}
@@ -16,6 +16,7 @@ caratteristiche:
   - {testo: "Il carrello del ricondizionamento entra dalla porta", fonte: "c6:9"}
   - {testo: "Nell'ultima ora di turno il corridoio si svuota; il neon sopra il banco resta l'unico acceso in quell'ala; porta a doppia mandata", fonte: "c9:25"}
   - {testo: "C'è uno sgabello girevole tra banco e computer; un panno per gli attrezzi", fonte: "c14:15"}
+  - {testo: "Lo sgabello è «troppo basso»; il panno degli attrezzi piegato in quattro; piano del banco d'acciaio; un cassetto dei ricambi", fonte: "c15:9, c15:11, c15:25"}
 aperti:
   - {testo: "«Senza altoparlanti» (c1 r. 43) si riferisce alla stanza: va tenuto distinto dal fatto che il televisore possa avere un microfono (c3 r. 33)."}
 relazioni:

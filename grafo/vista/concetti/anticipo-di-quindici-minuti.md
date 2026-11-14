@@ -1,6 +1,6 @@
 # I quindici minuti di anticipo
 
-`anticipo-di-quindici-minuti` · concetto · capitoli: 4, 5, 9
+`anticipo-di-quindici-minuti` · concetto · capitoli: 4, 5, 9, 15
 
 Tom arriva sempre in azienda un quarto d'ora prima del turno. Nel cap. 4 li spende, per una volta, per la telefonata.
 
@@ -11,6 +11,7 @@ Tom arriva sempre in azienda un quarto d'ora prima del turno. Nel cap. 4 li spen
 - Esito del cap. 4: Tom arriva con due minuti di ritardo *(cap. 5 r. 9)*
 - Il mattino dopo ha di nuovo il «consueto quarto d'ora», che si assottiglia per la seconda volta in due giorni *(cap. 5 r. 35, cap. 5 r. 41)*
 - «Intoccabili come ogni mattina»: per avere tempo Tom anticipa la sveglia di un'ora, e esce comunque col solito quarto d'ora *(cap. 9 r. 9, cap. 9 r. 21)*
+- Scopo dichiarato: un quarto d'ora in cui non succede niente *(cap. 15 r. 9)*
 
 ## Cosa NON dice il testo
 
@@ -31,4 +32,5 @@ Tom arriva sempre in azienda un quarto d'ora prima del turno. Nel cap. 4 li spen
 1. `e05-01` (cap. 5, mercoledì, inizio turno di mattina) — [Tom arriva con due minuti di ritardo](../eventi/e05-01.md)
 1. `e05-05` (cap. 5, giovedì mattina, nel quarto d'ora di anticipo) — [La signora Voss non risponde](../eventi/e05-05.md)
 1. `e09-01` (cap. 9, il mattino dopo, un'ora prima della sveglia solita, ancora buio) — [Hive dà il video per reale](../eventi/e09-01.md)
+1. `e15-01` (cap. 15, il mattino dopo, alle otto meno un quarto) — [Tom lascia la porta accostata](../eventi/e15-01.md)
 

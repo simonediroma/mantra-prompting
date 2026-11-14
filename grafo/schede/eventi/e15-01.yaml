@@ -1,0 +1,12 @@
+id: e15-01
+nome: Tom lascia la porta accostata
+capitolo: 15
+ordine: 15.1
+quando: "il mattino dopo, alle otto meno un quarto"
+dove: laboratorio-di-tom
+dopo: [e14-06]
+coinvolti: [tom, porta-accostata, anticipo-di-quindici-minuti, risposta-di-tom]
+sintesi: "Per la prima volta in dodici anni niente doppia mandata. Tom si siede di tre quarti con la porta nell'angolo dell'occhio."
+fatti:
+  - {testo: "L'arrivo e la porta", fonte: "c15:9"}
+

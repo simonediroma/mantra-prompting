@@ -1,6 +1,6 @@
 # Emma
 
-`emma` · personaggio · capitoli: 10, 11, 12, 13, 14
+`emma` · personaggio · capitoli: 10, 11, 12, 13, 14, 15
 
 L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10.
 
@@ -46,6 +46,9 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Riconosce in sé una «ragione meno nobile»: non toglie il video anche perché sarebbe l'unico gesto notabile *(cap. 13 r. 37)*
 - Nella prima risposta dà del lei e firma «Cordiali saluti, Emma»; nella seconda dà del tu: «Ciao Tom» *(cap. 14 r. 17, cap. 14 r. 21)*
 - Finge di non sapere nulla dell'apparecchio: chiede se sia tornato «al cliente», al maschile *(cap. 14 r. 17)*
+- Scrive al primo secondo utile del turno, 08:00:01: una mail già scritta, aspettata «con il dito sopra un tasto» *(cap. 15 r. 11)*
+- Dice di sé: «nel mio lavoro la differenza conta» (tra modo di dire e fatto) *(cap. 15 r. 15)*
+- Per Tom è «una ricercatrice di un laboratorio che non esisteva più» *(cap. 15 r. 19)*
 
 ## Cosa NON dice il testo
 
@@ -67,6 +70,7 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - **Cap. 12** — Tre giorni dopo la mail di Tom: scopre dal giornale che la signora Voss è morta, e dalla lista dell'assistenza che il tecnico del suo televisore era Tom. Sospetta un'indagine. Conclude che la mail è sua, ma non sa per conto di chi *(cap. 12 r. 39)*
 - **Cap. 13** — Stessa mattina del cap. 12: nel pannello di eTv trova lo spettatore unico del video di yoga. Teme che il televisore abbia «preparato il terreno» alla morte della signora. Per la prima volta salta il processo del mattino. Scopre che Tom ha avuto il televisore due volte e le ha scritto sapendo della morte. Decide di riscrivergli scusandosi *(cap. 13 r. 43-45)*
 - **Cap. 14** — Fuori scena: ha inviato le scuse; nel pomeriggio non risponde alla mail di Tom *(cap. 14 r. 43)*
+- **Cap. 15** — Fuori scena: ha letto la risposta di Tom e alle 08:00:01 gli chiede se la cliente intendesse «si rifiuta» alla lettera *(cap. 15 r. 15)*
 
 ## Relazioni
 
@@ -89,6 +93,7 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - → consulta [Il pannello di eTv](../oggetti/pannello-di-etv.md) *(cap. 13 r. 11)*
 - → conosce e sfrutta [Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio](../concetti/meccanismo-della-ripetizione.md) *(cap. 13 r. 27)*
 - → decide di scrivere [La seconda mail di Emma (le scuse)](../oggetti/mail-di-scuse-di-emma.md) *(cap. 13 r. 45)*
+- → ha scritto [La mail delle 08:00:01](../oggetti/terza-mail-di-emma.md) *(cap. 15 r. 15)*
 - ← [Tom](../personaggi/tom.md) scrive a questa scheda — senza sapere chi leggerà *(cap. 10 r. 19)*
 - ← [elab@meridian.com](../oggetti/indirizzo-elab.md) gestita da questa scheda *(cap. 10 r. 17)*
 - ← [La risposta di Tom a Emma (solo fatti)](../oggetti/risposta-di-tom.md) indirizzata a questa scheda *(cap. 14 r. 39)*
@@ -118,4 +123,6 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 1. `e14-02` (cap. 14, nei quasi cinque minuti rimasti dello slot) — [Tom legge le scuse - non è più solo; il margine dei 47 secondi salta](../eventi/e14-02.md)
 1. `e14-05` (cap. 14, fine della pausa pranzo) — [Tom invia quando il nastro riparte](../eventi/e14-05.md)
 1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
+1. `e15-02` (cap. 15, alle 08:00:01) — [Le 08:00:01 - «intendeva proprio quello?»](../eventi/e15-02.md)
+1. `e15-06` (cap. 15, nei secondi prima del pezzo successivo) — [«Ciao Emma,» - Tom cancella e non risponde](../eventi/e15-06.md)
 

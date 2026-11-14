@@ -1,0 +1,12 @@
+id: e15-05
+nome: Tom dimentica la rondella e riga la ciotola
+capitolo: 15
+ordine: 15.5
+quando: "stesso intervento"
+dove: laboratorio-di-tom
+dopo: [e15-04]
+coinvolti: [tom, tritatutto, margine-47-secondi, ewatch, nastro]
+sintesi: "Il primo lavoro che gli va male. Riapre, rimonta, chiude sull'ultimo secondo; la ciotola parte rigata."
+fatti:
+  - {testo: "L'errore", fonte: "c15:29"}
+

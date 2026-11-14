@@ -1,6 +1,6 @@
 # eWatch
 
-`ewatch` · oggetto · capitoli: 3, 6, 12, 14
+`ewatch` · oggetto · capitoli: 3, 6, 12, 14, 15
 
 L'orologio che Meridian ha regalato a tutti i dipendenti quell'inverno, presto diventato obbligatorio. Tom ci cronometra ogni intervento.
 
@@ -15,6 +15,9 @@ L'orologio che Meridian ha regalato a tutti i dipendenti quell'inverno, presto d
 - Conta al polso i minuti dello slot «con la puntualità di un esattore» *(cap. 14 r. 13)*
 - Due vibrazioni diverse: «bzz bzz», due impulsi corti, per una nuova mail; «bzzzz», ronzio lungo, per il timer *(cap. 14 r. 13, cap. 14 r. 29)*
 - Mostra mittente della posta aziendale; conta anche i minuti della pausa *(cap. 14 r. 13, cap. 14 r. 39)*
+- Come ogni orologio del genere conta i battiti *(cap. 15 r. 27)*
+- Mostra l'ora della notifica al secondo: 08:00:01 *(cap. 15 r. 11)*
+- È lo stesso modello venduto nei negozi e regalato ai dipendenti *(cap. 15 r. 27)*
 
 ## Punti aperti / da verificare
 
@@ -22,6 +25,7 @@ L'orologio che Meridian ha regalato a tutti i dipendenti quell'inverno, presto d
 
 ## Relazioni
 
+- → al centro della [Come il televisore sapeva del cuore - l'ipotesi dell'eWatch](../concetti/ipotesi-ewatch.md) *(cap. 15 r. 27)*
 - ← [Signora Voss](../personaggi/signora-voss.md) indossa questa scheda *(cap. 6 r. 31)*
 - ← [Tom](../personaggi/tom.md) indossa questa scheda — obbligatorio in orario di lavoro *(cap. 3 r. 9)*
 - ← [Meridian](../organizzazioni/meridian.md) ha distribuito questa scheda — a tutti i dipendenti, quell'inverno *(cap. 3 r. 9)*
@@ -38,4 +42,7 @@ L'orologio che Meridian ha regalato a tutti i dipendenti quell'inverno, presto d
 1. `e14-01` (cap. 14, stesso giorno dei cap. 12-13, turno del mattino, dopo le dieci e mezza) — [Le scuse di Emma arrivano sull'eWatch a metà intervento](../eventi/e14-01.md)
 1. `e14-02` (cap. 14, nei quasi cinque minuti rimasti dello slot) — [Tom legge le scuse - non è più solo; il margine dei 47 secondi salta](../eventi/e14-02.md)
 1. `e14-05` (cap. 14, fine della pausa pranzo) — [Tom invia quando il nastro riparte](../eventi/e14-05.md)
+1. `e15-02` (cap. 15, alle 08:00:01) — [Le 08:00:01 - «intendeva proprio quello?»](../eventi/e15-02.md)
+1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)
+1. `e15-05` (cap. 15, stesso intervento) — [Tom dimentica la rondella e riga la ciotola](../eventi/e15-05.md)
 

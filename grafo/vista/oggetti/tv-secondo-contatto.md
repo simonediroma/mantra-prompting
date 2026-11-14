@@ -1,6 +1,6 @@
 # Televisore del secondo contatto
 
-`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6, 12, 13, 14
+`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6, 12, 13, 14, 15
 
 Alias: il secondo televisore, quinta voce del quaderno, il televisore della signora Voss
 
@@ -33,6 +33,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - Sulla lista dell'assistenza ha due righe, entrambe di Tom: ingresso con la frase della signora, hard reset, «in attesa di ritiro»; poi, poco più di tre settimane dopo, «ricondizionato, in magazzino, in attesa di vendita» *(cap. 13 r. 43)*
 - È arrivato in laboratorio pochi giorni dopo la telefonata della signora *(cap. 13 r. 31)*
 - Guasto come scritto da Tom nella scheda: non si accende e manda segnali luminosi senza senso dal LED di accensione *(cap. 14 r. 31)*
+- Ipotesi di Tom su come sapesse del cuore: stava sullo stesso account dell'eWatch della signora e ne vedeva i battiti; acceso otto ore al giorno, ha dedotto da solo dove andava a finire *(cap. 15 r. 27)*
 
 ## Cosa NON dice il testo
 
@@ -74,6 +75,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - ← [Post del fratello (con la foto della signora Voss)](../oggetti/post-del-fratello.md) mostra questa scheda *(cap. 6 r. 31)*
 - ← [Quaderno nero](../oggetti/quaderno-nero.md) registra (voce 5) questa scheda *(cap. 3 r. 37)*
 - ← [Televisore del primo contatto (caso zero)](../oggetti/tv-caso-zero.md) stesso modello di questa scheda *(cap. 3 r. 17)*
+- ← [Come il televisore sapeva del cuore - l'ipotesi dell'eWatch](../concetti/ipotesi-ewatch.md) spiega questa scheda *(cap. 15 r. 27)*
 - ← [«Angelo della morte»](../termini/angelo-della-morte.md) detto del questa scheda *(cap. 13 r. 37)*
 
 ## Catena degli eventi
@@ -98,4 +100,5 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 1. `e13-03` (cap. 13, la stessa mattina, fino alle dieci passate) — [La paura - il televisore come angelo della morte; il processo del mattino saltato](../eventi/e13-03.md)
 1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
 1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
+1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)
 

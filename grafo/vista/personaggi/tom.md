@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -73,6 +73,12 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Con Emma inverte il suo metodo: non domandare e osservare, ma rispondere e vedere cosa lei chiede dopo *(cap. 14 r. 37)*
 - La telefonata alla signora Voss è «l'unico momento in cui l'aveva sentita viva»: è ciò che gli costa di più tacere *(cap. 14 r. 33)*
 - Sente di «doverla conoscere», «come si sa una cosa già vista da qualche parte senza ricordare dove» *(cap. 14 r. 43)*
+- Arriva alle otto meno un quarto, cappuccio abbassato, chiave già in mano; accende il neon, posa la chiave sul banco *(cap. 15 r. 9)*
+- Il tell: a disagio davanti a una persona, si guarda il polso, l'eWatch, «più a lungo del necessario» *(cap. 15 r. 21)*
+- Parla alla stanza «con il tono che usava per i televisori»: «E tu come fai a saperlo?» *(cap. 15 r. 21)*
+- Riconosce il passo di Pete dopo «anni di incroci evitati» *(cap. 15 r. 23)*
+- Monta lame «da prima di avere gli occhiali da lettura»: dimenticare la rondella è il primo lavoro che gli va male *(cap. 15 r. 29)*
+- Distingue ciò che ha voglia di credere da ciò che è provato: «Non era una prova», se lo dice con le parole precise *(cap. 15 r. 27)*
 
 ## Punti aperti / da verificare
 
@@ -80,6 +86,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Nel cap. 9 Tom evita ogni traccia nell'archivio; la sera stessa manda da un indirizzo Meridian riconoscibile una mail con una bugia tecnica verificabile (c10 r. 17-21). Il testo non mostra come sia arrivato a questa scelta: il cap. 10 è dal punto di vista di Emma.
 - Sgabello: Tom li «disprezza apertamente» (c1 r. 13) e lavora in piedi «perché gli sgabelli restavano quello che erano» (c3 r. 21), ma nel cap. 14 «girò lo sgabello verso il computer» due volte (r. 15, r. 41).
 - «Nove apparecchi su dieci non avevano niente da dire» (c14 r. 11): alla lettera uno su dieci risponde, mentre in quattro mesi hanno risposto due televisori in tutto.
+- Sgabello, terza volta: nel cap. 15 si siede «sullo sgabello troppo basso, di tre quarti» (r. 9). Il disprezzo c'è ancora («troppo basso»), ma ormai ci si siede.
 
 ## Stato capitolo per capitolo
 
@@ -97,6 +104,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 12** — Fuori scena: non ha ancora risposto a Emma, tre giorni dopo la sua mail *(cap. 12 r. 25)*
 - **Cap. 13** — Fuori scena. Per Emma: «Forse non mi sta dando la caccia. Forse sta cercando anche lui di sapere cosa sia successo.» *(cap. 13 r. 41)*
 - **Cap. 14** — Dopo due giorni di silenzio riceve le scuse di Emma durante un intervento: per la prima volta chiude sull'ultimo secondo, senza margine. In pausa pranzo scrive una risposta di soli fatti, tacendo Morse, quaderno, video e telefonata; la invia quando il nastro riparte. La sera non scrive nulla sul quaderno *(cap. 14 r. 29, cap. 14 r. 39, cap. 14 r. 45)*
+- **Cap. 15** — Il mattino dopo: lascia la porta accostata per la prima volta in dodici anni. Alle 08:00:01 Emma gli chiede se «si rifiuta» fosse alla lettera. Pete passa e rallenta. Tom arriva all'ipotesi dell'eWatch, sbaglia un tritatutto, comincia una risposta e la cancella *(cap. 15 r. 31)*
 
 ## Relazioni
 
@@ -129,13 +137,17 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - → gestisce [Il sito e il forum del progetto del giradischi](../oggetti/sito-del-giradischi.md) *(cap. 12 r. 33)*
 - → ha scritto [La risposta di Tom a Emma (solo fatti)](../oggetti/risposta-di-tom.md) *(cap. 14 r. 37)*
 - → pratica [Il digiuno intermittente di Tom](../concetti/digiuno-intermittente.md) *(cap. 14 r. 35)*
+- → formula [Come il televisore sapeva del cuore - l'ipotesi dell'eWatch](../concetti/ipotesi-ewatch.md) *(cap. 15 r. 27)*
+- → decide [La porta accostata](../concetti/porta-accostata.md) *(cap. 15 r. 9)*
 - ← [Emma](../personaggi/emma.md) sa che le ha mentito questa scheda *(cap. 10 r. 21)*
 - ← [Emma](../personaggi/emma.md) indaga su questa scheda *(cap. 12 r. 29-37)*
+- ← [Pete](../personaggi/pete.md) sorveglia questa scheda *(cap. 15 r. 23)*
 - ← [Signora Voss](../personaggi/signora-voss.md) crede sia del controllo qualità questa scheda *(cap. 4 r. 19)*
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) indirizzata a questa scheda *(cap. 2 r. 9)*
 - ← [La seconda mail di Emma (le scuse)](../oggetti/mail-di-scuse-di-emma.md) destinata a questa scheda *(cap. 13 r. 45)*
 - ← [Organigramma e pagina aziendale di Tom](../oggetti/organigramma.md) descrive questa scheda *(cap. 12 r. 31)*
 - ← [La risposta di Emma (16:59)](../oggetti/risposta-di-emma.md) indirizzata a questa scheda *(cap. 10 r. 27)*
+- ← [La mail delle 08:00:01](../oggetti/terza-mail-di-emma.md) indirizzata a questa scheda *(cap. 15 r. 11)*
 - ← [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) applicata da Pete a questa scheda *(cap. 17 r. 58)*
 
 ## Catena degli eventi
@@ -202,4 +214,10 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e14-04` (cap. 14, pausa pranzo) — [In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti](../eventi/e14-04.md)
 1. `e14-05` (cap. 14, fine della pausa pranzo) — [Tom invia quando il nastro riparte](../eventi/e14-05.md)
 1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
+1. `e15-01` (cap. 15, il mattino dopo, alle otto meno un quarto) — [Tom lascia la porta accostata](../eventi/e15-01.md)
+1. `e15-02` (cap. 15, alle 08:00:01) — [Le 08:00:01 - «intendeva proprio quello?»](../eventi/e15-02.md)
+1. `e15-03` (cap. 15, subito dopo) — [Pete passa davanti alla porta e rallenta](../eventi/e15-03.md)
+1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)
+1. `e15-05` (cap. 15, stesso intervento) — [Tom dimentica la rondella e riga la ciotola](../eventi/e15-05.md)
+1. `e15-06` (cap. 15, nei secondi prima del pezzo successivo) — [«Ciao Emma,» - Tom cancella e non risponde](../eventi/e15-06.md)
 

@@ -1,6 +1,6 @@
 id: tom
 nome: Tom
-capitoli: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+capitoli: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 sintesi: "Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3."
 caratteristiche:
   - {testo: "53 anni", fonte: "c1:11"}
@@ -70,6 +70,12 @@ caratteristiche:
   - {testo: "Con Emma inverte il suo metodo: non domandare e osservare, ma rispondere e vedere cosa lei chiede dopo", fonte: "c14:37"}
   - {testo: "La telefonata alla signora Voss è «l'unico momento in cui l'aveva sentita viva»: è ciò che gli costa di più tacere", fonte: "c14:33"}
   - {testo: "Sente di «doverla conoscere», «come si sa una cosa già vista da qualche parte senza ricordare dove»", fonte: "c14:43"}
+  - {testo: "Arriva alle otto meno un quarto, cappuccio abbassato, chiave già in mano; accende il neon, posa la chiave sul banco", fonte: "c15:9"}
+  - {testo: "Il tell: a disagio davanti a una persona, si guarda il polso, l'eWatch, «più a lungo del necessario»", fonte: "c15:21"}
+  - {testo: "Parla alla stanza «con il tono che usava per i televisori»: «E tu come fai a saperlo?»", fonte: "c15:21"}
+  - {testo: "Riconosce il passo di Pete dopo «anni di incroci evitati»", fonte: "c15:23"}
+  - {testo: "Monta lame «da prima di avere gli occhiali da lettura»: dimenticare la rondella è il primo lavoro che gli va male", fonte: "c15:29"}
+  - {testo: "Distingue ciò che ha voglia di credere da ciò che è provato: «Non era una prova», se lo dice con le parole precise", fonte: "c15:27"}
 stato:
   - {cap: 1, testo: "Scopre che un televisore risponde in Morse; perde tempo oltre il limite; prende tempo etichettando l'unità come anomalia", fonte: "c1:97"}
   - {cap: 2, testo: "Richiamo formale e trattenuta di 47 minuti; perde il televisore; decide di tenere lui il cronometro e un archivio privato", fonte: "c2:45"}
@@ -85,11 +91,13 @@ stato:
   - {cap: 12, testo: "Fuori scena: non ha ancora risposto a Emma, tre giorni dopo la sua mail", fonte: "c12:25"}
   - {cap: 13, testo: "Fuori scena. Per Emma: «Forse non mi sta dando la caccia. Forse sta cercando anche lui di sapere cosa sia successo.»", fonte: "c13:41"}
   - {cap: 14, testo: "Dopo due giorni di silenzio riceve le scuse di Emma durante un intervento: per la prima volta chiude sull'ultimo secondo, senza margine. In pausa pranzo scrive una risposta di soli fatti, tacendo Morse, quaderno, video e telefonata; la invia quando il nastro riparte. La sera non scrive nulla sul quaderno", fonte: "c14:29, c14:39, c14:45"}
+  - {cap: 15, testo: "Il mattino dopo: lascia la porta accostata per la prima volta in dodici anni. Alle 08:00:01 Emma gli chiede se «si rifiuta» fosse alla lettera. Pete passa e rallenta. Tom arriva all'ipotesi dell'eWatch, sbaglia un tritatutto, comincia una risposta e la cancella", fonte: "c15:31"}
 aperti:
   - {testo: "Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi."}
   - {testo: "Nel cap. 9 Tom evita ogni traccia nell'archivio; la sera stessa manda da un indirizzo Meridian riconoscibile una mail con una bugia tecnica verificabile (c10 r. 17-21). Il testo non mostra come sia arrivato a questa scelta: il cap. 10 è dal punto di vista di Emma."}
   - {testo: "Sgabello: Tom li «disprezza apertamente» (c1 r. 13) e lavora in piedi «perché gli sgabelli restavano quello che erano» (c3 r. 21), ma nel cap. 14 «girò lo sgabello verso il computer» due volte (r. 15, r. 41)."}
   - {testo: "«Nove apparecchi su dieci non avevano niente da dire» (c14 r. 11): alla lettera uno su dieci risponde, mentre in quattro mesi hanno risposto due televisori in tutto."}
+  - {testo: "Sgabello, terza volta: nel cap. 15 si siede «sullo sgabello troppo basso, di tre quarti» (r. 9). Il disprezzo c'è ancora («troppo basso»), ma ormai ci si siede."}
 non_detto:
 relazioni:
   - {verso: meridian, tipo: "lavora per", fonte: "c1:17"}
@@ -122,3 +130,5 @@ relazioni:
   - {verso: sito-del-giradischi, tipo: "gestisce", fonte: "c12:33"}
   - {verso: risposta-di-tom, tipo: "ha scritto", fonte: "c14:37"}
   - {verso: digiuno-intermittente, tipo: "pratica", fonte: "c14:35"}
+  - {verso: ipotesi-ewatch, tipo: "formula", fonte: "c15:27"}
+  - {verso: porta-accostata, tipo: "decide", fonte: "c15:9"}

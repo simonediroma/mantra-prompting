@@ -1,6 +1,6 @@
 id: nastro
 nome: Nastro
-capitoli: [2, 3, 14]
+capitoli: [2, 3, 14, 15]
 sintesi: "Il nastro che porta gli apparecchi alle stanze dei tecnici. Fruscio in corridoio, «clac» a ogni consegna."
 caratteristiche:
   - {testo: "Fruscio udibile dal corridoio a inizio turno", fonte: "c2:9"}
@@ -8,6 +8,7 @@ caratteristiche:
   - {testo: "Porta il prossimo apparecchio appena il tecnico preme il pulsante di chiusura dell'intervento; porta via quello finito verso l'uscita", fonte: "c14:15, c14:29"}
   - {testo: "Fermo durante la pausa pranzo; riparte con un «clac» metallico", fonte: "c14:35, c14:39"}
   - {testo: "Da quando c'è, ogni tecnico è chiuso in una stanza singola", fonte: "c14:27"}
+  - {testo: "Parte alle otto; ha «le sue code e le sue priorità»: un banco può restare vuoto qualche minuto a inizio turno", fonte: "c15:11"}
 relazioni:
   - {verso: sede-assistenza, tipo: "si trova in"}
 

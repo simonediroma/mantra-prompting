@@ -33,4 +33,5 @@ Il telefono personale da cui Tom chiama la signora Voss. Lei ne conserva il nume
 1. `e06-0a` (cap. 6, dalle mattine successive al cap. 5 fino a tre settimane dopo) — [Tom richiama la signora per settimane, senza risposta](../eventi/e06-0a.md)
 1. `e06-05` (cap. 6, la stessa sera) — [Tom decide di cercare il video di yoga](../eventi/e06-05.md)
 1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
+1. `e15-06` (cap. 15, nei secondi prima del pezzo successivo) — [«Ciao Emma,» - Tom cancella e non risponde](../eventi/e15-06.md)
 
