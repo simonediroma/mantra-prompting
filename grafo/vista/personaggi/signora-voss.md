@@ -23,7 +23,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 ## Cosa NON dice il testo
 
 - Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta.
-- Non sa il Morse, o comunque non riconosce i lampeggi come un messaggio: parla solo di «modo strano».
+- Il cap. 4 non dice se la signora conosca il Morse: dei lampeggi dice solo «modo strano» e «sembra un rifiuto».
 
 ## Relazioni
 
