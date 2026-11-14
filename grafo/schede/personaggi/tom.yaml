@@ -1,6 +1,6 @@
 id: tom
 nome: Tom
-capitoli: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+capitoli: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 sintesi: "Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3."
 caratteristiche:
   - {testo: "53 anni", fonte: "c1:11"}
@@ -59,6 +59,8 @@ caratteristiche:
   - {testo: "Sul forum del progetto scrive da anni, quasi sempre tra mezzanotte e le due", fonte: "c12:35"}
   - {testo: "Nei messaggi recenti parla di musica ma non dice più di ascoltarne", fonte: "c12:37"}
   - {testo: "Per Emma: un tecnico vero, che davanti a un apparecchio strano «non avrebbe smesso di smontarlo finché non avesse capito»", fonte: "c12:35"}
+  - {testo: "Per Emma è l'unico ancora vivo ad aver avuto davanti il televisore Voss dopo che aveva smesso di obbedire: prima dell'hard reset e dopo la morte", fonte: "c13:41, c13:43"}
+  - {testo: "Ha scritto a Elab il giorno dopo aver ricondizionato il televisore e letto la pratica: sapeva già della morte", fonte: "c13:43"}
 stato:
   - {cap: 1, testo: "Scopre che un televisore risponde in Morse; perde tempo oltre il limite; prende tempo etichettando l'unità come anomalia", fonte: "c1:97"}
   - {cap: 2, testo: "Richiamo formale e trattenuta di 47 minuti; perde il televisore; decide di tenere lui il cronometro e un archivio privato", fonte: "c2:45"}
@@ -72,6 +74,7 @@ stato:
   - {cap: 10, testo: "Fuori scena: la sera del cap. 9 ha scritto a elab@meridian.com sostenendo di aver trovato l'indirizzo nei log di un televisore", fonte: "c10:17-19"}
   - {cap: 11, testo: "Fuori scena: per tutta la giornata non risponde alla mail di Emma", fonte: "c11:37"}
   - {cap: 12, testo: "Fuori scena: non ha ancora risposto a Emma, tre giorni dopo la sua mail", fonte: "c12:25"}
+  - {cap: 13, testo: "Fuori scena. Per Emma: «Forse non mi sta dando la caccia. Forse sta cercando anche lui di sapere cosa sia successo.»", fonte: "c13:41"}
 aperti:
   - {testo: "Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi."}
   - {testo: "Nel cap. 9 Tom evita ogni traccia nell'archivio; la sera stessa manda da un indirizzo Meridian riconoscibile una mail con una bugia tecnica verificabile (c10 r. 17-21). Il testo non mostra come sia arrivato a questa scelta: il cap. 10 è dal punto di vista di Emma."}

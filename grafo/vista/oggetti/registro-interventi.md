@@ -1,6 +1,6 @@
 # Registro interventi
 
-`registro-interventi` · oggetto · capitoli: 2, 6
+`registro-interventi` · oggetto · capitoli: 2, 6, 13
 
 Il registro in cui Tom, per abitudine, cerca l'unità del giorno prima e ne scopre la riassegnazione.
 
@@ -12,6 +12,7 @@ Il registro in cui Tom, per abitudine, cerca l'unità del giorno prima e ne scop
 - Si cerca per numero di pratica associato al numero di serie *(cap. 6 r. 19)*
 - Voce 1 sul televisore Voss: «cliente ricontattata, rifiuta il ritiro ("non lo voglio più in casa"): richiesto il rimborso previsto (33% del valore di acquisto).» *(cap. 6 r. 19)*
 - Voce 2, pochi giorni dopo: «causale: decesso cliente, verificata su documentazione fornita. Pagamento reindirizzato a erede designato.» *(cap. 6 r. 21)*
+- Lo consulta anche Emma: vi legge rifiuto del ritiro, rimborso, decesso, erede *(cap. 13 r. 43)*
 
 ## Relazioni
 
@@ -23,4 +24,5 @@ Il registro in cui Tom, per abitudine, cerca l'unità del giorno prima e ne scop
 1. `e06-0b` (cap. 6, nelle tre settimane dopo il reset (data non indicata)) — [L'assistenza ricontatta la signora Voss - «non lo voglio più in casa»](../eventi/e06-0b.md)
 1. `e06-0c` (cap. 6, una mattina, dopo il rifiuto del ritiro; registrata «pochi giorni dopo» la prima voce) — [La signora Voss muore facendo yoga](../eventi/e06-0c.md)
 1. `e06-02` (cap. 6, stesso turno) — [Tom legge nel registro il rifiuto e il decesso](../eventi/e06-02.md)
+1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
 

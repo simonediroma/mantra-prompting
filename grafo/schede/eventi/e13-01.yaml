@@ -1,0 +1,14 @@
+id: e13-01
+nome: Emma trova lo spettatore unico del video di yoga
+capitolo: 13
+ordine: 13.1
+quando: "la stessa mattina del cap. 12"
+dove: stanza-di-emma
+dopo: [e12-05, e00-02]
+coinvolti: [emma, pannello-di-etv, video-yoga, tv-secondo-contatto, signora-voss, archivio-di-emma]
+sintesi: "Un utente anonimo su Smart TV: dieci riproduzioni al giorno a 2x, poi fino a trenta, poi zero. L'ultima è della vigilia della chiamata della signora Voss."
+fatti:
+  - {testo: "Il pannello e il filtro", fonte: "c13:11-13"}
+  - {testo: "La scheda dello spettatore", fonte: "c13:15-21"}
+  - {testo: "La coincidenza delle date", fonte: "c13:23"}
+

@@ -23,6 +23,7 @@ A ogni visita il fondatore ripete a Emma la stessa domanda con parole sempre div
 
 - ← [Emma](../personaggi/emma.md) risponde sbagliando apposta a questa scheda *(cap. 11 r. 25)*
 - ← [Il fondatore](../personaggi/fondatore.md) ripete questa scheda *(cap. 11 r. 25)*
+- ← [Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio](../concetti/meccanismo-della-ripetizione.md) stesso principio di questa scheda *(cap. 11 r. 25)*
 - ← [Mantra](../termini/mantra.md) detto del questa scheda *(cap. 11 r. 25)*
 
 ## Catena degli eventi

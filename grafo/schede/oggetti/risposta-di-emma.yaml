@@ -1,6 +1,6 @@
 id: risposta-di-emma
 nome: La risposta di Emma (16:59)
-capitoli: [10, 11, 12]
+capitoli: [10, 11, 12, 13]
 sintesi: "La mail con cui Emma risponde a Tom, in registro asciutto e professionale."
 caratteristiche:
   - {testo: "Inviata alle sedici e cinquantanove, giusto prima della fine del turno", fonte: "c10:27"}
@@ -8,6 +8,7 @@ caratteristiche:
   - {testo: "Registro: quello che userebbe «con un fornitore sorpreso a falsificare una fattura»", fonte: "c10:25"}
   - {testo: "Inviata «poco prima della fine del suo turno»: Tom non può rispondere finché non torna in servizio", fonte: "c11:11"}
   - {testo: "Contenuto, per come lo ricorda Emma: ha risposto «in poche ore, smontandola riga per riga»", fonte: "c12:25"}
+  - {testo: "«Gli aveva chiuso la porta in poche ore, con il tono di un ufficio reclami»", fonte: "c13:43"}
 non_detto:
   - {testo: "Il testo letterale della risposta non è riportato nei cap. 10-12."}
 stato:

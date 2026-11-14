@@ -1,7 +1,7 @@
 id: tv-secondo-contatto
 nome: Televisore del secondo contatto
 alias: ["il secondo televisore", "quinta voce del quaderno", "il televisore della signora Voss"]
-capitoli: [3, 4, 5, 6, 12]
+capitoli: [3, 4, 5, 6, 12, 13]
 sintesi: "Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi dopo. Risponde «NO SONO QUI CON TE». Tom ne apre il log e poi lo resetta lui stesso."
 caratteristiche:
   - {testo: "Modello identico a quello di tre mesi prima", fonte: "c3:17"}
@@ -24,10 +24,15 @@ caratteristiche:
   - {testo: "Per Tom, dopo l'hard reset è «un disco appena formattato»: ciò che aveva risposto l'ha cancellato lui", fonte: "c6:25"}
   - {testo: "Nell'archivio di Emma: data, modello, comportamento anomalo riportato dalla cliente; «log interrotti da un giorno all'altro»", fonte: "c12:15, c12:19"}
   - {testo: "Sulla lista dell'assistenza è identificato da un «numero di matricola», con il nome del tecnico: Tom", fonte: "c12:21"}
+  - {testo: "È la «Smart TV» dello spettatore anonimo: per settimane ha riprodotto il video di yoga, fino a trenta volte al giorno, poi ha smesso da un giorno all'altro", fonte: "c13:16-21"}
+  - {testo: "A casa era collegato alla rete domestica; i log degli ultimi giorni mancano", fonte: "c13:33"}
+  - {testo: "Sulla lista dell'assistenza ha due righe, entrambe di Tom: ingresso con la frase della signora, hard reset, «in attesa di ritiro»; poi, poco più di tre settimane dopo, «ricondizionato, in magazzino, in attesa di vendita»", fonte: "c13:43"}
+  - {testo: "È arrivato in laboratorio pochi giorni dopo la telefonata della signora", fonte: "c13:31"}
 stato:
   - {cap: 3, testo: "Resettato da Tom (hard reset). Registrato la sera come quinta voce del quaderno", fonte: "c3:35-37"}
   - {cap: 4, testo: "Il mattino dopo il reset, per Tom è «appena uscito dall'assistenza tecnica» e «dovrebbe essere pronto per il ritiro». La signora non l'ha ancora riavuto", fonte: "c4:21-23"}
   - {cap: 6, testo: "Poco più di tre settimane dopo il reset torna sul banco di Tom con l'etichetta gialla, in un lotto di una decina di apparecchi. Tom non lo accende e lo ricondiziona entro fine turno", fonte: "c6:9, c6:13, c6:25"}
+  - {cap: 13, testo: "Ricondizionato, in magazzino, in attesa di vendita", fonte: "c13:43"}
 non_detto:
   - {testo: "Dopo il reset software e il riavvio della procedura (c3 r. 19) l'apparecchio risponde ancora: solo l'hard reset finale (c3 r. 35) lo riporta ai valori di fabbrica."}
   - {testo: "«Da allora nessuno l'aveva più acceso» (c6 r. 25) è una convinzione di Tom: il testo non dice come lo sappia."}
@@ -37,6 +42,8 @@ aperti:
   - {testo: "Domanda che il testo stesso lascia aperta: «Come facesse un televisore a sapere qualcosa del cuore di una donna» (c5 r. 27)."}
   - {testo: "Nella foto «di qualche anno prima» il televisore è già nel salotto (c6 r. 31): l'apparecchio ha quindi qualche anno, se è lo stesso."}
   - {testo: "«Numero di serie» nel cap. 6 (r. 9), «numero di matricola» nel cap. 12 (r. 21): stesso dato, due nomi."}
+  - {testo: "Il televisore è in attesa di vendita: può finire in un'altra casa. Il testo lo dice senza commentarlo."}
+  - {testo: "Emma teme che nei giorni senza log abbia «preparato il terreno» (c13 r. 33); il lettore sa dal cap. 5 che in quei giorni avvertiva la signora. Le due letture convivono fino a quando Tom non glielo dice."}
 relazioni:
   - {verso: log-tv-secondo-contatto, tipo: "ha come log", fonte: "c3:19"}
   - {verso: led-di-accensione, tipo: "comunica tramite", fonte: "c3:23"}

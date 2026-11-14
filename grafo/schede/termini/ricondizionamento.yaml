@@ -1,6 +1,6 @@
 id: ricondizionamento
 nome: Ricondizionamento (giacenza, rimborso, scorciatoia)
-capitoli: [6]
+capitoli: [6, 13]
 sintesi: "Il protocollo Meridian per gli apparecchi non ritirati: 120 giorni di giacenza, poi ricondizionamento e rimborso forfettario del 33%. Con una scorciatoia se il cliente rifiuta il ritiro."
 caratteristiche:
   - {testo: "Giacenza minima: 120 giorni prima che un apparecchio non ritirato sia disponibile per il ricondizionamento", fonte: "c6:13"}
@@ -8,6 +8,7 @@ caratteristiche:
   - {testo: "Scorciatoia: se il cliente, ricontattato, rifiuta il ritiro e accetta subito il rimborso, chiusura immediata. Prevista ma rara: richiede che qualcuno abbia parlato col cliente", fonte: "c6:15"}
   - {testo: "Gli apparecchi da ricondizionare hanno un'etichetta gialla sul retro e arrivano in lotti sul carrello", fonte: "c6:9"}
   - {testo: "Se ne occupa Tom", fonte: "c6:13"}
+  - {testo: "Stato finale in lista: «ricondizionato, in magazzino, in attesa di vendita»", fonte: "c13:43"}
 non_detto:
   - {testo: "In cosa consista tecnicamente il ricondizionamento non è descritto."}
   - {testo: "Chi dell'assistenza abbia ricontattato la signora Voss non è detto."}

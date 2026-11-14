@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -62,6 +62,8 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Sul forum del progetto scrive da anni, quasi sempre tra mezzanotte e le due *(cap. 12 r. 35)*
 - Nei messaggi recenti parla di musica ma non dice più di ascoltarne *(cap. 12 r. 37)*
 - Per Emma: un tecnico vero, che davanti a un apparecchio strano «non avrebbe smesso di smontarlo finché non avesse capito» *(cap. 12 r. 35)*
+- Per Emma è l'unico ancora vivo ad aver avuto davanti il televisore Voss dopo che aveva smesso di obbedire: prima dell'hard reset e dopo la morte *(cap. 13 r. 41, cap. 13 r. 43)*
+- Ha scritto a Elab il giorno dopo aver ricondizionato il televisore e letto la pratica: sapeva già della morte *(cap. 13 r. 43)*
 
 ## Cosa NON dice il testo
 
@@ -86,6 +88,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 10** — Fuori scena: la sera del cap. 9 ha scritto a elab@meridian.com sostenendo di aver trovato l'indirizzo nei log di un televisore *(cap. 10 r. 17-19)*
 - **Cap. 11** — Fuori scena: per tutta la giornata non risponde alla mail di Emma *(cap. 11 r. 37)*
 - **Cap. 12** — Fuori scena: non ha ancora risposto a Emma, tre giorni dopo la sua mail *(cap. 12 r. 25)*
+- **Cap. 13** — Fuori scena. Per Emma: «Forse non mi sta dando la caccia. Forse sta cercando anche lui di sapere cosa sia successo.» *(cap. 13 r. 41)*
 
 ## Relazioni
 
@@ -120,6 +123,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - ← [Emma](../personaggi/emma.md) indaga su questa scheda *(cap. 12 r. 29-37)*
 - ← [Signora Voss](../personaggi/signora-voss.md) crede sia del controllo qualità questa scheda *(cap. 4 r. 19)*
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) indirizzata a questa scheda *(cap. 2 r. 9)*
+- ← [La seconda mail di Emma (le scuse)](../oggetti/mail-di-scuse-di-emma.md) destinata a questa scheda *(cap. 13 r. 45)*
 - ← [Organigramma e pagina aziendale di Tom](../oggetti/organigramma.md) descrive questa scheda *(cap. 12 r. 31)*
 - ← [La risposta di Emma (16:59)](../oggetti/risposta-di-emma.md) indirizzata a questa scheda *(cap. 10 r. 27)*
 - ← [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) applicata da Pete a questa scheda *(cap. 17 r. 58)*
@@ -179,4 +183,6 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e12-03` (cap. 12, la stessa mattina) — [Due ipotesi - un investigatore con la casella di Tom, o Tom che indaga](../eventi/e12-03.md)
 1. `e12-04` (cap. 12, la stessa mattina) — [Emma ricostruisce chi è Tom - organigramma, LinkedIn, forum](../eventi/e12-04.md)
 1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
+1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
+1. `e13-06` (cap. 13, le dieci e mezza) — [Emma decide di riscrivere a Tom - le scuse](../eventi/e13-06.md)
 

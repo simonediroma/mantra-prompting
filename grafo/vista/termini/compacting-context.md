@@ -18,6 +18,7 @@ L'ultima riga del log del caso zero. Tom la conosce dal giradischi: la pausa di 
 
 - ← [Giradischi di Tom](../oggetti/giradischi-di-tom.md) mostra nel log questa scheda *(cap. 1 r. 91)*
 - ← [Log di sistema del primo televisore](../oggetti/log-tv-caso-zero.md) termina con questa scheda *(cap. 1 r. 89)*
+- ← [Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio](../concetti/meccanismo-della-ripetizione.md) probabilmente legato a questa scheda — legame non esplicitato dal testo
 
 ## Catena degli eventi
 

@@ -1,6 +1,6 @@
 id: mail-bluff-di-tom
 nome: La prima mail di Tom a Elab (il bluff)
-capitoli: [10, 12]
+capitoli: [10, 12, 13]
 sintesi: "La mail con cui Tom scrive a elab@meridian.com dicendo di aver trovato l'indirizzo nei log di un televisore. È falso, ed Emma lo sa."
 caratteristiche:
   - {testo: "Testo: «Buongiorno, mi chiamo Tom, membro della Divisione Assistenza Tecnica. Nel corso di un intervento su un televisore ho rilevato nei log di sistema un riferimento a questo indirizzo di posta. Ho alcune domande sul televisore in questione e vorrei capire se possiate aiutarmi. Cordiali saluti, Tom.»", fonte: "c10:19"}
@@ -10,6 +10,7 @@ caratteristiche:
   - {testo: "«Quattro righe e una firma»; «Divisione Assistenza Tecnica» scritta per intero, saluti di rito, frase costruita come una segnalazione di guasto", fonte: "c12:23, c12:29"}
   - {testo: "Riletta da Emma: troppo goffa per essere sincera, forse un'esca per vedere chi risponde e come", fonte: "c12:25"}
   - {testo: "Datata «tre giorni prima» del cap. 12 e «qualche settimana dopo» l'intervento sul televisore Voss", fonte: "c12:17, c12:23"}
+  - {testo: "Terza lettura di Emma: «la scusa più debole che un tecnico potesse inventare per non dire che aveva davanti una cliente morta»", fonte: "c13:43"}
 non_detto:
   - {testo: "Ora esatta e luogo d'invio (casa o azienda) non sono indicati. La scrittura della mail non è in scena."}
   - {testo: "La mail non nomina la signora Voss, il video, né quale televisore."}

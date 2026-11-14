@@ -10,6 +10,7 @@
 10: {titolo: Il bluff, file: chapters/10-il-bluff.md, versione_analizzata: "5.1"}
 11: {titolo: La routine di Emma, file: chapters/11-la-routine-di-emma.md, versione_analizzata: "4.4"}
 12: {titolo: "Solo un tecnico?", file: chapters/12-solo-un-tecnico.md, versione_analizzata: "7.1"}
+13: {titolo: La correlazione, file: chapters/13-la-correlazione.md, versione_analizzata: "3.0"}
 # parziale: letti solo i passaggi che definiscono i termini anticipati; il capitolo resta da analizzare
 17: {titolo: Il bivio, file: chapters/17-il-bivio.md, versione_analizzata: "1.18", parziale: true}
 18: {titolo: La richiesta di meeting, file: chapters/18-la-richiesta-di-meeting.md, versione_analizzata: "5.4", parziale: true}

@@ -1,10 +1,11 @@
 id: tappetino-da-yoga
 nome: Tappetino da yoga della signora Voss
-capitoli: [5, 12]
+capitoli: [5, 12, 13]
 sintesi: "Srotolato sul pavimento del salotto, compare di sfuggita nel video girato dalla signora."
 caratteristiche:
   - {testo: "«Un tappetino da yoga srotolato sul pavimento»", fonte: "c5:19"}
   - {testo: "Nella foto dell'articolo è arrotolato in un angolo del salotto; è il dettaglio che fa pensare Emma ai video di yoga di eTv", fonte: "c12:13, c12:23"}
+  - {testo: "La signora è morta «sul suo tappetino»", fonte: "c13:33"}
 relazioni:
   - {verso: casa-della-voss, tipo: "si trova in", fonte: "c5:19"}
   - {verso: signora-voss, tipo: "appartiene a"}

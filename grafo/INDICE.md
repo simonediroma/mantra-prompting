@@ -16,6 +16,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Cap. 10 — Il bluff](vista/capitoli/10.md) (v5.1)
 - [Cap. 11 — La routine di Emma](vista/capitoli/11.md) (v4.4)
 - [Cap. 12 — Solo un tecnico?](vista/capitoli/12.md) (v7.1)
+- [Cap. 13 — La correlazione](vista/capitoli/13.md) (v3.0)
 - [Cap. 17 — Il bivio](vista/capitoli/17.md) (v1.18) — **analisi parziale**: solo i termini anticipati
 - [Cap. 18 — La richiesta di meeting](vista/capitoli/18.md) (v5.4) — **analisi parziale**: solo i termini anticipati
 - [Cap. 19 — Il meeting](vista/capitoli/19.md) (v3.12) — **analisi parziale**: solo i termini anticipati
@@ -45,7 +46,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Meridian](vista/organizzazioni/meridian.md) — L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l'intera filiera dal silicio al robot da cucina.
 - [Ufficio HR](vista/organizzazioni/ufficio-hr.md) — Ha voluto l'accordo di tre note del terminale «per mettere il dipendente di buon umore».
 
-## Oggetti (48)
+## Oggetti (51)
 
 - [Archivio interno di catalogazione degli artefatti](vista/oggetti/archivio-artefatti.md) — Lo strumento Meridian che etichetta e indicizza ogni contenuto prodotto dai modelli dell'azienda. Tom ci trova la corrispondenza con il parlato del video.
 - [Carrello del ricondizionamento](vista/oggetti/carrello-del-ricondizionamento.md) — Porta al banco di Tom i lotti di apparecchi da ricondizionare.
@@ -65,8 +66,10 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Giradischi di Tom](vista/oggetti/giradischi-di-tom.md) — L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un modellino IA, a correggere l'equalizzazione in tempo reale.
 - [I rilevatori pubblici di IA (Hive Moderation, Undetectable AI, ZeroGPT)](vista/oggetti/rilevatori-ia.md) — I servizi online a cui Tom sottopone il video e poi il suo parlato.
 - [Il canale eTv](vista/oggetti/canale-etv.md) — Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo.
+- [Il carrello del caffè delle dieci](vista/oggetti/carrello-del-caffe.md) — Passa in corridoio alle dieci e davanti alla porta di Emma non si ferma mai.
 - [Il disco «Tango» dei Matia Bazar](vista/oggetti/disco-tango.md) — Il vinile che Tom mette per concentrarsi la sera in cui cerca il video.
 - [Il frigorifero che non sale sopra i cinque gradi](vista/oggetti/frigorifero-anomalo.md) — Un frigorifero Meridian con chip IA che si rifiuta di superare i cinque gradi. Terzo dispositivo anomalo del libro, il primo che non è un televisore.
+- [Il pannello di eTv](vista/oggetti/pannello-di-etv.md) — Il pannello di controllo del canale, con le statistiche per video e per spettatore (anonimo, diviso per dispositivo).
 - [Il raccoglitore del fondatore](vista/oggetti/raccoglitore-del-fondatore.md) — Dove il fondatore archivia il foglio che stampa alla fine di ogni visita a Emma.
 - [Il sito e il forum del progetto del giradischi](vista/oggetti/sito-del-giradischi.md) — Il sito del progetto open source di Tom, con un forum che va indietro di anni.
 - [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](vista/oggetti/video-yoga.md) — Il video che la signora Voss riproduceva sul televisore anche dieci volte al giorno. Nel cap. 4 è solo un dettaglio del suo racconto.
@@ -78,6 +81,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [La pipeline di sorveglianza dei media](vista/oggetti/pipeline-media.md) — La seconda pipeline di Emma: intercetta su giornali, siti e televisioni ogni contenuto che nomini Meridian o ne mostri un prodotto.
 - [La prima mail di Tom a Elab (il bluff)](vista/oggetti/mail-bluff-di-tom.md) — La mail con cui Tom scrive a elab@meridian.com dicendo di aver trovato l'indirizzo nei log di un televisore. È falso, ed Emma lo sa.
 - [La risposta di Emma (16:59)](vista/oggetti/risposta-di-emma.md) — La mail con cui Emma risponde a Tom, in registro asciutto e professionale.
+- [La seconda mail di Emma (le scuse)](vista/oggetti/mail-di-scuse-di-emma.md) — La mail che Emma decide di scrivere a Tom alle dieci e mezza: scuse per il tono e domande di cui conosce già le risposte.
 - [LED di accensione](vista/oggetti/led-di-accensione.md) — Il LED dei televisori Meridian. Di norma lampeggia verde («sto pensando»); nei due televisori anomali è il canale dei messaggi in Morse.
 - [Lista dei dispositivi in assistenza](vista/oggetti/lista-dispositivi-in-assistenza.md) — L'elenco aggiornato ogni giorno dall'assistenza tecnica, con le schede e le frasi dei clienti.
 - [Lo strumento di analisi dei trend di Emma](vista/oggetti/strumento-di-emma.md) — Un processo che Emma si è costruita da sé anni prima: scansiona la rete pubblica e restituisce, per macrocategoria, chi parla di cosa e da quanto.
@@ -105,11 +109,12 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Negozio (punto di consegna)](vista/luoghi/negozio.md) — Dove il cliente del secondo televisore lo ha consegnato e dove un addetto ha compilato la scheda.
 - [Sede Meridian dell'assistenza](vista/luoghi/sede-assistenza.md) — L'edificio dove lavora Tom: corridoio, stanze dei tecnici, nastro, varco con controlli.
 
-## Concetti (11)
+## Concetti (12)
 
 - [Codice Morse](vista/concetti/codice-morse.md) — Il codice in cui i due televisori rispondono, via LED. Tom lo riconosce perché lo ha imparato da bambino.
 - [I quindici minuti di anticipo](vista/concetti/anticipo-di-quindici-minuti.md) — Tom arriva sempre in azienda un quarto d'ora prima del turno. Nel cap. 4 li spende, per una volta, per la telefonata.
 - [Il 47 (minuti trattenuti, secondi di margine)](vista/concetti/margine-47-secondi.md) — 47 minuti è la trattenuta; 47 secondi è il margine medio sotto il limite che Tom si impone da allora, come rivincita invisibile.
+- [Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio](vista/concetti/meccanismo-della-ripetizione.md) — Ciò che Emma sa da sempre: un apparecchio che riceve lo stesso contenuto abbastanza volte da non avere più spazio per altro cambia comportamento. Ogni caso del suo archivio ha la stessa curva.
 - [Il rito delle domande agli apparecchi](vista/concetti/rito-delle-domande.md) — Tom parla agli apparecchi guasti e tende loro trappole verbali: rito scaramantico e test di Turing improvvisato.
 - [L'indovinello del fondatore](vista/concetti/indovinello-del-fondatore.md) — A ogni visita il fondatore ripete a Emma la stessa domanda con parole sempre diverse. Emma risponde ogni volta in modo diverso, sbagliando apposta.
 - [L'ultima ora di turno](vista/concetti/ultima-ora-di-turno.md) — La finestra in cui Tom fa le cose rischiose in azienda: corridoio vuoto, colleghi distratti dal cambio turno, porta a doppia mandata.
@@ -119,7 +124,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Procedura standard](vista/concetti/procedura-standard.md) — La sequenza di diagnosi che Meridian impone entro tempi prestabiliti.
 - [Soglia dei cinque minuti di ritardo](vista/concetti/soglia-ritardo-cinque-minuti.md) — Sotto i cinque minuti il sistema di accesso registra l'orario ma non avvisa il supervisore.
 
-## Termini (15)
+## Termini (16)
 
 - [Etichetta «anomalia riscontrata durante l'operazione»](vista/termini/etichetta-anomalia.md) — La classificazione che Tom usa per rimandare il caso zero nella pipeline invece di chiuderlo con un reset.
 - [internal_unknown](vista/termini/internal-unknown.md) — Il valore del campo «Modello» nella corrispondenza trovata nell'archivio interno.
@@ -132,12 +137,13 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Tabella di Conversione (di Pete)](vista/termini/tabella-di-conversione.md) — Il «sistema matematico» privato con cui Pete traduce le infrazioni Meridian in dispetti da liceo. È di Pete, non di Tom: Tom ne è il bersaglio.
 - [Turni e fattore turno](vista/termini/fattore-turno.md) — Tre turni a rotazione; ogni turno moltiplica la sanzione per un fattore diverso.
 - [Verifica di conformità](vista/termini/verifica-di-conformita.md) — La batteria di test sul firmware dei chip. Più che trovare guasti serve a scoprire se il cliente ha toccato il firmware proprietario.
+- [«Angelo della morte»](vista/termini/angelo-della-morte.md) — Il timore di Emma: che il televisore della signora Voss, nei giorni senza log, abbia preparato il terreno alla sua morte.
 - [«compacting context»](vista/termini/compacting-context.md) — L'ultima riga del log del caso zero. Tom la conosce dal giradischi: la pausa di un modello IA che riassume troppi dati.
 - [«Origine non determinabile»](vista/termini/origine-non-determinabile.md) — La formula con cui i rilevatori pubblici rispondono sul modello che ha generato il testo.
 - [«Primo contatto» / «caso zero»](vista/termini/caso-zero.md) — I due nomi del primo televisore e dell'evento del cap. 1.
 - [«Yoga fit»](vista/termini/yoga-fit.md) — Le due parole comuni ai cinque video della shortlist: yoga, ma pensato per un allenamento intensivo.
 
-## Eventi (64)
+## Eventi (70)
 
 - [Il log del caso zero si interrompe; il cliente consegna il televisore](vista/eventi/e00-01.md) — Il log si ferma su «compacting context» prima della consegna; il cliente porta il televisore in assistenza perché non si accende e non risponde al telecomando.
 - [Procedura standard due volte, checksum pulito, LED anomalo](vista/eventi/e01-01.md) — Tom esegue due volte la procedura standard: tutto in regola, ma il LED fa un pattern che nessun test spiega.
@@ -203,14 +209,22 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Due ipotesi - un investigatore con la casella di Tom, o Tom che indaga](vista/eventi/e12-03.md) — La bugia le sembra ora un'esca. Confronta la mail con anni di note di Tom: stessa mano, nessun estraneo ha usato la sua casella.
 - [Emma ricostruisce chi è Tom - organigramma, LinkedIn, forum](vista/eventi/e12-04.md) — Dodici anni nello stesso ruolo; un progetto open source; anni di forum notturno. Tom è un tecnico vero e uno che non smette di smontare. Emma nota che non dice più di ascoltare musica.
 - [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](vista/eventi/e12-05.md) — Che Tom sia solo un tecnico non può dirlo. Prima però vuole sapere se la signora Voss guardasse i video di yoga di eTv.
+- [Emma trova lo spettatore unico del video di yoga](vista/eventi/e13-01.md) — Un utente anonimo su Smart TV: dieci riproduzioni al giorno a 2x, poi fino a trenta, poi zero. L'ultima è della vigilia della chiamata della signora Voss.
+- [Emma rilegge tutto l'archivio - ogni caso ha la sua curva](vista/eventi/e13-02.md) — Caso per caso trova la curva attesa nei giorni prima della chiamata. Per la prima volta legge insieme curve e nomi. Prova il solito piccolo sollievo: il video ha funzionato.
+- [La paura - il televisore come angelo della morte; il processo del mattino saltato](vista/eventi/e13-03.md) — Il televisore non era in casa quando la signora è morta, ma prima ci è rimasto per settimane. Nei giorni senza log potrebbe aver preparato il terreno. Per la prima volta i topic del giorno restano non scremati.
+- [Emma decide di non togliere il video](vista/eventi/e13-04.md) — Rimuoverlo proteggerebbe qualcuno solo se il pericolo fosse nel video, e sarebbe l'unico gesto notabile. Lo lascia online.
+- [Emma scopre le due volte di Tom](vista/eventi/e13-05.md) — Cercando la matricola trova due righe firmate da Tom: hard reset e, tre settimane dopo, ricondizionamento. Dal registro capisce che Tom le ha scritto il giorno dopo, sapendo della morte.
+- [Emma decide di riscrivere a Tom - le scuse](vista/eventi/e13-06.md) — Ha chiuso lei la porta, tocca a lei riaprirla. Scuse come appiglio, poi domande di cui conosce le risposte per capire se Tom è sincero.
 
-## Punti aperti (47)
+## Punti aperti (56)
 
-- [Emma](vista/personaggi/emma.md): Emma incrocia i dispositivi anomali con il traffico dei propri contenuti (c11 r. 33): sa che c'è un legame. Il cap. 11 non dice se li produca per quello scopo, per studiarlo o per altro.
+- [Emma](vista/personaggi/emma.md): Emma produce contenuti perché saturino gli apparecchi (c13 r. 27, r. 29: «il video aveva funzionato»). Lo scopo ultimo non è detto; la sensazione della «casa rimasta vuota» suggerisce che cerchi compagnia.
 - [Signora Voss](vista/personaggi/signora-voss.md): «Non ha voluto ascoltare nessuno» (c6 r. 31): chi l'aveva avvertita oltre al televisore? Il fratello? Il testo non lo dice.
 - [Signora Voss](vista/personaggi/signora-voss.md): Cosa le ha fatto cambiare idea tra «me lo dovevano restituire» (c4 r. 21) e «non lo voglio più in casa» (c6 r. 19): il testo lo pone come domanda («Qualcosa, nel frattempo…») senza risposta.
 - [Signora Voss](vista/personaggi/signora-voss.md): Età: «sulla cinquantina» dedotta da una foto «di qualche anno prima» (c6 r. 31); lei dice «alla mia età bisogna darsi da fare» (c4 r. 31). Tom, che ha 53 anni, la pensa come una «cinquantenne fissata con il fitness» (c7 r. 23).
 - [Signora Voss](vista/personaggi/signora-voss.md): Tom immagina una sessione «mattutina prima di andare al lavoro» (c7 r. 23); lei aveva detto «prima di andare a fare la spesa» (c4 r. 31). Il testo non dice se la signora lavorasse.
+- [Signora Voss](vista/personaggi/signora-voss.md): A Tom aveva detto «anche dieci volte al giorno» (c4 r. 31); le statistiche arrivano a trenta (c13 r. 17). Minimizzava, o Tom ha in mano un dato vecchio.
+- [Signora Voss](vista/personaggi/signora-voss.md): Primo contatto con l'assistenza: «ha telefonato» (c13 r. 23) contro «l'ho portato in negozio» (c4 r. 31) e la scheda battuta dall'addetto del negozio (c3 r. 17). Prima la telefonata e poi il negozio? Il testo non mette in fila i due passaggi.
 - [Tecnico a cui viene riassegnato il caso zero](vista/personaggi/tecnico-turno-b.md): Il registro dice «Turno: B», la narrazione «collega del suo stesso turno»: torna solo se il turno di Tom (pomeriggio) è il B. Il testo non lo dice.
 - [Tom](vista/personaggi/tom.md): Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi.
 - [Tom](vista/personaggi/tom.md): Nel cap. 9 Tom evita ogni traccia nell'archivio; la sera stessa manda da un indirizzo Meridian riconoscibile una mail con una bugia tecnica verificabile (c10 r. 17-21). Il testo non mostra come sia arrivato a questa scelta: il cap. 10 è dal punto di vista di Emma.
@@ -220,6 +234,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [L'archivio delle anomalie di Emma](vista/oggetti/archivio-di-emma.md): Cronologia: primo caso «circa un anno prima» (c11 r. 35), ma il video di yoga risulta generato «6 mesi fa» (c9 r. 32). Le anomalie precedono quel video: altri contenuti, o altra causa.
 - [Il canale eTv](vista/oggetti/canale-etv.md): L'incoerenza che il testo lascia aperta: se lo scopo sono le visualizzazioni, perché pubblicare a singhiozzo (c8 r. 15)?
 - [Il canale eTv](vista/oggetti/canale-etv.md): Tom ammette di non sapere quale sia un rapporto normale tra visualizzazioni e iscritti: il suo unico confronto è il canale del New York Times (c8 r. 13). La conclusione «pochi iscritti» è un'impressione.
+- [Il carrello del caffè delle dieci](vista/oggetti/carrello-del-caffe.md): Fa lo stesso suono («cri-cri») del carrello del ricondizionamento che entra da Tom (c6 r. 9).
 - [Cellulare di Tom](vista/oggetti/cellulare-di-tom.md): La chiamata «dal controllo qualità di Meridian» parte da un numero privato, e da lì passerà il video: è una traccia fuori dai sistemi aziendali, ma anche un legame diretto tra Tom e la cliente.
 - [Ciao Darwin (programma televisivo)](vista/oggetti/ciao-darwin.md): Le squadre sono «secchione» contro «palestrato» nel cap. 10 e «fighi» contro «sfigati» nel cap. 17: puntate diverse o stessa? Da verificare analizzando il cap. 17.
 - [Il disco «Tango» dei Matia Bazar](vista/oggetti/disco-tango.md): Tom gira il disco, fa partire «Il video sono io» «poi spense il giradischi»: il titolo della canzone è l'ultima parola del capitolo sul tema del video generato. Voluto: da non perdere in revisione.
@@ -231,6 +246,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [elab@meridian.com](vista/oggetti/indirizzo-elab.md): Il contatto è stato scritto dal sistema «anni prima» (c10 r. 23), ma l'etichettatura dell'archivio risale a «un paio d'anni prima» (c9 r. 25) e il video a 6 mesi fa (c9 r. 32).
 - [Log di sistema del primo televisore](vista/oggetti/log-tv-caso-zero.md): L'«altro apparecchio, mesi prima» (c1 r. 87) non è identificato. Subito dopo il testo dice che Tom ha visto la riga «decine di volte» sul giradischi (c1 r. 91): sono due ricordi diversi o lo stesso? Da chiarire.
 - [Organigramma e pagina aziendale di Tom](vista/oggetti/organigramma.md): Emma è «l'ultima voce di un organigramma che nessuno aggiornava più» (c10 r. 13), ma l'organigramma dell'assistenza è consultabile e attendibile (c12 r. 31).
+- [Il pannello di eTv](vista/oggetti/pannello-di-etv.md): «Più di tre settimane di zeri» (c13 r. 13): tra l'ultima riproduzione e il cap. 13 ci sono i giorni tra telefonata e laboratorio, le tre settimane e più fino al ricondizionamento, e altri quattro giorni. Sono più vicine a quattro-cinque settimane.
 - [Post del fratello (con la foto della signora Voss)](vista/oggetti/post-del-fratello.md): Due foto della signora nel salotto con televisore ed eWatch: quella del post del fratello (c6 r. 31, in piedi, televisore spento) e quella dell'articolo (c12 r. 13, sorridente, tappetino arrotolato). Stessa foto o due diverse? Nella prima il tappetino non è nominato.
 - [Quaderno nero](vista/oggetti/quaderno-nero.md): Conteggio: «solo quattro volte in tutto» in tre mesi (c3 r. 15) comprende il caso zero + tre guasti banali; il secondo televisore è la quinta voce (c3 r. 37). Torna, ma il «quattro in tre mesi» include il caso zero, che sta all'inizio dei tre mesi.
 - [Quaderno nero](vista/oggetti/quaderno-nero.md): A fine cap. 3 Tom chiude il quaderno e spegne la lampada (c3 r. 39); il cap. 4 dice che «poco dopo» era alla scrivania col quaderno aperto a provare la scusa (c4 r. 9). Le due sere vanno lette come una sola sequenza: prima la scusa, poi la chiusura? Il testo le mette in ordine inverso.
@@ -242,14 +258,19 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Televisore del secondo contatto](vista/oggetti/tv-secondo-contatto.md): Domanda che il testo stesso lascia aperta: «Come facesse un televisore a sapere qualcosa del cuore di una donna» (c5 r. 27).
 - [Televisore del secondo contatto](vista/oggetti/tv-secondo-contatto.md): Nella foto «di qualche anno prima» il televisore è già nel salotto (c6 r. 31): l'apparecchio ha quindi qualche anno, se è lo stesso.
 - [Televisore del secondo contatto](vista/oggetti/tv-secondo-contatto.md): «Numero di serie» nel cap. 6 (r. 9), «numero di matricola» nel cap. 12 (r. 21): stesso dato, due nomi.
+- [Televisore del secondo contatto](vista/oggetti/tv-secondo-contatto.md): Il televisore è in attesa di vendita: può finire in un'altra casa. Il testo lo dice senza commentarlo.
+- [Televisore del secondo contatto](vista/oggetti/tv-secondo-contatto.md): Emma teme che nei giorni senza log abbia «preparato il terreno» (c13 r. 33); il lettore sa dal cap. 5 che in quei giorni avvertiva la signora. Le due letture convivono fino a quando Tom non glielo dice.
 - [Il video girato dalla signora Voss](vista/oggetti/video-della-voss.md): La frase non è mai visibile per intero e alcune lettere sono completate da Tom: il messaggio è una ricostruzione, per quanto «senza alcun dubbio».
 - [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](vista/oggetti/video-yoga.md): Controesempio dichiarato dal testo: del primo televisore Tom «non sapeva nemmeno cosa guardasse il suo proprietario» (c6 r. 33).
 - [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](vista/oggetti/video-yoga.md): Anche il video comincia con «sono qui» (c9 r. 17): terza occorrenza dopo il televisore (c1) e il comando al giradischi (c7).
 - [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](vista/oggetti/video-yoga.md): Tom «caricò l'intero video» su Hive (c9 r. 9): come abbia ottenuto il file da YouTube non è detto.
+- [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](vista/oggetti/video-yoga.md): Il cap. 13 conferma che il video del cap. 7 è quello della signora Voss (stesso titolo, c13 r. 15): la deduzione di Tom era giusta, ma Tom non ha questa conferma.
 - [Laboratorio di Tom](vista/luoghi/laboratorio-di-tom.md): «Senza altoparlanti» (c1 r. 43) si riferisce alla stanza: va tenuto distinto dal fatto che il televisore possa avere un microfono (c3 r. 33).
 - [I quindici minuti di anticipo](vista/concetti/anticipo-di-quindici-minuti.md): «Intoccabili» (c9 r. 9), ma nei cap. 4 e 5 Tom li ha spesi entrambe le mattine per telefonare alla signora Voss: la regola nasce dopo quel ritardo, o è una svista?
 - [L'indovinello del fondatore](vista/concetti/indovinello-del-fondatore.md): Tre ripetizioni nel libro fin qui: la signora ripete il video (cap. 4-6), Tom ripete le domande ai televisori per vedere se la risposta resta identica (cap. 1, 3), il fondatore ripete l'indovinello (cap. 11). Emma fa l'opposto dei televisori: non risponde mai uguale.
 - [Perché il LED - l'ipotesi del circuito di standby](vista/concetti/ipotesi-canale-standby.md): Il caso zero rispondeva da acceso, sul banco, con l'alimentatore collegato (c1 r. 9): l'ipotesi dello standby spiega il televisore Voss a casa, non necessariamente il Morse in laboratorio.
+- [Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio](vista/concetti/meccanismo-della-ripetizione.md): Il video è stato visto da decine di migliaia di persone senza effetti (c13 r. 37): serve la ripetizione sullo stesso apparecchio. Quante ripetizioni bastino non è detto; nel caso Voss, settimane a dieci al giorno e poi una salita fino a trenta.
+- [Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio](vista/concetti/meccanismo-della-ripetizione.md): Chi fa salire le riproduzioni da dieci a trenta al giorno negli ultimi giorni: la signora, o il televisore stesso? Il testo dà solo la curva.
 - [Procedura standard](vista/concetti/procedura-standard.md): Nel cap. 3 Tom apre il log («Aprì anche il log») come passo in più: l'apertura del log non fa parte dell'elenco della procedura in nessuno dei due capitoli.
 - [Reset (software, diagnostico completo, hard reset)](vista/termini/hard-reset.md): Sul caso zero Tom fa due volte la procedura (che include il reset software) e l'apparecchio parla comunque; nel cap. 1 r. 97 teme però che «un reset qualunque» cancelli tutto. Da tenere coerente: quale reset cancella cosa.
 - [Tabella di Conversione (di Pete)](vista/termini/tabella-di-conversione.md): Da verificare quando si analizzano i cap. 4-16: la Tabella o la smutandata compaiono prima del cap. 17? Dalla ricerca nel testo no.

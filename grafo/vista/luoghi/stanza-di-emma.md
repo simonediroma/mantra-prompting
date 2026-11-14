@@ -1,6 +1,6 @@
 # La stanza di Emma (ex laboratorio Elab)
 
-`stanza-di-emma` · luogo · capitoli: 10, 11
+`stanza-di-emma` · luogo · capitoli: 10, 11, 13
 
 La stanza in cui Emma lavora da sola.
 
@@ -12,6 +12,7 @@ La stanza in cui Emma lavora da sola.
 - C'è una poltrona davanti a Emma, dove si siede il fondatore *(cap. 11 r. 25)*
 - C'è una stampante («frrr») e un raccoglitore con un suo posto *(cap. 11 r. 27)*
 - Il corridoio è silenzioso già dieci minuti prima delle diciassette *(cap. 11 r. 37)*
+- Alle dieci passa in corridoio il carrello del caffè («cri-cri»), che davanti alla sua porta non si ferma mai *(cap. 13 r. 35)*
 
 ## Cosa NON dice il testo
 
@@ -22,6 +23,7 @@ La stanza in cui Emma lavora da sola.
 - → sede di [Meridian](../organizzazioni/meridian.md)
 - ← [Emma](../personaggi/emma.md) sta in questa scheda *(cap. 10 r. 13)*
 - ← [Elab](../organizzazioni/elab.md) ha sede in questa scheda *(cap. 10 r. 13)*
+- ← [Il carrello del caffè delle dieci](../oggetti/carrello-del-caffe.md) passa davanti a questa scheda *(cap. 13 r. 35)*
 - ← [Carrello delle pulizie](../oggetti/carrello-delle-pulizie.md) entra in questa scheda *(cap. 10 r. 13)*
 - ← [Il raccoglitore del fondatore](../oggetti/raccoglitore-del-fondatore.md) si trova in questa scheda *(cap. 11 r. 27)*
 
@@ -41,4 +43,10 @@ La stanza in cui Emma lavora da sola.
 1. `e12-03` (cap. 12, la stessa mattina) — [Due ipotesi - un investigatore con la casella di Tom, o Tom che indaga](../eventi/e12-03.md)
 1. `e12-04` (cap. 12, la stessa mattina) — [Emma ricostruisce chi è Tom - organigramma, LinkedIn, forum](../eventi/e12-04.md)
 1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
+1. `e13-01` (cap. 13, la stessa mattina del cap. 12) — [Emma trova lo spettatore unico del video di yoga](../eventi/e13-01.md)
+1. `e13-02` (cap. 13, la stessa mattina) — [Emma rilegge tutto l'archivio - ogni caso ha la sua curva](../eventi/e13-02.md)
+1. `e13-03` (cap. 13, la stessa mattina, fino alle dieci passate) — [La paura - il televisore come angelo della morte; il processo del mattino saltato](../eventi/e13-03.md)
+1. `e13-04` (cap. 13, la stessa mattina) — [Emma decide di non togliere il video](../eventi/e13-04.md)
+1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
+1. `e13-06` (cap. 13, le dieci e mezza) — [Emma decide di riscrivere a Tom - le scuse](../eventi/e13-06.md)
 

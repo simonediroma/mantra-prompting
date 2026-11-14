@@ -1,0 +1,15 @@
+id: mail-di-scuse-di-emma
+nome: La seconda mail di Emma (le scuse)
+capitoli: [13]
+sintesi: "La mail che Emma decide di scrivere a Tom alle dieci e mezza: scuse per il tono e domande di cui conosce già le risposte."
+caratteristiche:
+  - {testo: "Aprirà scusandosi per il tono: non è pentita, le scuse sono «l'appiglio più semplice»", fonte: "c13:45"}
+  - {testo: "Poi chiederà che apparecchio fosse, che guasto avesse, se sia mai tornato alla cliente, «come se non ne sapesse niente»", fonte: "c13:45"}
+  - {testo: "Scopo: capire se Tom dice la verità", fonte: "c13:45"}
+  - {testo: "Ore dieci e mezza, nel pieno del turno del mattino: Tom può rispondere subito", fonte: "c13:45"}
+non_detto:
+  - {testo: "Nel cap. 13 la mail è solo decisa: né il testo né l'invio sono mostrati."}
+relazioni:
+  - {verso: tom, tipo: "destinata a", fonte: "c13:45"}
+  - {verso: risposta-di-emma, tipo: "si scusa per", fonte: "c13:45"}
+

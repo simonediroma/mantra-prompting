@@ -1,6 +1,6 @@
 # La risposta di Emma (16:59)
 
-`risposta-di-emma` · oggetto · capitoli: 10, 11, 12
+`risposta-di-emma` · oggetto · capitoli: 10, 11, 12, 13
 
 La mail con cui Emma risponde a Tom, in registro asciutto e professionale.
 
@@ -11,6 +11,7 @@ La mail con cui Emma risponde a Tom, in registro asciutto e professionale.
 - Registro: quello che userebbe «con un fornitore sorpreso a falsificare una fattura» *(cap. 10 r. 25)*
 - Inviata «poco prima della fine del suo turno»: Tom non può rispondere finché non torna in servizio *(cap. 11 r. 11)*
 - Contenuto, per come lo ricorda Emma: ha risposto «in poche ore, smontandola riga per riga» *(cap. 12 r. 25)*
+- «Gli aveva chiuso la porta in poche ore, con il tono di un ufficio reclami» *(cap. 13 r. 43)*
 
 ## Cosa NON dice il testo
 
@@ -26,10 +27,12 @@ La mail con cui Emma risponde a Tom, in registro asciutto e professionale.
 - → risponde a [La prima mail di Tom a Elab (il bluff)](../oggetti/mail-bluff-di-tom.md) *(cap. 10 r. 27)*
 - → indirizzata a [Tom](../personaggi/tom.md) *(cap. 10 r. 27)*
 - ← [Emma](../personaggi/emma.md) ha scritto questa scheda *(cap. 10 r. 27)*
+- ← [La seconda mail di Emma (le scuse)](../oggetti/mail-di-scuse-di-emma.md) si scusa per questa scheda *(cap. 13 r. 45)*
 
 ## Catena degli eventi
 
 1. `e10-03` (cap. 10, lo stesso giorno, fino alle 16:59) — [Il tono di Emma si raffredda; risponde alle 16:59](../eventi/e10-03.md)
 1. `e11-01` (cap. 11, il mattino dopo la sua risposta, prima del processo del mattino) — [Emma controlla la casella - Tom non ha risposto](../eventi/e11-01.md)
 1. `e12-03` (cap. 12, la stessa mattina) — [Due ipotesi - un investigatore con la casella di Tom, o Tom che indaga](../eventi/e12-03.md)
+1. `e13-06` (cap. 13, le dieci e mezza) — [Emma decide di riscrivere a Tom - le scuse](../eventi/e13-06.md)
 

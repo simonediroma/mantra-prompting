@@ -1,0 +1,11 @@
+id: carrello-del-caffe
+nome: Il carrello del caffè delle dieci
+capitoli: [13]
+sintesi: "Passa in corridoio alle dieci e davanti alla porta di Emma non si ferma mai."
+caratteristiche:
+  - {testo: "«Cri-cri»; non si ferma mai davanti alla sua porta", fonte: "c13:35"}
+aperti:
+  - {testo: "Fa lo stesso suono («cri-cri») del carrello del ricondizionamento che entra da Tom (c6 r. 9)."}
+relazioni:
+  - {verso: stanza-di-emma, tipo: "passa davanti a", fonte: "c13:35"}
+

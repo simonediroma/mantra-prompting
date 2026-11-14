@@ -1,6 +1,6 @@
 # Il canale eTv
 
-`canale-etv` · oggetto · capitoli: 7, 8, 9, 10, 11, 12
+`canale-etv` · oggetto · capitoli: 7, 8, 9, 10, 11, 12, 13
 
 Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo.
 
@@ -18,6 +18,7 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 - È uno dei canali per cui Emma produce: il tutorial sul rinforzo lombare per impiegati è «contenuto perfetto per eTv» *(cap. 11 r. 15)*
 - Tra i suoi video ci sono quelli di yoga, «fatti per essere seguiti in casa, davanti a uno schermo grande» *(cap. 12 r. 23)*
 - Emma ne ha un pannello di controllo *(cap. 12 r. 39)*
+- Il pannello si congratula per «la costanza delle pubblicazioni, che costante non era mai stata» *(cap. 13 r. 11)*
 
 ## Cosa NON dice il testo
 
@@ -33,6 +34,7 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 - → ha come unica protagonista [La ragazza dei video eTv](../personaggi/ragazza-del-video-yoga.md) *(cap. 8 r. 9)*
 - → alimentato dalla [La pipeline di produzione dei contenuti](../oggetti/pipeline-di-produzione.md) *(cap. 11 r. 13-15)*
 - ← [Emma](../personaggi/emma.md) produce i contenuti di questa scheda *(cap. 11 r. 15)*
+- ← [Il pannello di eTv](../oggetti/pannello-di-etv.md) pannello di questa scheda *(cap. 12 r. 39)*
 - ← [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](../oggetti/video-yoga.md) pubblicato da questa scheda *(cap. 7 r. 33)*
 
 ## Catena degli eventi
@@ -45,4 +47,5 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 1. `e11-02` (cap. 11, la stessa mattina) — [Emma produce tre contenuti - eTv, eBlog, eDj](../eventi/e11-02.md)
 1. `e12-02` (cap. 12, la stessa mattina) — [Emma scopre che il tecnico del televisore Voss era Tom](../eventi/e12-02.md)
 1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
+1. `e13-04` (cap. 13, la stessa mattina) — [Emma decide di non togliere il video](../eventi/e13-04.md)
 

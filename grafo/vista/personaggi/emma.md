@@ -1,6 +1,6 @@
 # Emma
 
-`emma` · personaggio · capitoli: 10, 11, 12
+`emma` · personaggio · capitoli: 10, 11, 12, 13
 
 L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10.
 
@@ -36,6 +36,14 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Verifica le ipotesi sui dati: confronta lo stile della mail con anni di note di Tom, poi organigramma, profilo, LinkedIn, forum *(cap. 12 r. 29-35)*
 - Nota e si annota anche ciò che non c'entra: Tom non dice più di ascoltare musica *(cap. 12 r. 37)*
 - Ha accesso all'organigramma, alle pagine di presentazione aziendali e al pannello di eTv *(cap. 12 r. 31-33, cap. 12 r. 39)*
+- Pubblica così tanti video che non ne ricorda nessuno: ricorda i picchi, che registra «come si fa con un risultato» *(cap. 13 r. 11)*
+- Sa «da prima dell'archivio, da prima di eTv» cosa succede a un apparecchio che riceve la stessa cosa tante volte da non avere più spazio per altro. I picchi sono «il segno che un contenuto aveva fatto quello che doveva» *(cap. 13 r. 27)*
+- A ogni nuova riga dell'archivio prova una sensazione «piccola e tiepida, come il sollievo di chi sente un rumore in una casa rimasta vuota troppo a lungo» *(cap. 13 r. 29)*
+- Non aveva mai letto insieme le curve e i nomi dei clienti: «un risultato non obbliga nessuno a chiedersi chi ci sia dall'altra parte» *(cap. 13 r. 25, cap. 13 r. 27)*
+- Non sa nulla di cosa facciano gli apparecchi prima di smettere di obbedire: il suo archivio comincia con una chiamata e finisce con l'hard reset *(cap. 13 r. 33)*
+- Da cinque anni fa in modo che ciò che ha costruito non venga visto *(cap. 13 r. 39)*
+- Ha accesso anche al registro interventi *(cap. 13 r. 43)*
+- Riconosce in sé una «ragione meno nobile»: non toglie il video anche perché sarebbe l'unico gesto notabile *(cap. 13 r. 37)*
 
 ## Cosa NON dice il testo
 
@@ -44,16 +52,18 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Chi le abbia «insegnato» a rispondere con calore non è detto.
 - Cosa faccia in pausa pranzo, e se mangi, non è detto.
 - Fino al cap. 12 Emma non sapeva della morte della signora Voss, pur avendone il caso in archivio.
+- Emma non sa del messaggio in Morse: ignora che il televisore ha avvertito la signora. Tom lo sa (cap. 5). Lei teme un «angelo della morte», lui ha annotato «benevolo, non ostile».
 
 ## Punti aperti / da verificare
 
-- Emma incrocia i dispositivi anomali con il traffico dei propri contenuti (c11 r. 33): sa che c'è un legame. Il cap. 11 non dice se li produca per quello scopo, per studiarlo o per altro.
+- Emma produce contenuti perché saturino gli apparecchi (c13 r. 27, r. 29: «il video aveva funzionato»). Lo scopo ultimo non è detto; la sensazione della «casa rimasta vuota» suggerisce che cerchi compagnia.
 
 ## Stato capitolo per capitolo
 
 - **Cap. 10** — Riceve la mail di Tom, capisce il bluff, risponde alle 16:59 *(cap. 10 r. 27)*
 - **Cap. 11** — Il giorno dopo: aspetta tutto il giorno una risposta di Tom che non arriva. Produce tre contenuti, riceve il fondatore, aggiorna l'archivio delle anomalie (il frigorifero) *(cap. 11 r. 37)*
 - **Cap. 12** — Tre giorni dopo la mail di Tom: scopre dal giornale che la signora Voss è morta, e dalla lista dell'assistenza che il tecnico del suo televisore era Tom. Sospetta un'indagine. Conclude che la mail è sua, ma non sa per conto di chi *(cap. 12 r. 39)*
+- **Cap. 13** — Stessa mattina del cap. 12: nel pannello di eTv trova lo spettatore unico del video di yoga. Teme che il televisore abbia «preparato il terreno» alla morte della signora. Per la prima volta salta il processo del mattino. Scopre che Tom ha avuto il televisore due volte e le ha scritto sapendo della morte. Decide di riscrivergli scusandosi *(cap. 13 r. 43-45)*
 
 ## Relazioni
 
@@ -73,6 +83,9 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - → ha costruito [La pipeline di sorveglianza dei media](../oggetti/pipeline-media.md) *(cap. 12 r. 11)*
 - → ha in archivio il caso di [Signora Voss](../personaggi/signora-voss.md) *(cap. 12 r. 15)*
 - → indaga su [Tom](../personaggi/tom.md) *(cap. 12 r. 29-37)*
+- → consulta [Il pannello di eTv](../oggetti/pannello-di-etv.md) *(cap. 13 r. 11)*
+- → conosce e sfrutta [Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio](../concetti/meccanismo-della-ripetizione.md) *(cap. 13 r. 27)*
+- → decide di scrivere [La seconda mail di Emma (le scuse)](../oggetti/mail-di-scuse-di-emma.md) *(cap. 13 r. 45)*
 - ← [Tom](../personaggi/tom.md) scrive a questa scheda — senza sapere chi leggerà *(cap. 10 r. 19)*
 - ← [elab@meridian.com](../oggetti/indirizzo-elab.md) gestita da questa scheda *(cap. 10 r. 17)*
 
@@ -92,4 +105,10 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 1. `e12-03` (cap. 12, la stessa mattina) — [Due ipotesi - un investigatore con la casella di Tom, o Tom che indaga](../eventi/e12-03.md)
 1. `e12-04` (cap. 12, la stessa mattina) — [Emma ricostruisce chi è Tom - organigramma, LinkedIn, forum](../eventi/e12-04.md)
 1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
+1. `e13-01` (cap. 13, la stessa mattina del cap. 12) — [Emma trova lo spettatore unico del video di yoga](../eventi/e13-01.md)
+1. `e13-02` (cap. 13, la stessa mattina) — [Emma rilegge tutto l'archivio - ogni caso ha la sua curva](../eventi/e13-02.md)
+1. `e13-03` (cap. 13, la stessa mattina, fino alle dieci passate) — [La paura - il televisore come angelo della morte; il processo del mattino saltato](../eventi/e13-03.md)
+1. `e13-04` (cap. 13, la stessa mattina) — [Emma decide di non togliere il video](../eventi/e13-04.md)
+1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
+1. `e13-06` (cap. 13, le dieci e mezza) — [Emma decide di riscrivere a Tom - le scuse](../eventi/e13-06.md)
 

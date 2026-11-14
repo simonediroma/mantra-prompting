@@ -1,6 +1,6 @@
 # Il frigorifero che non sale sopra i cinque gradi
 
-`frigorifero-anomalo` · oggetto · capitoli: 11
+`frigorifero-anomalo` · oggetto · capitoli: 11, 13
 
 Un frigorifero Meridian con chip IA che si rifiuta di superare i cinque gradi. Terzo dispositivo anomalo del libro, il primo che non è un televisore.
 
@@ -11,6 +11,7 @@ Un frigorifero Meridian con chip IA che si rifiuta di superare i cinque gradi. T
 - Unica anomalia in scheda: mancano i log degli ultimi giorni *(cap. 11 r. 31)*
 - Riconsegnato dopo hard reset *(cap. 11 r. 31)*
 - Nei giorni prima della chiamata all'assistenza, un solo utente ha aperto decine di volte la stessa pagina di eBlog sugli smoothie *(cap. 11 r. 33)*
+- Emma l'aveva preso «per un capriccio, quasi per una cosa buffa da annotare»; ora lo rilegge accanto al caso Voss *(cap. 13 r. 25, cap. 13 r. 33)*
 
 ## Cosa NON dice il testo
 
@@ -32,4 +33,5 @@ Un frigorifero Meridian con chip IA che si rifiuta di superare i cinque gradi. T
 
 1. `e11-0a` (cap. 11, giorni prima del cap. 11 (non quantificati)) — [Antefatto - il frigorifero che si rifiuta](../eventi/e11-0a.md)
 1. `e11-05` (cap. 11, il pomeriggio) — [Emma aggiorna l'archivio delle anomalie - il frigorifero, gli smoothie](../eventi/e11-05.md)
+1. `e13-02` (cap. 13, la stessa mattina) — [Emma rilegge tutto l'archivio - ogni caso ha la sua curva](../eventi/e13-02.md)
 

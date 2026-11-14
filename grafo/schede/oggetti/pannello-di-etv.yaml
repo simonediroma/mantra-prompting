@@ -1,0 +1,16 @@
+id: pannello-di-etv
+nome: Il pannello di eTv
+capitoli: [12, 13]
+sintesi: "Il pannello di controllo del canale, con le statistiche per video e per spettatore (anonimo, diviso per dispositivo)."
+caratteristiche:
+  - {testo: "Schermata di benvenuto: grafico in crescita, riepilogo settimanale, riquadro verde di complimenti", fonte: "c13:11"}
+  - {testo: "Concede delle persone solo «utenti senza nome divisi per tipo di dispositivo»; si possono ordinare per numero di riproduzioni e aprire il dettaglio giornaliero", fonte: "c13:13"}
+  - {testo: "Scheda dello spettatore: utente anonimo · Smart TV · riproduzioni giornaliere 9, 10, 10, 11, 9, 12, 10 … 18, 21, 24, 22, 27, 31, 28, 30, 0 · velocità prevalente 2x · «Questo video sta fidelizzando il tuo pubblico!»", fonte: "c13:15-19"}
+  - {testo: "La riga dello spettatore arriva fino a oggi con più di tre settimane di zeri; Emma taglia il periodo al giorno dopo l'ultima riproduzione", fonte: "c13:13"}
+  - {testo: "Lo spettatore è così lontano dal secondo che il grafico schiaccia tutti gli altri in una riga piatta", fonte: "c13:13"}
+aperti:
+  - {testo: "«Più di tre settimane di zeri» (c13 r. 13): tra l'ultima riproduzione e il cap. 13 ci sono i giorni tra telefonata e laboratorio, le tre settimane e più fino al ricondizionamento, e altri quattro giorni. Sono più vicine a quattro-cinque settimane."}
+relazioni:
+  - {verso: canale-etv, tipo: "pannello di", fonte: "c12:39"}
+  - {verso: video-yoga, tipo: "mostra le statistiche di", fonte: "c13:15"}
+

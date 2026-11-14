@@ -1,6 +1,6 @@
 # Signora Voss
 
-`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7, 12
+`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7, 12, 13
 
 Alias: la signora del televisore, cliente del secondo televisore
 
@@ -32,6 +32,9 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - Per Tom è «una donna sulla cinquantina», come lascia intuire la foto nel post del fratello *(cap. 7 r. 17)*
 - Ricordata dai parenti su un piccolo giornale locale come «un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione» *(cap. 12 r. 17)*
 - Il suo caso era già nell'archivio di Emma: log interrotti da un giorno all'altro, hard reset poco dopo, una cliente che descrive un rifiuto *(cap. 12 r. 15)*
+- Dal pannello di eTv: per settimane una decina di riproduzioni al giorno a 2x, poi fino a trenta («quasi quattro ore al giorno davanti allo schermo») *(cap. 13 r. 17, cap. 13 r. 21)*
+- Il giorno dopo l'ultima riproduzione ha telefonato all'assistenza «per dire che non le obbediva più» *(cap. 13 r. 23)*
+- È morta «sul suo tappetino, nello stesso salotto», qualche settimana dopo, quando il televisore non era più in casa da tempo *(cap. 13 r. 31, cap. 13 r. 33)*
 
 ## Cosa NON dice il testo
 
@@ -47,6 +50,8 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - Cosa le ha fatto cambiare idea tra «me lo dovevano restituire» (c4 r. 21) e «non lo voglio più in casa» (c6 r. 19): il testo lo pone come domanda («Qualcosa, nel frattempo…») senza risposta.
 - Età: «sulla cinquantina» dedotta da una foto «di qualche anno prima» (c6 r. 31); lei dice «alla mia età bisogna darsi da fare» (c4 r. 31). Tom, che ha 53 anni, la pensa come una «cinquantenne fissata con il fitness» (c7 r. 23).
 - Tom immagina una sessione «mattutina prima di andare al lavoro» (c7 r. 23); lei aveva detto «prima di andare a fare la spesa» (c4 r. 31). Il testo non dice se la signora lavorasse.
+- A Tom aveva detto «anche dieci volte al giorno» (c4 r. 31); le statistiche arrivano a trenta (c13 r. 17). Minimizzava, o Tom ha in mano un dato vecchio.
+- Primo contatto con l'assistenza: «ha telefonato» (c13 r. 23) contro «l'ho portato in negozio» (c4 r. 31) e la scheda battuta dall'addetto del negozio (c3 r. 17). Prima la telefonata e poi il negozio? Il testo non mette in fila i due passaggi.
 
 ## Stato capitolo per capitolo
 
@@ -92,4 +97,6 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 1. `e12-0a` (cap. 12, il giorno prima del cap. 12) — [I parenti pubblicano l'articolo commemorativo](../eventi/e12-0a.md)
 1. `e12-01` (cap. 12, il mattino, tre giorni dopo la mail di Tom) — [La pipeline media intercetta l'articolo - Emma riconosce il nome Voss](../eventi/e12-01.md)
 1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
+1. `e13-01` (cap. 13, la stessa mattina del cap. 12) — [Emma trova lo spettatore unico del video di yoga](../eventi/e13-01.md)
+1. `e13-03` (cap. 13, la stessa mattina, fino alle dieci passate) — [La paura - il televisore come angelo della morte; il processo del mattino saltato](../eventi/e13-03.md)
 

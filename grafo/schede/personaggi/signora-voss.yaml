@@ -1,7 +1,7 @@
 id: signora-voss
 nome: Signora Voss
 alias: ["la signora del televisore", "cliente del secondo televisore"]
-capitoli: [3, 4, 5, 6, 7, 12]
+capitoli: [3, 4, 5, 6, 7, 12, 13]
 sintesi: "Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo stesso video anche dieci volte al giorno; ha filmato il televisore che «si rifiuta» di accendersi."
 caratteristiche:
   - {testo: "Ha dettato all'addetto del negozio: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
@@ -28,6 +28,9 @@ caratteristiche:
   - {testo: "Per Tom è «una donna sulla cinquantina», come lascia intuire la foto nel post del fratello", fonte: "c7:17"}
   - {testo: "Ricordata dai parenti su un piccolo giornale locale come «un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione»", fonte: "c12:17"}
   - {testo: "Il suo caso era già nell'archivio di Emma: log interrotti da un giorno all'altro, hard reset poco dopo, una cliente che descrive un rifiuto", fonte: "c12:15"}
+  - {testo: "Dal pannello di eTv: per settimane una decina di riproduzioni al giorno a 2x, poi fino a trenta («quasi quattro ore al giorno davanti allo schermo»)", fonte: "c13:17, c13:21"}
+  - {testo: "Il giorno dopo l'ultima riproduzione ha telefonato all'assistenza «per dire che non le obbediva più»", fonte: "c13:23"}
+  - {testo: "È morta «sul suo tappetino, nello stesso salotto», qualche settimana dopo, quando il televisore non era più in casa da tempo", fonte: "c13:31, c13:33"}
 non_detto:
   - {testo: "Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta."}
   - {testo: "Il cap. 5 non dice perché non risponde: Tom ipotizza doccia, cucina, telefono lontano."}
@@ -44,6 +47,8 @@ aperti:
   - {testo: "Cosa le ha fatto cambiare idea tra «me lo dovevano restituire» (c4 r. 21) e «non lo voglio più in casa» (c6 r. 19): il testo lo pone come domanda («Qualcosa, nel frattempo…») senza risposta."}
   - {testo: "Età: «sulla cinquantina» dedotta da una foto «di qualche anno prima» (c6 r. 31); lei dice «alla mia età bisogna darsi da fare» (c4 r. 31). Tom, che ha 53 anni, la pensa come una «cinquantenne fissata con il fitness» (c7 r. 23)."}
   - {testo: "Tom immagina una sessione «mattutina prima di andare al lavoro» (c7 r. 23); lei aveva detto «prima di andare a fare la spesa» (c4 r. 31). Il testo non dice se la signora lavorasse."}
+  - {testo: "A Tom aveva detto «anche dieci volte al giorno» (c4 r. 31); le statistiche arrivano a trenta (c13 r. 17). Minimizzava, o Tom ha in mano un dato vecchio."}
+  - {testo: "Primo contatto con l'assistenza: «ha telefonato» (c13 r. 23) contro «l'ho portato in negozio» (c4 r. 31) e la scheda battuta dall'addetto del negozio (c3 r. 17). Prima la telefonata e poi il negozio? Il testo non mette in fila i due passaggi."}
 relazioni:
   - {verso: tv-secondo-contatto, tipo: "proprietario di", fonte: "c3:17"}
   - {verso: addetto-negozio, tipo: "detta la segnalazione a", fonte: "c3:17"}

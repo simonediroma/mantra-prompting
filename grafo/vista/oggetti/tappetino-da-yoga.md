@@ -1,6 +1,6 @@
 # Tappetino da yoga della signora Voss
 
-`tappetino-da-yoga` · oggetto · capitoli: 5, 12
+`tappetino-da-yoga` · oggetto · capitoli: 5, 12, 13
 
 Srotolato sul pavimento del salotto, compare di sfuggita nel video girato dalla signora.
 
@@ -8,6 +8,7 @@ Srotolato sul pavimento del salotto, compare di sfuggita nel video girato dalla 
 
 - «Un tappetino da yoga srotolato sul pavimento» *(cap. 5 r. 19)*
 - Nella foto dell'articolo è arrotolato in un angolo del salotto; è il dettaglio che fa pensare Emma ai video di yoga di eTv *(cap. 12 r. 13, cap. 12 r. 23)*
+- La signora è morta «sul suo tappetino» *(cap. 13 r. 33)*
 
 ## Relazioni
 

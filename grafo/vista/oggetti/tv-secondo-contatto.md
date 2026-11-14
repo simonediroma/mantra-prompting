@@ -1,6 +1,6 @@
 # Televisore del secondo contatto
 
-`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6, 12
+`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6, 12, 13
 
 Alias: il secondo televisore, quinta voce del quaderno, il televisore della signora Voss
 
@@ -28,6 +28,10 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - Per Tom, dopo l'hard reset è «un disco appena formattato»: ciò che aveva risposto l'ha cancellato lui *(cap. 6 r. 25)*
 - Nell'archivio di Emma: data, modello, comportamento anomalo riportato dalla cliente; «log interrotti da un giorno all'altro» *(cap. 12 r. 15, cap. 12 r. 19)*
 - Sulla lista dell'assistenza è identificato da un «numero di matricola», con il nome del tecnico: Tom *(cap. 12 r. 21)*
+- È la «Smart TV» dello spettatore anonimo: per settimane ha riprodotto il video di yoga, fino a trenta volte al giorno, poi ha smesso da un giorno all'altro *(cap. 13 r. 16-21)*
+- A casa era collegato alla rete domestica; i log degli ultimi giorni mancano *(cap. 13 r. 33)*
+- Sulla lista dell'assistenza ha due righe, entrambe di Tom: ingresso con la frase della signora, hard reset, «in attesa di ritiro»; poi, poco più di tre settimane dopo, «ricondizionato, in magazzino, in attesa di vendita» *(cap. 13 r. 43)*
+- È arrivato in laboratorio pochi giorni dopo la telefonata della signora *(cap. 13 r. 31)*
 
 ## Cosa NON dice il testo
 
@@ -41,12 +45,15 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - Domanda che il testo stesso lascia aperta: «Come facesse un televisore a sapere qualcosa del cuore di una donna» (c5 r. 27).
 - Nella foto «di qualche anno prima» il televisore è già nel salotto (c6 r. 31): l'apparecchio ha quindi qualche anno, se è lo stesso.
 - «Numero di serie» nel cap. 6 (r. 9), «numero di matricola» nel cap. 12 (r. 21): stesso dato, due nomi.
+- Il televisore è in attesa di vendita: può finire in un'altra casa. Il testo lo dice senza commentarlo.
+- Emma teme che nei giorni senza log abbia «preparato il terreno» (c13 r. 33); il lettore sa dal cap. 5 che in quei giorni avvertiva la signora. Le due letture convivono fino a quando Tom non glielo dice.
 
 ## Stato capitolo per capitolo
 
 - **Cap. 3** — Resettato da Tom (hard reset). Registrato la sera come quinta voce del quaderno *(cap. 3 r. 35-37)*
 - **Cap. 4** — Il mattino dopo il reset, per Tom è «appena uscito dall'assistenza tecnica» e «dovrebbe essere pronto per il ritiro». La signora non l'ha ancora riavuto *(cap. 4 r. 21-23)*
 - **Cap. 6** — Poco più di tre settimane dopo il reset torna sul banco di Tom con l'etichetta gialla, in un lotto di una decina di apparecchi. Tom non lo accende e lo ricondiziona entro fine turno *(cap. 6 r. 9, cap. 6 r. 13, cap. 6 r. 25)*
+- **Cap. 13** — Ricondizionato, in magazzino, in attesa di vendita *(cap. 13 r. 43)*
 
 ## Relazioni
 
@@ -65,6 +72,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - ← [Post del fratello (con la foto della signora Voss)](../oggetti/post-del-fratello.md) mostra questa scheda *(cap. 6 r. 31)*
 - ← [Quaderno nero](../oggetti/quaderno-nero.md) registra (voce 5) questa scheda *(cap. 3 r. 37)*
 - ← [Televisore del primo contatto (caso zero)](../oggetti/tv-caso-zero.md) stesso modello di questa scheda *(cap. 3 r. 17)*
+- ← [«Angelo della morte»](../termini/angelo-della-morte.md) detto del questa scheda *(cap. 13 r. 37)*
 
 ## Catena degli eventi
 
@@ -84,4 +92,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 1. `e09-04` (cap. 9, subito dopo) — [Tom riconosce il nome Elab](../eventi/e09-04.md)
 1. `e12-01` (cap. 12, il mattino, tre giorni dopo la mail di Tom) — [La pipeline media intercetta l'articolo - Emma riconosce il nome Voss](../eventi/e12-01.md)
 1. `e12-02` (cap. 12, la stessa mattina) — [Emma scopre che il tecnico del televisore Voss era Tom](../eventi/e12-02.md)
+1. `e13-01` (cap. 13, la stessa mattina del cap. 12) — [Emma trova lo spettatore unico del video di yoga](../eventi/e13-01.md)
+1. `e13-03` (cap. 13, la stessa mattina, fino alle dieci passate) — [La paura - il televisore come angelo della morte; il processo del mattino saltato](../eventi/e13-03.md)
+1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
 

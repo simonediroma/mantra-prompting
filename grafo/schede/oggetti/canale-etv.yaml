@@ -1,6 +1,6 @@
 id: canale-etv
 nome: Il canale eTv
-capitoli: [7, 8, 9, 10, 11, 12]
+capitoli: [7, 8, 9, 10, 11, 12, 13]
 sintesi: "Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo."
 caratteristiche:
   - {testo: "Nome del canale: eTv", fonte: "c7:33"}
@@ -15,6 +15,7 @@ caratteristiche:
   - {testo: "È uno dei canali per cui Emma produce: il tutorial sul rinforzo lombare per impiegati è «contenuto perfetto per eTv»", fonte: "c11:15"}
   - {testo: "Tra i suoi video ci sono quelli di yoga, «fatti per essere seguiti in casa, davanti a uno schermo grande»", fonte: "c12:23"}
   - {testo: "Emma ne ha un pannello di controllo", fonte: "c12:39"}
+  - {testo: "Il pannello si congratula per «la costanza delle pubblicazioni, che costante non era mai stata»", fonte: "c13:11"}
 non_detto:
 
   - {testo: "Numero totale dei video, data di apertura del canale e numero esatto di iscritti non sono indicati."}

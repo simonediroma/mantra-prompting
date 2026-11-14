@@ -1,0 +1,11 @@
+id: e13-06
+nome: Emma decide di riscrivere a Tom - le scuse
+capitolo: 13
+ordine: 13.6
+quando: "le dieci e mezza"
+dove: stanza-di-emma
+dopo: [e13-05]
+coinvolti: [emma, mail-di-scuse-di-emma, tom, risposta-di-emma]
+sintesi: "Ha chiuso lei la porta, tocca a lei riaprirla. Scuse come appiglio, poi domande di cui conosce le risposte per capire se Tom è sincero."
+fatti:
+  - {testo: "Il piano", fonte: "c13:45"}

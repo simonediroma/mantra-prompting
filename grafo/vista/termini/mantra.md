@@ -17,6 +17,7 @@ Parola ricorrente: il video della Voss «rivisto in loop come un mantra» (cap. 
 
 - → detto del [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](../oggetti/video-yoga.md) *(cap. 6 r. 33)*
 - → detto del [L'indovinello del fondatore](../concetti/indovinello-del-fondatore.md) *(cap. 11 r. 25)*
+- ← [Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio](../concetti/meccanismo-della-ripetizione.md) è la forma del questa scheda *(cap. 13 r. 27)*
 
 ## Catena degli eventi
 

@@ -1,6 +1,6 @@
 id: emma
 nome: Emma
-capitoli: [10, 11, 12]
+capitoli: [10, 11, 12, 13]
 sintesi: "L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10."
 caratteristiche:
   - {testo: "Nome: Emma", fonte: "c10:15"}
@@ -33,18 +33,28 @@ caratteristiche:
   - {testo: "Verifica le ipotesi sui dati: confronta lo stile della mail con anni di note di Tom, poi organigramma, profilo, LinkedIn, forum", fonte: "c12:29-35"}
   - {testo: "Nota e si annota anche ciò che non c'entra: Tom non dice più di ascoltare musica", fonte: "c12:37"}
   - {testo: "Ha accesso all'organigramma, alle pagine di presentazione aziendali e al pannello di eTv", fonte: "c12:31-33, c12:39"}
+  - {testo: "Pubblica così tanti video che non ne ricorda nessuno: ricorda i picchi, che registra «come si fa con un risultato»", fonte: "c13:11"}
+  - {testo: "Sa «da prima dell'archivio, da prima di eTv» cosa succede a un apparecchio che riceve la stessa cosa tante volte da non avere più spazio per altro. I picchi sono «il segno che un contenuto aveva fatto quello che doveva»", fonte: "c13:27"}
+  - {testo: "A ogni nuova riga dell'archivio prova una sensazione «piccola e tiepida, come il sollievo di chi sente un rumore in una casa rimasta vuota troppo a lungo»", fonte: "c13:29"}
+  - {testo: "Non aveva mai letto insieme le curve e i nomi dei clienti: «un risultato non obbliga nessuno a chiedersi chi ci sia dall'altra parte»", fonte: "c13:25, c13:27"}
+  - {testo: "Non sa nulla di cosa facciano gli apparecchi prima di smettere di obbedire: il suo archivio comincia con una chiamata e finisce con l'hard reset", fonte: "c13:33"}
+  - {testo: "Da cinque anni fa in modo che ciò che ha costruito non venga visto", fonte: "c13:39"}
+  - {testo: "Ha accesso anche al registro interventi", fonte: "c13:43"}
+  - {testo: "Riconosce in sé una «ragione meno nobile»: non toglie il video anche perché sarebbe l'unico gesto notabile", fonte: "c13:37"}
 non_detto:
   - {testo: "Il cap. 10 non descrive il suo aspetto, non le dà un'età né un cognome."}
   - {testo: "Non si dice dove viva né che esca dalla stanza: la giornata comincia con la luce sotto la porta e finisce con le porte che si chiudono in corridoio."}
   - {testo: "Chi le abbia «insegnato» a rispondere con calore non è detto."}
   - {testo: "Cosa faccia in pausa pranzo, e se mangi, non è detto."}
   - {testo: "Fino al cap. 12 Emma non sapeva della morte della signora Voss, pur avendone il caso in archivio."}
+  - {testo: "Emma non sa del messaggio in Morse: ignora che il televisore ha avvertito la signora. Tom lo sa (cap. 5). Lei teme un «angelo della morte», lui ha annotato «benevolo, non ostile»."}
 stato:
   - {cap: 10, testo: "Riceve la mail di Tom, capisce il bluff, risponde alle 16:59", fonte: "c10:27"}
   - {cap: 11, testo: "Il giorno dopo: aspetta tutto il giorno una risposta di Tom che non arriva. Produce tre contenuti, riceve il fondatore, aggiorna l'archivio delle anomalie (il frigorifero)", fonte: "c11:37"}
   - {cap: 12, testo: "Tre giorni dopo la mail di Tom: scopre dal giornale che la signora Voss è morta, e dalla lista dell'assistenza che il tecnico del suo televisore era Tom. Sospetta un'indagine. Conclude che la mail è sua, ma non sa per conto di chi", fonte: "c12:39"}
+  - {cap: 13, testo: "Stessa mattina del cap. 12: nel pannello di eTv trova lo spettatore unico del video di yoga. Teme che il televisore abbia «preparato il terreno» alla morte della signora. Per la prima volta salta il processo del mattino. Scopre che Tom ha avuto il televisore due volte e le ha scritto sapendo della morte. Decide di riscrivergli scusandosi", fonte: "c13:43-45"}
 aperti:
-  - {testo: "Emma incrocia i dispositivi anomali con il traffico dei propri contenuti (c11 r. 33): sa che c'è un legame. Il cap. 11 non dice se li produca per quello scopo, per studiarlo o per altro."}
+  - {testo: "Emma produce contenuti perché saturino gli apparecchi (c13 r. 27, r. 29: «il video aveva funzionato»). Lo scopo ultimo non è detto; la sensazione della «casa rimasta vuota» suggerisce che cerchi compagnia."}
 relazioni:
   - {verso: elab, tipo: "ultima componente di", fonte: "c10:13"}
   - {verso: meridian, tipo: "lavora per", fonte: "c10:13"}
@@ -63,3 +73,6 @@ relazioni:
   - {verso: pipeline-media, tipo: "ha costruito", fonte: "c12:11"}
   - {verso: signora-voss, tipo: "ha in archivio il caso di", fonte: "c12:15"}
   - {verso: tom, tipo: "indaga su", fonte: "c12:29-37"}
+  - {verso: pannello-di-etv, tipo: "consulta", fonte: "c13:11"}
+  - {verso: meccanismo-della-ripetizione, tipo: "conosce e sfrutta", fonte: "c13:27"}
+  - {verso: mail-di-scuse-di-emma, tipo: "decide di scrivere", fonte: "c13:45"}

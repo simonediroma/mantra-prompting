@@ -1,13 +1,14 @@
 id: lista-dispositivi-in-assistenza
 nome: Lista dei dispositivi in assistenza
-capitoli: [11, 12]
+capitoli: [11, 12, 13]
 sintesi: "L'elenco aggiornato ogni giorno dall'assistenza tecnica, con le schede e le frasi dei clienti."
 caratteristiche:
   - {testo: "Aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica", fonte: "c11:29"}
   - {testo: "Le schede riportano la frase esatta del cliente e le anomalie registrate (es. assenza dei log)", fonte: "c11:31"}
   - {testo: "Tiene traccia di tutto: numero di matricola, nome del tecnico, anni di note d'esito firmate", fonte: "c12:21, c12:29"}
+  - {testo: "Si può cercare per matricola: restituisce tutte le righe dell'apparecchio, con stato finale («in attesa di ritiro», «ricondizionato, in magazzino, in attesa di vendita»)", fonte: "c13:43"}
+  - {testo: "È distinta dal registro interventi: dalla matricola Emma «risalì alla pratica nel registro interventi»", fonte: "c13:43"}
 non_detto:
-  - {testo: "Il rapporto con il «registro interventi» che usa Tom non è chiarito: stesso sistema o due viste diverse."}
 relazioni:
   - {verso: divisione-assistenza-tecnica, tipo: "aggiornata da", fonte: "c11:29"}
 

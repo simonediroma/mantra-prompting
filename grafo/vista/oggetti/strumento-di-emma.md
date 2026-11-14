@@ -24,4 +24,5 @@ Un processo che Emma si è costruita da sé anni prima: scansiona la rete pubbli
 
 1. `e10-01` (cap. 10, il mattino dopo la mail) — [La routine del mattino di Emma - il falso trend del sifone](../eventi/e10-01.md)
 1. `e11-02` (cap. 11, la stessa mattina) — [Emma produce tre contenuti - eTv, eBlog, eDj](../eventi/e11-02.md)
+1. `e13-03` (cap. 13, la stessa mattina, fino alle dieci passate) — [La paura - il televisore come angelo della morte; il processo del mattino saltato](../eventi/e13-03.md)
 
