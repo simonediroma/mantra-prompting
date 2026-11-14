@@ -1,6 +1,6 @@
 id: indirizzo-elab
 nome: elab@meridian.com
-capitoli: [9, 10]
+capitoli: [9, 10, 11]
 sintesi: "L'indirizzo che l'archivio interno indica come contatto del contenuto corrispondente al video di yoga."
 caratteristiche:
   - {testo: "Campo «Contatto» della corrispondenza trovata", fonte: "c9:35"}
@@ -8,6 +8,8 @@ caratteristiche:
   - {testo: "Casella gestita da Emma. Da anni riceve solo posta automatica, newsletter mai cancellate, notifiche di sistema notturne", fonte: "c10:17"}
   - {testo: "La mail di Tom è la prima «vera», con mittente Meridian riconoscibile, da moltissimo tempo", fonte: "c10:17"}
   - {testo: "Il contatto nell'archivio «l'aveva scritto il sistema, anni prima»", fonte: "c10:23"}
+  - {testo: "Emma la controlla per tutto il giorno; alle diciassette la chiude vuota", fonte: "c11:37"}
+  - {testo: "Il fondatore ha smesso di ricordarla da anni", fonte: "c11:27"}
 aperti:
   - {testo: "Il contatto è stato scritto dal sistema «anni prima» (c10 r. 23), ma l'etichettatura dell'archivio risale a «un paio d'anni prima» (c9 r. 25) e il video a 6 mesi fa (c9 r. 32)."}
 relazioni:

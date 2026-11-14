@@ -1,0 +1,28 @@
+# L'archivio delle anomalie di Emma
+
+`archivio-di-emma` · oggetto · capitoli: 11
+
+L'archivio privato in cui Emma registra i dispositivi con IA che i clienti segnalano come anomali senza che l'assistenza trovi guasti.
+
+## Caratteristiche
+
+- Criterio: IA integrata, anomalia segnalata dal cliente, nessuna evidenza di guasto hardware o alterazione software: prodotti «al cento per cento funzionanti» che hanno smesso di fare ciò che gli utenti chiedono *(cap. 11 r. 29)*
+- Primo caso: circa un anno prima; da allora le righe non hanno mai smesso di aumentare *(cap. 11 r. 35)*
+- Emma aggiunge una colonna chip / senza chip e riordina per mese: senza chip i numeri restano stabili, con chip crescono mese dopo mese «con una regolarità che non aveva nulla di casuale» *(cap. 11 r. 35)*
+- Voce del frigorifero: tutte le informazioni più «riconsegnato dopo hard reset» *(cap. 11 r. 31)*
+
+## Punti aperti / da verificare
+
+- È lo specchio del quaderno nero di Tom: stesso fenomeno, due archivi privati. Quello di Emma parte un anno prima; il caso zero di Tom è di circa quattro mesi prima.
+- Cronologia: primo caso «circa un anno prima» (c11 r. 35), ma il video di yoga risulta generato «6 mesi fa» (c9 r. 32). Le anomalie precedono quel video: altri contenuti, o altra causa.
+
+## Relazioni
+
+- → costruito sulla [Lista dei dispositivi in assistenza](../oggetti/lista-dispositivi-in-assistenza.md) *(cap. 11 r. 29)*
+- → registra [Il frigorifero che non sale sopra i cinque gradi](../oggetti/frigorifero-anomalo.md) *(cap. 11 r. 31)*
+- ← [Emma](../personaggi/emma.md) tiene questa scheda *(cap. 11 r. 29)*
+
+## Catena degli eventi
+
+1. `e11-05` (cap. 11, il pomeriggio) — [Emma aggiorna l'archivio delle anomalie - il frigorifero, gli smoothie](../eventi/e11-05.md)
+

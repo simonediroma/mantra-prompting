@@ -1,6 +1,6 @@
 # elab@meridian.com
 
-`indirizzo-elab` · oggetto · capitoli: 9, 10
+`indirizzo-elab` · oggetto · capitoli: 9, 10, 11
 
 L'indirizzo che l'archivio interno indica come contatto del contenuto corrispondente al video di yoga.
 
@@ -10,6 +10,8 @@ L'indirizzo che l'archivio interno indica come contatto del contenuto corrispond
 - Casella gestita da Emma. Da anni riceve solo posta automatica, newsletter mai cancellate, notifiche di sistema notturne *(cap. 10 r. 17)*
 - La mail di Tom è la prima «vera», con mittente Meridian riconoscibile, da moltissimo tempo *(cap. 10 r. 17)*
 - Il contatto nell'archivio «l'aveva scritto il sistema, anni prima» *(cap. 10 r. 23)*
+- Emma la controlla per tutto il giorno; alle diciassette la chiude vuota *(cap. 11 r. 37)*
+- Il fondatore ha smesso di ricordarla da anni *(cap. 11 r. 27)*
 
 ## Punti aperti / da verificare
 
@@ -27,4 +29,8 @@ L'indirizzo che l'archivio interno indica come contatto del contenuto corrispond
 1. `e09-03` (cap. 9, lo stesso giorno, ultima ora di turno) — [Tom cerca il testo nell'archivio interno - corrispondenza trovata](../eventi/e09-03.md)
 1. `e10-0a` (cap. 10, la sera del giorno del cap. 9) — [Tom scrive a elab@meridian.com](../eventi/e10-0a.md)
 1. `e10-02` (cap. 10, la stessa mattina) — [Emma legge la mail di Tom e capisce che mente](../eventi/e10-02.md)
+1. `e11-01` (cap. 11, il mattino dopo la sua risposta, prima del processo del mattino) — [Emma controlla la casella - Tom non ha risposto](../eventi/e11-01.md)
+1. `e11-03` (cap. 11, prima della pausa pranzo) — [Secondo controllo prima di pranzo - niente](../eventi/e11-03.md)
+1. `e11-04` (cap. 11, poco dopo mezzogiorno) — [La visita del fondatore - l'indovinello, il foglio stampato](../eventi/e11-04.md)
+1. `e11-06` (cap. 11, fine turno, 17:00) — [Alle diciassette Emma chiude l'inbox, vuota](../eventi/e11-06.md)
 

@@ -1,0 +1,10 @@
+id: pipeline-di-produzione
+nome: La pipeline di produzione dei contenuti
+capitoli: [11]
+sintesi: "Il passaggio con cui Emma trasforma i topic selezionati in contenuti per i suoi canali."
+caratteristiche:
+  - {testo: "Riceve i topic scelti da Emma tra quelli estratti dallo strumento di analisi", fonte: "c11:13"}
+  - {testo: "Nel cap. 11: tre topic → un tutorial video (eTv), un articolo di oltre mille parole (eBlog), una cover con immagine di copertina (eDj)", fonte: "c11:15-19"}
+non_detto:
+  - {testo: "Con quale modello generi i contenuti non è detto nel cap. 11."}
+

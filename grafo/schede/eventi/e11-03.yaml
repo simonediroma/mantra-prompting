@@ -1,0 +1,12 @@
+id: e11-03
+nome: Secondo controllo prima di pranzo - niente
+capitolo: 11
+ordine: 11.3
+quando: "prima della pausa pranzo"
+dove: stanza-di-emma
+dopo: [e11-02]
+coinvolti: [emma, indirizzo-elab, tom]
+sintesi: "Stavolta nessuna regola aziendale giustifica il silenzio. Emma si accorge di prepararsi una scusa."
+fatti:
+  - {testo: "Il controllo", fonte: "c11:23"}
+

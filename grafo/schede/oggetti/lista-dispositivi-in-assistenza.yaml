@@ -1,0 +1,12 @@
+id: lista-dispositivi-in-assistenza
+nome: Lista dei dispositivi in assistenza
+capitoli: [11]
+sintesi: "L'elenco aggiornato ogni giorno dall'assistenza tecnica, con le schede e le frasi dei clienti."
+caratteristiche:
+  - {testo: "Aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica", fonte: "c11:29"}
+  - {testo: "Le schede riportano la frase esatta del cliente e le anomalie registrate (es. assenza dei log)", fonte: "c11:31"}
+non_detto:
+  - {testo: "Il rapporto con il «registro interventi» che usa Tom non è chiarito: stesso sistema o due viste diverse."}
+relazioni:
+  - {verso: divisione-assistenza-tecnica, tipo: "aggiornata da", fonte: "c11:29"}
+

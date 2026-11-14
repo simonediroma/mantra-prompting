@@ -1,0 +1,11 @@
+id: e11-06
+nome: Alle diciassette Emma chiude l'inbox, vuota
+capitolo: 11
+ordine: 11.6
+quando: "fine turno, 17:00"
+dove: stanza-di-emma
+dopo: [e11-05]
+coinvolti: [emma, indirizzo-elab, tom]
+sintesi: "Resta con la casella aperta fino all'ultimo minuto utile. Tom non ha risposto."
+fatti:
+  - {testo: "La chiusura", fonte: "c11:37"}

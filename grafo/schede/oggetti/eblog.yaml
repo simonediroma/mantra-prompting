@@ -1,0 +1,11 @@
+id: eblog
+nome: eBlog
+capitoli: [11]
+sintesi: "Il blog su cui Emma pubblica articoli generati."
+caratteristiche:
+  - {testo: "Articolo di oltre mille parole su come rendere «immortali» i fiori dell'anniversario (lacca, plastificazione, essiccazione), nato da una domanda su un forum femminile", fonte: "c11:17"}
+  - {testo: "Emma ne vede il traffico: pageview per utente e per pagina", fonte: "c11:33"}
+  - {testo: "Un articolo sulle ricette di smoothie «per la riattivazione sessuale del partner» ha avuto decine di pageview da un solo utente, tutte sulla stessa pagina, nei giorni prima della chiamata all'assistenza per il frigorifero", fonte: "c11:33"}
+relazioni:
+  - {verso: pipeline-di-produzione, tipo: "alimentato dalla", fonte: "c11:17"}
+

@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -57,6 +57,10 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Circa dieci anni prima era «agli inizi della propria carriera in Meridian» *(cap. 9 r. 39)*
 - Nella mail si firma «Tom, membro della Divisione Assistenza Tecnica» *(cap. 10 r. 19)*
 
+## Cosa NON dice il testo
+
+- Perché Tom non risponda per un giorno intero: il cap. 11, dal punto di vista di Emma, non lo sa.
+
 ## Punti aperti / da verificare
 
 - Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi.
@@ -74,6 +78,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 8** — Stessa sera, fin dopo le undici: analizza il canale eTv e conclude che è un'operazione. Rimanda a domani: capire con quale IA sia stato generato il video, per risalire dai clienti dello strumento a chi sta dietro *(cap. 8 r. 17-19)*
 - **Cap. 9** — Il giorno dopo: i rilevatori pubblici danno il video per reale ma il parlato per generato. A fine turno cerca il testo nell'archivio interno: è un prodotto Meridian, modello internal_unknown, contatto elab@meridian.com *(cap. 9 r. 31-37)*
 - **Cap. 10** — Fuori scena: la sera del cap. 9 ha scritto a elab@meridian.com sostenendo di aver trovato l'indirizzo nei log di un televisore *(cap. 10 r. 17-19)*
+- **Cap. 11** — Fuori scena: per tutta la giornata non risponde alla mail di Emma *(cap. 11 r. 37)*
 
 ## Relazioni
 
@@ -157,4 +162,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e10-0a` (cap. 10, la sera del giorno del cap. 9) — [Tom scrive a elab@meridian.com](../eventi/e10-0a.md)
 1. `e10-02` (cap. 10, la stessa mattina) — [Emma legge la mail di Tom e capisce che mente](../eventi/e10-02.md)
 1. `e10-03` (cap. 10, lo stesso giorno, fino alle 16:59) — [Il tono di Emma si raffredda; risponde alle 16:59](../eventi/e10-03.md)
+1. `e11-01` (cap. 11, il mattino dopo la sua risposta, prima del processo del mattino) — [Emma controlla la casella - Tom non ha risposto](../eventi/e11-01.md)
+1. `e11-03` (cap. 11, prima della pausa pranzo) — [Secondo controllo prima di pranzo - niente](../eventi/e11-03.md)
+1. `e11-06` (cap. 11, fine turno, 17:00) — [Alle diciassette Emma chiude l'inbox, vuota](../eventi/e11-06.md)
 

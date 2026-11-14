@@ -1,6 +1,6 @@
 # Il canale eTv
 
-`canale-etv` · oggetto · capitoli: 7, 8, 9, 10
+`canale-etv` · oggetto · capitoli: 7, 8, 9, 10, 11
 
 Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo.
 
@@ -15,6 +15,7 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 - Pubblicazione senza ritmo: giorni saltati, raffiche di tre video in un'ora, settimane di silenzio. Contraddice l'obiettivo delle visualizzazioni *(cap. 8 r. 15)*
 - «Un supermercato aperto di notte con tutte le luci accese e nessuno alla cassa»: «qualcuno, o qualcosa» produce contenuti su scala senza lasciare traccia *(cap. 8 r. 17)*
 - Pubblica almeno un contenuto generato da un modello interno Meridian, senza portare il nome di Meridian *(cap. 9 r. 37)*
+- È uno dei canali per cui Emma produce: il tutorial sul rinforzo lombare per impiegati è «contenuto perfetto per eTv» *(cap. 11 r. 15)*
 
 ## Cosa NON dice il testo
 
@@ -24,11 +25,12 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 
 - L'incoerenza che il testo lascia aperta: se lo scopo sono le visualizzazioni, perché pubblicare a singhiozzo (c8 r. 15)?
 - Tom ammette di non sapere quale sia un rapporto normale tra visualizzazioni e iscritti: il suo unico confronto è il canale del New York Times (c8 r. 13). La conclusione «pochi iscritti» è un'impressione.
-- eTv ha un video su come sturare un lavandino (c8 r. 9); lo strumento di Emma segue i trend di bricolage, cucina, fitness, intrattenimento (c10 r. 9-11). Il cap. 10 non dice che Emma produca i video né che eTv sia suo: parla solo di «lavoro che teneva lontano da occhi indiscreti».
 
 ## Relazioni
 
 - → ha come unica protagonista [La ragazza dei video eTv](../personaggi/ragazza-del-video-yoga.md) *(cap. 8 r. 9)*
+- → alimentato dalla [La pipeline di produzione dei contenuti](../oggetti/pipeline-di-produzione.md) *(cap. 11 r. 13-15)*
+- ← [Emma](../personaggi/emma.md) produce i contenuti di questa scheda *(cap. 11 r. 15)*
 - ← [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](../oggetti/video-yoga.md) pubblicato da questa scheda *(cap. 7 r. 33)*
 
 ## Catena degli eventi
@@ -38,4 +40,5 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 1. `e08-02` (cap. 8, la stessa sera) — [Tom nota cosa manca - identità, iscritti, ritmo](../eventi/e08-02.md)
 1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
 1. `e09-04` (cap. 9, subito dopo) — [Tom riconosce il nome Elab](../eventi/e09-04.md)
+1. `e11-02` (cap. 11, la stessa mattina) — [Emma produce tre contenuti - eTv, eBlog, eDj](../eventi/e11-02.md)
 

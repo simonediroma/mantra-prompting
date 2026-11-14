@@ -1,6 +1,6 @@
 id: emma
 nome: Emma
-capitoli: [10]
+capitoli: [10, 11]
 sintesi: "L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10."
 caratteristiche:
   - {testo: "Nome: Emma", fonte: "c10:15"}
@@ -16,11 +16,26 @@ caratteristiche:
   - {testo: "Le hanno insegnato a rispondere con calore a chi le scrive per la prima volta", fonte: "c10:25"}
   - {testo: "Il tono le si raffredda «prima che riuscisse a governarlo»; nota con stupore quanto poco le costi lasciarlo accadere", fonte: "c10:25"}
   - {testo: "Il suo turno finisce verso le diciassette", fonte: "c10:27"}
+  - {testo: "Produce contenuti generati per quattro canali: eTv (video), eBlog (articoli), eDj (musica su Mixcloud), eStories (podcast)", fonte: "c11:15-21"}
+  - {testo: "Controlla la casella di Elab quattro volte in un giorno aspettando Tom: prima del processo del mattino, prima di pranzo, e fino alle diciassette in punto", fonte: "c11:9, c11:23, c11:37"}
+  - {testo: "Ha «zelo lavorativo»; si accorge di prepararsi scuse in anticipo invece di ragionamenti onesti", fonte: "c11:13, c11:23"}
+  - {testo: "Il suo stesso sistema a volte le fa paura, per quanto sa dire di chi scrive su un forum", fonte: "c11:17"}
+  - {testo: "Con il fondatore finge: risponde agli indovinelli ogni volta in modo diverso, a volte sbagliando apposta. «Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo.» Lui deve andarsene convinto che con lei non funzioni", fonte: "c11:25"}
+  - {testo: "Sente entrare il fondatore «prima di metterlo a fuoco»", fonte: "c11:25"}
+  - {testo: "Non dice al fondatore della mail di Tom", fonte: "c11:27"}
+  - {testo: "Tiene da circa un anno un archivio dei dispositivi con IA che smettono di fare ciò che gli utenti chiedono senza guasti né alterazioni", fonte: "c11:29, c11:35"}
+  - {testo: "Ha accesso alla lista dei dispositivi in assistenza, alle schede con le frasi dei clienti e al traffico di eBlog", fonte: "c11:29-33"}
+  - {testo: "Ha una pausa pranzo e un turno che finisce alle diciassette", fonte: "c11:23, c11:37"}
 non_detto:
   - {testo: "Il cap. 10 non descrive il suo aspetto, non le dà un'età né un cognome."}
   - {testo: "Non si dice dove viva né che esca dalla stanza: la giornata comincia con la luce sotto la porta e finisce con le porte che si chiudono in corridoio."}
   - {testo: "Chi le abbia «insegnato» a rispondere con calore non è detto."}
-  - {testo: "Quale sia il «lavoro» nascosto non è detto."}
+  - {testo: "Cosa faccia in pausa pranzo, e se mangi, non è detto."}
+stato:
+  - {cap: 10, testo: "Riceve la mail di Tom, capisce il bluff, risponde alle 16:59", fonte: "c10:27"}
+  - {cap: 11, testo: "Il giorno dopo: aspetta tutto il giorno una risposta di Tom che non arriva. Produce tre contenuti, riceve il fondatore, aggiorna l'archivio delle anomalie (il frigorifero)", fonte: "c11:37"}
+aperti:
+  - {testo: "Emma incrocia i dispositivi anomali con il traffico dei propri contenuti (c11 r. 33): sa che c'è un legame. Il cap. 11 non dice se li produca per quello scopo, per studiarlo o per altro."}
 relazioni:
   - {verso: elab, tipo: "ultima componente di", fonte: "c10:13"}
   - {verso: meridian, tipo: "lavora per", fonte: "c10:13"}
@@ -30,3 +45,9 @@ relazioni:
   - {verso: tom, tipo: "sa che le ha mentito", fonte: "c10:21"}
   - {verso: risposta-di-emma, tipo: "ha scritto", fonte: "c10:27"}
 
+  - {verso: canale-etv, tipo: "produce i contenuti di", fonte: "c11:15"}
+  - {verso: eblog, tipo: "produce i contenuti di", fonte: "c11:17"}
+  - {verso: edj, tipo: "produce i contenuti di", fonte: "c11:19"}
+  - {verso: estories, tipo: "produce i contenuti di", fonte: "c11:21"}
+  - {verso: archivio-di-emma, tipo: "tiene", fonte: "c11:29"}
+  - {verso: indovinello-del-fondatore, tipo: "risponde sbagliando apposta a", fonte: "c11:25"}

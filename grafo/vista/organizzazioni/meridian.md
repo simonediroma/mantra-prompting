@@ -34,6 +34,7 @@ L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l
 - ← [Divisione Assistenza Tecnica](../organizzazioni/divisione-assistenza-tecnica.md) parte di questa scheda
 - ← [Elab](../organizzazioni/elab.md) laboratorio di questa scheda *(cap. 9 r. 39)*
 - ← [Ufficio HR](../organizzazioni/ufficio-hr.md) parte di questa scheda
+- ← [Il frigorifero che non sale sopra i cinque gradi](../oggetti/frigorifero-anomalo.md) prodotto da questa scheda
 - ← [Televisore del primo contatto (caso zero)](../oggetti/tv-caso-zero.md) prodotto da questa scheda *(cap. 1 r. 21)*
 - ← [Televisore del secondo contatto](../oggetti/tv-secondo-contatto.md) prodotto da questa scheda
 - ← [Sede Meridian dell'assistenza](../luoghi/sede-assistenza.md) sede di questa scheda

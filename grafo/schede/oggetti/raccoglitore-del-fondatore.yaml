@@ -1,0 +1,12 @@
+id: raccoglitore-del-fondatore
+nome: Il raccoglitore del fondatore
+capitoli: [11]
+sintesi: "Dove il fondatore archivia il foglio che stampa alla fine di ogni visita a Emma."
+caratteristiche:
+  - {testo: "A ogni visita: stampa un foglio, lo rilegge sorridendo, lo infila nel raccoglitore e lo rimette al suo posto", fonte: "c11:27"}
+  - {testo: "Non dice mai a Emma cosa sia", fonte: "c11:27"}
+non_detto:
+  - {testo: "Contenuto dei fogli: non detto."}
+relazioni:
+  - {verso: stanza-di-emma, tipo: "si trova in", fonte: "c11:27"}
+

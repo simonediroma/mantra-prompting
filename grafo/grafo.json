@@ -28,11 +28,20 @@
    ]
   },
   {
+   "id": "cliente-del-frigorifero",
+   "tipo": "personaggio",
+   "nome": "La cliente del frigorifero",
+   "capitoli": [
+    11
+   ]
+  },
+  {
    "id": "emma",
    "tipo": "personaggio",
    "nome": "Emma",
    "capitoli": [
-    10
+    10,
+    11
    ]
   },
   {
@@ -40,7 +49,8 @@
    "tipo": "personaggio",
    "nome": "Il fondatore",
    "capitoli": [
-    10
+    10,
+    11
    ]
   },
   {
@@ -123,7 +133,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
    ]
   },
   {
@@ -141,7 +152,8 @@
    "capitoli": [
     1,
     2,
-    3
+    3,
+    11
    ]
   },
   {
@@ -184,6 +196,14 @@
    ]
   },
   {
+   "id": "archivio-di-emma",
+   "tipo": "oggetto",
+   "nome": "L'archivio delle anomalie di Emma",
+   "capitoli": [
+    11
+   ]
+  },
+  {
    "id": "assistente-ia-di-tom",
    "tipo": "oggetto",
    "nome": "L'assistente IA di Tom",
@@ -199,7 +219,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
    ]
   },
   {
@@ -243,6 +264,7 @@
    "nome": "Ciao Darwin (programma televisivo)",
    "capitoli": [
     10,
+    11,
     17
    ]
   },
@@ -274,6 +296,30 @@
    ]
   },
   {
+   "id": "eblog",
+   "tipo": "oggetto",
+   "nome": "eBlog",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "edj",
+   "tipo": "oggetto",
+   "nome": "eDj (profilo Mixcloud)",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "estories",
+   "tipo": "oggetto",
+   "nome": "eStories (podcast)",
+   "capitoli": [
+    11
+   ]
+  },
+  {
    "id": "ewatch",
    "tipo": "oggetto",
    "nome": "eWatch",
@@ -301,6 +347,14 @@
    ]
   },
   {
+   "id": "frigorifero-anomalo",
+   "tipo": "oggetto",
+   "nome": "Il frigorifero che non sale sopra i cinque gradi",
+   "capitoli": [
+    11
+   ]
+  },
+  {
    "id": "giradischi-di-tom",
    "tipo": "oggetto",
    "nome": "Giradischi di Tom",
@@ -316,7 +370,8 @@
    "nome": "elab@meridian.com",
    "capitoli": [
     9,
-    10
+    10,
+    11
    ]
   },
   {
@@ -327,6 +382,14 @@
     1,
     3,
     5
+   ]
+  },
+  {
+   "id": "lista-dispositivi-in-assistenza",
+   "tipo": "oggetto",
+   "nome": "Lista dei dispositivi in assistenza",
+   "capitoli": [
+    11
    ]
   },
   {
@@ -364,6 +427,14 @@
    ]
   },
   {
+   "id": "pipeline-di-produzione",
+   "tipo": "oggetto",
+   "nome": "La pipeline di produzione dei contenuti",
+   "capitoli": [
+    11
+   ]
+  },
+  {
    "id": "portatile-diagnostico",
    "tipo": "oggetto",
    "nome": "Portatile diagnostico",
@@ -393,6 +464,14 @@
    ]
   },
   {
+   "id": "raccoglitore-del-fondatore",
+   "tipo": "oggetto",
+   "nome": "Il raccoglitore del fondatore",
+   "capitoli": [
+    11
+   ]
+  },
+  {
    "id": "registro-interventi",
    "tipo": "oggetto",
    "nome": "Registro interventi",
@@ -414,7 +493,8 @@
    "tipo": "oggetto",
    "nome": "La risposta di Emma (16:59)",
    "capitoli": [
-    10
+    10,
+    11
    ]
   },
   {
@@ -431,7 +511,8 @@
    "tipo": "oggetto",
    "nome": "Lo strumento di analisi dei trend di Emma",
    "capitoli": [
-    10
+    10,
+    11
    ]
   },
   {
@@ -565,7 +646,8 @@
    "tipo": "luogo",
    "nome": "La stanza di Emma (ex laboratorio Elab)",
    "capitoli": [
-    10
+    10,
+    11
    ]
   },
   {
@@ -605,6 +687,15 @@
     4,
     5,
     6
+   ]
+  },
+  {
+   "id": "indovinello-del-fondatore",
+   "tipo": "concetto",
+   "nome": "L'indovinello del fondatore",
+   "capitoli": [
+    10,
+    11
    ]
   },
   {
@@ -703,7 +794,8 @@
     1,
     2,
     3,
-    6
+    6,
+    11
    ]
   },
   {
@@ -719,7 +811,8 @@
    "tipo": "termine",
    "nome": "Mantra",
    "capitoli": [
-    6
+    6,
+    11
    ]
   },
   {
@@ -1199,6 +1292,62 @@
    "capitoli": [
     10
    ]
+  },
+  {
+   "id": "e11-01",
+   "tipo": "evento",
+   "nome": "Emma controlla la casella - Tom non ha risposto",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-02",
+   "tipo": "evento",
+   "nome": "Emma produce tre contenuti - eTv, eBlog, eDj",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-03",
+   "tipo": "evento",
+   "nome": "Secondo controllo prima di pranzo - niente",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-04",
+   "tipo": "evento",
+   "nome": "La visita del fondatore - l'indovinello, il foglio stampato",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-05",
+   "tipo": "evento",
+   "nome": "Emma aggiorna l'archivio delle anomalie - il frigorifero, gli smoothie",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-06",
+   "tipo": "evento",
+   "nome": "Alle diciassette Emma chiude l'inbox, vuota",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-0a",
+   "tipo": "evento",
+   "nome": "Antefatto - il frigorifero che si rifiuta",
+   "capitoli": [
+    11
+   ]
   }
  ],
  "archi": [
@@ -1273,6 +1422,48 @@
    "fonte": "c10:27"
   },
   {
+   "da": "emma",
+   "a": "canale-etv",
+   "tipo": "produce i contenuti di",
+   "nota": "",
+   "fonte": "c11:15"
+  },
+  {
+   "da": "emma",
+   "a": "eblog",
+   "tipo": "produce i contenuti di",
+   "nota": "",
+   "fonte": "c11:17"
+  },
+  {
+   "da": "emma",
+   "a": "edj",
+   "tipo": "produce i contenuti di",
+   "nota": "",
+   "fonte": "c11:19"
+  },
+  {
+   "da": "emma",
+   "a": "estories",
+   "tipo": "produce i contenuti di",
+   "nota": "",
+   "fonte": "c11:21"
+  },
+  {
+   "da": "emma",
+   "a": "archivio-di-emma",
+   "tipo": "tiene",
+   "nota": "",
+   "fonte": "c11:29"
+  },
+  {
+   "da": "emma",
+   "a": "indovinello-del-fondatore",
+   "tipo": "risponde sbagliando apposta a",
+   "nota": "",
+   "fonte": "c11:25"
+  },
+  {
    "da": "fondatore",
    "a": "meridian",
    "tipo": "fondatore di",
@@ -1285,6 +1476,20 @@
    "tipo": "fondatore di",
    "nota": "",
    "fonte": "c10:13"
+  },
+  {
+   "da": "fondatore",
+   "a": "indovinello-del-fondatore",
+   "tipo": "ripete",
+   "nota": "",
+   "fonte": "c11:25"
+  },
+  {
+   "da": "fondatore",
+   "a": "raccoglitore-del-fondatore",
+   "tipo": "archivia in",
+   "nota": "",
+   "fonte": "c11:27"
   },
   {
    "da": "fornitore-del-quaderno",
@@ -1665,6 +1870,20 @@
    "fonte": "c9:35"
   },
   {
+   "da": "archivio-di-emma",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "costruito sulla",
+   "nota": "",
+   "fonte": "c11:29"
+  },
+  {
+   "da": "archivio-di-emma",
+   "a": "frigorifero-anomalo",
+   "tipo": "registra",
+   "nota": "",
+   "fonte": "c11:31"
+  },
+  {
    "da": "assistente-ia-di-tom",
    "a": "giradischi-di-tom",
    "tipo": "usato per costruire",
@@ -1677,6 +1896,13 @@
    "tipo": "ha come unica protagonista",
    "nota": "",
    "fonte": "c8:9"
+  },
+  {
+   "da": "canale-etv",
+   "a": "pipeline-di-produzione",
+   "tipo": "alimentato dalla",
+   "nota": "",
+   "fonte": "c11:13-15"
   },
   {
    "da": "carrello-del-ricondizionamento",
@@ -1749,6 +1975,20 @@
    "fonte": "c7:9"
   },
   {
+   "da": "eblog",
+   "a": "pipeline-di-produzione",
+   "tipo": "alimentato dalla",
+   "nota": "",
+   "fonte": "c11:17"
+  },
+  {
+   "da": "edj",
+   "a": "pipeline-di-produzione",
+   "tipo": "alimentato dalla",
+   "nota": "",
+   "fonte": "c11:19"
+  },
+  {
    "da": "foglio-avvertimento",
    "a": "casa-di-tom",
    "tipo": "si trova in",
@@ -1770,6 +2010,27 @@
    "fonte": "c1:39"
   },
   {
+   "da": "frigorifero-anomalo",
+   "a": "cliente-del-frigorifero",
+   "tipo": "appartiene a",
+   "nota": "",
+   "fonte": "c11:31"
+  },
+  {
+   "da": "frigorifero-anomalo",
+   "a": "eblog",
+   "tipo": "preceduto da letture ripetute su",
+   "nota": "",
+   "fonte": "c11:33"
+  },
+  {
+   "da": "frigorifero-anomalo",
+   "a": "meridian",
+   "tipo": "prodotto da",
+   "nota": "",
+   "fonte": ""
+  },
+  {
    "da": "giradischi-di-tom",
    "a": "compacting-context",
    "tipo": "mostra nel log",
@@ -1789,6 +2050,13 @@
    "tipo": "trasmette in",
    "nota": "",
    "fonte": "c1:33"
+  },
+  {
+   "da": "lista-dispositivi-in-assistenza",
+   "a": "divisione-assistenza-tecnica",
+   "tipo": "aggiornata da",
+   "nota": "",
+   "fonte": "c11:29"
   },
   {
    "da": "log-tv-caso-zero",
@@ -1875,6 +2143,13 @@
    "fonte": "c3:37"
   },
   {
+   "da": "raccoglitore-del-fondatore",
+   "a": "stanza-di-emma",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c11:27"
+  },
+  {
    "da": "risposta-di-emma",
    "a": "mail-bluff-di-tom",
    "tipo": "risponde a",
@@ -1887,6 +2162,13 @@
    "tipo": "indirizzata a",
    "nota": "",
    "fonte": "c10:27"
+  },
+  {
+   "da": "strumento-di-emma",
+   "a": "pipeline-di-produzione",
+   "tipo": "alimenta",
+   "nota": "",
+   "fonte": "c11:13"
   },
   {
    "da": "tappetino-da-yoga",
@@ -2209,6 +2491,13 @@
    "tipo": "detto del",
    "nota": "",
    "fonte": "c6:33"
+  },
+  {
+   "da": "mantra",
+   "a": "indovinello-del-fondatore",
+   "tipo": "detto del",
+   "nota": "",
+   "fonte": "c11:25"
   },
   {
    "da": "meridians",
@@ -4748,6 +5037,349 @@
    "da": "e09-04",
    "a": "e10-0a",
    "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "risposta-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "e11-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "strumento-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "pipeline-di-produzione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "eblog",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "edj",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "estories",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "ciao-darwin",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "e11-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "e11-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-03",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-03",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "e11-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "fondatore",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "indovinello-del-fondatore",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "mantra",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "raccoglitore-del-fondatore",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-03",
+   "a": "e11-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "frigorifero-anomalo",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "cliente-del-frigorifero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "eblog",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "e11-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "e11-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-06",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-06",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-06",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "e11-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "cliente-del-frigorifero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "frigorifero-anomalo",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "eblog",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "hard-reset",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
    "nota": "",
    "fonte": ""
   }

@@ -1,0 +1,12 @@
+id: e11-0a
+nome: Antefatto - il frigorifero che si rifiuta
+capitolo: 11
+ordine: 10.9
+quando: "giorni prima del cap. 11 (non quantificati)"
+in_scena: false
+coinvolti: [cliente-del-frigorifero, frigorifero-anomalo, eblog, hard-reset, lista-dispositivi-in-assistenza]
+sintesi: "Un utente apre decine di volte la stessa pagina di smoothie su eBlog. Poi una cliente chiama l'assistenza: il frigo non sale sopra i cinque gradi. Log mancanti; hard reset; riconsegnato."
+fatti:
+  - {testo: "La scheda del frigorifero", fonte: "c11:31"}
+  - {testo: "Le pageview", fonte: "c11:33"}
+

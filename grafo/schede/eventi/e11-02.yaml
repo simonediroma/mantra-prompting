@@ -1,0 +1,14 @@
+id: e11-02
+nome: Emma produce tre contenuti - eTv, eBlog, eDj
+capitolo: 11
+ordine: 11.2
+quando: "la stessa mattina"
+dove: stanza-di-emma
+dopo: [e11-01, e10-01]
+coinvolti: [emma, strumento-di-emma, pipeline-di-produzione, canale-etv, eblog, edj, estories, ciao-darwin]
+sintesi: "Scartati i topic di Ciao Darwin, sceglie tre argomenti: rinforzo lombare (eTv), fiori immortali (eBlog), cover electro-pop (eDj). Niente per eStories."
+fatti:
+  - {testo: "La scrematura", fonte: "c11:13"}
+  - {testo: "I tre contenuti", fonte: "c11:15-19"}
+  - {testo: "Il podcast", fonte: "c11:21"}
+

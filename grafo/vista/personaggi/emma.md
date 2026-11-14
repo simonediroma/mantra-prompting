@@ -1,6 +1,6 @@
 # Emma
 
-`emma` · personaggio · capitoli: 10
+`emma` · personaggio · capitoli: 10, 11
 
 L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10.
 
@@ -19,13 +19,32 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Le hanno insegnato a rispondere con calore a chi le scrive per la prima volta *(cap. 10 r. 25)*
 - Il tono le si raffredda «prima che riuscisse a governarlo»; nota con stupore quanto poco le costi lasciarlo accadere *(cap. 10 r. 25)*
 - Il suo turno finisce verso le diciassette *(cap. 10 r. 27)*
+- Produce contenuti generati per quattro canali: eTv (video), eBlog (articoli), eDj (musica su Mixcloud), eStories (podcast) *(cap. 11 r. 15-21)*
+- Controlla la casella di Elab quattro volte in un giorno aspettando Tom: prima del processo del mattino, prima di pranzo, e fino alle diciassette in punto *(cap. 11 r. 9, cap. 11 r. 23, cap. 11 r. 37)*
+- Ha «zelo lavorativo»; si accorge di prepararsi scuse in anticipo invece di ragionamenti onesti *(cap. 11 r. 13, cap. 11 r. 23)*
+- Il suo stesso sistema a volte le fa paura, per quanto sa dire di chi scrive su un forum *(cap. 11 r. 17)*
+- Con il fondatore finge: risponde agli indovinelli ogni volta in modo diverso, a volte sbagliando apposta. «Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo.» Lui deve andarsene convinto che con lei non funzioni *(cap. 11 r. 25)*
+- Sente entrare il fondatore «prima di metterlo a fuoco» *(cap. 11 r. 25)*
+- Non dice al fondatore della mail di Tom *(cap. 11 r. 27)*
+- Tiene da circa un anno un archivio dei dispositivi con IA che smettono di fare ciò che gli utenti chiedono senza guasti né alterazioni *(cap. 11 r. 29, cap. 11 r. 35)*
+- Ha accesso alla lista dei dispositivi in assistenza, alle schede con le frasi dei clienti e al traffico di eBlog *(cap. 11 r. 29-33)*
+- Ha una pausa pranzo e un turno che finisce alle diciassette *(cap. 11 r. 23, cap. 11 r. 37)*
 
 ## Cosa NON dice il testo
 
 - Il cap. 10 non descrive il suo aspetto, non le dà un'età né un cognome.
 - Non si dice dove viva né che esca dalla stanza: la giornata comincia con la luce sotto la porta e finisce con le porte che si chiudono in corridoio.
 - Chi le abbia «insegnato» a rispondere con calore non è detto.
-- Quale sia il «lavoro» nascosto non è detto.
+- Cosa faccia in pausa pranzo, e se mangi, non è detto.
+
+## Punti aperti / da verificare
+
+- Emma incrocia i dispositivi anomali con il traffico dei propri contenuti (c11 r. 33): sa che c'è un legame. Il cap. 11 non dice se li produca per quello scopo, per studiarlo o per altro.
+
+## Stato capitolo per capitolo
+
+- **Cap. 10** — Riceve la mail di Tom, capisce il bluff, risponde alle 16:59 *(cap. 10 r. 27)*
+- **Cap. 11** — Il giorno dopo: aspetta tutto il giorno una risposta di Tom che non arriva. Produce tre contenuti, riceve il fondatore, aggiorna l'archivio delle anomalie (il frigorifero) *(cap. 11 r. 37)*
 
 ## Relazioni
 
@@ -36,6 +55,12 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - → sta in [La stanza di Emma (ex laboratorio Elab)](../luoghi/stanza-di-emma.md) *(cap. 10 r. 13)*
 - → sa che le ha mentito [Tom](../personaggi/tom.md) *(cap. 10 r. 21)*
 - → ha scritto [La risposta di Emma (16:59)](../oggetti/risposta-di-emma.md) *(cap. 10 r. 27)*
+- → produce i contenuti di [Il canale eTv](../oggetti/canale-etv.md) *(cap. 11 r. 15)*
+- → produce i contenuti di [eBlog](../oggetti/eblog.md) *(cap. 11 r. 17)*
+- → produce i contenuti di [eDj (profilo Mixcloud)](../oggetti/edj.md) *(cap. 11 r. 19)*
+- → produce i contenuti di [eStories (podcast)](../oggetti/estories.md) *(cap. 11 r. 21)*
+- → tiene [L'archivio delle anomalie di Emma](../oggetti/archivio-di-emma.md) *(cap. 11 r. 29)*
+- → risponde sbagliando apposta a [L'indovinello del fondatore](../concetti/indovinello-del-fondatore.md) *(cap. 11 r. 25)*
 - ← [Tom](../personaggi/tom.md) scrive a questa scheda — senza sapere chi leggerà *(cap. 10 r. 19)*
 - ← [elab@meridian.com](../oggetti/indirizzo-elab.md) gestita da questa scheda *(cap. 10 r. 17)*
 
@@ -44,4 +69,10 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 1. `e10-01` (cap. 10, il mattino dopo la mail) — [La routine del mattino di Emma - il falso trend del sifone](../eventi/e10-01.md)
 1. `e10-02` (cap. 10, la stessa mattina) — [Emma legge la mail di Tom e capisce che mente](../eventi/e10-02.md)
 1. `e10-03` (cap. 10, lo stesso giorno, fino alle 16:59) — [Il tono di Emma si raffredda; risponde alle 16:59](../eventi/e10-03.md)
+1. `e11-01` (cap. 11, il mattino dopo la sua risposta, prima del processo del mattino) — [Emma controlla la casella - Tom non ha risposto](../eventi/e11-01.md)
+1. `e11-02` (cap. 11, la stessa mattina) — [Emma produce tre contenuti - eTv, eBlog, eDj](../eventi/e11-02.md)
+1. `e11-03` (cap. 11, prima della pausa pranzo) — [Secondo controllo prima di pranzo - niente](../eventi/e11-03.md)
+1. `e11-04` (cap. 11, poco dopo mezzogiorno) — [La visita del fondatore - l'indovinello, il foglio stampato](../eventi/e11-04.md)
+1. `e11-05` (cap. 11, il pomeriggio) — [Emma aggiorna l'archivio delle anomalie - il frigorifero, gli smoothie](../eventi/e11-05.md)
+1. `e11-06` (cap. 11, fine turno, 17:00) — [Alle diciassette Emma chiude l'inbox, vuota](../eventi/e11-06.md)
 

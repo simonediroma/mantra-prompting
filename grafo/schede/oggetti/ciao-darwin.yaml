@@ -1,11 +1,12 @@
 id: ciao-darwin
 nome: Ciao Darwin (programma televisivo)
-capitoli: [10, 17]
+capitoli: [10, 11, 17]
 sintesi: "Il programma che genera il falso trend del sifone analizzato da Emma; è anche quello che Pete guarda la sera."
 caratteristiche:
   - {testo: "In una puntata un «secchione» batte un «palestrato» risolvendo un principio di allagamento del palco in cinquantasei secondi; rimbalza nei forum di mezzo mondo", fonte: "c10:11"}
   - {testo: "Effetto: più di cento account in poche ore chiedono come stringere un sifone che perde senza attrezzi in meno di due minuti", fonte: "c10:11"}
   - {testo: "Pete lo guarda sul divano: «fighi» contro «sfigati»", fonte: "c17:38"}
+  - {testo: "Emma elimina dalla lista tutti i topic di idraulica riconducibili all'«ultima puntata»", fonte: "c11:13"}
 aperti:
   - {testo: "Le squadre sono «secchione» contro «palestrato» nel cap. 10 e «fighi» contro «sfigati» nel cap. 17: puntate diverse o stessa? Da verificare analizzando il cap. 17."}
 

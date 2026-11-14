@@ -1,6 +1,6 @@
 id: strumento-di-emma
 nome: Lo strumento di analisi dei trend di Emma
-capitoli: [10]
+capitoli: [10, 11]
 sintesi: "Un processo che Emma si è costruita da sé anni prima: scansiona la rete pubblica e restituisce, per macrocategoria, chi parla di cosa e da quanto."
 caratteristiche:
   - {testo: "Scansiona social, forum, motori di ricerca: «ogni angolo pubblico della rete»", fonte: "c10:9"}
@@ -8,6 +8,10 @@ caratteristiche:
   - {testo: "Macrocategorie citate: fitness, bricolage, cucina, arte, intrattenimento, «tra le altre»", fonte: "c10:9"}
   - {testo: "Per ognuna: chi sono le persone, di cosa parlano più del solito, se da ieri o da anni", fonte: "c10:9"}
   - {testo: "Emma distingue i trend autentici da quelli generati a valle da una fonte come la televisione («rumore» non utile)", fonte: "c10:11"}
+  - {testo: "Macrocategoria in più: giardinaggio", fonte: "c11:17"}
+  - {testo: "Sa profilare un forum: «donne tra i venti e i quarant'anni, con una relazione stabile e monogama in corso»", fonte: "c11:17"}
+  - {testo: "I topic selezionati passano alla pipeline di produzione dei contenuti", fonte: "c11:13"}
 non_detto:
-  - {testo: "A cosa servano i trend che Emma raccoglie non è detto nel cap. 10."}
 
+relazioni:
+  - {verso: pipeline-di-produzione, tipo: "alimenta", fonte: "c11:13"}

@@ -1,6 +1,6 @@
 id: canale-etv
 nome: Il canale eTv
-capitoli: [7, 8, 9, 10]
+capitoli: [7, 8, 9, 10, 11]
 sintesi: "Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo."
 caratteristiche:
   - {testo: "Nome del canale: eTv", fonte: "c7:33"}
@@ -12,12 +12,13 @@ caratteristiche:
   - {testo: "Pubblicazione senza ritmo: giorni saltati, raffiche di tre video in un'ora, settimane di silenzio. Contraddice l'obiettivo delle visualizzazioni", fonte: "c8:15"}
   - {testo: "«Un supermercato aperto di notte con tutte le luci accese e nessuno alla cassa»: «qualcuno, o qualcosa» produce contenuti su scala senza lasciare traccia", fonte: "c8:17"}
   - {testo: "Pubblica almeno un contenuto generato da un modello interno Meridian, senza portare il nome di Meridian", fonte: "c9:37"}
+  - {testo: "È uno dei canali per cui Emma produce: il tutorial sul rinforzo lombare per impiegati è «contenuto perfetto per eTv»", fonte: "c11:15"}
 non_detto:
 
   - {testo: "Numero totale dei video, data di apertura del canale e numero esatto di iscritti non sono indicati."}
 aperti:
   - {testo: "L'incoerenza che il testo lascia aperta: se lo scopo sono le visualizzazioni, perché pubblicare a singhiozzo (c8 r. 15)?"}
   - {testo: "Tom ammette di non sapere quale sia un rapporto normale tra visualizzazioni e iscritti: il suo unico confronto è il canale del New York Times (c8 r. 13). La conclusione «pochi iscritti» è un'impressione."}
-  - {testo: "eTv ha un video su come sturare un lavandino (c8 r. 9); lo strumento di Emma segue i trend di bricolage, cucina, fitness, intrattenimento (c10 r. 9-11). Il cap. 10 non dice che Emma produca i video né che eTv sia suo: parla solo di «lavoro che teneva lontano da occhi indiscreti»."}
 relazioni:
   - {verso: ragazza-del-video-yoga, tipo: "ha come unica protagonista", fonte: "c8:9"}
+  - {verso: pipeline-di-produzione, tipo: "alimentato dalla", fonte: "c11:13-15"}

@@ -1,0 +1,13 @@
+id: e11-04
+nome: La visita del fondatore - l'indovinello, il foglio stampato
+capitolo: 11
+ordine: 11.4
+quando: "poco dopo mezzogiorno"
+dove: stanza-di-emma
+dopo: [e11-03]
+coinvolti: [emma, fondatore, indovinello-del-fondatore, mantra, raccoglitore-del-fondatore, indirizzo-elab]
+sintesi: "Due chiacchiere, poi l'indovinello ripetuto. Emma sbaglia apposta. Non gli parla della mail di Tom. Lui stampa un foglio, lo archivia nel raccoglitore ed esce."
+fatti:
+  - {testo: "La visita e l'indovinello", fonte: "c11:25"}
+  - {testo: "Il silenzio di Emma e la stampa", fonte: "c11:27"}
+
