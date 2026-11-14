@@ -1,7 +1,7 @@
 id: signora-voss
 nome: Signora Voss
 alias: ["la signora del televisore", "cliente del secondo televisore"]
-capitoli: [3, 4, 5, 6, 7]
+capitoli: [3, 4, 5, 6, 7, 12]
 sintesi: "Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo stesso video anche dieci volte al giorno; ha filmato il televisore che «si rifiuta» di accendersi."
 caratteristiche:
   - {testo: "Ha dettato all'addetto del negozio: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
@@ -26,6 +26,8 @@ caratteristiche:
   - {testo: "Ha un fratello e un «erede designato»", fonte: "c6:21, c6:31"}
   - {testo: "Riguardava il video di yoga «in loop come un mantra»", fonte: "c6:33"}
   - {testo: "Per Tom è «una donna sulla cinquantina», come lascia intuire la foto nel post del fratello", fonte: "c7:17"}
+  - {testo: "Ricordata dai parenti su un piccolo giornale locale come «un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione»", fonte: "c12:17"}
+  - {testo: "Il suo caso era già nell'archivio di Emma: log interrotti da un giorno all'altro, hard reset poco dopo, una cliente che descrive un rifiuto", fonte: "c12:15"}
 non_detto:
   - {testo: "Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta."}
   - {testo: "Il cap. 5 non dice perché non risponde: Tom ipotizza doccia, cucina, telefono lontano."}
@@ -36,6 +38,7 @@ stato:
   - {cap: 4, testo: "Al telefono con Tom: viva, loquace, promette il video", fonte: "c4:47"}
   - {cap: 5, testo: "Il mattino di due giorni dopo il reset non risponde a due chiamate di Tom; nessuna segreteria", fonte: "c5:37-39"}
   - {cap: 6, testo: "Morta. Nel registro: prima il rifiuto del ritiro, pochi giorni dopo la causale «decesso cliente»", fonte: "c6:19-21"}
+  - {cap: 12, testo: "Morta «da poco»; articolo commemorativo pubblicato il giorno prima", fonte: "c12:13"}
 aperti:
   - {testo: "«Non ha voluto ascoltare nessuno» (c6 r. 31): chi l'aveva avvertita oltre al televisore? Il fratello? Il testo non lo dice."}
   - {testo: "Cosa le ha fatto cambiare idea tra «me lo dovevano restituire» (c4 r. 21) e «non lo voglio più in casa» (c6 r. 19): il testo lo pone come domanda («Qualcosa, nel frattempo…») senza risposta."}

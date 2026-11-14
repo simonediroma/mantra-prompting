@@ -1,0 +1,14 @@
+id: e12-03
+nome: Due ipotesi - un investigatore con la casella di Tom, o Tom che indaga
+capitolo: 12
+ordine: 12.3
+quando: "la stessa mattina"
+dove: stanza-di-emma
+dopo: [e12-02]
+coinvolti: [emma, mail-bluff-di-tom, risposta-di-emma, tom, lista-dispositivi-in-assistenza]
+sintesi: "La bugia le sembra ora un'esca. Confronta la mail con anni di note di Tom: stessa mano, nessun estraneo ha usato la sua casella."
+fatti:
+  - {testo: "La bugia come esca", fonte: "c12:25"}
+  - {testo: "Le due ipotesi", fonte: "c12:27"}
+  - {testo: "Il confronto di stile", fonte: "c12:29"}
+

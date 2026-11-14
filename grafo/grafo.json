@@ -15,7 +15,8 @@
    "nome": "Audiofili scandinavi",
    "capitoli": [
     1,
-    7
+    7,
+    12
    ]
   },
   {
@@ -41,7 +42,8 @@
    "nome": "Emma",
    "capitoli": [
     10,
-    11
+    11,
+    12
    ]
   },
   {
@@ -108,7 +110,8 @@
     4,
     5,
     6,
-    7
+    7,
+    12
    ]
   },
   {
@@ -134,7 +137,8 @@
     8,
     9,
     10,
-    11
+    11,
+    12
    ]
   },
   {
@@ -200,7 +204,16 @@
    "tipo": "oggetto",
    "nome": "L'archivio delle anomalie di Emma",
    "capitoli": [
-    11
+    11,
+    12
+   ]
+  },
+  {
+   "id": "articolo-commemorativo-voss",
+   "tipo": "oggetto",
+   "nome": "L'articolo commemorativo sulla signora Voss",
+   "capitoli": [
+    12
    ]
   },
   {
@@ -220,7 +233,8 @@
     8,
     9,
     10,
-    11
+    11,
+    12
    ]
   },
   {
@@ -325,7 +339,8 @@
    "nome": "eWatch",
    "capitoli": [
     3,
-    6
+    6,
+    12
    ]
   },
   {
@@ -361,7 +376,8 @@
    "capitoli": [
     1,
     7,
-    8
+    8,
+    12
    ]
   },
   {
@@ -389,7 +405,8 @@
    "tipo": "oggetto",
    "nome": "Lista dei dispositivi in assistenza",
    "capitoli": [
-    11
+    11,
+    12
    ]
   },
   {
@@ -414,7 +431,8 @@
    "tipo": "oggetto",
    "nome": "La prima mail di Tom a Elab (il bluff)",
    "capitoli": [
-    10
+    10,
+    12
    ]
   },
   {
@@ -427,11 +445,27 @@
    ]
   },
   {
+   "id": "organigramma",
+   "tipo": "oggetto",
+   "nome": "Organigramma e pagina aziendale di Tom",
+   "capitoli": [
+    12
+   ]
+  },
+  {
    "id": "pipeline-di-produzione",
    "tipo": "oggetto",
    "nome": "La pipeline di produzione dei contenuti",
    "capitoli": [
     11
+   ]
+  },
+  {
+   "id": "pipeline-media",
+   "tipo": "oggetto",
+   "nome": "La pipeline di sorveglianza dei media",
+   "capitoli": [
+    12
    ]
   },
   {
@@ -448,7 +482,8 @@
    "nome": "Post del fratello (con la foto della signora Voss)",
    "capitoli": [
     6,
-    7
+    7,
+    12
    ]
   },
   {
@@ -494,7 +529,8 @@
    "nome": "La risposta di Emma (16:59)",
    "capitoli": [
     10,
-    11
+    11,
+    12
    ]
   },
   {
@@ -504,6 +540,14 @@
    "capitoli": [
     3,
     4
+   ]
+  },
+  {
+   "id": "sito-del-giradischi",
+   "tipo": "oggetto",
+   "nome": "Il sito e il forum del progetto del giradischi",
+   "capitoli": [
+    12
    ]
   },
   {
@@ -520,7 +564,8 @@
    "tipo": "oggetto",
    "nome": "Tappetino da yoga della signora Voss",
    "capitoli": [
-    5
+    5,
+    12
    ]
   },
   {
@@ -558,7 +603,8 @@
     3,
     4,
     5,
-    6
+    6,
+    12
    ]
   },
   {
@@ -1348,6 +1394,54 @@
    "capitoli": [
     11
    ]
+  },
+  {
+   "id": "e12-01",
+   "tipo": "evento",
+   "nome": "La pipeline media intercetta l'articolo - Emma riconosce il nome Voss",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "e12-02",
+   "tipo": "evento",
+   "nome": "Emma scopre che il tecnico del televisore Voss era Tom",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "e12-03",
+   "tipo": "evento",
+   "nome": "Due ipotesi - un investigatore con la casella di Tom, o Tom che indaga",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "e12-04",
+   "tipo": "evento",
+   "nome": "Emma ricostruisce chi è Tom - organigramma, LinkedIn, forum",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "e12-05",
+   "tipo": "evento",
+   "nome": "Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "e12-0a",
+   "tipo": "evento",
+   "nome": "I parenti pubblicano l'articolo commemorativo",
+   "capitoli": [
+    12
+   ]
   }
  ],
  "archi": [
@@ -1462,6 +1556,27 @@
    "tipo": "risponde sbagliando apposta a",
    "nota": "",
    "fonte": "c11:25"
+  },
+  {
+   "da": "emma",
+   "a": "pipeline-media",
+   "tipo": "ha costruito",
+   "nota": "",
+   "fonte": "c12:11"
+  },
+  {
+   "da": "emma",
+   "a": "signora-voss",
+   "tipo": "ha in archivio il caso di",
+   "nota": "",
+   "fonte": "c12:15"
+  },
+  {
+   "da": "emma",
+   "a": "tom",
+   "tipo": "indaga su",
+   "nota": "",
+   "fonte": "c12:29-37"
   },
   {
    "da": "fondatore",
@@ -1779,6 +1894,13 @@
    "fonte": "c10:19"
   },
   {
+   "da": "tom",
+   "a": "sito-del-giradischi",
+   "tipo": "gestisce",
+   "nota": "",
+   "fonte": "c12:33"
+  },
+  {
    "da": "coordinamento-assistenza",
    "a": "meridian",
    "tipo": "parte di",
@@ -1882,6 +2004,34 @@
    "tipo": "registra",
    "nota": "",
    "fonte": "c11:31"
+  },
+  {
+   "da": "articolo-commemorativo-voss",
+   "a": "signora-voss",
+   "tipo": "ricorda",
+   "nota": "",
+   "fonte": "c12:13"
+  },
+  {
+   "da": "articolo-commemorativo-voss",
+   "a": "tv-secondo-contatto",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c12:13"
+  },
+  {
+   "da": "articolo-commemorativo-voss",
+   "a": "tappetino-da-yoga",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c12:13"
+  },
+  {
+   "da": "articolo-commemorativo-voss",
+   "a": "ewatch",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c12:13"
   },
   {
    "da": "assistente-ia-di-tom",
@@ -2101,6 +2251,27 @@
    "fonte": ""
   },
   {
+   "da": "organigramma",
+   "a": "tom",
+   "tipo": "descrive",
+   "nota": "",
+   "fonte": "c12:31"
+  },
+  {
+   "da": "organigramma",
+   "a": "sito-del-giradischi",
+   "tipo": "rimanda a",
+   "nota": "",
+   "fonte": "c12:33"
+  },
+  {
+   "da": "pipeline-media",
+   "a": "articolo-commemorativo-voss",
+   "tipo": "intercetta",
+   "nota": "",
+   "fonte": "c12:11"
+  },
+  {
    "da": "post-del-fratello",
    "a": "signora-voss",
    "tipo": "annuncia la morte di",
@@ -2162,6 +2333,20 @@
    "tipo": "indirizzata a",
    "nota": "",
    "fonte": "c10:27"
+  },
+  {
+   "da": "sito-del-giradischi",
+   "a": "giradischi-di-tom",
+   "tipo": "documenta",
+   "nota": "",
+   "fonte": "c12:33"
+  },
+  {
+   "da": "sito-del-giradischi",
+   "a": "audiofili-scandinavi",
+   "tipo": "frequentato da",
+   "nota": "",
+   "fonte": "c12:35"
   },
   {
    "da": "strumento-di-emma",
@@ -5380,6 +5565,328 @@
    "da": "e11-0a",
    "a": "lista-dispositivi-in-assistenza",
    "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "pipeline-media",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "articolo-commemorativo-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "tappetino-da-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-0a",
+   "a": "e12-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-06",
+   "a": "e12-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "e12-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "e12-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "risposta-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "e12-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "organigramma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "sito-del-giradischi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "giradischi-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "audiofili-scandinavi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "e12-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "e12-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-0a",
+   "a": "articolo-commemorativo-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-0a",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "e12-0a",
+   "tipo": "porta a",
    "nota": "",
    "fonte": ""
   }

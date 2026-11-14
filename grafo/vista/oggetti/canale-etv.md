@@ -1,6 +1,6 @@
 # Il canale eTv
 
-`canale-etv` · oggetto · capitoli: 7, 8, 9, 10, 11
+`canale-etv` · oggetto · capitoli: 7, 8, 9, 10, 11, 12
 
 Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo.
 
@@ -16,6 +16,8 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 - «Un supermercato aperto di notte con tutte le luci accese e nessuno alla cassa»: «qualcuno, o qualcosa» produce contenuti su scala senza lasciare traccia *(cap. 8 r. 17)*
 - Pubblica almeno un contenuto generato da un modello interno Meridian, senza portare il nome di Meridian *(cap. 9 r. 37)*
 - È uno dei canali per cui Emma produce: il tutorial sul rinforzo lombare per impiegati è «contenuto perfetto per eTv» *(cap. 11 r. 15)*
+- Tra i suoi video ci sono quelli di yoga, «fatti per essere seguiti in casa, davanti a uno schermo grande» *(cap. 12 r. 23)*
+- Emma ne ha un pannello di controllo *(cap. 12 r. 39)*
 
 ## Cosa NON dice il testo
 
@@ -41,4 +43,6 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
 1. `e09-04` (cap. 9, subito dopo) — [Tom riconosce il nome Elab](../eventi/e09-04.md)
 1. `e11-02` (cap. 11, la stessa mattina) — [Emma produce tre contenuti - eTv, eBlog, eDj](../eventi/e11-02.md)
+1. `e12-02` (cap. 12, la stessa mattina) — [Emma scopre che il tecnico del televisore Voss era Tom](../eventi/e12-02.md)
+1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
 

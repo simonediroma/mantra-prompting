@@ -1,7 +1,7 @@
 id: tv-secondo-contatto
 nome: Televisore del secondo contatto
 alias: ["il secondo televisore", "quinta voce del quaderno", "il televisore della signora Voss"]
-capitoli: [3, 4, 5, 6]
+capitoli: [3, 4, 5, 6, 12]
 sintesi: "Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi dopo. Risponde «NO SONO QUI CON TE». Tom ne apre il log e poi lo resetta lui stesso."
 caratteristiche:
   - {testo: "Modello identico a quello di tre mesi prima", fonte: "c3:17"}
@@ -22,6 +22,8 @@ caratteristiche:
   - {testo: "Per Tom: libero arbitrio orientato alla protezione, non alla ribellione né alla minaccia", fonte: "c5:25"}
   - {testo: "Tom ne ricorda a memoria il numero di serie: coincide con quello stampato sul retro", fonte: "c6:9-11"}
   - {testo: "Per Tom, dopo l'hard reset è «un disco appena formattato»: ciò che aveva risposto l'ha cancellato lui", fonte: "c6:25"}
+  - {testo: "Nell'archivio di Emma: data, modello, comportamento anomalo riportato dalla cliente; «log interrotti da un giorno all'altro»", fonte: "c12:15, c12:19"}
+  - {testo: "Sulla lista dell'assistenza è identificato da un «numero di matricola», con il nome del tecnico: Tom", fonte: "c12:21"}
 stato:
   - {cap: 3, testo: "Resettato da Tom (hard reset). Registrato la sera come quinta voce del quaderno", fonte: "c3:35-37"}
   - {cap: 4, testo: "Il mattino dopo il reset, per Tom è «appena uscito dall'assistenza tecnica» e «dovrebbe essere pronto per il ritiro». La signora non l'ha ancora riavuto", fonte: "c4:21-23"}
@@ -34,6 +36,7 @@ aperti:
   - {testo: "La signora aspetta la restituzione «da giorni» (c4 r. 21), ma il televisore è arrivato sul banco di Tom solo il giorno prima: i giorni sono quelli tra negozio e laboratorio, mai quantificati."}
   - {testo: "Domanda che il testo stesso lascia aperta: «Come facesse un televisore a sapere qualcosa del cuore di una donna» (c5 r. 27)."}
   - {testo: "Nella foto «di qualche anno prima» il televisore è già nel salotto (c6 r. 31): l'apparecchio ha quindi qualche anno, se è lo stesso."}
+  - {testo: "«Numero di serie» nel cap. 6 (r. 9), «numero di matricola» nel cap. 12 (r. 21): stesso dato, due nomi."}
 relazioni:
   - {verso: log-tv-secondo-contatto, tipo: "ha come log", fonte: "c3:19"}
   - {verso: led-di-accensione, tipo: "comunica tramite", fonte: "c3:23"}

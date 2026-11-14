@@ -1,6 +1,6 @@
 # La prima mail di Tom a Elab (il bluff)
 
-`mail-bluff-di-tom` · oggetto · capitoli: 10
+`mail-bluff-di-tom` · oggetto · capitoli: 10, 12
 
 La mail con cui Tom scrive a elab@meridian.com dicendo di aver trovato l'indirizzo nei log di un televisore. È falso, ed Emma lo sa.
 
@@ -10,6 +10,9 @@ La mail con cui Tom scrive a elab@meridian.com dicendo di aver trovato l'indiriz
 - Arrivata «la sera prima»; mittente Meridian riconoscibile *(cap. 10 r. 17)*
 - La bugia: nessun dispositivo lascia indirizzi di posta nei log *(cap. 10 r. 21)*
 - Deduzione di Emma: Tom è passato dall'archivio degli artefatti; resta da capire cosa abbia cercato e perché abbia mentito *(cap. 10 r. 23)*
+- «Quattro righe e una firma»; «Divisione Assistenza Tecnica» scritta per intero, saluti di rito, frase costruita come una segnalazione di guasto *(cap. 12 r. 23, cap. 12 r. 29)*
+- Riletta da Emma: troppo goffa per essere sincera, forse un'esca per vedere chi risponde e come *(cap. 12 r. 25)*
+- Datata «tre giorni prima» del cap. 12 e «qualche settimana dopo» l'intervento sul televisore Voss *(cap. 12 r. 17, cap. 12 r. 23)*
 
 ## Cosa NON dice il testo
 
@@ -27,4 +30,6 @@ La mail con cui Tom scrive a elab@meridian.com dicendo di aver trovato l'indiriz
 
 1. `e10-0a` (cap. 10, la sera del giorno del cap. 9) — [Tom scrive a elab@meridian.com](../eventi/e10-0a.md)
 1. `e10-02` (cap. 10, la stessa mattina) — [Emma legge la mail di Tom e capisce che mente](../eventi/e10-02.md)
+1. `e12-02` (cap. 12, la stessa mattina) — [Emma scopre che il tecnico del televisore Voss era Tom](../eventi/e12-02.md)
+1. `e12-03` (cap. 12, la stessa mattina) — [Due ipotesi - un investigatore con la casella di Tom, o Tom che indaga](../eventi/e12-03.md)
 

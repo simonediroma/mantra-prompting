@@ -1,16 +1,18 @@
 id: risposta-di-emma
 nome: La risposta di Emma (16:59)
-capitoli: [10, 11]
+capitoli: [10, 11, 12]
 sintesi: "La mail con cui Emma risponde a Tom, in registro asciutto e professionale."
 caratteristiche:
   - {testo: "Inviata alle sedici e cinquantanove, giusto prima della fine del turno", fonte: "c10:27"}
   - {testo: "Emma «decise cosa far sapere a Tom»", fonte: "c10:27"}
   - {testo: "Registro: quello che userebbe «con un fornitore sorpreso a falsificare una fattura»", fonte: "c10:25"}
   - {testo: "Inviata «poco prima della fine del suo turno»: Tom non può rispondere finché non torna in servizio", fonte: "c11:11"}
+  - {testo: "Contenuto, per come lo ricorda Emma: ha risposto «in poche ore, smontandola riga per riga»", fonte: "c12:25"}
 non_detto:
-  - {testo: "Il testo della risposta non è riportato nel cap. 10."}
+  - {testo: "Il testo letterale della risposta non è riportato nei cap. 10-12."}
 stato:
   - {cap: 11, testo: "Senza risposta per tutto il giorno successivo", fonte: "c11:37"}
+  - {cap: 12, testo: "Ancora senza risposta: «da allora Tom non aveva più scritto»", fonte: "c12:25"}
 relazioni:
   - {verso: mail-bluff-di-tom, tipo: "risponde a", fonte: "c10:27"}
   - {verso: tom, tipo: "indirizzata a", fonte: "c10:27"}

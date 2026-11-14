@@ -1,10 +1,11 @@
 id: audiofili-scandinavi
 nome: Audiofili scandinavi
-capitoli: [1, 7]
+capitoli: [1, 7, 12]
 sintesi: "Gruppo di follower di Tom, innamorati del suo progetto sul giradischi. Tom passa ore a rispondergli nel tempo libero."
 caratteristiche:
   - {testo: "«Suoi fedeli follower»", fonte: "c1:15"}
   - {testo: "Tom continua a parlare con loro del progetto anche dopo aver smesso di ascoltare musica", fonte: "c7:9"}
+  - {testo: "Sul forum del progetto: «un gruppo di audiofili, quasi tutti scandinavi»; discutono di pesi, curve di correzione, distanze tra le casse", fonte: "c12:35"}
 relazioni:
   - {verso: giradischi-di-tom, tipo: "seguono il progetto", fonte: "c1:15"}
 

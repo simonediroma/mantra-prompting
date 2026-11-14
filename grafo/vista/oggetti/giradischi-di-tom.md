@@ -1,6 +1,6 @@
 # Giradischi di Tom
 
-`giradischi-di-tom` · oggetto · capitoli: 1, 7, 8
+`giradischi-di-tom` · oggetto · capitoli: 1, 7, 8, 12
 
 L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un modellino IA, a correggere l'equalizzazione in tempo reale.
 
@@ -14,6 +14,7 @@ L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un model
 - Comando vocale: «Calibra l'audio, sono qui.» Il sistema ottimizza l'equalizzazione sulla posizione di Tom *(cap. 7 r. 9)*
 - Costruito con l'aiuto di un assistente IA *(cap. 7 r. 17)*
 - Spento da Tom prima di andare a dormire *(cap. 8 r. 21)*
+- È un progetto open source, con un sito e un forum attivi da anni *(cap. 12 r. 33-35)*
 
 ## Punti aperti / da verificare
 
@@ -26,6 +27,7 @@ L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un model
 - ← [Tom](../personaggi/tom.md) ha costruito questa scheda *(cap. 1 r. 15)*
 - ← [L'assistente IA di Tom](../oggetti/assistente-ia-di-tom.md) usato per costruire questa scheda *(cap. 7 r. 17)*
 - ← [Il disco «Tango» dei Matia Bazar](../oggetti/disco-tango.md) suonato su questa scheda *(cap. 7 r. 9)*
+- ← [Il sito e il forum del progetto del giradischi](../oggetti/sito-del-giradischi.md) documenta questa scheda *(cap. 12 r. 33)*
 - ← [Casa di Tom](../luoghi/casa-di-tom.md) custodisce questa scheda
 
 ## Catena degli eventi
@@ -33,4 +35,5 @@ L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un model
 1. `e01-04` (cap. 1, trenta secondi dopo lo spegnimento del LED) — [Tom apre il log del primo televisore](../eventi/e01-04.md)
 1. `e07-01` (cap. 7, la stessa sera del cap. 6) — [Tom mette «Tango» sul giradischi](../eventi/e07-01.md)
 1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
+1. `e12-04` (cap. 12, la stessa mattina) — [Emma ricostruisce chi è Tom - organigramma, LinkedIn, forum](../eventi/e12-04.md)
 

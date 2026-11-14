@@ -1,6 +1,6 @@
 # Signora Voss
 
-`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7
+`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7, 12
 
 Alias: la signora del televisore, cliente del secondo televisore
 
@@ -30,6 +30,8 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - Ha un fratello e un «erede designato» *(cap. 6 r. 21, cap. 6 r. 31)*
 - Riguardava il video di yoga «in loop come un mantra» *(cap. 6 r. 33)*
 - Per Tom è «una donna sulla cinquantina», come lascia intuire la foto nel post del fratello *(cap. 7 r. 17)*
+- Ricordata dai parenti su un piccolo giornale locale come «un'amante dell'attività fisica praticata in casa, morta mentre portava avanti la sua passione» *(cap. 12 r. 17)*
+- Il suo caso era già nell'archivio di Emma: log interrotti da un giorno all'altro, hard reset poco dopo, una cliente che descrive un rifiuto *(cap. 12 r. 15)*
 
 ## Cosa NON dice il testo
 
@@ -51,6 +53,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - **Cap. 4** — Al telefono con Tom: viva, loquace, promette il video *(cap. 4 r. 47)*
 - **Cap. 5** — Il mattino di due giorni dopo il reset non risponde a due chiamate di Tom; nessuna segreteria *(cap. 5 r. 37-39)*
 - **Cap. 6** — Morta. Nel registro: prima il rifiuto del ritiro, pochi giorni dopo la causale «decesso cliente» *(cap. 6 r. 19-21)*
+- **Cap. 12** — Morta «da poco»; articolo commemorativo pubblicato il giorno prima *(cap. 12 r. 13)*
 
 ## Relazioni
 
@@ -62,7 +65,9 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - → crede sia del controllo qualità [Tom](../personaggi/tom.md) *(cap. 4 r. 19)*
 - → sorella di [Fratello della signora Voss](../personaggi/fratello-della-voss.md) *(cap. 6 r. 31)*
 - → indossa [eWatch](../oggetti/ewatch.md) *(cap. 6 r. 31)*
+- ← [Emma](../personaggi/emma.md) ha in archivio il caso di questa scheda *(cap. 12 r. 15)*
 - ← [Tom](../personaggi/tom.md) telefona a questa scheda — sotto copertura *(cap. 4 r. 19)*
+- ← [L'articolo commemorativo sulla signora Voss](../oggetti/articolo-commemorativo-voss.md) ricorda questa scheda *(cap. 12 r. 13)*
 - ← [Post del fratello (con la foto della signora Voss)](../oggetti/post-del-fratello.md) annuncia la morte di questa scheda *(cap. 6 r. 31)*
 - ← [Tappetino da yoga della signora Voss](../oggetti/tappetino-da-yoga.md) appartiene a questa scheda
 - ← [Casa della signora Voss](../luoghi/casa-della-voss.md) abitazione di questa scheda
@@ -84,4 +89,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 1. `e06-04` (cap. 6, la sera dello stesso giorno) — [Tom trova il post del fratello - il cuore, durante lo yoga](../eventi/e06-04.md)
 1. `e07-02` (cap. 7, la stessa sera) — [Tom filtra i risultati e fa ordinare i video all'assistente IA](../eventi/e07-02.md)
 1. `e09-04` (cap. 9, subito dopo) — [Tom riconosce il nome Elab](../eventi/e09-04.md)
+1. `e12-0a` (cap. 12, il giorno prima del cap. 12) — [I parenti pubblicano l'articolo commemorativo](../eventi/e12-0a.md)
+1. `e12-01` (cap. 12, il mattino, tre giorni dopo la mail di Tom) — [La pipeline media intercetta l'articolo - Emma riconosce il nome Voss](../eventi/e12-01.md)
+1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
 

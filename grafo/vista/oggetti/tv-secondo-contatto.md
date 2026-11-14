@@ -1,6 +1,6 @@
 # Televisore del secondo contatto
 
-`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6
+`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6, 12
 
 Alias: il secondo televisore, quinta voce del quaderno, il televisore della signora Voss
 
@@ -26,6 +26,8 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - Per Tom: libero arbitrio orientato alla protezione, non alla ribellione né alla minaccia *(cap. 5 r. 25)*
 - Tom ne ricorda a memoria il numero di serie: coincide con quello stampato sul retro *(cap. 6 r. 9-11)*
 - Per Tom, dopo l'hard reset è «un disco appena formattato»: ciò che aveva risposto l'ha cancellato lui *(cap. 6 r. 25)*
+- Nell'archivio di Emma: data, modello, comportamento anomalo riportato dalla cliente; «log interrotti da un giorno all'altro» *(cap. 12 r. 15, cap. 12 r. 19)*
+- Sulla lista dell'assistenza è identificato da un «numero di matricola», con il nome del tecnico: Tom *(cap. 12 r. 21)*
 
 ## Cosa NON dice il testo
 
@@ -38,6 +40,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - La signora aspetta la restituzione «da giorni» (c4 r. 21), ma il televisore è arrivato sul banco di Tom solo il giorno prima: i giorni sono quelli tra negozio e laboratorio, mai quantificati.
 - Domanda che il testo stesso lascia aperta: «Come facesse un televisore a sapere qualcosa del cuore di una donna» (c5 r. 27).
 - Nella foto «di qualche anno prima» il televisore è già nel salotto (c6 r. 31): l'apparecchio ha quindi qualche anno, se è lo stesso.
+- «Numero di serie» nel cap. 6 (r. 9), «numero di matricola» nel cap. 12 (r. 21): stesso dato, due nomi.
 
 ## Stato capitolo per capitolo
 
@@ -57,6 +60,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - → spiegato da [Perché il LED - l'ipotesi del circuito di standby](../concetti/ipotesi-canale-standby.md) *(cap. 5 r. 27)*
 - → sottoposto a [Ricondizionamento (giacenza, rimborso, scorciatoia)](../termini/ricondizionamento.md) *(cap. 6 r. 25)*
 - ← [Signora Voss](../personaggi/signora-voss.md) proprietario di questa scheda *(cap. 3 r. 17)*
+- ← [L'articolo commemorativo sulla signora Voss](../oggetti/articolo-commemorativo-voss.md) mostra questa scheda *(cap. 12 r. 13)*
 - ← [La prima mail di Tom a Elab (il bluff)](../oggetti/mail-bluff-di-tom.md) allude a questa scheda — «un televisore», non specificato *(cap. 10 r. 19)*
 - ← [Post del fratello (con la foto della signora Voss)](../oggetti/post-del-fratello.md) mostra questa scheda *(cap. 6 r. 31)*
 - ← [Quaderno nero](../oggetti/quaderno-nero.md) registra (voce 5) questa scheda *(cap. 3 r. 37)*
@@ -78,4 +82,6 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 1. `e06-02` (cap. 6, stesso turno) — [Tom legge nel registro il rifiuto e il decesso](../eventi/e06-02.md)
 1. `e06-03` (cap. 6, stesso turno, entro la fine) — [Tom rinuncia a interrogare il televisore e lo ricondiziona](../eventi/e06-03.md)
 1. `e09-04` (cap. 9, subito dopo) — [Tom riconosce il nome Elab](../eventi/e09-04.md)
+1. `e12-01` (cap. 12, il mattino, tre giorni dopo la mail di Tom) — [La pipeline media intercetta l'articolo - Emma riconosce il nome Voss](../eventi/e12-01.md)
+1. `e12-02` (cap. 12, la stessa mattina) — [Emma scopre che il tecnico del televisore Voss era Tom](../eventi/e12-02.md)
 

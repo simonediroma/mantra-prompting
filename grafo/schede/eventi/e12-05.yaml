@@ -1,0 +1,11 @@
+id: e12-05
+nome: Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv
+capitolo: 12
+ordine: 12.5
+quando: "la stessa mattina"
+dove: stanza-di-emma
+dopo: [e12-04]
+coinvolti: [emma, tom, canale-etv, signora-voss, video-yoga]
+sintesi: "Che Tom sia solo un tecnico non può dirlo. Prima però vuole sapere se la signora Voss guardasse i video di yoga di eTv."
+fatti:
+  - {testo: "La decisione", fonte: "c12:39"}

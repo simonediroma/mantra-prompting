@@ -1,6 +1,6 @@
 # L'archivio delle anomalie di Emma
 
-`archivio-di-emma` · oggetto · capitoli: 11
+`archivio-di-emma` · oggetto · capitoli: 11, 12
 
 L'archivio privato in cui Emma registra i dispositivi con IA che i clienti segnalano come anomali senza che l'assistenza trovi guasti.
 
@@ -10,6 +10,11 @@ L'archivio privato in cui Emma registra i dispositivi con IA che i clienti segna
 - Primo caso: circa un anno prima; da allora le righe non hanno mai smesso di aumentare *(cap. 11 r. 35)*
 - Emma aggiunge una colonna chip / senza chip e riordina per mese: senza chip i numeri restano stabili, con chip crescono mese dopo mese «con una regolarità che non aveva nulla di casuale» *(cap. 11 r. 35)*
 - Voce del frigorifero: tutte le informazioni più «riconsegnato dopo hard reset» *(cap. 11 r. 31)*
+- Contiene il caso Voss: data, modello, descrizione del comportamento anomalo. Non contiene i nomi dei tecnici *(cap. 12 r. 19)*
+
+## Cosa NON dice il testo
+
+- Se contenga anche il caso zero di Tom (il primo televisore) non è detto.
 
 ## Punti aperti / da verificare
 
@@ -25,4 +30,6 @@ L'archivio privato in cui Emma registra i dispositivi con IA che i clienti segna
 ## Catena degli eventi
 
 1. `e11-05` (cap. 11, il pomeriggio) — [Emma aggiorna l'archivio delle anomalie - il frigorifero, gli smoothie](../eventi/e11-05.md)
+1. `e12-01` (cap. 12, il mattino, tre giorni dopo la mail di Tom) — [La pipeline media intercetta l'articolo - Emma riconosce il nome Voss](../eventi/e12-01.md)
+1. `e12-02` (cap. 12, la stessa mattina) — [Emma scopre che il tecnico del televisore Voss era Tom](../eventi/e12-02.md)
 

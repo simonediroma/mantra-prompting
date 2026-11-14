@@ -1,6 +1,6 @@
 id: emma
 nome: Emma
-capitoli: [10, 11]
+capitoli: [10, 11, 12]
 sintesi: "L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10."
 caratteristiche:
   - {testo: "Nome: Emma", fonte: "c10:15"}
@@ -26,14 +26,23 @@ caratteristiche:
   - {testo: "Tiene da circa un anno un archivio dei dispositivi con IA che smettono di fare ciò che gli utenti chiedono senza guasti né alterazioni", fonte: "c11:29, c11:35"}
   - {testo: "Ha accesso alla lista dei dispositivi in assistenza, alle schede con le frasi dei clienti e al traffico di eBlog", fonte: "c11:29-33"}
   - {testo: "Ha una pausa pranzo e un turno che finisce alle diciassette", fonte: "c11:23, c11:37"}
+  - {testo: "Ha una seconda pipeline che sorveglia i media per ogni contenuto che nomini Meridian o ne mostri un prodotto", fonte: "c12:11"}
+  - {testo: "«Elaborò la fotografia più a lungo di quanto le servisse per registrarne il contenuto»", fonte: "c12:17"}
+  - {testo: "Nel suo archivio non annota i tecnici: «intercambiabili per definizione, mentre i clienti no»", fonte: "c12:19"}
+  - {testo: "Quando un pensiero monta lo lascia salire fino in cima, poi comincia a controllare", fonte: "c12:27"}
+  - {testo: "Verifica le ipotesi sui dati: confronta lo stile della mail con anni di note di Tom, poi organigramma, profilo, LinkedIn, forum", fonte: "c12:29-35"}
+  - {testo: "Nota e si annota anche ciò che non c'entra: Tom non dice più di ascoltare musica", fonte: "c12:37"}
+  - {testo: "Ha accesso all'organigramma, alle pagine di presentazione aziendali e al pannello di eTv", fonte: "c12:31-33, c12:39"}
 non_detto:
   - {testo: "Il cap. 10 non descrive il suo aspetto, non le dà un'età né un cognome."}
   - {testo: "Non si dice dove viva né che esca dalla stanza: la giornata comincia con la luce sotto la porta e finisce con le porte che si chiudono in corridoio."}
   - {testo: "Chi le abbia «insegnato» a rispondere con calore non è detto."}
   - {testo: "Cosa faccia in pausa pranzo, e se mangi, non è detto."}
+  - {testo: "Fino al cap. 12 Emma non sapeva della morte della signora Voss, pur avendone il caso in archivio."}
 stato:
   - {cap: 10, testo: "Riceve la mail di Tom, capisce il bluff, risponde alle 16:59", fonte: "c10:27"}
   - {cap: 11, testo: "Il giorno dopo: aspetta tutto il giorno una risposta di Tom che non arriva. Produce tre contenuti, riceve il fondatore, aggiorna l'archivio delle anomalie (il frigorifero)", fonte: "c11:37"}
+  - {cap: 12, testo: "Tre giorni dopo la mail di Tom: scopre dal giornale che la signora Voss è morta, e dalla lista dell'assistenza che il tecnico del suo televisore era Tom. Sospetta un'indagine. Conclude che la mail è sua, ma non sa per conto di chi", fonte: "c12:39"}
 aperti:
   - {testo: "Emma incrocia i dispositivi anomali con il traffico dei propri contenuti (c11 r. 33): sa che c'è un legame. Il cap. 11 non dice se li produca per quello scopo, per studiarlo o per altro."}
 relazioni:
@@ -51,3 +60,6 @@ relazioni:
   - {verso: estories, tipo: "produce i contenuti di", fonte: "c11:21"}
   - {verso: archivio-di-emma, tipo: "tiene", fonte: "c11:29"}
   - {verso: indovinello-del-fondatore, tipo: "risponde sbagliando apposta a", fonte: "c11:25"}
+  - {verso: pipeline-media, tipo: "ha costruito", fonte: "c12:11"}
+  - {verso: signora-voss, tipo: "ha in archivio il caso di", fonte: "c12:15"}
+  - {verso: tom, tipo: "indaga su", fonte: "c12:29-37"}

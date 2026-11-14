@@ -64,4 +64,5 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 1. `e09-01` (cap. 9, il mattino dopo, un'ora prima della sveglia solita, ancora buio) — [Hive dà il video per reale](../eventi/e09-01.md)
 1. `e09-02` (cap. 9, la stessa mattina, prima di uscire) — [Tom trascrive il parlato - due rilevatori su tre lo danno per generato](../eventi/e09-02.md)
 1. `e09-03` (cap. 9, lo stesso giorno, ultima ora di turno) — [Tom cerca il testo nell'archivio interno - corrispondenza trovata](../eventi/e09-03.md)
+1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
 

@@ -1,0 +1,15 @@
+id: e12-04
+nome: Emma ricostruisce chi è Tom - organigramma, LinkedIn, forum
+capitolo: 12
+ordine: 12.4
+quando: "la stessa mattina"
+dove: stanza-di-emma
+dopo: [e12-03]
+coinvolti: [emma, tom, organigramma, sito-del-giradischi, giradischi-di-tom, audiofili-scandinavi]
+sintesi: "Dodici anni nello stesso ruolo; un progetto open source; anni di forum notturno. Tom è un tecnico vero e uno che non smette di smontare. Emma nota che non dice più di ascoltare musica."
+fatti:
+  - {testo: "L'organigramma", fonte: "c12:31"}
+  - {testo: "Pagina aziendale e LinkedIn", fonte: "c12:33"}
+  - {testo: "Il forum", fonte: "c12:35"}
+  - {testo: "La musica", fonte: "c12:37"}
+

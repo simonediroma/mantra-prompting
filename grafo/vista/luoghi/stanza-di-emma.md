@@ -36,4 +36,9 @@ La stanza in cui Emma lavora da sola.
 1. `e11-04` (cap. 11, poco dopo mezzogiorno) — [La visita del fondatore - l'indovinello, il foglio stampato](../eventi/e11-04.md)
 1. `e11-05` (cap. 11, il pomeriggio) — [Emma aggiorna l'archivio delle anomalie - il frigorifero, gli smoothie](../eventi/e11-05.md)
 1. `e11-06` (cap. 11, fine turno, 17:00) — [Alle diciassette Emma chiude l'inbox, vuota](../eventi/e11-06.md)
+1. `e12-01` (cap. 12, il mattino, tre giorni dopo la mail di Tom) — [La pipeline media intercetta l'articolo - Emma riconosce il nome Voss](../eventi/e12-01.md)
+1. `e12-02` (cap. 12, la stessa mattina) — [Emma scopre che il tecnico del televisore Voss era Tom](../eventi/e12-02.md)
+1. `e12-03` (cap. 12, la stessa mattina) — [Due ipotesi - un investigatore con la casella di Tom, o Tom che indaga](../eventi/e12-03.md)
+1. `e12-04` (cap. 12, la stessa mattina) — [Emma ricostruisce chi è Tom - organigramma, LinkedIn, forum](../eventi/e12-04.md)
+1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
 

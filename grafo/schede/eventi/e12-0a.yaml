@@ -1,0 +1,12 @@
+id: e12-0a
+nome: I parenti pubblicano l'articolo commemorativo
+capitolo: 12
+ordine: 11.9
+quando: "il giorno prima del cap. 12"
+in_scena: false
+dopo: [e06-0c]
+coinvolti: [articolo-commemorativo-voss, signora-voss]
+sintesi: "Un piccolo giornale locale pubblica il ricordo della signora Voss con la foto nel salotto."
+fatti:
+  - {testo: "La pubblicazione", fonte: "c12:13"}
+

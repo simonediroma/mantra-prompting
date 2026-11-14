@@ -1,0 +1,14 @@
+id: e12-01
+nome: La pipeline media intercetta l'articolo - Emma riconosce il nome Voss
+capitolo: 12
+ordine: 12.1
+quando: "il mattino, tre giorni dopo la mail di Tom"
+dove: stanza-di-emma
+dopo: [e12-0a, e11-06]
+coinvolti: [emma, pipeline-media, articolo-commemorativo-voss, signora-voss, archivio-di-emma, tv-secondo-contatto, ewatch, tappetino-da-yoga]
+sintesi: "Il caso Voss è già nel suo archivio. Emma fissa il televisore nella foto, poi le torna in mente la mail di Tom."
+fatti:
+  - {testo: "L'articolo e la foto", fonte: "c12:11-13"}
+  - {testo: "Il riconoscimento", fonte: "c12:15"}
+  - {testo: "Il pensiero della mail", fonte: "c12:17"}
+
