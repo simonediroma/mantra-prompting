@@ -1,6 +1,6 @@
 id: tom
 nome: Tom
-capitoli: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+capitoli: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 sintesi: "Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3."
 caratteristiche:
   - {testo: "53 anni", fonte: "c1:11"}
@@ -61,6 +61,15 @@ caratteristiche:
   - {testo: "Per Emma: un tecnico vero, che davanti a un apparecchio strano «non avrebbe smesso di smontarlo finché non avesse capito»", fonte: "c12:35"}
   - {testo: "Per Emma è l'unico ancora vivo ad aver avuto davanti il televisore Voss dopo che aveva smesso di obbedire: prima dell'hard reset e dopo la morte", fonte: "c13:41, c13:43"}
   - {testo: "Ha scritto a Elab il giorno dopo aver ricondizionato il televisore e letto la pratica: sapeva già della morte", fonte: "c13:43"}
+  - {testo: "Dai quarantuno anni segue il digiuno intermittente: a mezzogiorno non mangia. In dodici anni non ha mai messo piede in mensa", fonte: "c14:35"}
+  - {testo: "È solo «da molto tempo»: almeno da quando il nastro ha chiuso ogni tecnico in una stanza singola, forse da prima. Ci ha fatto l'abitudine «come al ronzio di un frigorifero»", fonte: "c14:27"}
+  - {testo: "Il suo desiderio: aprire il coperchio davanti a qualcuno che ne capisce e dire «guarda qui». Non avere ragione né arrivare primo", fonte: "c14:27"}
+  - {testo: "A ogni apparecchio fa una domanda, per abitudine: all'aspirapolvere se è stanco, al microonde se lo fa apposta, al tostapane se ha qualcosa da dirgli", fonte: "c14:11, c14:29, c14:41"}
+  - {testo: "Legge la prima risposta di Emma in piedi, col cappuccio della felpa già tirato su, e resta così finché il corridoio non si svuota", fonte: "c14:19"}
+  - {testo: "Scrive le mail come schede: toglie un aggettivo a ogni rilettura finché restano solo i fatti", fonte: "c14:37"}
+  - {testo: "Con Emma inverte il suo metodo: non domandare e osservare, ma rispondere e vedere cosa lei chiede dopo", fonte: "c14:37"}
+  - {testo: "La telefonata alla signora Voss è «l'unico momento in cui l'aveva sentita viva»: è ciò che gli costa di più tacere", fonte: "c14:33"}
+  - {testo: "Sente di «doverla conoscere», «come si sa una cosa già vista da qualche parte senza ricordare dove»", fonte: "c14:43"}
 stato:
   - {cap: 1, testo: "Scopre che un televisore risponde in Morse; perde tempo oltre il limite; prende tempo etichettando l'unità come anomalia", fonte: "c1:97"}
   - {cap: 2, testo: "Richiamo formale e trattenuta di 47 minuti; perde il televisore; decide di tenere lui il cronometro e un archivio privato", fonte: "c2:45"}
@@ -75,11 +84,13 @@ stato:
   - {cap: 11, testo: "Fuori scena: per tutta la giornata non risponde alla mail di Emma", fonte: "c11:37"}
   - {cap: 12, testo: "Fuori scena: non ha ancora risposto a Emma, tre giorni dopo la sua mail", fonte: "c12:25"}
   - {cap: 13, testo: "Fuori scena. Per Emma: «Forse non mi sta dando la caccia. Forse sta cercando anche lui di sapere cosa sia successo.»", fonte: "c13:41"}
+  - {cap: 14, testo: "Dopo due giorni di silenzio riceve le scuse di Emma durante un intervento: per la prima volta chiude sull'ultimo secondo, senza margine. In pausa pranzo scrive una risposta di soli fatti, tacendo Morse, quaderno, video e telefonata; la invia quando il nastro riparte. La sera non scrive nulla sul quaderno", fonte: "c14:29, c14:39, c14:45"}
 aperti:
   - {testo: "Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi."}
   - {testo: "Nel cap. 9 Tom evita ogni traccia nell'archivio; la sera stessa manda da un indirizzo Meridian riconoscibile una mail con una bugia tecnica verificabile (c10 r. 17-21). Il testo non mostra come sia arrivato a questa scelta: il cap. 10 è dal punto di vista di Emma."}
+  - {testo: "Sgabello: Tom li «disprezza apertamente» (c1 r. 13) e lavora in piedi «perché gli sgabelli restavano quello che erano» (c3 r. 21), ma nel cap. 14 «girò lo sgabello verso il computer» due volte (r. 15, r. 41)."}
+  - {testo: "«Nove apparecchi su dieci non avevano niente da dire» (c14 r. 11): alla lettera uno su dieci risponde, mentre in quattro mesi hanno risposto due televisori in tutto."}
 non_detto:
-  - {testo: "Perché Tom non risponda per un giorno intero: il cap. 11, dal punto di vista di Emma, non lo sa."}
 relazioni:
   - {verso: meridian, tipo: "lavora per", fonte: "c1:17"}
   - {verso: divisione-assistenza-tecnica, tipo: "tecnico della", fonte: "c2:23"}
@@ -109,3 +120,5 @@ relazioni:
   - {verso: emma, tipo: "scrive a", nota: "senza sapere chi leggerà", fonte: "c10:19"}
   - {verso: mail-bluff-di-tom, tipo: "ha scritto", fonte: "c10:19"}
   - {verso: sito-del-giradischi, tipo: "gestisce", fonte: "c12:33"}
+  - {verso: risposta-di-tom, tipo: "ha scritto", fonte: "c14:37"}
+  - {verso: digiuno-intermittente, tipo: "pratica", fonte: "c14:35"}

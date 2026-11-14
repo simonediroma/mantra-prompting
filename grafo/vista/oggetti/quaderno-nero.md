@@ -1,6 +1,6 @@
 # Quaderno nero
 
-`quaderno-nero` · oggetto · capitoli: 2, 3, 4, 5, 6
+`quaderno-nero` · oggetto · capitoli: 2, 3, 4, 5, 6, 14
 
 Alias: l'archivio di Tom
 
@@ -23,6 +23,8 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 - Tom annota (e ricorda a memoria) anche i numeri di serie *(cap. 6 r. 9)*
 - Ha una «colonna dei dati del proprietario»: per la Voss aggiunge l'eWatch al polso nella foto, «un apparecchio Meridian nella stessa casa» *(cap. 6 r. 37)*
 - Sotto la voce Voss: «causa confermata. Vedi video: perché quello, non un altro.» *(cap. 6 r. 37)*
+- Ha colonne; «non rispondeva»: è l'unico a cui Tom ha mostrato ciò che ha visto *(cap. 14 r. 27, cap. 14 r. 43)*
+- La sera del cap. 14 Tom lo apre e lo richiude senza scrivere: solo guasti veri *(cap. 14 r. 45)*
 
 ## Punti aperti / da verificare
 
@@ -49,4 +51,6 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 1. `e04-04` (cap. 4, durante la telefonata) — [«Ho un video, sa?» - la signora lo manderà su WhatsApp](../eventi/e04-04.md)
 1. `e05-04` (cap. 5, mercoledì, tarda sera (verso le undici)) — [Perché il Morse; Tom decide di richiamare al mattino e annota il quaderno](../eventi/e05-04.md)
 1. `e06-05` (cap. 6, la stessa sera) — [Tom decide di cercare il video di yoga](../eventi/e06-05.md)
+1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
+1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
 

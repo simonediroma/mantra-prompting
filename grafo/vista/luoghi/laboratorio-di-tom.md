@@ -1,6 +1,6 @@
 # Laboratorio di Tom
 
-`laboratorio-di-tom` · luogo · capitoli: 1, 2, 3, 6, 9
+`laboratorio-di-tom` · luogo · capitoli: 1, 2, 3, 6, 9, 14
 
 Alias: la stanza di Tom
 
@@ -19,6 +19,7 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 - Il terminale del turno si sente dal corridoio prima di aprire la porta *(cap. 2 r. 9)*
 - Il carrello del ricondizionamento entra dalla porta *(cap. 6 r. 9)*
 - Nell'ultima ora di turno il corridoio si svuota; il neon sopra il banco resta l'unico acceso in quell'ala; porta a doppia mandata *(cap. 9 r. 25)*
+- C'è uno sgabello girevole tra banco e computer; un panno per gli attrezzi *(cap. 14 r. 15)*
 
 ## Punti aperti / da verificare
 
@@ -54,4 +55,11 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 1. `e06-03` (cap. 6, stesso turno, entro la fine) — [Tom rinuncia a interrogare il televisore e lo ricondiziona](../eventi/e06-03.md)
 1. `e09-03` (cap. 9, lo stesso giorno, ultima ora di turno) — [Tom cerca il testo nell'archivio interno - corrispondenza trovata](../eventi/e09-03.md)
 1. `e09-04` (cap. 9, subito dopo) — [Tom riconosce il nome Elab](../eventi/e09-04.md)
+1. `e14-0a` (cap. 14, fine turno del giorno del cap. 10; poi le due mattine successive) — [Tom legge la prima risposta di Emma e tace per due giorni](../eventi/e14-0a.md)
+1. `e14-01` (cap. 14, stesso giorno dei cap. 12-13, turno del mattino, dopo le dieci e mezza) — [Le scuse di Emma arrivano sull'eWatch a metà intervento](../eventi/e14-01.md)
+1. `e14-02` (cap. 14, nei quasi cinque minuti rimasti dello slot) — [Tom legge le scuse - non è più solo; il margine dei 47 secondi salta](../eventi/e14-02.md)
+1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
+1. `e14-04` (cap. 14, pausa pranzo) — [In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti](../eventi/e14-04.md)
+1. `e14-05` (cap. 14, fine della pausa pranzo) — [Tom invia quando il nastro riparte](../eventi/e14-05.md)
+1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
 

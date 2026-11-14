@@ -1,6 +1,6 @@
 id: risposta-di-emma
 nome: La risposta di Emma (16:59)
-capitoli: [10, 11, 12, 13]
+capitoli: [10, 11, 12, 13, 14]
 sintesi: "La mail con cui Emma risponde a Tom, in registro asciutto e professionale."
 caratteristiche:
   - {testo: "Inviata alle sedici e cinquantanove, giusto prima della fine del turno", fonte: "c10:27"}
@@ -9,11 +9,15 @@ caratteristiche:
   - {testo: "Inviata «poco prima della fine del suo turno»: Tom non può rispondere finché non torna in servizio", fonte: "c11:11"}
   - {testo: "Contenuto, per come lo ricorda Emma: ha risposto «in poche ore, smontandola riga per riga»", fonte: "c12:25"}
   - {testo: "«Gli aveva chiuso la porta in poche ore, con il tono di un ufficio reclami»", fonte: "c13:43"}
+  - {testo: "Testo: «Buongiorno Tom. Nessun dispositivo, compresi quelli con IA integrata, registra indirizzi di posta nei propri log di sistema. Se ha domande su un televisore, la invito a formularle per quello che sono. Cordiali saluti, Emma.»", fonte: "c14:21"}
+  - {testo: "Tom la riceve a fine turno, «due giorni prima» del cap. 14; nei due giorni seguenti apre la casella a inizio turno e la richiude senza scrivere", fonte: "c14:19, c14:23"}
 non_detto:
-  - {testo: "Il testo letterale della risposta non è riportato nei cap. 10-12."}
 stato:
   - {cap: 11, testo: "Senza risposta per tutto il giorno successivo", fonte: "c11:37"}
   - {cap: 12, testo: "Ancora senza risposta: «da allora Tom non aveva più scritto»", fonte: "c12:25"}
+aperti:
+  - {testo: "Emma ricorda di averla smontata «riga per riga» (c12 r. 25); per Tom il bluff è smontato «in una riga» (c14 r. 23). Il testo della mail (c14 r. 21) è di tre frasi."}
+  - {testo: "Emma pensava che Tom non potesse leggerla prima del mattino dopo (c11 r. 11); Tom la legge subito, a fine turno (c14 r. 19)."}
 relazioni:
   - {verso: mail-bluff-di-tom, tipo: "risponde a", fonte: "c10:27"}
   - {verso: tom, tipo: "indirizzata a", fonte: "c10:27"}

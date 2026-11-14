@@ -44,7 +44,8 @@
     10,
     11,
     12,
-    13
+    13,
+    14
    ]
   },
   {
@@ -87,7 +88,8 @@
    "capitoli": [
     2,
     4,
-    5
+    5,
+    14
    ]
   },
   {
@@ -113,7 +115,8 @@
     6,
     7,
     12,
-    13
+    13,
+    14
    ]
   },
   {
@@ -141,7 +144,8 @@
     10,
     11,
     12,
-    13
+    13,
+    14
    ]
   },
   {
@@ -169,7 +173,8 @@
    "nome": "Elab",
    "capitoli": [
     9,
-    10
+    10,
+    14
    ]
   },
   {
@@ -191,6 +196,14 @@
    "nome": "Ufficio HR",
    "capitoli": [
     2
+   ]
+  },
+  {
+   "id": "apparecchi-ordinari",
+   "tipo": "oggetto",
+   "nome": "Gli apparecchi ordinari del cap. 14",
+   "capitoli": [
+    14
    ]
   },
   {
@@ -240,7 +253,8 @@
     10,
     11,
     12,
-    13
+    13,
+    14
    ]
   },
   {
@@ -354,7 +368,8 @@
    "capitoli": [
     3,
     6,
-    12
+    12,
+    14
    ]
   },
   {
@@ -402,7 +417,8 @@
    "capitoli": [
     9,
     10,
-    11
+    11,
+    14
    ]
   },
   {
@@ -457,7 +473,8 @@
    "tipo": "oggetto",
    "nome": "La seconda mail di Emma (le scuse)",
    "capitoli": [
-    13
+    13,
+    14
    ]
   },
   {
@@ -466,7 +483,8 @@
    "nome": "Nastro",
    "capitoli": [
     2,
-    3
+    3,
+    14
    ]
   },
   {
@@ -529,7 +547,8 @@
     3,
     4,
     5,
-    6
+    6,
+    14
    ]
   },
   {
@@ -547,7 +566,8 @@
    "capitoli": [
     2,
     6,
-    13
+    13,
+    14
    ]
   },
   {
@@ -566,7 +586,16 @@
     10,
     11,
     12,
-    13
+    13,
+    14
+   ]
+  },
+  {
+   "id": "risposta-di-tom",
+   "tipo": "oggetto",
+   "nome": "La risposta di Tom a Emma (solo fatti)",
+   "capitoli": [
+    14
    ]
   },
   {
@@ -610,7 +639,8 @@
    "tipo": "oggetto",
    "nome": "Terminale del turno",
    "capitoli": [
-    2
+    2,
+    14
    ]
   },
   {
@@ -642,7 +672,8 @@
     5,
     6,
     12,
-    13
+    13,
+    14
    ]
   },
   {
@@ -652,7 +683,8 @@
    "capitoli": [
     4,
     5,
-    6
+    6,
+    14
    ]
   },
   {
@@ -703,7 +735,16 @@
     2,
     3,
     6,
-    9
+    9,
+    14
+   ]
+  },
+  {
+   "id": "mensa",
+   "tipo": "luogo",
+   "nome": "La mensa",
+   "capitoli": [
+    14
    ]
   },
   {
@@ -723,7 +764,8 @@
     1,
     2,
     3,
-    5
+    5,
+    14
    ]
   },
   {
@@ -752,7 +794,8 @@
    "nome": "Limite di 14 minuti per ciclo diagnostico",
    "capitoli": [
     2,
-    3
+    3,
+    14
    ]
   },
   {
@@ -773,6 +816,14 @@
     4,
     5,
     6
+   ]
+  },
+  {
+   "id": "digiuno-intermittente",
+   "tipo": "concetto",
+   "nome": "Il digiuno intermittente di Tom",
+   "capitoli": [
+    14
    ]
   },
   {
@@ -798,7 +849,8 @@
    "nome": "Il 47 (minuti trattenuti, secondi di margine)",
    "capitoli": [
     2,
-    3
+    3,
+    14
    ]
   },
   {
@@ -820,6 +872,15 @@
    ]
   },
   {
+   "id": "regole-sulla-posta",
+   "tipo": "concetto",
+   "nome": "Le regole (scritte e non) su posta e pausa",
+   "capitoli": [
+    13,
+    14
+   ]
+  },
+  {
    "id": "rito-delle-domande",
    "tipo": "concetto",
    "nome": "Il rito delle domande agli apparecchi",
@@ -827,7 +888,8 @@
     1,
     2,
     3,
-    4
+    4,
+    14
    ]
   },
   {
@@ -885,7 +947,8 @@
    "nome": "Turni e fattore turno",
    "capitoli": [
     2,
-    3
+    3,
+    14
    ]
   },
   {
@@ -1547,6 +1610,62 @@
    "capitoli": [
     13
    ]
+  },
+  {
+   "id": "e14-01",
+   "tipo": "evento",
+   "nome": "Le scuse di Emma arrivano sull'eWatch a metà intervento",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-02",
+   "tipo": "evento",
+   "nome": "Tom legge le scuse - non è più solo; il margine dei 47 secondi salta",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-03",
+   "tipo": "evento",
+   "nome": "Tom mette in fila cosa dire e cosa tacere",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-04",
+   "tipo": "evento",
+   "nome": "In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-05",
+   "tipo": "evento",
+   "nome": "Tom invia quando il nastro riparte",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-06",
+   "tipo": "evento",
+   "nome": "Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-0a",
+   "tipo": "evento",
+   "nome": "Tom legge la prima risposta di Emma e tace per due giorni",
+   "capitoli": [
+    14
+   ]
   }
  ],
  "archi": [
@@ -2027,6 +2146,20 @@
    "fonte": "c12:33"
   },
   {
+   "da": "tom",
+   "a": "risposta-di-tom",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c14:37"
+  },
+  {
+   "da": "tom",
+   "a": "digiuno-intermittente",
+   "tipo": "pratica",
+   "nota": "",
+   "fonte": "c14:35"
+  },
+  {
    "da": "coordinamento-assistenza",
    "a": "meridian",
    "tipo": "parte di",
@@ -2102,6 +2235,13 @@
    "tipo": "ha scelto il suono del",
    "nota": "",
    "fonte": "c2:9"
+  },
+  {
+   "da": "apparecchi-ordinari",
+   "a": "rito-delle-domande",
+   "tipo": "sottoposti al",
+   "nota": "",
+   "fonte": "c14:31"
   },
   {
    "da": "archivio-artefatti",
@@ -2496,6 +2636,20 @@
    "fonte": "c10:27"
   },
   {
+   "da": "risposta-di-tom",
+   "a": "mail-di-scuse-di-emma",
+   "tipo": "risponde a",
+   "nota": "",
+   "fonte": "c14:37"
+  },
+  {
+   "da": "risposta-di-tom",
+   "a": "emma",
+   "tipo": "indirizzata a",
+   "nota": "",
+   "fonte": "c14:39"
+  },
+  {
    "da": "sito-del-giradischi",
    "a": "giradischi-di-tom",
    "tipo": "documenta",
@@ -2748,6 +2902,13 @@
    "fonte": "c2:45"
   },
   {
+   "da": "mensa",
+   "a": "sede-assistenza",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c14:35"
+  },
+  {
    "da": "negozio",
    "a": "addetto-negozio",
    "tipo": "luogo di lavoro di",
@@ -2774,6 +2935,13 @@
    "tipo": "applica alle persone il",
    "nota": "",
    "fonte": "c4:13"
+  },
+  {
+   "da": "digiuno-intermittente",
+   "a": "mensa",
+   "tipo": "lo tiene lontano dalla",
+   "nota": "",
+   "fonte": "c14:35"
   },
   {
    "da": "ipotesi-canale-standby",
@@ -6411,6 +6579,412 @@
   {
    "da": "e13-05",
    "a": "e13-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "apparecchi-ordinari",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "mail-di-scuse-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-06",
+   "a": "e14-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-0a",
+   "a": "e14-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "mail-di-scuse-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "margine-47-secondi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "terminale-del-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "e14-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "apparecchi-ordinari",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "e14-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "risposta-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "digiuno-intermittente",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "regole-sulla-posta",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "mensa",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "terminale-del-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "e14-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "risposta-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "e14-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "apparecchi-ordinari",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "casa-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "e14-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-0a",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-0a",
+   "a": "risposta-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-0a",
+   "a": "terminale-del-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-0a",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "e14-0a",
    "tipo": "porta a",
    "nota": "",
    "fonte": ""

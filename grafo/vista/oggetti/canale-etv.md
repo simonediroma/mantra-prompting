@@ -1,6 +1,6 @@
 # Il canale eTv
 
-`canale-etv` · oggetto · capitoli: 7, 8, 9, 10, 11, 12, 13
+`canale-etv` · oggetto · capitoli: 7, 8, 9, 10, 11, 12, 13, 14
 
 Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo.
 
@@ -19,6 +19,7 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 - Tra i suoi video ci sono quelli di yoga, «fatti per essere seguiti in casa, davanti a uno schermo grande» *(cap. 12 r. 23)*
 - Emma ne ha un pannello di controllo *(cap. 12 r. 39)*
 - Il pannello si congratula per «la costanza delle pubblicazioni, che costante non era mai stata» *(cap. 13 r. 11)*
+- Per Tom: un canale senza nome di cui risponde un indirizzo Meridian. Non sa se sia un progetto aziendale o qualcosa che Emma porta avanti da sola *(cap. 14 r. 37)*
 
 ## Cosa NON dice il testo
 
@@ -48,4 +49,5 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 1. `e12-02` (cap. 12, la stessa mattina) — [Emma scopre che il tecnico del televisore Voss era Tom](../eventi/e12-02.md)
 1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
 1. `e13-04` (cap. 13, la stessa mattina) — [Emma decide di non togliere il video](../eventi/e13-04.md)
+1. `e14-04` (cap. 14, pausa pranzo) — [In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti](../eventi/e14-04.md)
 

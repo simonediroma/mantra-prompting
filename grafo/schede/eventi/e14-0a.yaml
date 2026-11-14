@@ -1,0 +1,14 @@
+id: e14-0a
+nome: Tom legge la prima risposta di Emma e tace per due giorni
+capitolo: 14
+ordine: 10.5
+quando: "fine turno del giorno del cap. 10; poi le due mattine successive"
+in_scena: false
+dove: laboratorio-di-tom
+dopo: [e10-03]
+coinvolti: [tom, risposta-di-emma, terminale-del-turno]
+sintesi: "Legge in piedi, col cappuccio alzato, la mail che gli smonta il bluff. Nei due giorni seguenti apre la casella a inizio turno e la richiude: né insistere né confessare."
+fatti:
+  - {testo: "La lettura", fonte: "c14:19-21"}
+  - {testo: "La paralisi", fonte: "c14:23"}
+

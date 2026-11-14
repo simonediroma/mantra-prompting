@@ -1,6 +1,6 @@
 # Il rito delle domande agli apparecchi
 
-`rito-delle-domande` · concetto · capitoli: 1, 2, 3, 4
+`rito-delle-domande` · concetto · capitoli: 1, 2, 3, 4, 14
 
 Tom parla agli apparecchi guasti e tende loro trappole verbali: rito scaramantico e test di Turing improvvisato.
 
@@ -11,10 +11,12 @@ Tom parla agli apparecchi guasti e tende loro trappole verbali: rito scaramantic
 - Dopo la sanzione decide di continuare: «quella non gliela avrebbe tolta nessuna comunicazione formale» *(cap. 2 r. 45)*
 - Esteso per la prima volta a una persona: «mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade» *(cap. 4 r. 13)*
 - Con la signora: la domanda più piccola e aperta possibile («In che senso, scusi?») e il silenzio *(cap. 4 r. 29, cap. 4 r. 33)*
+- Quasi sempre la risposta è un guasto: il LED di carica resta verde, fisso *(cap. 14 r. 11)*
 
 ## Relazioni
 
 - ← [Tom](../personaggi/tom.md) pratica questa scheda *(cap. 1 r. 29)*
+- ← [Gli apparecchi ordinari del cap. 14](../oggetti/apparecchi-ordinari.md) sottoposti al questa scheda *(cap. 14 r. 31)*
 - ← [La copertura del «controllo qualità»](../concetti/copertura-controllo-qualita.md) applica alle persone il questa scheda *(cap. 4 r. 13)*
 
 ## Catena degli eventi

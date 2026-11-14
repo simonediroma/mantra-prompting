@@ -1,0 +1,16 @@
+id: risposta-di-tom
+nome: La risposta di Tom a Emma (solo fatti)
+capitoli: [14]
+sintesi: "La mail con cui Tom risponde alle scuse di Emma: i fatti del registro e niente altro. Scritta in pausa pranzo, inviata quando il nastro riparte."
+caratteristiche:
+  - {testo: "Prima versione: le domande di Tom (cosa sia diventato Elab, chi ci sia dietro il video, perché un indirizzo Meridian risponda di un canale senza nome). Cancellate: messa alle strette, lei si richiuderebbe", fonte: "c14:37"}
+  - {testo: "Versione inviata: una risposta riletta tre volte, un aggettivo in meno a ogni passata, «finché non rimasero solo i fatti»", fonte: "c14:37"}
+  - {testo: "Dentro: il modello del televisore, il guasto nei termini della scheda", fonte: "c14:31"}
+  - {testo: "Fuori: il Morse, il quaderno, il video sul telefono personale, la telefonata alla signora", fonte: "c14:33"}
+  - {testo: "Scritta in pausa pranzo ma inviata al «clac» del nastro, a turno ripreso, perché l'ora d'invio non sia quella della pausa", fonte: "c14:37-39"}
+non_detto:
+  - {testo: "Il testo della mail non è riportato. In particolare non è detto se Tom scriva che la cliente è morta: è «l'unico [fatto] che non si decideva a mettere in fila con gli altri» (c14 r. 31)."}
+relazioni:
+  - {verso: mail-di-scuse-di-emma, tipo: "risponde a", fonte: "c14:37"}
+  - {verso: emma, tipo: "indirizzata a", fonte: "c14:39"}
+

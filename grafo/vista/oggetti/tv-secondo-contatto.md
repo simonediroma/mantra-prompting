@@ -1,6 +1,6 @@
 # Televisore del secondo contatto
 
-`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6, 12, 13
+`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6, 12, 13, 14
 
 Alias: il secondo televisore, quinta voce del quaderno, il televisore della signora Voss
 
@@ -32,6 +32,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - A casa era collegato alla rete domestica; i log degli ultimi giorni mancano *(cap. 13 r. 33)*
 - Sulla lista dell'assistenza ha due righe, entrambe di Tom: ingresso con la frase della signora, hard reset, «in attesa di ritiro»; poi, poco più di tre settimane dopo, «ricondizionato, in magazzino, in attesa di vendita» *(cap. 13 r. 43)*
 - È arrivato in laboratorio pochi giorni dopo la telefonata della signora *(cap. 13 r. 31)*
+- Guasto come scritto da Tom nella scheda: non si accende e manda segnali luminosi senza senso dal LED di accensione *(cap. 14 r. 31)*
 
 ## Cosa NON dice il testo
 
@@ -47,6 +48,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - «Numero di serie» nel cap. 6 (r. 9), «numero di matricola» nel cap. 12 (r. 21): stesso dato, due nomi.
 - Il televisore è in attesa di vendita: può finire in un'altra casa. Il testo lo dice senza commentarlo.
 - Emma teme che nei giorni senza log abbia «preparato il terreno» (c13 r. 33); il lettore sa dal cap. 5 che in quei giorni avvertiva la signora. Le due letture convivono fino a quando Tom non glielo dice.
+- «Tre settimane più tardi» il televisore torna sul banco (c14 r. 31), contato dopo rifiuto e decesso; ma dal reset al ricondizionamento passano in tutto «poco più di tre settimane» (c6 r. 13). Le tre settimane non possono partire dal decesso.
 
 ## Stato capitolo per capitolo
 
@@ -95,4 +97,5 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 1. `e13-01` (cap. 13, la stessa mattina del cap. 12) — [Emma trova lo spettatore unico del video di yoga](../eventi/e13-01.md)
 1. `e13-03` (cap. 13, la stessa mattina, fino alle dieci passate) — [La paura - il televisore come angelo della morte; il processo del mattino saltato](../eventi/e13-03.md)
 1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
+1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
 

@@ -1,7 +1,7 @@
 id: quaderno-nero
 nome: Quaderno nero
 alias: ["l'archivio di Tom"]
-capitoli: [2, 3, 4, 5, 6]
+capitoli: [2, 3, 4, 5, 6, 14]
 sintesi: "L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera registra a memoria i guasti di tutti i televisori del modello del caso zero."
 caratteristiche:
   - {testo: "Deciso a fine cap. 2: archivio privato, non protocollato, difeso di giorno dalla memoria e trascritto la sera a casa", fonte: "c2:45"}
@@ -19,6 +19,8 @@ caratteristiche:
   - {testo: "Tom annota (e ricorda a memoria) anche i numeri di serie", fonte: "c6:9"}
   - {testo: "Ha una «colonna dei dati del proprietario»: per la Voss aggiunge l'eWatch al polso nella foto, «un apparecchio Meridian nella stessa casa»", fonte: "c6:37"}
   - {testo: "Sotto la voce Voss: «causa confermata. Vedi video: perché quello, non un altro.»", fonte: "c6:37"}
+  - {testo: "Ha colonne; «non rispondeva»: è l'unico a cui Tom ha mostrato ciò che ha visto", fonte: "c14:27, c14:43"}
+  - {testo: "La sera del cap. 14 Tom lo apre e lo richiude senza scrivere: solo guasti veri", fonte: "c14:45"}
 aperti:
   - {testo: "Conteggio: «solo quattro volte in tutto» in tre mesi (c3 r. 15) comprende il caso zero + tre guasti banali; il secondo televisore è la quinta voce (c3 r. 37). Torna, ma il «quattro in tre mesi» include il caso zero, che sta all'inizio dei tre mesi."}
   - {testo: "A fine cap. 3 Tom chiude il quaderno e spegne la lampada (c3 r. 39); il cap. 4 dice che «poco dopo» era alla scrivania col quaderno aperto a provare la scusa (c4 r. 9). Le due sere vanno lette come una sola sequenza: prima la scusa, poi la chiusura? Il testo le mette in ordine inverso."}

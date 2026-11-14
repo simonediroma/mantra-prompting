@@ -51,4 +51,5 @@ Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera
 1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
 1. `e09-01` (cap. 9, il mattino dopo, un'ora prima della sveglia solita, ancora buio) — [Hive dà il video per reale](../eventi/e09-01.md)
 1. `e09-02` (cap. 9, la stessa mattina, prima di uscire) — [Tom trascrive il parlato - due rilevatori su tre lo danno per generato](../eventi/e09-02.md)
+1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
 

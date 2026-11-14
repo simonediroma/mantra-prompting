@@ -1,6 +1,6 @@
 id: fattore-turno
 nome: Turni e fattore turno
-capitoli: [2, 3]
+capitoli: [2, 3, 14]
 sintesi: "Tre turni a rotazione; ogni turno moltiplica la sanzione per un fattore diverso."
 caratteristiche:
   - {testo: "Mattino 1,5 · pomeriggio 2,5 (il più penalizzante) · notte 1,2; nessun documento spiega perché", fonte: "c2:21"}
@@ -8,3 +8,5 @@ caratteristiche:
   - {testo: "La rotazione segue una tabella che nessuno ha mai capito", fonte: "c3:9"}
   - {testo: "Tom: pomeriggio al primo contatto; mattino «da qualche settimana» al secondo", fonte: "c3:9"}
 
+aperti:
+  - {testo: "Il «turno del mattino» di Tom comprende pausa pranzo e pomeriggio e finisce verso le diciassette (c14 r. 35, r. 43; c10 r. 27; c14 r. 19). Con tre turni a rotazione, il «pomeriggio» del cap. 1 sarebbe allora serale."}

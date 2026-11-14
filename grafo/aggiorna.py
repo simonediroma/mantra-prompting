@@ -34,6 +34,11 @@ for r in Path(sys.argv[1]).read_text(encoding="utf-8").splitlines():
         salva()
         nome, *resto = r[2:].split()
         f = SCHEDE / (nome + ".yaml")
+        if not f.exists():  # la cartella indicata è sbagliata: cerca per id
+            trovati = list(SCHEDE.glob("*/" + nome.split("/")[-1] + ".yaml"))
+            if len(trovati) != 1:
+                sys.exit(f"scheda non trovata: {nome}")
+            f = trovati[0]
         righe = f.read_text(encoding="utf-8").splitlines()
         for x in resto:
             cap = x.split("=")[1]

@@ -1,7 +1,7 @@
 id: tv-secondo-contatto
 nome: Televisore del secondo contatto
 alias: ["il secondo televisore", "quinta voce del quaderno", "il televisore della signora Voss"]
-capitoli: [3, 4, 5, 6, 12, 13]
+capitoli: [3, 4, 5, 6, 12, 13, 14]
 sintesi: "Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi dopo. Risponde «NO SONO QUI CON TE». Tom ne apre il log e poi lo resetta lui stesso."
 caratteristiche:
   - {testo: "Modello identico a quello di tre mesi prima", fonte: "c3:17"}
@@ -28,6 +28,7 @@ caratteristiche:
   - {testo: "A casa era collegato alla rete domestica; i log degli ultimi giorni mancano", fonte: "c13:33"}
   - {testo: "Sulla lista dell'assistenza ha due righe, entrambe di Tom: ingresso con la frase della signora, hard reset, «in attesa di ritiro»; poi, poco più di tre settimane dopo, «ricondizionato, in magazzino, in attesa di vendita»", fonte: "c13:43"}
   - {testo: "È arrivato in laboratorio pochi giorni dopo la telefonata della signora", fonte: "c13:31"}
+  - {testo: "Guasto come scritto da Tom nella scheda: non si accende e manda segnali luminosi senza senso dal LED di accensione", fonte: "c14:31"}
 stato:
   - {cap: 3, testo: "Resettato da Tom (hard reset). Registrato la sera come quinta voce del quaderno", fonte: "c3:35-37"}
   - {cap: 4, testo: "Il mattino dopo il reset, per Tom è «appena uscito dall'assistenza tecnica» e «dovrebbe essere pronto per il ritiro». La signora non l'ha ancora riavuto", fonte: "c4:21-23"}
@@ -44,6 +45,7 @@ aperti:
   - {testo: "«Numero di serie» nel cap. 6 (r. 9), «numero di matricola» nel cap. 12 (r. 21): stesso dato, due nomi."}
   - {testo: "Il televisore è in attesa di vendita: può finire in un'altra casa. Il testo lo dice senza commentarlo."}
   - {testo: "Emma teme che nei giorni senza log abbia «preparato il terreno» (c13 r. 33); il lettore sa dal cap. 5 che in quei giorni avvertiva la signora. Le due letture convivono fino a quando Tom non glielo dice."}
+  - {testo: "«Tre settimane più tardi» il televisore torna sul banco (c14 r. 31), contato dopo rifiuto e decesso; ma dal reset al ricondizionamento passano in tutto «poco più di tre settimane» (c6 r. 13). Le tre settimane non possono partire dal decesso."}
 relazioni:
   - {verso: log-tv-secondo-contatto, tipo: "ha come log", fonte: "c3:19"}
   - {verso: led-di-accensione, tipo: "comunica tramite", fonte: "c3:23"}

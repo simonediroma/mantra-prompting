@@ -1,6 +1,6 @@
 id: rito-delle-domande
 nome: Il rito delle domande agli apparecchi
-capitoli: [1, 2, 3, 4]
+capitoli: [1, 2, 3, 4, 14]
 sintesi: "Tom parla agli apparecchi guasti e tende loro trappole verbali: rito scaramantico e test di Turing improvvisato."
 caratteristiche:
   - {testo: "Abitudine d'infanzia, mai insegnata da un manuale; non si aspetta risposta, per questo lo rassicura", fonte: "c1:29"}
@@ -9,3 +9,4 @@ caratteristiche:
 
   - {testo: "Esteso per la prima volta a una persona: «mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade»", fonte: "c4:13"}
   - {testo: "Con la signora: la domanda più piccola e aperta possibile («In che senso, scusi?») e il silenzio", fonte: "c4:29, c4:33"}
+  - {testo: "Quasi sempre la risposta è un guasto: il LED di carica resta verde, fisso", fonte: "c14:11"}

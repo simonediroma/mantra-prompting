@@ -1,0 +1,15 @@
+id: e14-02
+nome: Tom legge le scuse - non è più solo; il margine dei 47 secondi salta
+capitolo: 14
+ordine: 14.2
+quando: "nei quasi cinque minuti rimasti dello slot"
+dove: laboratorio-di-tom
+dopo: [e14-01]
+coinvolti: [tom, mail-di-scuse-di-emma, emma, margine-47-secondi, ewatch, nastro, terminale-del-turno]
+sintesi: "La mail gli sembra una mano tesa. Per la prima volta da più di tre mesi qualcuno chiede di sapere. Chiude l'intervento sull'ultimo secondo."
+fatti:
+  - {testo: "Il testo delle scuse", fonte: "c14:17"}
+  - {testo: "La mano tesa", fonte: "c14:25"}
+  - {testo: "La solitudine e il «guarda qui»", fonte: "c14:27"}
+  - {testo: "La chiusura sull'ultimo secondo", fonte: "c14:29"}
+

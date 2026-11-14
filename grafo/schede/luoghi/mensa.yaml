@@ -1,0 +1,9 @@
+id: mensa
+nome: La mensa
+capitoli: [14]
+sintesi: "Dove i colleghi vanno in pausa pranzo. Tom non ci è mai entrato."
+caratteristiche:
+  - {testo: "In dodici anni Tom non ci ha mai messo piede: non saprebbe dire di che colore siano i vassoi", fonte: "c14:35"}
+relazioni:
+  - {verso: sede-assistenza, tipo: "si trova in", fonte: "c14:35"}
+

@@ -1,6 +1,6 @@
 # Elab
 
-`elab` · organizzazione · capitoli: 9, 10
+`elab` · organizzazione · capitoli: 9, 10, 14
 
 Laboratorio di ricerca Meridian sul comportamento emergente delle IA. Progetto di punta quasi dieci anni prima, silenzioso da cinque. Il suo indirizzo è il contatto del video di yoga.
 
@@ -15,6 +15,7 @@ Laboratorio di ricerca Meridian sul comportamento emergente delle IA. Progetto d
 - Per il resto dell'azienda il nome sopravvive in pochi documenti dimenticati; un tempo era uno dei nomi più noti di Meridian *(cap. 10 r. 13, cap. 10 r. 23)*
 - Fondato dal fondatore di Meridian *(cap. 10 r. 13)*
 - Non ha più le credenziali di reparto: non può togliere il proprio contatto dall'archivio senza lasciare traccia *(cap. 10 r. 23)*
+- Per Tom è «un laboratorio che l'azienda credeva chiuso» *(cap. 14 r. 37)*
 
 ## Relazioni
 
@@ -29,4 +30,5 @@ Laboratorio di ricerca Meridian sul comportamento emergente delle IA. Progetto d
 
 1. `e09-04` (cap. 9, subito dopo) — [Tom riconosce il nome Elab](../eventi/e09-04.md)
 1. `e10-02` (cap. 10, la stessa mattina) — [Emma legge la mail di Tom e capisce che mente](../eventi/e10-02.md)
+1. `e14-04` (cap. 14, pausa pranzo) — [In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti](../eventi/e14-04.md)
 

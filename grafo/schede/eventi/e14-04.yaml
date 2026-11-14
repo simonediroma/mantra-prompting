@@ -1,0 +1,13 @@
+id: e14-04
+nome: In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti
+capitolo: 14
+ordine: 14.4
+quando: "pausa pranzo"
+dove: laboratorio-di-tom
+dopo: [e14-03]
+coinvolti: [tom, risposta-di-tom, digiuno-intermittente, regole-sulla-posta, mensa, elab, canale-etv, terminale-del-turno]
+sintesi: "I colleghi vanno in mensa, Tom resta. Scrive le sue domande, capisce che la farebbero richiudere, le cancella e risponde con soli fatti. Non invia: l'ora della pausa lo tradirebbe."
+fatti:
+  - {testo: "La pausa e il digiuno", fonte: "c14:35"}
+  - {testo: "Le domande cancellate e la risposta", fonte: "c14:37"}
+

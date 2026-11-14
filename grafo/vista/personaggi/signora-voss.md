@@ -1,6 +1,6 @@
 # Signora Voss
 
-`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7, 12, 13
+`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7, 12, 13, 14
 
 Alias: la signora del televisore, cliente del secondo televisore
 
@@ -35,6 +35,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - Dal pannello di eTv: per settimane una decina di riproduzioni al giorno a 2x, poi fino a trenta («quasi quattro ore al giorno davanti allo schermo») *(cap. 13 r. 17, cap. 13 r. 21)*
 - Il giorno dopo l'ultima riproduzione ha telefonato all'assistenza «per dire che non le obbediva più» *(cap. 13 r. 23)*
 - È morta «sul suo tappetino, nello stesso salotto», qualche settimana dopo, quando il televisore non era più in casa da tempo *(cap. 13 r. 31, cap. 13 r. 33)*
+- La sua segnalazione, come la riporta Tom: un apparecchio che non si accendeva e mandava segnali luminosi senza senso dal LED *(cap. 14 r. 31)*
 
 ## Cosa NON dice il testo
 
@@ -99,4 +100,5 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
 1. `e13-01` (cap. 13, la stessa mattina del cap. 12) — [Emma trova lo spettatore unico del video di yoga](../eventi/e13-01.md)
 1. `e13-03` (cap. 13, la stessa mattina, fino alle dieci passate) — [La paura - il televisore come angelo della morte; il processo del mattino saltato](../eventi/e13-03.md)
+1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
 

@@ -1,6 +1,6 @@
 id: registro-interventi
 nome: Registro interventi
-capitoli: [2, 6, 13]
+capitoli: [2, 6, 13, 14]
 sintesi: "Il registro in cui Tom, per abitudine, cerca l'unità del giorno prima e ne scopre la riassegnazione."
 caratteristiche:
   - {testo: "Per il caso zero riporta: riassegnato, Turno B, Tecnico [omesso], reset diagnostico completo richiesto da coordinamento assistenza, in corso", fonte: "c2:33-37"}
@@ -11,3 +11,4 @@ caratteristiche:
   - {testo: "Voce 1 sul televisore Voss: «cliente ricontattata, rifiuta il ritiro (\"non lo voglio più in casa\"): richiesto il rimborso previsto (33% del valore di acquisto).»", fonte: "c6:19"}
   - {testo: "Voce 2, pochi giorni dopo: «causale: decesso cliente, verificata su documentazione fornita. Pagamento reindirizzato a erede designato.»", fonte: "c6:21"}
   - {testo: "Lo consulta anche Emma: vi legge rifiuto del ritiro, rimborso, decesso, erede", fonte: "c13:43"}
+  - {testo: "«Un registro che chiunque poteva aprire»", fonte: "c14:31"}

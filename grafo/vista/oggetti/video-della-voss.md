@@ -1,6 +1,6 @@
 # Il video girato dalla signora Voss
 
-`video-della-voss` · oggetto · capitoli: 4, 5, 6
+`video-della-voss` · oggetto · capitoli: 4, 5, 6, 14
 
 Alias: il video del televisore che lampeggia
 
@@ -18,6 +18,7 @@ Ripresa fatta col telefono dalla signora: il televisore lampeggia in modo strano
 - Messaggio ricostruito da Tom: STAI ESAGERANDO CON LO YOGA IL TUO CUORE NON REGGE PIU FERMATI O RISCHI LA VITA *(cap. 5 r. 23)*
 - Mai la frase intera in un solo passaggio: Tom la ricompone a frammenti, fotogramma per fotogramma, in decine di passaggi; restano da completare solo «una manciata di lettere» *(cap. 5 r. 21)*
 - Tom lo rivede e ne trascrive l'unica frase detta dalla signora, per usarla come chiave di ricerca *(cap. 6 r. 39)*
+- Resta sul telefono personale di Tom; chi non sa cosa cercare ci vede solo un LED che lampeggia a caso *(cap. 14 r. 33)*
 
 ## Cosa NON dice il testo
 
@@ -48,4 +49,5 @@ Ripresa fatta col telefono dalla signora: il televisore lampeggia in modo strano
 1. `e05-02` (cap. 5, mercoledì, durante il turno) — [Un turno con la testa altrove - il video resta chiuso](../eventi/e05-02.md)
 1. `e05-03` (cap. 5, mercoledì sera, dopo cena) — [Tom decifra il video - STAI ESAGERANDO CON LO YOGA…](../eventi/e05-03.md)
 1. `e06-05` (cap. 6, la stessa sera) — [Tom decide di cercare il video di yoga](../eventi/e06-05.md)
+1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
 

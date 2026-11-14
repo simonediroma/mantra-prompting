@@ -1,6 +1,6 @@
 # Pete
 
-`pete` · personaggio · capitoli: 2, 4, 5
+`pete` · personaggio · capitoli: 2, 4, 5, 14
 
 Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come firma in fondo alla comunicazione formale.
 
@@ -12,6 +12,7 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 - Paragonato a un piccione: non avverte prima e non si volta a controllare il danno *(cap. 2 r. 25)*
 - Non nominato nel cap. 4, ma è «il supervisore» a cui un ritardo di pochi minuti darebbe «un nuovo pretesto» *(cap. 4 r. 57)*
 - Non nominato nel cap. 5: sotto i cinque minuti il ritardo non gli viene comunicato *(cap. 5 r. 9)*
+- Per Tom è il supervisore che sa «trasformare in un provvedimento» una chiamata fuori procedura; una mail in pausa gli basterebbe per aprire una pratica *(cap. 14 r. 33, cap. 14 r. 37)*
 
 ## Cosa NON dice il testo
 
@@ -30,4 +31,5 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 1. `e02-01` (cap. 2, il giorno dopo il primo contatto, inizio turno) — [Tom riceve la comunicazione formale di scostamento](../eventi/e02-01.md)
 1. `e04-05` (cap. 4, fine della telefonata, anticipo esaurito) — [Tom chiude, si giudica un principiante e corre all'autobus](../eventi/e04-05.md)
 1. `e05-01` (cap. 5, mercoledì, inizio turno di mattina) — [Tom arriva con due minuti di ritardo](../eventi/e05-01.md)
+1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
 

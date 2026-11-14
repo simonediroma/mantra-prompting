@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -64,15 +64,22 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Per Emma: un tecnico vero, che davanti a un apparecchio strano «non avrebbe smesso di smontarlo finché non avesse capito» *(cap. 12 r. 35)*
 - Per Emma è l'unico ancora vivo ad aver avuto davanti il televisore Voss dopo che aveva smesso di obbedire: prima dell'hard reset e dopo la morte *(cap. 13 r. 41, cap. 13 r. 43)*
 - Ha scritto a Elab il giorno dopo aver ricondizionato il televisore e letto la pratica: sapeva già della morte *(cap. 13 r. 43)*
-
-## Cosa NON dice il testo
-
-- Perché Tom non risponda per un giorno intero: il cap. 11, dal punto di vista di Emma, non lo sa.
+- Dai quarantuno anni segue il digiuno intermittente: a mezzogiorno non mangia. In dodici anni non ha mai messo piede in mensa *(cap. 14 r. 35)*
+- È solo «da molto tempo»: almeno da quando il nastro ha chiuso ogni tecnico in una stanza singola, forse da prima. Ci ha fatto l'abitudine «come al ronzio di un frigorifero» *(cap. 14 r. 27)*
+- Il suo desiderio: aprire il coperchio davanti a qualcuno che ne capisce e dire «guarda qui». Non avere ragione né arrivare primo *(cap. 14 r. 27)*
+- A ogni apparecchio fa una domanda, per abitudine: all'aspirapolvere se è stanco, al microonde se lo fa apposta, al tostapane se ha qualcosa da dirgli *(cap. 14 r. 11, cap. 14 r. 29, cap. 14 r. 41)*
+- Legge la prima risposta di Emma in piedi, col cappuccio della felpa già tirato su, e resta così finché il corridoio non si svuota *(cap. 14 r. 19)*
+- Scrive le mail come schede: toglie un aggettivo a ogni rilettura finché restano solo i fatti *(cap. 14 r. 37)*
+- Con Emma inverte il suo metodo: non domandare e osservare, ma rispondere e vedere cosa lei chiede dopo *(cap. 14 r. 37)*
+- La telefonata alla signora Voss è «l'unico momento in cui l'aveva sentita viva»: è ciò che gli costa di più tacere *(cap. 14 r. 33)*
+- Sente di «doverla conoscere», «come si sa una cosa già vista da qualche parte senza ricordare dove» *(cap. 14 r. 43)*
 
 ## Punti aperti / da verificare
 
 - Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi.
 - Nel cap. 9 Tom evita ogni traccia nell'archivio; la sera stessa manda da un indirizzo Meridian riconoscibile una mail con una bugia tecnica verificabile (c10 r. 17-21). Il testo non mostra come sia arrivato a questa scelta: il cap. 10 è dal punto di vista di Emma.
+- Sgabello: Tom li «disprezza apertamente» (c1 r. 13) e lavora in piedi «perché gli sgabelli restavano quello che erano» (c3 r. 21), ma nel cap. 14 «girò lo sgabello verso il computer» due volte (r. 15, r. 41).
+- «Nove apparecchi su dieci non avevano niente da dire» (c14 r. 11): alla lettera uno su dieci risponde, mentre in quattro mesi hanno risposto due televisori in tutto.
 
 ## Stato capitolo per capitolo
 
@@ -89,6 +96,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 11** — Fuori scena: per tutta la giornata non risponde alla mail di Emma *(cap. 11 r. 37)*
 - **Cap. 12** — Fuori scena: non ha ancora risposto a Emma, tre giorni dopo la sua mail *(cap. 12 r. 25)*
 - **Cap. 13** — Fuori scena. Per Emma: «Forse non mi sta dando la caccia. Forse sta cercando anche lui di sapere cosa sia successo.» *(cap. 13 r. 41)*
+- **Cap. 14** — Dopo due giorni di silenzio riceve le scuse di Emma durante un intervento: per la prima volta chiude sull'ultimo secondo, senza margine. In pausa pranzo scrive una risposta di soli fatti, tacendo Morse, quaderno, video e telefonata; la invia quando il nastro riparte. La sera non scrive nulla sul quaderno *(cap. 14 r. 29, cap. 14 r. 39, cap. 14 r. 45)*
 
 ## Relazioni
 
@@ -119,6 +127,8 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - → scrive a [Emma](../personaggi/emma.md) — senza sapere chi leggerà *(cap. 10 r. 19)*
 - → ha scritto [La prima mail di Tom a Elab (il bluff)](../oggetti/mail-bluff-di-tom.md) *(cap. 10 r. 19)*
 - → gestisce [Il sito e il forum del progetto del giradischi](../oggetti/sito-del-giradischi.md) *(cap. 12 r. 33)*
+- → ha scritto [La risposta di Tom a Emma (solo fatti)](../oggetti/risposta-di-tom.md) *(cap. 14 r. 37)*
+- → pratica [Il digiuno intermittente di Tom](../concetti/digiuno-intermittente.md) *(cap. 14 r. 35)*
 - ← [Emma](../personaggi/emma.md) sa che le ha mentito questa scheda *(cap. 10 r. 21)*
 - ← [Emma](../personaggi/emma.md) indaga su questa scheda *(cap. 12 r. 29-37)*
 - ← [Signora Voss](../personaggi/signora-voss.md) crede sia del controllo qualità questa scheda *(cap. 4 r. 19)*
@@ -176,6 +186,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e10-0a` (cap. 10, la sera del giorno del cap. 9) — [Tom scrive a elab@meridian.com](../eventi/e10-0a.md)
 1. `e10-02` (cap. 10, la stessa mattina) — [Emma legge la mail di Tom e capisce che mente](../eventi/e10-02.md)
 1. `e10-03` (cap. 10, lo stesso giorno, fino alle 16:59) — [Il tono di Emma si raffredda; risponde alle 16:59](../eventi/e10-03.md)
+1. `e14-0a` (cap. 14, fine turno del giorno del cap. 10; poi le due mattine successive) — [Tom legge la prima risposta di Emma e tace per due giorni](../eventi/e14-0a.md)
 1. `e11-01` (cap. 11, il mattino dopo la sua risposta, prima del processo del mattino) — [Emma controlla la casella - Tom non ha risposto](../eventi/e11-01.md)
 1. `e11-03` (cap. 11, prima della pausa pranzo) — [Secondo controllo prima di pranzo - niente](../eventi/e11-03.md)
 1. `e11-06` (cap. 11, fine turno, 17:00) — [Alle diciassette Emma chiude l'inbox, vuota](../eventi/e11-06.md)
@@ -185,4 +196,10 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e12-05` (cap. 12, la stessa mattina) — [Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv](../eventi/e12-05.md)
 1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
 1. `e13-06` (cap. 13, le dieci e mezza) — [Emma decide di riscrivere a Tom - le scuse](../eventi/e13-06.md)
+1. `e14-01` (cap. 14, stesso giorno dei cap. 12-13, turno del mattino, dopo le dieci e mezza) — [Le scuse di Emma arrivano sull'eWatch a metà intervento](../eventi/e14-01.md)
+1. `e14-02` (cap. 14, nei quasi cinque minuti rimasti dello slot) — [Tom legge le scuse - non è più solo; il margine dei 47 secondi salta](../eventi/e14-02.md)
+1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
+1. `e14-04` (cap. 14, pausa pranzo) — [In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti](../eventi/e14-04.md)
+1. `e14-05` (cap. 14, fine della pausa pranzo) — [Tom invia quando il nastro riparte](../eventi/e14-05.md)
+1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
 
