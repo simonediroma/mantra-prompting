@@ -120,3 +120,4 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-14 (autore): il falegname si chiama Helge, non Felix (da Helge von Koch, la curva di lunghezza infinita in uno spazio finito; nome maschile). v5.21.
 - 2026-11-14 (autore): paragrafo del bancone riscritto con il testo dell'autore: bancone rifatto su suggerimento di uno dei primi clienti, che manda i proprietari da Helge Mandelbrot; "chiunque vicino a chiunque". §27 di nuovo "tendevano a infinito". v5.22.
 - 2026-11-14 (autore): "tendevano a infinito" resta ai posti occupati (§27); il paragrafo del bancone gioca sulla vicinanza con la geometria frattale, resa con "tra due sgabelli ce ne stava sempre un altro". v5.23.
+- 2026-11-14: copione 16 con "ribére" (solo podcast, il libro resta "ribere"); audio dell'episodio 16 rigenerato dalla v5.23 (12,5 min), feed aggiornato.

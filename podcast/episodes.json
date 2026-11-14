@@ -103,10 +103,11 @@
     "seconds": 741
   },
   "episode-16": {
-    "length": 8796763,
-    "md5": "d57e41cbff63",
+    "length": 9151296,
+    "md5": "8fd50937a447",
     "pub": 1794598906,
-    "seconds": 733
+    "rev": 1,
+    "seconds": 762
   },
   "episode-17": {
     "length": 9100189,

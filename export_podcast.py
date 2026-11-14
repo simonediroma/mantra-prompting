@@ -1358,12 +1358,17 @@ def spoken_panel(line):
     s = spoken_numbers(s)
     return s if s.endswith((".", "!", "?")) else s + "."
 
+# Parole che la voce accenta male: grafia del libro → grafia del copione (vedi podcast/plan.md, Pronunciation).
+PRONUNCIATION = {"ribere": "ribére"}
+
 def spoken_line(line):
     line = re.sub(r"`([^`]+)`", r"\1", line)
     def inline(m):
         seq = m.group(1)
         return MORSE_INLINE.get(seq, '"' + seq.replace(" / ", " ").lower() + '"')
     line = re.sub(r"\*?\b([A-ZÀ-Ù']{2,}(?: / [A-ZÀ-Ù']+)+)\b\.?\*?", inline, line)
+    for word, said in PRONUNCIATION.items():
+        line = re.sub(r"\b" + re.escape(word) + r"\b", said, line)
     return spoken_numbers(line)
 
 # Onomatopee del libro (in corsivo nel testo) → effetto sonoro nel copione, letto E suonato.

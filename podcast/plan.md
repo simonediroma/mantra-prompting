@@ -45,6 +45,7 @@ Con ElevenLabs i termini inglesi restano come nel libro: valgono solo le regole 
 | eTv, eBlog, eDj, eStories, Mixcloud, LinkedIn, YouTube, WhatsApp, E04 | invariati | letti correttamente da ElevenLabs; verificare eDj ed E04 al primo ascolto |
 | 8:00:01 (cap. 15, futuro) | le otto, zero zero e un secondo | da scrivere così nel copione |
 | compacting context, checksum, LED, IA, Meridian(s), reset, log | invariati | letti correttamente |
+| ribere (cap. 16) | ribére | altrimenti rischia "rìbere"; applicato dal generatore (`PRONUNCIATION` in `export_podcast.py`), vale anche con ElevenLabs |
 
 ## Suoni d'ambiente e Morse (2026-11-01)
 
