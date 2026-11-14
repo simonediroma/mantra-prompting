@@ -1,6 +1,6 @@
 id: copertura-controllo-qualita
 nome: La copertura del «controllo qualità»
-capitoli: [4, 5]
+capitoli: [4, 5, 6]
 sintesi: "La scusa con cui Tom chiama la signora Voss: una breve intervista del controllo qualità Meridian su come si è trovata con l'assistenza."
 caratteristiche:
   - {testo: "Inventata la sera prima, provando frasi a voce alta alla scrivania; nel quaderno non c'è scritta", fonte: "c4:9"}
@@ -8,6 +8,7 @@ caratteristiche:
   - {testo: "La gaffe: Tom dice che il televisore «è appena uscito dall'assistenza tecnica», cosa che un addetto qualità non saprebbe; rattoppa con «è quello che mi dice il sistema da qui»", fonte: "c4:23"}
   - {testo: "Tom si giudica un principiante: nessuno script, copione scivolato di mano dopo la prima frase", fonte: "c4:53"}
   - {testo: "Per restare credibile Tom richiama alla stessa ora e con la stessa voce «rassicurante e indicativamente annoiata»: un servizio clienti vero non chiama alle undici di sera", fonte: "c5:31"}
+  - {testo: "Nelle settimane successive Tom richiama: due squilli ravvicinati, mai più di un tentativo al giorno; dopo la seconda settimana dirada. «La sua copertura reggeva solo finché restava noiosa»", fonte: "c6:17"}
 relazioni:
   - {verso: rito-delle-domande, tipo: "applica alle persone il", fonte: "c4:13"}
 

@@ -22,7 +22,8 @@
    "tipo": "personaggio",
    "nome": "Cliente del televisore del primo contatto",
    "capitoli": [
-    1
+    1,
+    6
    ]
   },
   {
@@ -31,6 +32,14 @@
    "nome": "Fornitore di componenti (quello del quaderno)",
    "capitoli": [
     3
+   ]
+  },
+  {
+   "id": "fratello-della-voss",
+   "tipo": "personaggio",
+   "nome": "Fratello della signora Voss",
+   "capitoli": [
+    6
    ]
   },
   {
@@ -59,7 +68,8 @@
    "capitoli": [
     3,
     4,
-    5
+    5,
+    6
    ]
   },
   {
@@ -79,7 +89,8 @@
     2,
     3,
     4,
-    5
+    5,
+    6
    ]
   },
   {
@@ -120,6 +131,14 @@
    ]
   },
   {
+   "id": "carrello-del-ricondizionamento",
+   "tipo": "oggetto",
+   "nome": "Carrello del ricondizionamento",
+   "capitoli": [
+    6
+   ]
+  },
+  {
    "id": "cassetto-della-scrivania",
    "tipo": "oggetto",
    "nome": "Cassetto della scrivania (laboratorio)",
@@ -133,7 +152,8 @@
    "nome": "Cellulare di Tom",
    "capitoli": [
     4,
-    5
+    5,
+    6
    ]
   },
   {
@@ -149,7 +169,8 @@
    "tipo": "oggetto",
    "nome": "eWatch",
    "capitoli": [
-    3
+    3,
+    6
    ]
   },
   {
@@ -222,6 +243,14 @@
    ]
   },
   {
+   "id": "post-del-fratello",
+   "tipo": "oggetto",
+   "nome": "Post del fratello (con la foto della signora Voss)",
+   "capitoli": [
+    6
+   ]
+  },
+  {
    "id": "quaderno-nero",
    "tipo": "oggetto",
    "nome": "Quaderno nero",
@@ -229,7 +258,8 @@
     2,
     3,
     4,
-    5
+    5,
+    6
    ]
   },
   {
@@ -237,7 +267,8 @@
    "tipo": "oggetto",
    "nome": "Registro interventi",
    "capitoli": [
-    2
+    2,
+    6
    ]
   },
   {
@@ -272,7 +303,8 @@
    "capitoli": [
     1,
     2,
-    3
+    3,
+    6
    ]
   },
   {
@@ -282,7 +314,8 @@
    "capitoli": [
     3,
     4,
-    5
+    5,
+    6
    ]
   },
   {
@@ -291,7 +324,8 @@
    "nome": "Il video girato dalla signora Voss",
    "capitoli": [
     4,
-    5
+    5,
+    6
    ]
   },
   {
@@ -300,7 +334,8 @@
    "nome": "Il video di yoga della signora Voss",
    "capitoli": [
     4,
-    5
+    5,
+    6
    ]
   },
   {
@@ -309,7 +344,8 @@
    "nome": "Casa della signora Voss",
    "capitoli": [
     4,
-    5
+    5,
+    6
    ]
   },
   {
@@ -320,7 +356,8 @@
     1,
     3,
     4,
-    5
+    5,
+    6
    ]
   },
   {
@@ -330,7 +367,8 @@
    "capitoli": [
     1,
     2,
-    3
+    3,
+    6
    ]
   },
   {
@@ -387,7 +425,8 @@
    "nome": "La copertura del «controllo qualità»",
    "capitoli": [
     4,
-    5
+    5,
+    6
    ]
   },
   {
@@ -477,7 +516,16 @@
    "capitoli": [
     1,
     2,
-    3
+    3,
+    6
+   ]
+  },
+  {
+   "id": "mantra",
+   "tipo": "termine",
+   "nome": "Mantra",
+   "capitoli": [
+    6
    ]
   },
   {
@@ -487,6 +535,14 @@
    "capitoli": [
     1,
     2
+   ]
+  },
+  {
+   "id": "ricondizionamento",
+   "tipo": "termine",
+   "nome": "Ricondizionamento (giacenza, rimborso, scorciatoia)",
+   "capitoli": [
+    6
    ]
   },
   {
@@ -741,6 +797,70 @@
    "capitoli": [
     5
    ]
+  },
+  {
+   "id": "e06-01",
+   "tipo": "evento",
+   "nome": "Il televisore Voss torna sul banco di Tom per il ricondizionamento",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-02",
+   "tipo": "evento",
+   "nome": "Tom legge nel registro il rifiuto e il decesso",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-03",
+   "tipo": "evento",
+   "nome": "Tom rinuncia a interrogare il televisore e lo ricondiziona",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-04",
+   "tipo": "evento",
+   "nome": "Tom trova il post del fratello - il cuore, durante lo yoga",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-05",
+   "tipo": "evento",
+   "nome": "Tom decide di cercare il video di yoga",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-0a",
+   "tipo": "evento",
+   "nome": "Tom richiama la signora per settimane, senza risposta",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-0b",
+   "tipo": "evento",
+   "nome": "L'assistenza ricontatta la signora Voss - «non lo voglio più in casa»",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-0c",
+   "tipo": "evento",
+   "nome": "La signora Voss muore facendo yoga",
+   "capitoli": [
+    6
+   ]
   }
  ],
  "archi": [
@@ -771,6 +891,13 @@
    "tipo": "ha regalato",
    "nota": "",
    "fonte": "c3:13"
+  },
+  {
+   "da": "fratello-della-voss",
+   "a": "post-del-fratello",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c6:31"
   },
   {
    "da": "pete",
@@ -834,6 +961,20 @@
    "tipo": "crede sia del controllo qualità",
    "nota": "",
    "fonte": "c4:19"
+  },
+  {
+   "da": "signora-voss",
+   "a": "fratello-della-voss",
+   "tipo": "sorella di",
+   "nota": "",
+   "fonte": "c6:31"
+  },
+  {
+   "da": "signora-voss",
+   "a": "ewatch",
+   "tipo": "indossa",
+   "nota": "",
+   "fonte": "c6:31"
   },
   {
    "da": "tecnico-turno-b",
@@ -1032,6 +1173,20 @@
    "fonte": "c2:9"
   },
   {
+   "da": "carrello-del-ricondizionamento",
+   "a": "ricondizionamento",
+   "tipo": "serve al",
+   "nota": "",
+   "fonte": "c6:9"
+  },
+  {
+   "da": "carrello-del-ricondizionamento",
+   "a": "sede-assistenza",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
    "da": "cassetto-della-scrivania",
    "a": "laboratorio-di-tom",
    "tipo": "si trova in",
@@ -1128,6 +1283,27 @@
    "tipo": "si trova in",
    "nota": "",
    "fonte": ""
+  },
+  {
+   "da": "post-del-fratello",
+   "a": "signora-voss",
+   "tipo": "annuncia la morte di",
+   "nota": "",
+   "fonte": "c6:31"
+  },
+  {
+   "da": "post-del-fratello",
+   "a": "ewatch",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c6:31"
+  },
+  {
+   "da": "post-del-fratello",
+   "a": "tv-secondo-contatto",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c6:31"
   },
   {
    "da": "quaderno-nero",
@@ -1270,6 +1446,13 @@
    "fonte": "c5:27"
   },
   {
+   "da": "tv-secondo-contatto",
+   "a": "ricondizionamento",
+   "tipo": "sottoposto a",
+   "nota": "",
+   "fonte": "c6:25"
+  },
+  {
    "da": "video-della-voss",
    "a": "cellulare-di-tom",
    "tipo": "destinato a",
@@ -1401,6 +1584,13 @@
    "tipo": "indica",
    "nota": "",
    "fonte": "c3:15"
+  },
+  {
+   "da": "mantra",
+   "a": "video-yoga",
+   "tipo": "detto del",
+   "nota": "",
+   "fonte": "c6:33"
   },
   {
    "da": "meridians",
@@ -2833,6 +3023,391 @@
   {
    "da": "e05-04",
    "a": "e05-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "carrello-del-ricondizionamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "ricondizionamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "e06-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0a",
+   "a": "e06-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "e06-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "e06-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-03",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-03",
+   "a": "hard-reset",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-03",
+   "a": "ricondizionamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "e06-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "post-del-fratello",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "fratello-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "foglio-avvertimento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "e06-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "mantra",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "e06-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0a",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0a",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0a",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0a",
+   "a": "copertura-controllo-qualita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "e06-0a",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "ricondizionamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "e06-0b",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "e06-0b",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "fratello-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "post-del-fratello",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "casa-della-voss",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "e06-0c",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "e06-0c",
    "tipo": "porta a",
    "nota": "",
    "fonte": ""

@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4, 5
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -35,6 +35,12 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Da bambino decifrava a pezzi le registrazioni delle radio amatoriali, fermandole e mandandole indietro *(cap. 5 r. 21)*
 - Dà ai propri stati d'animo etichette da scheda d'intervento: «urgenza di verifica» *(cap. 5 r. 29)*
 - Il suo primo pensiero davanti all'avvertimento è tecnico, non umano *(cap. 5 r. 25)*
+- Si occupa lui stesso del ricondizionamento degli apparecchi non ritirati *(cap. 6 r. 13)*
+- Ricorda a memoria i numeri di serie dei televisori annotati nel suo archivio *(cap. 6 r. 9)*
+- Come tecnico ha accesso in lettura all'intero registro interventi *(cap. 6 r. 19)*
+- Non gli interessa la morte in sé né fare giustizia: vuole sapere cosa è successo, il meccanismo *(cap. 6 r. 27)*
+- Davanti alla notizia della morte posa il cacciavite «con più cura del necessario»: non ha un'etichetta pronta per quello che prova *(cap. 6 r. 23)*
+- Non ha mai incontrato di persona la signora Voss *(cap. 6 r. 27)*
 
 ## Stato capitolo per capitolo
 
@@ -43,6 +49,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 3** — Da tre mesi è il tecnico più efficiente del reparto (margine medio 47 secondi); turno di mattina da qualche settimana; al secondo contatto conclude «ce n'è più di uno» *(cap. 3 r. 9, cap. 3 r. 37)*
 - **Cap. 4** — Chiama la signora Voss dal proprio cellulare fingendosi il controllo qualità; scopre che esiste un video; brucia tutti i quindici minuti di anticipo e corre all'autobus *(cap. 4 r. 57)*
 - **Cap. 5** — Primo ritardo in dodici anni (2 minuti). La sera decifra il video: il televisore avvertiva la signora. Annota «consapevole. Benevolo, non ostile.» Il mattino dopo la signora non risponde *(cap. 5 r. 33, cap. 5 r. 37)*
+- **Cap. 6** — Tre settimane dopo: gli torna sul banco il televisore Voss per il ricondizionamento. Scopre dal registro che la signora è morta, e dal post del fratello che è morta di cuore facendo yoga. Decide di cercare il video di yoga *(cap. 6 r. 21, cap. 6 r. 31, cap. 6 r. 35)*
 
 ## Relazioni
 
@@ -96,4 +103,10 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e05-03` (cap. 5, mercoledì sera, dopo cena) — [Tom decifra il video - STAI ESAGERANDO CON LO YOGA…](../eventi/e05-03.md)
 1. `e05-04` (cap. 5, mercoledì, tarda sera (verso le undici)) — [Perché il Morse; Tom decide di richiamare al mattino e annota il quaderno](../eventi/e05-04.md)
 1. `e05-05` (cap. 5, giovedì mattina, nel quarto d'ora di anticipo) — [La signora Voss non risponde](../eventi/e05-05.md)
+1. `e06-0a` (cap. 6, dalle mattine successive al cap. 5 fino a tre settimane dopo) — [Tom richiama la signora per settimane, senza risposta](../eventi/e06-0a.md)
+1. `e06-01` (cap. 6, poco più di tre settimane dopo il reset, durante il turno) — [Il televisore Voss torna sul banco di Tom per il ricondizionamento](../eventi/e06-01.md)
+1. `e06-02` (cap. 6, stesso turno) — [Tom legge nel registro il rifiuto e il decesso](../eventi/e06-02.md)
+1. `e06-03` (cap. 6, stesso turno, entro la fine) — [Tom rinuncia a interrogare il televisore e lo ricondiziona](../eventi/e06-03.md)
+1. `e06-04` (cap. 6, la sera dello stesso giorno) — [Tom trova il post del fratello - il cuore, durante lo yoga](../eventi/e06-04.md)
+1. `e06-05` (cap. 6, la stessa sera) — [Tom decide di cercare il video di yoga](../eventi/e06-05.md)
 

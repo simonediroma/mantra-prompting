@@ -1,6 +1,6 @@
 # Quaderno nero
 
-`quaderno-nero` · oggetto · capitoli: 2, 3, 4, 5
+`quaderno-nero` · oggetto · capitoli: 2, 3, 4, 5, 6
 
 Alias: l'archivio di Tom
 
@@ -20,12 +20,16 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 - La quinta voce contiene numero di telefono, nome e indirizzo della signora Voss *(cap. 4 r. 9)*
 - Sotto la quinta voce Tom annota: «video in arrivo su WhatsApp.» *(cap. 4 r. 49)*
 - Sotto la voce Voss, la sera del video: «consapevole. Benevolo, non ostile.» Le prime parole scritte «con vera certezza» *(cap. 5 r. 33)*
+- Tom annota (e ricorda a memoria) anche i numeri di serie *(cap. 6 r. 9)*
+- Ha una «colonna dei dati del proprietario»: per la Voss aggiunge l'eWatch al polso nella foto, «un apparecchio Meridian nella stessa casa» *(cap. 6 r. 37)*
+- Sotto la voce Voss: «causa confermata. Vedi video: perché quello, non un altro.» *(cap. 6 r. 37)*
 
 ## Punti aperti / da verificare
 
 - Conteggio: «solo quattro volte in tutto» in tre mesi (c3 r. 15) comprende il caso zero + tre guasti banali; il secondo televisore è la quinta voce (c3 r. 37). Torna, ma il «quattro in tre mesi» include il caso zero, che sta all'inizio dei tre mesi.
 - A fine cap. 3 Tom chiude il quaderno e spegne la lampada (c3 r. 39); il cap. 4 dice che «poco dopo» era alla scrivania col quaderno aperto a provare la scusa (c4 r. 9). Le due sere vanno lette come una sola sequenza: prima la scusa, poi la chiusura? Il testo le mette in ordine inverso.
 - L'annotazione del cap. 4 (r. 49) è fatta di mattina, in cucina, durante la telefonata: unica volta in cui il quaderno viene scritto non di sera e non alla scrivania.
+- Il numero di serie (c6 r. 9) non compare tra i campi elencati nel cap. 3 (modello, orario, messaggio, pattern, dati cliente).
 
 ## Relazioni
 
@@ -44,4 +48,5 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 1. `e04-01` (cap. 4, la sera del martedì, dopo aver trascritto la quinta voce) — [Tom prova la scusa per la telefonata e rinuncia](../eventi/e04-01.md)
 1. `e04-04` (cap. 4, durante la telefonata) — [«Ho un video, sa?» - la signora lo manderà su WhatsApp](../eventi/e04-04.md)
 1. `e05-04` (cap. 5, mercoledì, tarda sera (verso le undici)) — [Perché il Morse; Tom decide di richiamare al mattino e annota il quaderno](../eventi/e05-04.md)
+1. `e06-05` (cap. 6, la stessa sera) — [Tom decide di cercare il video di yoga](../eventi/e06-05.md)
 

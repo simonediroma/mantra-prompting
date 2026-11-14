@@ -1,7 +1,7 @@
 id: signora-voss
 nome: Signora Voss
 alias: ["la signora del televisore", "cliente del secondo televisore"]
-capitoli: [3, 4, 5]
+capitoli: [3, 4, 5, 6]
 sintesi: "Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo stesso video anche dieci volte al giorno; ha filmato il televisore che «si rifiuta» di accendersi."
 caratteristiche:
   - {testo: "Ha dettato all'addetto del negozio: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
@@ -19,12 +19,25 @@ caratteristiche:
   - {testo: "Mano tutt'altro che ferma mentre riprende", fonte: "c5:19"}
   - {testo: "Per Tom è «una donna che non poteva capirlo» (il Morse)", fonte: "c5:27"}
   - {testo: "Il televisore le attribuisce un cuore che «non regge più»", fonte: "c5:23"}
+  - {testo: "Ricontattata dall'assistenza per il ritiro, rifiuta: «non lo voglio più in casa»; chiede il rimborso del 33%", fonte: "c6:19"}
+  - {testo: "All'assistenza ha risposto; a Tom, mai, in settimane di tentativi", fonte: "c6:15, c6:17"}
+  - {testo: "Morta: «Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.»", fonte: "c6:31"}
+  - {testo: "Portava un eWatch al polso (foto di qualche anno prima, nel suo salotto, televisore spento alle spalle)", fonte: "c6:31"}
+  - {testo: "Ha un fratello e un «erede designato»", fonte: "c6:21, c6:31"}
+  - {testo: "Riguardava il video di yoga «in loop come un mantra»", fonte: "c6:33"}
 non_detto:
   - {testo: "Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta."}
   - {testo: "Il cap. 5 non dice perché non risponde: Tom ipotizza doccia, cucina, telefono lontano."}
+  - {testo: "La data della morte non è indicata: cade tra la telefonata con Tom e il ricondizionamento (poco più di tre settimane), dopo il rifiuto del ritiro."}
+  - {testo: "Perché non rispondesse a Tom pur avendo risposto all'assistenza: il testo non lo spiega."}
+  - {testo: "Il televisore era in assistenza quando è morta facendo yoga: con cosa guardasse il video, se lo guardava, non è detto."}
 stato:
   - {cap: 4, testo: "Al telefono con Tom: viva, loquace, promette il video", fonte: "c4:47"}
   - {cap: 5, testo: "Il mattino di due giorni dopo il reset non risponde a due chiamate di Tom; nessuna segreteria", fonte: "c5:37-39"}
+  - {cap: 6, testo: "Morta. Nel registro: prima il rifiuto del ritiro, pochi giorni dopo la causale «decesso cliente»", fonte: "c6:19-21"}
+aperti:
+  - {testo: "«Non ha voluto ascoltare nessuno» (c6 r. 31): chi l'aveva avvertita oltre al televisore? Il fratello? Il testo non lo dice."}
+  - {testo: "Cosa le ha fatto cambiare idea tra «me lo dovevano restituire» (c4 r. 21) e «non lo voglio più in casa» (c6 r. 19): il testo lo pone come domanda («Qualcosa, nel frattempo…») senza risposta."}
 relazioni:
   - {verso: tv-secondo-contatto, tipo: "proprietario di", fonte: "c3:17"}
   - {verso: addetto-negozio, tipo: "detta la segnalazione a", fonte: "c3:17"}
@@ -33,3 +46,5 @@ relazioni:
   - {verso: video-della-voss, tipo: "ha girato", fonte: "c4:41"}
   - {verso: negozio, tipo: "ha portato il televisore al", fonte: "c4:31"}
   - {verso: tom, tipo: "crede sia del controllo qualità", fonte: "c4:19"}
+  - {verso: fratello-della-voss, tipo: "sorella di", fonte: "c6:31"}
+  - {verso: ewatch, tipo: "indossa", fonte: "c6:31"}

@@ -1,0 +1,11 @@
+id: fratello-della-voss
+nome: Fratello della signora Voss
+capitoli: [6]
+sintesi: "Autore del post che annuncia la morte della sorella."
+caratteristiche:
+  - {testo: "Scrive «poche righe asciutte»: «Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.»", fonte: "c6:31"}
+non_detto:
+  - {testo: "Nome non indicato. Il testo non dice se sia lui l'«erede designato» del registro."}
+relazioni:
+  - {verso: post-del-fratello, tipo: "ha scritto", fonte: "c6:31"}
+

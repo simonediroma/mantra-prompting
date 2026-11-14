@@ -1,7 +1,7 @@
 id: tv-caso-zero
 nome: Televisore del primo contatto (caso zero)
 alias: ["il televisore del primo contatto", "caso zero", "il primo televisore"]
-capitoli: [1, 2, 3]
+capitoli: [1, 2, 3, 6]
 sintesi: "Il primo televisore Meridian che risponde a Tom in Morse («IO SONO QUI»). Riassegnato e resettato il giorno dopo."
 caratteristiche:
   - {testo: "Modello consumer con IA di bordo per i consigli di visione", fonte: "c1:21"}
@@ -16,6 +16,7 @@ caratteristiche:
   - {testo: "Nella comunicazione formale: «unità TV consumer, mod. [omesso in automatico]»", fonte: "c2:12"}
   - {testo: "Arrivato a Tom nel turno di pomeriggio", fonte: "c3:9"}
   - {testo: "Modello poco diffuso: in tre mesi a Tom ne capitano quattro in tutto", fonte: "c3:15"}
+  - {testo: "Al cap. 6 risale a «quasi quattro mesi prima»; Tom non sa cosa guardasse il suo proprietario", fonte: "c6:33"}
 stato:
   - {cap: 1, testo: "Sul banco di Tom, retro aperto. A fine capitolo spento ed etichettato «anomalia riscontrata durante l'operazione»: rientra nella pipeline per un secondo giro di diagnosi", fonte: "c1:97"}
   - {cap: 2, testo: "Riassegnato (Turno B, tecnico omesso), reset diagnostico completo «in corso». Tom non lo rivede", fonte: "c2:33-39"}

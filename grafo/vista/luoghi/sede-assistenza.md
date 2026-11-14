@@ -18,6 +18,7 @@ L'edificio dove lavora Tom: corridoio, stanze dei tecnici, nastro, varco con con
 ## Relazioni
 
 - → sede di [Meridian](../organizzazioni/meridian.md)
+- ← [Carrello del ricondizionamento](../oggetti/carrello-del-ricondizionamento.md) si trova in questa scheda
 - ← [Nastro](../oggetti/nastro.md) si trova in questa scheda
 - ← [Laboratorio di Tom](../luoghi/laboratorio-di-tom.md) si trova in questa scheda *(cap. 1 r. 43)*
 - ← [Soglia dei cinque minuti di ritardo](../concetti/soglia-ritardo-cinque-minuti.md) applicata al varco di questa scheda *(cap. 5 r. 9)*

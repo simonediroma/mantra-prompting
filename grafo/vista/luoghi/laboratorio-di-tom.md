@@ -1,6 +1,6 @@
 # Laboratorio di Tom
 
-`laboratorio-di-tom` · luogo · capitoli: 1, 2, 3
+`laboratorio-di-tom` · luogo · capitoli: 1, 2, 3, 6
 
 Alias: la stanza di Tom
 
@@ -17,6 +17,7 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 - Scrivania con un cassetto che si incastra a metà corsa *(cap. 2 r. 41)*
 - Dietro una parete passa il nastro, che consegna gli apparecchi *(cap. 2 r. 45)*
 - Il terminale del turno si sente dal corridoio prima di aprire la porta *(cap. 2 r. 9)*
+- Il carrello del ricondizionamento entra dalla porta *(cap. 6 r. 9)*
 
 ## Punti aperti / da verificare
 
@@ -46,4 +47,7 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 1. `e03-04` (cap. 3, stesso intervento, nei minuti rimasti) — [«Ti senti solo?» → NO SONO QUI CON TE](../eventi/e03-04.md)
 1. `e03-05` (cap. 3, stesso intervento, dentro il limite) — [Tom resetta il secondo televisore](../eventi/e03-05.md)
 1. `e05-02` (cap. 5, mercoledì, durante il turno) — [Un turno con la testa altrove - il video resta chiuso](../eventi/e05-02.md)
+1. `e06-01` (cap. 6, poco più di tre settimane dopo il reset, durante il turno) — [Il televisore Voss torna sul banco di Tom per il ricondizionamento](../eventi/e06-01.md)
+1. `e06-02` (cap. 6, stesso turno) — [Tom legge nel registro il rifiuto e il decesso](../eventi/e06-02.md)
+1. `e06-03` (cap. 6, stesso turno, entro la fine) — [Tom rinuncia a interrogare il televisore e lo ricondiziona](../eventi/e06-03.md)
 

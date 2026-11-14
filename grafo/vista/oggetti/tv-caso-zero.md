@@ -1,6 +1,6 @@
 # Televisore del primo contatto (caso zero)
 
-`tv-caso-zero` · oggetto · capitoli: 1, 2, 3
+`tv-caso-zero` · oggetto · capitoli: 1, 2, 3, 6
 
 Alias: il televisore del primo contatto, caso zero, il primo televisore
 
@@ -20,6 +20,7 @@ Il primo televisore Meridian che risponde a Tom in Morse («IO SONO QUI»). Rias
 - Nella comunicazione formale: «unità TV consumer, mod. [omesso in automatico]» *(cap. 2 r. 12)*
 - Arrivato a Tom nel turno di pomeriggio *(cap. 3 r. 9)*
 - Modello poco diffuso: in tre mesi a Tom ne capitano quattro in tutto *(cap. 3 r. 15)*
+- Al cap. 6 risale a «quasi quattro mesi prima»; Tom non sa cosa guardasse il suo proprietario *(cap. 6 r. 33)*
 
 ## Cosa NON dice il testo
 

@@ -1,0 +1,14 @@
+id: e06-0c
+nome: La signora Voss muore facendo yoga
+capitolo: 6
+ordine: 6.03
+quando: "una mattina, dopo il rifiuto del ritiro; registrata «pochi giorni dopo» la prima voce"
+in_scena: false
+dove: casa-della-voss
+dopo: [e06-0b, e00-02]
+coinvolti: [signora-voss, fratello-della-voss, post-del-fratello, registro-interventi, video-yoga]
+sintesi: "Il cuore cede durante lo yoga del mattino. Il decesso viene verificato su documentazione, il rimborso reindirizzato all'erede designato. Il fratello pubblica un post."
+fatti:
+  - {testo: "La seconda voce del registro", fonte: "c6:21"}
+  - {testo: "Il post del fratello", fonte: "c6:31"}
+

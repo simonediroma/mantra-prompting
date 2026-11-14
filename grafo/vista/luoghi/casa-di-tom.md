@@ -1,6 +1,6 @@
 # Casa di Tom
 
-`casa-di-tom` · luogo · capitoli: 1, 3, 4, 5
+`casa-di-tom` · luogo · capitoli: 1, 3, 4, 5, 6
 
 Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera il quaderno nero.
 
@@ -13,6 +13,7 @@ Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera
 - Cucina con un tavolo; al mattino la luce entra di taglio *(cap. 4 r. 13)*
 - La fermata dell'autobus è a due isolati *(cap. 4 r. 57)*
 - Cena in cucina, lava il piatto, spegne la luce; poi scrivania, sola lampada accesa, una pila di libri *(cap. 5 r. 17)*
+- La sera della scoperta tiene la finestra aperta «per la prima volta da mesi» *(cap. 6 r. 31)*
 
 ## Relazioni
 
@@ -33,4 +34,6 @@ Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera
 1. `e05-03` (cap. 5, mercoledì sera, dopo cena) — [Tom decifra il video - STAI ESAGERANDO CON LO YOGA…](../eventi/e05-03.md)
 1. `e05-04` (cap. 5, mercoledì, tarda sera (verso le undici)) — [Perché il Morse; Tom decide di richiamare al mattino e annota il quaderno](../eventi/e05-04.md)
 1. `e05-05` (cap. 5, giovedì mattina, nel quarto d'ora di anticipo) — [La signora Voss non risponde](../eventi/e05-05.md)
+1. `e06-04` (cap. 6, la sera dello stesso giorno) — [Tom trova il post del fratello - il cuore, durante lo yoga](../eventi/e06-04.md)
+1. `e06-05` (cap. 6, la stessa sera) — [Tom decide di cercare il video di yoga](../eventi/e06-05.md)
 

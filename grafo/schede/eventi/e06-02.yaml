@@ -1,0 +1,13 @@
+id: e06-02
+nome: Tom legge nel registro il rifiuto e il decesso
+capitolo: 6
+ordine: 6.2
+quando: "stesso turno"
+dove: laboratorio-di-tom
+dopo: [e06-01, e06-0c]
+coinvolti: [tom, registro-interventi, signora-voss, tv-secondo-contatto]
+sintesi: "Due voci: rifiuto del ritiro con rimborso, poi «decesso cliente». Tom posa il cacciavite."
+fatti:
+  - {testo: "Le due voci", fonte: "c6:19-21"}
+  - {testo: "La reazione", fonte: "c6:23"}
+

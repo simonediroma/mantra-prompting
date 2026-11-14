@@ -1,6 +1,6 @@
 # Signora Voss
 
-`signora-voss` · personaggio · capitoli: 3, 4, 5
+`signora-voss` · personaggio · capitoli: 3, 4, 5, 6
 
 Alias: la signora del televisore, cliente del secondo televisore
 
@@ -23,16 +23,31 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - Mano tutt'altro che ferma mentre riprende *(cap. 5 r. 19)*
 - Per Tom è «una donna che non poteva capirlo» (il Morse) *(cap. 5 r. 27)*
 - Il televisore le attribuisce un cuore che «non regge più» *(cap. 5 r. 23)*
+- Ricontattata dall'assistenza per il ritiro, rifiuta: «non lo voglio più in casa»; chiede il rimborso del 33% *(cap. 6 r. 19)*
+- All'assistenza ha risposto; a Tom, mai, in settimane di tentativi *(cap. 6 r. 15, cap. 6 r. 17)*
+- Morta: «Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.» *(cap. 6 r. 31)*
+- Portava un eWatch al polso (foto di qualche anno prima, nel suo salotto, televisore spento alle spalle) *(cap. 6 r. 31)*
+- Ha un fratello e un «erede designato» *(cap. 6 r. 21, cap. 6 r. 31)*
+- Riguardava il video di yoga «in loop come un mantra» *(cap. 6 r. 33)*
 
 ## Cosa NON dice il testo
 
 - Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta.
 - Il cap. 5 non dice perché non risponde: Tom ipotizza doccia, cucina, telefono lontano.
+- La data della morte non è indicata: cade tra la telefonata con Tom e il ricondizionamento (poco più di tre settimane), dopo il rifiuto del ritiro.
+- Perché non rispondesse a Tom pur avendo risposto all'assistenza: il testo non lo spiega.
+- Il televisore era in assistenza quando è morta facendo yoga: con cosa guardasse il video, se lo guardava, non è detto.
+
+## Punti aperti / da verificare
+
+- «Non ha voluto ascoltare nessuno» (c6 r. 31): chi l'aveva avvertita oltre al televisore? Il fratello? Il testo non lo dice.
+- Cosa le ha fatto cambiare idea tra «me lo dovevano restituire» (c4 r. 21) e «non lo voglio più in casa» (c6 r. 19): il testo lo pone come domanda («Qualcosa, nel frattempo…») senza risposta.
 
 ## Stato capitolo per capitolo
 
 - **Cap. 4** — Al telefono con Tom: viva, loquace, promette il video *(cap. 4 r. 47)*
 - **Cap. 5** — Il mattino di due giorni dopo il reset non risponde a due chiamate di Tom; nessuna segreteria *(cap. 5 r. 37-39)*
+- **Cap. 6** — Morta. Nel registro: prima il rifiuto del ritiro, pochi giorni dopo la causale «decesso cliente» *(cap. 6 r. 19-21)*
 
 ## Relazioni
 
@@ -42,7 +57,10 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - → ha girato [Il video girato dalla signora Voss](../oggetti/video-della-voss.md) *(cap. 4 r. 41)*
 - → ha portato il televisore al [Negozio (punto di consegna)](../luoghi/negozio.md) *(cap. 4 r. 31)*
 - → crede sia del controllo qualità [Tom](../personaggi/tom.md) *(cap. 4 r. 19)*
+- → sorella di [Fratello della signora Voss](../personaggi/fratello-della-voss.md) *(cap. 6 r. 31)*
+- → indossa [eWatch](../oggetti/ewatch.md) *(cap. 6 r. 31)*
 - ← [Tom](../personaggi/tom.md) telefona a questa scheda — sotto copertura *(cap. 4 r. 19)*
+- ← [Post del fratello (con la foto della signora Voss)](../oggetti/post-del-fratello.md) annuncia la morte di questa scheda *(cap. 6 r. 31)*
 - ← [Tappetino da yoga della signora Voss](../oggetti/tappetino-da-yoga.md) appartiene a questa scheda
 - ← [Casa della signora Voss](../luoghi/casa-della-voss.md) abitazione di questa scheda
 
@@ -56,4 +74,9 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 1. `e05-02` (cap. 5, mercoledì, durante il turno) — [Un turno con la testa altrove - il video resta chiuso](../eventi/e05-02.md)
 1. `e05-03` (cap. 5, mercoledì sera, dopo cena) — [Tom decifra il video - STAI ESAGERANDO CON LO YOGA…](../eventi/e05-03.md)
 1. `e05-05` (cap. 5, giovedì mattina, nel quarto d'ora di anticipo) — [La signora Voss non risponde](../eventi/e05-05.md)
+1. `e06-0a` (cap. 6, dalle mattine successive al cap. 5 fino a tre settimane dopo) — [Tom richiama la signora per settimane, senza risposta](../eventi/e06-0a.md)
+1. `e06-0b` (cap. 6, nelle tre settimane dopo il reset (data non indicata)) — [L'assistenza ricontatta la signora Voss - «non lo voglio più in casa»](../eventi/e06-0b.md)
+1. `e06-0c` (cap. 6, una mattina, dopo il rifiuto del ritiro; registrata «pochi giorni dopo» la prima voce) — [La signora Voss muore facendo yoga](../eventi/e06-0c.md)
+1. `e06-02` (cap. 6, stesso turno) — [Tom legge nel registro il rifiuto e il decesso](../eventi/e06-02.md)
+1. `e06-04` (cap. 6, la sera dello stesso giorno) — [Tom trova il post del fratello - il cuore, durante lo yoga](../eventi/e06-04.md)
 

@@ -1,0 +1,13 @@
+id: e06-03
+nome: Tom rinuncia a interrogare il televisore e lo ricondiziona
+capitolo: 6
+ordine: 6.3
+quando: "stesso turno, entro la fine"
+dove: laboratorio-di-tom
+dopo: [e06-02]
+coinvolti: [tom, tv-secondo-contatto, hard-reset, ricondizionamento]
+sintesi: "Considera di accenderlo e fargli una domanda; scarta l'idea perché l'ha azzerato lui. Lo ricondiziona nei tempi, come gli altri del lotto."
+fatti:
+  - {testo: "La rinuncia e il ricondizionamento", fonte: "c6:25"}
+  - {testo: "Cosa vuole sapere Tom", fonte: "c6:27-29"}
+

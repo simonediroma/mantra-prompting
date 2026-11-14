@@ -1,7 +1,7 @@
 id: video-della-voss
 nome: Il video girato dalla signora Voss
 alias: ["il video del televisore che lampeggia"]
-capitoli: [4, 5]
+capitoli: [4, 5, 6]
 sintesi: "Ripresa fatta col telefono dalla signora: il televisore lampeggia in modo strano mentre lei gli dice di accendersi. Lo manderà a Tom su WhatsApp."
 caratteristiche:
   - {testo: "Girato apposta per l'assistenza, «perché sapevo che altrimenti non mi avrebbero creduta»", fonte: "c4:41"}
@@ -13,6 +13,7 @@ caratteristiche:
   - {testo: "Audio: la signora chiede al televisore di accendersi e proiettare il video yoga; il televisore resta spento e lampeggia", fonte: "c5:19"}
   - {testo: "Messaggio ricostruito da Tom: STAI ESAGERANDO CON LO YOGA IL TUO CUORE NON REGGE PIU FERMATI O RISCHI LA VITA", fonte: "c5:23"}
   - {testo: "Mai la frase intera in un solo passaggio: Tom la ricompone a frammenti, fotogramma per fotogramma, in decine di passaggi; restano da completare solo «una manciata di lettere»", fonte: "c5:21"}
+  - {testo: "Tom lo rivede e ne trascrive l'unica frase detta dalla signora, per usarla come chiave di ricerca", fonte: "c6:39"}
 stato:
   - {cap: 4, testo: "Promesso a Tom via WhatsApp, sul suo numero personale. A fine capitolo non è ancora arrivato", fonte: "c4:47-49"}
   - {cap: 5, testo: "Sul cellulare di Tom. Non aperto al lavoro; visto e decifrato la sera, a casa, dopo cena", fonte: "c5:11, c5:17"}

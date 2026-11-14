@@ -1,12 +1,13 @@
 # Cliente del televisore del primo contatto
 
-`cliente-caso-zero` · personaggio · capitoli: 1
+`cliente-caso-zero` · personaggio · capitoli: 1, 6
 
 Proprietario senza nome del caso zero. Ha consegnato il televisore lamentando che non si accendeva e non rispondeva al telecomando.
 
 ## Caratteristiche
 
 - Lamentela: non si accende più, non risponde al telecomando *(cap. 1 r. 93)*
+- Tom non sa cosa guardasse sul televisore *(cap. 6 r. 33)*
 
 ## Cosa NON dice il testo
 

@@ -1,0 +1,12 @@
+id: e06-04
+nome: Tom trova il post del fratello - il cuore, durante lo yoga
+capitolo: 6
+ordine: 6.4
+quando: "la sera dello stesso giorno"
+dove: casa-di-tom
+dopo: [e06-02]
+coinvolti: [tom, post-del-fratello, fratello-della-voss, signora-voss, ewatch, foglio-avvertimento]
+sintesi: "Da casa, finestra aperta, Tom cerca il nome della signora e trova il post. La causa coincide con l'avvertimento. Nella foto nota l'eWatch."
+fatti:
+  - {testo: "Il post e la foto", fonte: "c6:31"}
+
