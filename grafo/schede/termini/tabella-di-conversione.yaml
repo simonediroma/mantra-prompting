@@ -12,15 +12,16 @@ caratteristiche:
   - {testo: "Interdizione + 30% per 3 mesi · testa nel water con le mutande in testa (solo ispettori)", fonte: "c17:36"}
   - {testo: "Il tetto dei 60 minuti vale «nemmeno sommando tutte le infrazioni di una sera»; Pete lo odia", fonte: "c17:58"}
   - {testo: "Oltre il tetto ci sono gli ispettori interni: i soli a vedere i video di sorveglianza per intero (a Pete toccano gli screenshot) e a dare l'ultima riga. Pete può solo accumulare fino a chiedere un'ispezione", fonte: "c17:58"}
-  - {testo: "Il nome «Tabella di Conversione» compare per esteso nel cap. 18; altrove «la Tabella»", fonte: "c18:47, c18:49, c19:85"}
   - {testo: "Fuori Tabella: tacere la morte della cliente (non è infrazione «né nel codice di condotta né nella Tabella»)", fonte: "c18:47"}
   - {testo: "In Tabella: meeting inutile = doppia smutandata, 30 minuti", fonte: "c18:49"}
   - {testo: "Fuori Tabella: una consulenza tecnica chiesta a un laboratorio di ricerca non ha «nessuna riga, nemmeno quella del cognome». Zero minuti", fonte: "c19:85"}
+  - {testo: "Ha un'intestazione: «TABELLA DI CONVERSIONE · uso personale». È quindi un documento scritto, non solo un'idea", fonte: "c17:31"}
+  - {testo: "Abbreviata «la Tabella» nei cap. 18 e 19", fonte: "c18:47, c19:85"}
+  - {testo: "Verificato sui cap. 1-16: né la Tabella né la smutandata compaiono prima del cap. 17"}
 non_detto:
-  - {testo: "Non è detto che la Tabella esista su carta: nel testo vive nella testa di Pete."}
   - {testo: "Il rapporto con la formula ufficiale del cap. 2 (scostamento × fattore turno + 15 minuti di supplemento base) non è spiegato: il supplemento base di 15 minuti coincide con una smutandata semplice, ma il testo non fa il collegamento."}
+  - {testo: "Dove Pete la tenga (carta, telefono, file) non è detto."}
 aperti:
-  - {testo: "Da verificare quando si analizzano i cap. 4-16: la Tabella o la smutandata compaiono prima del cap. 17? Dalla ricerca nel testo no."}
 relazioni:
   - {verso: pete, tipo: "ideata da", fonte: "c17:28"}
   - {verso: tom, tipo: "applicata da Pete a", fonte: "c17:58"}

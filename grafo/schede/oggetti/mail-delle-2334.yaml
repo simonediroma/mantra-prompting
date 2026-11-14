@@ -7,8 +7,12 @@ caratteristiche:
   - {testo: "Riga in posta inviata: «Inviata · A: Tom · ven 23:34»", fonte: "c16:47"}
   - {testo: "Fa partire un avviso al supervisore di Tom", fonte: "c16:45"}
   - {testo: "Nel riepilogo di Pete: «Segnalazione: mail fuori orario ricevuta · Destinatario: Tom · Ora di ricezione: 23:34 · Mittente: fuori giurisdizione · Contenuto: non disponibile · Infrazione: nessuna»", fonte: "c17:44-50"}
+  - {testo: "Sveglia Tom con l'eWatch; sul computer la notifica è troncata: «New email from Emm…»", fonte: "c17:10-14"}
+  - {testo: "Tom non la apre: aprirla di notte è lavorare fuori orario e la mette nella casella di un sottoposto di Pete, che potrebbe leggerla", fonte: "c17:16"}
 non_detto:
   - {testo: "Il testo della mail non è riportato nel cap. 16. Il giovedì Emma aveva deciso di parlare lei della morte della cliente, lunedì alle otto (c16 r. 23): se la mail delle 23:34 lo faccia non è detto qui."}
+stato:
+  - {cap: 17, testo: "Ricevuta, non aperta. Tom la aprirà alle otto, in regola", fonte: "c17:24"}
 relazioni:
   - {verso: tom, tipo: "indirizzata a", fonte: "c16:47"}
   - {verso: pete, tipo: "segnalata a", fonte: "c16:45"}

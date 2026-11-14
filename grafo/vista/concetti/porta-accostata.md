@@ -1,6 +1,6 @@
 # La porta accostata
 
-`porta-accostata` · concetto · capitoli: 15
+`porta-accostata` · concetto · capitoli: 15, 17
 
 Per la prima volta in dodici anni Tom non chiude a doppia mandata: lascia un palmo di corridoio in vista, per vedere se qualcuno «non passa e basta».
 
@@ -11,6 +11,7 @@ Per la prima volta in dodici anni Tom non chiude a doppia mandata: lascia un pal
 - La prima persona che passa, Pete, rallenta *(cap. 15 r. 23)*
 - A fine capitolo è ancora accostata *(cap. 15 r. 31)*
 - Visto da Pete: «La porta, per la prima volta in dodici anni, l'aveva trovata accostata… un tecnico seduto di tre quarti davanti a un banco vuoto, con l'aria di chi aspetta qualcuno» *(cap. 17 r. 52)*
+- Pete era passato «apposta», per far sentire la sua presenza, quattro giorni dopo la riga della prima mail *(cap. 17 r. 52)*
 
 ## Punti aperti / da verificare
 
@@ -27,4 +28,5 @@ Per la prima volta in dodici anni Tom non chiude a doppia mandata: lascia un pal
 1. `e15-01` (cap. 15, il mattino dopo (sabato), alle otto meno un quarto) — [Tom lascia la porta accostata](../eventi/e15-01.md)
 1. `e15-03` (cap. 15, subito dopo) — [Pete passa davanti alla porta e rallenta](../eventi/e15-03.md)
 1. `e15-06` (cap. 15, nei secondi prima del pezzo successivo) — [«Ciao Emma,» - Tom cancella e non risponde](../eventi/e15-06.md)
+1. `e17-04` (cap. 17, dopo le 23:59) — [Pete fiuta l'osso - «Dai. Aprila.»](../eventi/e17-04.md)
 

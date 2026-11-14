@@ -1,0 +1,12 @@
+id: e17-02
+nome: Il bivio - vederla o chiudere
+capitolo: 17
+ordine: 17.2
+quando: "subito dopo"
+dove: casa-di-tom
+dopo: [e17-01]
+coinvolti: [tom, il-bivio, emma, pete, quaderno-nero]
+sintesi: "Niente di ciò che sa può più passare per iscritto. «O le chiedo di vederci. O chiudo qui.» Si guarda il polso, nudo. Torna a letto lasciando lo schermo acceso."
+fatti:
+  - {testo: "Le due strade", fonte: "c17:22-24"}
+

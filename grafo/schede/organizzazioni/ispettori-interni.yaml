@@ -1,0 +1,13 @@
+id: ispettori-interni
+nome: Gli ispettori interni
+capitoli: [17]
+sintesi: "Il livello sopra i supervisori nell'apparato di controllo di Meridian."
+caratteristiche:
+  - {testo: "Gli unici a vedere per intero i video della sorveglianza; ai supervisori toccano gli screenshot", fonte: "c17:58"}
+  - {testo: "Gli unici a poter dare l'interdizione con il 30% per tre mesi", fonte: "c17:36, c17:58"}
+  - {testo: "Un supervisore può chiedere un'ispezione quando ha accumulato abbastanza", fonte: "c17:58"}
+non_detto:
+  - {testo: "Nessun ispettore compare in scena fino al cap. 17."}
+relazioni:
+  - {verso: meridian, tipo: "parte di"}
+

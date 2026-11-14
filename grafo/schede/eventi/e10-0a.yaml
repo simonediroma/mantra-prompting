@@ -10,3 +10,4 @@ sintesi: "Tom manda la mail del bluff: dice di aver trovato l'indirizzo nei log 
 fatti:
   - {testo: "La notifica arrivata la sera prima", fonte: "c10:17"}
 
+  - {testo: "La mail compare nel riepilogo di Pete come riga senza infrazione", fonte: "c17:52"}

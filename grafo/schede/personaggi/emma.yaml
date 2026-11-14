@@ -1,6 +1,6 @@
 id: emma
 nome: Emma
-capitoli: [10, 11, 12, 13, 14, 15, 16]
+capitoli: [10, 11, 12, 13, 14, 15, 16, 17]
 sintesi: "L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10."
 caratteristiche:
   - {testo: "Nome: Emma", fonte: "c10:15"}
@@ -54,6 +54,8 @@ caratteristiche:
   - {testo: "Applica le regole di Meridian, compresa quella sull'orario, «perché non aveva mai avuto un motivo per fare altro»; la mail delle 23:34 è la prima regola che infrange", fonte: "c16:35, c16:45"}
   - {testo: "Non si è mai chiesta che faccia abbia il supervisore di Tom", fonte: "c16:45"}
   - {testo: "Trova le risposte prima che l'altro finisca la frase", fonte: "c16:41"}
+  - {testo: "Non aveva mai scritto a Tom fuori dal turno", fonte: "c17:16"}
+  - {testo: "Per il sistema di Pete è un mittente «fuori giurisdizione»: Pete non guarda nemmeno chi sia", fonte: "c17:48, c17:52"}
 non_detto:
   - {testo: "Il cap. 10 non descrive il suo aspetto, non le dà un'età né un cognome."}
   - {testo: "Non si dice dove viva né che esca dalla stanza: la giornata comincia con la luce sotto la porta e finisce con le porte che si chiudono in corridoio."}

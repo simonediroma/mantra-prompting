@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -80,6 +80,12 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Monta lame «da prima di avere gli occhiali da lettura»: dimenticare la rondella è il primo lavoro che gli va male *(cap. 15 r. 29)*
 - Distingue ciò che ha voglia di credere da ciò che è provato: «Non era una prova», se lo dice con le parole precise *(cap. 15 r. 27)*
 - Scrive «come scrivono i tecnici di Meridian, cioè come se ogni aggettivo costasse una decurtazione» *(cap. 16 r. 9)*
+- Di notte tiene l'eWatch sul comodino, accanto a un bicchiere *(cap. 17 r. 10)*
+- La posta aziendale gli arriva anche sul computer di casa *(cap. 17 r. 10-14)*
+- Parla alla cucina: «Se la apro adesso, lui lo sa». Il frigorifero «di solito qualcosa da dire ce l'aveva» *(cap. 17 r. 18-20)*
+- Il tell confermato: si guarda il polso «come faceva al telefono quando dall'altra parte c'era una persona» *(cap. 17 r. 24)*
+- La morte della cliente l'ha «tolta» dalla sua risposta: scriverla aprirebbe «un vaso di Pandora» *(cap. 17 r. 20)*
+- Lascia la tazza del caffè del mattino piena sul tavolo fino a notte *(cap. 17 r. 12)*
 
 ## Punti aperti / da verificare
 
@@ -89,6 +95,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - «Nove apparecchi su dieci non avevano niente da dire» (c14 r. 11): alla lettera uno su dieci risponde, mentre in quattro mesi hanno risposto due televisori in tutto.
 - Sgabello, terza volta: nel cap. 15 si siede «sullo sgabello troppo basso, di tre quarti» (r. 9). Il disprezzo c'è ancora («troppo basso»), ma ormai ci si siede.
 - Perché Tom taccia per un'intera settimana dopo la domanda su «si rifiuta»: il cap. 15 dà il motivo del primo giorno (non può scrivere della telefonata), non quello dei sei successivi.
+- La notifica sul computer di Tom è in inglese: «New email from Emm…» (c17 r. 14). Con «non parlava italiano» (c7 r. 11) è il secondo indizio che la lingua della storia non sia l'italiano.
 
 ## Stato capitolo per capitolo
 
@@ -108,6 +115,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 14** — Dopo due giorni di silenzio riceve le scuse di Emma durante un intervento: per la prima volta chiude sull'ultimo secondo, senza margine. In pausa pranzo scrive una risposta di soli fatti, tacendo Morse, quaderno, video e telefonata; la invia quando il nastro riparte. La sera non scrive nulla sul quaderno *(cap. 14 r. 29, cap. 14 r. 39, cap. 14 r. 45)*
 - **Cap. 15** — Il mattino dopo: lascia la porta accostata per la prima volta in dodici anni. Alle 08:00:01 Emma gli chiede se «si rifiuta» fosse alla lettera. Pete passa e rallenta. Tom arriva all'ipotesi dell'eWatch, sbaglia un tritatutto, comincia una risposta e la cancella *(cap. 15 r. 31)*
 - **Cap. 16** — Fuori scena: dopo la mail delle 08:00:01 non risponde a Emma per sei giorni *(cap. 16 r. 23)*
+- **Cap. 17** — Venerdì 23:34: svegliato dalla mail di Emma, non la apre. Si mette davanti al bivio: chiederle di vedersi, o chiudere. Rimanda alle otto *(cap. 17 r. 22-24)*
 
 ## Relazioni
 
@@ -142,6 +150,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - → pratica [Il digiuno intermittente di Tom](../concetti/digiuno-intermittente.md) *(cap. 14 r. 35)*
 - → formula [Come il televisore sapeva del cuore - l'ipotesi dell'eWatch](../concetti/ipotesi-ewatch.md) *(cap. 15 r. 27)*
 - → decide [La porta accostata](../concetti/porta-accostata.md) *(cap. 15 r. 9)*
+- → davanti a [Il bivio](../concetti/il-bivio.md) *(cap. 17 r. 22)*
 - ← [Emma](../personaggi/emma.md) sa che le ha mentito questa scheda *(cap. 10 r. 21)*
 - ← [Emma](../personaggi/emma.md) indaga su questa scheda *(cap. 12 r. 29-37)*
 - ← [Pete](../personaggi/pete.md) sorveglia questa scheda *(cap. 15 r. 23)*
@@ -228,4 +237,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e16-03` (cap. 16, da sabato a giovedì) — [Una settimana di silenzio - Emma segue Tom sulla lista](../eventi/e16-03.md)
 1. `e16-04` (cap. 16, giovedì; venerdì alle cinque la casella è vuota da sei giorni) — [Emma decide di parlargli lei della morte, lunedì alle otto](../eventi/e16-04.md)
 1. `e16-06` (cap. 16, venerdì, 23:34) — [Alle 23:34 Emma scrive a Tom fuori orario](../eventi/e16-06.md)
+1. `e17-01` (cap. 17, venerdì, 23:34) — [La mail delle 23:34 sveglia Tom - non la apre](../eventi/e17-01.md)
+1. `e17-02` (cap. 17, subito dopo) — [Il bivio - vederla o chiudere](../eventi/e17-02.md)
+1. `e17-04` (cap. 17, dopo le 23:59) — [Pete fiuta l'osso - «Dai. Aprila.»](../eventi/e17-04.md)
 

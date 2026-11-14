@@ -55,4 +55,5 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
 1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
 1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)
+1. `e17-02` (cap. 17, subito dopo) — [Il bivio - vederla o chiudere](../eventi/e17-02.md)
 

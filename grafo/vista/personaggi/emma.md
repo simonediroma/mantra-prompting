@@ -1,6 +1,6 @@
 # Emma
 
-`emma` · personaggio · capitoli: 10, 11, 12, 13, 14, 15, 16
+`emma` · personaggio · capitoli: 10, 11, 12, 13, 14, 15, 16, 17
 
 L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10.
 
@@ -57,6 +57,8 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Applica le regole di Meridian, compresa quella sull'orario, «perché non aveva mai avuto un motivo per fare altro»; la mail delle 23:34 è la prima regola che infrange *(cap. 16 r. 35, cap. 16 r. 45)*
 - Non si è mai chiesta che faccia abbia il supervisore di Tom *(cap. 16 r. 45)*
 - Trova le risposte prima che l'altro finisca la frase *(cap. 16 r. 41)*
+- Non aveva mai scritto a Tom fuori dal turno *(cap. 17 r. 16)*
+- Per il sistema di Pete è un mittente «fuori giurisdizione»: Pete non guarda nemmeno chi sia *(cap. 17 r. 48, cap. 17 r. 52)*
 
 ## Cosa NON dice il testo
 
@@ -144,4 +146,5 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 1. `e16-04` (cap. 16, giovedì; venerdì alle cinque la casella è vuota da sei giorni) — [Emma decide di parlargli lei della morte, lunedì alle otto](../eventi/e16-04.md)
 1. `e16-05` (cap. 16, venerdì sera, una settimana dopo) — [Venerdì sera alla Mela Morsicata - Tommy e la sarda salata](../eventi/e16-05.md)
 1. `e16-06` (cap. 16, venerdì, 23:34) — [Alle 23:34 Emma scrive a Tom fuori orario](../eventi/e16-06.md)
+1. `e17-02` (cap. 17, subito dopo) — [Il bivio - vederla o chiudere](../eventi/e17-02.md)
 

@@ -1,6 +1,6 @@
 # Comunicazione formale di scostamento
 
-`comunicazione-formale-scostamento` · oggetto · capitoli: 2
+`comunicazione-formale-scostamento` · oggetto · capitoli: 2, 17
 
 Il richiamo che Tom trova il giorno dopo il primo contatto: 26:41 contro 14:00 consentiti, trattenuta di 47 minuti, firmato Pete.
 
@@ -11,6 +11,7 @@ Il richiamo che Tom trova il giorno dopo il primo contatto: 26:41 contro 14:00 c
 - Richiamo formale con annotazione nel fascicolo personale *(cap. 2 r. 19)*
 - Trattenuta: 47 minuti di retribuzione. Formula: 12:41 × 2,5 (fattore turno pomeriggio) + 15:00 (supplemento base) = 46:43, arrotondato per eccesso *(cap. 2 r. 19-21)*
 - Non menziona che il ciclo diagnostico non è mai stato concluso *(cap. 2 r. 29)*
+- Dal lato di Pete: l'unica soddisfazione che Tom gli abbia dato in dodici anni; firmata col nome per esteso e riletta due volte per il piacere di farlo *(cap. 17 r. 52)*
 
 ## Relazioni
 
@@ -26,4 +27,5 @@ Il richiamo che Tom trova il giorno dopo il primo contatto: 26:41 contro 14:00 c
 ## Catena degli eventi
 
 1. `e02-01` (cap. 2, il giorno dopo il primo contatto, inizio turno) — [Tom riceve la comunicazione formale di scostamento](../eventi/e02-01.md)
+1. `e17-04` (cap. 17, dopo le 23:59) — [Pete fiuta l'osso - «Dai. Aprila.»](../eventi/e17-04.md)
 

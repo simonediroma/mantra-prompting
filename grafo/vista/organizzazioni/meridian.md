@@ -1,6 +1,6 @@
 # Meridian
 
-`meridian` · organizzazione · capitoli: 1, 2, 3, 4, 9, 10, 16
+`meridian` · organizzazione · capitoli: 1, 2, 3, 4, 9, 10, 16, 17
 
 L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l'intera filiera dal silicio al robot da cucina.
 
@@ -24,6 +24,8 @@ L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l
 - Ha una funzione «Benessere Meridian» che manda newsletter notturne; protegge il riposo con avvisi automatici ai supervisori *(cap. 16 r. 17)*
 - Mette l'IA in frigoriferi, orologi, «perfino nei tostapane» *(cap. 16 r. 27)*
 - La pubblicità promette apparecchi che vogliono, decidono, si offendono *(cap. 16 r. 19)*
+- Ha un codice di condotta che vieta, tra l'altro, di scrivere il cognome di un cliente in una nota *(cap. 17 r. 42)*
+- Ha un apparato di controllo: supervisori, riepilogo di mezzanotte, sorveglianza video, ispettori interni *(cap. 17 r. 26, cap. 17 r. 40, cap. 17 r. 58)*
 
 ## Relazioni
 
@@ -36,6 +38,7 @@ L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l
 - ← [Coordinamento assistenza](../organizzazioni/coordinamento-assistenza.md) parte di questa scheda
 - ← [Divisione Assistenza Tecnica](../organizzazioni/divisione-assistenza-tecnica.md) parte di questa scheda
 - ← [Elab](../organizzazioni/elab.md) laboratorio di questa scheda *(cap. 9 r. 39)*
+- ← [Gli ispettori interni](../organizzazioni/ispettori-interni.md) parte di questa scheda
 - ← [Ufficio HR](../organizzazioni/ufficio-hr.md) parte di questa scheda
 - ← [Il frigorifero che non sale sopra i cinque gradi](../oggetti/frigorifero-anomalo.md) prodotto da questa scheda
 - ← [Televisore del primo contatto (caso zero)](../oggetti/tv-caso-zero.md) prodotto da questa scheda *(cap. 1 r. 21)*

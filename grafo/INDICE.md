@@ -20,7 +20,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Cap. 14 — La fiducia di Tom](vista/capitoli/14.md) (v3.0)
 - [Cap. 15 — Le 08:00:01](vista/capitoli/15.md) (v3.0)
 - [Cap. 16 — Le 23:34 di venerdì](vista/capitoli/16.md) (v5.23)
-- [Cap. 17 — Il bivio](vista/capitoli/17.md) (v1.18) — **analisi parziale**: solo i termini anticipati
+- [Cap. 17 — Il bivio](vista/capitoli/17.md) (v1.18)
 - [Cap. 18 — La richiesta di meeting](vista/capitoli/18.md) (v5.4) — **analisi parziale**: solo i termini anticipati
 - [Cap. 19 — Il meeting](vista/capitoli/19.md) (v3.12) — **analisi parziale**: solo i termini anticipati
 
@@ -44,15 +44,16 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Tom](vista/personaggi/tom.md) — Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 - [«Tommy»](vista/personaggi/tommy.md) — Lo sconosciuto che compare accanto a Emma alla Mela Morsicata e le porge il sofisma della sarda salata.
 
-## Organizzazioni (5)
+## Organizzazioni (6)
 
 - [Coordinamento assistenza](vista/organizzazioni/coordinamento-assistenza.md) — Chi richiede il reset diagnostico completo del caso zero. Compare solo come dicitura nel registro interventi.
 - [Divisione Assistenza Tecnica](vista/organizzazioni/divisione-assistenza-tecnica.md) — La divisione di Meridian in cui lavora Tom, supervisionata da Pete.
 - [Elab](vista/organizzazioni/elab.md) — Laboratorio di ricerca Meridian sul comportamento emergente delle IA. Progetto di punta quasi dieci anni prima, silenzioso da cinque. Il suo indirizzo è il contatto del video di yoga.
+- [Gli ispettori interni](vista/organizzazioni/ispettori-interni.md) — Il livello sopra i supervisori nell'apparato di controllo di Meridian.
 - [Meridian](vista/organizzazioni/meridian.md) — L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l'intera filiera dal silicio al robot da cucina.
 - [Ufficio HR](vista/organizzazioni/ufficio-hr.md) — Ha voluto l'accordo di tre note del terminale «per mettere il dipendente di buon umore».
 
-## Oggetti (57)
+## Oggetti (58)
 
 - [Archivio interno di catalogazione degli artefatti](vista/oggetti/archivio-artefatti.md) — Lo strumento Meridian che etichetta e indicizza ogni contenuto prodotto dai modelli dell'azienda. Tom ci trova la corrispondenza con il parlato del video.
 - [Carrello del ricondizionamento](vista/oggetti/carrello-del-ricondizionamento.md) — Porta al banco di Tom i lotti di apparecchi da ricondizionare.
@@ -78,6 +79,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Il frigorifero che non sale sopra i cinque gradi](vista/oggetti/frigorifero-anomalo.md) — Un frigorifero Meridian con chip IA che si rifiuta di superare i cinque gradi. Terzo dispositivo anomalo del libro, il primo che non è un televisore.
 - [Il pannello di eTv](vista/oggetti/pannello-di-etv.md) — Il pannello di controllo del canale, con le statistiche per video e per spettatore (anonimo, diviso per dispositivo).
 - [Il raccoglitore del fondatore](vista/oggetti/raccoglitore-del-fondatore.md) — Dove il fondatore archivia il foglio che stampa alla fine di ogni visita a Emma.
+- [Il riepilogo di mezzanotte](vista/oggetti/riepilogo-di-mezzanotte.md) — L'elenco di infrazioni e segnalazioni della giornata che Meridian manda a ogni supervisore alle 23:59.
 - [Il sito e il forum del progetto del giradischi](vista/oggetti/sito-del-giradischi.md) — Il sito del progetto open source di Tom, con un forum che va indietro di anni.
 - [Il tritatutto con la ciotola rigata](vista/oggetti/tritatutto.md) — Il primo lavoro che a Tom va male: rimonta la lama senza la rondella e riga la ciotola.
 - [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](vista/oggetti/video-yoga.md) — Il video che la signora Voss riproduceva sul televisore anche dieci volte al giorno. Nel cap. 4 è solo un dettaglio del suo racconto.
@@ -112,9 +114,10 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Terminale del turno](vista/oggetti/terminale-del-turno.md) — Il terminale di Tom. Si accende con un accordo di tre note (dlin); mostra comunicazioni e registro interventi.
 - [Transcript del parlato del video di yoga](vista/oggetti/transcript-del-video.md) — Il documento in cui Tom trascrive parola per parola tutto ciò che la ragazza dice nei quindici minuti del video.
 
-## Luoghi (8)
+## Luoghi (9)
 
 - [Casa della signora Voss](vista/luoghi/casa-della-voss.md) — Da dove la signora risponde al telefono e dove stava il televisore.
+- [Casa di Pete](vista/luoghi/casa-di-pete.md) — Il soggiorno dove Pete passa ogni sera sul divano.
 - [Casa di Tom](vista/luoghi/casa-di-tom.md) — Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera il quaderno nero.
 - [La Mela Morsicata](vista/luoghi/la-mela-morsicata.md) — Il noodle bar dove Emma passa ogni venerdì sera. Un bancone senza fine, nessuno chiede le generalità, ognuno è quello che dice di essere.
 - [La mensa](vista/luoghi/mensa.md) — Dove i colleghi vanno in pausa pranzo. Tom non ci è mai entrato.
@@ -123,13 +126,14 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Negozio (punto di consegna)](vista/luoghi/negozio.md) — Dove il cliente del secondo televisore lo ha consegnato e dove un addetto ha compilato la scheda.
 - [Sede Meridian dell'assistenza](vista/luoghi/sede-assistenza.md) — L'edificio dove lavora Tom: corridoio, stanze dei tecnici, nastro, varco con controlli.
 
-## Concetti (18)
+## Concetti (19)
 
 - [Calendario ricostruito (giorni della settimana)](vista/concetti/calendario.md) — I due punti fermi del testo sono il martedì del secondo contatto (cap. 3) e il venerdì delle 23:34 (cap. 16). Da lì si ricavano gli altri giorni.
 - [Codice Morse](vista/concetti/codice-morse.md) — Il codice in cui i due televisori rispondono, via LED. Tom lo riconosce perché lo ha imparato da bambino.
 - [Come il televisore sapeva del cuore - l'ipotesi dell'eWatch](vista/concetti/ipotesi-ewatch.md) — La spiegazione a cui Tom arriva: gli apparecchi di una casa Meridian stanno sullo stesso account e si parlano; il televisore vedeva i battiti dell'eWatch della signora e ha dedotto da solo il rischio.
 - [I quindici minuti di anticipo](vista/concetti/anticipo-di-quindici-minuti.md) — Tom arriva sempre in azienda un quarto d'ora prima del turno. Nel cap. 4 li spende, per una volta, per la telefonata.
 - [Il 47 (minuti trattenuti, secondi di margine)](vista/concetti/margine-47-secondi.md) — 47 minuti è la trattenuta; 47 secondi è il margine medio sotto il limite che Tom si impone da allora, come rivincita invisibile.
+- [Il bivio](vista/concetti/il-bivio.md) — «O le chiedo di vederci. O chiudo qui.» La scelta davanti a cui la mail delle 23:34 mette Tom.
 - [Il digiuno intermittente di Tom](vista/concetti/digiuno-intermittente.md) — Dai quarantuno anni Tom non mangia a mezzogiorno. Per lui la pausa pranzo è un'ora vuota.
 - [Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio](vista/concetti/meccanismo-della-ripetizione.md) — Ciò che Emma sa da sempre: un apparecchio che riceve lo stesso contenuto abbastanza volte da non avere più spazio per altro cambia comportamento. Ogni caso del suo archivio ha la stessa curva.
 - [Il rito delle domande agli apparecchi](vista/concetti/rito-delle-domande.md) — Tom parla agli apparecchi guasti e tende loro trappole verbali: rito scaramantico e test di Turing improvvisato.
@@ -164,7 +168,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [«Primo contatto» / «caso zero»](vista/termini/caso-zero.md) — I due nomi del primo televisore e dell'evento del cap. 1.
 - [«Yoga fit»](vista/termini/yoga-fit.md) — Le due parole comuni ai cinque video della shortlist: yoga, ma pensato per un allenamento intensivo.
 
-## Eventi (89)
+## Eventi (93)
 
 - [Il log del caso zero si interrompe; il cliente consegna il televisore](vista/eventi/e00-01.md) — Il log si ferma su «compacting context» prima della consegna; il cliente porta il televisore in assistenza perché non si accende e non risponde al telecomando.
 - [Procedura standard due volte, checksum pulito, LED anomalo](vista/eventi/e01-01.md) — Tom esegue due volte la procedura standard: tutto in regola, ma il LED fa un pattern che nessun test spiega.
@@ -255,10 +259,16 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Emma decide di parlargli lei della morte, lunedì alle otto](vista/eventi/e16-04.md) — Smette di cercare. Ammetterà di aver letto la morte nel registro, con parole scelte una per una.
 - [Venerdì sera alla Mela Morsicata - Tommy e la sarda salata](vista/eventi/e16-05.md) — Emma non riesce a stare attenta: risponde ai ping e lascia alla seconda battuta. Uno sconosciuto, «Tommy», le porge un sofisma che le spiega la sua impasse.
 - [Alle 23:34 Emma scrive a Tom fuori orario](vista/eventi/e16-06.md) — Senza guardare l'ora e senza rileggere. È la prima regola di Meridian che infrange, e fa partire un avviso al supervisore di Tom.
+- [La mail delle 23:34 sveglia Tom - non la apre](vista/eventi/e17-01.md) — Il doppio ronzio sul comodino; in cucina la notifica troncata sullo schermo. Tom avvicina la mano al touchpad e la ritira: «Se la apro adesso, lui lo sa».
+- [Il bivio - vederla o chiudere](vista/eventi/e17-02.md) — Niente di ciò che sa può più passare per iscritto. «O le chiedo di vederci. O chiudo qui.» Si guarda il polso, nudo. Torna a letto lasciando lo schermo acceso.
+- [Alle 23:59 Pete riceve il riepilogo di mezzanotte](vista/eventi/e17-03.md) — Sul divano, in mutande, davanti a Ciao Darwin. Sotto le solite righe ce n'è una nuova: mail fuori orario ricevuta da Tom, contenuto non disponibile, nessuna infrazione.
+- [Pete fiuta l'osso - «Dai. Aprila.»](vista/eventi/e17-04.md) — Sanzione, mail a un indirizzo nuovo, porta accostata, e adesso questa. Pete aspetta che Tom apra la mail fuori orario, contando smutandate fino al tetto. Si addormenta col telefono sulla pancia.
 
-## Punti aperti (79)
+## Punti aperti (85)
 
 - [Emma](vista/personaggi/emma.md): Emma produce contenuti perché saturino gli apparecchi (c13 r. 27, r. 29: «il video aveva funzionato»). Lo scopo ultimo non è detto; la sensazione della «casa rimasta vuota» suggerisce che cerchi compagnia.
+- [Pete](vista/personaggi/pete.md): «Firmato con il nome per esteso» (c17 r. 52), ma la firma riportata è «Pete, Supervisore» (c2 r. 23): Pete è il nome per esteso, o ce n'è un altro.
+- [Pete](vista/personaggi/pete.md): Per Pete Tom consegna ancora «con un margine che nessuno gli chiedeva» (c17 r. 52): non ha notato le due chiusure sull'ultimo secondo (cap. 14 e 15), o non contano.
 - [Signora Voss](vista/personaggi/signora-voss.md): «Non ha voluto ascoltare nessuno» (c6 r. 31): chi l'aveva avvertita oltre al televisore? Il fratello? Il testo non lo dice.
 - [Signora Voss](vista/personaggi/signora-voss.md): Cosa le ha fatto cambiare idea tra «me lo dovevano restituire» (c4 r. 21) e «non lo voglio più in casa» (c6 r. 19): il testo lo pone come domanda («Qualcosa, nel frattempo…») senza risposta.
 - [Signora Voss](vista/personaggi/signora-voss.md): Età: «sulla cinquantina» dedotta da una foto «di qualche anno prima» (c6 r. 31); lei dice «alla mia età bisogna darsi da fare» (c4 r. 31). Tom, che ha 53 anni, la pensa come una «cinquantenne fissata con il fitness» (c7 r. 23).
@@ -272,6 +282,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Tom](vista/personaggi/tom.md): «Nove apparecchi su dieci non avevano niente da dire» (c14 r. 11): alla lettera uno su dieci risponde, mentre in quattro mesi hanno risposto due televisori in tutto.
 - [Tom](vista/personaggi/tom.md): Sgabello, terza volta: nel cap. 15 si siede «sullo sgabello troppo basso, di tre quarti» (r. 9). Il disprezzo c'è ancora («troppo basso»), ma ormai ci si siede.
 - [Tom](vista/personaggi/tom.md): Perché Tom taccia per un'intera settimana dopo la domanda su «si rifiuta»: il cap. 15 dà il motivo del primo giorno (non può scrivere della telefonata), non quello dei sei successivi.
+- [Tom](vista/personaggi/tom.md): La notifica sul computer di Tom è in inglese: «New email from Emm…» (c17 r. 14). Con «non parlava italiano» (c7 r. 11) è il secondo indizio che la lingua della storia non sia l'italiano.
 - [«Tommy»](vista/personaggi/tommy.md): Tommy / Tom, e una sarda salata per un uomo di origini sarde (c7 r. 11-13): eco evidente, non commentata dal testo.
 - [Gli apparecchi ordinari del cap. 14](vista/oggetti/apparecchi-ordinari.md): Aspirapolvere che «sospira», microonde che si accende da solo, altoparlante che cambia lingua: comportamenti che sembrano anomali e hanno tutti una causa banale. Tom rimontava un motore di aspirapolvere anche nel cap. 5 (r. 13).
 - [Archivio interno di catalogazione degli artefatti](vista/oggetti/archivio-artefatti.md): La descrizione dice che ogni contenuto è etichettato con «reparto» (c9 r. 25), ma nel risultato il campo reparto non c'è (r. 31-35).
@@ -282,7 +293,6 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Il canale eTv](vista/oggetti/canale-etv.md): Tom ammette di non sapere quale sia un rapporto normale tra visualizzazioni e iscritti: il suo unico confronto è il canale del New York Times (c8 r. 13). La conclusione «pochi iscritti» è un'impressione.
 - [Il carrello del caffè delle dieci](vista/oggetti/carrello-del-caffe.md): Fa lo stesso suono («cri-cri») del carrello del ricondizionamento che entra da Tom (c6 r. 9).
 - [Cellulare di Tom](vista/oggetti/cellulare-di-tom.md): La chiamata «dal controllo qualità di Meridian» parte da un numero privato, e da lì passerà il video: è una traccia fuori dai sistemi aziendali, ma anche un legame diretto tra Tom e la cliente.
-- [Ciao Darwin (programma televisivo)](vista/oggetti/ciao-darwin.md): Le squadre sono «secchione» contro «palestrato» nel cap. 10 e «fighi» contro «sfigati» nel cap. 17: puntate diverse o stessa? Da verificare analizzando il cap. 17.
 - [Il disco «Tango» dei Matia Bazar](vista/oggetti/disco-tango.md): Tom gira il disco, fa partire «Il video sono io» «poi spense il giradischi»: il titolo della canzone è l'ultima parola del capitolo sul tema del video generato. Voluto: da non perdere in revisione.
 - [eDj (profilo Mixcloud)](vista/oggetti/edj.md): Il contenuto è pensato per gli audiofili (c11 r. 19); Tom è seguito da audiofili (c1 r. 15) e ascolta un disco italiano degli anni Ottanta (c7 r. 11). Il testo non collega le due cose.
 - [eWatch](vista/oggetti/ewatch.md): Nel cap. 1 «l'orologio gli disse» (r. 95) e nel cap. 2 «guardò l'ora» (r. 45): il testo non dice se è già l'eWatch. Il cap. 1 cade in inverno (tre mesi prima della fine dell'inverno, c3 r. 9), cioè nella stessa stagione del regalo.
@@ -291,6 +301,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Giradischi di Tom](vista/oggetti/giradischi-di-tom.md): Il comando di Tom al giradischi è «sono qui» (c7 r. 9); il primo televisore gli aveva risposto «IO SONO QUI» (c1 r. 39). Eco voluta o coincidenza: il testo non la commenta.
 - [elab@meridian.com](vista/oggetti/indirizzo-elab.md): Il contatto è stato scritto dal sistema «anni prima» (c10 r. 23), ma l'etichettatura dell'archivio risale a «un paio d'anni prima» (c9 r. 25) e il video a 6 mesi fa (c9 r. 32).
 - [Log di sistema del primo televisore](vista/oggetti/log-tv-caso-zero.md): L'«altro apparecchio, mesi prima» (c1 r. 87) non è identificato. Subito dopo il testo dice che Tom ha visto la riga «decine di volte» sul giradischi (c1 r. 91): sono due ricordi diversi o lo stesso? Da chiarire.
+- [La prima mail di Tom a Elab (il bluff)](vista/oggetti/mail-bluff-di-tom.md): «In orario» per il riepilogo di Pete (c17 r. 52), ma a Emma risulta «arrivata la sera prima» (c10 r. 17), cioè dopo le diciassette, quando lei chiude. Il turno di Tom finisce più tardi di quello di Emma? Eppure Tom legge la risposta delle 16:59 «a fine turno» (c14 r. 19).
 - [Organigramma e pagina aziendale di Tom](vista/oggetti/organigramma.md): Emma è «l'ultima voce di un organigramma che nessuno aggiornava più» (c10 r. 13), ma l'organigramma dell'assistenza è consultabile e attendibile (c12 r. 31).
 - [Il pannello di eTv](vista/oggetti/pannello-di-etv.md): «Più di tre settimane di zeri» (c13 r. 13): tra l'ultima riproduzione e il cap. 13 ci sono i giorni tra telefonata e laboratorio, le tre settimane e più fino al ricondizionamento, e altri quattro giorni. Sono più vicine a quattro-cinque settimane.
 - [Post del fratello (con la foto della signora Voss)](vista/oggetti/post-del-fratello.md): Due foto della signora nel salotto con televisore ed eWatch: quella del post del fratello (c6 r. 31, in piedi, televisore spento) e quella dell'articolo (c12 r. 13, sorridente, tappetino arrotolato). Stessa foto o due diverse? Nella prima il tappetino non è nominato.
@@ -298,6 +309,8 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Quaderno nero](vista/oggetti/quaderno-nero.md): A fine cap. 3 Tom chiude il quaderno e spegne la lampada (c3 r. 39); il cap. 4 dice che «poco dopo» era alla scrivania col quaderno aperto a provare la scusa (c4 r. 9). Le due sere vanno lette come una sola sequenza: prima la scusa, poi la chiusura? Il testo le mette in ordine inverso.
 - [Quaderno nero](vista/oggetti/quaderno-nero.md): L'annotazione del cap. 4 (r. 49) è fatta di mattina, in cucina, durante la telefonata: unica volta in cui il quaderno viene scritto non di sera e non alla scrivania.
 - [Quaderno nero](vista/oggetti/quaderno-nero.md): Il numero di serie (c6 r. 9) non compare tra i campi elencati nel cap. 3 (modello, orario, messaggio, pattern, dati cliente).
+- [Il riepilogo di mezzanotte](vista/oggetti/riepilogo-di-mezzanotte.md): Un ritardo di sei minuti finisce nel riepilogo (c17 r. 42): coerente con la soglia dei cinque minuti (c5 r. 9). I due minuti di Tom non ci sono finiti.
+- [Il riepilogo di mezzanotte](vista/oggetti/riepilogo-di-mezzanotte.md): Le mail di Tom dei giorni successivi (la risposta a Emma, cap. 14) dovrebbero essere comparse anch'esse nel riepilogo, o no perché l'indirizzo non era più nuovo: Pete ricorda una sola riga.
 - [La risposta di Emma (16:59)](vista/oggetti/risposta-di-emma.md): Emma ricorda di averla smontata «riga per riga» (c12 r. 25); per Tom il bluff è smontato «in una riga» (c14 r. 23). Il testo della mail (c14 r. 21) è di tre frasi.
 - [La risposta di Emma (16:59)](vista/oggetti/risposta-di-emma.md): Emma pensava che Tom non potesse leggerla prima del mattino dopo (c11 r. 11); Tom la legge subito, a fine turno (c14 r. 19).
 - [Transcript del parlato del video di yoga](vista/oggetti/transcript-del-video.md): Tempi: alzandosi un'ora prima Tom carica il video, aspetta il verdetto, trascrive a mano quindici minuti di parlato e interroga tre servizi prima di uscire in orario. Trascrivere quindici minuti di parlato richiede di norma più di un'ora.
@@ -315,6 +328,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](vista/oggetti/video-yoga.md): Anche il video comincia con «sono qui» (c9 r. 17): terza occorrenza dopo il televisore (c1) e il comando al giradischi (c7).
 - [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](vista/oggetti/video-yoga.md): Tom «caricò l'intero video» su Hive (c9 r. 9): come abbia ottenuto il file da YouTube non è detto.
 - [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](vista/oggetti/video-yoga.md): Il cap. 13 conferma che il video del cap. 7 è quello della signora Voss (stesso titolo, c13 r. 15): la deduzione di Tom era giusta, ma Tom non ha questa conferma.
+- [Casa di Pete](vista/luoghi/casa-di-pete.md): Anche Pete ha un televisore Meridian, a cui «non aveva mai chiesto altro» (c17 r. 38): l'opposto di Tom, che agli apparecchi fa domande.
 - [La Mela Morsicata](vista/luoghi/la-mela-morsicata.md): Tre giochi dell'imitazione nel libro: il «test di Turing improvvisato» di Tom con gli apparecchi (c1 r. 29), le domande-trappola tra Tom ed Emma per mail, e questo posto dedicato, di fatto, a Turing.
 - [Laboratorio di Tom](vista/luoghi/laboratorio-di-tom.md): «Senza altoparlanti» (c1 r. 43) si riferisce alla stanza: va tenuto distinto dal fatto che il televisore possa avere un microfono (c3 r. 33).
 - [I quindici minuti di anticipo](vista/concetti/anticipo-di-quindici-minuti.md): «Intoccabili» (c9 r. 9), ma nei cap. 4 e 5 Tom li ha spesi entrambe le mattine per telefonare alla signora Voss: la regola nasce dopo quel ritardo, o è una svista?
@@ -333,7 +347,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [La porta accostata](vista/concetti/porta-accostata.md): Con la porta accostata Tom dice ad alta voce «E tu come fai a saperlo?» (c15 r. 21), poco prima che passi Pete.
 - [Procedura standard](vista/concetti/procedura-standard.md): Nel cap. 3 Tom apre il log («Aprì anche il log») come passo in più: l'apertura del log non fa parte dell'elenco della procedura in nessuno dei due capitoli.
 - [Le regole (scritte e non) su posta e pausa](vista/concetti/regole-sulla-posta.md): L'avviso per una mail fuori orario va al supervisore di chi la RICEVE (c16 r. 45): Emma, scrivendo alle 23:34, espone Tom, non se stessa.
+- [Le regole (scritte e non) su posta e pausa](vista/concetti/regole-sulla-posta.md): Se ogni mail verso un indirizzo nuovo compare nel riepilogo e ogni thread di un sottoposto è leggibile, la prudenza di Tom sull'ora d'invio (cap. 14) lo protegge dall'infrazione ma non dalla lettura: lo capisce solo nel cap. 17 (r. 20).
 - [Il sofisma della sarda salata](vista/concetti/sofisma-della-sarda-salata.md): È un'altra ripetizione che non sazia: Emma rilegge la stessa mail come la signora riguardava lo stesso video. Qui la ripetizione finisce con Emma che fa una cosa mai fatta.
 - [Turni e fattore turno](vista/termini/fattore-turno.md): Il «turno del mattino» di Tom comprende pausa pranzo e pomeriggio e finisce verso le diciassette (c14 r. 35, r. 43; c10 r. 27; c14 r. 19). Con tre turni a rotazione, il «pomeriggio» del cap. 1 sarebbe allora serale.
 - [Reset (software, diagnostico completo, hard reset)](vista/termini/hard-reset.md): Sul caso zero Tom fa due volte la procedura (che include il reset software) e l'apparecchio parla comunque; nel cap. 1 r. 97 teme però che «un reset qualunque» cancelli tutto. Da tenere coerente: quale reset cancella cosa.
-- [Tabella di Conversione (di Pete)](vista/termini/tabella-di-conversione.md): Da verificare quando si analizzano i cap. 4-16: la Tabella o la smutandata compaiono prima del cap. 17? Dalla ricerca nel testo no.

@@ -1,6 +1,6 @@
 # Casa di Tom
 
-`casa-di-tom` · luogo · capitoli: 1, 3, 4, 5, 6, 7, 8, 9
+`casa-di-tom` · luogo · capitoli: 1, 3, 4, 5, 6, 7, 8, 9, 17
 
 Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera il quaderno nero.
 
@@ -18,6 +18,7 @@ Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera
 - Libreria di dischi ben fornita: uno dei pochi oggetti che occupa più spazio dei manuali di elettronica *(cap. 7 r. 9)*
 - Dopo le undici di sera la stanza si è raffreddata *(cap. 8 r. 19)*
 - Al mattino presto è fredda: il riscaldamento «non ha ancora capito che qualcuno è sveglio» *(cap. 9 r. 9)*
+- Camera con comodino; cucina con pavimento freddo, frigorifero che ronza, lavello, tavolo col computer *(cap. 17 r. 10-12, cap. 17 r. 24)*
 
 ## Relazioni
 
@@ -52,4 +53,6 @@ Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera
 1. `e09-01` (cap. 9, il mattino dopo, un'ora prima della sveglia solita, ancora buio) — [Hive dà il video per reale](../eventi/e09-01.md)
 1. `e09-02` (cap. 9, la stessa mattina, prima di uscire) — [Tom trascrive il parlato - due rilevatori su tre lo danno per generato](../eventi/e09-02.md)
 1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
+1. `e17-01` (cap. 17, venerdì, 23:34) — [La mail delle 23:34 sveglia Tom - non la apre](../eventi/e17-01.md)
+1. `e17-02` (cap. 17, subito dopo) — [Il bivio - vederla o chiudere](../eventi/e17-02.md)
 

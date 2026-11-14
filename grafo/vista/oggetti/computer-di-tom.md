@@ -1,6 +1,6 @@
 # Computer di Tom (a casa)
 
-`computer-di-tom` · oggetto · capitoli: 7, 8, 9
+`computer-di-tom` · oggetto · capitoli: 7, 8, 9, 17
 
 Il computer sulla scrivania di casa, con cui Tom cerca e analizza il video.
 
@@ -10,6 +10,8 @@ Il computer sulla scrivania di casa, con cui Tom cerca e analizza il video.
 - Con la tastiera torna indietro un fotogramma alla volta; si avvicina fino a sentire il calore dello schermo *(cap. 7 r. 27)*
 - Con questo Tom scorre la pagina del canale eTv *(cap. 8 r. 9)*
 - Portatile o comunque spostabile: al mattino è sul tavolo di cucina *(cap. 9 r. 9)*
+- Resta aperto sul tavolo della cucina; riceve le stesse notifiche dell'eWatch e non si spegne. Ha un touchpad *(cap. 17 r. 10, cap. 17 r. 16)*
+- Tom lo lascia acceso tutta la notte con la riga della notifica *(cap. 17 r. 24)*
 
 ## Relazioni
 
@@ -23,4 +25,5 @@ Il computer sulla scrivania di casa, con cui Tom cerca e analizza il video.
 1. `e07-04` (cap. 7, la stessa sera) — [Sei dita per due fotogrammi - il video è generato](../eventi/e07-04.md)
 1. `e08-01` (cap. 8, la stessa sera dei cap. 6-7) — [Tom scorre il canale eTv - sempre la stessa ragazza](../eventi/e08-01.md)
 1. `e09-01` (cap. 9, il mattino dopo, un'ora prima della sveglia solita, ancora buio) — [Hive dà il video per reale](../eventi/e09-01.md)
+1. `e17-01` (cap. 17, venerdì, 23:34) — [La mail delle 23:34 sveglia Tom - non la apre](../eventi/e17-01.md)
 

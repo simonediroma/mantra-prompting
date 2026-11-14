@@ -56,7 +56,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
    ]
   },
   {
@@ -110,7 +111,8 @@
     5,
     14,
     15,
-    16
+    16,
+    17
    ]
   },
   {
@@ -169,7 +171,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
    ]
   },
   {
@@ -210,6 +213,14 @@
    ]
   },
   {
+   "id": "ispettori-interni",
+   "tipo": "organizzazione",
+   "nome": "Gli ispettori interni",
+   "capitoli": [
+    17
+   ]
+  },
+  {
    "id": "meridian",
    "tipo": "organizzazione",
    "nome": "Meridian",
@@ -220,7 +231,8 @@
     4,
     9,
     10,
-    16
+    16,
+    17
    ]
   },
   {
@@ -351,7 +363,8 @@
    "capitoli": [
     7,
     8,
-    9
+    9,
+    17
    ]
   },
   {
@@ -359,7 +372,8 @@
    "tipo": "oggetto",
    "nome": "Comunicazione formale di scostamento",
    "capitoli": [
-    2
+    2,
+    17
    ]
   },
   {
@@ -404,7 +418,8 @@
     6,
     12,
     14,
-    15
+    15,
+    17
    ]
   },
   {
@@ -502,7 +517,8 @@
    "capitoli": [
     10,
     12,
-    13
+    13,
+    17
    ]
   },
   {
@@ -627,6 +643,14 @@
     13,
     14,
     16
+   ]
+  },
+  {
+   "id": "riepilogo-di-mezzanotte",
+   "tipo": "oggetto",
+   "nome": "Il riepilogo di mezzanotte",
+   "capitoli": [
+    17
    ]
   },
   {
@@ -794,6 +818,14 @@
    ]
   },
   {
+   "id": "casa-di-pete",
+   "tipo": "luogo",
+   "nome": "Casa di Pete",
+   "capitoli": [
+    17
+   ]
+  },
+  {
    "id": "casa-di-tom",
    "tipo": "luogo",
    "nome": "Casa di Tom",
@@ -805,7 +837,8 @@
     6,
     7,
     8,
-    9
+    9,
+    17
    ]
   },
   {
@@ -931,6 +964,14 @@
    ]
   },
   {
+   "id": "il-bivio",
+   "tipo": "concetto",
+   "nome": "Il bivio",
+   "capitoli": [
+    17
+   ]
+  },
+  {
    "id": "indovinello-del-fondatore",
    "tipo": "concetto",
    "nome": "L'indovinello del fondatore",
@@ -979,7 +1020,8 @@
    "tipo": "concetto",
    "nome": "La porta accostata",
    "capitoli": [
-    15
+    15,
+    17
    ]
   },
   {
@@ -1000,7 +1042,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
    ]
   },
   {
@@ -1902,6 +1945,38 @@
    "capitoli": [
     16
    ]
+  },
+  {
+   "id": "e17-01",
+   "tipo": "evento",
+   "nome": "La mail delle 23:34 sveglia Tom - non la apre",
+   "capitoli": [
+    17
+   ]
+  },
+  {
+   "id": "e17-02",
+   "tipo": "evento",
+   "nome": "Il bivio - vederla o chiudere",
+   "capitoli": [
+    17
+   ]
+  },
+  {
+   "id": "e17-03",
+   "tipo": "evento",
+   "nome": "Alle 23:59 Pete riceve il riepilogo di mezzanotte",
+   "capitoli": [
+    17
+   ]
+  },
+  {
+   "id": "e17-04",
+   "tipo": "evento",
+   "nome": "Pete fiuta l'osso - «Dai. Aprila.»",
+   "capitoli": [
+    17
+   ]
   }
  ],
  "archi": [
@@ -2149,6 +2224,34 @@
    "tipo": "sorveglia",
    "nota": "",
    "fonte": "c15:23"
+  },
+  {
+   "da": "pete",
+   "a": "riepilogo-di-mezzanotte",
+   "tipo": "riceve",
+   "nota": "",
+   "fonte": "c17:40"
+  },
+  {
+   "da": "pete",
+   "a": "casa-di-pete",
+   "tipo": "abita in",
+   "nota": "",
+   "fonte": "c17:26"
+  },
+  {
+   "da": "pete",
+   "a": "ispettori-interni",
+   "tipo": "aspira a diventare / invidia",
+   "nota": "",
+   "fonte": "c17:58"
+  },
+  {
+   "da": "pete",
+   "a": "ciao-darwin",
+   "tipo": "guarda",
+   "nota": "",
+   "fonte": "c17:38"
   },
   {
    "da": "ragazza-del-video-yoga",
@@ -2445,6 +2548,13 @@
    "fonte": "c15:9"
   },
   {
+   "da": "tom",
+   "a": "il-bivio",
+   "tipo": "davanti a",
+   "nota": "",
+   "fonte": "c17:22"
+  },
+  {
    "da": "coordinamento-assistenza",
    "a": "meridian",
    "tipo": "parte di",
@@ -2485,6 +2595,13 @@
    "tipo": "ha sede in",
    "nota": "",
    "fonte": "c10:13"
+  },
+  {
+   "da": "ispettori-interni",
+   "a": "meridian",
+   "tipo": "parte di",
+   "nota": "",
+   "fonte": ""
   },
   {
    "da": "meridian",
@@ -2942,6 +3059,20 @@
    "fonte": "c11:27"
   },
   {
+   "da": "riepilogo-di-mezzanotte",
+   "a": "mail-delle-2334",
+   "tipo": "segnala",
+   "nota": "",
+   "fonte": "c17:45"
+  },
+  {
+   "da": "riepilogo-di-mezzanotte",
+   "a": "divisione-assistenza-tecnica",
+   "tipo": "riguarda",
+   "nota": "",
+   "fonte": "c17:44"
+  },
+  {
    "da": "risposta-di-emma",
    "a": "mail-bluff-di-tom",
    "tipo": "risponde a",
@@ -3297,6 +3428,13 @@
    "tipo": "lo tiene lontano dalla",
    "nota": "",
    "fonte": "c14:35"
+  },
+  {
+   "da": "il-bivio",
+   "a": "mail-delle-2334",
+   "tipo": "provocato da",
+   "nota": "",
+   "fonte": "c17:16"
   },
   {
    "da": "ipotesi-canale-standby",
@@ -8103,6 +8241,258 @@
   {
    "da": "e16-05",
    "a": "e16-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "computer-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "mail-delle-2334",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "regole-sulla-posta",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "e17-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "il-bivio",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "e17-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "riepilogo-di-mezzanotte",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "mail-delle-2334",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "ciao-darwin",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "tabella-di-conversione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "smutandata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "casa-di-pete",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "e17-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "tabella-di-conversione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "smutandata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "ispettori-interni",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "porta-accostata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "casa-di-pete",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "e17-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "e17-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "e17-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-03",
+   "a": "e17-04",
    "tipo": "porta a",
    "nota": "",
    "fonte": ""

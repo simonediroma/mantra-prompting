@@ -1,6 +1,6 @@
 # La prima mail di Tom a Elab (il bluff)
 
-`mail-bluff-di-tom` · oggetto · capitoli: 10, 12, 13
+`mail-bluff-di-tom` · oggetto · capitoli: 10, 12, 13, 17
 
 La mail con cui Tom scrive a elab@meridian.com dicendo di aver trovato l'indirizzo nei log di un televisore. È falso, ed Emma lo sa.
 
@@ -14,11 +14,16 @@ La mail con cui Tom scrive a elab@meridian.com dicendo di aver trovato l'indiriz
 - Riletta da Emma: troppo goffa per essere sincera, forse un'esca per vedere chi risponde e come *(cap. 12 r. 25)*
 - Datata «tre giorni prima» del cap. 12 e «qualche settimana dopo» l'intervento sul televisore Voss *(cap. 12 r. 17, cap. 12 r. 23)*
 - Terza lettura di Emma: «la scusa più debole che un tecnico potesse inventare per non dire che aveva davanti una cliente morta» *(cap. 13 r. 43)*
+- Nel riepilogo di Pete, una decina di giorni prima: «una riga senza infrazione, una mail in orario verso un indirizzo a cui Tom non aveva mai scritto». Pete non apre il thread *(cap. 17 r. 52)*
 
 ## Cosa NON dice il testo
 
 - Ora esatta e luogo d'invio (casa o azienda) non sono indicati. La scrittura della mail non è in scena.
 - La mail non nomina la signora Voss, il video, né quale televisore.
+
+## Punti aperti / da verificare
+
+- «In orario» per il riepilogo di Pete (c17 r. 52), ma a Emma risulta «arrivata la sera prima» (c10 r. 17), cioè dopo le diciassette, quando lei chiude. Il turno di Tom finisce più tardi di quello di Emma? Eppure Tom legge la risposta delle 16:59 «a fine turno» (c14 r. 19).
 
 ## Relazioni
 
@@ -34,4 +39,5 @@ La mail con cui Tom scrive a elab@meridian.com dicendo di aver trovato l'indiriz
 1. `e12-02` (cap. 12, la stessa mattina) — [Emma scopre che il tecnico del televisore Voss era Tom](../eventi/e12-02.md)
 1. `e12-03` (cap. 12, la stessa mattina) — [Due ipotesi - un investigatore con la casella di Tom, o Tom che indaga](../eventi/e12-03.md)
 1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
+1. `e17-04` (cap. 17, dopo le 23:59) — [Pete fiuta l'osso - «Dai. Aprila.»](../eventi/e17-04.md)
 

@@ -1,0 +1,13 @@
+id: e17-01
+nome: La mail delle 23:34 sveglia Tom - non la apre
+capitolo: 17
+ordine: 17.1
+quando: "venerdì, 23:34"
+dove: casa-di-tom
+dopo: [e16-06]
+coinvolti: [tom, ewatch, computer-di-tom, mail-delle-2334, regole-sulla-posta, pete]
+sintesi: "Il doppio ronzio sul comodino; in cucina la notifica troncata sullo schermo. Tom avvicina la mano al touchpad e la ritira: «Se la apro adesso, lui lo sa»."
+fatti:
+  - {testo: "Il risveglio", fonte: "c17:10-14"}
+  - {testo: "La mano ritirata", fonte: "c17:16-20"}
+
