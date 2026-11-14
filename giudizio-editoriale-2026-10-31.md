@@ -372,8 +372,8 @@ Base: `chapters/01-19` (29.491 parole di testo narrativo, tutti `complete`), cop
 
 | Misura | 1 nov (18.138 parole) | 14 nov |
 |---|---|---|
-| Battute di dialogo «» | 36 | 76 (40 nei cap. 15-19, 21 nel solo 19) |
-| Capitoli senza battute | 8-13 | 2, 8-13 |
+| Battute di dialogo «» | 36 | 77 (41 nei cap. 15-19, 21 nel solo 19) |
+| Capitoli senza battute | 2, 8-13 | 2, 8-13 |
 | Odori | 2 | 5-6 |
 | Parole di luce | 13 | 31 |
 | Stagione | 5 | 3 (conteggio più stretto), nessuna dopo il cap. 3 |
