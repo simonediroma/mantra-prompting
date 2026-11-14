@@ -1,0 +1,14 @@
+id: risposta-di-emma
+nome: La risposta di Emma (16:59)
+capitoli: [10]
+sintesi: "La mail con cui Emma risponde a Tom, in registro asciutto e professionale."
+caratteristiche:
+  - {testo: "Inviata alle sedici e cinquantanove, giusto prima della fine del turno", fonte: "c10:27"}
+  - {testo: "Emma «decise cosa far sapere a Tom»", fonte: "c10:27"}
+  - {testo: "Registro: quello che userebbe «con un fornitore sorpreso a falsificare una fattura»", fonte: "c10:25"}
+non_detto:
+  - {testo: "Il testo della risposta non è riportato nel cap. 10."}
+relazioni:
+  - {verso: mail-bluff-di-tom, tipo: "risponde a", fonte: "c10:27"}
+  - {verso: tom, tipo: "indirizzata a", fonte: "c10:27"}
+

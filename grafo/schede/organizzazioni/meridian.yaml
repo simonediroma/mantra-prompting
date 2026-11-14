@@ -1,6 +1,6 @@
 id: meridian
 nome: Meridian
-capitoli: [1, 2, 3, 4, 9]
+capitoli: [1, 2, 3, 4, 9, 10]
 sintesi: "L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l'intera filiera dal silicio al robot da cucina."
 caratteristiche:
   - {testo: "Nata negli anni Novanta per scrivere sistemi operativi per computer di casa; oggi produce i chip degli elettrodomestici", fonte: "c1:19"}
@@ -16,6 +16,8 @@ caratteristiche:
   - {testo: "Esiste (o è credibile che esista) un «controllo qualità» che intervista i clienti sull'assistenza", fonte: "c4:19"}
   - {testo: "Un paio d'anni prima, spaventata dai deepfake, ha deciso di etichettare ogni contenuto prodotto dai propri modelli; «la chiamavano trasparenza», serve a trovare in fretta un autore interno da sacrificare in caso di scandalo", fonte: "c9:25"}
   - {testo: "Ha newsletter interne", fonte: "c9:39"}
+  - {testo: "Ha un fondatore, che ha anche fondato Elab", fonte: "c10:13"}
+  - {testo: "I televisori e gli altri dispositivi, anche con IA, non lasciano indirizzi di posta nei log", fonte: "c10:21"}
 relazioni:
   - {verso: ewatch, tipo: "ha distribuito", nota: "a tutti i dipendenti, quell'inverno", fonte: "c3:9"}
   - {verso: procedura-standard, tipo: "impone", fonte: "c1:23"}

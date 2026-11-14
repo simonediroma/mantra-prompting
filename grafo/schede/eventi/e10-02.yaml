@@ -1,0 +1,14 @@
+id: e10-02
+nome: Emma legge la mail di Tom e capisce che mente
+capitolo: 10
+ordine: 10.2
+quando: "la stessa mattina"
+dove: stanza-di-emma
+dopo: [e10-0a, e10-01]
+coinvolti: [emma, mail-bluff-di-tom, indirizzo-elab, archivio-artefatti, tom, elab]
+sintesi: "La frase sui log non può essere vera. Emma prova paura per il lavoro che tiene nascosto e deduce che Tom è arrivato a lei dall'archivio degli artefatti."
+fatti:
+  - {testo: "La notifica e la mail", fonte: "c10:17-19"}
+  - {testo: "La bugia", fonte: "c10:21"}
+  - {testo: "La paura e la deduzione", fonte: "c10:23"}
+

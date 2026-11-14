@@ -28,6 +28,22 @@
    ]
   },
   {
+   "id": "emma",
+   "tipo": "personaggio",
+   "nome": "Emma",
+   "capitoli": [
+    10
+   ]
+  },
+  {
+   "id": "fondatore",
+   "tipo": "personaggio",
+   "nome": "Il fondatore",
+   "capitoli": [
+    10
+   ]
+  },
+  {
    "id": "fornitore-del-quaderno",
    "tipo": "personaggio",
    "nome": "Fornitore di componenti (quello del quaderno)",
@@ -106,7 +122,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
    ]
   },
   {
@@ -132,7 +149,8 @@
    "tipo": "organizzazione",
    "nome": "Elab",
    "capitoli": [
-    9
+    9,
+    10
    ]
   },
   {
@@ -144,7 +162,8 @@
     2,
     3,
     4,
-    9
+    9,
+    10
    ]
   },
   {
@@ -160,7 +179,8 @@
    "tipo": "oggetto",
    "nome": "Archivio interno di catalogazione degli artefatti",
    "capitoli": [
-    9
+    9,
+    10
    ]
   },
   {
@@ -178,7 +198,8 @@
    "capitoli": [
     7,
     8,
-    9
+    9,
+    10
    ]
   },
   {
@@ -187,6 +208,14 @@
    "nome": "Carrello del ricondizionamento",
    "capitoli": [
     6
+   ]
+  },
+  {
+   "id": "carrello-delle-pulizie",
+   "tipo": "oggetto",
+   "nome": "Carrello delle pulizie",
+   "capitoli": [
+    10
    ]
   },
   {
@@ -206,6 +235,15 @@
     5,
     6,
     7
+   ]
+  },
+  {
+   "id": "ciao-darwin",
+   "tipo": "oggetto",
+   "nome": "Ciao Darwin (programma televisivo)",
+   "capitoli": [
+    10,
+    17
    ]
   },
   {
@@ -277,7 +315,8 @@
    "tipo": "oggetto",
    "nome": "elab@meridian.com",
    "capitoli": [
-    9
+    9,
+    10
    ]
   },
   {
@@ -305,6 +344,14 @@
    "nome": "Log di sistema del secondo televisore",
    "capitoli": [
     3
+   ]
+  },
+  {
+   "id": "mail-bluff-di-tom",
+   "tipo": "oggetto",
+   "nome": "La prima mail di Tom a Elab (il bluff)",
+   "capitoli": [
+    10
    ]
   },
   {
@@ -363,12 +410,28 @@
    ]
   },
   {
+   "id": "risposta-di-emma",
+   "tipo": "oggetto",
+   "nome": "La risposta di Emma (16:59)",
+   "capitoli": [
+    10
+   ]
+  },
+  {
    "id": "scheda-cliente-secondo-tv",
    "tipo": "oggetto",
    "nome": "Scheda cliente del secondo televisore",
    "capitoli": [
     3,
     4
+   ]
+  },
+  {
+   "id": "strumento-di-emma",
+   "tipo": "oggetto",
+   "nome": "Lo strumento di analisi dei trend di Emma",
+   "capitoli": [
+    10
    ]
   },
   {
@@ -495,6 +558,14 @@
     2,
     3,
     5
+   ]
+  },
+  {
+   "id": "stanza-di-emma",
+   "tipo": "luogo",
+   "nome": "La stanza di Emma (ex laboratorio Elab)",
+   "capitoli": [
+    10
    ]
   },
   {
@@ -1096,6 +1167,38 @@
    "capitoli": [
     9
    ]
+  },
+  {
+   "id": "e10-01",
+   "tipo": "evento",
+   "nome": "La routine del mattino di Emma - il falso trend del sifone",
+   "capitoli": [
+    10
+   ]
+  },
+  {
+   "id": "e10-02",
+   "tipo": "evento",
+   "nome": "Emma legge la mail di Tom e capisce che mente",
+   "capitoli": [
+    10
+   ]
+  },
+  {
+   "id": "e10-03",
+   "tipo": "evento",
+   "nome": "Il tono di Emma si raffredda; risponde alle 16:59",
+   "capitoli": [
+    10
+   ]
+  },
+  {
+   "id": "e10-0a",
+   "tipo": "evento",
+   "nome": "Tom scrive a elab@meridian.com",
+   "capitoli": [
+    10
+   ]
   }
  ],
  "archi": [
@@ -1119,6 +1222,69 @@
    "tipo": "proprietario di",
    "nota": "",
    "fonte": "c1:93"
+  },
+  {
+   "da": "emma",
+   "a": "elab",
+   "tipo": "ultima componente di",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "emma",
+   "a": "meridian",
+   "tipo": "lavora per",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "emma",
+   "a": "fondatore",
+   "tipo": "riceve le visite di",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "emma",
+   "a": "strumento-di-emma",
+   "tipo": "ha costruito",
+   "nota": "",
+   "fonte": "c10:9"
+  },
+  {
+   "da": "emma",
+   "a": "stanza-di-emma",
+   "tipo": "sta in",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "emma",
+   "a": "tom",
+   "tipo": "sa che le ha mentito",
+   "nota": "",
+   "fonte": "c10:21"
+  },
+  {
+   "da": "emma",
+   "a": "risposta-di-emma",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c10:27"
+  },
+  {
+   "da": "fondatore",
+   "a": "meridian",
+   "tipo": "fondatore di",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "fondatore",
+   "a": "elab",
+   "tipo": "fondatore di",
+   "nota": "",
+   "fonte": "c10:13"
   },
   {
    "da": "fornitore-del-quaderno",
@@ -1394,6 +1560,20 @@
    "fonte": "c9:15"
   },
   {
+   "da": "tom",
+   "a": "emma",
+   "tipo": "scrive a",
+   "nota": "senza sapere chi leggerà",
+   "fonte": "c10:19"
+  },
+  {
+   "da": "tom",
+   "a": "mail-bluff-di-tom",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c10:19"
+  },
+  {
    "da": "coordinamento-assistenza",
    "a": "meridian",
    "tipo": "parte di",
@@ -1427,6 +1607,13 @@
    "tipo": "risponde a",
    "nota": "",
    "fonte": "c9:35"
+  },
+  {
+   "da": "elab",
+   "a": "stanza-di-emma",
+   "tipo": "ha sede in",
+   "nota": "",
+   "fonte": "c10:13"
   },
   {
    "da": "meridian",
@@ -1506,6 +1693,13 @@
    "fonte": ""
   },
   {
+   "da": "carrello-delle-pulizie",
+   "a": "stanza-di-emma",
+   "tipo": "entra in",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
    "da": "cassetto-della-scrivania",
    "a": "laboratorio-di-tom",
    "tipo": "si trova in",
@@ -1583,6 +1777,13 @@
    "fonte": "c1:91"
   },
   {
+   "da": "indirizzo-elab",
+   "a": "emma",
+   "tipo": "gestita da",
+   "nota": "",
+   "fonte": "c10:17"
+  },
+  {
    "da": "led-di-accensione",
    "a": "codice-morse",
    "tipo": "trasmette in",
@@ -1609,6 +1810,20 @@
    "tipo": "interrotto allo stesso modo di",
    "nota": "",
    "fonte": "c3:19"
+  },
+  {
+   "da": "mail-bluff-di-tom",
+   "a": "indirizzo-elab",
+   "tipo": "inviata a",
+   "nota": "",
+   "fonte": "c10:17"
+  },
+  {
+   "da": "mail-bluff-di-tom",
+   "a": "tv-secondo-contatto",
+   "tipo": "allude a",
+   "nota": "«un televisore», non specificato",
+   "fonte": "c10:19"
   },
   {
    "da": "nastro",
@@ -1658,6 +1873,20 @@
    "tipo": "registra (voce 5)",
    "nota": "",
    "fonte": "c3:37"
+  },
+  {
+   "da": "risposta-di-emma",
+   "a": "mail-bluff-di-tom",
+   "tipo": "risponde a",
+   "nota": "",
+   "fonte": "c10:27"
+  },
+  {
+   "da": "risposta-di-emma",
+   "a": "tom",
+   "tipo": "indirizzata a",
+   "nota": "",
+   "fonte": "c10:27"
   },
   {
    "da": "tappetino-da-yoga",
@@ -1899,6 +2128,13 @@
   },
   {
    "da": "sede-assistenza",
+   "a": "meridian",
+   "tipo": "sede di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "stanza-di-emma",
    "a": "meridian",
    "tipo": "sede di",
    "nota": "",
@@ -4357,6 +4593,160 @@
   {
    "da": "e09-03",
    "a": "e09-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "strumento-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "ciao-darwin",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "archivio-artefatti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "e10-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "e10-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "risposta-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "e10-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "e10-0a",
    "tipo": "porta a",
    "nota": "",
    "fonte": ""

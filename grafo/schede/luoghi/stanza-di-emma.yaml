@@ -1,0 +1,13 @@
+id: stanza-di-emma
+nome: La stanza di Emma (ex laboratorio Elab)
+capitoli: [10]
+sintesi: "La stanza in cui Emma lavora da sola."
+caratteristiche:
+  - {testo: "Una porta sotto cui, al mattino, compare la striscia di luce del corridoio", fonte: "c10:9"}
+  - {testo: "Ci entra una volta a settimana il carrello delle pulizie", fonte: "c10:13"}
+  - {testo: "A fine giornata dal corridoio arrivano le porte che si chiudono una dopo l'altra", fonte: "c10:27"}
+non_detto:
+  - {testo: "Arredi, finestre, posizione nell'edificio: non descritti."}
+relazioni:
+  - {verso: meridian, tipo: "sede di"}
+

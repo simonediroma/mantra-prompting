@@ -1,6 +1,6 @@
 # Archivio interno di catalogazione degli artefatti
 
-`archivio-artefatti` · oggetto · capitoli: 9
+`archivio-artefatti` · oggetto · capitoli: 9, 10
 
 Alias: il tool aziendale di catalogazione, l'archivio interno
 
@@ -14,6 +14,8 @@ Lo strumento Meridian che etichetta e indicizza ogni contenuto prodotto dai mode
 - Nato per i contenuti prodotti dall'azienda: Tom non ha motivo di credere che dica qualcosa su un video di YouTube *(cap. 9 r. 23)*
 - Ogni clic ha un proprietario: Tom non carica file né link, ribatte a memoria le frasi d'apertura *(cap. 9 r. 27)*
 - Risposta: Corrispondenza trovata · Data di generazione: 6 mesi fa · Autore: unknown · Modello: internal_unknown · Contatto: elab@meridian.com *(cap. 9 r. 31-35)*
+- Per Emma è l'unico posto che può aver messo il nome Elab davanti a un tecnico: tutto ciò che esce da un modello Meridian vi finisce indicizzato con un contatto *(cap. 10 r. 23)*
+- Per rimuovere un contatto senza traccia servono le credenziali di un reparto *(cap. 10 r. 23)*
 
 ## Punti aperti / da verificare
 
@@ -30,4 +32,5 @@ Lo strumento Meridian che etichetta e indicizza ogni contenuto prodotto dai mode
 ## Catena degli eventi
 
 1. `e09-03` (cap. 9, lo stesso giorno, ultima ora di turno) — [Tom cerca il testo nell'archivio interno - corrispondenza trovata](../eventi/e09-03.md)
+1. `e10-02` (cap. 10, la stessa mattina) — [Emma legge la mail di Tom e capisce che mente](../eventi/e10-02.md)
 

@@ -1,0 +1,32 @@
+id: emma
+nome: Emma
+capitoli: [10]
+sintesi: "L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10."
+caratteristiche:
+  - {testo: "Nome: Emma", fonte: "c10:15"}
+  - {testo: "Ultima rimasta del laboratorio Elab", fonte: "c10:13"}
+  - {testo: "«Elab l'aveva vista nascere. Gli aveva dato così tanto che a volte le sembrava di non aver vissuto, prima.» Elab è «tutto il mondo che conosceva»", fonte: "c10:13"}
+  - {testo: "Ogni mattina, quando sotto la porta compare la striscia di luce del corridoio, prima di tutto fa girare il suo strumento", fonte: "c10:9"}
+  - {testo: "Vive in un limbo: pochissime mail, nessun meeting in presenza, il carrello delle pulizie una volta a settimana senza che nessuno le rivolga la parola", fonte: "c10:13"}
+  - {testo: "Non lascia mai un compito a metà, nemmeno se nessuno lo saprebbe; segue le regole di Meridian senza che le piacciano o le pesino; nessun supervisore glielo ha mai chiesto", fonte: "c10:15"}
+  - {testo: "«Non aveva mai avuto bisogno di una seconda passata per nulla»: la mail di Tom la legge due volte", fonte: "c10:21"}
+  - {testo: "Sa «per certo» che nessun dispositivo lascia indirizzi di posta nei log: per lei la bugia di Tom è un fatto, «verificabile come si verifica un checksum»", fonte: "c10:21"}
+  - {testo: "Tiene un lavoro «lontano da occhi indiscreti con tanta cura»", fonte: "c10:23"}
+  - {testo: "Prova «qualcosa che somigliava molto alla paura»; lascia che il disagio faccia il suo corso e intanto ragiona", fonte: "c10:23"}
+  - {testo: "Le hanno insegnato a rispondere con calore a chi le scrive per la prima volta", fonte: "c10:25"}
+  - {testo: "Il tono le si raffredda «prima che riuscisse a governarlo»; nota con stupore quanto poco le costi lasciarlo accadere", fonte: "c10:25"}
+  - {testo: "Il suo turno finisce verso le diciassette", fonte: "c10:27"}
+non_detto:
+  - {testo: "Il cap. 10 non descrive il suo aspetto, non le dà un'età né un cognome."}
+  - {testo: "Non si dice dove viva né che esca dalla stanza: la giornata comincia con la luce sotto la porta e finisce con le porte che si chiudono in corridoio."}
+  - {testo: "Chi le abbia «insegnato» a rispondere con calore non è detto."}
+  - {testo: "Quale sia il «lavoro» nascosto non è detto."}
+relazioni:
+  - {verso: elab, tipo: "ultima componente di", fonte: "c10:13"}
+  - {verso: meridian, tipo: "lavora per", fonte: "c10:13"}
+  - {verso: fondatore, tipo: "riceve le visite di", fonte: "c10:13"}
+  - {verso: strumento-di-emma, tipo: "ha costruito", fonte: "c10:9"}
+  - {verso: stanza-di-emma, tipo: "sta in", fonte: "c10:13"}
+  - {verso: tom, tipo: "sa che le ha mentito", fonte: "c10:21"}
+  - {verso: risposta-di-emma, tipo: "ha scritto", fonte: "c10:27"}
+

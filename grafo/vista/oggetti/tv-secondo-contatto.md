@@ -57,6 +57,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - → spiegato da [Perché il LED - l'ipotesi del circuito di standby](../concetti/ipotesi-canale-standby.md) *(cap. 5 r. 27)*
 - → sottoposto a [Ricondizionamento (giacenza, rimborso, scorciatoia)](../termini/ricondizionamento.md) *(cap. 6 r. 25)*
 - ← [Signora Voss](../personaggi/signora-voss.md) proprietario di questa scheda *(cap. 3 r. 17)*
+- ← [La prima mail di Tom a Elab (il bluff)](../oggetti/mail-bluff-di-tom.md) allude a questa scheda — «un televisore», non specificato *(cap. 10 r. 19)*
 - ← [Post del fratello (con la foto della signora Voss)](../oggetti/post-del-fratello.md) mostra questa scheda *(cap. 6 r. 31)*
 - ← [Quaderno nero](../oggetti/quaderno-nero.md) registra (voce 5) questa scheda *(cap. 3 r. 37)*
 - ← [Televisore del primo contatto (caso zero)](../oggetti/tv-caso-zero.md) stesso modello di questa scheda *(cap. 3 r. 17)*

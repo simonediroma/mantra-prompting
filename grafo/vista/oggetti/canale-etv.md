@@ -1,6 +1,6 @@
 # Il canale eTv
 
-`canale-etv` · oggetto · capitoli: 7, 8, 9
+`canale-etv` · oggetto · capitoli: 7, 8, 9, 10
 
 Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo.
 
@@ -24,6 +24,7 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 
 - L'incoerenza che il testo lascia aperta: se lo scopo sono le visualizzazioni, perché pubblicare a singhiozzo (c8 r. 15)?
 - Tom ammette di non sapere quale sia un rapporto normale tra visualizzazioni e iscritti: il suo unico confronto è il canale del New York Times (c8 r. 13). La conclusione «pochi iscritti» è un'impressione.
+- eTv ha un video su come sturare un lavandino (c8 r. 9); lo strumento di Emma segue i trend di bricolage, cucina, fitness, intrattenimento (c10 r. 9-11). Il cap. 10 non dice che Emma produca i video né che eTv sia suo: parla solo di «lavoro che teneva lontano da occhi indiscreti».
 
 ## Relazioni
 

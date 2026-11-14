@@ -1,0 +1,13 @@
+id: fondatore
+nome: Il fondatore
+capitoli: [10]
+sintesi: "Fondatore di Meridian e di Elab. L'unico che ogni tanto va a trovare Emma."
+caratteristiche:
+  - {testo: "Ha contribuito a creare Meridian «quando era poco più che un'idea su una lavagna»", fonte: "c10:13"}
+  - {testo: "Con Emma è sempre gentile, la intrattiene con «i suoi soliti indovinelli», sembra sinceramente contento di andarla a trovare quando trova il tempo", fonte: "c10:13"}
+non_detto:
+  - {testo: "Nome non indicato. Nel cap. 10 non compare in scena."}
+relazioni:
+  - {verso: meridian, tipo: "fondatore di", fonte: "c10:13"}
+  - {verso: elab, tipo: "fondatore di", fonte: "c10:13"}
+

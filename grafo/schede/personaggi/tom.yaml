@@ -1,6 +1,6 @@
 id: tom
 nome: Tom
-capitoli: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+capitoli: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 sintesi: "Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3."
 caratteristiche:
   - {testo: "53 anni", fonte: "c1:11"}
@@ -52,6 +52,7 @@ caratteristiche:
   - {testo: "Chiude la porta del laboratorio a doppia mandata, «clac clac», come sempre", fonte: "c9:25"}
   - {testo: "Fuori carica file su siti sconosciuti senza pensarci; dentro Meridian non lascia tracce: «ogni clic aveva un proprietario»", fonte: "c9:27"}
   - {testo: "Circa dieci anni prima era «agli inizi della propria carriera in Meridian»", fonte: "c9:39"}
+  - {testo: "Nella mail si firma «Tom, membro della Divisione Assistenza Tecnica»", fonte: "c10:19"}
 stato:
   - {cap: 1, testo: "Scopre che un televisore risponde in Morse; perde tempo oltre il limite; prende tempo etichettando l'unità come anomalia", fonte: "c1:97"}
   - {cap: 2, testo: "Richiamo formale e trattenuta di 47 minuti; perde il televisore; decide di tenere lui il cronometro e un archivio privato", fonte: "c2:45"}
@@ -62,8 +63,10 @@ stato:
   - {cap: 7, testo: "La stessa sera del cap. 6: trova un video «Yoga fit» compatibile con la signora Voss e, a un quarto di velocità, scopre che la ragazza ha sei dita per due fotogrammi. Il video è generato. Clicca sul canale: eTv", fonte: "c7:27-33"}
   - {cap: 8, testo: "Stessa sera, fin dopo le undici: analizza il canale eTv e conclude che è un'operazione. Rimanda a domani: capire con quale IA sia stato generato il video, per risalire dai clienti dello strumento a chi sta dietro", fonte: "c8:17-19"}
   - {cap: 9, testo: "Il giorno dopo: i rilevatori pubblici danno il video per reale ma il parlato per generato. A fine turno cerca il testo nell'archivio interno: è un prodotto Meridian, modello internal_unknown, contatto elab@meridian.com", fonte: "c9:31-37"}
+  - {cap: 10, testo: "Fuori scena: la sera del cap. 9 ha scritto a elab@meridian.com sostenendo di aver trovato l'indirizzo nei log di un televisore", fonte: "c10:17-19"}
 aperti:
   - {testo: "Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi."}
+  - {testo: "Nel cap. 9 Tom evita ogni traccia nell'archivio; la sera stessa manda da un indirizzo Meridian riconoscibile una mail con una bugia tecnica verificabile (c10 r. 17-21). Il testo non mostra come sia arrivato a questa scelta: il cap. 10 è dal punto di vista di Emma."}
 relazioni:
   - {verso: meridian, tipo: "lavora per", fonte: "c1:17"}
   - {verso: divisione-assistenza-tecnica, tipo: "tecnico della", fonte: "c2:23"}
@@ -90,3 +93,5 @@ relazioni:
   - {verso: computer-di-tom, tipo: "usa", fonte: "c7:15"}
   - {verso: archivio-artefatti, tipo: "consulta", fonte: "c9:25"}
   - {verso: transcript-del-video, tipo: "ha scritto", fonte: "c9:15"}
+  - {verso: emma, tipo: "scrive a", nota: "senza sapere chi leggerà", fonte: "c10:19"}
+  - {verso: mail-bluff-di-tom, tipo: "ha scritto", fonte: "c10:19"}

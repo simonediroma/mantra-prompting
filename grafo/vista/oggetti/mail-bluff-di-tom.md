@@ -1,0 +1,30 @@
+# La prima mail di Tom a Elab (il bluff)
+
+`mail-bluff-di-tom` · oggetto · capitoli: 10
+
+La mail con cui Tom scrive a elab@meridian.com dicendo di aver trovato l'indirizzo nei log di un televisore. È falso, ed Emma lo sa.
+
+## Caratteristiche
+
+- Testo: «Buongiorno, mi chiamo Tom, membro della Divisione Assistenza Tecnica. Nel corso di un intervento su un televisore ho rilevato nei log di sistema un riferimento a questo indirizzo di posta. Ho alcune domande sul televisore in questione e vorrei capire se possiate aiutarmi. Cordiali saluti, Tom.» *(cap. 10 r. 19)*
+- Arrivata «la sera prima»; mittente Meridian riconoscibile *(cap. 10 r. 17)*
+- La bugia: nessun dispositivo lascia indirizzi di posta nei log *(cap. 10 r. 21)*
+- Deduzione di Emma: Tom è passato dall'archivio degli artefatti; resta da capire cosa abbia cercato e perché abbia mentito *(cap. 10 r. 23)*
+
+## Cosa NON dice il testo
+
+- Ora esatta e luogo d'invio (casa o azienda) non sono indicati. La scrittura della mail non è in scena.
+- La mail non nomina la signora Voss, il video, né quale televisore.
+
+## Relazioni
+
+- → inviata a [elab@meridian.com](../oggetti/indirizzo-elab.md) *(cap. 10 r. 17)*
+- → allude a [Televisore del secondo contatto](../oggetti/tv-secondo-contatto.md) — «un televisore», non specificato *(cap. 10 r. 19)*
+- ← [Tom](../personaggi/tom.md) ha scritto questa scheda *(cap. 10 r. 19)*
+- ← [La risposta di Emma (16:59)](../oggetti/risposta-di-emma.md) risponde a questa scheda *(cap. 10 r. 27)*
+
+## Catena degli eventi
+
+1. `e10-0a` (cap. 10, la sera del giorno del cap. 9) — [Tom scrive a elab@meridian.com](../eventi/e10-0a.md)
+1. `e10-02` (cap. 10, la stessa mattina) — [Emma legge la mail di Tom e capisce che mente](../eventi/e10-02.md)
+
