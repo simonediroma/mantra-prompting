@@ -1,6 +1,6 @@
 # Foglio con l'avvertimento decifrato
 
-`foglio-avvertimento` · oggetto · capitoli: 5
+`foglio-avvertimento` · oggetto · capitoli: 5, 7
 
 Il foglio su cui Tom ricompone, a casa, il messaggio del video della signora Voss.
 
@@ -9,6 +9,7 @@ Il foglio su cui Tom ricompone, a casa, il messaggio del video della signora Vos
 - Tom resta chino sul foglio fino a indolenzirsi il collo *(cap. 5 r. 25)*
 - Testo: STAI / ESAGERANDO / CON / LO / YOGA / IL / TUO / CUORE / NON / REGGE / PIU / FERMATI / O / RISCHI / LA / VITA *(cap. 5 r. 23)*
 - Tom lo ripiega *(cap. 5 r. 27)*
+- Le prime due parole, STAI / ESAGERANDO, tornano in mente a Tom davanti ai titoli «yoga fit»: «nessuno esagera con lo yoga dolce» *(cap. 7 r. 19)*
 
 ## Cosa NON dice il testo
 

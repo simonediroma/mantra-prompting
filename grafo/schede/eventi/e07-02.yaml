@@ -1,0 +1,13 @@
+id: e07-02
+nome: Tom filtra i risultati e fa ordinare i video all'assistente IA
+capitolo: 7
+ordine: 7.2
+quando: "la stessa sera"
+dove: casa-di-tom
+dopo: [e07-01]
+coinvolti: [tom, computer-di-tom, assistente-ia-di-tom, yoga-fit, signora-voss, post-del-fratello]
+sintesi: "Scarta animazioni, copertine ingannevoli, istruttori uomini: restano una ventina di video. L'IA li ordina sul profilo della signora: shortlist di cinque, tutti «yoga fit»."
+fatti:
+  - {testo: "Il filtro", fonte: "c7:15"}
+  - {testo: "Il profilo e la shortlist", fonte: "c7:17-19"}
+

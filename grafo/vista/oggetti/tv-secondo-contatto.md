@@ -53,7 +53,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - → accompagnato da [Scheda cliente del secondo televisore](../oggetti/scheda-cliente-secondo-tv.md) *(cap. 3 r. 17)*
 - → prodotto da [Meridian](../organizzazioni/meridian.md)
 - → ripreso in [Il video girato dalla signora Voss](../oggetti/video-della-voss.md) *(cap. 4 r. 41)*
-- → ha riprodotto ripetutamente [Il video di yoga della signora Voss](../oggetti/video-yoga.md) *(cap. 4 r. 31)*
+- → ha riprodotto ripetutamente [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](../oggetti/video-yoga.md) *(cap. 4 r. 31)*
 - → spiegato da [Perché il LED - l'ipotesi del circuito di standby](../concetti/ipotesi-canale-standby.md) *(cap. 5 r. 27)*
 - → sottoposto a [Ricondizionamento (giacenza, rimborso, scorciatoia)](../termini/ricondizionamento.md) *(cap. 6 r. 25)*
 - ← [Signora Voss](../personaggi/signora-voss.md) proprietario di questa scheda *(cap. 3 r. 17)*

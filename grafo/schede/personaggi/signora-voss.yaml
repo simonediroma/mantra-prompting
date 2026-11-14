@@ -1,7 +1,7 @@
 id: signora-voss
 nome: Signora Voss
 alias: ["la signora del televisore", "cliente del secondo televisore"]
-capitoli: [3, 4, 5, 6]
+capitoli: [3, 4, 5, 6, 7]
 sintesi: "Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo stesso video anche dieci volte al giorno; ha filmato il televisore che «si rifiuta» di accendersi."
 caratteristiche:
   - {testo: "Ha dettato all'addetto del negozio: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
@@ -25,6 +25,7 @@ caratteristiche:
   - {testo: "Portava un eWatch al polso (foto di qualche anno prima, nel suo salotto, televisore spento alle spalle)", fonte: "c6:31"}
   - {testo: "Ha un fratello e un «erede designato»", fonte: "c6:21, c6:31"}
   - {testo: "Riguardava il video di yoga «in loop come un mantra»", fonte: "c6:33"}
+  - {testo: "Per Tom è «una donna sulla cinquantina», come lascia intuire la foto nel post del fratello", fonte: "c7:17"}
 non_detto:
   - {testo: "Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta."}
   - {testo: "Il cap. 5 non dice perché non risponde: Tom ipotizza doccia, cucina, telefono lontano."}
@@ -38,6 +39,8 @@ stato:
 aperti:
   - {testo: "«Non ha voluto ascoltare nessuno» (c6 r. 31): chi l'aveva avvertita oltre al televisore? Il fratello? Il testo non lo dice."}
   - {testo: "Cosa le ha fatto cambiare idea tra «me lo dovevano restituire» (c4 r. 21) e «non lo voglio più in casa» (c6 r. 19): il testo lo pone come domanda («Qualcosa, nel frattempo…») senza risposta."}
+  - {testo: "Età: «sulla cinquantina» dedotta da una foto «di qualche anno prima» (c6 r. 31); lei dice «alla mia età bisogna darsi da fare» (c4 r. 31). Tom, che ha 53 anni, la pensa come una «cinquantenne fissata con il fitness» (c7 r. 23)."}
+  - {testo: "Tom immagina una sessione «mattutina prima di andare al lavoro» (c7 r. 23); lei aveva detto «prima di andare a fare la spesa» (c4 r. 31). Il testo non dice se la signora lavorasse."}
 relazioni:
   - {verso: tv-secondo-contatto, tipo: "proprietario di", fonte: "c3:17"}
   - {verso: addetto-negozio, tipo: "detta la segnalazione a", fonte: "c3:17"}

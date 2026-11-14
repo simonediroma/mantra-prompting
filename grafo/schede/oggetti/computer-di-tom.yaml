@@ -1,0 +1,10 @@
+id: computer-di-tom
+nome: Computer di Tom (a casa)
+capitoli: [7]
+sintesi: "Il computer sulla scrivania di casa, con cui Tom cerca e analizza il video."
+caratteristiche:
+  - {testo: "Tom ci riapre la ricerca iniziata sul telefono", fonte: "c7:15"}
+  - {testo: "Con la tastiera torna indietro un fotogramma alla volta; si avvicina fino a sentire il calore dello schermo", fonte: "c7:27"}
+relazioni:
+  - {verso: casa-di-tom, tipo: "si trova in", fonte: "c7:15"}
+

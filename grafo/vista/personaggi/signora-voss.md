@@ -1,6 +1,6 @@
 # Signora Voss
 
-`signora-voss` · personaggio · capitoli: 3, 4, 5, 6
+`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7
 
 Alias: la signora del televisore, cliente del secondo televisore
 
@@ -29,6 +29,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - Portava un eWatch al polso (foto di qualche anno prima, nel suo salotto, televisore spento alle spalle) *(cap. 6 r. 31)*
 - Ha un fratello e un «erede designato» *(cap. 6 r. 21, cap. 6 r. 31)*
 - Riguardava il video di yoga «in loop come un mantra» *(cap. 6 r. 33)*
+- Per Tom è «una donna sulla cinquantina», come lascia intuire la foto nel post del fratello *(cap. 7 r. 17)*
 
 ## Cosa NON dice il testo
 
@@ -42,6 +43,8 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 
 - «Non ha voluto ascoltare nessuno» (c6 r. 31): chi l'aveva avvertita oltre al televisore? Il fratello? Il testo non lo dice.
 - Cosa le ha fatto cambiare idea tra «me lo dovevano restituire» (c4 r. 21) e «non lo voglio più in casa» (c6 r. 19): il testo lo pone come domanda («Qualcosa, nel frattempo…») senza risposta.
+- Età: «sulla cinquantina» dedotta da una foto «di qualche anno prima» (c6 r. 31); lei dice «alla mia età bisogna darsi da fare» (c4 r. 31). Tom, che ha 53 anni, la pensa come una «cinquantenne fissata con il fitness» (c7 r. 23).
+- Tom immagina una sessione «mattutina prima di andare al lavoro» (c7 r. 23); lei aveva detto «prima di andare a fare la spesa» (c4 r. 31). Il testo non dice se la signora lavorasse.
 
 ## Stato capitolo per capitolo
 
@@ -53,7 +56,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 
 - → proprietario di [Televisore del secondo contatto](../oggetti/tv-secondo-contatto.md) *(cap. 3 r. 17)*
 - → detta la segnalazione a [Addetto del negozio](../personaggi/addetto-negozio.md) *(cap. 3 r. 17)*
-- → guarda ripetutamente [Il video di yoga della signora Voss](../oggetti/video-yoga.md) *(cap. 4 r. 31)*
+- → guarda ripetutamente [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](../oggetti/video-yoga.md) *(cap. 4 r. 31)*
 - → ha girato [Il video girato dalla signora Voss](../oggetti/video-della-voss.md) *(cap. 4 r. 41)*
 - → ha portato il televisore al [Negozio (punto di consegna)](../luoghi/negozio.md) *(cap. 4 r. 31)*
 - → crede sia del controllo qualità [Tom](../personaggi/tom.md) *(cap. 4 r. 19)*
@@ -79,4 +82,5 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 1. `e06-0c` (cap. 6, una mattina, dopo il rifiuto del ritiro; registrata «pochi giorni dopo» la prima voce) — [La signora Voss muore facendo yoga](../eventi/e06-0c.md)
 1. `e06-02` (cap. 6, stesso turno) — [Tom legge nel registro il rifiuto e il decesso](../eventi/e06-02.md)
 1. `e06-04` (cap. 6, la sera dello stesso giorno) — [Tom trova il post del fratello - il cuore, durante lo yoga](../eventi/e06-04.md)
+1. `e07-02` (cap. 7, la stessa sera) — [Tom filtra i risultati e fa ordinare i video all'assistente IA](../eventi/e07-02.md)
 

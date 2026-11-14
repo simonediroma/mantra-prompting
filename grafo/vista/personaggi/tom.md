@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -41,6 +41,18 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Non gli interessa la morte in sé né fare giustizia: vuole sapere cosa è successo, il meccanismo *(cap. 6 r. 27)*
 - Davanti alla notizia della morte posa il cacciavite «con più cura del necessario»: non ha un'etichetta pronta per quello che prova *(cap. 6 r. 23)*
 - Non ha mai incontrato di persona la signora Voss *(cap. 6 r. 27)*
+- Cognome: Vardju. Suona slavo; in Meridian gli dà «un'aria da smanettone». Nessuno in azienda potrebbe risalire all'origine sarda *(cap. 7 r. 13)*
+- Origini sarde: i trisavoli lasciarono la Sardegna più di un secolo prima; gliene parlavano il padre e la nonna *(cap. 7 r. 11)*
+- Non parla italiano, non l'ha mai imparato davvero, ma ci entra in sintonia *(cap. 7 r. 11)*
+- Musica per concentrarsi davanti a uno schermo: Tango dei Matia Bazar, che non metteva da anni *(cap. 7 r. 11)*
+- Da quando il progetto del giradischi ha toccato l'apice ne parla ancora con gli audiofili, ma ha smesso di ascoltare musica *(cap. 7 r. 9)*
+- Pulisce gli occhiali da lettura sul bordo della felpa *(cap. 7 r. 15)*
+- Affronta una ricerca come un guasto multiplo: elimina prima le variabili più ovvie, non le più interessanti *(cap. 7 r. 15)*
+- Usa un assistente IA: non gli chiede di indovinare, gli chiede di ordinare per un profilo *(cap. 7 r. 17)*
+
+## Punti aperti / da verificare
+
+- Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi.
 
 ## Stato capitolo per capitolo
 
@@ -50,6 +62,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 4** — Chiama la signora Voss dal proprio cellulare fingendosi il controllo qualità; scopre che esiste un video; brucia tutti i quindici minuti di anticipo e corre all'autobus *(cap. 4 r. 57)*
 - **Cap. 5** — Primo ritardo in dodici anni (2 minuti). La sera decifra il video: il televisore avvertiva la signora. Annota «consapevole. Benevolo, non ostile.» Il mattino dopo la signora non risponde *(cap. 5 r. 33, cap. 5 r. 37)*
 - **Cap. 6** — Tre settimane dopo: gli torna sul banco il televisore Voss per il ricondizionamento. Scopre dal registro che la signora è morta, e dal post del fratello che è morta di cuore facendo yoga. Decide di cercare il video di yoga *(cap. 6 r. 21, cap. 6 r. 31, cap. 6 r. 35)*
+- **Cap. 7** — La stessa sera del cap. 6: trova un video «Yoga fit» compatibile con la signora Voss e, a un quarto di velocità, scopre che la ragazza ha sei dita per due fotogrammi. Il video è generato. Clicca sul canale: eTv *(cap. 7 r. 27-33)*
 
 ## Relazioni
 
@@ -72,6 +85,9 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - → abitudine [I quindici minuti di anticipo](../concetti/anticipo-di-quindici-minuti.md) *(cap. 4 r. 11)*
 - → ha scritto [Foglio con l'avvertimento decifrato](../oggetti/foglio-avvertimento.md) *(cap. 5 r. 25)*
 - → formula [Perché il LED - l'ipotesi del circuito di standby](../concetti/ipotesi-canale-standby.md) *(cap. 5 r. 27)*
+- → discendente di [Mauro Vargiu (il trisavolo)](../personaggi/mauro-vargiu.md) *(cap. 7 r. 13)*
+- → usa [L'assistente IA di Tom](../oggetti/assistente-ia-di-tom.md) *(cap. 7 r. 17)*
+- → usa [Computer di Tom (a casa)](../oggetti/computer-di-tom.md) *(cap. 7 r. 15)*
 - ← [Signora Voss](../personaggi/signora-voss.md) crede sia del controllo qualità questa scheda *(cap. 4 r. 19)*
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) indirizzata a questa scheda *(cap. 2 r. 9)*
 - ← [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) applicata da Pete a questa scheda *(cap. 17 r. 58)*
@@ -109,4 +125,9 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e06-03` (cap. 6, stesso turno, entro la fine) — [Tom rinuncia a interrogare il televisore e lo ricondiziona](../eventi/e06-03.md)
 1. `e06-04` (cap. 6, la sera dello stesso giorno) — [Tom trova il post del fratello - il cuore, durante lo yoga](../eventi/e06-04.md)
 1. `e06-05` (cap. 6, la stessa sera) — [Tom decide di cercare il video di yoga](../eventi/e06-05.md)
+1. `e07-01` (cap. 7, la stessa sera del cap. 6) — [Tom mette «Tango» sul giradischi](../eventi/e07-01.md)
+1. `e07-02` (cap. 7, la stessa sera) — [Tom filtra i risultati e fa ordinare i video all'assistente IA](../eventi/e07-02.md)
+1. `e07-03` (cap. 7, la stessa sera) — [Tom individua il video - «bella», velocità doppia](../eventi/e07-03.md)
+1. `e07-04` (cap. 7, la stessa sera) — [Sei dita per due fotogrammi - il video è generato](../eventi/e07-04.md)
+1. `e07-05` (cap. 7, la stessa sera) — [Tom clicca sul nome del canale - eTv](../eventi/e07-05.md)
 

@@ -1,6 +1,6 @@
 # Casa di Tom
 
-`casa-di-tom` · luogo · capitoli: 1, 3, 4, 5, 6
+`casa-di-tom` · luogo · capitoli: 1, 3, 4, 5, 6, 7
 
 Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera il quaderno nero.
 
@@ -14,12 +14,15 @@ Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera
 - La fermata dell'autobus è a due isolati *(cap. 4 r. 57)*
 - Cena in cucina, lava il piatto, spegne la luce; poi scrivania, sola lampada accesa, una pila di libri *(cap. 5 r. 17)*
 - La sera della scoperta tiene la finestra aperta «per la prima volta da mesi» *(cap. 6 r. 31)*
+- Una stanza sola che fa da studio, salotto e magazzino; ci stanno scrivania, giradischi, computer *(cap. 7 r. 9, cap. 7 r. 15)*
+- Libreria di dischi ben fornita: uno dei pochi oggetti che occupa più spazio dei manuali di elettronica *(cap. 7 r. 9)*
 
 ## Relazioni
 
 - → custodisce [Quaderno nero](../oggetti/quaderno-nero.md) *(cap. 3 r. 13)*
 - → custodisce [Giradischi di Tom](../oggetti/giradischi-di-tom.md)
 - ← [Tom](../personaggi/tom.md) abita in questa scheda *(cap. 3 r. 13)*
+- ← [Computer di Tom (a casa)](../oggetti/computer-di-tom.md) si trova in questa scheda *(cap. 7 r. 15)*
 - ← [Foglio con l'avvertimento decifrato](../oggetti/foglio-avvertimento.md) si trova in questa scheda *(cap. 5 r. 17)*
 
 ## Catena degli eventi
@@ -36,4 +39,9 @@ Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera
 1. `e05-05` (cap. 5, giovedì mattina, nel quarto d'ora di anticipo) — [La signora Voss non risponde](../eventi/e05-05.md)
 1. `e06-04` (cap. 6, la sera dello stesso giorno) — [Tom trova il post del fratello - il cuore, durante lo yoga](../eventi/e06-04.md)
 1. `e06-05` (cap. 6, la stessa sera) — [Tom decide di cercare il video di yoga](../eventi/e06-05.md)
+1. `e07-01` (cap. 7, la stessa sera del cap. 6) — [Tom mette «Tango» sul giradischi](../eventi/e07-01.md)
+1. `e07-02` (cap. 7, la stessa sera) — [Tom filtra i risultati e fa ordinare i video all'assistente IA](../eventi/e07-02.md)
+1. `e07-03` (cap. 7, la stessa sera) — [Tom individua il video - «bella», velocità doppia](../eventi/e07-03.md)
+1. `e07-04` (cap. 7, la stessa sera) — [Sei dita per due fotogrammi - il video è generato](../eventi/e07-04.md)
+1. `e07-05` (cap. 7, la stessa sera) — [Tom clicca sul nome del canale - eTv](../eventi/e07-05.md)
 

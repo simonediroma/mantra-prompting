@@ -1,0 +1,9 @@
+id: canale-etv
+nome: Il canale eTv
+capitoli: [7]
+sintesi: "Il canale YouTube che ha caricato il video di yoga generato."
+caratteristiche:
+  - {testo: "Nome del canale: eTv", fonte: "c7:33"}
+non_detto:
+  - {testo: "Nel cap. 7 Tom ci clicca soltanto: cosa contenga non è ancora detto."}
+

@@ -1,6 +1,6 @@
 # Post del fratello (con la foto della signora Voss)
 
-`post-del-fratello` · oggetto · capitoli: 6
+`post-del-fratello` · oggetto · capitoli: 6, 7
 
 Il post social, sotto il nome della signora Voss, da cui Tom apprende la causa della morte.
 
@@ -9,6 +9,7 @@ Il post social, sotto il nome della signora Voss, da cui Tom apprende la causa d
 - Su «un social», sotto il nome della signora; sotto, una fila di condoglianze *(cap. 6 r. 31)*
 - Testo: «Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.» *(cap. 6 r. 31)*
 - Foto di qualche anno prima: la signora in piedi nel suo salotto, televisore spento alle spalle, eWatch al polso *(cap. 6 r. 31)*
+- Dalla foto Tom deduce l'età della signora: sulla cinquantina *(cap. 7 r. 17)*
 
 ## Cosa NON dice il testo
 
@@ -25,4 +26,5 @@ Il post social, sotto il nome della signora Voss, da cui Tom apprende la causa d
 
 1. `e06-0c` (cap. 6, una mattina, dopo il rifiuto del ritiro; registrata «pochi giorni dopo» la prima voce) — [La signora Voss muore facendo yoga](../eventi/e06-0c.md)
 1. `e06-04` (cap. 6, la sera dello stesso giorno) — [Tom trova il post del fratello - il cuore, durante lo yoga](../eventi/e06-04.md)
+1. `e07-02` (cap. 7, la stessa sera) — [Tom filtra i risultati e fa ordinare i video all'assistente IA](../eventi/e07-02.md)
 

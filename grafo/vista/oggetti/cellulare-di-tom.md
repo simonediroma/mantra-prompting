@@ -1,6 +1,6 @@
 # Cellulare di Tom
 
-`cellulare-di-tom` · oggetto · capitoli: 4, 5, 6
+`cellulare-di-tom` · oggetto · capitoli: 4, 5, 6, 7
 
 Il telefono personale da cui Tom chiama la signora Voss. Lei ne conserva il numero e lo usa per WhatsApp.
 
@@ -12,6 +12,7 @@ Il telefono personale da cui Tom chiama la signora Voss. Lei ne conserva il nume
 - Per guardare il video lo appoggia contro una pila di libri sulla scrivania *(cap. 5 r. 17)*
 - Con questo richiama la signora due volte, senza risposta *(cap. 5 r. 35-39)*
 - Ha l'app di YouTube; Tom ci incolla la frase della signora nella ricerca *(cap. 6 r. 41)*
+- Resta appoggiato contro «la solita pila di libri» mentre Tom passa al computer *(cap. 7 r. 15)*
 
 ## Punti aperti / da verificare
 

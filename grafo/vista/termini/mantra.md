@@ -14,7 +14,7 @@ Prima comparsa della parola: il video «rivisto in loop come un mantra» dalla s
 
 ## Relazioni
 
-- → detto del [Il video di yoga della signora Voss](../oggetti/video-yoga.md) *(cap. 6 r. 33)*
+- → detto del [Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)](../oggetti/video-yoga.md) *(cap. 6 r. 33)*
 
 ## Catena degli eventi
 

@@ -14,7 +14,8 @@
    "tipo": "personaggio",
    "nome": "Audiofili scandinavi",
    "capitoli": [
-    1
+    1,
+    7
    ]
   },
   {
@@ -43,6 +44,14 @@
    ]
   },
   {
+   "id": "mauro-vargiu",
+   "tipo": "personaggio",
+   "nome": "Mauro Vargiu (il trisavolo)",
+   "capitoli": [
+    7
+   ]
+  },
+  {
    "id": "pete",
    "tipo": "personaggio",
    "nome": "Pete",
@@ -58,7 +67,8 @@
    "nome": "La ragazza del video di yoga",
    "capitoli": [
     4,
-    5
+    5,
+    7
    ]
   },
   {
@@ -69,7 +79,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
    ]
   },
   {
@@ -90,7 +101,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
    ]
   },
   {
@@ -131,6 +143,22 @@
    ]
   },
   {
+   "id": "assistente-ia-di-tom",
+   "tipo": "oggetto",
+   "nome": "L'assistente IA di Tom",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "canale-etv",
+   "tipo": "oggetto",
+   "nome": "Il canale eTv",
+   "capitoli": [
+    7
+   ]
+  },
+  {
    "id": "carrello-del-ricondizionamento",
    "tipo": "oggetto",
    "nome": "Carrello del ricondizionamento",
@@ -153,7 +181,16 @@
    "capitoli": [
     4,
     5,
-    6
+    6,
+    7
+   ]
+  },
+  {
+   "id": "computer-di-tom",
+   "tipo": "oggetto",
+   "nome": "Computer di Tom (a casa)",
+   "capitoli": [
+    7
    ]
   },
   {
@@ -162,6 +199,14 @@
    "nome": "Comunicazione formale di scostamento",
    "capitoli": [
     2
+   ]
+  },
+  {
+   "id": "disco-tango",
+   "tipo": "oggetto",
+   "nome": "Il disco «Tango» dei Matia Bazar",
+   "capitoli": [
+    7
    ]
   },
   {
@@ -178,7 +223,8 @@
    "tipo": "oggetto",
    "nome": "Foglio con l'avvertimento decifrato",
    "capitoli": [
-    5
+    5,
+    7
    ]
   },
   {
@@ -195,7 +241,8 @@
    "tipo": "oggetto",
    "nome": "Giradischi di Tom",
    "capitoli": [
-    1
+    1,
+    7
    ]
   },
   {
@@ -247,7 +294,8 @@
    "tipo": "oggetto",
    "nome": "Post del fratello (con la foto della signora Voss)",
    "capitoli": [
-    6
+    6,
+    7
    ]
   },
   {
@@ -331,11 +379,12 @@
   {
    "id": "video-yoga",
    "tipo": "oggetto",
-   "nome": "Il video di yoga della signora Voss",
+   "nome": "Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)",
    "capitoli": [
     4,
     5,
-    6
+    6,
+    7
    ]
   },
   {
@@ -357,7 +406,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
    ]
   },
   {
@@ -580,6 +630,14 @@
    "capitoli": [
     1,
     3
+   ]
+  },
+  {
+   "id": "yoga-fit",
+   "tipo": "termine",
+   "nome": "«Yoga fit»",
+   "capitoli": [
+    7
    ]
   },
   {
@@ -861,6 +919,46 @@
    "capitoli": [
     6
    ]
+  },
+  {
+   "id": "e07-01",
+   "tipo": "evento",
+   "nome": "Tom mette «Tango» sul giradischi",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "e07-02",
+   "tipo": "evento",
+   "nome": "Tom filtra i risultati e fa ordinare i video all'assistente IA",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "e07-03",
+   "tipo": "evento",
+   "nome": "Tom individua il video - «bella», velocità doppia",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "e07-04",
+   "tipo": "evento",
+   "nome": "Sei dita per due fotogrammi - il video è generato",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "e07-05",
+   "tipo": "evento",
+   "nome": "Tom clicca sul nome del canale - eTv",
+   "capitoli": [
+    7
+   ]
   }
  ],
  "archi": [
@@ -1124,6 +1222,27 @@
    "fonte": "c5:27"
   },
   {
+   "da": "tom",
+   "a": "mauro-vargiu",
+   "tipo": "discendente di",
+   "nota": "",
+   "fonte": "c7:13"
+  },
+  {
+   "da": "tom",
+   "a": "assistente-ia-di-tom",
+   "tipo": "usa",
+   "nota": "",
+   "fonte": "c7:17"
+  },
+  {
+   "da": "tom",
+   "a": "computer-di-tom",
+   "tipo": "usa",
+   "nota": "",
+   "fonte": "c7:15"
+  },
+  {
    "da": "coordinamento-assistenza",
    "a": "meridian",
    "tipo": "parte di",
@@ -1173,6 +1292,13 @@
    "fonte": "c2:9"
   },
   {
+   "da": "assistente-ia-di-tom",
+   "a": "giradischi-di-tom",
+   "tipo": "usato per costruire",
+   "nota": "",
+   "fonte": "c7:17"
+  },
+  {
    "da": "carrello-del-ricondizionamento",
    "a": "ricondizionamento",
    "tipo": "serve al",
@@ -1192,6 +1318,13 @@
    "tipo": "si trova in",
    "nota": "",
    "fonte": "c2:41"
+  },
+  {
+   "da": "computer-di-tom",
+   "a": "casa-di-tom",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c7:15"
   },
   {
    "da": "comunicazione-formale-scostamento",
@@ -1220,6 +1353,13 @@
    "tipo": "applica",
    "nota": "",
    "fonte": "c2:21"
+  },
+  {
+   "da": "disco-tango",
+   "a": "giradischi-di-tom",
+   "tipo": "suonato su",
+   "nota": "",
+   "fonte": "c7:9"
   },
   {
    "da": "foglio-avvertimento",
@@ -1479,6 +1619,20 @@
    "tipo": "girato in",
    "nota": "",
    "fonte": "c5:19"
+  },
+  {
+   "da": "video-yoga",
+   "a": "canale-etv",
+   "tipo": "pubblicato da",
+   "nota": "",
+   "fonte": "c7:33"
+  },
+  {
+   "da": "video-yoga",
+   "a": "yoga-fit",
+   "tipo": "appartiene al filone",
+   "nota": "",
+   "fonte": "c7:19"
   },
   {
    "da": "casa-della-voss",
@@ -3408,6 +3562,223 @@
   {
    "da": "e00-02",
    "a": "e06-0c",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "giradischi-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "disco-tango",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "mauro-vargiu",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "e07-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "computer-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "assistente-ia-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "yoga-fit",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "post-del-fratello",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "e07-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "ragazza-del-video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "computer-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "e07-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "ragazza-del-video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "computer-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "e07-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-05",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-05",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-05",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "e07-05",
    "tipo": "porta a",
    "nota": "",
    "fonte": ""

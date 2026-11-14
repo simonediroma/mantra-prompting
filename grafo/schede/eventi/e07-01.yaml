@@ -1,0 +1,13 @@
+id: e07-01
+nome: Tom mette «Tango» sul giradischi
+capitolo: 7
+ordine: 7.1
+quando: "la stessa sera del cap. 6"
+dove: casa-di-tom
+dopo: [e06-05]
+coinvolti: [tom, giradischi-di-tom, disco-tango, mauro-vargiu]
+sintesi: "Apre il giradischi impolverato, mette un disco che non ascoltava da anni e dice «Calibra l'audio, sono qui.» Digressione sul cognome Vardju."
+fatti:
+  - {testo: "Il giradischi e il comando", fonte: "c7:9"}
+  - {testo: "Il disco e le origini", fonte: "c7:11-13"}
+

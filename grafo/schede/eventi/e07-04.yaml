@@ -1,0 +1,14 @@
+id: e07-04
+nome: Sei dita per due fotogrammi - il video è generato
+capitolo: 7
+ordine: 7.4
+quando: "la stessa sera"
+dove: casa-di-tom
+dopo: [e07-03]
+coinvolti: [tom, video-yoga, ragazza-del-video-yoga, computer-di-tom]
+sintesi: "Dopo quattro o cinque passaggi a velocità normale e doppia, Tom scende a un quarto: al minuto tre il piede sinistro ha sei dita. Non è compressione: il corpo non è mai stato filmato."
+fatti:
+  - {testo: "I passaggi", fonte: "c7:25"}
+  - {testo: "Le sei dita", fonte: "c7:27"}
+  - {testo: "La conclusione", fonte: "c7:29"}
+

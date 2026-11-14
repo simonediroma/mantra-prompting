@@ -1,10 +1,14 @@
 id: ragazza-del-video-yoga
 nome: La ragazza del video di yoga
-capitoli: [4, 5]
+capitoli: [4, 5, 7]
 sintesi: "L'istruttrice del video che la signora Voss ripeteva. Nel cap. 4 esiste solo nelle parole della signora."
 caratteristiche:
   - {testo: "«Una ragazza che sembrava avere vent'anni ed era così brava a spiegare gli esercizi»", fonte: "c4:31"}
   - {testo: "«Quella bella ragazza con cui mi alleno»", fonte: "c5:19"}
+  - {testo: "Guarda dritto in camera, sorriso professionale «ripetuto altre mille volte»: «Se vuoi il massimo risultato, guardami a velocità doppia. Fidati, funziona meglio!»", fonte: "c7:23"}
+  - {testo: "Bellezza levigata, uniforme, quasi patinata, da copertina ritoccata", fonte: "c7:25"}
+  - {testo: "Al minuto tre e qualche secondo, in un affondo laterale, il piede sinistro ha sei dita per due fotogrammi consecutivi: cinque, sei, di nuovo cinque", fonte: "c7:27-29"}
+  - {testo: "Conclusione di Tom: un corpo mai filmato, solo generato", fonte: "c7:29"}
 relazioni:
   - {verso: video-yoga, tipo: "compare in", fonte: "c4:31"}
 

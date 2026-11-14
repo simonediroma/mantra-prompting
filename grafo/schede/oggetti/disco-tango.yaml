@@ -1,0 +1,10 @@
+id: disco-tango
+nome: Il disco «Tango» dei Matia Bazar
+capitoli: [7]
+sintesi: "Il vinile che Tom mette per concentrarsi la sera in cui cerca il video."
+caratteristiche:
+  - {testo: "Non lo metteva da anni; parte con un «crr» di polvere", fonte: "c7:11, c7:15"}
+  - {testo: "Prima canzone: Vacanze romane", fonte: "c7:15"}
+relazioni:
+  - {verso: giradischi-di-tom, tipo: "suonato su", fonte: "c7:9"}
+
