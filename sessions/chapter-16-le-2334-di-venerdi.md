@@ -116,4 +116,5 @@ chapters/16-le-2334-di-venerdi.md
 - 2026-11-05 (autore): saluti invertiti, il capitolo chiude con «Ciao, Emma, a presto»; Emma usa il vero nome al bancone (indizio). v5.17, su main.
 - 2026-11-05 (autore): il G24 è un venerdì; aggiunto il primo venerdì al noodle bar senza nominarlo (testo dell'autore). v5.18, su main.
 - 2026-11-05: revise completo (5 grammatica, 2 punteggiatura, 1 cronologia, 2 continuità applicati; P3 e T2 lasciati). v5.19, su main.
-- 2026-11-14 (autore): il bancone "tende a infinito" ed è opera di Felix Mandelbrot, pronipote del matematico famoso (citazione indiretta), falegname di mobili di lunghezza infinita; consigliato da uno dei primi avventori che andavano lì per il nome. §27 "il bancone era pieno". v5.20. Audio dell'episodio 16 da rigenerare.
+- 2026-11-14 (autore): il bancone "tende a infinito" ed è opera di Helge Mandelbrot, pronipote del matematico famoso (citazione indiretta), falegname di mobili di lunghezza infinita; consigliato da uno dei primi avventori che andavano lì per il nome. §27 "il bancone era pieno". v5.20. Audio dell'episodio 16 da rigenerare.
+- 2026-11-14 (autore): il falegname si chiama Helge, non Felix (da Helge von Koch, la curva di lunghezza infinita in uno spazio finito; nome maschile). v5.21.
