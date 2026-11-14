@@ -1,6 +1,6 @@
 ---
 title: Il meeting
-version: 3.11
+version: 3.12
 revised: 2026-11-14
 claim: "Il primo incontro tra Tom ed Emma si gioca su due canali. A voce, per la trascrizione di Pete, una consulenza tecnica impeccabile sui log che si interrompono con `compacting context`; sui cartelli, scritti coperti dalla schiena e mostrati mentre un LED abbaglia la telecamera della sorveglianza, la verità di Tom (il Morse, il video, il televisore che ha provato a salvare la signora, un altro televisore di cui non sa cosa guardasse). Emma, che si è presentata dietro una maschera, trova davanti a sé l'unico uomo di Meridian con la faccia scoperta. Pete, dietro la telecamera con i suoi sette scatti, muove l'inquadratura per vedere cosa scrive Tom e si acceca da solo; alle quattro ha una trascrizione inutile e un solo appiglio, un pennarello rotolato, e dichiara la caccia. Chiude il Libro 1."
 status: complete
@@ -68,7 +68,7 @@ C'È UN ALTRO TELEVISORE, MA NON SO COSA GUARDASSE PRIMA DI SMETTERE DI LOGGARE
 
 Emma lo lesse una volta e capì perché Tom l'aveva scritto per ultimo. La signora non era l'inizio. Prima di lei, da qualche parte, un altro apparecchio aveva fatto la stessa cosa per qualcuno che guardava qualcosa, e di quel qualcosa Tom non aveva trovato traccia. Forse era qualcosa di suo. Aprì la bocca per chiedere quando e dove. Fu allora che dall'angolo sopra la porta, nel microfono di Tom, arrivò un *clic*.
 
-Tom lo riconobbe senza girarsi. Era il filtro della telecamera della sorveglianza, lo stesso scatto del mattino, quando lui aveva spento il neon e lei se l'era tolto da davanti per vederci al buio. Adesso, con tutta quella luce, aveva deciso che era tornato giorno e se lo rimetteva, come fanno tutte, per non restare accecate. Aveva resistito più di quanto si aspettasse e meno di quanto gli servisse. Abbassò il cartello sul banco, a faccia in giù, con il pennarello che gli scappò di mano e rotolò, mentre con la sinistra rialzava l'interruttore. Il bagliore sul muro si spense.
+Tom lo riconobbe senza girarsi. Era il filtro della telecamera della sorveglianza, lo stesso *clic* del mattino, quando lui aveva spento il neon e lei se l'era tolto da davanti per vederci al buio. Adesso, con tutta quella luce, aveva deciso che era tornato giorno e se lo rimetteva, come fanno tutte, per non restare accecate. Aveva resistito più di quanto si aspettasse e meno di quanto gli servisse. Abbassò il cartello sul banco, a faccia in giù, con il pennarello che gli scappò di mano e rotolò, mentre con la sinistra rialzava l'interruttore. Il bagliore sul muro si spense.
 
 Nel francobollo di Pete i quadratini tornarono a colori, con il ritardo di un aggiornamento. La sagoma di spalle, chinata da una parte, il rettangolo chiaro dello schermo con dentro una macchia che poteva essere una faccia. Pete premette l'ultimo scatto prima che gli sparisse anche quello.
 
@@ -78,7 +78,7 @@ Lo disse prima di pensarci e si stupì di sentirsi nominare un posto in cui, in 
 
 «Mi va» disse Emma.
 
-«Chiudo il verbale» disse Tom. Poi chiuse la call.
+«Chiudo il verbale» disse Tom. Poi chiuse la call. Qualche secondo dopo, dall'angolo sopra la porta, arrivò un altro *clic*, perché la stanza era tornata buia e la telecamera si rimetteva a guardarlo in bianco e nero.
 
 La finestra di Tom si spense. Emma aveva detto «mi va» come aveva scritto "oggi", sapendo che, se fosse servito, una scusa per declinare l'avrebbe trovata. Restò nella finestra vuota della call, nella sua stanza, mentre nel corridoio, fuori, non passava nessuno. Ripensò all'ultimo cartello più che agli altri. Non per quello che diceva, perché che ci fosse un altro televisore lo sapeva lei meglio di Tom, insieme a quanti altri ce ne fossero, ma per la paura che le lasciò, diversa da quella del video. Quella era la paura di essere stata vista. Questa era la paura di chi ha messo in colonna un anno di righe, ha visto la colonna crescere a ogni mese e si accorge che la stanno contando anche altri. Gli apparecchi con quel guasto erano diventati troppi per restare un affare suo, lo sapeva da nove giorni, mentre ogni giorno aveva spostato di un giorno il momento in cui qualcuno ci sarebbe arrivato. Tom le aveva appena scritto, con un pennarello, che il momento era quello. Poi spense la modalità presenza. Le istruzioni del pacchetto dicevano che a quel punto l'anteprima sarebbe tornata alla telecamera, per mostrare a ciascuno la faccia che aveva davvero. Per un attimo, prima che si chiudesse anche la finestra, nell'anteprima restò soltanto lo sfondo, la parete chiara e il logo di Meridian, senza nessuno davanti.
 
@@ -108,7 +108,11 @@ Plausibilità dell'abbagliamento (autore). La stanza di Tom è in luce bassa dal
 | Ipotesi di Pete sul bianco | riflesso del neon di Tom | riflesso della lampada di Tom |
 | *Clic* del filtro | si sposta "quando la luce cambia troppo" | è lo scatto del mattino al contrario: con tutta quella luce la telecamera decide che è tornato giorno e rimette il filtro |
 
-Licenza dichiarata: nella realtà il ritorno alla modalità giorno richiede decine di secondi, non minuti ("aveva resistito più di quanto si aspettasse").
+### Allineamento — 2026-11-14 (v3.12)
+
+*Clic* ovunque il filtro si muove (autore): "lo stesso *clic* del mattino" nel riconoscimento di Tom e un terzo *clic* dopo la chiusura della call, quando la stanza torna buia e la telecamera ripassa in bianco e nero (aggiunta dichiarata). Suoni del capitolo: *zzz* e *clic*.
+
+Licenza dichiarata (v3.11): nella realtà il ritorno alla modalità giorno richiede decine di secondi, non minuti ("aveva resistito più di quanto si aspettasse").
 
 ### Consistency check — 2026-11-13 (v3.10)
 
