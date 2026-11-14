@@ -1,0 +1,15 @@
+id: e18-03
+nome: Pete legge il thread intero - il primo mattone
+capitolo: 18
+ordine: 18.3
+quando: "sabato, dalle 8:01 alle 8:26 e oltre"
+dove: postazione-di-pete
+dopo: [e18-01, e18-02, e17-04]
+coinvolti: [pete, mail-delle-2334, richiesta-di-meeting, risposta-di-tom, mail-bluff-di-tom, tabella-di-conversione, smutandata, registro-interventi, emma, signora-voss]
+sintesi: "Niente infrazione: Tom ha aperto in orario. Con la risposta si apre tutto il thread. Per Pete sono cose da nerd, ma Tom ha taciuto una morte che conosceva: primo mattone. E chiede un incontro di persona: meeting inutile, doppia smutandata, se avverrà."
+fatti:
+  - {testo: "L'arrivo di Pete", fonte: "c18:41"}
+  - {testo: "La lettura", fonte: "c18:43-45"}
+  - {testo: "Il primo mattone", fonte: "c18:47"}
+  - {testo: "Il meeting inutile", fonte: "c18:49"}
+

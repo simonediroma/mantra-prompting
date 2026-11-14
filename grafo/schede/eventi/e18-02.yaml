@@ -1,0 +1,13 @@
+id: e18-02
+nome: Tom ripara la bilancia e alle 8:26 chiede un meeting in presenza
+capitolo: 18
+ordine: 18.2
+quando: "sabato, 8:00-8:26"
+dove: laboratorio-di-tom
+dopo: [e18-01]
+coinvolti: [tom, bilancia-marisa, richiesta-di-meeting, il-bivio, pete, verifica-di-conformita]
+sintesi: "Una saldatura incrinata fa pesare fantasmi a una bilancia. Nei sei minuti che restano Tom scrive e cancella due volte, poi manda una sola frase."
+fatti:
+  - {testo: "La bilancia", fonte: "c18:17-25"}
+  - {testo: "Le riscritture e l'invio", fonte: "c18:27"}
+

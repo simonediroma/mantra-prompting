@@ -1,6 +1,6 @@
 # eWatch
 
-`ewatch` · oggetto · capitoli: 3, 6, 12, 14, 15, 17
+`ewatch` · oggetto · capitoli: 3, 6, 12, 14, 15, 17, 18
 
 L'orologio che Meridian ha regalato a tutti i dipendenti quell'inverno, presto diventato obbligatorio. Tom ci cronometra ogni intervento.
 
@@ -19,6 +19,7 @@ L'orologio che Meridian ha regalato a tutti i dipendenti quell'inverno, presto d
 - Mostra l'ora della notifica al secondo: 08:00:01 *(cap. 15 r. 11)*
 - È lo stesso modello venduto nei negozi e regalato ai dipendenti *(cap. 15 r. 27)*
 - Notifica le mail anche di notte, a casa; dopo tre secondi il quadrante si spegne *(cap. 17 r. 10)*
+- Notifica anche gli inviti in calendario («bzz bzz») *(cap. 18 r. 51)*
 
 ## Punti aperti / da verificare
 
@@ -47,4 +48,5 @@ L'orologio che Meridian ha regalato a tutti i dipendenti quell'inverno, presto d
 1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)
 1. `e15-05` (cap. 15, stesso intervento) — [Tom dimentica la rondella e riga la ciotola](../eventi/e15-05.md)
 1. `e17-01` (cap. 17, venerdì, 23:34) — [La mail delle 23:34 sveglia Tom - non la apre](../eventi/e17-01.md)
+1. `e18-05` (cap. 18, sabato, dalle 10:00) — [«Pete, prova a prendermi» - Tom accetta e prepara il LED](../eventi/e18-05.md)
 

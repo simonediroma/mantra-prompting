@@ -1,6 +1,6 @@
 # Signora Voss
 
-`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7, 12, 13, 14, 15
+`signora-voss` · personaggio · capitoli: 3, 4, 5, 6, 7, 12, 13, 14, 15, 18
 
 Alias: la signora del televisore, cliente del secondo televisore
 
@@ -38,6 +38,8 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - La sua segnalazione, come la riporta Tom: un apparecchio che non si accendeva e mandava segnali luminosi senza senso dal LED *(cap. 14 r. 31)*
 - Al telefono aveva messo in fila da sola le due possibilità, ridendo: il modo di dire o il fatto. «Non non riusciva. Proprio non voleva.» *(cap. 15 r. 19, cap. 15 r. 31)*
 - Il suo eWatch contava i battiti; per Tom è da lì che il televisore sapeva del cuore *(cap. 15 r. 27)*
+- Al telefono rideva del televisore «come si ride di un gatto che non vuole scendere dall'armadio»: non si sentiva minacciata *(cap. 18 r. 15)*
+- Per Pete è «la vecchia» *(cap. 18 r. 45)*
 
 ## Cosa NON dice il testo
 
@@ -55,6 +57,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - Tom immagina una sessione «mattutina prima di andare al lavoro» (c7 r. 23); lei aveva detto «prima di andare a fare la spesa» (c4 r. 31). Il testo non dice se la signora lavorasse.
 - A Tom aveva detto «anche dieci volte al giorno» (c4 r. 31); le statistiche arrivano a trenta (c13 r. 17). Minimizzava, o Tom ha in mano un dato vecchio.
 - Primo contatto con l'assistenza: «ha telefonato» (c13 r. 23) contro «l'ho portato in negozio» (c4 r. 31) e la scheda battuta dall'addetto del negozio (c3 r. 17). Prima la telefonata e poi il negozio? Il testo non mette in fila i due passaggi.
+- Età, terza versione: «sulla cinquantina» per Tom (c7 r. 17), «la vecchia» per Pete (c18 r. 45), «alla mia età» per lei (c4 r. 31).
 
 ## Stato capitolo per capitolo
 
@@ -109,4 +112,6 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)
 1. `e15-06` (cap. 15, nei secondi prima del pezzo successivo) — [«Ciao Emma,» - Tom cancella e non risponde](../eventi/e15-06.md)
 1. `e16-04` (cap. 16, giovedì; venerdì alle cinque la casella è vuota da sei giorni) — [Emma decide di parlargli lei della morte, lunedì alle otto](../eventi/e16-04.md)
+1. `e18-01` (cap. 18, sabato, 8:00) — [Alle otto Tom apre in regola la mail delle 23:34](../eventi/e18-01.md)
+1. `e18-03` (cap. 18, sabato, dalle 8:01 alle 8:26 e oltre) — [Pete legge il thread intero - il primo mattone](../eventi/e18-03.md)
 

@@ -1,0 +1,11 @@
+id: postazione-di-pete
+nome: La postazione di Pete (open space dei supervisori)
+capitoli: [18]
+sintesi: "Dove lavora Pete: una postazione uguale alle altre in un open space."
+caratteristiche:
+  - {testo: "Scrivania, tastiera, mouse, sedia con le rotelle, pannello divisorio verso il vicino di banco", fonte: "c18:41"}
+  - {testo: "Tutti i supervisori lavorano così; gli ispettori hanno uffici con la porta", fonte: "c18:41"}
+  - {testo: "Nel corridoio c'è una macchinetta degli snack", fonte: "c18:41"}
+relazioni:
+  - {verso: meridian, tipo: "sede di"}
+

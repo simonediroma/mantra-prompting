@@ -1,0 +1,15 @@
+id: e18-04
+nome: Emma risponde con un invito - «oggi» alle 15
+capitolo: 18
+ordine: 18.4
+quando: "sabato, dalle 8:26 alle 10:00"
+dove: stanza-di-emma
+dopo: [e18-02]
+coinvolti: [emma, richiesta-di-meeting, invito-di-emma, avatar-di-emma, modalita-presenza, elab, carrello-del-caffe]
+sintesi: "Emma capisce che Tom vuole una stanza e due sedie. Non può dire no né «non posso»: sceglie «oggi», la prima bugia. Prepara avatar e sfondo dalle vecchie cartelle di Elab e alle dieci manda un invito."
+fatti:
+  - {testo: "La richiesta letta da Emma", fonte: "c18:29-33"}
+  - {testo: "La bugia", fonte: "c18:35"}
+  - {testo: "L'avatar e lo sfondo", fonte: "c18:37"}
+  - {testo: "L'invito", fonte: "c18:39"}
+

@@ -1,6 +1,6 @@
 # Le regole (scritte e non) su posta e pausa
 
-`regole-sulla-posta` · concetto · capitoli: 13, 14, 15, 16, 17
+`regole-sulla-posta` · concetto · capitoli: 13, 14, 15, 16, 17, 18
 
 In Meridian contano l'ora e il luogo da cui parte una mail. Emma e Tom le usano entrambi come copertura.
 
@@ -19,6 +19,8 @@ In Meridian contano l'ora e il luogo da cui parte una mail. Emma e Tom le usano 
 - Ricevere una mail di notte non è un'infrazione; aprirla è lavorare fuori orario (una smutandata semplice, per Pete) *(cap. 17 r. 16, cap. 17 r. 58)*
 - Un supervisore può leggere per intero le mail nella casella di un sottoposto, una volta aperte; non quelle di mittenti fuori dalla sua giurisdizione *(cap. 17 r. 54)*
 - Anche una mail in orario verso un indirizzo nuovo finisce nel riepilogo del supervisore, come riga senza infrazione *(cap. 17 r. 52)*
+- Quando il sottoposto apre una mail e risponde, al supervisore si apre l'intero thread, dalla prima mail all'ultima *(cap. 18 r. 43)*
+- Un invito in calendario si può accettare senza scrivere una parola *(cap. 18 r. 39)*
 
 ## Punti aperti / da verificare
 

@@ -43,6 +43,7 @@ L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l
 - ← [Il frigorifero che non sale sopra i cinque gradi](../oggetti/frigorifero-anomalo.md) prodotto da questa scheda
 - ← [Televisore del primo contatto (caso zero)](../oggetti/tv-caso-zero.md) prodotto da questa scheda *(cap. 1 r. 21)*
 - ← [Televisore del secondo contatto](../oggetti/tv-secondo-contatto.md) prodotto da questa scheda
+- ← [La postazione di Pete (open space dei supervisori)](../luoghi/postazione-di-pete.md) sede di questa scheda
 - ← [Sede Meridian dell'assistenza](../luoghi/sede-assistenza.md) sede di questa scheda
 - ← [La stanza di Emma (ex laboratorio Elab)](../luoghi/stanza-di-emma.md) sede di questa scheda
 - ← [Meridians](../termini/meridians.md) termine di questa scheda *(cap. 1 r. 19)*

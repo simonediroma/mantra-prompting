@@ -1,6 +1,6 @@
 id: risposta-di-tom
 nome: La risposta di Tom a Emma (solo fatti)
-capitoli: [14, 15, 16]
+capitoli: [14, 15, 16, 18]
 sintesi: "La mail con cui Tom risponde alle scuse di Emma: i fatti del registro e niente altro. Scritta in pausa pranzo, inviata quando il nastro riparte."
 caratteristiche:
   - {testo: "Prima versione: le domande di Tom (cosa sia diventato Elab, chi ci sia dietro il video, perché un indirizzo Meridian risponda di un canale senza nome). Cancellate: messa alle strette, lei si richiuderebbe", fonte: "c14:37"}
@@ -16,6 +16,7 @@ caratteristiche:
   - {testo: "Emma la verifica riga per riga sulla lista dell'assistenza: tutto vero, Tom ha ricopiato le sue note", fonte: "c16:13"}
   - {testo: "NON dice che la cliente è morta: «le aveva detto tutto dell'apparecchio e niente della persona»", fonte: "c16:13"}
   - {testo: "È la «mail di sette righe» che Emma «beve e ribeve» per una settimana", fonte: "c16:41"}
+  - {testo: "Pete nota che non contiene la morte, che Tom conosceva: «la prima cosa che Tom nascondeva da quando Pete lo conosceva»", fonte: "c18:47"}
 non_detto:
 relazioni:
   - {verso: mail-di-scuse-di-emma, tipo: "risponde a", fonte: "c14:37"}

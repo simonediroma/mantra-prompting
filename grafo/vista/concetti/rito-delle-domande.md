@@ -17,6 +17,7 @@ Tom parla agli apparecchi guasti e tende loro trappole verbali: rito scaramantic
 
 - ← [Tom](../personaggi/tom.md) pratica questa scheda *(cap. 1 r. 29)*
 - ← [Gli apparecchi ordinari del cap. 14](../oggetti/apparecchi-ordinari.md) sottoposti al questa scheda *(cap. 14 r. 31)*
+- ← [La bilancia che pesa fantasmi](../oggetti/bilancia-marisa.md) sottoposta al questa scheda *(cap. 18 r. 21)*
 - ← [La copertura del «controllo qualità»](../concetti/copertura-controllo-qualita.md) applica alle persone il questa scheda *(cap. 4 r. 13)*
 
 ## Catena degli eventi

@@ -1,6 +1,6 @@
 # Emma
 
-`emma` · personaggio · capitoli: 10, 11, 12, 13, 14, 15, 16, 17
+`emma` · personaggio · capitoli: 10, 11, 12, 13, 14, 15, 16, 17, 18
 
 L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10.
 
@@ -59,6 +59,12 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Trova le risposte prima che l'altro finisca la frase *(cap. 16 r. 41)*
 - Non aveva mai scritto a Tom fuori dal turno *(cap. 17 r. 16)*
 - Per il sistema di Pete è un mittente «fuori giurisdizione»: Pete non guarda nemmeno chi sia *(cap. 17 r. 48, cap. 17 r. 52)*
+- Non ha mai fatto un meeting con qualcuno che non fosse di Elab; il fondatore «era di casa»; tutto il resto le arriva per iscritto, «con il tempo di scegliere le parole una per una» *(cap. 18 r. 33)*
+- Un meeting è «una persona che ti guarda mentre rispondi, con le pause che si vedono»; a un incontro nella stessa stanza «non riusciva nemmeno a pensare fino in fondo» *(cap. 18 r. 33)*
+- Dice a Tom la prima bugia: «oggi» non può; «di domani ne avrebbe trovato sempre un altro» *(cap. 18 r. 35)*
+- Per preparare la modalità presenza usa il pacchetto di avvio trovato nelle vecchie cartelle di Elab; ci mette più di un'ora *(cap. 18 r. 37)*
+- Il suo avatar è, per regolamento, fedele al suo aspetto attuale; quando compare sullo schermo «non lo guardò a lungo» *(cap. 18 r. 37)*
+- Per Pete: «una ricercatrice» di un altro reparto, non sotto di lui, quindi senza interesse *(cap. 18 r. 45)*
 
 ## Cosa NON dice il testo
 
@@ -69,6 +75,7 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Fino al cap. 12 Emma non sapeva della morte della signora Voss, pur avendone il caso in archivio.
 - Emma non sa del messaggio in Morse: ignora che il televisore ha avvertito la signora. Tom lo sa (cap. 5). Lei teme un «angelo della morte», lui ha annotato «benevolo, non ostile».
 - Il cap. 16 non dice come Emma arrivi alla Mela Morsicata né che lasci la stanza: al bancone ha davanti la casella di Elab «aperta» e «l'orario nell'angolo dello schermo» (r. 43).
+- Perché Emma non possa stare in una stanza con Tom non è detto: «non posso» sarebbe «un segreto, cioè proprio quello che era» (c18 r. 35). L'aspetto dell'avatar non è descritto.
 
 ## Punti aperti / da verificare
 
@@ -83,6 +90,7 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - **Cap. 14** — Fuori scena: ha inviato le scuse; nel pomeriggio non risponde alla mail di Tom *(cap. 14 r. 43)*
 - **Cap. 15** — Fuori scena: ha letto la risposta di Tom e alle 08:00:01 gli chiede se la cliente intendesse «si rifiuta» alla lettera *(cap. 15 r. 15)*
 - **Cap. 16** — Legge la risposta di Tom: tutto dell'apparecchio, niente della morte. Per una settimana lo segue sulla lista dell'assistenza. Il venerdì dopo, alla Mela Morsicata, alle 23:34 gli scrive fuori orario *(cap. 16 r. 43-47)*
+- **Cap. 18** — Sabato: riceve la richiesta di un meeting in presenza. Non può rifiutare né accettare: prepara avatar e sfondo e alle dieci manda un invito per una call alle 15 *(cap. 18 r. 39)*
 
 ## Relazioni
 
@@ -109,8 +117,11 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - → frequenta ogni venerdì [La Mela Morsicata](../luoghi/la-mela-morsicata.md) *(cap. 16 r. 25)*
 - → riceve il sofisma da [«Tommy»](../personaggi/tommy.md) *(cap. 16 r. 39)*
 - → ha scritto [La mail delle 23:34 di venerdì](../oggetti/mail-delle-2334.md) *(cap. 16 r. 43)*
+- → ha mandato [L'invito di Emma (oggi, 15:00)](../oggetti/invito-di-emma.md) *(cap. 18 r. 39)*
+- → configura [L'avatar e lo sfondo di Emma](../oggetti/avatar-di-emma.md) *(cap. 18 r. 37)*
 - ← [Tom](../personaggi/tom.md) scrive a questa scheda — senza sapere chi leggerà *(cap. 10 r. 19)*
 - ← [elab@meridian.com](../oggetti/indirizzo-elab.md) gestita da questa scheda *(cap. 10 r. 17)*
+- ← [La richiesta di meeting di Tom (8:26)](../oggetti/richiesta-di-meeting.md) indirizzata a questa scheda *(cap. 18 r. 29)*
 - ← [La risposta di Tom a Emma (solo fatti)](../oggetti/risposta-di-tom.md) indirizzata a questa scheda *(cap. 14 r. 39)*
 
 ## Catena degli eventi
@@ -147,4 +158,7 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 1. `e16-05` (cap. 16, venerdì sera, una settimana dopo) — [Venerdì sera alla Mela Morsicata - Tommy e la sarda salata](../eventi/e16-05.md)
 1. `e16-06` (cap. 16, venerdì, 23:34) — [Alle 23:34 Emma scrive a Tom fuori orario](../eventi/e16-06.md)
 1. `e17-02` (cap. 17, subito dopo) — [Il bivio - vederla o chiudere](../eventi/e17-02.md)
+1. `e18-01` (cap. 18, sabato, 8:00) — [Alle otto Tom apre in regola la mail delle 23:34](../eventi/e18-01.md)
+1. `e18-03` (cap. 18, sabato, dalle 8:01 alle 8:26 e oltre) — [Pete legge il thread intero - il primo mattone](../eventi/e18-03.md)
+1. `e18-04` (cap. 18, sabato, dalle 8:26 alle 10:00) — [Emma risponde con un invito - «oggi» alle 15](../eventi/e18-04.md)
 

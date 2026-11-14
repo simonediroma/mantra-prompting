@@ -22,6 +22,7 @@ Il «sistema matematico» privato con cui Pete traduce le infrazioni Meridian in
 - Ha un'intestazione: «TABELLA DI CONVERSIONE · uso personale». È quindi un documento scritto, non solo un'idea *(cap. 17 r. 31)*
 - Abbreviata «la Tabella» nei cap. 18 e 19 *(cap. 18 r. 47, cap. 19 r. 85)*
 - Verificato sui cap. 1-16: né la Tabella né la smutandata compaiono prima del cap. 17
+- Meeting inutile (fuori dalla lista di riparazioni): doppia smutandata, trenta minuti. Ma «per essere sanzionato, doveva prima esserci» *(cap. 18 r. 49)*
 
 ## Cosa NON dice il testo
 
@@ -39,4 +40,5 @@ Il «sistema matematico» privato con cui Pete traduce le infrazioni Meridian in
 
 1. `e17-03` (cap. 17, venerdì, 23:59) — [Alle 23:59 Pete riceve il riepilogo di mezzanotte](../eventi/e17-03.md)
 1. `e17-04` (cap. 17, dopo le 23:59) — [Pete fiuta l'osso - «Dai. Aprila.»](../eventi/e17-04.md)
+1. `e18-03` (cap. 18, sabato, dalle 8:01 alle 8:26 e oltre) — [Pete legge il thread intero - il primo mattone](../eventi/e18-03.md)
 

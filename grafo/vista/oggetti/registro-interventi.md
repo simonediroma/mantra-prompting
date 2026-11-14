@@ -30,4 +30,6 @@ Il registro in cui Tom, per abitudine, cerca l'unità del giorno prima e ne scop
 1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
 1. `e16-01` (cap. 16, venerdì, poco dopo l'una e mezza (stesso giorno dei cap. 12-14)) — [Emma legge la risposta di Tom - tutto dell'apparecchio, niente della morte](../eventi/e16-01.md)
 1. `e16-04` (cap. 16, giovedì; venerdì alle cinque la casella è vuota da sei giorni) — [Emma decide di parlargli lei della morte, lunedì alle otto](../eventi/e16-04.md)
+1. `e18-01` (cap. 18, sabato, 8:00) — [Alle otto Tom apre in regola la mail delle 23:34](../eventi/e18-01.md)
+1. `e18-03` (cap. 18, sabato, dalle 8:01 alle 8:26 e oltre) — [Pete legge il thread intero - il primo mattone](../eventi/e18-03.md)
 

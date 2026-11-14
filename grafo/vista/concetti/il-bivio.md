@@ -15,8 +15,10 @@
 
 - → provocato da [La mail delle 23:34 di venerdì](../oggetti/mail-delle-2334.md) *(cap. 17 r. 16)*
 - ← [Tom](../personaggi/tom.md) davanti a questa scheda *(cap. 17 r. 22)*
+- ← [La richiesta di meeting di Tom (8:26)](../oggetti/richiesta-di-meeting.md) scioglie questa scheda — Tom sceglie di chiederle di vedersi *(cap. 18 r. 31)*
 
 ## Catena degli eventi
 
 1. `e17-02` (cap. 17, subito dopo) — [Il bivio - vederla o chiudere](../eventi/e17-02.md)
+1. `e18-02` (cap. 18, sabato, 8:00-8:26) — [Tom ripara la bilancia e alle 8:26 chiede un meeting in presenza](../eventi/e18-02.md)
 

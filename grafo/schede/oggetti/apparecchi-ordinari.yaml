@@ -1,6 +1,6 @@
 id: apparecchi-ordinari
 nome: Gli apparecchi ordinari del cap. 14
-capitoli: [14, 16]
+capitoli: [14, 16, 18]
 sintesi: "I guasti veri che passano sul banco di Tom nel giorno delle scuse: a ognuno fa la sua domanda, ognuno risponde con un guasto."
 caratteristiche:
   - {testo: "Aspirapolvere: non aspira più; la sera alla base fa un rumore «come di uno che sospira». Spazzole di carbone consumate, cuscinetto finito. Alla domanda «sei stanco?» il LED di carica resta verde, fisso", fonte: "c14:11"}
@@ -9,6 +9,7 @@ caratteristiche:
   - {testo: "Tostapane con la leva bloccata e una fetta carbonizzata: elettromagnete da sostituire; verifica d'integrità del firmware in ventisette secondi", fonte: "c14:41-43"}
   - {testo: "Macchina del caffè con errore E04 (flussometro intasato dal calcare); ferro da stiro che si spegne a metà camicia (sensore d'inclinazione)", fonte: "c14:43"}
   - {testo: "Emma li rilegge sulla lista: l'altoparlante parlava portoghese «in una casa dove nessuno sapeva effettivamente dove si trovasse il Portogallo»", fonte: "c16:19"}
+  - {testo: "Sabato: un frullatore a immersione che «frullava solo quando voleva lui»", fonte: "c18:51"}
 aperti:
   - {testo: "Aspirapolvere che «sospira», microonde che si accende da solo, altoparlante che cambia lingua: comportamenti che sembrano anomali e hanno tutti una causa banale. Tom rimontava un motore di aspirapolvere anche nel cap. 5 (r. 13)."}
 relazioni:

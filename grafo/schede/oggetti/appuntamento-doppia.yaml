@@ -1,0 +1,10 @@
+id: appuntamento-doppia
+nome: L'appuntamento «Doppia» di Pete
+capitoli: [18]
+sintesi: "L'appuntamento privato che Pete si mette in calendario alle 15, alla stessa ora del meeting di Tom."
+caratteristiche:
+  - {testo: "Alle quindici, privato, senza invitati, chiamato «Doppia» (la doppia smutandata del meeting inutile); promemoria un minuto prima", fonte: "c18:70"}
+relazioni:
+  - {verso: smutandata, tipo: "prende il nome dalla", fonte: "c18:49"}
+  - {verso: invito-di-emma, tipo: "ricalca l'orario di", fonte: "c18:62"}
+

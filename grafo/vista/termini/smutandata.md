@@ -26,9 +26,11 @@ Il dispetto da liceo di Pete, diventato la sua unità di misura delle sanzioni: 
 
 - → gergo di [Pete](../personaggi/pete.md) *(cap. 17 r. 28)*
 - → unità di misura della [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) *(cap. 17 r. 32)*
+- ← [L'appuntamento «Doppia» di Pete](../oggetti/appuntamento-doppia.md) prende il nome dalla questa scheda *(cap. 18 r. 49)*
 
 ## Catena degli eventi
 
 1. `e17-03` (cap. 17, venerdì, 23:59) — [Alle 23:59 Pete riceve il riepilogo di mezzanotte](../eventi/e17-03.md)
 1. `e17-04` (cap. 17, dopo le 23:59) — [Pete fiuta l'osso - «Dai. Aprila.»](../eventi/e17-04.md)
+1. `e18-03` (cap. 18, sabato, dalle 8:01 alle 8:26 e oltre) — [Pete legge il thread intero - il primo mattone](../eventi/e18-03.md)
 

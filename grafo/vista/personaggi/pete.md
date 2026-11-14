@@ -1,6 +1,6 @@
 # Pete
 
-`pete` · personaggio · capitoli: 2, 4, 5, 14, 15, 16, 17
+`pete` · personaggio · capitoli: 2, 4, 5, 14, 15, 16, 17, 18
 
 Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come firma in fondo alla comunicazione formale.
 
@@ -29,6 +29,13 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 - Odia il tetto dei sessanta minuti; sogna la sanzione che solo gli ispettori possono dare. Può solo accumulare fino a chiedere un'ispezione *(cap. 17 r. 58)*
 - Del sistema di sorveglianza vede solo screenshot, non i video *(cap. 17 r. 58)*
 - Si sente «come un cane che ha fiutato un osso sotto il prato del vicino» *(cap. 17 r. 52)*
+- Arriva sempre puntuale; giacca d'ordinanza nera, occhiali da sole che getta sulla scrivania *(cap. 18 r. 41)*
+- Colazione: onion rings gusto pizza dalla macchinetta del corridoio; dita unte sul mouse *(cap. 18 r. 41, cap. 18 r. 45)*
+- Lavora in open space come tutti i supervisori; sogna un ufficio con una porta, come gli ispettori, e lo snack portato dal carrello *(cap. 18 r. 41)*
+- Guarda le date prima delle parole *(cap. 18 r. 47)*
+- Ciò che non è sotto di lui non gli interessa: Elab, Emma, «cose da nerd», gente che parla «dei sentimenti dei televisori» *(cap. 18 r. 45)*
+- Chiama la signora Voss «la vecchia»; dà per scontato che sia morta di cause naturali: «i televisori non ammazzavano nessuno» *(cap. 18 r. 45)*
+- Può vedere il calendario di ogni sottoposto, attivare la trascrizione automatica obbligatoria, aprire il pannello della sorveglianza (anteprima e sette scatti) *(cap. 18 r. 62-68)*
 
 ## Cosa NON dice il testo
 
@@ -38,11 +45,13 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 
 - «Firmato con il nome per esteso» (c17 r. 52), ma la firma riportata è «Pete, Supervisore» (c2 r. 23): Pete è il nome per esteso, o ce n'è un altro.
 - Per Pete Tom consegna ancora «con un margine che nessuno gli chiedeva» (c17 r. 52): non ha notato le due chiusure sull'ultimo secondo (cap. 14 e 15), o non contano.
+- Per Pete la morte «stava nel registro dal giorno del ricondizionamento» (c18 r. 47); nel registro il decesso è annotato prima, pochi giorni dopo il rifiuto del ritiro (c6 r. 21). È il giorno in cui Tom l'ha letta, non quello in cui è stata scritta.
 
 ## Stato capitolo per capitolo
 
 - **Cap. 15** — In scena: passa nel corridoio e rallenta davanti alla stanza di Tom *(cap. 15 r. 23)*
 - **Cap. 17** — Venerdì alle 23:59 riceve la segnalazione della mail fuori orario a Tom. Mette in fila sanzione, mail di dieci giorni prima, porta accostata. Aspetta che Tom la apra; si addormenta col telefono sulla pancia *(cap. 17 r. 60)*
+- **Cap. 18** — Sabato: legge per la prima volta l'intero thread. La morte taciuta da Tom è il «primo mattone». Attiva la trascrizione per il meeting delle 15 e si crea l'appuntamento «Doppia» *(cap. 18 r. 47, cap. 18 r. 70)*
 
 ## Relazioni
 
@@ -53,8 +62,11 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 - → abita in [Casa di Pete](../luoghi/casa-di-pete.md) *(cap. 17 r. 26)*
 - → aspira a diventare / invidia [Gli ispettori interni](../organizzazioni/ispettori-interni.md) *(cap. 17 r. 58)*
 - → guarda [Ciao Darwin (programma televisivo)](../oggetti/ciao-darwin.md) *(cap. 17 r. 38)*
+- → lavora in [La postazione di Pete (open space dei supervisori)](../luoghi/postazione-di-pete.md) *(cap. 18 r. 41)*
+- → può usare [La telecamera di sorveglianza e il suo pannello](../oggetti/telecamera-di-sorveglianza.md) *(cap. 18 r. 66-68)*
 - ← [Tom](../personaggi/tom.md) sottoposto di questa scheda — lo evita; lo conosce quasi solo per iscritto *(cap. 2 r. 25)*
 - ← [La mail delle 23:34 di venerdì](../oggetti/mail-delle-2334.md) segnalata a questa scheda *(cap. 16 r. 45)*
+- ← [Trascrizione automatica obbligatoria](../concetti/trascrizione-automatica.md) attivata da questa scheda *(cap. 18 r. 64)*
 - ← [Smutandata](../termini/smutandata.md) gergo di questa scheda *(cap. 17 r. 28)*
 - ← [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) ideata da questa scheda *(cap. 17 r. 28)*
 
@@ -70,4 +82,8 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 1. `e17-02` (cap. 17, subito dopo) — [Il bivio - vederla o chiudere](../eventi/e17-02.md)
 1. `e17-03` (cap. 17, venerdì, 23:59) — [Alle 23:59 Pete riceve il riepilogo di mezzanotte](../eventi/e17-03.md)
 1. `e17-04` (cap. 17, dopo le 23:59) — [Pete fiuta l'osso - «Dai. Aprila.»](../eventi/e17-04.md)
+1. `e18-02` (cap. 18, sabato, 8:00-8:26) — [Tom ripara la bilancia e alle 8:26 chiede un meeting in presenza](../eventi/e18-02.md)
+1. `e18-03` (cap. 18, sabato, dalle 8:01 alle 8:26 e oltre) — [Pete legge il thread intero - il primo mattone](../eventi/e18-03.md)
+1. `e18-05` (cap. 18, sabato, dalle 10:00) — [«Pete, prova a prendermi» - Tom accetta e prepara il LED](../eventi/e18-05.md)
+1. `e18-06` (cap. 18, sabato, dalle 10:02) — [Pete attiva la trascrizione e si crea l'appuntamento «Doppia»](../eventi/e18-06.md)
 

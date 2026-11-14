@@ -1,0 +1,13 @@
+id: e18-06
+nome: Pete attiva la trascrizione e si crea l'appuntamento «Doppia»
+capitolo: 18
+ordine: 18.6
+quando: "sabato, dalle 10:02"
+dove: postazione-di-pete
+dopo: [e18-05, e18-03]
+coinvolti: [pete, trascrizione-automatica, telecamera-di-sorveglianza, appuntamento-doppia, ispettori-interni, invito-di-emma]
+sintesi: "Nel calendario di Tom compare il blocco delle 15. Pete ha un'ora e un posto: attiva la trascrizione obbligatoria, controlla il pannello della sorveglianza (sette scatti) e si mette un promemoria."
+fatti:
+  - {testo: "Il calendario", fonte: "c18:62"}
+  - {testo: "La trascrizione e il pannello", fonte: "c18:64-68"}
+  - {testo: "«Doppia»", fonte: "c18:70"}

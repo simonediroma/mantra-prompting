@@ -16,5 +16,5 @@
 16: {titolo: "Le 23:34 di venerdì", file: chapters/16-le-2334-di-venerdi.md, versione_analizzata: "5.23"}
 # parziale: letti solo i passaggi che definiscono i termini anticipati; il capitolo resta da analizzare
 17: {titolo: Il bivio, file: chapters/17-il-bivio.md, versione_analizzata: "1.18"}
-18: {titolo: La richiesta di meeting, file: chapters/18-la-richiesta-di-meeting.md, versione_analizzata: "5.4", parziale: true}
+18: {titolo: La richiesta di meeting, file: chapters/18-la-richiesta-di-meeting.md, versione_analizzata: "5.4"}
 19: {titolo: Il meeting, file: chapters/19-il-meeting.md, versione_analizzata: "3.12", parziale: true}

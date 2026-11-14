@@ -1,6 +1,6 @@
 # Terminale del turno
 
-`terminale-del-turno` · oggetto · capitoli: 2, 14, 15
+`terminale-del-turno` · oggetto · capitoli: 2, 14, 15, 18
 
 Il terminale di Tom. Si accende con un accordo di tre note (dlin); mostra comunicazioni e registro interventi.
 
@@ -10,6 +10,7 @@ Il terminale di Tom. Si accende con un accordo di tre note (dlin); mostra comuni
 - Icona rossa lampeggiante in alto a destra per le comunicazioni di «rilevanza personale»: in dodici anni mai una buona notizia *(cap. 2 r. 9)*
 - In laboratorio Tom ha un computer aziendale con posta e mouse; le mail che ne partono portano l'ora *(cap. 14 r. 15, cap. 14 r. 37)*
 - Suona le tre note alle otto in punto *(cap. 15 r. 11)*
+- Si accende alle otto con l'accordo di tre note; la casella mostra in grassetto la mail della notte con l'ora *(cap. 18 r. 11)*
 
 ## Relazioni
 
@@ -24,4 +25,5 @@ Il terminale di Tom. Si accende con un accordo di tre note (dlin); mostra comuni
 1. `e14-02` (cap. 14, nei quasi cinque minuti rimasti dello slot) — [Tom legge le scuse - non è più solo; il margine dei 47 secondi salta](../eventi/e14-02.md)
 1. `e14-04` (cap. 14, pausa pranzo) — [In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti](../eventi/e14-04.md)
 1. `e15-02` (cap. 15, alle 08:00:01) — [Le 08:00:01 - «intendeva proprio quello?»](../eventi/e15-02.md)
+1. `e18-01` (cap. 18, sabato, 8:00) — [Alle otto Tom apre in regola la mail delle 23:34](../eventi/e18-01.md)
 

@@ -1,6 +1,6 @@
 id: ewatch
 nome: eWatch
-capitoli: [3, 6, 12, 14, 15, 17]
+capitoli: [3, 6, 12, 14, 15, 17, 18]
 sintesi: "L'orologio che Meridian ha regalato a tutti i dipendenti quell'inverno, presto diventato obbligatorio. Tom ci cronometra ogni intervento."
 caratteristiche:
   - {testo: "Regalato «quell'inverno» a tutti i ventimila e passa dipendenti", fonte: "c3:9"}
@@ -16,6 +16,7 @@ caratteristiche:
   - {testo: "Mostra l'ora della notifica al secondo: 08:00:01", fonte: "c15:11"}
   - {testo: "È lo stesso modello venduto nei negozi e regalato ai dipendenti", fonte: "c15:27"}
   - {testo: "Notifica le mail anche di notte, a casa; dopo tre secondi il quadrante si spegne", fonte: "c17:10"}
+  - {testo: "Notifica anche gli inviti in calendario («bzz bzz»)", fonte: "c18:51"}
 aperti:
   - {testo: "Nel cap. 1 «l'orologio gli disse» (r. 95) e nel cap. 2 «guardò l'ora» (r. 45): il testo non dice se è già l'eWatch. Il cap. 1 cade in inverno (tre mesi prima della fine dell'inverno, c3 r. 9), cioè nella stessa stagione del regalo."}
 

@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -86,6 +86,14 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Il tell confermato: si guarda il polso «come faceva al telefono quando dall'altra parte c'era una persona» *(cap. 17 r. 24)*
 - La morte della cliente l'ha «tolta» dalla sua risposta: scriverla aprirebbe «un vaso di Pandora» *(cap. 17 r. 20)*
 - Lascia la tazza del caffè del mattino piena sul tavolo fino a notte *(cap. 17 r. 12)*
+- Supera il metro e novanta; scarpe da trekking *(cap. 18 r. 9)*
+- Lo sgabello è lo stesso da dodici anni e da dodici anni lo disprezza apertamente: ci sta «con le ginocchia quasi all'altezza del piano… come un clown dentro la sua macchinina» *(cap. 18 r. 9)*
+- Pesa settantotto chili (la bilancia lo scambia per «Marisa») *(cap. 18 r. 25)*
+- Da ragazzo ha copiato almeno un compito: il caldo dal collo alle orecchie di quando un professore glielo restituiva senza una parola *(cap. 18 r. 15)*
+- Rilegge ciò che scrive «con gli occhi di Pete» *(cap. 18 r. 27)*
+- In dodici anni non ha mai chiesto niente a nessuno, nemmeno un giorno di ferie fuori stagione *(cap. 18 r. 49)*
+- Sentire Emma parlare è, in dodici anni in quella stanza, un evento secondo solo ai due televisori, «con cui aveva tenuto le conversazioni più interessanti della sua vita» *(cap. 18 r. 56)*
+- Sfida: «Pete, prova a prendermi», detto alla stanza *(cap. 18 r. 58)*
 
 ## Punti aperti / da verificare
 
@@ -96,6 +104,8 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Sgabello, terza volta: nel cap. 15 si siede «sullo sgabello troppo basso, di tre quarti» (r. 9). Il disprezzo c'è ancora («troppo basso»), ma ormai ci si siede.
 - Perché Tom taccia per un'intera settimana dopo la domanda su «si rifiuta»: il cap. 15 dà il motivo del primo giorno (non può scrivere della telefonata), non quello dei sei successivi.
 - La notifica sul computer di Tom è in inglese: «New email from Emm…» (c17 r. 14). Con «non parlava italiano» (c7 r. 11) è il secondo indizio che la lingua della storia non sia l'italiano.
+- Sgabello, quadro completo: il cap. 18 (r. 9) spiega che ci si siede disprezzandolo. Resta solo il cap. 3 (r. 21), dove lavora in piedi «perché gli sgabelli restavano quello che erano».
+- C'è una telecamera di sorveglianza sopra la porta del laboratorio (c18 r. 56, r. 60). Nei cap. 1 e 3 Tom parla ai televisori e il LED risponde in Morse in quella stessa stanza, descritta come isolata e senza testimoni (c1 r. 43). O la telecamera c'era già e ha ripreso tutto (il video completo è degli ispettori), o è stata messa dopo: il testo non lo dice.
 
 ## Stato capitolo per capitolo
 
@@ -116,6 +126,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 15** — Il mattino dopo: lascia la porta accostata per la prima volta in dodici anni. Alle 08:00:01 Emma gli chiede se «si rifiuta» fosse alla lettera. Pete passa e rallenta. Tom arriva all'ipotesi dell'eWatch, sbaglia un tritatutto, comincia una risposta e la cancella *(cap. 15 r. 31)*
 - **Cap. 16** — Fuori scena: dopo la mail delle 08:00:01 non risponde a Emma per sei giorni *(cap. 16 r. 23)*
 - **Cap. 17** — Venerdì 23:34: svegliato dalla mail di Emma, non la apre. Si mette davanti al bivio: chiederle di vedersi, o chiudere. Rimanda alle otto *(cap. 17 r. 22-24)*
+- **Cap. 18** — Sabato alle otto apre in regola la mail delle 23:34. Alle 8:26 chiede a Emma un meeting in presenza. Riceve un invito per una call alle 15: accetta e prepara un LED puntato sulla telecamera di sorveglianza *(cap. 18 r. 27, cap. 18 r. 60)*
 
 ## Relazioni
 
@@ -151,11 +162,14 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - → formula [Come il televisore sapeva del cuore - l'ipotesi dell'eWatch](../concetti/ipotesi-ewatch.md) *(cap. 15 r. 27)*
 - → decide [La porta accostata](../concetti/porta-accostata.md) *(cap. 15 r. 9)*
 - → davanti a [Il bivio](../concetti/il-bivio.md) *(cap. 17 r. 22)*
+- → ha scritto [La richiesta di meeting di Tom (8:26)](../oggetti/richiesta-di-meeting.md) *(cap. 18 r. 31)*
+- → prepara [Il LED del faretto da giardino (la contromossa di Tom)](../oggetti/led-del-faretto.md) *(cap. 18 r. 60)*
 - ← [Emma](../personaggi/emma.md) sa che le ha mentito questa scheda *(cap. 10 r. 21)*
 - ← [Emma](../personaggi/emma.md) indaga su questa scheda *(cap. 12 r. 29-37)*
 - ← [Pete](../personaggi/pete.md) sorveglia questa scheda *(cap. 15 r. 23)*
 - ← [Signora Voss](../personaggi/signora-voss.md) crede sia del controllo qualità questa scheda *(cap. 4 r. 19)*
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) indirizzata a questa scheda *(cap. 2 r. 9)*
+- ← [L'invito di Emma (oggi, 15:00)](../oggetti/invito-di-emma.md) indirizzato a questa scheda *(cap. 18 r. 51)*
 - ← [La mail delle 23:34 di venerdì](../oggetti/mail-delle-2334.md) indirizzata a questa scheda *(cap. 16 r. 47)*
 - ← [La seconda mail di Emma (le scuse)](../oggetti/mail-di-scuse-di-emma.md) destinata a questa scheda *(cap. 13 r. 45)*
 - ← [Organigramma e pagina aziendale di Tom](../oggetti/organigramma.md) descrive questa scheda *(cap. 12 r. 31)*
@@ -240,4 +254,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e17-01` (cap. 17, venerdì, 23:34) — [La mail delle 23:34 sveglia Tom - non la apre](../eventi/e17-01.md)
 1. `e17-02` (cap. 17, subito dopo) — [Il bivio - vederla o chiudere](../eventi/e17-02.md)
 1. `e17-04` (cap. 17, dopo le 23:59) — [Pete fiuta l'osso - «Dai. Aprila.»](../eventi/e17-04.md)
+1. `e18-01` (cap. 18, sabato, 8:00) — [Alle otto Tom apre in regola la mail delle 23:34](../eventi/e18-01.md)
+1. `e18-02` (cap. 18, sabato, 8:00-8:26) — [Tom ripara la bilancia e alle 8:26 chiede un meeting in presenza](../eventi/e18-02.md)
+1. `e18-05` (cap. 18, sabato, dalle 10:00) — [«Pete, prova a prendermi» - Tom accetta e prepara il LED](../eventi/e18-05.md)
 

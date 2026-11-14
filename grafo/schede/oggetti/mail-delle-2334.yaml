@@ -1,6 +1,6 @@
 id: mail-delle-2334
 nome: La mail delle 23:34 di venerdì
-capitoli: [16, 17]
+capitoli: [16, 17, 18]
 sintesi: "La mail che Emma scrive a Tom dalla Mela Morsicata, fuori orario: la prima regola di Meridian che infrange."
 caratteristiche:
   - {testo: "Scritta di getto: tutto ciò che teneva da parte da sei giorni «le venne fuori in una volta», senza aspettare le otto né una seconda lettura", fonte: "c16:43"}
@@ -9,10 +9,13 @@ caratteristiche:
   - {testo: "Nel riepilogo di Pete: «Segnalazione: mail fuori orario ricevuta · Destinatario: Tom · Ora di ricezione: 23:34 · Mittente: fuori giurisdizione · Contenuto: non disponibile · Infrazione: nessuna»", fonte: "c17:44-50"}
   - {testo: "Sveglia Tom con l'eWatch; sul computer la notifica è troncata: «New email from Emm…»", fonte: "c17:10-14"}
   - {testo: "Tom non la apre: aprirla di notte è lavorare fuori orario e la mette nella casella di un sottoposto di Pete, che potrebbe leggerla", fonte: "c17:16"}
+  - {testo: "Testo: «Tom, ti scrivo a quest'ora e so che non si fa. La signora del televisore è morta. L'ho letto nel registro interventi, come avrebbe potuto leggerlo chiunque in Meridian, e ho visto la sua foto nell'articolo che le hanno dedicato. Il televisore era lì, alle sue spalle. Tu lo sapevi quando mi hai risposto e credo di capire perché non l'hai scritto. Te lo chiedo lo stesso. Secondo te lei si sentiva minacciata da quell'apparecchio? Emma»", fonte: "c18:13"}
+  - {testo: "Tom la apre alle otto in punto di sabato, in regola; Pete la legge alle otto e un minuto, due volte, senza capirci quasi niente", fonte: "c18:11, c18:43"}
+  - {testo: "Contiene «una parola sbagliata»: minacciata. Il televisore aveva avvertito, e «chi minaccia non avverte». Tom lo sa da un mese, Emma no", fonte: "c18:15"}
 non_detto:
-  - {testo: "Il testo della mail non è riportato nel cap. 16. Il giovedì Emma aveva deciso di parlare lei della morte della cliente, lunedì alle otto (c16 r. 23): se la mail delle 23:34 lo faccia non è detto qui."}
 stato:
   - {cap: 17, testo: "Ricevuta, non aperta. Tom la aprirà alle otto, in regola", fonte: "c17:24"}
+  - {cap: 18, testo: "Aperta in orario: nessuna infrazione. Tom non risponde nel merito: chiede un meeting", fonte: "c18:31, c18:43"}
 relazioni:
   - {verso: tom, tipo: "indirizzata a", fonte: "c16:47"}
   - {verso: pete, tipo: "segnalata a", fonte: "c16:45"}

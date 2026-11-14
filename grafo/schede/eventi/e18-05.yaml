@@ -1,0 +1,14 @@
+id: e18-05
+nome: «Pete, prova a prendermi» - Tom accetta e prepara il LED
+capitolo: 18
+ordine: 18.5
+quando: "sabato, dalle 10:00"
+dove: laboratorio-di-tom
+dopo: [e18-04]
+coinvolti: [tom, invito-di-emma, ewatch, apparecchi-ordinari, led-del-faretto, telecamera-di-sorveglianza, pete]
+sintesi: "Aveva chiesto una stanza, gli arriva uno schermo con Pete dietro. Accetta lo stesso. Monta il LED del faretto puntato sulla telecamera, interruttore sotto il banco; spegne il neon perché la telecamera passi in notturna."
+fatti:
+  - {testo: "L'invito", fonte: "c18:51-56"}
+  - {testo: "La sfida e l'accettazione", fonte: "c18:58-60"}
+  - {testo: "La contromossa", fonte: "c18:60"}
+

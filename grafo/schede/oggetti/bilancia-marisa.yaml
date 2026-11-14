@@ -1,0 +1,14 @@
+id: bilancia-marisa
+nome: La bilancia che pesa fantasmi
+capitoli: [18]
+sintesi: "La bilancia pesapersone che Tom ripara mentre decide cosa rispondere a Emma."
+caratteristiche:
+  - {testo: "Scheda: «Parla anche quando non ci sale nessuno e ogni volta dice un peso diverso.»", fonte: "c18:17"}
+  - {testo: "Annuncia tre chili e quattro, undici, zero virgola otto, diciannove, sempre con entusiasmo: «Ogni passo conta!»", fonte: "c18:19-23"}
+  - {testo: "Causa: una crepa sottile nella saldatura del filo di una cella di carico, che si apre e si chiude con calore e vibrazioni", fonte: "c18:23"}
+  - {testo: "Al collaudo, con Tom sopra: «Bentornata, Marisa! Oggi sei a settantotto chili. Ottimo lavoro!» Tom non la corregge", fonte: "c18:25"}
+aperti:
+  - {testo: "Un apparecchio che «parla» a qualcuno che non c'è e riconosce la persona sbagliata, il giorno in cui Tom sta per parlare con Emma: il testo non commenta."}
+relazioni:
+  - {verso: rito-delle-domande, tipo: "sottoposta al", fonte: "c18:21"}
+

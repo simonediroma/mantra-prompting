@@ -1,6 +1,6 @@
 # La risposta di Tom a Emma (solo fatti)
 
-`risposta-di-tom` · oggetto · capitoli: 14, 15, 16
+`risposta-di-tom` · oggetto · capitoli: 14, 15, 16, 18
 
 La mail con cui Tom risponde alle scuse di Emma: i fatti del registro e niente altro. Scritta in pausa pranzo, inviata quando il nastro riparte.
 
@@ -19,6 +19,7 @@ La mail con cui Tom risponde alle scuse di Emma: i fatti del registro e niente a
 - Emma la verifica riga per riga sulla lista dell'assistenza: tutto vero, Tom ha ricopiato le sue note *(cap. 16 r. 13)*
 - NON dice che la cliente è morta: «le aveva detto tutto dell'apparecchio e niente della persona» *(cap. 16 r. 13)*
 - È la «mail di sette righe» che Emma «beve e ribeve» per una settimana *(cap. 16 r. 41)*
+- Pete nota che non contiene la morte, che Tom conosceva: «la prima cosa che Tom nascondeva da quando Pete lo conosceva» *(cap. 18 r. 47)*
 
 ## Relazioni
 
@@ -35,4 +36,5 @@ La mail con cui Tom risponde alle scuse di Emma: i fatti del registro e niente a
 1. `e16-01` (cap. 16, venerdì, poco dopo l'una e mezza (stesso giorno dei cap. 12-14)) — [Emma legge la risposta di Tom - tutto dell'apparecchio, niente della morte](../eventi/e16-01.md)
 1. `e15-01` (cap. 15, il mattino dopo (sabato), alle otto meno un quarto) — [Tom lascia la porta accostata](../eventi/e15-01.md)
 1. `e16-05` (cap. 16, venerdì sera, una settimana dopo) — [Venerdì sera alla Mela Morsicata - Tommy e la sarda salata](../eventi/e16-05.md)
+1. `e18-03` (cap. 18, sabato, dalle 8:01 alle 8:26 e oltre) — [Pete legge il thread intero - il primo mattone](../eventi/e18-03.md)
 

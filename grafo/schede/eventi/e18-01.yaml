@@ -1,0 +1,14 @@
+id: e18-01
+nome: Alle otto Tom apre in regola la mail delle 23:34
+capitolo: 18
+ordine: 18.1
+quando: "sabato, 8:00"
+dove: laboratorio-di-tom
+dopo: [e17-02]
+coinvolti: [tom, mail-delle-2334, terminale-del-turno, emma, signora-voss, foglio-avvertimento, registro-interventi]
+sintesi: "Emma sa della morte e sa che lui l'ha taciuta. Ma chiede se la signora si sentisse «minacciata»: la parola è sbagliata, e Tom non può correggerla per iscritto."
+fatti:
+  - {testo: "L'attesa sullo sgabello", fonte: "c18:9"}
+  - {testo: "La mail", fonte: "c18:11-13"}
+  - {testo: "La vergogna e la parola sbagliata", fonte: "c18:15"}
+

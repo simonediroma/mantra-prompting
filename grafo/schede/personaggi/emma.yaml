@@ -1,6 +1,6 @@
 id: emma
 nome: Emma
-capitoli: [10, 11, 12, 13, 14, 15, 16, 17]
+capitoli: [10, 11, 12, 13, 14, 15, 16, 17, 18]
 sintesi: "L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10."
 caratteristiche:
   - {testo: "Nome: Emma", fonte: "c10:15"}
@@ -56,6 +56,12 @@ caratteristiche:
   - {testo: "Trova le risposte prima che l'altro finisca la frase", fonte: "c16:41"}
   - {testo: "Non aveva mai scritto a Tom fuori dal turno", fonte: "c17:16"}
   - {testo: "Per il sistema di Pete è un mittente «fuori giurisdizione»: Pete non guarda nemmeno chi sia", fonte: "c17:48, c17:52"}
+  - {testo: "Non ha mai fatto un meeting con qualcuno che non fosse di Elab; il fondatore «era di casa»; tutto il resto le arriva per iscritto, «con il tempo di scegliere le parole una per una»", fonte: "c18:33"}
+  - {testo: "Un meeting è «una persona che ti guarda mentre rispondi, con le pause che si vedono»; a un incontro nella stessa stanza «non riusciva nemmeno a pensare fino in fondo»", fonte: "c18:33"}
+  - {testo: "Dice a Tom la prima bugia: «oggi» non può; «di domani ne avrebbe trovato sempre un altro»", fonte: "c18:35"}
+  - {testo: "Per preparare la modalità presenza usa il pacchetto di avvio trovato nelle vecchie cartelle di Elab; ci mette più di un'ora", fonte: "c18:37"}
+  - {testo: "Il suo avatar è, per regolamento, fedele al suo aspetto attuale; quando compare sullo schermo «non lo guardò a lungo»", fonte: "c18:37"}
+  - {testo: "Per Pete: «una ricercatrice» di un altro reparto, non sotto di lui, quindi senza interesse", fonte: "c18:45"}
 non_detto:
   - {testo: "Il cap. 10 non descrive il suo aspetto, non le dà un'età né un cognome."}
   - {testo: "Non si dice dove viva né che esca dalla stanza: la giornata comincia con la luce sotto la porta e finisce con le porte che si chiudono in corridoio."}
@@ -64,6 +70,7 @@ non_detto:
   - {testo: "Fino al cap. 12 Emma non sapeva della morte della signora Voss, pur avendone il caso in archivio."}
   - {testo: "Emma non sa del messaggio in Morse: ignora che il televisore ha avvertito la signora. Tom lo sa (cap. 5). Lei teme un «angelo della morte», lui ha annotato «benevolo, non ostile»."}
   - {testo: "Il cap. 16 non dice come Emma arrivi alla Mela Morsicata né che lasci la stanza: al bancone ha davanti la casella di Elab «aperta» e «l'orario nell'angolo dello schermo» (r. 43)."}
+  - {testo: "Perché Emma non possa stare in una stanza con Tom non è detto: «non posso» sarebbe «un segreto, cioè proprio quello che era» (c18 r. 35). L'aspetto dell'avatar non è descritto."}
 stato:
   - {cap: 10, testo: "Riceve la mail di Tom, capisce il bluff, risponde alle 16:59", fonte: "c10:27"}
   - {cap: 11, testo: "Il giorno dopo: aspetta tutto il giorno una risposta di Tom che non arriva. Produce tre contenuti, riceve il fondatore, aggiorna l'archivio delle anomalie (il frigorifero)", fonte: "c11:37"}
@@ -72,6 +79,7 @@ stato:
   - {cap: 14, testo: "Fuori scena: ha inviato le scuse; nel pomeriggio non risponde alla mail di Tom", fonte: "c14:43"}
   - {cap: 15, testo: "Fuori scena: ha letto la risposta di Tom e alle 08:00:01 gli chiede se la cliente intendesse «si rifiuta» alla lettera", fonte: "c15:15"}
   - {cap: 16, testo: "Legge la risposta di Tom: tutto dell'apparecchio, niente della morte. Per una settimana lo segue sulla lista dell'assistenza. Il venerdì dopo, alla Mela Morsicata, alle 23:34 gli scrive fuori orario", fonte: "c16:43-47"}
+  - {cap: 18, testo: "Sabato: riceve la richiesta di un meeting in presenza. Non può rifiutare né accettare: prepara avatar e sfondo e alle dieci manda un invito per una call alle 15", fonte: "c18:39"}
 aperti:
   - {testo: "Emma produce contenuti perché saturino gli apparecchi (c13 r. 27, r. 29: «il video aveva funzionato»). Lo scopo ultimo non è detto; la sensazione della «casa rimasta vuota» suggerisce che cerchi compagnia."}
 relazioni:
@@ -99,3 +107,5 @@ relazioni:
   - {verso: la-mela-morsicata, tipo: "frequenta ogni venerdì", fonte: "c16:25"}
   - {verso: tommy, tipo: "riceve il sofisma da", fonte: "c16:39"}
   - {verso: mail-delle-2334, tipo: "ha scritto", fonte: "c16:43"}
+  - {verso: invito-di-emma, tipo: "ha mandato", fonte: "c18:39"}
+  - {verso: avatar-di-emma, tipo: "configura", fonte: "c18:37"}

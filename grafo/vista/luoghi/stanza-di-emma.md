@@ -54,4 +54,5 @@ La stanza in cui Emma lavora da sola.
 1. `e16-02` (cap. 16, venerdì pomeriggio e sera) — [Emma sceglie la domanda sul verbo «si rifiuta»](../eventi/e16-02.md)
 1. `e16-03` (cap. 16, da sabato a giovedì) — [Una settimana di silenzio - Emma segue Tom sulla lista](../eventi/e16-03.md)
 1. `e16-04` (cap. 16, giovedì; venerdì alle cinque la casella è vuota da sei giorni) — [Emma decide di parlargli lei della morte, lunedì alle otto](../eventi/e16-04.md)
+1. `e18-04` (cap. 18, sabato, dalle 8:26 alle 10:00) — [Emma risponde con un invito - «oggi» alle 15](../eventi/e18-04.md)
 

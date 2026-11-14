@@ -1,0 +1,15 @@
+id: invito-di-emma
+nome: L'invito di Emma (oggi, 15:00)
+capitoli: [18]
+sintesi: "L'invito in calendario con cui Emma risponde alla richiesta di Tom: una call alle tre, non un incontro."
+caratteristiche:
+  - {testo: "«Invito · Emma · oggi, 15:00 · Sentiamoci oggi pomeriggio, alle tre. Non riesco a fare meeting in presenza oggi.»", fonte: "c18:53-54"}
+  - {testo: "Mandato alle dieci; un invito si accetta senza scrivere", fonte: "c18:39"}
+  - {testo: "«Oggi» è la prima bugia di Emma a Tom", fonte: "c18:35"}
+  - {testo: "Tom accetta senza una parola; nel suo calendario, visibile a Pete, alle 10:02 compare un blocco verde alle 15", fonte: "c18:60-62"}
+  - {testo: "Per Tom: aveva chiesto una stanza e gli arriva uno schermo, cioè la sua stanza, il suo banco e la telecamera, «con Pete dietro a tutti e tre»", fonte: "c18:56"}
+relazioni:
+  - {verso: richiesta-di-meeting, tipo: "risponde a", fonte: "c18:39"}
+  - {verso: tom, tipo: "indirizzato a", fonte: "c18:51"}
+  - {verso: modalita-presenza, tipo: "sposta l'incontro in", fonte: "c18:37"}
+

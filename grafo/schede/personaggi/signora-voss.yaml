@@ -1,7 +1,7 @@
 id: signora-voss
 nome: Signora Voss
 alias: ["la signora del televisore", "cliente del secondo televisore"]
-capitoli: [3, 4, 5, 6, 7, 12, 13, 14, 15]
+capitoli: [3, 4, 5, 6, 7, 12, 13, 14, 15, 18]
 sintesi: "Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo stesso video anche dieci volte al giorno; ha filmato il televisore che «si rifiuta» di accendersi."
 caratteristiche:
   - {testo: "Ha dettato all'addetto del negozio: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
@@ -34,6 +34,8 @@ caratteristiche:
   - {testo: "La sua segnalazione, come la riporta Tom: un apparecchio che non si accendeva e mandava segnali luminosi senza senso dal LED", fonte: "c14:31"}
   - {testo: "Al telefono aveva messo in fila da sola le due possibilità, ridendo: il modo di dire o il fatto. «Non non riusciva. Proprio non voleva.»", fonte: "c15:19, c15:31"}
   - {testo: "Il suo eWatch contava i battiti; per Tom è da lì che il televisore sapeva del cuore", fonte: "c15:27"}
+  - {testo: "Al telefono rideva del televisore «come si ride di un gatto che non vuole scendere dall'armadio»: non si sentiva minacciata", fonte: "c18:15"}
+  - {testo: "Per Pete è «la vecchia»", fonte: "c18:45"}
 non_detto:
   - {testo: "Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta."}
   - {testo: "Il cap. 5 non dice perché non risponde: Tom ipotizza doccia, cucina, telefono lontano."}
@@ -52,6 +54,7 @@ aperti:
   - {testo: "Tom immagina una sessione «mattutina prima di andare al lavoro» (c7 r. 23); lei aveva detto «prima di andare a fare la spesa» (c4 r. 31). Il testo non dice se la signora lavorasse."}
   - {testo: "A Tom aveva detto «anche dieci volte al giorno» (c4 r. 31); le statistiche arrivano a trenta (c13 r. 17). Minimizzava, o Tom ha in mano un dato vecchio."}
   - {testo: "Primo contatto con l'assistenza: «ha telefonato» (c13 r. 23) contro «l'ho portato in negozio» (c4 r. 31) e la scheda battuta dall'addetto del negozio (c3 r. 17). Prima la telefonata e poi il negozio? Il testo non mette in fila i due passaggi."}
+  - {testo: "Età, terza versione: «sulla cinquantina» per Tom (c7 r. 17), «la vecchia» per Pete (c18 r. 45), «alla mia età» per lei (c4 r. 31)."}
 relazioni:
   - {verso: tv-secondo-contatto, tipo: "proprietario di", fonte: "c3:17"}
   - {verso: addetto-negozio, tipo: "detta la segnalazione a", fonte: "c3:17"}
