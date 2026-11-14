@@ -1,6 +1,6 @@
 # Casa di Tom
 
-`casa-di-tom` · luogo · capitoli: 1, 3, 4, 5, 6, 7, 8
+`casa-di-tom` · luogo · capitoli: 1, 3, 4, 5, 6, 7, 8, 9
 
 Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera il quaderno nero.
 
@@ -17,6 +17,7 @@ Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera
 - Una stanza sola che fa da studio, salotto e magazzino; ci stanno scrivania, giradischi, computer *(cap. 7 r. 9, cap. 7 r. 15)*
 - Libreria di dischi ben fornita: uno dei pochi oggetti che occupa più spazio dei manuali di elettronica *(cap. 7 r. 9)*
 - Dopo le undici di sera la stanza si è raffreddata *(cap. 8 r. 19)*
+- Al mattino presto è fredda: il riscaldamento «non ha ancora capito che qualcuno è sveglio» *(cap. 9 r. 9)*
 
 ## Relazioni
 
@@ -48,4 +49,6 @@ Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera
 1. `e08-01` (cap. 8, la stessa sera dei cap. 6-7) — [Tom scorre il canale eTv - sempre la stessa ragazza](../eventi/e08-01.md)
 1. `e08-02` (cap. 8, la stessa sera) — [Tom nota cosa manca - identità, iscritti, ritmo](../eventi/e08-02.md)
 1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
+1. `e09-01` (cap. 9, il mattino dopo, un'ora prima della sveglia solita, ancora buio) — [Hive dà il video per reale](../eventi/e09-01.md)
+1. `e09-02` (cap. 9, la stessa mattina, prima di uscire) — [Tom trascrive il parlato - due rilevatori su tre lo danno per generato](../eventi/e09-02.md)
 

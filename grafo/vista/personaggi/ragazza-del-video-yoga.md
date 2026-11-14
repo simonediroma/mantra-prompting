@@ -1,6 +1,6 @@
 # La ragazza dei video eTv
 
-`ragazza-del-video-yoga` · personaggio · capitoli: 4, 5, 7, 8
+`ragazza-del-video-yoga` · personaggio · capitoli: 4, 5, 7, 8, 9
 
 Alias: la ragazza del video di yoga, la ragazza con sei dita
 
@@ -17,6 +17,7 @@ La protagonista di tutti i video del canale eTv: yoga, idraulica, cucina, musica
 - Compare in ogni video del canale, «esperta apparentemente di qualunque cosa» *(cap. 8 r. 9)*
 - Canta con voce impeccabile, «priva di qualunque imperfezione» *(cap. 8 r. 9)*
 - Non ha nome, biografia, profili: a chi gestisce il canale non interessa che qualcuno si ricordi di lei *(cap. 8 r. 11, cap. 8 r. 13)*
+- Nel parlato si presenta così: «Ciao, sono qui per darti la routine che ha cambiato la mia vita» *(cap. 9 r. 17)*
 
 ## Relazioni
 

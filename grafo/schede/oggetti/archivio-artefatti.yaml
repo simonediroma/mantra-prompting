@@ -1,0 +1,19 @@
+id: archivio-artefatti
+nome: Archivio interno di catalogazione degli artefatti
+alias: ["il tool aziendale di catalogazione", "l'archivio interno"]
+capitoli: [9]
+sintesi: "Lo strumento Meridian che etichetta e indicizza ogni contenuto prodotto dai modelli dell'azienda. Tom ci trova la corrispondenza con il parlato del video."
+caratteristiche:
+  - {testo: "Accesso dato a tutti i Meridians un paio d'anni prima", fonte: "c9:25"}
+  - {testo: "Etichetta ogni contenuto con modello, data, reparto e contatto; indicizzato parola per parola", fonte: "c9:25"}
+  - {testo: "I modelli più vecchi, mai aggiornati, lasciano «solo un sì senza nome»", fonte: "c9:25"}
+  - {testo: "Nato per i contenuti prodotti dall'azienda: Tom non ha motivo di credere che dica qualcosa su un video di YouTube", fonte: "c9:23"}
+  - {testo: "Ogni clic ha un proprietario: Tom non carica file né link, ribatte a memoria le frasi d'apertura", fonte: "c9:27"}
+  - {testo: "Risposta: Corrispondenza trovata · Data di generazione: 6 mesi fa · Autore: unknown · Modello: internal_unknown · Contatto: elab@meridian.com", fonte: "c9:31-35"}
+aperti:
+  - {testo: "La descrizione dice che ogni contenuto è etichettato con «reparto» (c9 r. 25), ma nel risultato il campo reparto non c'è (r. 31-35)."}
+  - {testo: "La ricerca di Tom resta comunque tracciata («ogni clic aveva un proprietario»): ha evitato file e link, non la ricerca stessa."}
+relazioni:
+  - {verso: internal-unknown, tipo: "restituisce", fonte: "c9:34"}
+  - {verso: indirizzo-elab, tipo: "restituisce", fonte: "c9:35"}
+

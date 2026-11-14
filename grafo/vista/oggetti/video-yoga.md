@@ -1,6 +1,6 @@
 # Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)
 
-`video-yoga` · oggetto · capitoli: 4, 5, 6, 7, 8
+`video-yoga` · oggetto · capitoli: 4, 5, 6, 7, 8, 9
 
 Il video che la signora Voss riproduceva sul televisore anche dieci volte al giorno. Nel cap. 4 è solo un dettaglio del suo racconto.
 
@@ -20,6 +20,11 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 - A un quarto di velocità rivela il piede con sei dita: è generato, non girato *(cap. 7 r. 25-29)*
 - Caricato dal canale eTv *(cap. 7 r. 33)*
 - Piano di Tom: scoprire con quale intelligenza artificiale sia stato generato («ogni strumento ha i suoi clienti») *(cap. 8 r. 19)*
+- Parlato d'apertura: «Ciao, sono qui per darti la routine che ha cambiato la mia vita e può cambiare anche la tua. Se vuoi il massimo risultato, guardami a velocità doppia. Fidati, funziona meglio! Bastano quindici minuti al giorno, sette e mezzo a velocità doppia. Il corpo non mente mai: vedrai i risultati già dalla prima settimana.» *(cap. 9 r. 17)*
+- Ha musica di sottofondo e un ultimo consiglio prima dei saluti *(cap. 9 r. 15)*
+- Hive Moderation sul video intero: «contenuto reale, nessuna evidenza di generazione artificiale» *(cap. 9 r. 11)*
+- Nell'archivio Meridian: corrispondenza trovata. Generato 6 mesi fa, autore unknown, modello internal_unknown, contatto elab@meridian.com *(cap. 9 r. 31-35)*
+- «Un prodotto Meridian, pubblicato su un canale che di Meridian non portava il nome, finito sul televisore Meridian di una cliente Meridian» *(cap. 9 r. 37)*
 
 ## Cosa NON dice il testo
 
@@ -30,11 +35,16 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 ## Punti aperti / da verificare
 
 - Controesempio dichiarato dal testo: del primo televisore Tom «non sapeva nemmeno cosa guardasse il suo proprietario» (c6 r. 33).
+- Anche il video comincia con «sono qui» (c9 r. 17): terza occorrenza dopo il televisore (c1) e il comando al giradischi (c7).
+- Tom «caricò l'intero video» su Hive (c9 r. 9): come abbia ottenuto il file da YouTube non è detto.
 
 ## Relazioni
 
 - → pubblicato da [Il canale eTv](../oggetti/canale-etv.md) *(cap. 7 r. 33)*
 - → appartiene al filone [«Yoga fit»](../termini/yoga-fit.md) *(cap. 7 r. 19)*
+- → riconducibile a [Elab](../organizzazioni/elab.md) *(cap. 9 r. 35)*
+- → generato dal modello [internal_unknown](../termini/internal-unknown.md) *(cap. 9 r. 34)*
+- → trascritto in [Transcript del parlato del video di yoga](../oggetti/transcript-del-video.md) *(cap. 9 r. 15)*
 - ← [La ragazza dei video eTv](../personaggi/ragazza-del-video-yoga.md) compare in questa scheda *(cap. 4 r. 31)*
 - ← [Signora Voss](../personaggi/signora-voss.md) guarda ripetutamente questa scheda *(cap. 4 r. 31)*
 - ← [Televisore del secondo contatto](../oggetti/tv-secondo-contatto.md) ha riprodotto ripetutamente questa scheda *(cap. 4 r. 31)*
@@ -51,4 +61,7 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 1. `e07-04` (cap. 7, la stessa sera) — [Sei dita per due fotogrammi - il video è generato](../eventi/e07-04.md)
 1. `e07-05` (cap. 7, la stessa sera) — [Tom clicca sul nome del canale - eTv](../eventi/e07-05.md)
 1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
+1. `e09-01` (cap. 9, il mattino dopo, un'ora prima della sveglia solita, ancora buio) — [Hive dà il video per reale](../eventi/e09-01.md)
+1. `e09-02` (cap. 9, la stessa mattina, prima di uscire) — [Tom trascrive il parlato - due rilevatori su tre lo danno per generato](../eventi/e09-02.md)
+1. `e09-03` (cap. 9, lo stesso giorno, ultima ora di turno) — [Tom cerca il testo nell'archivio interno - corrispondenza trovata](../eventi/e09-03.md)
 

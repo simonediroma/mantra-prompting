@@ -1,6 +1,6 @@
 id: tom
 nome: Tom
-capitoli: [1, 2, 3, 4, 5, 6, 7, 8]
+capitoli: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 sintesi: "Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3."
 caratteristiche:
   - {testo: "53 anni", fonte: "c1:11"}
@@ -48,6 +48,10 @@ caratteristiche:
   - {testo: "Usa un assistente IA: non gli chiede di indovinare, gli chiede di ordinare per un profilo", fonte: "c7:17"}
   - {testo: "Guarda prima quello che manca, non quello che c'è", fonte: "c8:11"}
   - {testo: "Conosce il canale YouTube del New York Times; di canali e rapporti views/iscritti sa poco", fonte: "c8:13"}
+  - {testo: "I quindici minuti di anticipo sono intoccabili: quando gli serve tempo lo prende dal sonno, alzandosi un'ora prima", fonte: "c9:9"}
+  - {testo: "Chiude la porta del laboratorio a doppia mandata, «clac clac», come sempre", fonte: "c9:25"}
+  - {testo: "Fuori carica file su siti sconosciuti senza pensarci; dentro Meridian non lascia tracce: «ogni clic aveva un proprietario»", fonte: "c9:27"}
+  - {testo: "Circa dieci anni prima era «agli inizi della propria carriera in Meridian»", fonte: "c9:39"}
 stato:
   - {cap: 1, testo: "Scopre che un televisore risponde in Morse; perde tempo oltre il limite; prende tempo etichettando l'unità come anomalia", fonte: "c1:97"}
   - {cap: 2, testo: "Richiamo formale e trattenuta di 47 minuti; perde il televisore; decide di tenere lui il cronometro e un archivio privato", fonte: "c2:45"}
@@ -57,6 +61,7 @@ stato:
   - {cap: 6, testo: "Tre settimane dopo: gli torna sul banco il televisore Voss per il ricondizionamento. Scopre dal registro che la signora è morta, e dal post del fratello che è morta di cuore facendo yoga. Decide di cercare il video di yoga", fonte: "c6:21, c6:31, c6:35"}
   - {cap: 7, testo: "La stessa sera del cap. 6: trova un video «Yoga fit» compatibile con la signora Voss e, a un quarto di velocità, scopre che la ragazza ha sei dita per due fotogrammi. Il video è generato. Clicca sul canale: eTv", fonte: "c7:27-33"}
   - {cap: 8, testo: "Stessa sera, fin dopo le undici: analizza il canale eTv e conclude che è un'operazione. Rimanda a domani: capire con quale IA sia stato generato il video, per risalire dai clienti dello strumento a chi sta dietro", fonte: "c8:17-19"}
+  - {cap: 9, testo: "Il giorno dopo: i rilevatori pubblici danno il video per reale ma il parlato per generato. A fine turno cerca il testo nell'archivio interno: è un prodotto Meridian, modello internal_unknown, contatto elab@meridian.com", fonte: "c9:31-37"}
 aperti:
   - {testo: "Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi."}
 relazioni:
@@ -83,3 +88,5 @@ relazioni:
   - {verso: mauro-vargiu, tipo: "discendente di", fonte: "c7:13"}
   - {verso: assistente-ia-di-tom, tipo: "usa", fonte: "c7:17"}
   - {verso: computer-di-tom, tipo: "usa", fonte: "c7:15"}
+  - {verso: archivio-artefatti, tipo: "consulta", fonte: "c9:25"}
+  - {verso: transcript-del-video, tipo: "ha scritto", fonte: "c9:15"}

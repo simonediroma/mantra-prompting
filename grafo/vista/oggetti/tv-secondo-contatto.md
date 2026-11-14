@@ -76,4 +76,5 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 1. `e06-01` (cap. 6, poco più di tre settimane dopo il reset, durante il turno) — [Il televisore Voss torna sul banco di Tom per il ricondizionamento](../eventi/e06-01.md)
 1. `e06-02` (cap. 6, stesso turno) — [Tom legge nel registro il rifiuto e il decesso](../eventi/e06-02.md)
 1. `e06-03` (cap. 6, stesso turno, entro la fine) — [Tom rinuncia a interrogare il televisore e lo ricondiziona](../eventi/e06-03.md)
+1. `e09-04` (cap. 9, subito dopo) — [Tom riconosce il nome Elab](../eventi/e09-04.md)
 

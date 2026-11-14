@@ -69,7 +69,8 @@
     4,
     5,
     7,
-    8
+    8,
+    9
    ]
   },
   {
@@ -104,7 +105,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
    ]
   },
   {
@@ -126,6 +128,14 @@
    ]
   },
   {
+   "id": "elab",
+   "tipo": "organizzazione",
+   "nome": "Elab",
+   "capitoli": [
+    9
+   ]
+  },
+  {
    "id": "meridian",
    "tipo": "organizzazione",
    "nome": "Meridian",
@@ -133,7 +143,8 @@
     1,
     2,
     3,
-    4
+    4,
+    9
    ]
   },
   {
@@ -142,6 +153,14 @@
    "nome": "Ufficio HR",
    "capitoli": [
     2
+   ]
+  },
+  {
+   "id": "archivio-artefatti",
+   "tipo": "oggetto",
+   "nome": "Archivio interno di catalogazione degli artefatti",
+   "capitoli": [
+    9
    ]
   },
   {
@@ -158,7 +177,8 @@
    "nome": "Il canale eTv",
    "capitoli": [
     7,
-    8
+    8,
+    9
    ]
   },
   {
@@ -194,7 +214,8 @@
    "nome": "Computer di Tom (a casa)",
    "capitoli": [
     7,
-    8
+    8,
+    9
    ]
   },
   {
@@ -249,6 +270,14 @@
     1,
     7,
     8
+   ]
+  },
+  {
+   "id": "indirizzo-elab",
+   "tipo": "oggetto",
+   "nome": "elab@meridian.com",
+   "capitoli": [
+    9
    ]
   },
   {
@@ -326,6 +355,14 @@
    ]
   },
   {
+   "id": "rilevatori-ia",
+   "tipo": "oggetto",
+   "nome": "I rilevatori pubblici di IA (Hive Moderation, Undetectable AI, ZeroGPT)",
+   "capitoli": [
+    9
+   ]
+  },
+  {
    "id": "scheda-cliente-secondo-tv",
    "tipo": "oggetto",
    "nome": "Scheda cliente del secondo televisore",
@@ -348,6 +385,14 @@
    "nome": "Terminale del turno",
    "capitoli": [
     2
+   ]
+  },
+  {
+   "id": "transcript-del-video",
+   "tipo": "oggetto",
+   "nome": "Transcript del parlato del video di yoga",
+   "capitoli": [
+    9
    ]
   },
   {
@@ -391,7 +436,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
    ]
   },
   {
@@ -415,7 +461,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
    ]
   },
   {
@@ -426,7 +473,8 @@
     1,
     2,
     3,
-    6
+    6,
+    9
    ]
   },
   {
@@ -455,7 +503,8 @@
    "nome": "I quindici minuti di anticipo",
    "capitoli": [
     4,
-    5
+    5,
+    9
    ]
   },
   {
@@ -534,6 +583,14 @@
    ]
   },
   {
+   "id": "ultima-ora-di-turno",
+   "tipo": "concetto",
+   "nome": "L'ultima ora di turno",
+   "capitoli": [
+    9
+   ]
+  },
+  {
    "id": "caso-zero",
    "tipo": "termine",
    "nome": "«Primo contatto» / «caso zero»",
@@ -579,6 +636,14 @@
    ]
   },
   {
+   "id": "internal-unknown",
+   "tipo": "termine",
+   "nome": "internal_unknown",
+   "capitoli": [
+    9
+   ]
+  },
+  {
    "id": "mantra",
    "tipo": "termine",
    "nome": "Mantra",
@@ -593,6 +658,14 @@
    "capitoli": [
     1,
     2
+   ]
+  },
+  {
+   "id": "origine-non-determinabile",
+   "tipo": "termine",
+   "nome": "«Origine non determinabile»",
+   "capitoli": [
+    9
    ]
   },
   {
@@ -991,6 +1064,38 @@
    "capitoli": [
     8
    ]
+  },
+  {
+   "id": "e09-01",
+   "tipo": "evento",
+   "nome": "Hive dà il video per reale",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "e09-02",
+   "tipo": "evento",
+   "nome": "Tom trascrive il parlato - due rilevatori su tre lo danno per generato",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "e09-03",
+   "tipo": "evento",
+   "nome": "Tom cerca il testo nell'archivio interno - corrispondenza trovata",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "e09-04",
+   "tipo": "evento",
+   "nome": "Tom riconosce il nome Elab",
+   "capitoli": [
+    9
+   ]
   }
  ],
  "archi": [
@@ -1275,6 +1380,20 @@
    "fonte": "c7:15"
   },
   {
+   "da": "tom",
+   "a": "archivio-artefatti",
+   "tipo": "consulta",
+   "nota": "",
+   "fonte": "c9:25"
+  },
+  {
+   "da": "tom",
+   "a": "transcript-del-video",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c9:15"
+  },
+  {
    "da": "coordinamento-assistenza",
    "a": "meridian",
    "tipo": "parte di",
@@ -1296,6 +1415,20 @@
    "fonte": ""
   },
   {
+   "da": "elab",
+   "a": "meridian",
+   "tipo": "laboratorio di",
+   "nota": "",
+   "fonte": "c9:39"
+  },
+  {
+   "da": "elab",
+   "a": "indirizzo-elab",
+   "tipo": "risponde a",
+   "nota": "",
+   "fonte": "c9:35"
+  },
+  {
    "da": "meridian",
    "a": "ewatch",
    "tipo": "ha distribuito",
@@ -1310,6 +1443,13 @@
    "fonte": "c1:23"
   },
   {
+   "da": "meridian",
+   "a": "archivio-artefatti",
+   "tipo": "gestisce",
+   "nota": "",
+   "fonte": "c9:25"
+  },
+  {
    "da": "ufficio-hr",
    "a": "meridian",
    "tipo": "parte di",
@@ -1322,6 +1462,20 @@
    "tipo": "ha scelto il suono del",
    "nota": "",
    "fonte": "c2:9"
+  },
+  {
+   "da": "archivio-artefatti",
+   "a": "internal-unknown",
+   "tipo": "restituisce",
+   "nota": "",
+   "fonte": "c9:34"
+  },
+  {
+   "da": "archivio-artefatti",
+   "a": "indirizzo-elab",
+   "tipo": "restituisce",
+   "nota": "",
+   "fonte": "c9:35"
   },
   {
    "da": "assistente-ia-di-tom",
@@ -1534,6 +1688,13 @@
    "fonte": "c2:29"
   },
   {
+   "da": "transcript-del-video",
+   "a": "rilevatori-ia",
+   "tipo": "analizzato da",
+   "nota": "",
+   "fonte": "c9:19"
+  },
+  {
    "da": "tv-caso-zero",
    "a": "log-tv-caso-zero",
    "tipo": "ha come log",
@@ -1674,6 +1835,27 @@
    "fonte": "c7:19"
   },
   {
+   "da": "video-yoga",
+   "a": "elab",
+   "tipo": "riconducibile a",
+   "nota": "",
+   "fonte": "c9:35"
+  },
+  {
+   "da": "video-yoga",
+   "a": "internal-unknown",
+   "tipo": "generato dal modello",
+   "nota": "",
+   "fonte": "c9:34"
+  },
+  {
+   "da": "video-yoga",
+   "a": "transcript-del-video",
+   "tipo": "trascritto in",
+   "nota": "",
+   "fonte": "c9:15"
+  },
+  {
    "da": "casa-della-voss",
    "a": "signora-voss",
    "tipo": "abitazione di",
@@ -1772,6 +1954,13 @@
    "fonte": "c5:9"
   },
   {
+   "da": "ultima-ora-di-turno",
+   "a": "laboratorio-di-tom",
+   "tipo": "si svolge in",
+   "nota": "",
+   "fonte": "c9:25"
+  },
+  {
    "da": "caso-zero",
    "a": "tv-caso-zero",
    "tipo": "indica",
@@ -1791,6 +1980,13 @@
    "tipo": "termine di",
    "nota": "",
    "fonte": "c1:19"
+  },
+  {
+   "da": "origine-non-determinabile",
+   "a": "rilevatori-ia",
+   "tipo": "risposta dei",
+   "nota": "",
+   "fonte": "c9:19"
   },
   {
    "da": "scostamento",
@@ -3944,6 +4140,223 @@
   {
    "da": "e08-02",
    "a": "e08-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "rilevatori-ia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "computer-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-03",
+   "a": "e09-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "transcript-del-video",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "rilevatori-ia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "origine-non-determinabile",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "e09-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "archivio-artefatti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "ultima-ora-di-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "internal-unknown",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "transcript-del-video",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "e09-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "meridian",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "e09-04",
    "tipo": "porta a",
    "nota": "",
    "fonte": ""

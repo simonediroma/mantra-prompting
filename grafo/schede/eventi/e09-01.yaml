@@ -1,0 +1,13 @@
+id: e09-01
+nome: Hive dà il video per reale
+capitolo: 9
+ordine: 9.1
+quando: "il mattino dopo, un'ora prima della sveglia solita, ancora buio"
+dove: casa-di-tom
+dopo: [e08-03]
+coinvolti: [tom, video-yoga, rilevatori-ia, computer-di-tom, anticipo-di-quindici-minuti]
+sintesi: "In cucina, col caffè che si raffredda, Tom carica il video intero. Verdetto: contenuto reale. Conclude che il problema è nello strumento."
+fatti:
+  - {testo: "La sveglia anticipata e il caricamento", fonte: "c9:9"}
+  - {testo: "Il verdetto e la spiegazione", fonte: "c9:11-13"}
+

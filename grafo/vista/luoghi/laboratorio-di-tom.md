@@ -1,6 +1,6 @@
 # Laboratorio di Tom
 
-`laboratorio-di-tom` · luogo · capitoli: 1, 2, 3, 6
+`laboratorio-di-tom` · luogo · capitoli: 1, 2, 3, 6, 9
 
 Alias: la stanza di Tom
 
@@ -18,6 +18,7 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 - Dietro una parete passa il nastro, che consegna gli apparecchi *(cap. 2 r. 45)*
 - Il terminale del turno si sente dal corridoio prima di aprire la porta *(cap. 2 r. 9)*
 - Il carrello del ricondizionamento entra dalla porta *(cap. 6 r. 9)*
+- Nell'ultima ora di turno il corridoio si svuota; il neon sopra il banco resta l'unico acceso in quell'ala; porta a doppia mandata *(cap. 9 r. 25)*
 
 ## Punti aperti / da verificare
 
@@ -30,6 +31,7 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 - ← [Tom](../personaggi/tom.md) lavora in questa scheda *(cap. 1 r. 43)*
 - ← [Cassetto della scrivania (laboratorio)](../oggetti/cassetto-della-scrivania.md) si trova in questa scheda *(cap. 2 r. 41)*
 - ← [Terminale del turno](../oggetti/terminale-del-turno.md) si trova in questa scheda
+- ← [L'ultima ora di turno](../concetti/ultima-ora-di-turno.md) si svolge in questa scheda *(cap. 9 r. 25)*
 
 ## Catena degli eventi
 
@@ -50,4 +52,6 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 1. `e06-01` (cap. 6, poco più di tre settimane dopo il reset, durante il turno) — [Il televisore Voss torna sul banco di Tom per il ricondizionamento](../eventi/e06-01.md)
 1. `e06-02` (cap. 6, stesso turno) — [Tom legge nel registro il rifiuto e il decesso](../eventi/e06-02.md)
 1. `e06-03` (cap. 6, stesso turno, entro la fine) — [Tom rinuncia a interrogare il televisore e lo ricondiziona](../eventi/e06-03.md)
+1. `e09-03` (cap. 9, lo stesso giorno, ultima ora di turno) — [Tom cerca il testo nell'archivio interno - corrispondenza trovata](../eventi/e09-03.md)
+1. `e09-04` (cap. 9, subito dopo) — [Tom riconosce il nome Elab](../eventi/e09-04.md)
 

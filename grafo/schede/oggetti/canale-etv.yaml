@@ -1,6 +1,6 @@
 id: canale-etv
 nome: Il canale eTv
-capitoli: [7, 8]
+capitoli: [7, 8, 9]
 sintesi: "Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo."
 caratteristiche:
   - {testo: "Nome del canale: eTv", fonte: "c7:33"}
@@ -11,6 +11,7 @@ caratteristiche:
   - {testo: "Lettura di Tom: a chi lo gestisce interessa solo che i video vengano visti il più possibile; forse nicchie scelte per la resa pubblicitaria (solo un sospetto)", fonte: "c8:13"}
   - {testo: "Pubblicazione senza ritmo: giorni saltati, raffiche di tre video in un'ora, settimane di silenzio. Contraddice l'obiettivo delle visualizzazioni", fonte: "c8:15"}
   - {testo: "«Un supermercato aperto di notte con tutte le luci accese e nessuno alla cassa»: «qualcuno, o qualcosa» produce contenuti su scala senza lasciare traccia", fonte: "c8:17"}
+  - {testo: "Pubblica almeno un contenuto generato da un modello interno Meridian, senza portare il nome di Meridian", fonte: "c9:37"}
 non_detto:
 
   - {testo: "Numero totale dei video, data di apertura del canale e numero esatto di iscritti non sono indicati."}

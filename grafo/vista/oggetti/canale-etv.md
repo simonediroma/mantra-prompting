@@ -1,6 +1,6 @@
 # Il canale eTv
 
-`canale-etv` · oggetto · capitoli: 7, 8
+`canale-etv` · oggetto · capitoli: 7, 8, 9
 
 Il canale YouTube che ha caricato il video di yoga generato. Un'operazione sistematica e anonima: stessa ragazza in ogni video, nessuna identità, molte visualizzazioni, pochi iscritti, pubblicazioni a singhiozzo.
 
@@ -14,6 +14,7 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 - Lettura di Tom: a chi lo gestisce interessa solo che i video vengano visti il più possibile; forse nicchie scelte per la resa pubblicitaria (solo un sospetto) *(cap. 8 r. 13)*
 - Pubblicazione senza ritmo: giorni saltati, raffiche di tre video in un'ora, settimane di silenzio. Contraddice l'obiettivo delle visualizzazioni *(cap. 8 r. 15)*
 - «Un supermercato aperto di notte con tutte le luci accese e nessuno alla cassa»: «qualcuno, o qualcosa» produce contenuti su scala senza lasciare traccia *(cap. 8 r. 17)*
+- Pubblica almeno un contenuto generato da un modello interno Meridian, senza portare il nome di Meridian *(cap. 9 r. 37)*
 
 ## Cosa NON dice il testo
 
@@ -35,4 +36,5 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 1. `e08-01` (cap. 8, la stessa sera dei cap. 6-7) — [Tom scorre il canale eTv - sempre la stessa ragazza](../eventi/e08-01.md)
 1. `e08-02` (cap. 8, la stessa sera) — [Tom nota cosa manca - identità, iscritti, ritmo](../eventi/e08-02.md)
 1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
+1. `e09-04` (cap. 9, subito dopo) — [Tom riconosce il nome Elab](../eventi/e09-04.md)
 

@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -51,6 +51,10 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Usa un assistente IA: non gli chiede di indovinare, gli chiede di ordinare per un profilo *(cap. 7 r. 17)*
 - Guarda prima quello che manca, non quello che c'è *(cap. 8 r. 11)*
 - Conosce il canale YouTube del New York Times; di canali e rapporti views/iscritti sa poco *(cap. 8 r. 13)*
+- I quindici minuti di anticipo sono intoccabili: quando gli serve tempo lo prende dal sonno, alzandosi un'ora prima *(cap. 9 r. 9)*
+- Chiude la porta del laboratorio a doppia mandata, «clac clac», come sempre *(cap. 9 r. 25)*
+- Fuori carica file su siti sconosciuti senza pensarci; dentro Meridian non lascia tracce: «ogni clic aveva un proprietario» *(cap. 9 r. 27)*
+- Circa dieci anni prima era «agli inizi della propria carriera in Meridian» *(cap. 9 r. 39)*
 
 ## Punti aperti / da verificare
 
@@ -66,6 +70,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 6** — Tre settimane dopo: gli torna sul banco il televisore Voss per il ricondizionamento. Scopre dal registro che la signora è morta, e dal post del fratello che è morta di cuore facendo yoga. Decide di cercare il video di yoga *(cap. 6 r. 21, cap. 6 r. 31, cap. 6 r. 35)*
 - **Cap. 7** — La stessa sera del cap. 6: trova un video «Yoga fit» compatibile con la signora Voss e, a un quarto di velocità, scopre che la ragazza ha sei dita per due fotogrammi. Il video è generato. Clicca sul canale: eTv *(cap. 7 r. 27-33)*
 - **Cap. 8** — Stessa sera, fin dopo le undici: analizza il canale eTv e conclude che è un'operazione. Rimanda a domani: capire con quale IA sia stato generato il video, per risalire dai clienti dello strumento a chi sta dietro *(cap. 8 r. 17-19)*
+- **Cap. 9** — Il giorno dopo: i rilevatori pubblici danno il video per reale ma il parlato per generato. A fine turno cerca il testo nell'archivio interno: è un prodotto Meridian, modello internal_unknown, contatto elab@meridian.com *(cap. 9 r. 31-37)*
 
 ## Relazioni
 
@@ -91,6 +96,8 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - → discendente di [Mauro Vargiu (il trisavolo)](../personaggi/mauro-vargiu.md) *(cap. 7 r. 13)*
 - → usa [L'assistente IA di Tom](../oggetti/assistente-ia-di-tom.md) *(cap. 7 r. 17)*
 - → usa [Computer di Tom (a casa)](../oggetti/computer-di-tom.md) *(cap. 7 r. 15)*
+- → consulta [Archivio interno di catalogazione degli artefatti](../oggetti/archivio-artefatti.md) *(cap. 9 r. 25)*
+- → ha scritto [Transcript del parlato del video di yoga](../oggetti/transcript-del-video.md) *(cap. 9 r. 15)*
 - ← [Signora Voss](../personaggi/signora-voss.md) crede sia del controllo qualità questa scheda *(cap. 4 r. 19)*
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) indirizzata a questa scheda *(cap. 2 r. 9)*
 - ← [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) applicata da Pete a questa scheda *(cap. 17 r. 58)*
@@ -136,4 +143,8 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e08-01` (cap. 8, la stessa sera dei cap. 6-7) — [Tom scorre il canale eTv - sempre la stessa ragazza](../eventi/e08-01.md)
 1. `e08-02` (cap. 8, la stessa sera) — [Tom nota cosa manca - identità, iscritti, ritmo](../eventi/e08-02.md)
 1. `e08-03` (cap. 8, la stessa sera, dopo le undici) — [Tom rimanda a domani - con quale IA è stato generato il video](../eventi/e08-03.md)
+1. `e09-01` (cap. 9, il mattino dopo, un'ora prima della sveglia solita, ancora buio) — [Hive dà il video per reale](../eventi/e09-01.md)
+1. `e09-02` (cap. 9, la stessa mattina, prima di uscire) — [Tom trascrive il parlato - due rilevatori su tre lo danno per generato](../eventi/e09-02.md)
+1. `e09-03` (cap. 9, lo stesso giorno, ultima ora di turno) — [Tom cerca il testo nell'archivio interno - corrispondenza trovata](../eventi/e09-03.md)
+1. `e09-04` (cap. 9, subito dopo) — [Tom riconosce il nome Elab](../eventi/e09-04.md)
 

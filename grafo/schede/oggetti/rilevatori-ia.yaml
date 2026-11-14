@@ -1,0 +1,12 @@
+id: rilevatori-ia
+nome: I rilevatori pubblici di IA (Hive Moderation, Undetectable AI, ZeroGPT)
+capitoli: [9]
+sintesi: "I servizi online a cui Tom sottopone il video e poi il suo parlato."
+caratteristiche:
+  - {testo: "Hive Moderation: l'unico tra i più noti che accetta un video intero. Verdetto in pochi secondi: contenuto reale", fonte: "c9:9-11"}
+  - {testo: "Spiegazione di Tom: addestrato su artefatti visivi, texture, movimento; non su un glitch anatomico di due fotogrammi in quindici minuti", fonte: "c9:13"}
+  - {testo: "Sul testo: Undetectable AI, ZeroGPT e Hive. «Probabilità alta», «molto probabile», e uno sul reale di poco", fonte: "c9:19"}
+  - {testo: "Nessuno indica il modello: «origine non determinabile»", fonte: "c9:19"}
+non_detto:
+  - {testo: "Quale dei tre servizi abbia dato quale verdetto sul testo non è specificato."}
+

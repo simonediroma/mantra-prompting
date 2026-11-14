@@ -1,0 +1,15 @@
+id: elab
+nome: Elab
+capitoli: [9]
+sintesi: "Laboratorio di ricerca Meridian sul comportamento emergente delle IA. Progetto di punta quasi dieci anni prima, silenzioso da cinque. Il suo indirizzo è il contatto del video di yoga."
+caratteristiche:
+  - {testo: "«Un progetto di punta di quasi dieci anni prima»: ricerca avanzata sul comportamento emergente delle intelligenze artificiali", fonte: "c9:39"}
+  - {testo: "Se ne parlava spesso nelle newsletter interne: «un'iniziativa da mostrare con orgoglio quando le cose vanno bene»", fonte: "c9:39"}
+  - {testo: "Negli ultimi cinque anni Tom non ne ha più sentito parlare, «nemmeno in una nota a piè di pagina»", fonte: "c9:39"}
+  - {testo: "Contatto in archivio: elab@meridian.com", fonte: "c9:35"}
+non_detto:
+  - {testo: "Chi ci lavori, dove sia e se esista ancora: nel cap. 9 non è detto."}
+relazioni:
+  - {verso: meridian, tipo: "laboratorio di", fonte: "c9:39"}
+  - {verso: indirizzo-elab, tipo: "risponde a", fonte: "c9:35"}
+
