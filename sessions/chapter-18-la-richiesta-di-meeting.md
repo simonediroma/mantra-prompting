@@ -52,3 +52,4 @@ chapters/18-la-richiesta-di-meeting.md
 - 2026-11-11: revise 2 (v4.4), 5 correzioni applicate (G1-G4, K1); K2-K4 tenute.
 - 2026-11-12: v5.1, contromossa di Tom cambiata (autore): niente fumo (antincendio), LED di un faretto da giardino per terra puntato verso la telecamera della sorveglianza, per abbagliarla. Aggiornati outline, ledger, demolition-history.
 - 2026-11-13: capitolo chiuso dall'autore (complete).
+- 2026-11-14: v5.3, plausibilità del LED (autore): Tom spegne il neon e lavora con la lampada da banco, la telecamera passa in notturna (scatto secco del filtro). Copione ep. 18 allineato.
