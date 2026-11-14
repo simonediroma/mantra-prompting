@@ -21,6 +21,14 @@
    ]
   },
   {
+   "id": "cameriere-della-mela",
+   "tipo": "personaggio",
+   "nome": "Il cameriere della Mela Morsicata",
+   "capitoli": [
+    16
+   ]
+  },
+  {
    "id": "cliente-caso-zero",
    "tipo": "personaggio",
    "nome": "Cliente del televisore del primo contatto",
@@ -47,7 +55,8 @@
     12,
     13,
     14,
-    15
+    15,
+    16
    ]
   },
   {
@@ -76,6 +85,14 @@
    ]
   },
   {
+   "id": "helge-mandelbrot",
+   "tipo": "personaggio",
+   "nome": "Helge Mandelbrot",
+   "capitoli": [
+    16
+   ]
+  },
+  {
    "id": "mauro-vargiu",
    "tipo": "personaggio",
    "nome": "Mauro Vargiu (il trisavolo)",
@@ -92,7 +109,8 @@
     4,
     5,
     14,
-    15
+    15,
+    16
    ]
   },
   {
@@ -150,7 +168,16 @@
     12,
     13,
     14,
-    15
+    15,
+    16
+   ]
+  },
+  {
+   "id": "tommy",
+   "tipo": "personaggio",
+   "nome": "«Tommy»",
+   "capitoli": [
+    16
    ]
   },
   {
@@ -192,7 +219,8 @@
     3,
     4,
     9,
-    10
+    10,
+    16
    ]
   },
   {
@@ -208,7 +236,8 @@
    "tipo": "oggetto",
    "nome": "Gli apparecchi ordinari del cap. 14",
    "capitoli": [
-    14
+    14,
+    16
    ]
   },
   {
@@ -424,7 +453,8 @@
     9,
     10,
     11,
-    14
+    14,
+    16
    ]
   },
   {
@@ -444,7 +474,8 @@
    "capitoli": [
     11,
     12,
-    13
+    13,
+    16
    ]
   },
   {
@@ -475,12 +506,22 @@
    ]
   },
   {
+   "id": "mail-delle-2334",
+   "tipo": "oggetto",
+   "nome": "La mail delle 23:34 di venerdì",
+   "capitoli": [
+    16,
+    17
+   ]
+  },
+  {
    "id": "mail-di-scuse-di-emma",
    "tipo": "oggetto",
    "nome": "La seconda mail di Emma (le scuse)",
    "capitoli": [
     13,
-    14
+    14,
+    16
    ]
   },
   {
@@ -492,6 +533,14 @@
     3,
     14,
     15
+   ]
+  },
+  {
+   "id": "newsletter-benessere",
+   "tipo": "oggetto",
+   "nome": "La newsletter di Benessere Meridian (modalità presenza)",
+   "capitoli": [
+    16
    ]
   },
   {
@@ -576,7 +625,8 @@
     2,
     6,
     13,
-    14
+    14,
+    16
    ]
   },
   {
@@ -605,7 +655,8 @@
    "nome": "La risposta di Tom a Emma (solo fatti)",
    "capitoli": [
     14,
-    15
+    15,
+    16
    ]
   },
   {
@@ -660,7 +711,8 @@
    "tipo": "oggetto",
    "nome": "La mail delle 08:00:01",
    "capitoli": [
-    15
+    15,
+    16
    ]
   },
   {
@@ -702,7 +754,8 @@
     12,
     13,
     14,
-    15
+    15,
+    16
    ]
   },
   {
@@ -756,6 +809,14 @@
    ]
   },
   {
+   "id": "la-mela-morsicata",
+   "tipo": "luogo",
+   "nome": "La Mela Morsicata",
+   "capitoli": [
+    16
+   ]
+  },
+  {
    "id": "laboratorio-di-tom",
    "tipo": "luogo",
    "nome": "Laboratorio di Tom",
@@ -806,7 +867,8 @@
    "capitoli": [
     10,
     11,
-    13
+    13,
+    16
    ]
   },
   {
@@ -818,6 +880,15 @@
     5,
     9,
     15
+   ]
+  },
+  {
+   "id": "calendario",
+   "tipo": "concetto",
+   "nome": "Calendario ricostruito (giorni della settimana)",
+   "capitoli": [
+    3,
+    16
    ]
   },
   {
@@ -928,7 +999,8 @@
    "capitoli": [
     13,
     14,
-    15
+    15,
+    16
    ]
   },
   {
@@ -941,6 +1013,14 @@
     3,
     4,
     14
+   ]
+  },
+  {
+   "id": "sofisma-della-sarda-salata",
+   "tipo": "concetto",
+   "nome": "Il sofisma della sarda salata",
+   "capitoli": [
+    16
    ]
   },
   {
@@ -1038,6 +1118,14 @@
    "capitoli": [
     1,
     2
+   ]
+  },
+  {
+   "id": "modalita-presenza",
+   "tipo": "termine",
+   "nome": "Modalità presenza",
+   "capitoli": [
+    16
    ]
   },
   {
@@ -1766,6 +1854,54 @@
    "capitoli": [
     15
    ]
+  },
+  {
+   "id": "e16-01",
+   "tipo": "evento",
+   "nome": "Emma legge la risposta di Tom - tutto dell'apparecchio, niente della morte",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "e16-02",
+   "tipo": "evento",
+   "nome": "Emma sceglie la domanda sul verbo «si rifiuta»",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "e16-03",
+   "tipo": "evento",
+   "nome": "Una settimana di silenzio - Emma segue Tom sulla lista",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "e16-04",
+   "tipo": "evento",
+   "nome": "Emma decide di parlargli lei della morte, lunedì alle otto",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "e16-05",
+   "tipo": "evento",
+   "nome": "Venerdì sera alla Mela Morsicata - Tommy e la sarda salata",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "e16-06",
+   "tipo": "evento",
+   "nome": "Alle 23:34 Emma scrive a Tom fuori orario",
+   "capitoli": [
+    16
+   ]
   }
  ],
  "archi": [
@@ -1929,6 +2065,27 @@
    "tipo": "ha scritto",
    "nota": "",
    "fonte": "c15:15"
+  },
+  {
+   "da": "emma",
+   "a": "la-mela-morsicata",
+   "tipo": "frequenta ogni venerdì",
+   "nota": "",
+   "fonte": "c16:25"
+  },
+  {
+   "da": "emma",
+   "a": "tommy",
+   "tipo": "riceve il sofisma da",
+   "nota": "",
+   "fonte": "c16:39"
+  },
+  {
+   "da": "emma",
+   "a": "mail-delle-2334",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c16:43"
   },
   {
    "da": "fondatore",
@@ -2652,6 +2809,27 @@
    "fonte": "c10:19"
   },
   {
+   "da": "mail-delle-2334",
+   "a": "tom",
+   "tipo": "indirizzata a",
+   "nota": "",
+   "fonte": "c16:47"
+  },
+  {
+   "da": "mail-delle-2334",
+   "a": "pete",
+   "tipo": "segnalata a",
+   "nota": "",
+   "fonte": "c16:45"
+  },
+  {
+   "da": "mail-delle-2334",
+   "a": "regole-sulla-posta",
+   "tipo": "infrange",
+   "nota": "",
+   "fonte": "c16:45"
+  },
+  {
    "da": "mail-di-scuse-di-emma",
    "a": "tom",
    "tipo": "destinata a",
@@ -2671,6 +2849,13 @@
    "tipo": "si trova in",
    "nota": "",
    "fonte": ""
+  },
+  {
+   "da": "newsletter-benessere",
+   "a": "modalita-presenza",
+   "tipo": "promuove",
+   "nota": "",
+   "fonte": "c16:17"
   },
   {
    "da": "organigramma",
@@ -3044,6 +3229,20 @@
    "fonte": ""
   },
   {
+   "da": "la-mela-morsicata",
+   "a": "cameriere-della-mela",
+   "tipo": "luogo di lavoro di",
+   "nota": "",
+   "fonte": "c16:31"
+  },
+  {
+   "da": "la-mela-morsicata",
+   "a": "helge-mandelbrot",
+   "tipo": "ha il bancone costruito da",
+   "nota": "",
+   "fonte": "c16:29"
+  },
+  {
    "da": "laboratorio-di-tom",
    "a": "sede-assistenza",
    "tipo": "si trova in",
@@ -3175,6 +3374,20 @@
    "tipo": "va chiusa entro",
    "nota": "",
    "fonte": "c2:13"
+  },
+  {
+   "da": "sofisma-della-sarda-salata",
+   "a": "tommy",
+   "tipo": "detto da",
+   "nota": "",
+   "fonte": "c16:39"
+  },
+  {
+   "da": "sofisma-della-sarda-salata",
+   "a": "risposta-di-tom",
+   "tipo": "applicato a",
+   "nota": "",
+   "fonte": "c16:41"
   },
   {
    "da": "soglia-ritardo-cinque-minuti",
@@ -7526,6 +7739,370 @@
   {
    "da": "e04-03",
    "a": "e15-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "risposta-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "e16-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "terza-mail-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "mail-di-scuse-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "la-mela-morsicata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "e16-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "apparecchi-ordinari",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "tritatutto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "newsletter-benessere",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "modalita-presenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "regole-sulla-posta",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "calendario",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-06",
+   "a": "e16-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "e16-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "e16-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "la-mela-morsicata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "cameriere-della-mela",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "tommy",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "sofisma-della-sarda-salata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "helge-mandelbrot",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "risposta-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "la-mela-morsicata",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "e16-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "mail-delle-2334",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "regole-sulla-posta",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "cameriere-della-mela",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "tommy",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "la-mela-morsicata",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "e16-06",
    "tipo": "porta a",
    "nota": "",
    "fonte": ""

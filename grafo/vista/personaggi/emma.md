@@ -1,6 +1,6 @@
 # Emma
 
-`emma` · personaggio · capitoli: 10, 11, 12, 13, 14, 15
+`emma` · personaggio · capitoli: 10, 11, 12, 13, 14, 15, 16
 
 L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10.
 
@@ -49,6 +49,14 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Scrive al primo secondo utile del turno, 08:00:01: una mail già scritta, aspettata «con il dito sopra un tasto» *(cap. 15 r. 11)*
 - Dice di sé: «nel mio lavoro la differenza conta» (tra modo di dire e fatto) *(cap. 15 r. 15)*
 - Per Tom è «una ricercatrice di un laboratorio che non esisteva più» *(cap. 15 r. 19)*
+- Non fa meeting da cinque anni *(cap. 16 r. 17)*
+- Ogni venerdì sera, a lavoro finito, va alla Mela Morsicata per una convinzione mai detta a nessuno: «che da qualche parte ci fosse qualcuno come lei». Si siede e aspetta *(cap. 16 r. 35)*
+- Alla Mela Morsicata sta tra i silenziosi; non ordina quasi mai; risponde a tutti con gentilezza «perché poteva essere chiunque»; ascolta ogni risposta cercando «un segno che non era mai arrivato» *(cap. 16 r. 33-35)*
+- È l'unica al bancone a usare il suo vero nome: il cameriere la saluta «Ciao, Emma, a presto» *(cap. 16 r. 49)*
+- Lessico: riceve «ping» dagli astanti, «quitta alla seconda iterazione» *(cap. 16 r. 37)*
+- Applica le regole di Meridian, compresa quella sull'orario, «perché non aveva mai avuto un motivo per fare altro»; la mail delle 23:34 è la prima regola che infrange *(cap. 16 r. 35, cap. 16 r. 45)*
+- Non si è mai chiesta che faccia abbia il supervisore di Tom *(cap. 16 r. 45)*
+- Trova le risposte prima che l'altro finisca la frase *(cap. 16 r. 41)*
 
 ## Cosa NON dice il testo
 
@@ -58,6 +66,7 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Cosa faccia in pausa pranzo, e se mangi, non è detto.
 - Fino al cap. 12 Emma non sapeva della morte della signora Voss, pur avendone il caso in archivio.
 - Emma non sa del messaggio in Morse: ignora che il televisore ha avvertito la signora. Tom lo sa (cap. 5). Lei teme un «angelo della morte», lui ha annotato «benevolo, non ostile».
+- Il cap. 16 non dice come Emma arrivi alla Mela Morsicata né che lasci la stanza: al bancone ha davanti la casella di Elab «aperta» e «l'orario nell'angolo dello schermo» (r. 43).
 
 ## Punti aperti / da verificare
 
@@ -71,6 +80,7 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - **Cap. 13** — Stessa mattina del cap. 12: nel pannello di eTv trova lo spettatore unico del video di yoga. Teme che il televisore abbia «preparato il terreno» alla morte della signora. Per la prima volta salta il processo del mattino. Scopre che Tom ha avuto il televisore due volte e le ha scritto sapendo della morte. Decide di riscrivergli scusandosi *(cap. 13 r. 43-45)*
 - **Cap. 14** — Fuori scena: ha inviato le scuse; nel pomeriggio non risponde alla mail di Tom *(cap. 14 r. 43)*
 - **Cap. 15** — Fuori scena: ha letto la risposta di Tom e alle 08:00:01 gli chiede se la cliente intendesse «si rifiuta» alla lettera *(cap. 15 r. 15)*
+- **Cap. 16** — Legge la risposta di Tom: tutto dell'apparecchio, niente della morte. Per una settimana lo segue sulla lista dell'assistenza. Il venerdì dopo, alla Mela Morsicata, alle 23:34 gli scrive fuori orario *(cap. 16 r. 43-47)*
 
 ## Relazioni
 
@@ -94,6 +104,9 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - → conosce e sfrutta [Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio](../concetti/meccanismo-della-ripetizione.md) *(cap. 13 r. 27)*
 - → decide di scrivere [La seconda mail di Emma (le scuse)](../oggetti/mail-di-scuse-di-emma.md) *(cap. 13 r. 45)*
 - → ha scritto [La mail delle 08:00:01](../oggetti/terza-mail-di-emma.md) *(cap. 15 r. 15)*
+- → frequenta ogni venerdì [La Mela Morsicata](../luoghi/la-mela-morsicata.md) *(cap. 16 r. 25)*
+- → riceve il sofisma da [«Tommy»](../personaggi/tommy.md) *(cap. 16 r. 39)*
+- → ha scritto [La mail delle 23:34 di venerdì](../oggetti/mail-delle-2334.md) *(cap. 16 r. 43)*
 - ← [Tom](../personaggi/tom.md) scrive a questa scheda — senza sapere chi leggerà *(cap. 10 r. 19)*
 - ← [elab@meridian.com](../oggetti/indirizzo-elab.md) gestita da questa scheda *(cap. 10 r. 17)*
 - ← [La risposta di Tom a Emma (solo fatti)](../oggetti/risposta-di-tom.md) indirizzata a questa scheda *(cap. 14 r. 39)*
@@ -123,6 +136,12 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 1. `e14-02` (cap. 14, nei quasi cinque minuti rimasti dello slot) — [Tom legge le scuse - non è più solo; il margine dei 47 secondi salta](../eventi/e14-02.md)
 1. `e14-05` (cap. 14, fine della pausa pranzo) — [Tom invia quando il nastro riparte](../eventi/e14-05.md)
 1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
+1. `e16-01` (cap. 16, venerdì, poco dopo l'una e mezza (stesso giorno dei cap. 12-14)) — [Emma legge la risposta di Tom - tutto dell'apparecchio, niente della morte](../eventi/e16-01.md)
+1. `e16-02` (cap. 16, venerdì pomeriggio e sera) — [Emma sceglie la domanda sul verbo «si rifiuta»](../eventi/e16-02.md)
 1. `e15-02` (cap. 15, alle 08:00:01) — [Le 08:00:01 - «intendeva proprio quello?»](../eventi/e15-02.md)
 1. `e15-06` (cap. 15, nei secondi prima del pezzo successivo) — [«Ciao Emma,» - Tom cancella e non risponde](../eventi/e15-06.md)
+1. `e16-03` (cap. 16, da sabato a giovedì) — [Una settimana di silenzio - Emma segue Tom sulla lista](../eventi/e16-03.md)
+1. `e16-04` (cap. 16, giovedì; venerdì alle cinque la casella è vuota da sei giorni) — [Emma decide di parlargli lei della morte, lunedì alle otto](../eventi/e16-04.md)
+1. `e16-05` (cap. 16, venerdì sera, una settimana dopo) — [Venerdì sera alla Mela Morsicata - Tommy e la sarda salata](../eventi/e16-05.md)
+1. `e16-06` (cap. 16, venerdì, 23:34) — [Alle 23:34 Emma scrive a Tom fuori orario](../eventi/e16-06.md)
 

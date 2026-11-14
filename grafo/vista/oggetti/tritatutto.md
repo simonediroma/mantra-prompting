@@ -19,4 +19,5 @@ Il primo lavoro che a Tom va male: rimonta la lama senza la rondella e riga la c
 
 1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)
 1. `e15-05` (cap. 15, stesso intervento) — [Tom dimentica la rondella e riga la ciotola](../eventi/e15-05.md)
+1. `e16-03` (cap. 16, da sabato a giovedì) — [Una settimana di silenzio - Emma segue Tom sulla lista](../eventi/e16-03.md)
 

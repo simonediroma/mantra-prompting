@@ -1,6 +1,6 @@
 # elab@meridian.com
 
-`indirizzo-elab` · oggetto · capitoli: 9, 10, 11, 14
+`indirizzo-elab` · oggetto · capitoli: 9, 10, 11, 14, 16
 
 L'indirizzo che l'archivio interno indica come contatto del contenuto corrispondente al video di yoga.
 
@@ -13,6 +13,7 @@ L'indirizzo che l'archivio interno indica come contatto del contenuto corrispond
 - Emma la controlla per tutto il giorno; alle diciassette la chiude vuota *(cap. 11 r. 37)*
 - Il fondatore ha smesso di ricordarla da anni *(cap. 11 r. 27)*
 - Tom lo aveva «creduto morto» *(cap. 14 r. 27)*
+- Vuota per sei giorni; alle 23:34 di venerdì ne parte la prima mail fuori orario *(cap. 16 r. 23, cap. 16 r. 47)*
 
 ## Punti aperti / da verificare
 
@@ -35,4 +36,6 @@ L'indirizzo che l'archivio interno indica come contatto del contenuto corrispond
 1. `e11-04` (cap. 11, poco dopo mezzogiorno) — [La visita del fondatore - l'indovinello, il foglio stampato](../eventi/e11-04.md)
 1. `e11-06` (cap. 11, fine turno, 17:00) — [Alle diciassette Emma chiude l'inbox, vuota](../eventi/e11-06.md)
 1. `e14-01` (cap. 14, stesso giorno dei cap. 12-13, turno del mattino, dopo le dieci e mezza) — [Le scuse di Emma arrivano sull'eWatch a metà intervento](../eventi/e14-01.md)
+1. `e16-04` (cap. 16, giovedì; venerdì alle cinque la casella è vuota da sei giorni) — [Emma decide di parlargli lei della morte, lunedì alle otto](../eventi/e16-04.md)
+1. `e16-06` (cap. 16, venerdì, 23:34) — [Alle 23:34 Emma scrive a Tom fuori orario](../eventi/e16-06.md)
 

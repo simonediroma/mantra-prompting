@@ -1,6 +1,6 @@
 id: indirizzo-elab
 nome: elab@meridian.com
-capitoli: [9, 10, 11, 14]
+capitoli: [9, 10, 11, 14, 16]
 sintesi: "L'indirizzo che l'archivio interno indica come contatto del contenuto corrispondente al video di yoga."
 caratteristiche:
   - {testo: "Campo «Contatto» della corrispondenza trovata", fonte: "c9:35"}
@@ -11,6 +11,7 @@ caratteristiche:
   - {testo: "Emma la controlla per tutto il giorno; alle diciassette la chiude vuota", fonte: "c11:37"}
   - {testo: "Il fondatore ha smesso di ricordarla da anni", fonte: "c11:27"}
   - {testo: "Tom lo aveva «creduto morto»", fonte: "c14:27"}
+  - {testo: "Vuota per sei giorni; alle 23:34 di venerdì ne parte la prima mail fuori orario", fonte: "c16:23, c16:47"}
 aperti:
   - {testo: "Il contatto è stato scritto dal sistema «anni prima» (c10 r. 23), ma l'etichettatura dell'archivio risale a «un paio d'anni prima» (c9 r. 25) e il video a 6 mesi fa (c9 r. 32)."}
 relazioni:

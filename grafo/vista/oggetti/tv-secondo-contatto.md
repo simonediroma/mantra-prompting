@@ -1,6 +1,6 @@
 # Televisore del secondo contatto
 
-`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6, 12, 13, 14, 15
+`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5, 6, 12, 13, 14, 15, 16
 
 Alias: il secondo televisore, quinta voce del quaderno, il televisore della signora Voss
 
@@ -34,6 +34,8 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - È arrivato in laboratorio pochi giorni dopo la telefonata della signora *(cap. 13 r. 31)*
 - Guasto come scritto da Tom nella scheda: non si accende e manda segnali luminosi senza senso dal LED di accensione *(cap. 14 r. 31)*
 - Ipotesi di Tom su come sapesse del cuore: stava sullo stesso account dell'eWatch della signora e ne vedeva i battiti; acceso otto ore al giorno, ha dedotto da solo dove andava a finire *(cap. 15 r. 27)*
+- Nelle parole di Tom: «la serie da salotto con l'assistente integrato» *(cap. 16 r. 11)*
+- L'unico caso in tutta l'assistenza in cui «si rifiuta» ha voluto dire proprio quello *(cap. 16 r. 21)*
 
 ## Cosa NON dice il testo
 

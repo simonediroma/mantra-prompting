@@ -1,0 +1,15 @@
+id: calendario
+nome: Calendario ricostruito (giorni della settimana)
+capitoli: [3, 16]
+sintesi: "I due punti fermi del testo sono il martedì del secondo contatto (cap. 3) e il venerdì delle 23:34 (cap. 16). Da lì si ricavano gli altri giorni."
+caratteristiche:
+  - {testo: "Martedì: il secondo contatto", fonte: "c3:17"}
+  - {testo: "Il giorno in cui Emma riceve la risposta di Tom è un venerdì: quella sera va «al solito posto del venerdì». Quindi i cap. 12, 13 e 14 sono di venerdì", fonte: "c16:15"}
+  - {testo: "Sabato: la mail delle 08:00:01 e il cap. 15 («Il sabato Tom non rispose»)", fonte: "c16:17"}
+  - {testo: "Domenica non si scrive; lunedì la newsletter; martedì la ricerca di «si rifiuta»; mercoledì il doppio controllo; giovedì la decisione", fonte: "c16:17-23"}
+  - {testo: "Venerdì successivo: casella vuota «da sei giorni», poi la mail delle 23:34", fonte: "c16:23, c16:47"}
+  - {testo: "A ritroso dal primo venerdì: giovedì il cap. 11, mercoledì il cap. 10, martedì il cap. 9 (e la mail del bluff la sera), lunedì il ricondizionamento e i cap. 6-8", fonte: "c12:17, c13:43"}
+aperti:
+  - {testo: "Se il ricondizionamento è di lunedì e il secondo contatto di martedì, tra i due passano 20 giorni (o 27): «poco più di tre settimane» (c6 r. 13, c16 r. 11) chiede almeno 22. Con 20 sono «poco meno di tre settimane»; con 27 quasi quattro."}
+  - {testo: "Tom e Pete lavorano di sabato (cap. 15): la settimana Meridian è di sei giorni. Il testo lo dà per scontato."}
+

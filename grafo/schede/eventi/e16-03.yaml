@@ -1,0 +1,14 @@
+id: e16-03
+nome: Una settimana di silenzio - Emma segue Tom sulla lista
+capitolo: 16
+ordine: 16.1
+quando: "da sabato a giovedì"
+dove: stanza-di-emma
+dopo: [e15-06, e16-02]
+coinvolti: [emma, tom, lista-dispositivi-in-assistenza, apparecchi-ordinari, tritatutto, newsletter-benessere, modalita-presenza, regole-sulla-posta, calendario]
+sintesi: "Sabato nessuna risposta, domenica non si scrive, lunedì la newsletter sulla modalità presenza. Emma segue gli interventi di Tom; martedì cerca «si rifiuta» tra tutti i tecnici: solo pezzi rotti."
+fatti:
+  - {testo: "Sabato, domenica, lunedì", fonte: "c16:17"}
+  - {testo: "Gli interventi di Tom", fonte: "c16:19"}
+  - {testo: "La ricerca del verbo", fonte: "c16:21"}
+

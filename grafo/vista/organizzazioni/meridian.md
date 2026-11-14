@@ -1,6 +1,6 @@
 # Meridian
 
-`meridian` · organizzazione · capitoli: 1, 2, 3, 4, 9, 10
+`meridian` · organizzazione · capitoli: 1, 2, 3, 4, 9, 10, 16
 
 L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l'intera filiera dal silicio al robot da cucina.
 
@@ -21,6 +21,9 @@ L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l
 - Ha newsletter interne *(cap. 9 r. 39)*
 - Ha un fondatore, che ha anche fondato Elab *(cap. 10 r. 13)*
 - I televisori e gli altri dispositivi, anche con IA, non lasciano indirizzi di posta nei log *(cap. 10 r. 21)*
+- Ha una funzione «Benessere Meridian» che manda newsletter notturne; protegge il riposo con avvisi automatici ai supervisori *(cap. 16 r. 17)*
+- Mette l'IA in frigoriferi, orologi, «perfino nei tostapane» *(cap. 16 r. 27)*
+- La pubblicità promette apparecchi che vogliono, decidono, si offendono *(cap. 16 r. 19)*
 
 ## Relazioni
 

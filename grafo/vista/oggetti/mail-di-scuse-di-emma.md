@@ -1,6 +1,6 @@
 # La seconda mail di Emma (le scuse)
 
-`mail-di-scuse-di-emma` · oggetto · capitoli: 13, 14
+`mail-di-scuse-di-emma` · oggetto · capitoli: 13, 14, 16
 
 La mail che Emma decide di scrivere a Tom alle dieci e mezza: scuse per il tono e domande di cui conosce già le risposte.
 
@@ -13,6 +13,7 @@ La mail che Emma decide di scrivere a Tom alle dieci e mezza: scuse per il tono 
 - Testo: «Ciao Tom, ti scrivo per scusarmi. La mia risposta dell'altro giorno era più brusca del necessario. A questo indirizzo non scrive nessuno da anni e mi hai colta alla sprovvista. Ho riletto la tua mail con più calma e credo di aver frainteso il motivo per cui mi hai scritto. Se posso aiutarti, lo faccio volentieri, e qualsiasi cosa potrò dirti te la dirò. Però ho bisogno di qualche indizio in più per capire di cosa stiamo parlando. Di che apparecchio si trattava? Che guasto aveva? E sai se poi è tornato al cliente? Grazie, e scusami ancora. Emma» *(cap. 14 r. 17)*
 - Arriva a Tom come notifica sull'eWatch a metà di un intervento *(cap. 14 r. 13)*
 - Per Tom è «una mano tesa»: una porta da cui rientrare senza confessare niente *(cap. 14 r. 25)*
+- Emma teme che Tom scopra che le tre domande erano fatte «sapendo già le risposte» *(cap. 16 r. 15)*
 
 ## Stato capitolo per capitolo
 
@@ -30,4 +31,5 @@ La mail che Emma decide di scrivere a Tom alle dieci e mezza: scuse per il tono 
 1. `e13-06` (cap. 13, le dieci e mezza) — [Emma decide di riscrivere a Tom - le scuse](../eventi/e13-06.md)
 1. `e14-01` (cap. 14, stesso giorno dei cap. 12-13, turno del mattino, dopo le dieci e mezza) — [Le scuse di Emma arrivano sull'eWatch a metà intervento](../eventi/e14-01.md)
 1. `e14-02` (cap. 14, nei quasi cinque minuti rimasti dello slot) — [Tom legge le scuse - non è più solo; il margine dei 47 secondi salta](../eventi/e14-02.md)
+1. `e16-02` (cap. 16, venerdì pomeriggio e sera) — [Emma sceglie la domanda sul verbo «si rifiuta»](../eventi/e16-02.md)
 

@@ -2,7 +2,7 @@ id: e15-01
 nome: Tom lascia la porta accostata
 capitolo: 15
 ordine: 15.1
-quando: "il mattino dopo, alle otto meno un quarto"
+quando: "il mattino dopo (sabato), alle otto meno un quarto"
 dove: laboratorio-di-tom
 dopo: [e14-06]
 coinvolti: [tom, porta-accostata, anticipo-di-quindici-minuti, risposta-di-tom]

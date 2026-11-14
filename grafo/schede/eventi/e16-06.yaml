@@ -1,0 +1,13 @@
+id: e16-06
+nome: Alle 23:34 Emma scrive a Tom fuori orario
+capitolo: 16
+ordine: 16.4
+quando: "venerdì, 23:34"
+dove: la-mela-morsicata
+dopo: [e16-05]
+coinvolti: [emma, mail-delle-2334, tom, pete, regole-sulla-posta, indirizzo-elab, cameriere-della-mela, tommy]
+sintesi: "Senza guardare l'ora e senza rileggere. È la prima regola di Meridian che infrange, e fa partire un avviso al supervisore di Tom."
+fatti:
+  - {testo: "La scrittura e l'invio", fonte: "c16:43"}
+  - {testo: "La regola infranta", fonte: "c16:45-47"}
+  - {testo: "Il saluto del cameriere", fonte: "c16:49"}

@@ -1,0 +1,16 @@
+id: mail-delle-2334
+nome: La mail delle 23:34 di venerdì
+capitoli: [16, 17]
+sintesi: "La mail che Emma scrive a Tom dalla Mela Morsicata, fuori orario: la prima regola di Meridian che infrange."
+caratteristiche:
+  - {testo: "Scritta di getto: tutto ciò che teneva da parte da sei giorni «le venne fuori in una volta», senza aspettare le otto né una seconda lettura", fonte: "c16:43"}
+  - {testo: "Riga in posta inviata: «Inviata · A: Tom · ven 23:34»", fonte: "c16:47"}
+  - {testo: "Fa partire un avviso al supervisore di Tom", fonte: "c16:45"}
+  - {testo: "Nel riepilogo di Pete: «Segnalazione: mail fuori orario ricevuta · Destinatario: Tom · Ora di ricezione: 23:34 · Mittente: fuori giurisdizione · Contenuto: non disponibile · Infrazione: nessuna»", fonte: "c17:44-50"}
+non_detto:
+  - {testo: "Il testo della mail non è riportato nel cap. 16. Il giovedì Emma aveva deciso di parlare lei della morte della cliente, lunedì alle otto (c16 r. 23): se la mail delle 23:34 lo faccia non è detto qui."}
+relazioni:
+  - {verso: tom, tipo: "indirizzata a", fonte: "c16:47"}
+  - {verso: pete, tipo: "segnalata a", fonte: "c16:45"}
+  - {verso: regole-sulla-posta, tipo: "infrange", fonte: "c16:45"}
+

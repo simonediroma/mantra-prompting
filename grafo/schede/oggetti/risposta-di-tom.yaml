@@ -1,6 +1,6 @@
 id: risposta-di-tom
 nome: La risposta di Tom a Emma (solo fatti)
-capitoli: [14, 15]
+capitoli: [14, 15, 16]
 sintesi: "La mail con cui Tom risponde alle scuse di Emma: i fatti del registro e niente altro. Scritta in pausa pranzo, inviata quando il nastro riparte."
 caratteristiche:
   - {testo: "Prima versione: le domande di Tom (cosa sia diventato Elab, chi ci sia dietro il video, perché un indirizzo Meridian risponda di un canale senza nome). Cancellate: messa alle strette, lei si richiuderebbe", fonte: "c14:37"}
@@ -11,8 +11,12 @@ caratteristiche:
   - {testo: "Conteneva, tra virgolette, la frase della scheda copiata così com'era: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c15:17"}
   - {testo: "Emma la giudica: «sei stato chiarissimo»", fonte: "c15:15"}
   - {testo: "Partita «da un computer di Meridian verso un indirizzo che non c'entrava niente con la sua lista di riparazioni»: per questo Tom teme che qualcuno venga a vedere", fonte: "c15:9"}
+  - {testo: "Testo: «Ciao Emma, grazie, nessun problema. Era un televisore, la serie da salotto con l'assistente integrato. Il guasto, come l'ha detto la cliente nella scheda: 'Si rifiuta di accendersi. Lampeggia in un modo strano.' Verifica di conformità pulita, nessuna anomalia hardware. Fatto l'hard reset da procedura. La cliente non ha ritirato l'apparecchio. Dopo poco più di tre settimane è rientrato con il lotto del ricondizionamento ed è in magazzino, in attesa di vendita. Se ti serve altro chiedi pure. Tom»", fonte: "c16:11"}
+  - {testo: "Arriva a Emma poco dopo l'una e mezza, dopo la pausa pranzo", fonte: "c16:9"}
+  - {testo: "Emma la verifica riga per riga sulla lista dell'assistenza: tutto vero, Tom ha ricopiato le sue note", fonte: "c16:13"}
+  - {testo: "NON dice che la cliente è morta: «le aveva detto tutto dell'apparecchio e niente della persona»", fonte: "c16:13"}
+  - {testo: "È la «mail di sette righe» che Emma «beve e ribeve» per una settimana", fonte: "c16:41"}
 non_detto:
-  - {testo: "Il testo della mail non è riportato. In particolare non è detto se Tom scriva che la cliente è morta: è «l'unico [fatto] che non si decideva a mettere in fila con gli altri» (c14 r. 31)."}
 relazioni:
   - {verso: mail-di-scuse-di-emma, tipo: "risponde a", fonte: "c14:37"}
   - {verso: emma, tipo: "indirizzata a", fonte: "c14:39"}

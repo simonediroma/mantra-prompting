@@ -1,6 +1,6 @@
 id: stanza-di-emma
 nome: La stanza di Emma (ex laboratorio Elab)
-capitoli: [10, 11, 13]
+capitoli: [10, 11, 13, 16]
 sintesi: "La stanza in cui Emma lavora da sola."
 caratteristiche:
   - {testo: "Una porta sotto cui, al mattino, compare la striscia di luce del corridoio", fonte: "c10:9"}
@@ -10,6 +10,7 @@ caratteristiche:
   - {testo: "C'è una stampante («frrr») e un raccoglitore con un suo posto", fonte: "c11:27"}
   - {testo: "Il corridoio è silenzioso già dieci minuti prima delle diciassette", fonte: "c11:37"}
   - {testo: "Alle dieci passa in corridoio il carrello del caffè («cri-cri»), che davanti alla sua porta non si ferma mai", fonte: "c13:35"}
+  - {testo: "Le porte del corridoio si richiudono dopo la pausa pranzo e una dopo l'altra alle cinque", fonte: "c16:9, c16:23"}
 non_detto:
   - {testo: "Arredi, finestre, posizione nell'edificio: non descritti."}
 relazioni:

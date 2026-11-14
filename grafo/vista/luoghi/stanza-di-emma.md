@@ -1,6 +1,6 @@
 # La stanza di Emma (ex laboratorio Elab)
 
-`stanza-di-emma` · luogo · capitoli: 10, 11, 13
+`stanza-di-emma` · luogo · capitoli: 10, 11, 13, 16
 
 La stanza in cui Emma lavora da sola.
 
@@ -13,6 +13,7 @@ La stanza in cui Emma lavora da sola.
 - C'è una stampante («frrr») e un raccoglitore con un suo posto *(cap. 11 r. 27)*
 - Il corridoio è silenzioso già dieci minuti prima delle diciassette *(cap. 11 r. 37)*
 - Alle dieci passa in corridoio il carrello del caffè («cri-cri»), che davanti alla sua porta non si ferma mai *(cap. 13 r. 35)*
+- Le porte del corridoio si richiudono dopo la pausa pranzo e una dopo l'altra alle cinque *(cap. 16 r. 9, cap. 16 r. 23)*
 
 ## Cosa NON dice il testo
 
@@ -49,4 +50,8 @@ La stanza in cui Emma lavora da sola.
 1. `e13-04` (cap. 13, la stessa mattina) — [Emma decide di non togliere il video](../eventi/e13-04.md)
 1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
 1. `e13-06` (cap. 13, le dieci e mezza) — [Emma decide di riscrivere a Tom - le scuse](../eventi/e13-06.md)
+1. `e16-01` (cap. 16, venerdì, poco dopo l'una e mezza (stesso giorno dei cap. 12-14)) — [Emma legge la risposta di Tom - tutto dell'apparecchio, niente della morte](../eventi/e16-01.md)
+1. `e16-02` (cap. 16, venerdì pomeriggio e sera) — [Emma sceglie la domanda sul verbo «si rifiuta»](../eventi/e16-02.md)
+1. `e16-03` (cap. 16, da sabato a giovedì) — [Una settimana di silenzio - Emma segue Tom sulla lista](../eventi/e16-03.md)
+1. `e16-04` (cap. 16, giovedì; venerdì alle cinque la casella è vuota da sei giorni) — [Emma decide di parlargli lei della morte, lunedì alle otto](../eventi/e16-04.md)
 

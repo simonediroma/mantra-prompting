@@ -1,17 +1,17 @@
 id: terza-mail-di-emma
 nome: La mail delle 08:00:01
-capitoli: [15]
+capitoli: [15, 16]
 sintesi: "La terza mail di Emma: ringrazia Tom e gli chiede se la cliente intendesse «si rifiuta» alla lettera."
 caratteristiche:
   - {testo: "Testo: «Ciao Tom, grazie, sei stato chiarissimo. Una cosa sola, perché mi aiuta a capire di che caso si tratta. Mi hai riportato le parole della tua cliente, 'si rifiuta di accendersi'. Secondo te lo diceva così per dire, come si dice di una macchina che non parte, oppure intendeva proprio quello, che l'apparecchio lo facesse apposta? Lo chiedo perché nel mio lavoro la differenza conta. Emma»", fonte: "c15:15"}
   - {testo: "Arriva alle 08:00:01, al primo secondo utile del turno", fonte: "c15:11"}
   - {testo: "Mette in fila le stesse due possibilità che la signora aveva distinto al telefono: il modo di dire o il fatto. Il fatto «lo conoscevano in due, lui e una donna morta»", fonte: "c15:19"}
   - {testo: "Per Tom: o ci è arrivata da una riga di scheda, o «ci stava già prima». Il laboratorio sa qualcosa", fonte: "c15:19"}
+  - {testo: "Nasce il pomeriggio prima: Emma non può chiedere della morte (Tom capirebbe che ha cercato la pratica e che le scuse erano un test), quindi chiede del verbo «si rifiuta»", fonte: "c16:15"}
 stato:
   - {cap: 15, testo: "Senza risposta: Tom scrive «Ciao Emma,» e cancella", fonte: "c15:31"}
+  - {cap: 16, testo: "Senza risposta per sei giorni", fonte: "c16:23"}
 aperti:
-  - {testo: "Emma scrive «la tua cliente», al femminile; nelle scuse aveva scritto «al cliente» (c14 r. 17). Il femminile può venire dalla risposta di Tom, il cui testo non è riportato."}
-  - {testo: "La mail non dice nulla sulla morte: da qui non si capisce ancora se Tom gliel'abbia scritta."}
 relazioni:
   - {verso: risposta-di-tom, tipo: "risponde a", fonte: "c15:15"}
   - {verso: scheda-cliente-secondo-tv, tipo: "cita", fonte: "c15:15"}

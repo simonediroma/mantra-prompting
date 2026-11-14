@@ -1,6 +1,6 @@
 # Le regole (scritte e non) su posta e pausa
 
-`regole-sulla-posta` · concetto · capitoli: 13, 14, 15
+`regole-sulla-posta` · concetto · capitoli: 13, 14, 15, 16
 
 In Meridian contano l'ora e il luogo da cui parte una mail. Emma e Tom le usano entrambi come copertura.
 
@@ -13,13 +13,22 @@ In Meridian contano l'ora e il luogo da cui parte una mail. Emma e Tom le usano 
 - «Una mail di un dipendente, una volta partita, non apparteneva più del tutto al dipendente» *(cap. 14 r. 33)*
 - Valgono per tutti: Tom non conosce gli orari di nessun laboratorio ma le conosce. Una mail partita al primo secondo utile del turno (08:00:01) è una mail già scritta *(cap. 15 r. 11)*
 - La regola che Tom si è dato: a banco vuoto nessuno può rimproverargli di sottrarre tempo al lavoro *(cap. 15 r. 13)*
+- La domenica in Meridian non si scrive, «a tutela del riposo dei dipendenti»: avviso automatico al supervisore per chi trasgredisce *(cap. 16 r. 17)*
+- Una mail fuori orario fa partire un avviso al supervisore di chi la riceve, «come sapevano tutti» *(cap. 16 r. 45)*
+- Il sabato si lavora e si scrive (la mail delle 08:00:01 è di sabato) *(cap. 16 r. 17)*
 
-## Cosa NON dice il testo
+## Punti aperti / da verificare
 
-- Il testo dà per nota la regola («il primo secondo utile»): che la posta si possa inviare solo in orario di lavoro si deduce, non è ancora enunciato.
+- L'avviso per una mail fuori orario va al supervisore di chi la RICEVE (c16 r. 45): Emma, scrivendo alle 23:34, espone Tom, non se stessa.
+
+## Relazioni
+
+- ← [La mail delle 23:34 di venerdì](../oggetti/mail-delle-2334.md) infrange questa scheda *(cap. 16 r. 45)*
 
 ## Catena degli eventi
 
 1. `e14-04` (cap. 14, pausa pranzo) — [In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti](../eventi/e14-04.md)
 1. `e15-02` (cap. 15, alle 08:00:01) — [Le 08:00:01 - «intendeva proprio quello?»](../eventi/e15-02.md)
+1. `e16-03` (cap. 16, da sabato a giovedì) — [Una settimana di silenzio - Emma segue Tom sulla lista](../eventi/e16-03.md)
+1. `e16-06` (cap. 16, venerdì, 23:34) — [Alle 23:34 Emma scrive a Tom fuori orario](../eventi/e16-06.md)
 

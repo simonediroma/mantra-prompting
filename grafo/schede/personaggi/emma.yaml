@@ -1,6 +1,6 @@
 id: emma
 nome: Emma
-capitoli: [10, 11, 12, 13, 14, 15]
+capitoli: [10, 11, 12, 13, 14, 15, 16]
 sintesi: "L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10."
 caratteristiche:
   - {testo: "Nome: Emma", fonte: "c10:15"}
@@ -46,6 +46,14 @@ caratteristiche:
   - {testo: "Scrive al primo secondo utile del turno, 08:00:01: una mail già scritta, aspettata «con il dito sopra un tasto»", fonte: "c15:11"}
   - {testo: "Dice di sé: «nel mio lavoro la differenza conta» (tra modo di dire e fatto)", fonte: "c15:15"}
   - {testo: "Per Tom è «una ricercatrice di un laboratorio che non esisteva più»", fonte: "c15:19"}
+  - {testo: "Non fa meeting da cinque anni", fonte: "c16:17"}
+  - {testo: "Ogni venerdì sera, a lavoro finito, va alla Mela Morsicata per una convinzione mai detta a nessuno: «che da qualche parte ci fosse qualcuno come lei». Si siede e aspetta", fonte: "c16:35"}
+  - {testo: "Alla Mela Morsicata sta tra i silenziosi; non ordina quasi mai; risponde a tutti con gentilezza «perché poteva essere chiunque»; ascolta ogni risposta cercando «un segno che non era mai arrivato»", fonte: "c16:33-35"}
+  - {testo: "È l'unica al bancone a usare il suo vero nome: il cameriere la saluta «Ciao, Emma, a presto»", fonte: "c16:49"}
+  - {testo: "Lessico: riceve «ping» dagli astanti, «quitta alla seconda iterazione»", fonte: "c16:37"}
+  - {testo: "Applica le regole di Meridian, compresa quella sull'orario, «perché non aveva mai avuto un motivo per fare altro»; la mail delle 23:34 è la prima regola che infrange", fonte: "c16:35, c16:45"}
+  - {testo: "Non si è mai chiesta che faccia abbia il supervisore di Tom", fonte: "c16:45"}
+  - {testo: "Trova le risposte prima che l'altro finisca la frase", fonte: "c16:41"}
 non_detto:
   - {testo: "Il cap. 10 non descrive il suo aspetto, non le dà un'età né un cognome."}
   - {testo: "Non si dice dove viva né che esca dalla stanza: la giornata comincia con la luce sotto la porta e finisce con le porte che si chiudono in corridoio."}
@@ -53,6 +61,7 @@ non_detto:
   - {testo: "Cosa faccia in pausa pranzo, e se mangi, non è detto."}
   - {testo: "Fino al cap. 12 Emma non sapeva della morte della signora Voss, pur avendone il caso in archivio."}
   - {testo: "Emma non sa del messaggio in Morse: ignora che il televisore ha avvertito la signora. Tom lo sa (cap. 5). Lei teme un «angelo della morte», lui ha annotato «benevolo, non ostile»."}
+  - {testo: "Il cap. 16 non dice come Emma arrivi alla Mela Morsicata né che lasci la stanza: al bancone ha davanti la casella di Elab «aperta» e «l'orario nell'angolo dello schermo» (r. 43)."}
 stato:
   - {cap: 10, testo: "Riceve la mail di Tom, capisce il bluff, risponde alle 16:59", fonte: "c10:27"}
   - {cap: 11, testo: "Il giorno dopo: aspetta tutto il giorno una risposta di Tom che non arriva. Produce tre contenuti, riceve il fondatore, aggiorna l'archivio delle anomalie (il frigorifero)", fonte: "c11:37"}
@@ -60,6 +69,7 @@ stato:
   - {cap: 13, testo: "Stessa mattina del cap. 12: nel pannello di eTv trova lo spettatore unico del video di yoga. Teme che il televisore abbia «preparato il terreno» alla morte della signora. Per la prima volta salta il processo del mattino. Scopre che Tom ha avuto il televisore due volte e le ha scritto sapendo della morte. Decide di riscrivergli scusandosi", fonte: "c13:43-45"}
   - {cap: 14, testo: "Fuori scena: ha inviato le scuse; nel pomeriggio non risponde alla mail di Tom", fonte: "c14:43"}
   - {cap: 15, testo: "Fuori scena: ha letto la risposta di Tom e alle 08:00:01 gli chiede se la cliente intendesse «si rifiuta» alla lettera", fonte: "c15:15"}
+  - {cap: 16, testo: "Legge la risposta di Tom: tutto dell'apparecchio, niente della morte. Per una settimana lo segue sulla lista dell'assistenza. Il venerdì dopo, alla Mela Morsicata, alle 23:34 gli scrive fuori orario", fonte: "c16:43-47"}
 aperti:
   - {testo: "Emma produce contenuti perché saturino gli apparecchi (c13 r. 27, r. 29: «il video aveva funzionato»). Lo scopo ultimo non è detto; la sensazione della «casa rimasta vuota» suggerisce che cerchi compagnia."}
 relazioni:
@@ -84,3 +94,6 @@ relazioni:
   - {verso: meccanismo-della-ripetizione, tipo: "conosce e sfrutta", fonte: "c13:27"}
   - {verso: mail-di-scuse-di-emma, tipo: "decide di scrivere", fonte: "c13:45"}
   - {verso: terza-mail-di-emma, tipo: "ha scritto", fonte: "c15:15"}
+  - {verso: la-mela-morsicata, tipo: "frequenta ogni venerdì", fonte: "c16:25"}
+  - {verso: tommy, tipo: "riceve il sofisma da", fonte: "c16:39"}
+  - {verso: mail-delle-2334, tipo: "ha scritto", fonte: "c16:43"}

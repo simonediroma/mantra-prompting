@@ -1,7 +1,7 @@
 id: tv-secondo-contatto
 nome: Televisore del secondo contatto
 alias: ["il secondo televisore", "quinta voce del quaderno", "il televisore della signora Voss"]
-capitoli: [3, 4, 5, 6, 12, 13, 14, 15]
+capitoli: [3, 4, 5, 6, 12, 13, 14, 15, 16]
 sintesi: "Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi dopo. Risponde «NO SONO QUI CON TE». Tom ne apre il log e poi lo resetta lui stesso."
 caratteristiche:
   - {testo: "Modello identico a quello di tre mesi prima", fonte: "c3:17"}
@@ -30,6 +30,8 @@ caratteristiche:
   - {testo: "È arrivato in laboratorio pochi giorni dopo la telefonata della signora", fonte: "c13:31"}
   - {testo: "Guasto come scritto da Tom nella scheda: non si accende e manda segnali luminosi senza senso dal LED di accensione", fonte: "c14:31"}
   - {testo: "Ipotesi di Tom su come sapesse del cuore: stava sullo stesso account dell'eWatch della signora e ne vedeva i battiti; acceso otto ore al giorno, ha dedotto da solo dove andava a finire", fonte: "c15:27"}
+  - {testo: "Nelle parole di Tom: «la serie da salotto con l'assistente integrato»", fonte: "c16:11"}
+  - {testo: "L'unico caso in tutta l'assistenza in cui «si rifiuta» ha voluto dire proprio quello", fonte: "c16:21"}
 stato:
   - {cap: 3, testo: "Resettato da Tom (hard reset). Registrato la sera come quinta voce del quaderno", fonte: "c3:35-37"}
   - {cap: 4, testo: "Il mattino dopo il reset, per Tom è «appena uscito dall'assistenza tecnica» e «dovrebbe essere pronto per il ritiro». La signora non l'ha ancora riavuto", fonte: "c4:21-23"}

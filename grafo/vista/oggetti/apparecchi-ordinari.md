@@ -1,6 +1,6 @@
 # Gli apparecchi ordinari del cap. 14
 
-`apparecchi-ordinari` · oggetto · capitoli: 14
+`apparecchi-ordinari` · oggetto · capitoli: 14, 16
 
 I guasti veri che passano sul banco di Tom nel giorno delle scuse: a ognuno fa la sua domanda, ognuno risponde con un guasto.
 
@@ -11,6 +11,7 @@ I guasti veri che passano sul banco di Tom nel giorno delle scuse: a ognuno fa l
 - Un frullatore, una lavastoviglie, un altoparlante da cucina che parla solo in portoghese *(cap. 14 r. 31)*
 - Tostapane con la leva bloccata e una fetta carbonizzata: elettromagnete da sostituire; verifica d'integrità del firmware in ventisette secondi *(cap. 14 r. 41-43)*
 - Macchina del caffè con errore E04 (flussometro intasato dal calcare); ferro da stiro che si spegne a metà camicia (sensore d'inclinazione) *(cap. 14 r. 43)*
+- Emma li rilegge sulla lista: l'altoparlante parlava portoghese «in una casa dove nessuno sapeva effettivamente dove si trovasse il Portogallo» *(cap. 16 r. 19)*
 
 ## Punti aperti / da verificare
 
@@ -25,4 +26,5 @@ I guasti veri che passano sul banco di Tom nel giorno delle scuse: a ognuno fa l
 1. `e14-01` (cap. 14, stesso giorno dei cap. 12-13, turno del mattino, dopo le dieci e mezza) — [Le scuse di Emma arrivano sull'eWatch a metà intervento](../eventi/e14-01.md)
 1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
 1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
+1. `e16-03` (cap. 16, da sabato a giovedì) — [Una settimana di silenzio - Emma segue Tom sulla lista](../eventi/e16-03.md)
 

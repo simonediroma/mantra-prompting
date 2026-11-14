@@ -1,6 +1,6 @@
 id: pete
 nome: Pete
-capitoli: [2, 4, 5, 14, 15]
+capitoli: [2, 4, 5, 14, 15, 16]
 sintesi: "Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come firma in fondo alla comunicazione formale."
 caratteristiche:
   - {testo: "Firma: «Pete, Supervisore, Divisione Assistenza Tecnica»", fonte: "c2:23"}
@@ -13,6 +13,7 @@ caratteristiche:
   - {testo: "Prima apparizione in scena, senza parole. Completo nero, camicia bianca, «una schiena larga quanto un armadio a due ante e più o meno della stessa forma»", fonte: "c15:23"}
   - {testo: "Passo pesante, un po' strascicato sul tallone", fonte: "c15:23"}
   - {testo: "Davanti alla porta accostata di Tom rallenta, gira la testa di qualche grado verso l'interno, non si ferma, non dice nulla; prosegue verso le scale", fonte: "c15:23"}
+  - {testo: "È il supervisore a cui arriva l'avviso per la mail fuori orario ricevuta da Tom", fonte: "c16:45"}
 non_detto:
   - {testo: "Nei cap. 1-3 Pete non compare mai in scena e non parla."}
 stato:

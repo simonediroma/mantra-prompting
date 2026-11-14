@@ -64,7 +64,7 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 1. `e14-04` (cap. 14, pausa pranzo) — [In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti](../eventi/e14-04.md)
 1. `e14-05` (cap. 14, fine della pausa pranzo) — [Tom invia quando il nastro riparte](../eventi/e14-05.md)
 1. `e14-06` (cap. 14, pomeriggio e sera dello stesso giorno) — [Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto](../eventi/e14-06.md)
-1. `e15-01` (cap. 15, il mattino dopo, alle otto meno un quarto) — [Tom lascia la porta accostata](../eventi/e15-01.md)
+1. `e15-01` (cap. 15, il mattino dopo (sabato), alle otto meno un quarto) — [Tom lascia la porta accostata](../eventi/e15-01.md)
 1. `e15-02` (cap. 15, alle 08:00:01) — [Le 08:00:01 - «intendeva proprio quello?»](../eventi/e15-02.md)
 1. `e15-03` (cap. 15, subito dopo) — [Pete passa davanti alla porta e rallenta](../eventi/e15-03.md)
 1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)

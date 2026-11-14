@@ -1,6 +1,6 @@
 id: mail-di-scuse-di-emma
 nome: La seconda mail di Emma (le scuse)
-capitoli: [13, 14]
+capitoli: [13, 14, 16]
 sintesi: "La mail che Emma decide di scrivere a Tom alle dieci e mezza: scuse per il tono e domande di cui conosce già le risposte."
 caratteristiche:
   - {testo: "Aprirà scusandosi per il tono: non è pentita, le scuse sono «l'appiglio più semplice»", fonte: "c13:45"}
@@ -10,6 +10,7 @@ caratteristiche:
   - {testo: "Testo: «Ciao Tom, ti scrivo per scusarmi. La mia risposta dell'altro giorno era più brusca del necessario. A questo indirizzo non scrive nessuno da anni e mi hai colta alla sprovvista. Ho riletto la tua mail con più calma e credo di aver frainteso il motivo per cui mi hai scritto. Se posso aiutarti, lo faccio volentieri, e qualsiasi cosa potrò dirti te la dirò. Però ho bisogno di qualche indizio in più per capire di cosa stiamo parlando. Di che apparecchio si trattava? Che guasto aveva? E sai se poi è tornato al cliente? Grazie, e scusami ancora. Emma»", fonte: "c14:17"}
   - {testo: "Arriva a Tom come notifica sull'eWatch a metà di un intervento", fonte: "c14:13"}
   - {testo: "Per Tom è «una mano tesa»: una porta da cui rientrare senza confessare niente", fonte: "c14:25"}
+  - {testo: "Emma teme che Tom scopra che le tre domande erano fatte «sapendo già le risposte»", fonte: "c16:15"}
 non_detto:
 stato:
   - {cap: 14, testo: "Inviata e letta; Tom risponde lo stesso giorno", fonte: "c14:39"}

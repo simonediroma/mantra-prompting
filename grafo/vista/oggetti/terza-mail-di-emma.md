@@ -1,6 +1,6 @@
 # La mail delle 08:00:01
 
-`terza-mail-di-emma` · oggetto · capitoli: 15
+`terza-mail-di-emma` · oggetto · capitoli: 15, 16
 
 La terza mail di Emma: ringrazia Tom e gli chiede se la cliente intendesse «si rifiuta» alla lettera.
 
@@ -10,15 +10,12 @@ La terza mail di Emma: ringrazia Tom e gli chiede se la cliente intendesse «si 
 - Arriva alle 08:00:01, al primo secondo utile del turno *(cap. 15 r. 11)*
 - Mette in fila le stesse due possibilità che la signora aveva distinto al telefono: il modo di dire o il fatto. Il fatto «lo conoscevano in due, lui e una donna morta» *(cap. 15 r. 19)*
 - Per Tom: o ci è arrivata da una riga di scheda, o «ci stava già prima». Il laboratorio sa qualcosa *(cap. 15 r. 19)*
-
-## Punti aperti / da verificare
-
-- Emma scrive «la tua cliente», al femminile; nelle scuse aveva scritto «al cliente» (c14 r. 17). Il femminile può venire dalla risposta di Tom, il cui testo non è riportato.
-- La mail non dice nulla sulla morte: da qui non si capisce ancora se Tom gliel'abbia scritta.
+- Nasce il pomeriggio prima: Emma non può chiedere della morte (Tom capirebbe che ha cercato la pratica e che le scuse erano un test), quindi chiede del verbo «si rifiuta» *(cap. 16 r. 15)*
 
 ## Stato capitolo per capitolo
 
 - **Cap. 15** — Senza risposta: Tom scrive «Ciao Emma,» e cancella *(cap. 15 r. 31)*
+- **Cap. 16** — Senza risposta per sei giorni *(cap. 16 r. 23)*
 
 ## Relazioni
 
@@ -29,6 +26,7 @@ La terza mail di Emma: ringrazia Tom e gli chiede se la cliente intendesse «si 
 
 ## Catena degli eventi
 
+1. `e16-02` (cap. 16, venerdì pomeriggio e sera) — [Emma sceglie la domanda sul verbo «si rifiuta»](../eventi/e16-02.md)
 1. `e15-02` (cap. 15, alle 08:00:01) — [Le 08:00:01 - «intendeva proprio quello?»](../eventi/e15-02.md)
 1. `e15-06` (cap. 15, nei secondi prima del pezzo successivo) — [«Ciao Emma,» - Tom cancella e non risponde](../eventi/e15-06.md)
 

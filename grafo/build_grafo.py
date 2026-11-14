@@ -31,6 +31,7 @@ def carica():
                 errori.append(f"{f}: id '{d.get('id')}' diverso dal nome file")
             if d["id"] in nodi:
                 errori.append(f"id duplicato: {d['id']}")
+            d = {k: v for k, v in d.items() if v is not None}  # chiavi rimaste vuote
             d["tipo"] = tipo
             nodi[d["id"]] = d
     return nodi

@@ -24,7 +24,7 @@ Per la prima volta in dodici anni Tom non chiude a doppia mandata: lascia un pal
 
 ## Catena degli eventi
 
-1. `e15-01` (cap. 15, il mattino dopo, alle otto meno un quarto) — [Tom lascia la porta accostata](../eventi/e15-01.md)
+1. `e15-01` (cap. 15, il mattino dopo (sabato), alle otto meno un quarto) — [Tom lascia la porta accostata](../eventi/e15-01.md)
 1. `e15-03` (cap. 15, subito dopo) — [Pete passa davanti alla porta e rallenta](../eventi/e15-03.md)
 1. `e15-06` (cap. 15, nei secondi prima del pezzo successivo) — [«Ciao Emma,» - Tom cancella e non risponde](../eventi/e15-06.md)
 

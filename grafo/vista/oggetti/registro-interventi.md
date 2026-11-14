@@ -1,6 +1,6 @@
 # Registro interventi
 
-`registro-interventi` · oggetto · capitoli: 2, 6, 13, 14
+`registro-interventi` · oggetto · capitoli: 2, 6, 13, 14, 16
 
 Il registro in cui Tom, per abitudine, cerca l'unità del giorno prima e ne scopre la riassegnazione.
 
@@ -14,6 +14,7 @@ Il registro in cui Tom, per abitudine, cerca l'unità del giorno prima e ne scop
 - Voce 2, pochi giorni dopo: «causale: decesso cliente, verificata su documentazione fornita. Pagamento reindirizzato a erede designato.» *(cap. 6 r. 21)*
 - Lo consulta anche Emma: vi legge rifiuto del ritiro, rimborso, decesso, erede *(cap. 13 r. 43)*
 - «Un registro che chiunque poteva aprire» *(cap. 14 r. 31)*
+- La morte della cliente sta qui e non sulla lista dell'assistenza; chiunque potrebbe leggerla *(cap. 16 r. 13, cap. 16 r. 23)*
 
 ## Relazioni
 
@@ -27,4 +28,6 @@ Il registro in cui Tom, per abitudine, cerca l'unità del giorno prima e ne scop
 1. `e06-02` (cap. 6, stesso turno) — [Tom legge nel registro il rifiuto e il decesso](../eventi/e06-02.md)
 1. `e13-05` (cap. 13, la stessa mattina) — [Emma scopre le due volte di Tom](../eventi/e13-05.md)
 1. `e14-03` (cap. 14, il resto della mattina) — [Tom mette in fila cosa dire e cosa tacere](../eventi/e14-03.md)
+1. `e16-01` (cap. 16, venerdì, poco dopo l'una e mezza (stesso giorno dei cap. 12-14)) — [Emma legge la risposta di Tom - tutto dell'apparecchio, niente della morte](../eventi/e16-01.md)
+1. `e16-04` (cap. 16, giovedì; venerdì alle cinque la casella è vuota da sei giorni) — [Emma decide di parlargli lei della morte, lunedì alle otto](../eventi/e16-04.md)
 

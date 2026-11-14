@@ -32,5 +32,5 @@ Tom arriva sempre in azienda un quarto d'ora prima del turno. Nel cap. 4 li spen
 1. `e05-01` (cap. 5, mercoledì, inizio turno di mattina) — [Tom arriva con due minuti di ritardo](../eventi/e05-01.md)
 1. `e05-05` (cap. 5, giovedì mattina, nel quarto d'ora di anticipo) — [La signora Voss non risponde](../eventi/e05-05.md)
 1. `e09-01` (cap. 9, il mattino dopo, un'ora prima della sveglia solita, ancora buio) — [Hive dà il video per reale](../eventi/e09-01.md)
-1. `e15-01` (cap. 15, il mattino dopo, alle otto meno un quarto) — [Tom lascia la porta accostata](../eventi/e15-01.md)
+1. `e15-01` (cap. 15, il mattino dopo (sabato), alle otto meno un quarto) — [Tom lascia la porta accostata](../eventi/e15-01.md)
 
