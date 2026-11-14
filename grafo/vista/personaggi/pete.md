@@ -1,6 +1,6 @@
 # Pete
 
-`pete` · personaggio · capitoli: 2
+`pete` · personaggio · capitoli: 2, 4
 
 Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come firma in fondo alla comunicazione formale.
 
@@ -10,6 +10,7 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 - Si manifesta quasi solo per iscritto *(cap. 2 r. 25)*
 - Ha «piccoli giochi sadici da supervisore» *(cap. 2 r. 25)*
 - Paragonato a un piccione: non avverte prima e non si volta a controllare il danno *(cap. 2 r. 25)*
+- Non nominato nel cap. 4, ma è «il supervisore» a cui un ritardo di pochi minuti darebbe «un nuovo pretesto» *(cap. 4 r. 57)*
 
 ## Cosa NON dice il testo
 
@@ -26,4 +27,5 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 ## Catena degli eventi
 
 1. `e02-01` (cap. 2, il giorno dopo il primo contatto, inizio turno) — [Tom riceve la comunicazione formale di scostamento](../eventi/e02-01.md)
+1. `e04-05` (cap. 4, fine della telefonata, anticipo esaurito) — [Tom chiude, si giudica un principiante e corre all'autobus](../eventi/e04-05.md)
 

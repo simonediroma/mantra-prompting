@@ -1,0 +1,10 @@
+id: anticipo-di-quindici-minuti
+nome: I quindici minuti di anticipo
+capitoli: [4]
+sintesi: "Tom arriva sempre in azienda un quarto d'ora prima del turno. Nel cap. 4 li spende, per una volta, per la telefonata."
+caratteristiche:
+  - {testo: "Servono a sistemarsi alla postazione con calma", fonte: "c4:11"}
+  - {testo: "Bruciati dalla telefonata fino all'ultimo secondo", fonte: "c4:57"}
+non_detto:
+  - {testo: "Il cap. 4 non dice se Tom arrivi poi in ritardo."}
+

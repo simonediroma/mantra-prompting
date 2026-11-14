@@ -1,7 +1,7 @@
 id: tv-secondo-contatto
 nome: Televisore del secondo contatto
-alias: ["il secondo televisore", "quinta voce del quaderno"]
-capitoli: [3]
+alias: ["il secondo televisore", "quinta voce del quaderno", "il televisore della signora Voss"]
+capitoli: [3, 4]
 sintesi: "Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi dopo. Risponde «NO SONO QUI CON TE». Tom ne apre il log e poi lo resetta lui stesso."
 caratteristiche:
   - {testo: "Modello identico a quello di tre mesi prima", fonte: "c3:17"}
@@ -12,11 +12,18 @@ caratteristiche:
   - {testo: "Alla domanda «Ti senti solo?» risponde NO SONO QUI CON TE, due volte, identico", fonte: "c3:25, c3:29"}
   - {testo: "Tom ipotizza un microfono che gli ha colto la voce, ma la precisione della risposta gli resta addosso", fonte: "c3:33"}
   - {testo: "Spento e riportato ai valori di fabbrica con un hard reset, da Tom, secondo procedura", fonte: "c3:35"}
+  - {testo: "Proprietaria: la signora Voss", fonte: "c4:19"}
+  - {testo: "Antefatto: un giorno non si accende più. Il negozio dice che è tutto a posto; poi finisce in assistenza («Adesso ce l'avete voi»)", fonte: "c4:31"}
+  - {testo: "Davanti a questo televisore la signora ripeteva il video di yoga anche dieci volte al giorno", fonte: "c4:31"}
+  - {testo: "Ripreso in un video dalla proprietaria: lampeggia in un modo strano mentre lei gli dice di accendersi", fonte: "c4:41"}
 stato:
   - {cap: 3, testo: "Resettato da Tom (hard reset). Registrato la sera come quinta voce del quaderno", fonte: "c3:35-37"}
+  - {cap: 4, testo: "Il mattino dopo il reset, per Tom è «appena uscito dall'assistenza tecnica» e «dovrebbe essere pronto per il ritiro». La signora non l'ha ancora riavuto", fonte: "c4:21-23"}
 non_detto:
-  - {testo: "Il cap. 3 non dice il nome del proprietario."}
   - {testo: "Dopo il reset software e il riavvio della procedura (c3 r. 19) l'apparecchio risponde ancora: solo l'hard reset finale (c3 r. 35) lo riporta ai valori di fabbrica."}
+aperti:
+  - {testo: "Tom parla del reset come di «un evento di poche ore prima» (c4 r. 23), ma è avvenuto a fine turno di mattina del giorno prima (c3 r. 17, c4 r. 55): sono quasi ventiquattr'ore."}
+  - {testo: "La signora aspetta la restituzione «da giorni» (c4 r. 21), ma il televisore è arrivato sul banco di Tom solo il giorno prima: i giorni sono quelli tra negozio e laboratorio, mai quantificati."}
 relazioni:
   - {verso: log-tv-secondo-contatto, tipo: "ha come log", fonte: "c3:19"}
   - {verso: led-di-accensione, tipo: "comunica tramite", fonte: "c3:23"}
@@ -24,3 +31,5 @@ relazioni:
   - {verso: scheda-cliente-secondo-tv, tipo: "accompagnato da", fonte: "c3:17"}
   - {verso: meridian, tipo: "prodotto da"}
 
+  - {verso: video-della-voss, tipo: "ripreso in", fonte: "c4:41"}
+  - {verso: video-yoga, tipo: "ha riprodotto ripetutamente", fonte: "c4:31"}

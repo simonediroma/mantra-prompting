@@ -1,0 +1,28 @@
+id: signora-voss
+nome: Signora Voss
+alias: ["la signora del televisore", "cliente del secondo televisore"]
+capitoli: [3, 4]
+sintesi: "Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo stesso video anche dieci volte al giorno; ha filmato il televisore che «si rifiuta» di accendersi."
+caratteristiche:
+  - {testo: "Ha dettato all'addetto del negozio: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
+  - {testo: "I suoi dati finiscono nella quinta voce del quaderno", fonte: "c3:37"}
+  - {testo: "Cognome: Voss. Tom la chiama «signora Voss»", fonte: "c4:19"}
+  - {testo: "Risponde da una stanza con una radio accesa, che abbassa subito", fonte: "c4:17"}
+  - {testo: "Insoddisfatta: aspetta da giorni la restituzione del televisore, «silenzio totale»", fonte: "c4:21"}
+  - {testo: "Faceva yoga la mattina, prima di andare a fare la spesa, con un video trovato da lei; lo rifaceva «anche dieci volte al giorno» per tenersi «giovane e bella, alla mia età»", fonte: "c4:31"}
+  - {testo: "Ride breve e imbarazzata, previene il giudizio; sdrammatizza ciò che l'ha colpita", fonte: "c4:31, c4:35"}
+  - {testo: "Per lei il televisore «non voleva» accendersi: «uno che si rifiuta», «come se ce l'avesse con me»", fonte: "c4:35"}
+  - {testo: "Ha girato col telefono un video del televisore, apposta per l'assistenza; lo riguarda ogni tanto; lo ha già raccontato ad altri", fonte: "c4:41"}
+  - {testo: "Usa WhatsApp; ha il numero personale di Tom (quello da cui lui ha chiamato)", fonte: "c4:47"}
+  - {testo: "Più presa dalla voglia di raccontare che attenta alla coerenza: non nota la gaffe di Tom, o non lo dà a vedere", fonte: "c4:25, c4:53"}
+non_detto:
+  - {testo: "Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta."}
+  - {testo: "Non sa il Morse, o comunque non riconosce i lampeggi come un messaggio: parla solo di «modo strano»."}
+relazioni:
+  - {verso: tv-secondo-contatto, tipo: "proprietario di", fonte: "c3:17"}
+  - {verso: addetto-negozio, tipo: "detta la segnalazione a", fonte: "c3:17"}
+
+  - {verso: video-yoga, tipo: "guarda ripetutamente", fonte: "c4:31"}
+  - {verso: video-della-voss, tipo: "ha girato", fonte: "c4:41"}
+  - {verso: negozio, tipo: "ha portato il televisore al", fonte: "c4:31"}
+  - {verso: tom, tipo: "crede sia del controllo qualità", fonte: "c4:19"}

@@ -1,6 +1,6 @@
 id: tom
 nome: Tom
-capitoli: [1, 2, 3]
+capitoli: [1, 2, 3, 4]
 sintesi: "Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3."
 caratteristiche:
   - {testo: "53 anni", fonte: "c1:11"}
@@ -21,10 +21,16 @@ caratteristiche:
   - {testo: "Va al lavoro in autobus; col turno di mattina esce di casa col buio", fonte: "c3:9"}
   - {testo: "Lavora in piedi, appoggiato al banco con due mani", fonte: "c3:21"}
   - {testo: "In dodici anni non aveva mai chiesto a un elettrodomestico come si sentisse", fonte: "c3:21"}
+  - {testo: "Si presenta al telefono col suo vero nome: «sono Tom»", fonte: "c4:19"}
+  - {testo: "Esce sempre abbastanza presto da arrivare con un quarto d'ora di margine prima del turno", fonte: "c4:11"}
+  - {testo: "Non è solito mentire agli esseri umani, solo agli elettrodomestici; recita male e se ne stizzisce", fonte: "c4:9, c4:13"}
+  - {testo: "Usa il silenzio come strumento: quasi nessuno lo tollera più di tre secondi", fonte: "c4:29"}
+  - {testo: "In dodici anni non aveva mai corso per un autobus; la fermata è a due isolati da casa", fonte: "c4:57"}
 stato:
   - {cap: 1, testo: "Scopre che un televisore risponde in Morse; perde tempo oltre il limite; prende tempo etichettando l'unità come anomalia", fonte: "c1:97"}
   - {cap: 2, testo: "Richiamo formale e trattenuta di 47 minuti; perde il televisore; decide di tenere lui il cronometro e un archivio privato", fonte: "c2:45"}
   - {cap: 3, testo: "Da tre mesi è il tecnico più efficiente del reparto (margine medio 47 secondi); turno di mattina da qualche settimana; al secondo contatto conclude «ce n'è più di uno»", fonte: "c3:9, c3:37"}
+  - {cap: 4, testo: "Chiama la signora Voss dal proprio cellulare fingendosi il controllo qualità; scopre che esiste un video; brucia tutti i quindici minuti di anticipo e corre all'autobus", fonte: "c4:57"}
 relazioni:
   - {verso: meridian, tipo: "lavora per", fonte: "c1:17"}
   - {verso: divisione-assistenza-tecnica, tipo: "tecnico della", fonte: "c2:23"}
@@ -40,3 +46,7 @@ relazioni:
   - {verso: codice-morse, tipo: "conosce", fonte: "c1:33"}
   - {verso: margine-47-secondi, tipo: "si impone", fonte: "c3:9"}
 
+  - {verso: signora-voss, tipo: "telefona a", nota: "sotto copertura", fonte: "c4:19"}
+  - {verso: cellulare-di-tom, tipo: "usa", fonte: "c4:13"}
+  - {verso: copertura-controllo-qualita, tipo: "inventa", fonte: "c4:9"}
+  - {verso: anticipo-di-quindici-minuti, tipo: "abitudine", fonte: "c4:11"}

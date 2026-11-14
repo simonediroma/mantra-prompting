@@ -1,0 +1,9 @@
+id: ragazza-del-video-yoga
+nome: La ragazza del video di yoga
+capitoli: [4]
+sintesi: "L'istruttrice del video che la signora Voss ripeteva. Nel cap. 4 esiste solo nelle parole della signora."
+caratteristiche:
+  - {testo: "«Una ragazza che sembrava avere vent'anni ed era così brava a spiegare gli esercizi»", fonte: "c4:31"}
+relazioni:
+  - {verso: video-yoga, tipo: "compare in", fonte: "c4:31"}
+

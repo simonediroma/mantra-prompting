@@ -1,0 +1,14 @@
+id: e04-03
+nome: La signora racconta - «proprio non voleva»
+capitolo: 4
+ordine: 4.3
+quando: "durante la telefonata"
+dove: casa-di-tom
+dopo: [e04-02, e00-02]
+coinvolti: [tom, signora-voss, rito-delle-domande, video-yoga, tv-secondo-contatto]
+sintesi: "Tom lascia lavorare il silenzio e chiede solo «In che senso, scusi?». La signora racconta lo yoga e dice che il televisore si comportava come uno che si rifiuta."
+fatti:
+  - {testo: "Il silenzio", fonte: "c4:29"}
+  - {testo: "Il racconto dello yoga", fonte: "c4:31"}
+  - {testo: "«Non voleva»", fonte: "c4:35"}
+

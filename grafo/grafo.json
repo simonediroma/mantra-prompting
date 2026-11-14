@@ -5,7 +5,8 @@
    "tipo": "personaggio",
    "nome": "Addetto del negozio",
    "capitoli": [
-    3
+    3,
+    4
    ]
   },
   {
@@ -25,14 +26,6 @@
    ]
   },
   {
-   "id": "cliente-secondo-tv",
-   "tipo": "personaggio",
-   "nome": "Cliente del secondo televisore",
-   "capitoli": [
-    3
-   ]
-  },
-  {
    "id": "fornitore-del-quaderno",
    "tipo": "personaggio",
    "nome": "Fornitore di componenti (quello del quaderno)",
@@ -45,7 +38,25 @@
    "tipo": "personaggio",
    "nome": "Pete",
    "capitoli": [
-    2
+    2,
+    4
+   ]
+  },
+  {
+   "id": "ragazza-del-video-yoga",
+   "tipo": "personaggio",
+   "nome": "La ragazza del video di yoga",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "signora-voss",
+   "tipo": "personaggio",
+   "nome": "Signora Voss",
+   "capitoli": [
+    3,
+    4
    ]
   },
   {
@@ -63,7 +74,8 @@
    "capitoli": [
     1,
     2,
-    3
+    3,
+    4
    ]
   },
   {
@@ -91,7 +103,8 @@
    "capitoli": [
     1,
     2,
-    3
+    3,
+    4
    ]
   },
   {
@@ -108,6 +121,14 @@
    "nome": "Cassetto della scrivania (laboratorio)",
    "capitoli": [
     2
+   ]
+  },
+  {
+   "id": "cellulare-di-tom",
+   "tipo": "oggetto",
+   "nome": "Cellulare di Tom",
+   "capitoli": [
+    4
    ]
   },
   {
@@ -192,7 +213,8 @@
    "nome": "Quaderno nero",
    "capitoli": [
     2,
-    3
+    3,
+    4
    ]
   },
   {
@@ -208,7 +230,8 @@
    "tipo": "oggetto",
    "nome": "Scheda cliente del secondo televisore",
    "capitoli": [
-    3
+    3,
+    4
    ]
   },
   {
@@ -234,7 +257,32 @@
    "tipo": "oggetto",
    "nome": "Televisore del secondo contatto",
    "capitoli": [
-    3
+    3,
+    4
+   ]
+  },
+  {
+   "id": "video-della-voss",
+   "tipo": "oggetto",
+   "nome": "Il video girato dalla signora Voss",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "video-yoga",
+   "tipo": "oggetto",
+   "nome": "Il video di yoga della signora Voss",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "casa-della-voss",
+   "tipo": "luogo",
+   "nome": "Casa della signora Voss",
+   "capitoli": [
+    4
    ]
   },
   {
@@ -243,7 +291,8 @@
    "nome": "Casa di Tom",
    "capitoli": [
     1,
-    3
+    3,
+    4
    ]
   },
   {
@@ -261,7 +310,8 @@
    "tipo": "luogo",
    "nome": "Negozio (punto di consegna)",
    "capitoli": [
-    3
+    3,
+    4
    ]
   },
   {
@@ -272,6 +322,14 @@
     1,
     2,
     3
+   ]
+  },
+  {
+   "id": "anticipo-di-quindici-minuti",
+   "tipo": "concetto",
+   "nome": "I quindici minuti di anticipo",
+   "capitoli": [
+    4
    ]
   },
   {
@@ -290,6 +348,14 @@
    "capitoli": [
     1,
     3
+   ]
+  },
+  {
+   "id": "copertura-controllo-qualita",
+   "tipo": "concetto",
+   "nome": "La copertura del «controllo qualità»",
+   "capitoli": [
+    4
    ]
   },
   {
@@ -318,7 +384,8 @@
    "capitoli": [
     1,
     2,
-    3
+    3,
+    4
    ]
   },
   {
@@ -417,6 +484,14 @@
    "nome": "Il log del caso zero si interrompe; il cliente consegna il televisore",
    "capitoli": [
     1
+   ]
+  },
+  {
+   "id": "e00-02",
+   "tipo": "evento",
+   "nome": "Antefatto Voss - lo yoga, il televisore che si rifiuta, il video, il negozio",
+   "capitoli": [
+    4
    ]
   },
   {
@@ -538,6 +613,46 @@
    "capitoli": [
     3
    ]
+  },
+  {
+   "id": "e04-01",
+   "tipo": "evento",
+   "nome": "Tom prova la scusa per la telefonata e rinuncia",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "e04-02",
+   "tipo": "evento",
+   "nome": "Tom chiama la signora Voss fingendosi il controllo qualità",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "e04-03",
+   "tipo": "evento",
+   "nome": "La signora racconta - «proprio non voleva»",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "e04-04",
+   "tipo": "evento",
+   "nome": "«Ho un video, sa?» - la signora lo manderà su WhatsApp",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "e04-05",
+   "tipo": "evento",
+   "nome": "Tom chiude, si giudica un principiante e corre all'autobus",
+   "capitoli": [
+    4
+   ]
   }
  ],
  "archi": [
@@ -563,20 +678,6 @@
    "fonte": "c1:93"
   },
   {
-   "da": "cliente-secondo-tv",
-   "a": "tv-secondo-contatto",
-   "tipo": "proprietario di",
-   "nota": "",
-   "fonte": "c3:17"
-  },
-  {
-   "da": "cliente-secondo-tv",
-   "a": "addetto-negozio",
-   "tipo": "detta la segnalazione a",
-   "nota": "",
-   "fonte": "c3:17"
-  },
-  {
    "da": "fornitore-del-quaderno",
    "a": "quaderno-nero",
    "tipo": "ha regalato",
@@ -596,6 +697,55 @@
    "tipo": "firma",
    "nota": "",
    "fonte": "c2:23"
+  },
+  {
+   "da": "ragazza-del-video-yoga",
+   "a": "video-yoga",
+   "tipo": "compare in",
+   "nota": "",
+   "fonte": "c4:31"
+  },
+  {
+   "da": "signora-voss",
+   "a": "tv-secondo-contatto",
+   "tipo": "proprietario di",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "signora-voss",
+   "a": "addetto-negozio",
+   "tipo": "detta la segnalazione a",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "signora-voss",
+   "a": "video-yoga",
+   "tipo": "guarda ripetutamente",
+   "nota": "",
+   "fonte": "c4:31"
+  },
+  {
+   "da": "signora-voss",
+   "a": "video-della-voss",
+   "tipo": "ha girato",
+   "nota": "",
+   "fonte": "c4:41"
+  },
+  {
+   "da": "signora-voss",
+   "a": "negozio",
+   "tipo": "ha portato il televisore al",
+   "nota": "",
+   "fonte": "c4:31"
+  },
+  {
+   "da": "signora-voss",
+   "a": "tom",
+   "tipo": "crede sia del controllo qualità",
+   "nota": "",
+   "fonte": "c4:19"
   },
   {
    "da": "tecnico-turno-b",
@@ -701,6 +851,34 @@
    "tipo": "si impone",
    "nota": "",
    "fonte": "c3:9"
+  },
+  {
+   "da": "tom",
+   "a": "signora-voss",
+   "tipo": "telefona a",
+   "nota": "sotto copertura",
+   "fonte": "c4:19"
+  },
+  {
+   "da": "tom",
+   "a": "cellulare-di-tom",
+   "tipo": "usa",
+   "nota": "",
+   "fonte": "c4:13"
+  },
+  {
+   "da": "tom",
+   "a": "copertura-controllo-qualita",
+   "tipo": "inventa",
+   "nota": "",
+   "fonte": "c4:9"
+  },
+  {
+   "da": "tom",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "abitudine",
+   "nota": "",
+   "fonte": "c4:11"
   },
   {
    "da": "coordinamento-assistenza",
@@ -948,6 +1126,34 @@
    "fonte": ""
   },
   {
+   "da": "tv-secondo-contatto",
+   "a": "video-della-voss",
+   "tipo": "ripreso in",
+   "nota": "",
+   "fonte": "c4:41"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "video-yoga",
+   "tipo": "ha riprodotto ripetutamente",
+   "nota": "",
+   "fonte": "c4:31"
+  },
+  {
+   "da": "video-della-voss",
+   "a": "cellulare-di-tom",
+   "tipo": "destinato a",
+   "nota": "",
+   "fonte": "c4:47"
+  },
+  {
+   "da": "casa-della-voss",
+   "a": "signora-voss",
+   "tipo": "abitazione di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
    "da": "casa-di-tom",
    "a": "quaderno-nero",
    "tipo": "custodisce",
@@ -988,6 +1194,13 @@
    "tipo": "sede di",
    "nota": "",
    "fonte": ""
+  },
+  {
+   "da": "copertura-controllo-qualita",
+   "a": "rito-delle-domande",
+   "tipo": "applica alle persone il",
+   "nota": "",
+   "fonte": "c4:13"
   },
   {
    "da": "margine-47-secondi",
@@ -1098,6 +1311,69 @@
    "da": "e00-01",
    "a": "compacting-context",
    "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "ragazza-del-video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "negozio",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "addetto-negozio",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "scheda-cliente-secondo-tv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "casa-della-voss",
+   "tipo": "avviene in",
    "nota": "",
    "fonte": ""
   },
@@ -1642,7 +1918,7 @@
   },
   {
    "da": "e03-02",
-   "a": "cliente-secondo-tv",
+   "a": "signora-voss",
    "tipo": "coinvolge",
    "nota": "",
    "fonte": ""
@@ -1853,6 +2129,251 @@
   {
    "da": "e03-05",
    "a": "e03-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-01",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-01",
+   "a": "copertura-controllo-qualita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-01",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-06",
+   "a": "e04-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "copertura-controllo-qualita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "casa-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-01",
+   "a": "e04-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "rito-delle-domande",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "e04-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "e04-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "e04-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "copertura-controllo-qualita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "e04-05",
    "tipo": "porta a",
    "nota": "",
    "fonte": ""

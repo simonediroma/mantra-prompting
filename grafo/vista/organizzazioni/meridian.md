@@ -1,6 +1,6 @@
 # Meridian
 
-`meridian` · organizzazione · capitoli: 1, 2, 3
+`meridian` · organizzazione · capitoli: 1, 2, 3, 4
 
 L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l'intera filiera dal silicio al robot da cucina.
 
@@ -16,6 +16,7 @@ L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l
 - Sa misurare i minuti ma non si accorge di un lavoro rimasto a metà: il modulo ha la casella «tempo eccedente», non «intervento mai terminato» *(cap. 2 r. 29)*
 - Controlli casuali al varco *(cap. 3 r. 13)*
 - I turni ruotano (mattino, pomeriggio, notte) secondo una tabella che nessuno ha mai capito *(cap. 3 r. 9)*
+- Esiste (o è credibile che esista) un «controllo qualità» che intervista i clienti sull'assistenza *(cap. 4 r. 19)*
 
 ## Relazioni
 

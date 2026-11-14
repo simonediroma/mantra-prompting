@@ -1,0 +1,13 @@
+id: e04-01
+nome: Tom prova la scusa per la telefonata e rinuncia
+capitolo: 4
+ordine: 4.1
+quando: "la sera del martedì, dopo aver trascritto la quinta voce"
+in_scena: false
+dove: casa-di-tom
+dopo: [e03-06]
+coinvolti: [tom, quaderno-nero, copertura-controllo-qualita]
+sintesi: "Alla scrivania, col quaderno aperto, Tom prova frasi a voce alta. Stizzito dalla propria recitazione, va a letto."
+fatti:
+  - {testo: "Il numero trascritto la sera prima; la scusa inventata poco dopo", fonte: "c4:9"}
+

@@ -1,6 +1,6 @@
 # Quaderno nero
 
-`quaderno-nero` · oggetto · capitoli: 2, 3
+`quaderno-nero` · oggetto · capitoli: 2, 3, 4
 
 Alias: l'archivio di Tom
 
@@ -17,10 +17,14 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 - Voce 1: il caso zero, con nota a margine riscritta tre volte: «irripetibile? verificare.» *(cap. 3 r. 15)*
 - Voci 2-4: tre guasti veri e banali (alimentatori bruciati, un cortocircuito, un firmware corrotto in aggiornamento) *(cap. 3 r. 15)*
 - Voce 5: il secondo televisore, con la riga «ce n'è più di uno.» *(cap. 3 r. 37)*
+- La quinta voce contiene numero di telefono, nome e indirizzo della signora Voss *(cap. 4 r. 9)*
+- Sotto la quinta voce Tom annota: «video in arrivo su WhatsApp.» *(cap. 4 r. 49)*
 
 ## Punti aperti / da verificare
 
 - Conteggio: «solo quattro volte in tutto» in tre mesi (c3 r. 15) comprende il caso zero + tre guasti banali; il secondo televisore è la quinta voce (c3 r. 37). Torna, ma il «quattro in tre mesi» include il caso zero, che sta all'inizio dei tre mesi.
+- A fine cap. 3 Tom chiude il quaderno e spegne la lampada (c3 r. 39); il cap. 4 dice che «poco dopo» era alla scrivania col quaderno aperto a provare la scusa (c4 r. 9). Le due sere vanno lette come una sola sequenza: prima la scusa, poi la chiusura? Il testo le mette in ordine inverso.
+- L'annotazione del cap. 4 (r. 49) è fatta di mattina, in cucina, durante la telefonata: unica volta in cui il quaderno viene scritto non di sera e non alla scrivania.
 
 ## Relazioni
 
@@ -36,4 +40,6 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 1. `e02-04` (cap. 2, prima del primo apparecchio del turno) — [Tom decide - il cronometro lo tiene lui, e un archivio privato](../eventi/e02-04.md)
 1. `e03-01` (cap. 3, i tre mesi dopo la decurtazione (dall'inverno alla primavera: «l'inverno era finito»)) — [Tre mesi di efficienza perfetta e di quaderno](../eventi/e03-01.md)
 1. `e03-06` (cap. 3, la sera dello stesso martedì) — [La quinta voce - «ce n'è più di uno.»](../eventi/e03-06.md)
+1. `e04-01` (cap. 4, la sera del martedì, dopo aver trascritto la quinta voce) — [Tom prova la scusa per la telefonata e rinuncia](../eventi/e04-01.md)
+1. `e04-04` (cap. 4, durante la telefonata) — [«Ho un video, sa?» - la signora lo manderà su WhatsApp](../eventi/e04-04.md)
 

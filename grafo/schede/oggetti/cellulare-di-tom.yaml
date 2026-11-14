@@ -1,0 +1,10 @@
+id: cellulare-di-tom
+nome: Cellulare di Tom
+capitoli: [4]
+sintesi: "Il telefono personale da cui Tom chiama la signora Voss. Lei ne conserva il numero e lo usa per WhatsApp."
+caratteristiche:
+  - {testo: "«Compose il numero dal proprio cellulare»", fonte: "c4:13"}
+  - {testo: "Tom non aveva previsto che la signora usasse quel numero per mandargli il video, ma non può tirarsi indietro", fonte: "c4:47-49"}
+aperti:
+  - {testo: "La chiamata «dal controllo qualità di Meridian» parte da un numero privato, e da lì passerà il video: è una traccia fuori dai sistemi aziendali, ma anche un legame diretto tra Tom e la cliente."}
+

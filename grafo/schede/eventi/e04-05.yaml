@@ -1,0 +1,13 @@
+id: e04-05
+nome: Tom chiude, si giudica un principiante e corre all'autobus
+capitolo: 4
+ordine: 4.5
+quando: "fine della telefonata, anticipo esaurito"
+dove: casa-di-tom
+dopo: [e04-04]
+coinvolti: [tom, anticipo-di-quindici-minuti, copertura-controllo-qualita, pete]
+sintesi: "Tom capisce di non essere più l'unico ad aver visto il fenomeno. I quindici minuti sono finiti: esce quasi correndo, per non dare un pretesto al supervisore."
+fatti:
+  - {testo: "L'autocritica", fonte: "c4:53"}
+  - {testo: "«Non era più l'unico a vederla»", fonte: "c4:55"}
+  - {testo: "La corsa", fonte: "c4:57"}

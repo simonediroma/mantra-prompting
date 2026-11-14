@@ -1,0 +1,17 @@
+id: video-della-voss
+nome: Il video girato dalla signora Voss
+alias: ["il video del televisore che lampeggia"]
+capitoli: [4]
+sintesi: "Ripresa fatta col telefono dalla signora: il televisore lampeggia in modo strano mentre lei gli dice di accendersi. Lo manderà a Tom su WhatsApp."
+caratteristiche:
+  - {testo: "Girato apposta per l'assistenza, «perché sapevo che altrimenti non mi avrebbero creduta»", fonte: "c4:41"}
+  - {testo: "Contenuto: il televisore che lampeggia, lei che gli dice di accendersi, «e niente»", fonte: "c4:41"}
+  - {testo: "In negozio: «sarà un codice di servizio»; nessuno ha contato i lampeggi", fonte: "c4:41"}
+  - {testo: "Per Tom è la prova che qualcun altro ha visto la stessa cosa: «non era più l'unico a vederla»", fonte: "c4:55"}
+stato:
+  - {cap: 4, testo: "Promesso a Tom via WhatsApp, sul suo numero personale. A fine capitolo non è ancora arrivato", fonte: "c4:47-49"}
+non_detto:
+  - {testo: "Tom nel cap. 4 non lo vede: non si sa ancora cosa dicano i lampeggi."}
+relazioni:
+  - {verso: cellulare-di-tom, tipo: "destinato a", fonte: "c4:47"}
+

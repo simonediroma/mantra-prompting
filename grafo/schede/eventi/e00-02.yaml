@@ -1,0 +1,14 @@
+id: e00-02
+nome: Antefatto Voss - lo yoga, il televisore che si rifiuta, il video, il negozio
+capitolo: 4
+ordine: 2.9
+quando: "prima del cap. 3 (giorni non quantificati)"
+in_scena: false
+dove: casa-della-voss
+coinvolti: [signora-voss, tv-secondo-contatto, video-yoga, ragazza-del-video-yoga, video-della-voss, negozio, addetto-negozio, scheda-cliente-secondo-tv]
+sintesi: "La signora ripete il video di yoga anche dieci volte al giorno. Un giorno il televisore non si accende più. Lei lo filma mentre lampeggia, lo porta in negozio, dove liquidano tutto; il televisore parte per l'assistenza."
+fatti:
+  - {testo: "Lo yoga e la ripetizione", fonte: "c4:31"}
+  - {testo: "Il video girato col telefono e la reazione del negozio", fonte: "c4:41"}
+  - {testo: "La scheda dettata in negozio", fonte: "c3:17"}
+

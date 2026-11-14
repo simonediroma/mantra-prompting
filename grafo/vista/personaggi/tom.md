@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3
+`tom` · personaggio · capitoli: 1, 2, 3, 4
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -24,12 +24,18 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Va al lavoro in autobus; col turno di mattina esce di casa col buio *(cap. 3 r. 9)*
 - Lavora in piedi, appoggiato al banco con due mani *(cap. 3 r. 21)*
 - In dodici anni non aveva mai chiesto a un elettrodomestico come si sentisse *(cap. 3 r. 21)*
+- Si presenta al telefono col suo vero nome: «sono Tom» *(cap. 4 r. 19)*
+- Esce sempre abbastanza presto da arrivare con un quarto d'ora di margine prima del turno *(cap. 4 r. 11)*
+- Non è solito mentire agli esseri umani, solo agli elettrodomestici; recita male e se ne stizzisce *(cap. 4 r. 9, cap. 4 r. 13)*
+- Usa il silenzio come strumento: quasi nessuno lo tollera più di tre secondi *(cap. 4 r. 29)*
+- In dodici anni non aveva mai corso per un autobus; la fermata è a due isolati da casa *(cap. 4 r. 57)*
 
 ## Stato capitolo per capitolo
 
 - **Cap. 1** — Scopre che un televisore risponde in Morse; perde tempo oltre il limite; prende tempo etichettando l'unità come anomalia *(cap. 1 r. 97)*
 - **Cap. 2** — Richiamo formale e trattenuta di 47 minuti; perde il televisore; decide di tenere lui il cronometro e un archivio privato *(cap. 2 r. 45)*
 - **Cap. 3** — Da tre mesi è il tecnico più efficiente del reparto (margine medio 47 secondi); turno di mattina da qualche settimana; al secondo contatto conclude «ce n'è più di uno» *(cap. 3 r. 9, cap. 3 r. 37)*
+- **Cap. 4** — Chiama la signora Voss dal proprio cellulare fingendosi il controllo qualità; scopre che esiste un video; brucia tutti i quindici minuti di anticipo e corre all'autobus *(cap. 4 r. 57)*
 
 ## Relazioni
 
@@ -46,6 +52,11 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - → pratica [Il rito delle domande agli apparecchi](../concetti/rito-delle-domande.md) *(cap. 1 r. 29)*
 - → conosce [Codice Morse](../concetti/codice-morse.md) *(cap. 1 r. 33)*
 - → si impone [Il 47 (minuti trattenuti, secondi di margine)](../concetti/margine-47-secondi.md) *(cap. 3 r. 9)*
+- → telefona a [Signora Voss](../personaggi/signora-voss.md) — sotto copertura *(cap. 4 r. 19)*
+- → usa [Cellulare di Tom](../oggetti/cellulare-di-tom.md) *(cap. 4 r. 13)*
+- → inventa [La copertura del «controllo qualità»](../concetti/copertura-controllo-qualita.md) *(cap. 4 r. 9)*
+- → abitudine [I quindici minuti di anticipo](../concetti/anticipo-di-quindici-minuti.md) *(cap. 4 r. 11)*
+- ← [Signora Voss](../personaggi/signora-voss.md) crede sia del controllo qualità questa scheda *(cap. 4 r. 19)*
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) indirizzata a questa scheda *(cap. 2 r. 9)*
 - ← [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) applicata da Pete a questa scheda *(cap. 17 r. 58)*
 
@@ -66,4 +77,9 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e03-04` (cap. 3, stesso intervento, nei minuti rimasti) — [«Ti senti solo?» → NO SONO QUI CON TE](../eventi/e03-04.md)
 1. `e03-05` (cap. 3, stesso intervento, dentro il limite) — [Tom resetta il secondo televisore](../eventi/e03-05.md)
 1. `e03-06` (cap. 3, la sera dello stesso martedì) — [La quinta voce - «ce n'è più di uno.»](../eventi/e03-06.md)
+1. `e04-01` (cap. 4, la sera del martedì, dopo aver trascritto la quinta voce) — [Tom prova la scusa per la telefonata e rinuncia](../eventi/e04-01.md)
+1. `e04-02` (cap. 4, la mattina dopo (mercoledì), nei quindici minuti di anticipo prima di uscire) — [Tom chiama la signora Voss fingendosi il controllo qualità](../eventi/e04-02.md)
+1. `e04-03` (cap. 4, durante la telefonata) — [La signora racconta - «proprio non voleva»](../eventi/e04-03.md)
+1. `e04-04` (cap. 4, durante la telefonata) — [«Ho un video, sa?» - la signora lo manderà su WhatsApp](../eventi/e04-04.md)
+1. `e04-05` (cap. 4, fine della telefonata, anticipo esaurito) — [Tom chiude, si giudica un principiante e corre all'autobus](../eventi/e04-05.md)
 
