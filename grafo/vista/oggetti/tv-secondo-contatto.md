@@ -1,6 +1,6 @@
 # Televisore del secondo contatto
 
-`tv-secondo-contatto` · oggetto · capitoli: 3, 4
+`tv-secondo-contatto` · oggetto · capitoli: 3, 4, 5
 
 Alias: il secondo televisore, quinta voce del quaderno, il televisore della signora Voss
 
@@ -20,6 +20,10 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - Antefatto: un giorno non si accende più. Il negozio dice che è tutto a posto; poi finisce in assistenza («Adesso ce l'avete voi») *(cap. 4 r. 31)*
 - Davanti a questo televisore la signora ripeteva il video di yoga anche dieci volte al giorno *(cap. 4 r. 31)*
 - Ripreso in un video dalla proprietaria: lampeggia in un modo strano mentre lei gli dice di accendersi *(cap. 4 r. 41)*
+- Ha uno schermo e due altoparlanti; il LED di accensione resta alimentato in standby *(cap. 5 r. 27)*
+- Riceve comandi a voce dalla proprietaria («Dai, accenditi, e proiettami…») *(cap. 5 r. 19)*
+- A casa della signora, da spento, ha trasmesso in Morse un avvertimento sulla sua salute *(cap. 5 r. 23)*
+- Per Tom: libero arbitrio orientato alla protezione, non alla ribellione né alla minaccia *(cap. 5 r. 25)*
 
 ## Cosa NON dice il testo
 
@@ -29,6 +33,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 
 - Tom parla del reset come di «un evento di poche ore prima» (c4 r. 23), ma è avvenuto a fine turno di mattina del giorno prima (c3 r. 17, c4 r. 55): sono quasi ventiquattr'ore.
 - La signora aspetta la restituzione «da giorni» (c4 r. 21), ma il televisore è arrivato sul banco di Tom solo il giorno prima: i giorni sono quelli tra negozio e laboratorio, mai quantificati.
+- Domanda che il testo stesso lascia aperta: «Come facesse un televisore a sapere qualcosa del cuore di una donna» (c5 r. 27).
 
 ## Stato capitolo per capitolo
 
@@ -44,6 +49,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - → prodotto da [Meridian](../organizzazioni/meridian.md)
 - → ripreso in [Il video girato dalla signora Voss](../oggetti/video-della-voss.md) *(cap. 4 r. 41)*
 - → ha riprodotto ripetutamente [Il video di yoga della signora Voss](../oggetti/video-yoga.md) *(cap. 4 r. 31)*
+- → spiegato da [Perché il LED - l'ipotesi del circuito di standby](../concetti/ipotesi-canale-standby.md) *(cap. 5 r. 27)*
 - ← [Signora Voss](../personaggi/signora-voss.md) proprietario di questa scheda *(cap. 3 r. 17)*
 - ← [Quaderno nero](../oggetti/quaderno-nero.md) registra (voce 5) questa scheda *(cap. 3 r. 37)*
 - ← [Televisore del primo contatto (caso zero)](../oggetti/tv-caso-zero.md) stesso modello di questa scheda *(cap. 3 r. 17)*
@@ -58,4 +64,5 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 1. `e03-06` (cap. 3, la sera dello stesso martedì) — [La quinta voce - «ce n'è più di uno.»](../eventi/e03-06.md)
 1. `e04-02` (cap. 4, la mattina dopo (mercoledì), nei quindici minuti di anticipo prima di uscire) — [Tom chiama la signora Voss fingendosi il controllo qualità](../eventi/e04-02.md)
 1. `e04-03` (cap. 4, durante la telefonata) — [La signora racconta - «proprio non voleva»](../eventi/e04-03.md)
+1. `e05-03` (cap. 5, mercoledì sera, dopo cena) — [Tom decifra il video - STAI ESAGERANDO CON LO YOGA…](../eventi/e05-03.md)
 

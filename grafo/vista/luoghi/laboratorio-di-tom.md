@@ -45,4 +45,5 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 1. `e03-03` (cap. 3, stesso intervento, primi 7 minuti e 12 secondi) — [Procedura in 7:12 e apertura del log del secondo televisore](../eventi/e03-03.md)
 1. `e03-04` (cap. 3, stesso intervento, nei minuti rimasti) — [«Ti senti solo?» → NO SONO QUI CON TE](../eventi/e03-04.md)
 1. `e03-05` (cap. 3, stesso intervento, dentro il limite) — [Tom resetta il secondo televisore](../eventi/e03-05.md)
+1. `e05-02` (cap. 5, mercoledì, durante il turno) — [Un turno con la testa altrove - il video resta chiuso](../eventi/e05-02.md)
 

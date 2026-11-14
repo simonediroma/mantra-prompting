@@ -1,0 +1,10 @@
+id: soglia-ritardo-cinque-minuti
+nome: Soglia dei cinque minuti di ritardo
+capitoli: [5]
+sintesi: "Sotto i cinque minuti il sistema di accesso registra l'orario ma non avvisa il supervisore."
+caratteristiche:
+  - {testo: "«Sotto i cinque minuti non scattava nessuna comunicazione diretta del ritardo al proprio supervisore»: sotto soglia è «un fatto privato anche in Meridian»", fonte: "c5:9"}
+  - {testo: "L'orario viene comunque registrato dal sistema di accesso", fonte: "c5:9"}
+relazioni:
+  - {verso: sede-assistenza, tipo: "applicata al varco di", fonte: "c5:9"}
+

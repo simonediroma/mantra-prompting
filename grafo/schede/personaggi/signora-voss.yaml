@@ -1,7 +1,7 @@
 id: signora-voss
 nome: Signora Voss
 alias: ["la signora del televisore", "cliente del secondo televisore"]
-capitoli: [3, 4]
+capitoli: [3, 4, 5]
 sintesi: "Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo stesso video anche dieci volte al giorno; ha filmato il televisore che «si rifiuta» di accendersi."
 caratteristiche:
   - {testo: "Ha dettato all'addetto del negozio: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
@@ -15,9 +15,16 @@ caratteristiche:
   - {testo: "Ha girato col telefono un video del televisore, apposta per l'assistenza; lo riguarda ogni tanto; lo ha già raccontato ad altri", fonte: "c4:41"}
   - {testo: "Usa WhatsApp; ha il numero personale di Tom (quello da cui lui ha chiamato)", fonte: "c4:47"}
   - {testo: "Più presa dalla voglia di raccontare che attenta alla coerenza: non nota la gaffe di Tom, o non lo dà a vedere", fonte: "c4:25, c4:53"}
+  - {testo: "Nel video la sua voce ha il tono paziente di chi l'ha già ripetuto altre volte quel giorno: «Dai, accenditi, e proiettami il video yoga di quella bella ragazza con cui mi alleno.»", fonte: "c5:19"}
+  - {testo: "Mano tutt'altro che ferma mentre riprende", fonte: "c5:19"}
+  - {testo: "Per Tom è «una donna che non poteva capirlo» (il Morse)", fonte: "c5:27"}
+  - {testo: "Il televisore le attribuisce un cuore che «non regge più»", fonte: "c5:23"}
 non_detto:
   - {testo: "Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta."}
-  - {testo: "Il cap. 4 non dice se la signora conosca il Morse: dei lampeggi dice solo «modo strano» e «sembra un rifiuto»."}
+  - {testo: "Il cap. 5 non dice perché non risponde: Tom ipotizza doccia, cucina, telefono lontano."}
+stato:
+  - {cap: 4, testo: "Al telefono con Tom: viva, loquace, promette il video", fonte: "c4:47"}
+  - {cap: 5, testo: "Il mattino di due giorni dopo il reset non risponde a due chiamate di Tom; nessuna segreteria", fonte: "c5:37-39"}
 relazioni:
   - {verso: tv-secondo-contatto, tipo: "proprietario di", fonte: "c3:17"}
   - {verso: addetto-negozio, tipo: "detta la segnalazione a", fonte: "c3:17"}

@@ -1,6 +1,6 @@
 # Il video di yoga della signora Voss
 
-`video-yoga` · oggetto · capitoli: 4
+`video-yoga` · oggetto · capitoli: 4, 5
 
 Il video che la signora Voss riproduceva sul televisore anche dieci volte al giorno. Nel cap. 4 è solo un dettaglio del suo racconto.
 
@@ -8,6 +8,8 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 
 - «Un video che avevo trovato, bellissimo» *(cap. 4 r. 31)*
 - Ripetuto «anche dieci volte al giorno» *(cap. 4 r. 31)*
+- È il video che la signora chiede al televisore nel filmato: «il video yoga di quella bella ragazza con cui mi alleno» *(cap. 5 r. 19)*
+- Il televisore si rifiuta di proiettarlo e avverte: «stai esagerando con lo yoga» *(cap. 5 r. 23)*
 
 ## Cosa NON dice il testo
 
@@ -24,4 +26,5 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 
 1. `e00-02` (cap. 4, prima del cap. 3 (giorni non quantificati)) — [Antefatto Voss - lo yoga, il televisore che si rifiuta, il video, il negozio](../eventi/e00-02.md)
 1. `e04-03` (cap. 4, durante la telefonata) — [La signora racconta - «proprio non voleva»](../eventi/e04-03.md)
+1. `e05-03` (cap. 5, mercoledì sera, dopo cena) — [Tom decifra il video - STAI ESAGERANDO CON LO YOGA…](../eventi/e05-03.md)
 

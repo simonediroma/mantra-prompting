@@ -1,0 +1,12 @@
+id: e05-05
+nome: La signora Voss non risponde
+capitolo: 5
+ordine: 5.5
+quando: "giovedì mattina, nel quarto d'ora di anticipo"
+dove: casa-di-tom
+dopo: [e05-04]
+coinvolti: [tom, signora-voss, cellulare-di-tom, anticipo-di-quindici-minuti]
+sintesi: "In piedi in cucina, Tom chiama due volte a qualche minuto di distanza. Squilla a lungo, nessuna risposta, nessuna segreteria."
+fatti:
+  - {testo: "Le due chiamate", fonte: "c5:35-39"}
+  - {testo: "L'anticipo che si assottiglia", fonte: "c5:41"}

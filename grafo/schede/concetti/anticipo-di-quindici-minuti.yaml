@@ -1,10 +1,12 @@
 id: anticipo-di-quindici-minuti
 nome: I quindici minuti di anticipo
-capitoli: [4]
+capitoli: [4, 5]
 sintesi: "Tom arriva sempre in azienda un quarto d'ora prima del turno. Nel cap. 4 li spende, per una volta, per la telefonata."
 caratteristiche:
   - {testo: "Servono a sistemarsi alla postazione con calma", fonte: "c4:11"}
   - {testo: "Bruciati dalla telefonata fino all'ultimo secondo", fonte: "c4:57"}
-non_detto:
-  - {testo: "Il cap. 4 non dice se Tom arrivi poi in ritardo."}
 
+  - {testo: "Esito del cap. 4: Tom arriva con due minuti di ritardo", fonte: "c5:9"}
+  - {testo: "Il mattino dopo ha di nuovo il «consueto quarto d'ora», che si assottiglia per la seconda volta in due giorni", fonte: "c5:35, c5:41"}
+non_detto:
+  - {testo: "Il cap. 5 si chiude prima di dire se Tom arrivi in ritardo anche il secondo giorno."}

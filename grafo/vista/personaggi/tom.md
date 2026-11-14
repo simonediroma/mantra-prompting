@@ -1,6 +1,6 @@
 # Tom
 
-`tom` · personaggio · capitoli: 1, 2, 3, 4
+`tom` · personaggio · capitoli: 1, 2, 3, 4, 5
 
 Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
 
@@ -29,6 +29,12 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - Non è solito mentire agli esseri umani, solo agli elettrodomestici; recita male e se ne stizzisce *(cap. 4 r. 9, cap. 4 r. 13)*
 - Usa il silenzio come strumento: quasi nessuno lo tollera più di tre secondi *(cap. 4 r. 29)*
 - In dodici anni non aveva mai corso per un autobus; la fermata è a due isolati da casa *(cap. 4 r. 57)*
+- Si è sempre vantato con se stesso di una puntualità totale: mai un ritardo in dodici anni, fino ai due minuti del cap. 5 *(cap. 5 r. 9)*
+- Ripara anche altro oltre ai televisori: rimonta un motore di aspirapolvere *(cap. 5 r. 13)*
+- Prima di tutto viene la cena: aspetta a guardare il video perché ha fame *(cap. 5 r. 15)*
+- Da bambino decifrava a pezzi le registrazioni delle radio amatoriali, fermandole e mandandole indietro *(cap. 5 r. 21)*
+- Dà ai propri stati d'animo etichette da scheda d'intervento: «urgenza di verifica» *(cap. 5 r. 29)*
+- Il suo primo pensiero davanti all'avvertimento è tecnico, non umano *(cap. 5 r. 25)*
 
 ## Stato capitolo per capitolo
 
@@ -36,6 +42,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - **Cap. 2** — Richiamo formale e trattenuta di 47 minuti; perde il televisore; decide di tenere lui il cronometro e un archivio privato *(cap. 2 r. 45)*
 - **Cap. 3** — Da tre mesi è il tecnico più efficiente del reparto (margine medio 47 secondi); turno di mattina da qualche settimana; al secondo contatto conclude «ce n'è più di uno» *(cap. 3 r. 9, cap. 3 r. 37)*
 - **Cap. 4** — Chiama la signora Voss dal proprio cellulare fingendosi il controllo qualità; scopre che esiste un video; brucia tutti i quindici minuti di anticipo e corre all'autobus *(cap. 4 r. 57)*
+- **Cap. 5** — Primo ritardo in dodici anni (2 minuti). La sera decifra il video: il televisore avvertiva la signora. Annota «consapevole. Benevolo, non ostile.» Il mattino dopo la signora non risponde *(cap. 5 r. 33, cap. 5 r. 37)*
 
 ## Relazioni
 
@@ -56,6 +63,8 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - → usa [Cellulare di Tom](../oggetti/cellulare-di-tom.md) *(cap. 4 r. 13)*
 - → inventa [La copertura del «controllo qualità»](../concetti/copertura-controllo-qualita.md) *(cap. 4 r. 9)*
 - → abitudine [I quindici minuti di anticipo](../concetti/anticipo-di-quindici-minuti.md) *(cap. 4 r. 11)*
+- → ha scritto [Foglio con l'avvertimento decifrato](../oggetti/foglio-avvertimento.md) *(cap. 5 r. 25)*
+- → formula [Perché il LED - l'ipotesi del circuito di standby](../concetti/ipotesi-canale-standby.md) *(cap. 5 r. 27)*
 - ← [Signora Voss](../personaggi/signora-voss.md) crede sia del controllo qualità questa scheda *(cap. 4 r. 19)*
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) indirizzata a questa scheda *(cap. 2 r. 9)*
 - ← [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) applicata da Pete a questa scheda *(cap. 17 r. 58)*
@@ -82,4 +91,9 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 1. `e04-03` (cap. 4, durante la telefonata) — [La signora racconta - «proprio non voleva»](../eventi/e04-03.md)
 1. `e04-04` (cap. 4, durante la telefonata) — [«Ho un video, sa?» - la signora lo manderà su WhatsApp](../eventi/e04-04.md)
 1. `e04-05` (cap. 4, fine della telefonata, anticipo esaurito) — [Tom chiude, si giudica un principiante e corre all'autobus](../eventi/e04-05.md)
+1. `e05-01` (cap. 5, mercoledì, inizio turno di mattina) — [Tom arriva con due minuti di ritardo](../eventi/e05-01.md)
+1. `e05-02` (cap. 5, mercoledì, durante il turno) — [Un turno con la testa altrove - il video resta chiuso](../eventi/e05-02.md)
+1. `e05-03` (cap. 5, mercoledì sera, dopo cena) — [Tom decifra il video - STAI ESAGERANDO CON LO YOGA…](../eventi/e05-03.md)
+1. `e05-04` (cap. 5, mercoledì, tarda sera (verso le undici)) — [Perché il Morse; Tom decide di richiamare al mattino e annota il quaderno](../eventi/e05-04.md)
+1. `e05-05` (cap. 5, giovedì mattina, nel quarto d'ora di anticipo) — [La signora Voss non risponde](../eventi/e05-05.md)
 

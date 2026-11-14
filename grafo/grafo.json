@@ -39,7 +39,8 @@
    "nome": "Pete",
    "capitoli": [
     2,
-    4
+    4,
+    5
    ]
   },
   {
@@ -47,7 +48,8 @@
    "tipo": "personaggio",
    "nome": "La ragazza del video di yoga",
    "capitoli": [
-    4
+    4,
+    5
    ]
   },
   {
@@ -56,7 +58,8 @@
    "nome": "Signora Voss",
    "capitoli": [
     3,
-    4
+    4,
+    5
    ]
   },
   {
@@ -75,7 +78,8 @@
     1,
     2,
     3,
-    4
+    4,
+    5
    ]
   },
   {
@@ -128,7 +132,8 @@
    "tipo": "oggetto",
    "nome": "Cellulare di Tom",
    "capitoli": [
-    4
+    4,
+    5
    ]
   },
   {
@@ -145,6 +150,14 @@
    "nome": "eWatch",
    "capitoli": [
     3
+   ]
+  },
+  {
+   "id": "foglio-avvertimento",
+   "tipo": "oggetto",
+   "nome": "Foglio con l'avvertimento decifrato",
+   "capitoli": [
+    5
    ]
   },
   {
@@ -170,7 +183,8 @@
    "nome": "LED di accensione",
    "capitoli": [
     1,
-    3
+    3,
+    5
    ]
   },
   {
@@ -214,7 +228,8 @@
    "capitoli": [
     2,
     3,
-    4
+    4,
+    5
    ]
   },
   {
@@ -232,6 +247,14 @@
    "capitoli": [
     3,
     4
+   ]
+  },
+  {
+   "id": "tappetino-da-yoga",
+   "tipo": "oggetto",
+   "nome": "Tappetino da yoga della signora Voss",
+   "capitoli": [
+    5
    ]
   },
   {
@@ -258,7 +281,8 @@
    "nome": "Televisore del secondo contatto",
    "capitoli": [
     3,
-    4
+    4,
+    5
    ]
   },
   {
@@ -266,7 +290,8 @@
    "tipo": "oggetto",
    "nome": "Il video girato dalla signora Voss",
    "capitoli": [
-    4
+    4,
+    5
    ]
   },
   {
@@ -274,7 +299,8 @@
    "tipo": "oggetto",
    "nome": "Il video di yoga della signora Voss",
    "capitoli": [
-    4
+    4,
+    5
    ]
   },
   {
@@ -282,7 +308,8 @@
    "tipo": "luogo",
    "nome": "Casa della signora Voss",
    "capitoli": [
-    4
+    4,
+    5
    ]
   },
   {
@@ -292,7 +319,8 @@
    "capitoli": [
     1,
     3,
-    4
+    4,
+    5
    ]
   },
   {
@@ -321,7 +349,8 @@
    "capitoli": [
     1,
     2,
-    3
+    3,
+    5
    ]
   },
   {
@@ -329,7 +358,8 @@
    "tipo": "concetto",
    "nome": "I quindici minuti di anticipo",
    "capitoli": [
-    4
+    4,
+    5
    ]
   },
   {
@@ -347,7 +377,8 @@
    "nome": "Codice Morse",
    "capitoli": [
     1,
-    3
+    3,
+    5
    ]
   },
   {
@@ -355,7 +386,16 @@
    "tipo": "concetto",
    "nome": "La copertura del «controllo qualità»",
    "capitoli": [
-    4
+    4,
+    5
+   ]
+  },
+  {
+   "id": "ipotesi-canale-standby",
+   "tipo": "concetto",
+   "nome": "Perché il LED - l'ipotesi del circuito di standby",
+   "capitoli": [
+    5
    ]
   },
   {
@@ -386,6 +426,14 @@
     2,
     3,
     4
+   ]
+  },
+  {
+   "id": "soglia-ritardo-cinque-minuti",
+   "tipo": "concetto",
+   "nome": "Soglia dei cinque minuti di ritardo",
+   "capitoli": [
+    5
    ]
   },
   {
@@ -653,6 +701,46 @@
    "capitoli": [
     4
    ]
+  },
+  {
+   "id": "e05-01",
+   "tipo": "evento",
+   "nome": "Tom arriva con due minuti di ritardo",
+   "capitoli": [
+    5
+   ]
+  },
+  {
+   "id": "e05-02",
+   "tipo": "evento",
+   "nome": "Un turno con la testa altrove - il video resta chiuso",
+   "capitoli": [
+    5
+   ]
+  },
+  {
+   "id": "e05-03",
+   "tipo": "evento",
+   "nome": "Tom decifra il video - STAI ESAGERANDO CON LO YOGA…",
+   "capitoli": [
+    5
+   ]
+  },
+  {
+   "id": "e05-04",
+   "tipo": "evento",
+   "nome": "Perché il Morse; Tom decide di richiamare al mattino e annota il quaderno",
+   "capitoli": [
+    5
+   ]
+  },
+  {
+   "id": "e05-05",
+   "tipo": "evento",
+   "nome": "La signora Voss non risponde",
+   "capitoli": [
+    5
+   ]
   }
  ],
  "archi": [
@@ -881,6 +969,20 @@
    "fonte": "c4:11"
   },
   {
+   "da": "tom",
+   "a": "foglio-avvertimento",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c5:25"
+  },
+  {
+   "da": "tom",
+   "a": "ipotesi-canale-standby",
+   "tipo": "formula",
+   "nota": "",
+   "fonte": "c5:27"
+  },
+  {
    "da": "coordinamento-assistenza",
    "a": "meridian",
    "tipo": "parte di",
@@ -965,6 +1067,13 @@
    "fonte": "c2:21"
   },
   {
+   "da": "foglio-avvertimento",
+   "a": "casa-di-tom",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c5:17"
+  },
+  {
    "da": "foglio-io-sono-qui",
    "a": "cassetto-della-scrivania",
    "tipo": "conservato in",
@@ -1040,6 +1149,20 @@
    "tipo": "registra (voce 5)",
    "nota": "",
    "fonte": "c3:37"
+  },
+  {
+   "da": "tappetino-da-yoga",
+   "a": "casa-della-voss",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c5:19"
+  },
+  {
+   "da": "tappetino-da-yoga",
+   "a": "signora-voss",
+   "tipo": "appartiene a",
+   "nota": "",
+   "fonte": ""
   },
   {
    "da": "terminale-del-turno",
@@ -1140,11 +1263,39 @@
    "fonte": "c4:31"
   },
   {
+   "da": "tv-secondo-contatto",
+   "a": "ipotesi-canale-standby",
+   "tipo": "spiegato da",
+   "nota": "",
+   "fonte": "c5:27"
+  },
+  {
    "da": "video-della-voss",
    "a": "cellulare-di-tom",
    "tipo": "destinato a",
    "nota": "",
    "fonte": "c4:47"
+  },
+  {
+   "da": "video-della-voss",
+   "a": "foglio-avvertimento",
+   "tipo": "trascritto su",
+   "nota": "",
+   "fonte": "c5:25"
+  },
+  {
+   "da": "video-della-voss",
+   "a": "tappetino-da-yoga",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c5:19"
+  },
+  {
+   "da": "video-della-voss",
+   "a": "casa-della-voss",
+   "tipo": "girato in",
+   "nota": "",
+   "fonte": "c5:19"
   },
   {
    "da": "casa-della-voss",
@@ -1203,6 +1354,20 @@
    "fonte": "c4:13"
   },
   {
+   "da": "ipotesi-canale-standby",
+   "a": "led-di-accensione",
+   "tipo": "riguarda",
+   "nota": "",
+   "fonte": "c5:27"
+  },
+  {
+   "da": "ipotesi-canale-standby",
+   "a": "codice-morse",
+   "tipo": "spiega l'uso del",
+   "nota": "",
+   "fonte": "c5:27"
+  },
+  {
    "da": "margine-47-secondi",
    "a": "comunicazione-formale-scostamento",
    "tipo": "nasce da",
@@ -1222,6 +1387,13 @@
    "tipo": "va chiusa entro",
    "nota": "",
    "fonte": "c2:13"
+  },
+  {
+   "da": "soglia-ritardo-cinque-minuti",
+   "a": "sede-assistenza",
+   "tipo": "applicata al varco di",
+   "nota": "",
+   "fonte": "c5:9"
   },
   {
    "da": "caso-zero",
@@ -1324,6 +1496,20 @@
   {
    "da": "e00-02",
    "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "tappetino-da-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "led-di-accensione",
    "tipo": "coinvolge",
    "nota": "",
    "fonte": ""
@@ -2374,6 +2560,279 @@
   {
    "da": "e04-04",
    "a": "e04-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "soglia-ritardo-cinque-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "sede-assistenza",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "e05-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "e05-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "e05-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "foglio-avvertimento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "codice-morse",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "led-di-accensione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "tappetino-da-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "e05-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "e05-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "ipotesi-canale-standby",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "copertura-controllo-qualita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "foglio-avvertimento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "e05-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "e05-05",
    "tipo": "porta a",
    "nota": "",
    "fonte": ""

@@ -1,0 +1,15 @@
+id: e05-04
+nome: Perché il Morse; Tom decide di richiamare al mattino e annota il quaderno
+capitolo: 5
+ordine: 5.4
+quando: "mercoledì, tarda sera (verso le undici)"
+dove: casa-di-tom
+dopo: [e05-03]
+coinvolti: [tom, ipotesi-canale-standby, copertura-controllo-qualita, quaderno-nero, foglio-avvertimento]
+sintesi: "Tom si spiega il LED con il circuito di standby; mette da parte la domanda sul cuore. Sente «urgenza di verifica», ma aspetta il mattino per non tradire la copertura. Sul quaderno: «consapevole. Benevolo, non ostile.»"
+fatti:
+  - {testo: "L'ipotesi dello standby e la domanda accantonata", fonte: "c5:27"}
+  - {testo: "L'urgenza di verifica", fonte: "c5:29"}
+  - {testo: "La decisione di aspettare", fonte: "c5:31"}
+  - {testo: "La riga sul quaderno", fonte: "c5:33"}
+

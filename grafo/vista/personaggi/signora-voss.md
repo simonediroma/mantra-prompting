@@ -1,6 +1,6 @@
 # Signora Voss
 
-`signora-voss` · personaggio · capitoli: 3, 4
+`signora-voss` · personaggio · capitoli: 3, 4, 5
 
 Alias: la signora del televisore, cliente del secondo televisore
 
@@ -19,11 +19,20 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - Ha girato col telefono un video del televisore, apposta per l'assistenza; lo riguarda ogni tanto; lo ha già raccontato ad altri *(cap. 4 r. 41)*
 - Usa WhatsApp; ha il numero personale di Tom (quello da cui lui ha chiamato) *(cap. 4 r. 47)*
 - Più presa dalla voglia di raccontare che attenta alla coerenza: non nota la gaffe di Tom, o non lo dà a vedere *(cap. 4 r. 25, cap. 4 r. 53)*
+- Nel video la sua voce ha il tono paziente di chi l'ha già ripetuto altre volte quel giorno: «Dai, accenditi, e proiettami il video yoga di quella bella ragazza con cui mi alleno.» *(cap. 5 r. 19)*
+- Mano tutt'altro che ferma mentre riprende *(cap. 5 r. 19)*
+- Per Tom è «una donna che non poteva capirlo» (il Morse) *(cap. 5 r. 27)*
+- Il televisore le attribuisce un cuore che «non regge più» *(cap. 5 r. 23)*
 
 ## Cosa NON dice il testo
 
 - Nome di battesimo ed età non sono indicati nel cap. 4 (solo «alla mia età»). L'indirizzo è nel quaderno ma il testo non lo riporta.
-- Il cap. 4 non dice se la signora conosca il Morse: dei lampeggi dice solo «modo strano» e «sembra un rifiuto».
+- Il cap. 5 non dice perché non risponde: Tom ipotizza doccia, cucina, telefono lontano.
+
+## Stato capitolo per capitolo
+
+- **Cap. 4** — Al telefono con Tom: viva, loquace, promette il video *(cap. 4 r. 47)*
+- **Cap. 5** — Il mattino di due giorni dopo il reset non risponde a due chiamate di Tom; nessuna segreteria *(cap. 5 r. 37-39)*
 
 ## Relazioni
 
@@ -34,6 +43,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - → ha portato il televisore al [Negozio (punto di consegna)](../luoghi/negozio.md) *(cap. 4 r. 31)*
 - → crede sia del controllo qualità [Tom](../personaggi/tom.md) *(cap. 4 r. 19)*
 - ← [Tom](../personaggi/tom.md) telefona a questa scheda — sotto copertura *(cap. 4 r. 19)*
+- ← [Tappetino da yoga della signora Voss](../oggetti/tappetino-da-yoga.md) appartiene a questa scheda
 - ← [Casa della signora Voss](../luoghi/casa-della-voss.md) abitazione di questa scheda
 
 ## Catena degli eventi
@@ -43,4 +53,7 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 1. `e04-02` (cap. 4, la mattina dopo (mercoledì), nei quindici minuti di anticipo prima di uscire) — [Tom chiama la signora Voss fingendosi il controllo qualità](../eventi/e04-02.md)
 1. `e04-03` (cap. 4, durante la telefonata) — [La signora racconta - «proprio non voleva»](../eventi/e04-03.md)
 1. `e04-04` (cap. 4, durante la telefonata) — [«Ho un video, sa?» - la signora lo manderà su WhatsApp](../eventi/e04-04.md)
+1. `e05-02` (cap. 5, mercoledì, durante il turno) — [Un turno con la testa altrove - il video resta chiuso](../eventi/e05-02.md)
+1. `e05-03` (cap. 5, mercoledì sera, dopo cena) — [Tom decifra il video - STAI ESAGERANDO CON LO YOGA…](../eventi/e05-03.md)
+1. `e05-05` (cap. 5, giovedì mattina, nel quarto d'ora di anticipo) — [La signora Voss non risponde](../eventi/e05-05.md)
 

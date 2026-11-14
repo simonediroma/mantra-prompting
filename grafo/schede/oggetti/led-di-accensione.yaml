@@ -1,11 +1,12 @@
 id: led-di-accensione
 nome: LED di accensione
-capitoli: [1, 3]
+capitoli: [1, 3, 5]
 sintesi: "Il LED dei televisori Meridian. Di norma lampeggia verde («sto pensando»); nei due televisori anomali è il canale dei messaggi in Morse."
 caratteristiche:
   - {testo: "Di norma lampeggia in un «innocuo verde sto pensando»", fonte: "c1:23"}
   - {testo: "Nel caso zero: fisso, spento, poi un pattern che non è nessuna sequenza diagnostica nota", fonte: "c1:23"}
   - {testo: "La presenza o assenza del «pattern anomalo sul LED» è un campo del quaderno", fonte: "c3:13"}
+  - {testo: "Resta alimentato anche a televisore spento, in standby: è il canale che costa meno energia", fonte: "c5:27"}
 relazioni:
   - {verso: codice-morse, tipo: "trasmette in", fonte: "c1:33"}
 

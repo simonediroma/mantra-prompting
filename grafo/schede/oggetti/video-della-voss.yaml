@@ -1,17 +1,28 @@
 id: video-della-voss
 nome: Il video girato dalla signora Voss
 alias: ["il video del televisore che lampeggia"]
-capitoli: [4]
+capitoli: [4, 5]
 sintesi: "Ripresa fatta col telefono dalla signora: il televisore lampeggia in modo strano mentre lei gli dice di accendersi. Lo manderà a Tom su WhatsApp."
 caratteristiche:
   - {testo: "Girato apposta per l'assistenza, «perché sapevo che altrimenti non mi avrebbero creduta»", fonte: "c4:41"}
   - {testo: "Contenuto: il televisore che lampeggia, lei che gli dice di accendersi, «e niente»", fonte: "c4:41"}
   - {testo: "In negozio: «sarà un codice di servizio»; nessuno ha contato i lampeggi", fonte: "c4:41"}
   - {testo: "Per Tom è la prova che qualcun altro ha visto la stessa cosa: «non era più l'unico a vederla»", fonte: "c4:55"}
+  - {testo: "Girato in prima persona, telefono a pochi centimetri dal televisore, inquadratura che sbanda ogni pochi secondi e perde il LED nei momenti peggiori", fonte: "c5:19"}
+  - {testo: "Si vedono: divano chiaro con coperta piegata sul bracciolo, tappetino da yoga srotolato, finestra con luce del mattino", fonte: "c5:19"}
+  - {testo: "Audio: la signora chiede al televisore di accendersi e proiettare il video yoga; il televisore resta spento e lampeggia", fonte: "c5:19"}
+  - {testo: "Messaggio ricostruito da Tom: STAI ESAGERANDO CON LO YOGA IL TUO CUORE NON REGGE PIU FERMATI O RISCHI LA VITA", fonte: "c5:23"}
+  - {testo: "Mai la frase intera in un solo passaggio: Tom la ricompone a frammenti, fotogramma per fotogramma, in decine di passaggi; restano da completare solo «una manciata di lettere»", fonte: "c5:21"}
 stato:
   - {cap: 4, testo: "Promesso a Tom via WhatsApp, sul suo numero personale. A fine capitolo non è ancora arrivato", fonte: "c4:47-49"}
+  - {cap: 5, testo: "Sul cellulare di Tom. Non aperto al lavoro; visto e decifrato la sera, a casa, dopo cena", fonte: "c5:11, c5:17"}
 non_detto:
-  - {testo: "Tom nel cap. 4 non lo vede: non si sa ancora cosa dicano i lampeggi."}
+  - {testo: "Il testo non mostra l'arrivo del video su WhatsApp: a inizio cap. 5 Tom lo ha già."}
+aperti:
+  - {testo: "La frase non è mai visibile per intero e alcune lettere sono completate da Tom: il messaggio è una ricostruzione, per quanto «senza alcun dubbio»."}
 relazioni:
   - {verso: cellulare-di-tom, tipo: "destinato a", fonte: "c4:47"}
 
+  - {verso: foglio-avvertimento, tipo: "trascritto su", fonte: "c5:25"}
+  - {verso: tappetino-da-yoga, tipo: "mostra", fonte: "c5:19"}
+  - {verso: casa-della-voss, tipo: "girato in", fonte: "c5:19"}

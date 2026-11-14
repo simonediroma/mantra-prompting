@@ -1,6 +1,6 @@
 # Quaderno nero
 
-`quaderno-nero` · oggetto · capitoli: 2, 3, 4
+`quaderno-nero` · oggetto · capitoli: 2, 3, 4, 5
 
 Alias: l'archivio di Tom
 
@@ -19,6 +19,7 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 - Voce 5: il secondo televisore, con la riga «ce n'è più di uno.» *(cap. 3 r. 37)*
 - La quinta voce contiene numero di telefono, nome e indirizzo della signora Voss *(cap. 4 r. 9)*
 - Sotto la quinta voce Tom annota: «video in arrivo su WhatsApp.» *(cap. 4 r. 49)*
+- Sotto la voce Voss, la sera del video: «consapevole. Benevolo, non ostile.» Le prime parole scritte «con vera certezza» *(cap. 5 r. 33)*
 
 ## Punti aperti / da verificare
 
@@ -42,4 +43,5 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 1. `e03-06` (cap. 3, la sera dello stesso martedì) — [La quinta voce - «ce n'è più di uno.»](../eventi/e03-06.md)
 1. `e04-01` (cap. 4, la sera del martedì, dopo aver trascritto la quinta voce) — [Tom prova la scusa per la telefonata e rinuncia](../eventi/e04-01.md)
 1. `e04-04` (cap. 4, durante la telefonata) — [«Ho un video, sa?» - la signora lo manderà su WhatsApp](../eventi/e04-04.md)
+1. `e05-04` (cap. 5, mercoledì, tarda sera (verso le undici)) — [Perché il Morse; Tom decide di richiamare al mattino e annota il quaderno](../eventi/e05-04.md)
 

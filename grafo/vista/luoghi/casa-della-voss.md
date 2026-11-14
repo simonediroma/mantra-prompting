@@ -1,6 +1,6 @@
 # Casa della signora Voss
 
-`casa-della-voss` · luogo · capitoli: 4
+`casa-della-voss` · luogo · capitoli: 4, 5
 
 Da dove la signora risponde al telefono e dove stava il televisore.
 
@@ -8,6 +8,7 @@ Da dove la signora risponde al telefono e dove stava il televisore.
 
 - Una stanza con una radio accesa *(cap. 4 r. 17)*
 - Qui faceva yoga davanti al televisore *(cap. 4 r. 31)*
+- Salotto «qualunque»: divano chiaro con una coperta piegata sul bracciolo, tappetino da yoga srotolato sul pavimento, finestra con la luce del mattino; il televisore *(cap. 5 r. 19)*
 
 ## Cosa NON dice il testo
 
@@ -16,6 +17,8 @@ Da dove la signora risponde al telefono e dove stava il televisore.
 ## Relazioni
 
 - → abitazione di [Signora Voss](../personaggi/signora-voss.md)
+- ← [Tappetino da yoga della signora Voss](../oggetti/tappetino-da-yoga.md) si trova in questa scheda *(cap. 5 r. 19)*
+- ← [Il video girato dalla signora Voss](../oggetti/video-della-voss.md) girato in questa scheda *(cap. 5 r. 19)*
 
 ## Catena degli eventi
 

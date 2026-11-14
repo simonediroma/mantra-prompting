@@ -1,10 +1,12 @@
 id: video-yoga
 nome: Il video di yoga della signora Voss
-capitoli: [4]
+capitoli: [4, 5]
 sintesi: "Il video che la signora Voss riproduceva sul televisore anche dieci volte al giorno. Nel cap. 4 è solo un dettaglio del suo racconto."
 caratteristiche:
   - {testo: "«Un video che avevo trovato, bellissimo»", fonte: "c4:31"}
   - {testo: "Ripetuto «anche dieci volte al giorno»", fonte: "c4:31"}
+  - {testo: "È il video che la signora chiede al televisore nel filmato: «il video yoga di quella bella ragazza con cui mi alleno»", fonte: "c5:19"}
+  - {testo: "Il televisore si rifiuta di proiettarlo e avverte: «stai esagerando con lo yoga»", fonte: "c5:23"}
 non_detto:
   - {testo: "Nel cap. 4 Tom non reagisce al dettaglio dello yoga né della ripetizione: la sua attenzione va al «si rifiuta» e poi al video girato dalla signora. Nessun collegamento tra video di yoga e anomalia è fatto qui."}
   - {testo: "Dove la signora lo abbia trovato e su che piattaforma: non detto."}

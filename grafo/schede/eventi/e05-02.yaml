@@ -1,0 +1,13 @@
+id: e05-02
+nome: Un turno con la testa altrove - il video resta chiuso
+capitolo: 5
+ordine: 5.2
+quando: "mercoledì, durante il turno"
+dove: laboratorio-di-tom
+dopo: [e05-01, e04-04]
+coinvolti: [tom, video-della-voss, cellulare-di-tom, signora-voss]
+sintesi: "Tom non apre il video al lavoro. Rimugina sulla frase della signora: consapevole non vuol dire benevolo."
+fatti:
+  - {testo: "La scelta di non aprirlo", fonte: "c5:11"}
+  - {testo: "«Consapevole non voleva dire benevolo»", fonte: "c5:13"}
+

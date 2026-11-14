@@ -1,6 +1,6 @@
 # Cellulare di Tom
 
-`cellulare-di-tom` · oggetto · capitoli: 4
+`cellulare-di-tom` · oggetto · capitoli: 4, 5
 
 Il telefono personale da cui Tom chiama la signora Voss. Lei ne conserva il numero e lo usa per WhatsApp.
 
@@ -8,6 +8,9 @@ Il telefono personale da cui Tom chiama la signora Voss. Lei ne conserva il nume
 
 - «Compose il numero dal proprio cellulare» *(cap. 4 r. 13)*
 - Tom non aveva previsto che la signora usasse quel numero per mandargli il video, ma non può tirarsi indietro *(cap. 4 r. 47-49)*
+- Tom non apre il video al lavoro: non vuole farsi sorprendere a guardare un video personale sul cellulare durante un turno *(cap. 5 r. 11)*
+- Per guardare il video lo appoggia contro una pila di libri sulla scrivania *(cap. 5 r. 17)*
+- Con questo richiama la signora due volte, senza risposta *(cap. 5 r. 35-39)*
 
 ## Punti aperti / da verificare
 
@@ -22,4 +25,7 @@ Il telefono personale da cui Tom chiama la signora Voss. Lei ne conserva il nume
 
 1. `e04-02` (cap. 4, la mattina dopo (mercoledì), nei quindici minuti di anticipo prima di uscire) — [Tom chiama la signora Voss fingendosi il controllo qualità](../eventi/e04-02.md)
 1. `e04-04` (cap. 4, durante la telefonata) — [«Ho un video, sa?» - la signora lo manderà su WhatsApp](../eventi/e04-04.md)
+1. `e05-02` (cap. 5, mercoledì, durante il turno) — [Un turno con la testa altrove - il video resta chiuso](../eventi/e05-02.md)
+1. `e05-03` (cap. 5, mercoledì sera, dopo cena) — [Tom decifra il video - STAI ESAGERANDO CON LO YOGA…](../eventi/e05-03.md)
+1. `e05-05` (cap. 5, giovedì mattina, nel quarto d'ora di anticipo) — [La signora Voss non risponde](../eventi/e05-05.md)
 
