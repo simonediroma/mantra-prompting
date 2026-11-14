@@ -1,0 +1,8 @@
+id: codice-morse
+nome: Codice Morse
+capitoli: [1, 3]
+sintesi: "Il codice in cui i due televisori rispondono, via LED. Tom lo riconosce perché lo ha imparato da bambino."
+caratteristiche:
+  - {testo: "Primo messaggio, come stampato nel testo: «.. --- / ... --- -. --- / --.- ..- ..»", fonte: "c1:35"}
+  - {testo: "Tom lo «sente» più che vederlo: corto e lungo, col fischio della valvola", fonte: "c1:33"}
+

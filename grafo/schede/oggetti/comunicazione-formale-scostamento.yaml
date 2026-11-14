@@ -1,0 +1,16 @@
+id: comunicazione-formale-scostamento
+nome: Comunicazione formale di scostamento
+capitoli: [2]
+sintesi: "Il richiamo che Tom trova il giorno dopo il primo contatto: 26:41 contro 14:00 consentiti, trattenuta di 47 minuti, firmato Pete."
+caratteristiche:
+  - {testo: "Titolo: «COMUNICAZIONE FORMALE: SCOSTAMENTO DA PROCEDURA STANDARD»", fonte: "c2:11"}
+  - {testo: "Tempo massimo 14 minuti; impiegato 26 minuti 41 secondi; scostamento 12 minuti 41 secondi", fonte: "c2:13-15"}
+  - {testo: "Richiamo formale con annotazione nel fascicolo personale", fonte: "c2:19"}
+  - {testo: "Trattenuta: 47 minuti di retribuzione. Formula: 12:41 × 2,5 (fattore turno pomeriggio) + 15:00 (supplemento base) = 46:43, arrotondato per eccesso", fonte: "c2:19-21"}
+  - {testo: "Non menziona che il ciclo diagnostico non è mai stato concluso", fonte: "c2:29"}
+relazioni:
+  - {verso: tom, tipo: "indirizzata a", fonte: "c2:9"}
+  - {verso: tv-caso-zero, tipo: "riguarda l'intervento su", fonte: "c2:12"}
+  - {verso: ciclo-diagnostico-14-minuti, tipo: "applica", fonte: "c2:13"}
+  - {verso: fattore-turno, tipo: "applica", fonte: "c2:21"}
+

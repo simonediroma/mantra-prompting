@@ -1,0 +1,11 @@
+id: terminale-del-turno
+nome: Terminale del turno
+capitoli: [2]
+sintesi: "Il terminale di Tom. Si accende con un accordo di tre note (dlin); mostra comunicazioni e registro interventi."
+caratteristiche:
+  - {testo: "Accordo di tre note, «dlin», voluto dall'HR", fonte: "c2:9"}
+  - {testo: "Icona rossa lampeggiante in alto a destra per le comunicazioni di «rilevanza personale»: in dodici anni mai una buona notizia", fonte: "c2:9"}
+relazioni:
+  - {verso: laboratorio-di-tom, tipo: "si trova in"}
+  - {verso: registro-interventi, tipo: "dà accesso a", fonte: "c2:29"}
+

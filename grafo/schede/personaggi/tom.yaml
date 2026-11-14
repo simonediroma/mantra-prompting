@@ -1,0 +1,42 @@
+id: tom
+nome: Tom
+capitoli: [1, 2, 3]
+sintesi: "Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3."
+caratteristiche:
+  - {testo: "53 anni", fonte: "c1:11"}
+  - {testo: "Alto, troppo per gli sgabelli da laboratorio, che disprezza apertamente; magro, di magrezza nervosa; pochi capelli", fonte: "c1:13"}
+  - {testo: "Occhiali da lettura calati sulla punta del naso (in laboratorio e la sera a casa)", fonte: "c1:13, c3:13"}
+  - {testo: "Felpa con cappuccio anche se in laboratorio si sta benissimo: vestirsi comodi è rispetto per sé e per il lavoro", fonte: "c1:13"}
+  - {testo: "Smanettone nel senso nobile: le cose le capisce aprendole, non leggendole", fonte: "c1:15"}
+  - {testo: "Dodici anni di assistenza in Meridian", fonte: "c1:23, c2:9"}
+  - {testo: "Da bambino parlava alle radio rotte sperando che rispondessero; da lì l'abitudine di interrogare gli apparecchi", fonte: "c1:29"}
+  - {testo: "Ha imparato il Morse da bambino con vecchie radio a valvole dei mercatini: la luce gli arriva in testa già tradotta in suono", fonte: "c1:33"}
+  - {testo: "Parla poco durante il giorno («io non parlo così spesso durante il giorno»)", fonte: "c1:27"}
+  - {testo: "Metodo: mai chiedere la verità direttamente, tendere trappole gentili e vedere cosa ci cade dentro", fonte: "c1:81"}
+  - {testo: "Davanti al primo messaggio non prova paura ma euforia per il meccanismo", fonte: "c1:47"}
+  - {testo: "Davanti alla sanzione non si arrabbia: freddezza, curiosità clinica", fonte: "c2:27"}
+  - {testo: "Trascrive a mano, su carta («come un uomo di un secolo sbagliato»)", fonte: "c1:37"}
+  - {testo: "Tiene chiusa la porta del laboratorio per non far entrare i colleghi", fonte: "c1:43"}
+  - {testo: "Ha incrociato Pete di persona sì e no tre volte in dodici anni; ne riconosce il passo e cambia strada", fonte: "c2:25"}
+  - {testo: "Va al lavoro in autobus; col turno di mattina esce di casa col buio", fonte: "c3:9"}
+  - {testo: "Lavora in piedi, appoggiato al banco con due mani", fonte: "c3:21"}
+  - {testo: "In dodici anni non aveva mai chiesto a un elettrodomestico come si sentisse", fonte: "c3:21"}
+stato:
+  - {cap: 1, testo: "Scopre che un televisore risponde in Morse; perde tempo oltre il limite; prende tempo etichettando l'unità come anomalia", fonte: "c1:97"}
+  - {cap: 2, testo: "Richiamo formale e trattenuta di 47 minuti; perde il televisore; decide di tenere lui il cronometro e un archivio privato", fonte: "c2:45"}
+  - {cap: 3, testo: "Da tre mesi è il tecnico più efficiente del reparto (margine medio 47 secondi); turno di mattina da qualche settimana; al secondo contatto conclude «ce n'è più di uno»", fonte: "c3:9, c3:37"}
+relazioni:
+  - {verso: meridian, tipo: "lavora per", fonte: "c1:17"}
+  - {verso: divisione-assistenza-tecnica, tipo: "tecnico della", fonte: "c2:23"}
+  - {verso: pete, tipo: "sottoposto di", nota: "lo evita; lo conosce quasi solo per iscritto", fonte: "c2:25"}
+  - {verso: laboratorio-di-tom, tipo: "lavora in", fonte: "c1:43"}
+  - {verso: casa-di-tom, tipo: "abita in", fonte: "c3:13"}
+  - {verso: giradischi-di-tom, tipo: "ha costruito", fonte: "c1:15"}
+  - {verso: audiofili-scandinavi, tipo: "seguito da", fonte: "c1:15"}
+  - {verso: quaderno-nero, tipo: "tiene", fonte: "c3:13"}
+  - {verso: foglio-io-sono-qui, tipo: "ha scritto", fonte: "c1:37"}
+  - {verso: ewatch, tipo: "indossa", nota: "obbligatorio in orario di lavoro", fonte: "c3:9"}
+  - {verso: rito-delle-domande, tipo: "pratica", fonte: "c1:29"}
+  - {verso: codice-morse, tipo: "conosce", fonte: "c1:33"}
+  - {verso: margine-47-secondi, tipo: "si impone", fonte: "c3:9"}
+

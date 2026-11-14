@@ -1,0 +1,22 @@
+id: quaderno-nero
+nome: Quaderno nero
+alias: ["l'archivio di Tom"]
+capitoli: [2, 3]
+sintesi: "L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera registra a memoria i guasti di tutti i televisori del modello del caso zero."
+caratteristiche:
+  - {testo: "Deciso a fine cap. 2: archivio privato, non protocollato, difeso di giorno dalla memoria e trascritto la sera a casa", fonte: "c2:45"}
+  - {testo: "Quaderno nero, copertina di cartone gonfia agli angoli, logo del fornitore mezzo scolorito sul dorso", fonte: "c3:13"}
+  - {testo: "Non entra mai in laboratorio, nemmeno per un giorno: basterebbe una tasca sbagliata o un controllo al varco", fonte: "c3:13"}
+  - {testo: "Sta accanto alla pila di manuali di elettronica", fonte: "c3:13, c3:39"}
+  - {testo: "Criterio: tutti i guasti dei TV di modello simile al caso zero, banali o no, per dedurre l'estensione dell'anomalia", fonte: "c3:13"}
+  - {testo: "Campi di ogni voce: modello, orario dell'ultimo log disponibile, contenuto esatto del messaggio, pattern LED presente/assente, dati essenziali del proprietario", fonte: "c3:13, c3:37"}
+  - {testo: "Voce 1: il caso zero, con nota a margine riscritta tre volte: «irripetibile? verificare.»", fonte: "c3:15"}
+  - {testo: "Voci 2-4: tre guasti veri e banali (alimentatori bruciati, un cortocircuito, un firmware corrotto in aggiornamento)", fonte: "c3:15"}
+  - {testo: "Voce 5: il secondo televisore, con la riga «ce n'è più di uno.»", fonte: "c3:37"}
+aperti:
+  - {testo: "Conteggio: «solo quattro volte in tutto» in tre mesi (c3 r. 15) comprende il caso zero + tre guasti banali; il secondo televisore è la quinta voce (c3 r. 37). Torna, ma il «quattro in tre mesi» include il caso zero, che sta all'inizio dei tre mesi."}
+relazioni:
+  - {verso: fornitore-del-quaderno, tipo: "regalato da", fonte: "c3:13"}
+  - {verso: tv-caso-zero, tipo: "registra (voce 1)", fonte: "c3:15"}
+  - {verso: tv-secondo-contatto, tipo: "registra (voce 5)", fonte: "c3:37"}
+

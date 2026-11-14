@@ -1,0 +1,8 @@
+id: negozio
+nome: Negozio (punto di consegna)
+capitoli: [3]
+sintesi: "Dove il cliente del secondo televisore lo ha consegnato e dove un addetto ha compilato la scheda."
+caratteristiche:
+  - {testo: "«Un addetto del negozio aveva battuto sotto dettatura due frasi»", fonte: "c3:17"}
+relazioni:
+  - {verso: addetto-negozio, tipo: "luogo di lavoro di"}

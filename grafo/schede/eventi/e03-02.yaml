@@ -1,0 +1,12 @@
+id: e03-02
+nome: Arriva il secondo televisore
+capitolo: 3
+ordine: 3.2
+quando: "un martedì, verso la fine del turno di mattina, tre mesi dopo il primo contatto"
+dove: laboratorio-di-tom
+dopo: [e03-01]
+coinvolti: [tom, tv-secondo-contatto, nastro, scheda-cliente-secondo-tv, cliente-secondo-tv, addetto-negozio, ewatch]
+sintesi: "Modello identico al caso zero. Sulla scheda: «Lampeggia in un modo strano», la frase che Tom aspettava da tre mesi."
+fatti:
+  - {testo: "L'arrivo e la scheda", fonte: "c3:17"}
+

@@ -1,0 +1,32 @@
+id: tv-caso-zero
+nome: Televisore del primo contatto (caso zero)
+alias: ["il televisore del primo contatto", "caso zero", "il primo televisore"]
+capitoli: [1, 2, 3]
+sintesi: "Il primo televisore Meridian che risponde a Tom in Morse («IO SONO QUI»). Riassegnato e resettato il giorno dopo."
+caratteristiche:
+  - {testo: "Modello consumer con IA di bordo per i consigli di visione", fonte: "c1:21"}
+  - {testo: "Scatola di plastica nera", fonte: "c1:45"}
+  - {testo: "Guasto dichiarato dal cliente: non si accende più, non risponde al telecomando", fonte: "c1:93"}
+  - {testo: "Verifica di conformità eseguita due volte: checksum pulito, firmware identico a quello di fabbrica, nessuna anomalia elettrica", fonte: "c1:23, c1:43"}
+  - {testo: "LED di accensione anomalo: fisso, poi spento, poi un pattern mai visto in dodici anni", fonte: "c1:23"}
+  - {testo: "Acceso da dodici minuti all'inizio del capitolo, senza aver emesso un suono", fonte: "c1:9"}
+  - {testo: "Messaggi in Morse: IO SONO QUI (due volte, identico), SI, NON LO SO (due volte), tre lampi a comando", fonte: "c1:39, c1:55, c1:61, c1:67, c1:71, c1:79"}
+  - {testo: "Tempi di risposta: 3 secondi prima di SI; pausa più lunga prima del primo NON LO SO; la più lunga di tutte prima di «Hai paura?»", fonte: "c1:53, c1:59, c1:77"}
+  - {testo: "Le risposte si diradano e il LED si spegne del tutto, da solo", fonte: "c1:81, c1:83"}
+  - {testo: "Nella comunicazione formale: «unità TV consumer, mod. [omesso in automatico]»", fonte: "c2:12"}
+  - {testo: "Arrivato a Tom nel turno di pomeriggio", fonte: "c3:9"}
+  - {testo: "Modello poco diffuso: in tre mesi a Tom ne capitano quattro in tutto", fonte: "c3:15"}
+stato:
+  - {cap: 1, testo: "Sul banco di Tom, retro aperto. A fine capitolo spento ed etichettato «anomalia riscontrata durante l'operazione»: rientra nella pipeline per un secondo giro di diagnosi", fonte: "c1:97"}
+  - {cap: 2, testo: "Riassegnato (Turno B, tecnico omesso), reset diagnostico completo «in corso». Tom non lo rivede", fonte: "c2:33-39"}
+  - {cap: 3, testo: "È la prima voce del quaderno, con la nota «irripetibile? verificare.»", fonte: "c3:15"}
+non_detto:
+  - {testo: "Il testo non mostra il reset: Tom lo presume dal registro («stava probabilmente già staccando l'alimentazione»)."}
+  - {testo: "Nome del modello e numero di serie non sono mai indicati."}
+relazioni:
+  - {verso: log-tv-caso-zero, tipo: "ha come log", fonte: "c1:85"}
+  - {verso: led-di-accensione, tipo: "comunica tramite", fonte: "c1:31"}
+  - {verso: codice-morse, tipo: "usa", fonte: "c1:33"}
+  - {verso: meridian, tipo: "prodotto da", fonte: "c1:21"}
+  - {verso: tv-secondo-contatto, tipo: "stesso modello di", fonte: "c3:17"}
+

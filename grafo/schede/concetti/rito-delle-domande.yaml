@@ -1,0 +1,9 @@
+id: rito-delle-domande
+nome: Il rito delle domande agli apparecchi
+capitoli: [1, 2, 3]
+sintesi: "Tom parla agli apparecchi guasti e tende loro trappole verbali: rito scaramantico e test di Turing improvvisato."
+caratteristiche:
+  - {testo: "Abitudine d'infanzia, mai insegnata da un manuale; non si aspetta risposta, per questo lo rassicura", fonte: "c1:29"}
+  - {testo: "Tecnica: comando arbitrario e verificabile, domanda ripetuta o capovolta per vedere se la risposta regge", fonte: "c1:65, c1:69, c3:27"}
+  - {testo: "Dopo la sanzione decide di continuare: «quella non gliela avrebbe tolta nessuna comunicazione formale»", fonte: "c2:45"}
+

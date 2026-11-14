@@ -1,0 +1,8 @@
+id: registro-interventi
+nome: Registro interventi
+capitoli: [2]
+sintesi: "Il registro in cui Tom, per abitudine, cerca l'unità del giorno prima e ne scopre la riassegnazione."
+caratteristiche:
+  - {testo: "Per il caso zero riporta: riassegnato, Turno B, Tecnico [omesso], reset diagnostico completo richiesto da coordinamento assistenza, in corso", fonte: "c2:33-37"}
+  - {testo: "Diciture possibili citate: «in coda», «in attesa di ulteriore diagnosi», «in lavorazione/in corso»", fonte: "c2:39"}
+

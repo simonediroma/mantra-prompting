@@ -1,0 +1,15 @@
+id: pete
+nome: Pete
+capitoli: [2]
+sintesi: "Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come firma in fondo alla comunicazione formale."
+caratteristiche:
+  - {testo: "Firma: «Pete, Supervisore, Divisione Assistenza Tecnica»", fonte: "c2:23"}
+  - {testo: "Si manifesta quasi solo per iscritto", fonte: "c2:25"}
+  - {testo: "Ha «piccoli giochi sadici da supervisore»", fonte: "c2:25"}
+  - {testo: "Paragonato a un piccione: non avverte prima e non si volta a controllare il danno", fonte: "c2:25"}
+non_detto:
+  - {testo: "Nei cap. 1-3 Pete non compare mai in scena e non parla."}
+relazioni:
+  - {verso: divisione-assistenza-tecnica, tipo: "supervisore della", fonte: "c2:23"}
+  - {verso: comunicazione-formale-scostamento, tipo: "firma", fonte: "c2:23"}
+

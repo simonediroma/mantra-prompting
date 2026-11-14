@@ -1,0 +1,13 @@
+id: casa-di-tom
+nome: Casa di Tom
+capitoli: [1, 3]
+sintesi: "Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera il quaderno nero."
+caratteristiche:
+  - {testo: "Scrivania con lampada da tavolo (la sola luce che accende per scrivere)", fonte: "c3:13"}
+  - {testo: "Pila di manuali di elettronica con cui ha imparato il mestiere; il quaderno le sta accanto", fonte: "c3:13"}
+  - {testo: "Alle due di notte, con un saldatore in mano, lavora al giradischi", fonte: "c1:15"}
+  - {testo: "Collegata al lavoro da un autobus", fonte: "c3:9"}
+relazioni:
+  - {verso: quaderno-nero, tipo: "custodisce", fonte: "c3:13"}
+  - {verso: giradischi-di-tom, tipo: "custodisce"}
+

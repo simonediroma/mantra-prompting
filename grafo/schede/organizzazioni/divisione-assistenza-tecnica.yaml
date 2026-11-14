@@ -1,0 +1,11 @@
+id: divisione-assistenza-tecnica
+nome: Divisione Assistenza Tecnica
+alias: ["reparto assistenza", "l'assistenza"]
+capitoli: [1, 2, 3]
+sintesi: "La divisione di Meridian in cui lavora Tom, supervisionata da Pete."
+caratteristiche:
+  - {testo: "Nome ufficiale nella firma di Pete", fonte: "c2:23"}
+  - {testo: "Tom ne diventa «il tecnico più efficiente»", fonte: "c3:9"}
+relazioni:
+  - {verso: meridian, tipo: "parte di"}
+

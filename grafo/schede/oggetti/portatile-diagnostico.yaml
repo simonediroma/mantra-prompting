@@ -1,0 +1,8 @@
+id: portatile-diagnostico
+nome: Portatile diagnostico
+capitoli: [1]
+sintesi: "Il portatile con cui Tom apre i log di sistema degli apparecchi sul banco."
+caratteristiche:
+  - {testo: "Tom lo tira a sé per aprire i log del caso zero", fonte: "c1:85"}
+  - {testo: "Gli apparecchi sul banco sono collegati alla rete aziendale solo dal cavo della diagnostica", fonte: "c1:43"}
+

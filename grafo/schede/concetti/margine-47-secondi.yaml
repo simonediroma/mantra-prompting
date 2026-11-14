@@ -1,0 +1,11 @@
+id: margine-47-secondi
+nome: Il 47 (minuti trattenuti, secondi di margine)
+capitoli: [2, 3]
+sintesi: "47 minuti è la trattenuta; 47 secondi è il margine medio sotto il limite che Tom si impone da allora, come rivincita invisibile."
+caratteristiche:
+  - {testo: "47 minuti di retribuzione trattenuti", fonte: "c2:19"}
+  - {testo: "Margine medio di 47 secondi sotto i 14 minuti, scelto apposta: abbastanza vicino da sembrare naturale, abbastanza lontano da non attirare attenzione", fonte: "c3:9"}
+  - {testo: "Effetto: Tom diventa «rumore di fondo», il dipendente che il controllo automatico smette di guardare", fonte: "c3:9"}
+relazioni:
+  - {verso: comunicazione-formale-scostamento, tipo: "nasce da", fonte: "c3:9"}
+

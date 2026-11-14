@@ -1,0 +1,13 @@
+id: sede-assistenza
+nome: Sede Meridian dell'assistenza
+capitoli: [1, 2, 3]
+sintesi: "L'edificio dove lavora Tom: corridoio, stanze dei tecnici, nastro, varco con controlli."
+caratteristiche:
+  - {testo: "Corridoio da cui si sentono terminale e nastro; ci passa Pete", fonte: "c2:9, c2:25"}
+  - {testo: "«Le stanze dei tecnici»: ogni tecnico ha la sua", fonte: "c2:9"}
+  - {testo: "Varco con controlli casuali", fonte: "c3:13"}
+non_detto:
+  - {testo: "Città e nome della sede non sono indicati nei cap. 1-3."}
+relazioni:
+  - {verso: meridian, tipo: "sede di"}
+

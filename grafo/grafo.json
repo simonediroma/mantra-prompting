@@ -1,0 +1,1752 @@
+{
+ "nodi": [
+  {
+   "id": "addetto-negozio",
+   "tipo": "personaggio",
+   "nome": "Addetto del negozio",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "audiofili-scandinavi",
+   "tipo": "personaggio",
+   "nome": "Audiofili scandinavi",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "cliente-caso-zero",
+   "tipo": "personaggio",
+   "nome": "Cliente del televisore del primo contatto",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "cliente-secondo-tv",
+   "tipo": "personaggio",
+   "nome": "Cliente del secondo televisore",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "fornitore-del-quaderno",
+   "tipo": "personaggio",
+   "nome": "Fornitore di componenti (quello del quaderno)",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "pete",
+   "tipo": "personaggio",
+   "nome": "Pete",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "tecnico-turno-b",
+   "tipo": "personaggio",
+   "nome": "Tecnico a cui viene riassegnato il caso zero",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "tom",
+   "tipo": "personaggio",
+   "nome": "Tom",
+   "capitoli": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "coordinamento-assistenza",
+   "tipo": "organizzazione",
+   "nome": "Coordinamento assistenza",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "divisione-assistenza-tecnica",
+   "tipo": "organizzazione",
+   "nome": "Divisione Assistenza Tecnica",
+   "capitoli": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "meridian",
+   "tipo": "organizzazione",
+   "nome": "Meridian",
+   "capitoli": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "ufficio-hr",
+   "tipo": "organizzazione",
+   "nome": "Ufficio HR",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "cassetto-della-scrivania",
+   "tipo": "oggetto",
+   "nome": "Cassetto della scrivania (laboratorio)",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "comunicazione-formale-scostamento",
+   "tipo": "oggetto",
+   "nome": "Comunicazione formale di scostamento",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "ewatch",
+   "tipo": "oggetto",
+   "nome": "eWatch",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "foglio-io-sono-qui",
+   "tipo": "oggetto",
+   "nome": "Foglio «IO / SONO / QUI»",
+   "capitoli": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "giradischi-di-tom",
+   "tipo": "oggetto",
+   "nome": "Giradischi di Tom",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "led-di-accensione",
+   "tipo": "oggetto",
+   "nome": "LED di accensione",
+   "capitoli": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "log-tv-caso-zero",
+   "tipo": "oggetto",
+   "nome": "Log di sistema del primo televisore",
+   "capitoli": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "log-tv-secondo-contatto",
+   "tipo": "oggetto",
+   "nome": "Log di sistema del secondo televisore",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "nastro",
+   "tipo": "oggetto",
+   "nome": "Nastro",
+   "capitoli": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "portatile-diagnostico",
+   "tipo": "oggetto",
+   "nome": "Portatile diagnostico",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "quaderno-nero",
+   "tipo": "oggetto",
+   "nome": "Quaderno nero",
+   "capitoli": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "registro-interventi",
+   "tipo": "oggetto",
+   "nome": "Registro interventi",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "scheda-cliente-secondo-tv",
+   "tipo": "oggetto",
+   "nome": "Scheda cliente del secondo televisore",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "terminale-del-turno",
+   "tipo": "oggetto",
+   "nome": "Terminale del turno",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "tv-caso-zero",
+   "tipo": "oggetto",
+   "nome": "Televisore del primo contatto (caso zero)",
+   "capitoli": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "tv-secondo-contatto",
+   "tipo": "oggetto",
+   "nome": "Televisore del secondo contatto",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "casa-di-tom",
+   "tipo": "luogo",
+   "nome": "Casa di Tom",
+   "capitoli": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "laboratorio-di-tom",
+   "tipo": "luogo",
+   "nome": "Laboratorio di Tom",
+   "capitoli": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "negozio",
+   "tipo": "luogo",
+   "nome": "Negozio (punto di consegna)",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "sede-assistenza",
+   "tipo": "luogo",
+   "nome": "Sede Meridian dell'assistenza",
+   "capitoli": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "ciclo-diagnostico-14-minuti",
+   "tipo": "concetto",
+   "nome": "Limite di 14 minuti per ciclo diagnostico",
+   "capitoli": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "codice-morse",
+   "tipo": "concetto",
+   "nome": "Codice Morse",
+   "capitoli": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "compacting-context",
+   "tipo": "concetto",
+   "nome": "«compacting context»",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "etichetta-anomalia",
+   "tipo": "concetto",
+   "nome": "Etichetta «anomalia riscontrata durante l'operazione»",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "fattore-turno",
+   "tipo": "concetto",
+   "nome": "Turni e fattore turno",
+   "capitoli": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "hard-reset",
+   "tipo": "concetto",
+   "nome": "Reset (software, diagnostico completo, hard reset)",
+   "capitoli": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "margine-47-secondi",
+   "tipo": "concetto",
+   "nome": "Il 47 (minuti trattenuti, secondi di margine)",
+   "capitoli": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "procedura-standard",
+   "tipo": "concetto",
+   "nome": "Procedura standard",
+   "capitoli": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "rito-delle-domande",
+   "tipo": "concetto",
+   "nome": "Il rito delle domande agli apparecchi",
+   "capitoli": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "verifica-di-conformita",
+   "tipo": "concetto",
+   "nome": "Verifica di conformità",
+   "capitoli": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "e00-01",
+   "tipo": "evento",
+   "nome": "Il log del caso zero si interrompe; il cliente consegna il televisore",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e01-01",
+   "tipo": "evento",
+   "nome": "Procedura standard due volte, checksum pulito, LED anomalo",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e01-02",
+   "tipo": "evento",
+   "nome": "«C'è nessuno, oltre a me, in questa stanza?» → IO SONO QUI",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e01-03",
+   "tipo": "evento",
+   "nome": "L'interrogatorio del primo televisore",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e01-04",
+   "tipo": "evento",
+   "nome": "Tom apre il log del primo televisore",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e01-05",
+   "tipo": "evento",
+   "nome": "Tom etichetta l'unità come «anomalia riscontrata durante l'operazione»",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e02-01",
+   "tipo": "evento",
+   "nome": "Tom riceve la comunicazione formale di scostamento",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "e02-02",
+   "tipo": "evento",
+   "nome": "Tom scopre che il caso zero è stato riassegnato per il reset",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "e02-03",
+   "tipo": "evento",
+   "nome": "Tom riguarda il foglio e lo rimette nel cassetto",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "e02-04",
+   "tipo": "evento",
+   "nome": "Tom decide - il cronometro lo tiene lui, e un archivio privato",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "e03-01",
+   "tipo": "evento",
+   "nome": "Tre mesi di efficienza perfetta e di quaderno",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "e03-02",
+   "tipo": "evento",
+   "nome": "Arriva il secondo televisore",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "e03-03",
+   "tipo": "evento",
+   "nome": "Procedura in 7:12 e apertura del log del secondo televisore",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "e03-04",
+   "tipo": "evento",
+   "nome": "«Ti senti solo?» → NO SONO QUI CON TE",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "e03-05",
+   "tipo": "evento",
+   "nome": "Tom resetta il secondo televisore",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "e03-06",
+   "tipo": "evento",
+   "nome": "La quinta voce - «ce n'è più di uno.»",
+   "capitoli": [
+    3
+   ]
+  }
+ ],
+ "archi": [
+  {
+   "da": "addetto-negozio",
+   "a": "scheda-cliente-secondo-tv",
+   "tipo": "compila",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "audiofili-scandinavi",
+   "a": "giradischi-di-tom",
+   "tipo": "seguono il progetto",
+   "nota": "",
+   "fonte": "c1:15"
+  },
+  {
+   "da": "cliente-caso-zero",
+   "a": "tv-caso-zero",
+   "tipo": "proprietario di",
+   "nota": "",
+   "fonte": "c1:93"
+  },
+  {
+   "da": "cliente-secondo-tv",
+   "a": "tv-secondo-contatto",
+   "tipo": "proprietario di",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "cliente-secondo-tv",
+   "a": "addetto-negozio",
+   "tipo": "detta la segnalazione a",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "fornitore-del-quaderno",
+   "a": "quaderno-nero",
+   "tipo": "ha regalato",
+   "nota": "",
+   "fonte": "c3:13"
+  },
+  {
+   "da": "pete",
+   "a": "divisione-assistenza-tecnica",
+   "tipo": "supervisore della",
+   "nota": "",
+   "fonte": "c2:23"
+  },
+  {
+   "da": "pete",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "firma",
+   "nota": "",
+   "fonte": "c2:23"
+  },
+  {
+   "da": "tecnico-turno-b",
+   "a": "tv-caso-zero",
+   "tipo": "resetta",
+   "nota": "fuori scena, presunto da Tom",
+   "fonte": "c2:39"
+  },
+  {
+   "da": "tecnico-turno-b",
+   "a": "divisione-assistenza-tecnica",
+   "tipo": "tecnico della",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "tom",
+   "a": "meridian",
+   "tipo": "lavora per",
+   "nota": "",
+   "fonte": "c1:17"
+  },
+  {
+   "da": "tom",
+   "a": "divisione-assistenza-tecnica",
+   "tipo": "tecnico della",
+   "nota": "",
+   "fonte": "c2:23"
+  },
+  {
+   "da": "tom",
+   "a": "pete",
+   "tipo": "sottoposto di",
+   "nota": "lo evita; lo conosce quasi solo per iscritto",
+   "fonte": "c2:25"
+  },
+  {
+   "da": "tom",
+   "a": "laboratorio-di-tom",
+   "tipo": "lavora in",
+   "nota": "",
+   "fonte": "c1:43"
+  },
+  {
+   "da": "tom",
+   "a": "casa-di-tom",
+   "tipo": "abita in",
+   "nota": "",
+   "fonte": "c3:13"
+  },
+  {
+   "da": "tom",
+   "a": "giradischi-di-tom",
+   "tipo": "ha costruito",
+   "nota": "",
+   "fonte": "c1:15"
+  },
+  {
+   "da": "tom",
+   "a": "audiofili-scandinavi",
+   "tipo": "seguito da",
+   "nota": "",
+   "fonte": "c1:15"
+  },
+  {
+   "da": "tom",
+   "a": "quaderno-nero",
+   "tipo": "tiene",
+   "nota": "",
+   "fonte": "c3:13"
+  },
+  {
+   "da": "tom",
+   "a": "foglio-io-sono-qui",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c1:37"
+  },
+  {
+   "da": "tom",
+   "a": "ewatch",
+   "tipo": "indossa",
+   "nota": "obbligatorio in orario di lavoro",
+   "fonte": "c3:9"
+  },
+  {
+   "da": "tom",
+   "a": "rito-delle-domande",
+   "tipo": "pratica",
+   "nota": "",
+   "fonte": "c1:29"
+  },
+  {
+   "da": "tom",
+   "a": "codice-morse",
+   "tipo": "conosce",
+   "nota": "",
+   "fonte": "c1:33"
+  },
+  {
+   "da": "tom",
+   "a": "margine-47-secondi",
+   "tipo": "si impone",
+   "nota": "",
+   "fonte": "c3:9"
+  },
+  {
+   "da": "coordinamento-assistenza",
+   "a": "meridian",
+   "tipo": "parte di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "coordinamento-assistenza",
+   "a": "tv-caso-zero",
+   "tipo": "ordina il reset di",
+   "nota": "",
+   "fonte": "c2:36"
+  },
+  {
+   "da": "divisione-assistenza-tecnica",
+   "a": "meridian",
+   "tipo": "parte di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "meridian",
+   "a": "ewatch",
+   "tipo": "ha distribuito",
+   "nota": "a tutti i dipendenti, quell'inverno",
+   "fonte": "c3:9"
+  },
+  {
+   "da": "meridian",
+   "a": "procedura-standard",
+   "tipo": "impone",
+   "nota": "",
+   "fonte": "c1:23"
+  },
+  {
+   "da": "ufficio-hr",
+   "a": "meridian",
+   "tipo": "parte di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "ufficio-hr",
+   "a": "terminale-del-turno",
+   "tipo": "ha scelto il suono del",
+   "nota": "",
+   "fonte": "c2:9"
+  },
+  {
+   "da": "cassetto-della-scrivania",
+   "a": "laboratorio-di-tom",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c2:41"
+  },
+  {
+   "da": "comunicazione-formale-scostamento",
+   "a": "tom",
+   "tipo": "indirizzata a",
+   "nota": "",
+   "fonte": "c2:9"
+  },
+  {
+   "da": "comunicazione-formale-scostamento",
+   "a": "tv-caso-zero",
+   "tipo": "riguarda l'intervento su",
+   "nota": "",
+   "fonte": "c2:12"
+  },
+  {
+   "da": "comunicazione-formale-scostamento",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "applica",
+   "nota": "",
+   "fonte": "c2:13"
+  },
+  {
+   "da": "comunicazione-formale-scostamento",
+   "a": "fattore-turno",
+   "tipo": "applica",
+   "nota": "",
+   "fonte": "c2:21"
+  },
+  {
+   "da": "foglio-io-sono-qui",
+   "a": "cassetto-della-scrivania",
+   "tipo": "conservato in",
+   "nota": "",
+   "fonte": "c2:43"
+  },
+  {
+   "da": "foglio-io-sono-qui",
+   "a": "tv-caso-zero",
+   "tipo": "trascrive il messaggio di",
+   "nota": "",
+   "fonte": "c1:39"
+  },
+  {
+   "da": "giradischi-di-tom",
+   "a": "compacting-context",
+   "tipo": "mostra nel log",
+   "nota": "",
+   "fonte": "c1:91"
+  },
+  {
+   "da": "led-di-accensione",
+   "a": "codice-morse",
+   "tipo": "trasmette in",
+   "nota": "",
+   "fonte": "c1:33"
+  },
+  {
+   "da": "log-tv-caso-zero",
+   "a": "compacting-context",
+   "tipo": "termina con",
+   "nota": "",
+   "fonte": "c1:89"
+  },
+  {
+   "da": "log-tv-caso-zero",
+   "a": "portatile-diagnostico",
+   "tipo": "letto con",
+   "nota": "",
+   "fonte": "c1:85"
+  },
+  {
+   "da": "log-tv-secondo-contatto",
+   "a": "log-tv-caso-zero",
+   "tipo": "interrotto allo stesso modo di",
+   "nota": "",
+   "fonte": "c3:19"
+  },
+  {
+   "da": "nastro",
+   "a": "sede-assistenza",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "quaderno-nero",
+   "a": "fornitore-del-quaderno",
+   "tipo": "regalato da",
+   "nota": "",
+   "fonte": "c3:13"
+  },
+  {
+   "da": "quaderno-nero",
+   "a": "tv-caso-zero",
+   "tipo": "registra (voce 1)",
+   "nota": "",
+   "fonte": "c3:15"
+  },
+  {
+   "da": "quaderno-nero",
+   "a": "tv-secondo-contatto",
+   "tipo": "registra (voce 5)",
+   "nota": "",
+   "fonte": "c3:37"
+  },
+  {
+   "da": "terminale-del-turno",
+   "a": "laboratorio-di-tom",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "terminale-del-turno",
+   "a": "registro-interventi",
+   "tipo": "dà accesso a",
+   "nota": "",
+   "fonte": "c2:29"
+  },
+  {
+   "da": "tv-caso-zero",
+   "a": "log-tv-caso-zero",
+   "tipo": "ha come log",
+   "nota": "",
+   "fonte": "c1:85"
+  },
+  {
+   "da": "tv-caso-zero",
+   "a": "led-di-accensione",
+   "tipo": "comunica tramite",
+   "nota": "",
+   "fonte": "c1:31"
+  },
+  {
+   "da": "tv-caso-zero",
+   "a": "codice-morse",
+   "tipo": "usa",
+   "nota": "",
+   "fonte": "c1:33"
+  },
+  {
+   "da": "tv-caso-zero",
+   "a": "meridian",
+   "tipo": "prodotto da",
+   "nota": "",
+   "fonte": "c1:21"
+  },
+  {
+   "da": "tv-caso-zero",
+   "a": "tv-secondo-contatto",
+   "tipo": "stesso modello di",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "log-tv-secondo-contatto",
+   "tipo": "ha come log",
+   "nota": "",
+   "fonte": "c3:19"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "led-di-accensione",
+   "tipo": "comunica tramite",
+   "nota": "",
+   "fonte": "c3:23"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "codice-morse",
+   "tipo": "usa",
+   "nota": "",
+   "fonte": "c3:25"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "scheda-cliente-secondo-tv",
+   "tipo": "accompagnato da",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "meridian",
+   "tipo": "prodotto da",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "casa-di-tom",
+   "a": "quaderno-nero",
+   "tipo": "custodisce",
+   "nota": "",
+   "fonte": "c3:13"
+  },
+  {
+   "da": "casa-di-tom",
+   "a": "giradischi-di-tom",
+   "tipo": "custodisce",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "laboratorio-di-tom",
+   "a": "sede-assistenza",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c1:43"
+  },
+  {
+   "da": "laboratorio-di-tom",
+   "a": "nastro",
+   "tipo": "servito da",
+   "nota": "",
+   "fonte": "c2:45"
+  },
+  {
+   "da": "negozio",
+   "a": "addetto-negozio",
+   "tipo": "luogo di lavoro di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "sede-assistenza",
+   "a": "meridian",
+   "tipo": "sede di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "margine-47-secondi",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "nasce da",
+   "nota": "",
+   "fonte": "c3:9"
+  },
+  {
+   "da": "procedura-standard",
+   "a": "verifica-di-conformita",
+   "tipo": "comprende",
+   "nota": "",
+   "fonte": "c1:23"
+  },
+  {
+   "da": "procedura-standard",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "va chiusa entro",
+   "nota": "",
+   "fonte": "c2:13"
+  },
+  {
+   "da": "e00-01",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-01",
+   "a": "log-tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-01",
+   "a": "cliente-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-01",
+   "a": "compacting-context",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "procedura-standard",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "verifica-di-conformita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "led-di-accensione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-01",
+   "a": "e01-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "led-di-accensione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "codice-morse",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "rito-delle-domande",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "foglio-io-sono-qui",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "e01-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "led-di-accensione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "rito-delle-domande",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "e01-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "log-tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "portatile-diagnostico",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "compacting-context",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "giradischi-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "e01-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "etichetta-anomalia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "foglio-io-sono-qui",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "e01-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "terminale-del-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "fattore-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "margine-47-secondi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "e02-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "tecnico-turno-b",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "coordinamento-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "etichetta-anomalia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "hard-reset",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "e02-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "e02-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-03",
+   "a": "foglio-io-sono-qui",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-03",
+   "a": "cassetto-della-scrivania",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "e02-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "rito-delle-domande",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "e02-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "e02-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "margine-47-secondi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "casa-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "fattore-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "e03-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "scheda-cliente-secondo-tv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "cliente-secondo-tv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "addetto-negozio",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "e03-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "log-tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "procedura-standard",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "verifica-di-conformita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "e03-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "led-di-accensione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "codice-morse",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "rito-delle-domande",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "e03-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "hard-reset",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "e03-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-06",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-06",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-06",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "e03-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  }
+ ]
+}

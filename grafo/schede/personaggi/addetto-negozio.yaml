@@ -1,0 +1,9 @@
+id: addetto-negozio
+nome: Addetto del negozio
+capitoli: [3]
+sintesi: "Ha battuto sotto dettatura la scheda cliente del secondo televisore."
+caratteristiche:
+  - {testo: "Batte «sotto dettatura» due frasi sulla scheda", fonte: "c3:17"}
+relazioni:
+  - {verso: scheda-cliente-secondo-tv, tipo: "compila", fonte: "c3:17"}
+

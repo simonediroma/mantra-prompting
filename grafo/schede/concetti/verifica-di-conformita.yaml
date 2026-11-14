@@ -1,0 +1,9 @@
+id: verifica-di-conformita
+nome: Verifica di conformità
+capitoli: [1, 3]
+sintesi: "La batteria di test sul firmware dei chip. Più che trovare guasti serve a scoprire se il cliente ha toccato il firmware proprietario."
+caratteristiche:
+  - {testo: "Esito sul caso zero: checksum pulito, codice genuino al cento per cento", fonte: "c1:23"}
+  - {testo: "Limite: nessun checksum dice cosa quel codice originale decide di fare una volta acceso", fonte: "c1:23"}
+  - {testo: "Sul secondo televisore: «checksum pulito, ovviamente, lo era sempre»", fonte: "c3:19"}
+

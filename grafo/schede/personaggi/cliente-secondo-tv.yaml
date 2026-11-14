@@ -1,0 +1,13 @@
+id: cliente-secondo-tv
+nome: Cliente del secondo televisore
+capitoli: [3]
+sintesi: "Proprietario del televisore del secondo contatto. Nel cap. 3 non ha nome: di lui/lei restano le due frasi dettate al negozio."
+caratteristiche:
+  - {testo: "Ha dettato all'addetto del negozio: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
+  - {testo: "I suoi dati finiscono nella quinta voce del quaderno", fonte: "c3:37"}
+non_detto:
+  - {testo: "Il cap. 3 non dà nome né sesso al cliente. Da completare quando un capitolo successivo lo identifica."}
+relazioni:
+  - {verso: tv-secondo-contatto, tipo: "proprietario di", fonte: "c3:17"}
+  - {verso: addetto-negozio, tipo: "detta la segnalazione a", fonte: "c3:17"}
+

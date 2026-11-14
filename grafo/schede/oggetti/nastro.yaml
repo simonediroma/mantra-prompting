@@ -1,0 +1,10 @@
+id: nastro
+nome: Nastro
+capitoli: [2, 3]
+sintesi: "Il nastro che porta gli apparecchi alle stanze dei tecnici. Fruscio in corridoio, «clac» a ogni consegna."
+caratteristiche:
+  - {testo: "Fruscio udibile dal corridoio a inizio turno", fonte: "c2:9"}
+  - {testo: "Passa dietro la parete del laboratorio; fa «clac» quando consegna", fonte: "c2:45, c3:17"}
+relazioni:
+  - {verso: sede-assistenza, tipo: "si trova in"}
+

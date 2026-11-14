@@ -1,0 +1,13 @@
+id: log-tv-secondo-contatto
+nome: Log di sistema del secondo televisore
+capitoli: [3]
+sintesi: "TOM LO APRE. Dopo la procedura standard e prima di fare la domanda: si interrompe di netto, senza un errore, come quello del primo televisore."
+caratteristiche:
+  - {testo: "«Aprì anche il log, che si interrompeva di netto, senza un errore come il primo televisore.»", fonte: "c3:19"}
+  - {testo: "Lo apre PRIMA della domanda (nel cap. 1 il log era stato aperto DOPO la conversazione)", fonte: "c3:19"}
+  - {testo: "«Orario dell'ultimo log disponibile» è uno dei campi che Tom riporta nel quaderno per ogni caso", fonte: "c3:13"}
+non_detto:
+  - {testo: "Il cap. 3 non cita l'ultima riga del log né la sua data: dice solo che il taglio è netto come nel primo. Che l'ultima riga sia «compacting context» qui NON è scritto."}
+relazioni:
+  - {verso: log-tv-caso-zero, tipo: "interrotto allo stesso modo di", fonte: "c3:19"}
+

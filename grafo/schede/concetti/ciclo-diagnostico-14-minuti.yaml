@@ -1,0 +1,9 @@
+id: ciclo-diagnostico-14-minuti
+nome: Limite di 14 minuti per ciclo diagnostico
+capitoli: [2, 3]
+sintesi: "Il tempo massimo consentito per un ciclo diagnostico completo. Superarlo genera una comunicazione formale."
+caratteristiche:
+  - {testo: "14 minuti per ciclo diagnostico completo", fonte: "c2:13"}
+  - {testo: "Il modulo prevede «tempo eccedente» ma non «intervento mai terminato»", fonte: "c2:29"}
+  - {testo: "7:12 è «metà del tempo consentito»; ne restano «quasi sette»", fonte: "c3:19"}
+

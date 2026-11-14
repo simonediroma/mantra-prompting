@@ -1,0 +1,14 @@
+id: procedura-standard
+nome: Procedura standard
+capitoli: [1, 2, 3]
+sintesi: "La sequenza di diagnosi che Meridian impone entro tempi prestabiliti."
+caratteristiche:
+  - {testo: "Cap. 1: alimentazione, controllo dei condensatori, reset software, test diagnostici sul firmware (verifica di conformità)", fonte: "c1:23"}
+  - {testo: "Cap. 3: alimentazione, condensatori, verifica di conformità, reset software, un riavvio", fonte: "c3:19"}
+  - {testo: "Nel cap. 1 Tom la esegue due volte; nel cap. 3 una volta, in 7:12", fonte: "c1:23, c3:19"}
+aperti:
+  - {testo: "Nel cap. 3 Tom apre il log («Aprì anche il log») come passo in più: l'apertura del log non fa parte dell'elenco della procedura in nessuno dei due capitoli."}
+relazioni:
+  - {verso: verifica-di-conformita, tipo: "comprende", fonte: "c1:23"}
+  - {verso: ciclo-diagnostico-14-minuti, tipo: "va chiusa entro", fonte: "c2:13"}
+

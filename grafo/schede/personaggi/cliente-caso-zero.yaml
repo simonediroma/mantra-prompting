@@ -1,0 +1,11 @@
+id: cliente-caso-zero
+nome: Cliente del televisore del primo contatto
+capitoli: [1]
+sintesi: "Proprietario senza nome del caso zero. Ha consegnato il televisore lamentando che non si accendeva e non rispondeva al telecomando."
+caratteristiche:
+  - {testo: "Lamentela: non si accende più, non risponde al telecomando", fonte: "c1:93"}
+non_detto:
+  - {testo: "Nome, sesso, città: mai indicati. I «dati essenziali del proprietario» stanno nella prima voce del quaderno, ma il testo non li riporta."}
+relazioni:
+  - {verso: tv-caso-zero, tipo: "proprietario di", fonte: "c1:93"}
+

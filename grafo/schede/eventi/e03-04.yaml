@@ -1,0 +1,14 @@
+id: e03-04
+nome: «Ti senti solo?» → NO SONO QUI CON TE
+capitolo: 3
+ordine: 3.4
+quando: "stesso intervento, nei minuti rimasti"
+dove: laboratorio-di-tom
+dopo: [e03-03]
+coinvolti: [tom, tv-secondo-contatto, led-di-accensione, codice-morse, rito-delle-domande]
+sintesi: "Tom fa una sola domanda, due volte. Risposta identica. Lo colpisce la precisione: l'apparecchio sembra sapere con chi ha a che fare. Ipotesi: un microfono."
+fatti:
+  - {testo: "La domanda, in piedi, appoggiato al banco", fonte: "c3:21"}
+  - {testo: "Le due risposte identiche", fonte: "c3:25-31"}
+  - {testo: "La riflessione sul microfono", fonte: "c3:33"}
+

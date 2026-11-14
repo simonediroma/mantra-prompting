@@ -1,0 +1,26 @@
+id: tv-secondo-contatto
+nome: Televisore del secondo contatto
+alias: ["il secondo televisore", "quinta voce del quaderno"]
+capitoli: [3]
+sintesi: "Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi dopo. Risponde «NO SONO QUI CON TE». Tom ne apre il log e poi lo resetta lui stesso."
+caratteristiche:
+  - {testo: "Modello identico a quello di tre mesi prima", fonte: "c3:17"}
+  - {testo: "Arriva un martedì, verso la fine del turno (di mattina), sul nastro, con la scheda cliente in una busta di plastica sul retro", fonte: "c3:17, c3:9"}
+  - {testo: "Segnalazione: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
+  - {testo: "Procedura standard in 7 minuti e 12 secondi: alimentazione, condensatori, verifica di conformità (checksum pulito), reset software, un riavvio", fonte: "c3:19"}
+  - {testo: "Tom apre il log: si interrompe di netto, senza un errore, come il primo televisore", fonte: "c3:19"}
+  - {testo: "Alla domanda «Ti senti solo?» risponde NO SONO QUI CON TE, due volte, identico", fonte: "c3:25, c3:29"}
+  - {testo: "Tom ipotizza un microfono che gli ha colto la voce, ma la precisione della risposta gli resta addosso", fonte: "c3:33"}
+  - {testo: "Spento e riportato ai valori di fabbrica con un hard reset, da Tom, secondo procedura", fonte: "c3:35"}
+stato:
+  - {cap: 3, testo: "Resettato da Tom (hard reset). Registrato la sera come quinta voce del quaderno", fonte: "c3:35-37"}
+non_detto:
+  - {testo: "Il cap. 3 non dice il nome del proprietario."}
+  - {testo: "Dopo il reset software e il riavvio della procedura (c3 r. 19) l'apparecchio risponde ancora: solo l'hard reset finale (c3 r. 35) lo riporta ai valori di fabbrica."}
+relazioni:
+  - {verso: log-tv-secondo-contatto, tipo: "ha come log", fonte: "c3:19"}
+  - {verso: led-di-accensione, tipo: "comunica tramite", fonte: "c3:23"}
+  - {verso: codice-morse, tipo: "usa", fonte: "c3:25"}
+  - {verso: scheda-cliente-secondo-tv, tipo: "accompagnato da", fonte: "c3:17"}
+  - {verso: meridian, tipo: "prodotto da"}
+

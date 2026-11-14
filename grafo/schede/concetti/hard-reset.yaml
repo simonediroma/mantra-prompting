@@ -1,0 +1,11 @@
+id: hard-reset
+nome: Reset (software, diagnostico completo, hard reset)
+capitoli: [1, 2, 3]
+sintesi: "I tre reset nominati nei cap. 1-3. Vanno tenuti distinti."
+caratteristiche:
+  - {testo: "Reset software: passo della procedura standard. Sul secondo televisore NON spegne il fenomeno", fonte: "c1:23, c3:19"}
+  - {testo: "Reset diagnostico completo: quello ordinato dal coordinamento sul caso zero; per Tom cancella «tutto quello che ci fosse ancora là dentro»", fonte: "c2:36, c2:39"}
+  - {testo: "Hard reset ai valori di fabbrica: quello che Tom fa sul secondo televisore, «secondo procedura», come si era promesso per ogni caso ripetuto", fonte: "c3:35"}
+aperti:
+  - {testo: "Sul caso zero Tom fa due volte la procedura (che include il reset software) e l'apparecchio parla comunque; nel cap. 1 r. 97 teme però che «un reset qualunque» cancelli tutto. Da tenere coerente: quale reset cancella cosa."}
+

@@ -1,0 +1,14 @@
+id: e02-01
+nome: Tom riceve la comunicazione formale di scostamento
+capitolo: 2
+ordine: 2.1
+quando: "il giorno dopo il primo contatto, inizio turno"
+dove: laboratorio-di-tom
+dopo: [e01-05]
+coinvolti: [tom, pete, terminale-del-turno, comunicazione-formale-scostamento, ciclo-diagnostico-14-minuti, fattore-turno, margine-47-secondi]
+sintesi: "Icona rossa sul terminale: richiamo formale e trattenuta di 47 minuti, firmati Pete. Tom non si arrabbia."
+fatti:
+  - {testo: "Scostamento 12:41 su 14:00", fonte: "c2:13-15"}
+  - {testo: "Trattenuta e formula", fonte: "c2:19-21"}
+  - {testo: "«Nel giro di ventiquattr'ore» dal primo contatto", fonte: "c2:45"}
+

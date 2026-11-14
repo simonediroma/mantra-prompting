@@ -1,0 +1,7 @@
+id: scheda-cliente-secondo-tv
+nome: Scheda cliente del secondo televisore
+capitoli: [3]
+sintesi: "La scheda nella busta di plastica appiccicata sul retro del secondo televisore."
+caratteristiche:
+  - {testo: "Due frasi battute sotto dettatura: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
+  - {testo: "La seconda è «la frase che aspettava da tre mesi»: Tom la legge due volte", fonte: "c3:17"}

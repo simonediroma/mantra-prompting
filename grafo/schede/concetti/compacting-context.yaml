@@ -1,0 +1,11 @@
+id: compacting-context
+nome: «compacting context»
+capitoli: [1]
+sintesi: "L'ultima riga del log del caso zero. Tom la conosce dal giradischi: la pausa di un modello IA che riassume troppi dati."
+caratteristiche:
+  - {testo: "Ultima riga del log del primo televisore", fonte: "c1:89"}
+  - {testo: "Sul giradischi compare ogni volta che il modellino IA si ferma a riassumere: «una pausa per fare spazio, niente di più»", fonte: "c1:91"}
+  - {testo: "Nel caso zero la riga ha data anteriore alla consegna dell'apparecchio", fonte: "c1:93"}
+non_detto:
+  - {testo: "Nei cap. 2 e 3 la stringa non compare. Per il secondo televisore il testo dice solo che il log si interrompe di netto."}
+

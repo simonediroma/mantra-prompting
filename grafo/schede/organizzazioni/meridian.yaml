@@ -1,0 +1,19 @@
+id: meridian
+nome: Meridian
+capitoli: [1, 2, 3]
+sintesi: "L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l'intera filiera dal silicio al robot da cucina."
+caratteristiche:
+  - {testo: "Nata negli anni Novanta per scrivere sistemi operativi per computer di casa; oggi produce i chip degli elettrodomestici", fonte: "c1:19"}
+  - {testo: "Ha attraversato datacenter, semiconduttori e la bolla dell'intelligenza artificiale, che ha fatto fallire mezzo settore; è rimasta in piedi «per pura fortuna di essere arrivata ovunque»", fonte: "c1:19"}
+  - {testo: "Ventimila e passa dipendenti nel mondo, chiamati «Meridians»", fonte: "c1:19, c3:9"}
+  - {testo: "Elettrodomestici con AI integrata; la pubblicità attribuisce loro un carattere", fonte: "c1:17, c1:21"}
+  - {testo: "Firmware proprietario: la verifica di conformità serve a scoprire manomissioni dei clienti", fonte: "c1:23"}
+  - {testo: "Turni misurati al minuto; retorica della «qualità della vita di tutti i Meridians» e dell'«equità di trattamento su scala globale»", fonte: "c1:95, c2:19"}
+  - {testo: "Non punisce la curiosità, punisce lo scostamento", fonte: "c2:27"}
+  - {testo: "Sa misurare i minuti ma non si accorge di un lavoro rimasto a metà: il modulo ha la casella «tempo eccedente», non «intervento mai terminato»", fonte: "c2:29"}
+  - {testo: "Controlli casuali al varco", fonte: "c3:13"}
+  - {testo: "I turni ruotano (mattino, pomeriggio, notte) secondo una tabella che nessuno ha mai capito", fonte: "c3:9"}
+relazioni:
+  - {verso: ewatch, tipo: "ha distribuito", nota: "a tutti i dipendenti, quell'inverno", fonte: "c3:9"}
+  - {verso: procedura-standard, tipo: "impone", fonte: "c1:23"}
+

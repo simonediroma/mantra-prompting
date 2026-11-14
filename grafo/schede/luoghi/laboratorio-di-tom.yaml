@@ -1,0 +1,21 @@
+id: laboratorio-di-tom
+nome: Laboratorio di Tom
+alias: ["la stanza di Tom"]
+capitoli: [1, 2, 3]
+sintesi: "La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza finestre, porta chiusa."
+caratteristiche:
+  - {testo: "Sul retro dell'assistenza, isolato dal resto dell'edificio da una porta che Tom tiene chiusa", fonte: "c1:43"}
+  - {testo: "Pareti insonorizzate", fonte: "c1:11"}
+  - {testo: "Luce fredda; neon che fa la stessa luce a gennaio e ad aprile; nessuna finestra", fonte: "c1:11, c3:9"}
+  - {testo: "Ronzio basso dell'alimentatore da banco; odore di flussante che non se ne va mai", fonte: "c1:11"}
+  - {testo: "Apparecchi sul banco fuori dalla rete aziendale, a parte il cavo della diagnostica; senza altoparlanti", fonte: "c1:43"}
+  - {testo: "Banco di lavoro; sgabelli da laboratorio troppo bassi per Tom", fonte: "c1:11, c1:13, c3:21"}
+  - {testo: "Scrivania con un cassetto che si incastra a metà corsa", fonte: "c2:41"}
+  - {testo: "Dietro una parete passa il nastro, che consegna gli apparecchi", fonte: "c2:45"}
+  - {testo: "Il terminale del turno si sente dal corridoio prima di aprire la porta", fonte: "c2:9"}
+aperti:
+  - {testo: "«Senza altoparlanti» (c1 r. 43) si riferisce alla stanza: va tenuto distinto dal fatto che il televisore possa avere un microfono (c3 r. 33)."}
+relazioni:
+  - {verso: sede-assistenza, tipo: "si trova in", fonte: "c1:43"}
+  - {verso: nastro, tipo: "servito da", fonte: "c2:45"}
+

@@ -1,0 +1,12 @@
+id: coordinamento-assistenza
+nome: Coordinamento assistenza
+capitoli: [2]
+sintesi: "Chi richiede il reset diagnostico completo del caso zero. Compare solo come dicitura nel registro interventi."
+caratteristiche:
+  - {testo: "«Motivo: reset diagnostico completo richiesto da coordinamento assistenza»", fonte: "c2:36"}
+non_detto:
+  - {testo: "Chi sia, e se coincida con Pete, il testo non lo dice."}
+relazioni:
+  - {verso: meridian, tipo: "parte di"}
+  - {verso: tv-caso-zero, tipo: "ordina il reset di", fonte: "c2:36"}
+

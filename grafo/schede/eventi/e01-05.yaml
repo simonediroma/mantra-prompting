@@ -1,0 +1,14 @@
+id: e01-05
+nome: Tom etichetta l'unità come «anomalia riscontrata durante l'operazione»
+capitolo: 1
+ordine: 1.5
+quando: "fine dell'intervento (26:41 in totale)"
+dove: laboratorio-di-tom
+dopo: [e01-04]
+coinvolti: [tom, tv-caso-zero, etichetta-anomalia, foglio-io-sono-qui]
+sintesi: "Per non chiudere con un reset, Tom rimanda il televisore nella pipeline sperando di riprenderlo il giorno dopo. Non conclude il ciclo diagnostico."
+fatti:
+  - {testo: "L'etichetta e il suo scopo", fonte: "c1:97"}
+  - {testo: "Durata totale dell'intervento: 26 minuti 41 secondi", fonte: "c2:14"}
+  - {testo: "Il ciclo diagnostico non è mai stato concluso", fonte: "c2:29"}
+

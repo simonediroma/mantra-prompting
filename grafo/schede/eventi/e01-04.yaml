@@ -1,0 +1,14 @@
+id: e01-04
+nome: Tom apre il log del primo televisore
+capitolo: 1
+ordine: 1.4
+quando: "trenta secondi dopo lo spegnimento del LED"
+dove: laboratorio-di-tom
+dopo: [e01-03]
+coinvolti: [tom, tv-caso-zero, log-tv-caso-zero, portatile-diagnostico, compacting-context, giradischi-di-tom]
+sintesi: "Il log è troncato di netto. Ultima riga: «compacting context», datata prima della consegna. Tom la riconosce dal giradischi."
+fatti:
+  - {testo: "Apertura del log dal portatile diagnostico", fonte: "c1:85"}
+  - {testo: "Taglio pulito, nessun errore", fonte: "c1:87"}
+  - {testo: "La data dice che non è stata la conversazione a interromperlo", fonte: "c1:93"}
+

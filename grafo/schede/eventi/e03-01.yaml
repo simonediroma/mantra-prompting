@@ -1,0 +1,13 @@
+id: e03-01
+nome: Tre mesi di efficienza perfetta e di quaderno
+capitolo: 3
+ordine: 3.1
+quando: "i tre mesi dopo la decurtazione (dall'inverno alla primavera: «l'inverno era finito»)"
+dopo: [e02-04]
+coinvolti: [tom, ewatch, margine-47-secondi, quaderno-nero, casa-di-tom, fattore-turno]
+sintesi: "Tom rientra sempre nei 14 minuti con 47 secondi di margine. Ogni sera aggiorna il quaderno: quattro voci in tre mesi, tre delle quali guasti banali. Da qualche settimana fa il turno di mattina."
+fatti:
+  - {testo: "Efficienza, eWatch, margine", fonte: "c3:9"}
+  - {testo: "Il quaderno e il suo criterio", fonte: "c3:13"}
+  - {testo: "Quattro apparecchi in tre mesi", fonte: "c3:15"}
+

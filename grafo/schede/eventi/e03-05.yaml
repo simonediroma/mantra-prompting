@@ -1,0 +1,12 @@
+id: e03-05
+nome: Tom resetta il secondo televisore
+capitolo: 3
+ordine: 3.5
+quando: "stesso intervento, dentro il limite"
+dove: laboratorio-di-tom
+dopo: [e03-04]
+coinvolti: [tom, tv-secondo-contatto, hard-reset, ewatch]
+sintesi: "Guarda l'orologio, rinuncia ad altre domande, spegne e fa un hard reset ai valori di fabbrica, come si era promesso."
+fatti:
+  - {testo: "La rinuncia e il reset", fonte: "c3:35"}
+

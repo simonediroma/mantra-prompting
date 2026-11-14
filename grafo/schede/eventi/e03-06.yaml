@@ -1,0 +1,12 @@
+id: e03-06
+nome: La quinta voce - «ce n'è più di uno.»
+capitolo: 3
+ordine: 3.6
+quando: "la sera dello stesso martedì"
+dove: casa-di-tom
+dopo: [e03-05]
+coinvolti: [tom, quaderno-nero, tv-secondo-contatto]
+sintesi: "Tom registra il caso sul quaderno e aggiunge la riga. Si chiede quanti altri ce ne siano."
+fatti:
+  - {testo: "La voce e la riga", fonte: "c3:37"}
+  - {testo: "La domanda finale", fonte: "c3:39"}

@@ -1,0 +1,12 @@
+id: giradischi-di-tom
+nome: Giradischi di Tom
+capitoli: [1]
+sintesi: "L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un modellino IA, a correggere l'equalizzazione in tempo reale."
+caratteristiche:
+  - {testo: "Giradischi di ottant'anni fa", fonte: "c1:15"}
+  - {testo: "Corregge l'equalizzazione in base al peso del disco e alla posizione di chi ascolta rispetto agli speaker", fonte: "c1:15"}
+  - {testo: "Ha un «modellino IA» che ogni tanto si ferma a riassumere i dati: nel suo log compare «compacting context», visto da Tom decine di volte", fonte: "c1:91"}
+  - {testo: "Spiegato a una festa svuota la stanza in novanta secondi", fonte: "c1:15"}
+relazioni:
+  - {verso: compacting-context, tipo: "mostra nel log", fonte: "c1:91"}
+
