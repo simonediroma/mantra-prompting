@@ -16,7 +16,7 @@ La sequenza di diagnosi che Meridian impone entro tempi prestabiliti.
 
 ## Relazioni
 
-- → comprende [Verifica di conformità](../concetti/verifica-di-conformita.md) *(cap. 1 r. 23)*
+- → comprende [Verifica di conformità](../termini/verifica-di-conformita.md) *(cap. 1 r. 23)*
 - → va chiusa entro [Limite di 14 minuti per ciclo diagnostico](../concetti/ciclo-diagnostico-14-minuti.md) *(cap. 2 r. 13)*
 - ← [Meridian](../organizzazioni/meridian.md) impone questa scheda *(cap. 1 r. 23)*
 

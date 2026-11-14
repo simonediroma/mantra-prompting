@@ -1,0 +1,10 @@
+id: meridians
+nome: Meridians
+capitoli: [1, 2]
+sintesi: "Il vezzeggiativo aziendale per i dipendenti Meridian."
+caratteristiche:
+  - {testo: "Tutti i ventimila e passa dipendenti chiamati così, «come se fossero una specie, o un popolo eletto»", fonte: "c1:19"}
+  - {testo: "Usato nella comunicazione formale: «qualità della vita di tutti i Meridians»", fonte: "c2:19"}
+relazioni:
+  - {verso: meridian, tipo: "termine di", fonte: "c1:19"}
+

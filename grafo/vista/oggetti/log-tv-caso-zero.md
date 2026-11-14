@@ -19,7 +19,7 @@ Il registro di sistema del caso zero. Tom lo apre DOPO la conversazione: è tron
 
 ## Relazioni
 
-- → termina con [«compacting context»](../concetti/compacting-context.md) *(cap. 1 r. 89)*
+- → termina con [«compacting context»](../termini/compacting-context.md) *(cap. 1 r. 89)*
 - → letto con [Portatile diagnostico](../oggetti/portatile-diagnostico.md) *(cap. 1 r. 85)*
 - ← [Log di sistema del secondo televisore](../oggetti/log-tv-secondo-contatto.md) interrotto allo stesso modo di questa scheda *(cap. 3 r. 19)*
 - ← [Televisore del primo contatto (caso zero)](../oggetti/tv-caso-zero.md) ha come log questa scheda *(cap. 1 r. 85)*

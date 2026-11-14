@@ -7,6 +7,9 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Cap. 1 — Primo contatto](vista/capitoli/01.md) (v3.6)
 - [Cap. 2 — Stallo burocratico](vista/capitoli/02.md) (v3.6)
 - [Cap. 3 — Secondo contatto](vista/capitoli/03.md) (v3.8)
+- [Cap. 17 — Il bivio](vista/capitoli/17.md) (v1.18) — **analisi parziale**: solo i termini anticipati
+- [Cap. 18 — La richiesta di meeting](vista/capitoli/18.md) (v5.4) — **analisi parziale**: solo i termini anticipati
+- [Cap. 19 — Il meeting](vista/capitoli/19.md) (v3.12) — **analisi parziale**: solo i termini anticipati
 
 ## Personaggi (8)
 
@@ -52,18 +55,26 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Negozio (punto di consegna)](vista/luoghi/negozio.md) — Dove il cliente del secondo televisore lo ha consegnato e dove un addetto ha compilato la scheda.
 - [Sede Meridian dell'assistenza](vista/luoghi/sede-assistenza.md) — L'edificio dove lavora Tom: corridoio, stanze dei tecnici, nastro, varco con controlli.
 
-## Concetti (10)
+## Concetti (5)
 
 - [Codice Morse](vista/concetti/codice-morse.md) — Il codice in cui i due televisori rispondono, via LED. Tom lo riconosce perché lo ha imparato da bambino.
-- [Etichetta «anomalia riscontrata durante l'operazione»](vista/concetti/etichetta-anomalia.md) — La classificazione che Tom usa per rimandare il caso zero nella pipeline invece di chiuderlo con un reset.
 - [Il 47 (minuti trattenuti, secondi di margine)](vista/concetti/margine-47-secondi.md) — 47 minuti è la trattenuta; 47 secondi è il margine medio sotto il limite che Tom si impone da allora, come rivincita invisibile.
 - [Il rito delle domande agli apparecchi](vista/concetti/rito-delle-domande.md) — Tom parla agli apparecchi guasti e tende loro trappole verbali: rito scaramantico e test di Turing improvvisato.
 - [Limite di 14 minuti per ciclo diagnostico](vista/concetti/ciclo-diagnostico-14-minuti.md) — Il tempo massimo consentito per un ciclo diagnostico completo. Superarlo genera una comunicazione formale.
 - [Procedura standard](vista/concetti/procedura-standard.md) — La sequenza di diagnosi che Meridian impone entro tempi prestabiliti.
-- [Reset (software, diagnostico completo, hard reset)](vista/concetti/hard-reset.md) — I tre reset nominati nei cap. 1-3. Vanno tenuti distinti.
-- [Turni e fattore turno](vista/concetti/fattore-turno.md) — Tre turni a rotazione; ogni turno moltiplica la sanzione per un fattore diverso.
-- [Verifica di conformità](vista/concetti/verifica-di-conformita.md) — La batteria di test sul firmware dei chip. Più che trovare guasti serve a scoprire se il cliente ha toccato il firmware proprietario.
-- [«compacting context»](vista/concetti/compacting-context.md) — L'ultima riga del log del caso zero. Tom la conosce dal giradischi: la pausa di un modello IA che riassume troppi dati.
+
+## Termini (10)
+
+- [Etichetta «anomalia riscontrata durante l'operazione»](vista/termini/etichetta-anomalia.md) — La classificazione che Tom usa per rimandare il caso zero nella pipeline invece di chiuderlo con un reset.
+- [Meridians](vista/termini/meridians.md) — Il vezzeggiativo aziendale per i dipendenti Meridian.
+- [Reset (software, diagnostico completo, hard reset)](vista/termini/hard-reset.md) — I tre reset nominati nei cap. 1-3. Vanno tenuti distinti.
+- [Scostamento](vista/termini/scostamento.md) — Il termine Meridian per il tempo oltre il limite di procedura. È ciò che l'azienda punisce.
+- [Smutandata](vista/termini/smutandata.md) — Il dispetto da liceo di Pete, diventato la sua unità di misura delle sanzioni: una smutandata = 15 minuti di stipendio trattenuti.
+- [Tabella di Conversione (di Pete)](vista/termini/tabella-di-conversione.md) — Il «sistema matematico» privato con cui Pete traduce le infrazioni Meridian in dispetti da liceo. È di Pete, non di Tom: Tom ne è il bersaglio.
+- [Turni e fattore turno](vista/termini/fattore-turno.md) — Tre turni a rotazione; ogni turno moltiplica la sanzione per un fattore diverso.
+- [Verifica di conformità](vista/termini/verifica-di-conformita.md) — La batteria di test sul firmware dei chip. Più che trovare guasti serve a scoprire se il cliente ha toccato il firmware proprietario.
+- [«compacting context»](vista/termini/compacting-context.md) — L'ultima riga del log del caso zero. Tom la conosce dal giradischi: la pausa di un modello IA che riassume troppi dati.
+- [«Primo contatto» / «caso zero»](vista/termini/caso-zero.md) — I due nomi del primo televisore e dell'evento del cap. 1.
 
 ## Eventi (16)
 
@@ -84,7 +95,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Tom resetta il secondo televisore](vista/eventi/e03-05.md) — Guarda l'orologio, rinuncia ad altre domande, spegne e fa un hard reset ai valori di fabbrica, come si era promesso.
 - [La quinta voce - «ce n'è più di uno.»](vista/eventi/e03-06.md) — Tom registra il caso sul quaderno e aggiunge la riga. Si chiede quanti altri ce ne siano.
 
-## Punti aperti (8)
+## Punti aperti (9)
 
 - [Tecnico a cui viene riassegnato il caso zero](vista/personaggi/tecnico-turno-b.md): Il registro dice «Turno: B», la narrazione «collega del suo stesso turno»: torna solo se il turno di Tom (pomeriggio) è il B. Il testo non lo dice.
 - [eWatch](vista/oggetti/ewatch.md): Nel cap. 1 «l'orologio gli disse» (r. 95) e nel cap. 2 «guardò l'ora» (r. 45): il testo non dice se è già l'eWatch. Il cap. 1 cade in inverno (tre mesi prima della fine dell'inverno, c3 r. 9), cioè nella stessa stagione del regalo.
@@ -92,5 +103,6 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Log di sistema del primo televisore](vista/oggetti/log-tv-caso-zero.md): L'«altro apparecchio, mesi prima» (c1 r. 87) non è identificato. Subito dopo il testo dice che Tom ha visto la riga «decine di volte» sul giradischi (c1 r. 91): sono due ricordi diversi o lo stesso? Da chiarire.
 - [Quaderno nero](vista/oggetti/quaderno-nero.md): Conteggio: «solo quattro volte in tutto» in tre mesi (c3 r. 15) comprende il caso zero + tre guasti banali; il secondo televisore è la quinta voce (c3 r. 37). Torna, ma il «quattro in tre mesi» include il caso zero, che sta all'inizio dei tre mesi.
 - [Laboratorio di Tom](vista/luoghi/laboratorio-di-tom.md): «Senza altoparlanti» (c1 r. 43) si riferisce alla stanza: va tenuto distinto dal fatto che il televisore possa avere un microfono (c3 r. 33).
-- [Reset (software, diagnostico completo, hard reset)](vista/concetti/hard-reset.md): Sul caso zero Tom fa due volte la procedura (che include il reset software) e l'apparecchio parla comunque; nel cap. 1 r. 97 teme però che «un reset qualunque» cancelli tutto. Da tenere coerente: quale reset cancella cosa.
 - [Procedura standard](vista/concetti/procedura-standard.md): Nel cap. 3 Tom apre il log («Aprì anche il log») come passo in più: l'apertura del log non fa parte dell'elenco della procedura in nessuno dei due capitoli.
+- [Reset (software, diagnostico completo, hard reset)](vista/termini/hard-reset.md): Sul caso zero Tom fa due volte la procedura (che include il reset software) e l'apparecchio parla comunque; nel cap. 1 r. 97 teme però che «un reset qualunque» cancelli tutto. Da tenere coerente: quale reset cancella cosa.
+- [Tabella di Conversione (di Pete)](vista/termini/tabella-di-conversione.md): Da verificare quando si analizzano i cap. 4-16: la Tabella o la smutandata compaiono prima del cap. 17? Dalla ricerca nel testo no.

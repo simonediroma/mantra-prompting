@@ -20,6 +20,8 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 - → supervisore della [Divisione Assistenza Tecnica](../organizzazioni/divisione-assistenza-tecnica.md) *(cap. 2 r. 23)*
 - → firma [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) *(cap. 2 r. 23)*
 - ← [Tom](../personaggi/tom.md) sottoposto di questa scheda — lo evita; lo conosce quasi solo per iscritto *(cap. 2 r. 25)*
+- ← [Smutandata](../termini/smutandata.md) gergo di questa scheda *(cap. 17 r. 28)*
+- ← [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) ideata da questa scheda *(cap. 17 r. 28)*
 
 ## Catena degli eventi
 

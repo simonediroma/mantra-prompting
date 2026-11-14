@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parent
 BOOK = ROOT.parent
 SCHEDE, VISTA = ROOT / "schede", ROOT / "vista"
 TIPI = {"personaggi": "personaggio", "organizzazioni": "organizzazione", "oggetti": "oggetto",
-        "luoghi": "luogo", "concetti": "concetto", "eventi": "evento"}
+        "luoghi": "luogo", "concetti": "concetto", "termini": "termine", "eventi": "evento"}
 PLUR = {v: k for k, v in TIPI.items()}
 errori, avvisi = [], []
 
@@ -186,7 +186,7 @@ def main():
         for e in ev:
             o.append(f"1. `{e['id']}` — {link(nodi, e['id'])} · {e['quando']}")
         o += ["", "## Schede toccate dal capitolo", ""]
-        for tipo in ("personaggio", "organizzazione", "oggetto", "luogo", "concetto"):
+        for tipo in ("personaggio", "organizzazione", "oggetto", "luogo", "concetto", "termine"):
             xs = [n for n in nodi.values() if n["tipo"] == tipo and num in n.get("capitoli", [])]
             if xs:
                 o.append(f"- **{PLUR[tipo].capitalize()}**: " + ", ".join(link(nodi, n["id"]) for n in xs))
@@ -196,8 +196,9 @@ def main():
          "Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.", "",
          "## Capitoli analizzati", ""]
     for num, c in caps.items():
-        o.append(f"- [Cap. {num} — {c['titolo']}](vista/capitoli/{num:02d}.md) (v{c['versione_analizzata']})")
-    for tipo in ("personaggio", "organizzazione", "oggetto", "luogo", "concetto", "evento"):
+        o.append(f"- [Cap. {num} — {c['titolo']}](vista/capitoli/{num:02d}.md) (v{c['versione_analizzata']})" +
+                 (" — **analisi parziale**: solo i termini anticipati" if c.get("parziale") else ""))
+    for tipo in ("personaggio", "organizzazione", "oggetto", "luogo", "concetto", "termine", "evento"):
         xs = [n for n in nodi.values() if n["tipo"] == tipo]
         xs.sort(key=lambda n: n.get("ordine", n["nome"].lower()) if tipo == "evento" else n["nome"].lower())
         o += ["", f"## {PLUR[tipo].capitalize()} ({len(xs)})", ""]

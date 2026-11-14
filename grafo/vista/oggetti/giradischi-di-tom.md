@@ -13,7 +13,7 @@ L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un model
 
 ## Relazioni
 
-- → mostra nel log [«compacting context»](../concetti/compacting-context.md) *(cap. 1 r. 91)*
+- → mostra nel log [«compacting context»](../termini/compacting-context.md) *(cap. 1 r. 91)*
 - ← [Audiofili scandinavi](../personaggi/audiofili-scandinavi.md) seguono il progetto questa scheda *(cap. 1 r. 15)*
 - ← [Tom](../personaggi/tom.md) ha costruito questa scheda *(cap. 1 r. 15)*
 - ← [Casa di Tom](../luoghi/casa-di-tom.md) custodisce questa scheda

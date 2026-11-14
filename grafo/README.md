@@ -1,6 +1,6 @@
 # Grafo del libro
 
-Mappa di tutto ciò che esiste nel romanzo: personaggi, organizzazioni, oggetti, luoghi, concetti (regole, procedure, termini) ed eventi, collegati tra loro.
+Mappa di tutto ciò che esiste nel romanzo: personaggi, organizzazioni, oggetti, luoghi, concetti (regole, procedure, abitudini), termini (il glossario: parole a cui il libro dà un significato preciso) ed eventi, collegati tra loro.
 
 **Regola unica: nelle schede entra solo ciò che è scritto nei capitoli**, con capitolo e riga (`c3:19` = cap. 3, riga 19 del file). Niente da outline, book-memory o memoria. Ciò che il testo *non* dice va nella sezione `non_detto`; dubbi e incongruenze in `aperti`.
 

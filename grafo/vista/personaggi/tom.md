@@ -47,6 +47,7 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di v
 - → conosce [Codice Morse](../concetti/codice-morse.md) *(cap. 1 r. 33)*
 - → si impone [Il 47 (minuti trattenuti, secondi di margine)](../concetti/margine-47-secondi.md) *(cap. 3 r. 9)*
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) indirizzata a questa scheda *(cap. 2 r. 9)*
+- ← [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) applicata da Pete a questa scheda *(cap. 17 r. 58)*
 
 ## Catena degli eventi
 

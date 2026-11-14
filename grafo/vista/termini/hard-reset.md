@@ -1,6 +1,6 @@
 # Reset (software, diagnostico completo, hard reset)
 
-`hard-reset` · concetto · capitoli: 1, 2, 3
+`hard-reset` · termine · capitoli: 1, 2, 3
 
 I tre reset nominati nei cap. 1-3. Vanno tenuti distinti.
 

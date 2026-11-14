@@ -293,41 +293,6 @@
    ]
   },
   {
-   "id": "compacting-context",
-   "tipo": "concetto",
-   "nome": "«compacting context»",
-   "capitoli": [
-    1
-   ]
-  },
-  {
-   "id": "etichetta-anomalia",
-   "tipo": "concetto",
-   "nome": "Etichetta «anomalia riscontrata durante l'operazione»",
-   "capitoli": [
-    1
-   ]
-  },
-  {
-   "id": "fattore-turno",
-   "tipo": "concetto",
-   "nome": "Turni e fattore turno",
-   "capitoli": [
-    2,
-    3
-   ]
-  },
-  {
-   "id": "hard-reset",
-   "tipo": "concetto",
-   "nome": "Reset (software, diagnostico completo, hard reset)",
-   "capitoli": [
-    1,
-    2,
-    3
-   ]
-  },
-  {
    "id": "margine-47-secondi",
    "tipo": "concetto",
    "nome": "Il 47 (minuti trattenuti, secondi di margine)",
@@ -357,8 +322,89 @@
    ]
   },
   {
+   "id": "caso-zero",
+   "tipo": "termine",
+   "nome": "«Primo contatto» / «caso zero»",
+   "capitoli": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "compacting-context",
+   "tipo": "termine",
+   "nome": "«compacting context»",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "etichetta-anomalia",
+   "tipo": "termine",
+   "nome": "Etichetta «anomalia riscontrata durante l'operazione»",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "fattore-turno",
+   "tipo": "termine",
+   "nome": "Turni e fattore turno",
+   "capitoli": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "hard-reset",
+   "tipo": "termine",
+   "nome": "Reset (software, diagnostico completo, hard reset)",
+   "capitoli": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "meridians",
+   "tipo": "termine",
+   "nome": "Meridians",
+   "capitoli": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "scostamento",
+   "tipo": "termine",
+   "nome": "Scostamento",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "smutandata",
+   "tipo": "termine",
+   "nome": "Smutandata",
+   "capitoli": [
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "id": "tabella-di-conversione",
+   "tipo": "termine",
+   "nome": "Tabella di Conversione (di Pete)",
+   "capitoli": [
+    17,
+    18,
+    19
+   ]
+  },
+  {
    "id": "verifica-di-conformita",
-   "tipo": "concetto",
+   "tipo": "termine",
    "nome": "Verifica di conformità",
    "capitoli": [
     1,
@@ -963,6 +1009,69 @@
    "tipo": "va chiusa entro",
    "nota": "",
    "fonte": "c2:13"
+  },
+  {
+   "da": "caso-zero",
+   "a": "tv-caso-zero",
+   "tipo": "indica",
+   "nota": "",
+   "fonte": "c3:15"
+  },
+  {
+   "da": "meridians",
+   "a": "meridian",
+   "tipo": "termine di",
+   "nota": "",
+   "fonte": "c1:19"
+  },
+  {
+   "da": "scostamento",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "oggetto della",
+   "nota": "",
+   "fonte": "c2:11"
+  },
+  {
+   "da": "scostamento",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "misurato rispetto a",
+   "nota": "",
+   "fonte": "c2:13"
+  },
+  {
+   "da": "smutandata",
+   "a": "pete",
+   "tipo": "gergo di",
+   "nota": "",
+   "fonte": "c17:28"
+  },
+  {
+   "da": "smutandata",
+   "a": "tabella-di-conversione",
+   "tipo": "unità di misura della",
+   "nota": "",
+   "fonte": "c17:32"
+  },
+  {
+   "da": "tabella-di-conversione",
+   "a": "pete",
+   "tipo": "ideata da",
+   "nota": "",
+   "fonte": "c17:28"
+  },
+  {
+   "da": "tabella-di-conversione",
+   "a": "tom",
+   "tipo": "applicata da Pete a",
+   "nota": "",
+   "fonte": "c17:58"
+  },
+  {
+   "da": "tabella-di-conversione",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "ha come precedente",
+   "nota": "i 47 minuti portano il conto alla tripla",
+   "fonte": "c17:58"
   },
   {
    "da": "e00-01",

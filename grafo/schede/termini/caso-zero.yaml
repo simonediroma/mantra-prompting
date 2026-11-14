@@ -1,0 +1,10 @@
+id: caso-zero
+nome: «Primo contatto» / «caso zero»
+capitoli: [1, 3]
+sintesi: "I due nomi del primo televisore e dell'evento del cap. 1."
+caratteristiche:
+  - {testo: "«Il televisore del primo contatto»", fonte: "c3:9, c3:15"}
+  - {testo: "«Il caso zero»: la prima voce del quaderno", fonte: "c3:15"}
+relazioni:
+  - {verso: tv-caso-zero, tipo: "indica", fonte: "c3:15"}
+

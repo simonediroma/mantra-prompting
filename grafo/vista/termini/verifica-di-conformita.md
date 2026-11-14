@@ -1,6 +1,6 @@
 # Verifica di conformità
 
-`verifica-di-conformita` · concetto · capitoli: 1, 3
+`verifica-di-conformita` · termine · capitoli: 1, 3
 
 La batteria di test sul firmware dei chip. Più che trovare guasti serve a scoprire se il cliente ha toccato il firmware proprietario.
 

@@ -1,6 +1,6 @@
 # Etichetta «anomalia riscontrata durante l'operazione»
 
-`etichetta-anomalia` · concetto · capitoli: 1
+`etichetta-anomalia` · termine · capitoli: 1
 
 La classificazione che Tom usa per rimandare il caso zero nella pipeline invece di chiuderlo con un reset.
 

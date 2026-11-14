@@ -17,9 +17,11 @@ Il richiamo che Tom trova il giorno dopo il primo contatto: 26:41 contro 14:00 c
 - → indirizzata a [Tom](../personaggi/tom.md) *(cap. 2 r. 9)*
 - → riguarda l'intervento su [Televisore del primo contatto (caso zero)](../oggetti/tv-caso-zero.md) *(cap. 2 r. 12)*
 - → applica [Limite di 14 minuti per ciclo diagnostico](../concetti/ciclo-diagnostico-14-minuti.md) *(cap. 2 r. 13)*
-- → applica [Turni e fattore turno](../concetti/fattore-turno.md) *(cap. 2 r. 21)*
+- → applica [Turni e fattore turno](../termini/fattore-turno.md) *(cap. 2 r. 21)*
 - ← [Pete](../personaggi/pete.md) firma questa scheda *(cap. 2 r. 23)*
 - ← [Il 47 (minuti trattenuti, secondi di margine)](../concetti/margine-47-secondi.md) nasce da questa scheda *(cap. 3 r. 9)*
+- ← [Scostamento](../termini/scostamento.md) oggetto della questa scheda *(cap. 2 r. 11)*
+- ← [Tabella di Conversione (di Pete)](../termini/tabella-di-conversione.md) ha come precedente questa scheda — i 47 minuti portano il conto alla tripla *(cap. 17 r. 58)*
 
 ## Catena degli eventi
 

@@ -1,6 +1,6 @@
 # Turni e fattore turno
 
-`fattore-turno` · concetto · capitoli: 2, 3
+`fattore-turno` · termine · capitoli: 2, 3
 
 Tre turni a rotazione; ogni turno moltiplica la sanzione per un fattore diverso.
 

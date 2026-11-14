@@ -45,6 +45,7 @@ Il primo televisore Meridian che risponde a Tom in Morse («IO SONO QUI»). Rias
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) riguarda l'intervento su questa scheda *(cap. 2 r. 12)*
 - ← [Foglio «IO / SONO / QUI»](../oggetti/foglio-io-sono-qui.md) trascrive il messaggio di questa scheda *(cap. 1 r. 39)*
 - ← [Quaderno nero](../oggetti/quaderno-nero.md) registra (voce 1) questa scheda *(cap. 3 r. 15)*
+- ← [«Primo contatto» / «caso zero»](../termini/caso-zero.md) indica questa scheda *(cap. 3 r. 15)*
 
 ## Catena degli eventi
 

@@ -1,6 +1,6 @@
 # «compacting context»
 
-`compacting-context` · concetto · capitoli: 1
+`compacting-context` · termine · capitoli: 1
 
 L'ultima riga del log del caso zero. Tom la conosce dal giradischi: la pausa di un modello IA che riassume troppi dati.
 

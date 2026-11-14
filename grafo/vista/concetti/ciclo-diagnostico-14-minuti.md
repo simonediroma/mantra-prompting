@@ -14,6 +14,7 @@ Il tempo massimo consentito per un ciclo diagnostico completo. Superarlo genera 
 
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) applica questa scheda *(cap. 2 r. 13)*
 - ← [Procedura standard](../concetti/procedura-standard.md) va chiusa entro questa scheda *(cap. 2 r. 13)*
+- ← [Scostamento](../termini/scostamento.md) misurato rispetto a questa scheda *(cap. 2 r. 13)*
 
 ## Catena degli eventi
 

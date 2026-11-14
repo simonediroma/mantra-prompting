@@ -28,4 +28,5 @@ L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l
 - ← [Televisore del primo contatto (caso zero)](../oggetti/tv-caso-zero.md) prodotto da questa scheda *(cap. 1 r. 21)*
 - ← [Televisore del secondo contatto](../oggetti/tv-secondo-contatto.md) prodotto da questa scheda
 - ← [Sede Meridian dell'assistenza](../luoghi/sede-assistenza.md) sede di questa scheda
+- ← [Meridians](../termini/meridians.md) termine di questa scheda *(cap. 1 r. 19)*
 
