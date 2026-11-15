@@ -83,15 +83,15 @@ def pdf(caps, dest):
     rl_config.canvas_basefontname = "Serif"   # altrimenti ogni pagina dichiara Helvetica non incorporato (KDP lo rifiuta)
 
     W, H = A5
-    interno, esterno, alto, basso = 17 * mm, 17 * mm, 18 * mm, 20 * mm   # KDP: interno >= 9,6 mm, esterno >= 6,4 mm
-    base = ParagraphStyle("testo", fontName="Serif", fontSize=10.5, leading=14.6, alignment=TA_JUSTIFY, firstLineIndent=5 * mm)
+    interno, esterno, alto, basso = 19 * mm, 18 * mm, 18 * mm, 20 * mm   # KDP: interno >= 9,6 mm, esterno >= 6,4 mm
+    base = ParagraphStyle("testo", fontName="Serif", fontSize=12, leading=18, alignment=TA_JUSTIFY, firstLineIndent=5 * mm)
     S = {
         "testo": base,
         "primo": ParagraphStyle("primo", parent=base, firstLineIndent=0),
         "citazione": ParagraphStyle("cit", parent=base, firstLineIndent=0, leftIndent=6 * mm, rightIndent=6 * mm,
                                     spaceBefore=6, spaceAfter=6, alignment=TA_LEFT),
         "centro": ParagraphStyle("centro", parent=base, firstLineIndent=0, alignment=TA_CENTER, spaceBefore=7, spaceAfter=7),
-        "modulo": ParagraphStyle("modulo", fontName="Mono", fontSize=8.2, leading=11.6, leftIndent=5 * mm, rightIndent=3 * mm,
+        "modulo": ParagraphStyle("modulo", fontName="Mono", fontSize=9.8, leading=13.8, leftIndent=5 * mm, rightIndent=3 * mm,
                                  spaceBefore=7, spaceAfter=7, alignment=TA_LEFT),
         "num": ParagraphStyle("num", fontName="Serif", fontSize=11, leading=14, alignment=TA_CENTER, spaceBefore=30 * mm,
                               textColor="#555555"),
@@ -113,7 +113,7 @@ def pdf(caps, dest):
         return Frame(sx, basso, W - interno - esterno, H - alto - basso, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)
 
     doc = Libro(str(dest), pagesize=A5, title=f"{TITOLO}: {SOTTOTITOLO}", author=AUTORE, subject="Romanzo", creator="export_libro.py",
-                 initialFontName="Serif", initialFontSize=10.5)
+                 initialFontName="Serif", initialFontSize=12)
     doc.addPageTemplates([
         PageTemplate("nuda", [cornice(True)]),
         PageTemplate("corpo", [cornice(True)], onPage=numero),
@@ -162,10 +162,17 @@ def pdf(caps, dest):
     doc.multiBuild(st)
 
 
+MAX_PAROLE = 300   # tetto di parole per pagina
+
+
 def correggi_specchio(dest):
-    """Dopo l'impaginazione verifica che i margini siano a specchio: pagine dispari a destra."""
+    """Conta le pagine e verifica che nessuna superi MAX_PAROLE parole."""
     from pypdf import PdfReader
-    return len(PdfReader(str(dest)).pages)
+    pagine = PdfReader(str(dest)).pages
+    troppe = [(i + 1, n) for i, p in enumerate(pagine) if (n := sum(any(ch.isalpha() for ch in w) for w in (p.extract_text() or "").split())) > MAX_PAROLE]
+    if troppe:
+        sys.exit(f"ERRORE: {len(troppe)} pagine oltre {MAX_PAROLE} parole: " + ", ".join(f"p.{i} ({n})" for i, n in troppe[:15]))
+    return len(pagine)
 
 
 # --- EPUB ---------------------------------------------------------------
