@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mantra Prompting — Il grafo del libro</title>
+<style>
+:root{--bg:#0e1116;--panel:#151a22;--line:#262d38;--text:#e6e6e6;--muted:#8b949e;--accent:#6ee7a0;--open:#ff9d4d;
+--personaggio:#6ee7a0;--organizzazione:#7aa2f7;--oggetto:#c9a0ff;--luogo:#5fd4d4;--concetto:#f2cc60;--termine:#f28fb8;--evento:#9aa4b2}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{font-family:system-ui,sans-serif;background:var(--bg);color:var(--text);font-size:15px;line-height:1.45;display:flex;flex-direction:column}
+a{color:var(--accent)}
+header{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--line)}
+header h1{font-size:17px;margin:0;font-weight:600}
+header nav{font-size:14px;color:var(--muted)}
+.search{position:relative;flex:1;min-width:180px;max-width:360px;margin-left:auto}
+.search input{width:100%;padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--text);font-size:15px}
+#risultati{position:absolute;z-index:20;left:0;right:0;top:100%;background:var(--panel);border:1px solid var(--line);border-radius:8px;margin-top:4px;max-height:50vh;overflow:auto;display:none}
+#risultati button{display:block;width:100%;text-align:left;padding:8px 10px;background:none;border:0;border-bottom:1px solid var(--line);color:var(--text);font-size:14px;cursor:pointer}
+#risultati button:hover{background:#1d2430}
+.barra{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;padding:8px 16px;border-bottom:1px solid var(--line);font-size:13px}
+.tabs button,.chip{border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:999px;padding:5px 11px;font-size:13px;cursor:pointer}
+.tabs button[aria-selected=true]{background:var(--accent);color:#0e1116;border-color:var(--accent);font-weight:600}
+.chip{display:inline-flex;align-items:center;gap:6px}
+.chip i{width:10px;height:10px;border-radius:50%;display:inline-block}
+.chip.off{opacity:.38}
+.chip.filtro.on{border-color:var(--open);color:var(--open);background:#2a1d10}
+.cap{display:flex;align-items:center;gap:8px;color:var(--muted)}
+.cap input{width:130px;accent-color:var(--accent)}
+.cap b{color:var(--text);min-width:5.5em}
+main{flex:1;display:flex;min-height:0}
+#vista{flex:1;position:relative;min-width:0}
+canvas{display:block;width:100%;height:100%;touch-action:none;cursor:grab}
+.lista{position:absolute;inset:0;overflow:auto;padding:14px 16px;display:none}
+.lista h2{font-size:15px;margin:18px 0 6px}
+.lista select{padding:7px 9px;border-radius:8px;background:var(--panel);color:var(--text);border:1px solid var(--line);font-size:15px;max-width:100%}
+.riga{display:block;width:100%;text-align:left;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:9px 11px;margin:6px 0;color:var(--text);font-size:14px;cursor:pointer;line-height:1.4}
+.riga small{color:var(--muted);display:block}
+.riga.ap{border-left:3px solid var(--open)}
+aside{width:400px;max-width:42vw;border-left:1px solid var(--line);overflow:auto;padding:14px 16px 40px;background:var(--panel)}
+aside h2{font-size:19px;margin:0 0 2px;line-height:1.25}
+aside h3{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:18px 0 6px}
+.tipo{font-size:12px;font-weight:600}
+.meta{color:var(--muted);font-size:13px}
+aside ul{margin:0;padding-left:18px}
+aside li{margin:5px 0}
+.fonte{color:var(--muted);font-size:12px;white-space:nowrap}
+.aperti{border:1px solid var(--open);border-left-width:4px;border-radius:8px;padding:8px 10px 8px 12px;margin:12px 0;background:#2a1d10}
+.aperti h3{color:var(--open);margin-top:0}
+.nondetto{border-left:3px solid var(--line);padding-left:10px;color:#c5ccd6}
+.link{background:none;border:0;padding:0;color:var(--accent);font:inherit;cursor:pointer;text-align:left;text-decoration:underline;text-decoration-color:#2f5c44}
+.badge{display:inline-block;background:var(--open);color:#0e1116;border-radius:999px;font-size:11px;font-weight:700;padding:0 6px;margin-left:4px}
+.vuoto{color:var(--muted)}
+#aiuto{position:absolute;left:12px;bottom:10px;font-size:12px;color:var(--muted);pointer-events:none}
+@media(max-width:820px){
+  body{display:block;height:auto}
+  main{display:block}
+  #vista{height:58vh}
+  aside{width:auto;max-width:none;border-left:0;border-top:1px solid var(--line)}
+  .search{max-width:none;margin-left:0;flex-basis:100%}
+  header nav span{display:none}
+  .barra{flex-wrap:nowrap;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
+  .barra>*{flex:none}
+  #tipi{display:flex;gap:6px}
+  #aiuto{display:none!important}
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Mantra Prompting — il grafo del libro</h1>
+  <nav><a href="../">Podcast</a><span> · personaggi, oggetti, luoghi ed eventi dei capitoli 1–19</span></nav>
+  <div class="search"><input id="cerca" type="search" placeholder="Cerca: Tom, eWatch, Voss, smutandata…" autocomplete="off"><div id="risultati"></div></div>
+</header>
+<div class="barra">
+  <div class="tabs" role="tablist">
+    <button data-tab="grafo" aria-selected="true">Grafo</button>
+    <button data-tab="capitoli" aria-selected="false">Capitoli</button>
+    <button data-tab="aperti" aria-selected="false">Punti aperti</button>
+  </div>
+  <div id="tipi"></div>
+  <button class="chip filtro" id="soloAperti" title="Mostra solo le schede con punti aperti">Solo con punti aperti</button>
+  <label class="cap">Fino al <b id="capLab"></b><input id="cap" type="range" min="1" max="19" value="19"></label>
+</div>
+<main>
+  <div id="vista">
+    <canvas id="c"></canvas>
+    <div id="aiuto">Trascina per spostare · rotella o due dita per lo zoom · tocca un nodo</div>
+    <div class="lista" id="lCapitoli"></div>
+    <div class="lista" id="lAperti"></div>
+  </div>
+  <aside id="scheda"></aside>
+</main>
+<script>
+const TIPI=["personaggio","organizzazione","oggetto","luogo","concetto","termine","evento"];
+const PLUR={personaggio:"Personaggi",organizzazione:"Organizzazioni",oggetto:"Oggetti",luogo:"Luoghi",concetto:"Concetti",termine:"Termini",evento:"Eventi"};
+const css=n=>getComputedStyle(document.documentElement).getPropertyValue("--"+n).trim();
+const COL={};TIPI.forEach(t=>COL[t]=css(t));const OPEN=css("open");
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let N={},nodi=[],capitoli={},archi=[];
+let attivi=new Set(TIPI.filter(t=>t!=="evento")),soloAperti=false,capMax=19,sel=null,hover=null,segui=null;
+
+// --- capitoli e spoiler -------------------------------------------------
+const capFonte=f=>{const m=/c(\d+):/.exec(f||"");return m?+m[1]:0};
+const capTesto=t=>Math.max(0,...[...String(t).matchAll(/c(\d+) r\./g)].map(m=>+m[1]));
+const capNodo=n=>n.tipo==="evento"?n.capitolo:Math.min(...(n.capitoli||[1]));
+const vis=x=>capFonte(x.fonte)<=capMax;
+const apertiDi=n=>(n.aperti||[]).filter(a=>capTesto(a.testo)<=capMax);
+const esiste=n=>capNodo(n)<=capMax;
+const fmtFonte=f=>f?` <span class="fonte">(${esc(f).replace(/c(\d+):/g,"cap. $1, r. ")})</span>`:"";
+
+// --- dati -------------------------------------------------------------
+fetch("dati.json").then(r=>r.json()).then(d=>{
+  capitoli=d.capitoli;nodi=d.nodi;
+  nodi.forEach(n=>{N[n.id]=n;n.x=(Math.random()-.5)*900;n.y=(Math.random()-.5)*700;n.vx=n.vy=0});
+  nodi.forEach(n=>{
+    (n.relazioni||[]).forEach(r=>archi.push({da:n.id,a:r.verso,tipo:r.tipo,nota:r.nota||"",fonte:r.fonte||"",k:"rel"}));
+    if(n.tipo==="evento"){
+      (n.coinvolti||[]).forEach(x=>archi.push({da:n.id,a:x,tipo:"coinvolge",k:"ev",cap:n.capitolo}));
+      if(n.dove)archi.push({da:n.id,a:n.dove,tipo:"avviene in",k:"ev",cap:n.capitolo});
+      (n.dopo||[]).forEach(x=>archi.push({da:x,a:n.id,tipo:"porta a",k:"catena",cap:n.capitolo}));
+    }
+  });
+  archi=archi.filter(a=>N[a.da]&&N[a.a]);
+  nodi.forEach(n=>n.grado=archi.filter(a=>a.da===n.id||a.a===n.id).length);
+  const mx=Math.max(...Object.keys(capitoli).map(Number));
+  $("cap").max=mx;$("cap").value=mx;capMax=mx;
+  costruisciUI();aggiorna(true);
+  if(location.hash)seleziona(decodeURIComponent(location.hash.slice(1)),true);else mostraScheda();
+});
+
+// --- interfaccia ------------------------------------------------------
+function costruisciUI(){
+  $("tipi").innerHTML=TIPI.map(t=>`<button class="chip" data-t="${t}"><i style="background:${COL[t]}"></i>${PLUR[t]}</button>`).join(" ");
+  $("tipi").onclick=e=>{const b=e.target.closest("[data-t]");if(!b)return;const t=b.dataset.t;attivi.has(t)?attivi.delete(t):attivi.add(t);aggiorna(true)};
+  $("soloAperti").onclick=()=>{soloAperti=!soloAperti;aggiorna(true)};
+  $("cap").oninput=e=>{capMax=+e.target.value;aggiorna(true);mostraScheda()};
+  document.querySelector(".tabs").onclick=e=>{const b=e.target.closest("[data-tab]");if(b)tab(b.dataset.tab)};
+  $("cerca").oninput=cerca;
+  $("cerca").onkeydown=e=>{if(e.key==="Enter"){const b=$("risultati").querySelector("button");if(b)b.click()}};
+  document.addEventListener("click",e=>{
+    const l=e.target.closest("[data-id]");
+    if(l){seleziona(l.dataset.id,true);$("risultati").style.display="none";return}
+    if(!e.target.closest(".search"))$("risultati").style.display="none";
+  });
+  addEventListener("hashchange",()=>{const id=decodeURIComponent(location.hash.slice(1));if(id!==sel)seleziona(id,true)});
+  addEventListener("resize",ridimensiona);ridimensiona();
+}
+function tab(t){
+  document.querySelectorAll("[data-tab]").forEach(b=>b.setAttribute("aria-selected",b.dataset.tab===t));
+  $("lCapitoli").style.display=t==="capitoli"?"block":"none";
+  $("lAperti").style.display=t==="aperti"?"block":"none";
+  $("c").style.visibility=t==="grafo"?"visible":"hidden";$("aiuto").style.display=t==="grafo"?"block":"none";
+}
+function cerca(){
+  const q=$("cerca").value.trim().toLowerCase(),box=$("risultati");
+  if(q.length<2){box.style.display="none";return}
+  const r=nodi.filter(n=>esiste(n)&&(n.nome.toLowerCase().includes(q)||(n.alias||[]).some(a=>a.toLowerCase().includes(q))||n.id.includes(q)))
+    .sort((a,b)=>(a.tipo==="evento")-(b.tipo==="evento")||b.grado-a.grado).slice(0,14);
+  box.innerHTML=r.map(n=>`<button data-id="${n.id}"><span style="color:${COL[n.tipo]}">●</span> ${esc(n.nome)} <span class="meta">· ${n.tipo}</span></button>`).join("")||`<button disabled>Nessun risultato</button>`;
+  box.style.display="block";
+}
+let visibili=[],archiVis=[];
+function aggiorna(scalda){
+  $("capLab").textContent="cap. "+capMax;
+  document.querySelectorAll("[data-t]").forEach(b=>b.classList.toggle("off",!attivi.has(b.dataset.t)));
+  $("soloAperti").classList.toggle("on",soloAperti);
+  visibili=nodi.filter(n=>esiste(n)&&(n.id===sel||(attivi.has(n.tipo)&&(!soloAperti||apertiDi(n).length))));
+  const s=new Set(visibili.map(n=>n.id));
+  archiVis=archi.filter(a=>s.has(a.da)&&s.has(a.a)&&(a.k==="rel"?vis(a):a.cap<=capMax));
+  if(scalda)alpha=Math.max(alpha,.6);
+  listaCapitoli();listaAperti();
+}
+function listaCapitoli(){
+  const el=$("lCapitoli"),cur=el.querySelector("select")?.value||"1";
+  const caps=Object.keys(capitoli).map(Number).filter(c=>c<=capMax);
+  const c=caps.includes(+cur)?+cur:caps[0];
+  const ev=nodi.filter(n=>n.tipo==="evento"&&n.capitolo===c).sort((a,b)=>a.ordine-b.ordine);
+  el.innerHTML=`<select>${caps.map(k=>`<option value="${k}"${k===c?" selected":""}>Capitolo ${k} — ${esc(capitoli[k])}</option>`).join("")}</select>
+  <h2>Catena degli eventi</h2>`+ev.map(e=>`<button class="riga" data-id="${e.id}"><b>${esc(e.nome)}</b><small>${esc(e.quando)}${e.in_scena===false?" · fuori scena":""}</small>${esc(e.sintesi||"")}</button>`).join("");
+  el.querySelector("select").onchange=listaCapitoli;
+}
+function listaAperti(){
+  const gruppi=nodi.filter(esiste).map(n=>[n,apertiDi(n)]).filter(g=>g[1].length).sort((a,b)=>b[1].length-a[1].length);
+  const tot=gruppi.reduce((s,g)=>s+g[1].length,0);
+  $("lAperti").innerHTML=`<p class="meta">${tot} punti aperti in ${gruppi.length} schede (fino al cap. ${capMax}): incongruenze, dubbi e cose che il testo lascia in sospeso.</p>`+
+    gruppi.map(([n,ap])=>`<h2><button class="link" data-id="${n.id}" style="color:${COL[n.tipo]}">${esc(n.nome)}</button><span class="badge">${ap.length}</span></h2>`+
+      ap.map(a=>`<button class="riga ap" data-id="${n.id}">${esc(a.testo)}</button>`).join("")).join("");
+}
+
+// --- scheda -----------------------------------------------------------
+const L=id=>N[id]&&esiste(N[id])?`<button class="link" data-id="${id}">${esc(N[id].nome)}</button>${apertiDi(N[id]).length?`<span class="badge" title="punti aperti">${apertiDi(N[id]).length}</span>`:""}`:"";
+function elenco(titolo,voci,cls){
+  voci=(voci||[]).filter(vis);if(!voci.length)return"";
+  return`<h3>${titolo}</h3><ul class="${cls||""}">${voci.map(v=>`<li>${v.cap?`<b>Cap. ${v.cap}</b> — `:""}${esc(v.testo)}${fmtFonte(v.fonte)}</li>`).join("")}</ul>`;
+}
+function mostraScheda(){
+  const el=$("scheda"),n=N[sel];
+  if(!n||!esiste(n)){
+    const tot=nodi.filter(esiste).reduce((s,x)=>s+apertiDi(x).length,0);
+    el.innerHTML=`<h2>Il grafo del libro</h2><p>Ogni nodo è una scheda: un personaggio, un oggetto, un luogo, un concetto, un termine o un evento di <i>Mantra Prompting</i>. Ogni fatto riporta capitolo e riga del testo.</p>
+    <p>I nodi con il <span style="color:var(--open)">bordo arancione</span> hanno <b>punti aperti</b>: incongruenze o cose che il testo lascia in sospeso. Sono ${tot}.</p>
+    <p>Il cursore «Fino al cap.» nasconde schede, fatti ed eventi dei capitoli successivi. Nomi e riassunti delle schede restano quelli completi e possono anticipare qualcosa.</p>
+    <h3>Da dove partire</h3><ul>${["tom","emma","pete","signora-voss","tv-secondo-contatto","ewatch","compacting-context","tabella-di-conversione"].map(i=>`<li>${L(i)}</li>`).join("")}</ul>`;
+    return;
+  }
+  const ap=apertiDi(n);
+  let h=`<div class="tipo" style="color:${COL[n.tipo]}">${n.tipo.toUpperCase()}</div><h2>${esc(n.nome)}</h2>`;
+  if(n.tipo==="evento")h+=`<div class="meta">Cap. ${n.capitolo} — ${esc(capitoli[n.capitolo]||"")} · ${esc(n.quando)}${n.in_scena===false?" · fuori scena":""}</div>`;
+  else h+=`<div class="meta">${(n.alias||[]).length?"Detto anche: "+n.alias.map(esc).join(", ")+" · ":""}capitoli ${(n.capitoli||[]).filter(c=>c<=capMax).join(", ")}</div>`;
+  h+=`<p>${esc(n.sintesi||"")}</p>`;
+  if(ap.length)h+=`<div class="aperti"><h3>Punti aperti (${ap.length})</h3><ul>${ap.map(a=>`<li>${esc(a.testo)}</li>`).join("")}</ul></div>`;
+  if(n.tipo==="evento"){
+    const prima=(n.dopo||[]).map(L).filter(Boolean),poi=nodi.filter(e=>e.tipo==="evento"&&(e.dopo||[]).includes(n.id)).map(e=>L(e.id)).filter(Boolean);
+    h+=`<h3>Dove e chi</h3><ul>${n.dove?`<li>Dove: ${L(n.dove)}</li>`:""}<li>Coinvolti: ${(n.coinvolti||[]).map(L).filter(Boolean).join(", ")}</li></ul>`;
+    h+=`<h3>Catena</h3><ul><li>Viene da: ${prima.join(", ")||"—"}</li><li>Porta a: ${poi.join(", ")||"—"}</li></ul>`;
+  }
+  h+=elenco("Caratteristiche",n.caratteristiche)+elenco("Fatti",n.fatti)+elenco("Stato, capitolo per capitolo",n.stato);
+  h+=elenco("Cosa il testo non dice",n.non_detto,"nondetto");
+  const usc=archi.filter(a=>a.k==="rel"&&a.da===n.id&&vis(a)&&esiste(N[a.a])),ent=archi.filter(a=>a.k==="rel"&&a.a===n.id&&vis(a)&&esiste(N[a.da]));
+  if(usc.length||ent.length)h+=`<h3>Relazioni</h3><ul>${usc.map(a=>`<li>${esc(a.tipo)} ${L(a.a)}${a.nota?" — "+esc(a.nota):""}${fmtFonte(a.fonte)}</li>`).join("")}${ent.map(a=>`<li>${L(a.da)} <span class="meta">${esc(a.tipo)}</span> questa scheda${fmtFonte(a.fonte)}</li>`).join("")}</ul>`;
+  if(n.tipo!=="evento"){
+    const ev=nodi.filter(e=>e.tipo==="evento"&&e.capitolo<=capMax&&((e.coinvolti||[]).includes(n.id)||e.dove===n.id)).sort((a,b)=>a.ordine-b.ordine);
+    if(ev.length)h+=`<h3>Catena degli eventi (${ev.length})</h3><ul>${ev.map(e=>`<li><span class="meta">cap. ${e.capitolo}</span> ${L(e.id)}</li>`).join("")}</ul>`;
+  }
+  el.innerHTML=h;el.scrollTop=0;
+}
+function seleziona(id,centra){
+  if(!N[id])return;
+  sel=id;history.replaceState(null,"","#"+encodeURIComponent(id));
+  aggiorna(true);mostraScheda();
+  if(centra){const n=N[id];if(k<.9)k=.9;tx=W/2-n.x*k;ty=H/2-n.y*k;segui=id}
+  if(matchMedia("(max-width:820px)").matches&&$("c").style.visibility==="hidden")$("scheda").scrollIntoView({behavior:"smooth"});
+}
+
+// --- grafo: simulazione e disegno -------------------------------------
+const cv=$("c"),g=cv.getContext("2d");let W=0,H=0,dpr=1,tx=0,ty=0,k=.8,alpha=1;
+function ridimensiona(){const r=cv.getBoundingClientRect();dpr=devicePixelRatio||1;const primo=!W;W=r.width;H=r.height;cv.width=W*dpr;cv.height=H*dpr;if(primo){tx=W/2;ty=H/2;k=Math.min(1,W/900)}}
+const raggio=n=>4+Math.sqrt(n.grado)*1.5;
+function passo(){
+  const v=visibili,a=alpha;
+  for(let i=0;i<v.length;i++){const p=v[i];
+    for(let j=i+1;j<v.length;j++){const q=v[j];let dx=p.x-q.x,dy=p.y-q.y,d2=dx*dx+dy*dy+.01;
+      if(d2>160000)continue;const f=1400/d2*a;dx*=f;dy*=f;p.vx+=dx;p.vy+=dy;q.vx-=dx;q.vy-=dy}
+    p.vx-=p.x*.012*a;p.vy-=p.y*.012*a}
+  for(const e of archiVis){const p=N[e.da],q=N[e.a];let dx=q.x-p.x,dy=q.y-p.y,d=Math.sqrt(dx*dx+dy*dy)||1;
+    const f=(d-70)/d*.045*a/Math.sqrt(Math.min(p.grado,q.grado)||1)*2;dx*=f;dy*=f;p.vx+=dx;p.vy+=dy;q.vx-=dx;q.vy-=dy}
+  for(const p of v){if(p===trascinato)continue;p.vx*=.82;p.vy*=.82;p.x+=p.vx;p.y+=p.vy}
+  alpha=Math.max(0,alpha-.004);
+}
+function disegna(){
+  if(alpha>.01){passo();passo();if(segui&&N[segui]){tx=W/2-N[segui].x*k;ty=H/2-N[segui].y*k}}else segui=null;
+  g.setTransform(dpr,0,0,dpr,0,0);g.clearRect(0,0,W,H);
+  const vicini=new Set();const fuoco=sel&&visibili.includes(N[sel])?sel:null,f2=hover||fuoco;
+  if(f2)for(const e of archiVis){if(e.da===f2)vicini.add(e.a);if(e.a===f2)vicini.add(e.da)}
+  g.lineWidth=1;
+  for(const e of archiVis){const p=N[e.da],q=N[e.a],on=f2&&(e.da===f2||e.a===f2);
+    g.strokeStyle=on?"rgba(110,231,160,.75)":f2?"rgba(255,255,255,.035)":e.k==="rel"?"rgba(255,255,255,.13)":"rgba(255,255,255,.06)";
+    g.beginPath();g.moveTo(p.x*k+tx,p.y*k+ty);g.lineTo(q.x*k+tx,q.y*k+ty);g.stroke()}
+  const etichette=[];
+  for(const n of visibili){const x=n.x*k+tx,y=n.y*k+ty,r=raggio(n)*Math.max(.6,Math.min(1.6,k));
+    if(x<-40||y<-40||x>W+40||y>H+40)continue;
+    const acceso=!f2||n.id===f2||vicini.has(n.id),na=apertiDi(n).length;
+    g.globalAlpha=acceso?1:.18;g.fillStyle=COL[n.tipo];g.beginPath();
+    if(n.tipo==="evento")g.rect(x-r*.8,y-r*.8,r*1.6,r*1.6);else g.arc(x,y,r,0,7);g.fill();
+    if(na){g.strokeStyle=OPEN;g.lineWidth=2.5;g.beginPath();g.arc(x,y,r+3.5,0,7);g.stroke();g.lineWidth=1}
+    if(n.id===sel){g.strokeStyle="#fff";g.lineWidth=2;g.beginPath();g.arc(x,y,r+(na?7:3.5),0,7);g.stroke();g.lineWidth=1}
+    g.globalAlpha=1;
+    if(n.id===f2||n.id===sel||(f2&&vicini.has(n.id))||(!f2&&r*k>7.2))etichette.push([n,x,y,r,na,n.id===f2||n.id===sel]);
+  }
+  g.textBaseline="middle";
+  for(const [n,x,y,r,na,forte] of etichette){
+    g.font=(forte?"600 13px":"12px")+" system-ui,sans-serif";
+    const t=n.nome.length>34&&!forte?n.nome.slice(0,32)+"…":n.nome;
+    g.lineWidth=3;g.strokeStyle="rgba(14,17,22,.9)";g.strokeText(t,x+r+6,y);g.fillStyle=forte?"#fff":"#c9d1d9";g.fillText(t,x+r+6,y);g.lineWidth=1;
+  }
+  requestAnimationFrame(disegna);
+}
+requestAnimationFrame(disegna);
+
+// --- puntatore: sposta, zoom, trascina, tocca -------------------------
+function colpito(px,py){let m=null,md=1e9;for(const n of visibili){const dx=n.x*k+tx-px,dy=n.y*k+ty-py,d=Math.hypot(dx,dy)-raggio(n);if(d<md){md=d;m=n}}return md<12?m:null}
+const punt=new Map();let trascinato=null,mosso=0,pinch=0;
+const pos=e=>{const r=cv.getBoundingClientRect();return[e.clientX-r.left,e.clientY-r.top]};
+cv.onpointerdown=e=>{segui=null;cv.setPointerCapture(e.pointerId);const p=pos(e);punt.set(e.pointerId,p);mosso=0;
+  if(punt.size===1)trascinato=colpito(...p);else{trascinato=null;const[a,b]=[...punt.values()];pinch=Math.hypot(a[0]-b[0],a[1]-b[1])}
+  cv.style.cursor="grabbing"};
+cv.onpointermove=e=>{const p=pos(e);
+  if(!punt.has(e.pointerId)){const h=colpito(...p);hover=h?h.id:null;cv.style.cursor=h?"pointer":"grab";return}
+  const o=punt.get(e.pointerId),dx=p[0]-o[0],dy=p[1]-o[1];punt.set(e.pointerId,p);mosso+=Math.abs(dx)+Math.abs(dy);
+  if(punt.size===2){const[a,b]=[...punt.values()],d=Math.hypot(a[0]-b[0],a[1]-b[1]);zoom((a[0]+b[0])/2,(a[1]+b[1])/2,d/(pinch||d));pinch=d}
+  else if(trascinato){trascinato.x+=dx/k;trascinato.y+=dy/k;trascinato.vx=trascinato.vy=0;alpha=Math.max(alpha,.15)}
+  else{tx+=dx;ty+=dy}};
+cv.onpointerup=cv.onpointercancel=e=>{const p=pos(e);punt.delete(e.pointerId);
+  if(mosso<6){const n=colpito(...p);if(n)seleziona(n.id);else if(sel){sel=null;history.replaceState(null,"",location.pathname);aggiorna();mostraScheda()}}
+  trascinato=null;cv.style.cursor="grab"};
+cv.onpointerleave=()=>{hover=null};
+function zoom(x,y,f){const nk=Math.max(.15,Math.min(4,k*f));f=nk/k;tx=x-(x-tx)*f;ty=y-(y-ty)*f;k=nk}
+cv.addEventListener("wheel",e=>{e.preventDefault();segui=null;const p=pos(e);zoom(p[0],p[1],Math.exp(-e.deltaY*.0015))},{passive:false});
+</script>
+</body>
+</html>
