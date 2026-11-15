@@ -1,18 +1,15 @@
 id: log-tv-secondo-contatto
 nome: Log di sistema del secondo televisore
 capitoli: [3, 19]
-sintesi: "TOM LO APRE (cap. 3), dopo la procedura standard e prima di fare la domanda: si interrompe di netto, senza un errore, come quello del primo televisore. Nel cap. 19 Tom ne cita l'ultima riga: «compacting context»."
+sintesi: "TOM LO APRE (cap. 3), dopo la procedura standard e prima di fare la domanda: si interrompe di netto, senza un errore, come quello del primo televisore, quindi sulla stessa riga, «compacting context». Nel cap. 19 Tom la cita a Emma."
 caratteristiche:
   - {testo: "«Aprì anche il log, che si interrompeva di netto, senza un errore come il primo televisore.»", fonte: "c3:19"}
+  - {testo: "«Come il primo televisore»: interrotto allo stesso modo, cioè sulla stessa ultima riga, «compacting context». Il cap. 19 lo conferma", fonte: "c3:19, c19:39"}
   - {testo: "Lo apre PRIMA della domanda (nel cap. 1 il log era stato aperto DOPO la conversazione)", fonte: "c3:19"}
   - {testo: "«Orario dell'ultimo log disponibile» è uno dei campi che Tom riporta nel quaderno per ogni caso", fonte: "c3:13"}
   - {testo: "Nel meeting Tom dichiara: «il log di sistema si interrompeva di netto. Nessun errore, nessun crash, nessuna sequenza di spegnimento. L'ultima riga era compacting context.»", fonte: "c19:39"}
   - {testo: "Risposta di Emma: dopo il compattamento il log dovrebbe ripartire con la riga successiva; se si ferma lì, il problema è «quello che è successo dopo», che dal registro non si vede", fonte: "c19:41"}
   - {testo: "Nell'archivio di Emma: «log interrotti da un giorno all'altro»", fonte: "c12:15"}
-non_detto:
 relazioni:
   - {verso: log-tv-caso-zero, tipo: "interrotto allo stesso modo di", fonte: "c3:19"}
-
   - {verso: compacting-context, tipo: "termina con", fonte: "c19:39"}
-note:
-  - {testo: "Nel cap. 19 (r. 39) Tom dice che l'ultima riga del log del televisore Voss era «compacting context»; nel cap. 3 (r. 19), quando lo apre, il testo dice solo che si interrompe «come il primo». Il lettore del cap. 3 non sa che la riga c'è: se serve come preparazione, va resa esplicita."}

@@ -16,7 +16,7 @@ L'ultima riga del log del caso zero. Tom la conosce dal giradischi: la pausa di 
 
 ## Cosa NON dice il testo
 
-- Nei cap. 2 e 3 la stringa non compare. Per il secondo televisore il testo dice solo che il log si interrompe di netto.
+- Nel cap. 3 la stringa non è ripetuta: il log del secondo televisore si interrompe «come il primo», cioè sulla stessa riga (lo conferma il cap. 19).
 
 ## Relazioni
 
