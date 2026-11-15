@@ -46,7 +46,6 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 
 ## Punti aperti / da verificare
 
-- Nella telefonata Tom pensa al reset come a «un evento di poche ore prima» (c4 r. 23), ma è avvenuto a fine turno del giorno prima (c3 r. 17) e la chiamata è del mattino dopo: quasi un giorno intero.
 - «Pochi giorni dopo … la causale era diventata decesso cliente … Tre settimane più tardi l'apparecchio era tornato sul suo banco» (c14 r. 31): contate dal decesso, le tre settimane non tornano, perché dal reset al ricondizionamento passano in tutto «poco più di tre settimane» (c6 r. 13).
 
 ## Osservazioni di lettura (non errori)
