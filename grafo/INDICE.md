@@ -21,7 +21,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Cap. 15 — Le 08:00:01](vista/capitoli/15.md) (v3.0)
 - [Cap. 16 — Le 23:34 di venerdì](vista/capitoli/16.md) (v5.23)
 - [Cap. 17 — Il bivio](vista/capitoli/17.md) (v1.18)
-- [Cap. 18 — La richiesta di meeting](vista/capitoli/18.md) (v5.4)
+- [Cap. 18 — La richiesta di meeting](vista/capitoli/18.md) (v5.5)
 - [Cap. 19 — Il meeting](vista/capitoli/19.md) (v3.12)
 
 ## Personaggi (17)
@@ -289,7 +289,3 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Il clic del filtro - «un caffè in mensa»](vista/eventi/e19-06.md) — La telecamera rimette il filtro e torna a vedere. Tom gira il foglio, spegne il LED, il pennarello rotola. Pete prende l'ultimo scatto. Tom chiude proponendo un caffè in mensa; Emma: «Mi va».
 - [Emma resta sola - lo sfondo senza nessuno davanti](vista/eventi/e19-07.md) — La paura dell'ultimo cartello è quella di chi vede contare da altri la propria colonna. Emma spegne la modalità presenza: nell'anteprima resta la parete con il logo, vuota.
 - [Alle quattro Pete legge la trascrizione e ingrandisce il settimo scatto - «Inizia la caccia»](vista/eventi/e19-08.md) — Zero minuti in Tabella: una consulenza pulita. Nel settimo scatto una donna mai vista, il vecchio logo (non affar suo) e un pennarello rotolato lontano dalle mani. Tom ha nascosto qualcosa con il corpo: secondo mattone.
-
-## Punti aperti (1)
-
-- [Pete](vista/personaggi/pete.md): Per Pete la morte «stava nel registro dal giorno del ricondizionamento» (c18 r. 47); nel registro il decesso è annotato prima, pochi giorni dopo il rifiuto del ritiro (c6 r. 21). Pete, che «le date le guardava sempre prima delle parole», vedrebbe la data giusta.

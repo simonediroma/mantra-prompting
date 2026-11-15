@@ -38,6 +38,7 @@ caratteristiche:
   - {testo: "Al liceo diceva davvero «Quel pennarello te lo faccio mangiare»; chi nasconde con il corpo finiva nel suo armadietto", fonte: "c19:89-91"}
   - {testo: "Si sente limitato dalle stesse regole che fa rispettare; vuole essere ispettore, con accesso illimitato alla sorveglianza", fonte: "c19:93"}
   - {testo: "Camicia pulita; secondo sacchetto di onion rings della giornata", fonte: "c19:12, c19:85"}
+  - {testo: "Guarda le date prima delle parole: vede che la morte era nel registro «da giorni, da prima del ricondizionamento» e quindi da prima che Tom rispondesse a Emma. È così che fiuta l'osso", fonte: "c18:47"}
 non_detto:
   - {testo: "Nei cap. 1-3 Pete non compare mai in scena e non parla."}
 stato:
@@ -45,8 +46,6 @@ stato:
   - {cap: 17, testo: "Venerdì alle 23:59 riceve la segnalazione della mail fuori orario a Tom. Mette in fila sanzione, mail di dieci giorni prima, porta accostata. Aspetta che Tom la apra; si addormenta col telefono sulla pancia", fonte: "c17:60"}
   - {cap: 18, testo: "Sabato: legge per la prima volta l'intero thread. La morte taciuta da Tom è il «primo mattone». Attiva la trascrizione per il meeting delle 15 e si crea l'appuntamento «Doppia»", fonte: "c18:47, c18:70"}
   - {cap: 19, testo: "Segue il meeting dal pannello: sette scatti, di cui uno sprecato e quattro bianchi. La trascrizione è pulita (zero minuti). Ma nel settimo scatto c'è un pennarello: secondo mattone. «Inizia la caccia»", fonte: "c19:85-95"}
-aperti:
-  - {testo: "Per Pete la morte «stava nel registro dal giorno del ricondizionamento» (c18 r. 47); nel registro il decesso è annotato prima, pochi giorni dopo il rifiuto del ritiro (c6 r. 21). Pete, che «le date le guardava sempre prima delle parole», vedrebbe la data giusta."}
 relazioni:
   - {verso: divisione-assistenza-tecnica, tipo: "supervisore della", fonte: "c2:23"}
   - {verso: comunicazione-formale-scostamento, tipo: "firma", fonte: "c2:23"}
