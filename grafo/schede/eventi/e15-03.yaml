@@ -1,0 +1,13 @@
+id: e15-03
+nome: Pete passa davanti alla porta e rallenta
+capitolo: 15
+ordine: 15.3
+quando: "subito dopo"
+dove: laboratorio-di-tom
+dopo: [e15-01, e10-0a]
+coinvolti: [tom, pete, porta-accostata]
+sintesi: "Tom riconosce il passo. Pete rallenta, gira appena la testa verso il tecnico seduto al banco vuoto, e prosegue verso le scale senza una parola."
+fatti:
+  - {testo: "Il passaggio", fonte: "c15:23"}
+  - {testo: "Dal lato di Pete", fonte: "c17:52"}
+

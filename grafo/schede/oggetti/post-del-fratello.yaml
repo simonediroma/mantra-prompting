@@ -1,0 +1,19 @@
+id: post-del-fratello
+nome: Post del fratello (con la foto della signora Voss)
+capitoli: [6, 7, 12, 15]
+sintesi: "Il post social, sotto il nome della signora Voss, da cui Tom apprende la causa della morte."
+caratteristiche:
+  - {testo: "Su «un social», sotto il nome della signora; sotto, una fila di condoglianze", fonte: "c6:31"}
+  - {testo: "Testo: «Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.»", fonte: "c6:31"}
+  - {testo: "Foto di qualche anno prima: la signora in piedi nel suo salotto, televisore spento alle spalle, eWatch al polso", fonte: "c6:31"}
+  - {testo: "Dalla foto Tom deduce l'età della signora: sulla cinquantina", fonte: "c7:17"}
+  - {testo: "Tom lo ha trovato «la sera del ricondizionamento»", fonte: "c15:27"}
+non_detto:
+  - {testo: "Quale social e la data del post non sono indicati."}
+aperti:
+  - {testo: "Due foto della signora nel salotto con televisore ed eWatch: quella del post del fratello (c6 r. 31, in piedi, televisore spento) e quella dell'articolo (c12 r. 13, sorridente, tappetino arrotolato). Stessa foto o due diverse? Nella prima il tappetino non è nominato."}
+relazioni:
+  - {verso: signora-voss, tipo: "annuncia la morte di", fonte: "c6:31"}
+  - {verso: ewatch, tipo: "mostra", fonte: "c6:31"}
+  - {verso: tv-secondo-contatto, tipo: "mostra", fonte: "c6:31"}
+

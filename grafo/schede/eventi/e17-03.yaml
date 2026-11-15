@@ -1,0 +1,15 @@
+id: e17-03
+nome: Alle 23:59 Pete riceve il riepilogo di mezzanotte
+capitolo: 17
+ordine: 17.3
+quando: "venerdì, 23:59"
+dove: casa-di-pete
+dopo: [e16-06]
+coinvolti: [pete, riepilogo-di-mezzanotte, mail-delle-2334, ciao-darwin, tabella-di-conversione, smutandata]
+sintesi: "Sul divano, in mutande, davanti a Ciao Darwin. Sotto le solite righe ce n'è una nuova: mail fuori orario ricevuta da Tom, contenuto non disponibile, nessuna infrazione."
+fatti:
+  - {testo: "Pete e la sua sera", fonte: "c17:26-28"}
+  - {testo: "La Tabella", fonte: "c17:31-36"}
+  - {testo: "Ciao Darwin", fonte: "c17:38"}
+  - {testo: "Il riepilogo", fonte: "c17:40-50"}
+

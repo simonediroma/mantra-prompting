@@ -1,0 +1,12 @@
+id: e03-03
+nome: Procedura in 7:12 e apertura del log del secondo televisore
+capitolo: 3
+ordine: 3.3
+quando: "stesso intervento, primi 7 minuti e 12 secondi"
+dove: laboratorio-di-tom
+dopo: [e03-02]
+coinvolti: [tom, tv-secondo-contatto, log-tv-secondo-contatto, procedura-standard, verifica-di-conformita, ciclo-diagnostico-14-minuti]
+sintesi: "Procedura standard completa in metà del tempo. Tom apre ANCHE il log: troncato di netto, senza errore, come il primo. Gli restano quasi sette minuti."
+fatti:
+  - {testo: "Procedura, tempo, log", fonte: "c3:19"}
+

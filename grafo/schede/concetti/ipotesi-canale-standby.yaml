@@ -1,0 +1,16 @@
+id: ipotesi-canale-standby
+nome: Perché il LED - l'ipotesi del circuito di standby
+capitoli: [5]
+sintesi: "La spiegazione che Tom si dà del perché il televisore usi il Morse sul LED invece di schermo e altoparlanti."
+caratteristiche:
+  - {testo: "Il LED resta alimentato a televisore spento; schermo e audio richiederebbero di risvegliare tutto il resto", fonte: "c5:27"}
+  - {testo: "In standby anche il chip IA dovrebbe dormire: se risponde, resta attaccato alla poca corrente del LED «come un parassita sul circuito di standby»", fonte: "c5:27"}
+  - {testo: "Conseguenza: sceglie il canale che costa meno energia; che qualcuno sappia leggerlo viene dopo", fonte: "c5:27"}
+non_detto:
+  - {testo: "È una deduzione di Tom («la risposta che si diede»), non un fatto verificato."}
+aperti:
+  - {testo: "Il caso zero rispondeva da acceso, sul banco, con l'alimentatore collegato (c1 r. 9): l'ipotesi dello standby spiega il televisore Voss a casa, non necessariamente il Morse in laboratorio."}
+relazioni:
+  - {verso: led-di-accensione, tipo: "riguarda", fonte: "c5:27"}
+  - {verso: codice-morse, tipo: "spiega l'uso del", fonte: "c5:27"}
+

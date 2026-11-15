@@ -1,0 +1,10 @@
+id: internal-unknown
+nome: internal_unknown
+capitoli: [9]
+sintesi: "Il valore del campo «Modello» nella corrispondenza trovata nell'archivio interno."
+caratteristiche:
+  - {testo: "«Modello: internal_unknown», accanto a «Autore: unknown»", fonte: "c9:33-34"}
+  - {testo: "Da collegare a: «i modelli più vecchi, mai aggiornati, lasciavano solo un sì senza nome»", fonte: "c9:25"}
+non_detto:
+  - {testo: "Il cap. 9 non spiega esplicitamente l'etichetta: il legame con i modelli vecchi è lasciato al lettore."}
+

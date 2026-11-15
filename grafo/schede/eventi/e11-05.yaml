@@ -1,0 +1,15 @@
+id: e11-05
+nome: Emma aggiorna l'archivio delle anomalie - il frigorifero, gli smoothie
+capitolo: 11
+ordine: 11.5
+quando: "il pomeriggio"
+dove: stanza-di-emma
+dopo: [e11-04, e11-0a]
+coinvolti: [emma, archivio-di-emma, lista-dispositivi-in-assistenza, frigorifero-anomalo, cliente-del-frigorifero, eblog]
+sintesi: "Registra il frigorifero, incrocia il traffico di eBlog, separa i dispositivi con chip da quelli senza: i primi crescono mese dopo mese."
+fatti:
+  - {testo: "La lista e l'archivio", fonte: "c11:29"}
+  - {testo: "Il frigorifero", fonte: "c11:31"}
+  - {testo: "Le pageview", fonte: "c11:33"}
+  - {testo: "La colonna e l'andamento", fonte: "c11:35"}
+

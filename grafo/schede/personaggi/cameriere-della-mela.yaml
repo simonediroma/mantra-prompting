@@ -1,0 +1,9 @@
+id: cameriere-della-mela
+nome: Il cameriere della Mela Morsicata
+capitoli: [16]
+sintesi: "L'unico impiegato del locale. Saluta ognuno col nome che si è dato."
+caratteristiche:
+  - {testo: "«Ciao, stranger» agli sconosciuti, con lo stesso entusiasmo", fonte: "c16:31"}
+  - {testo: "Ha smesso di insistere perché Emma ordini", fonte: "c16:35"}
+  - {testo: "Saluta Emma per nome: «Ciao, Emma, a presto», «da qualche parte»", fonte: "c16:49"}
+

@@ -1,0 +1,13 @@
+id: transcript-del-video
+nome: Transcript del parlato del video di yoga
+capitoli: [9]
+sintesi: "Il documento in cui Tom trascrive parola per parola tutto ciò che la ragazza dice nei quindici minuti del video."
+caratteristiche:
+  - {testo: "Solo il parlato: niente pose, niente musica. Dall'apertura all'ultimo consiglio prima dei saluti", fonte: "c9:15"}
+  - {testo: "Incollato per intero in Undetectable AI, ZeroGPT e Hive: due su tre lo danno per generato, il terzo resta sul reale «ma di poco»", fonte: "c9:19"}
+  - {testo: "Le frasi d'apertura, ribattute a memoria, sono la chiave di ricerca nell'archivio interno", fonte: "c9:27"}
+aperti:
+  - {testo: "Tempi: alzandosi un'ora prima Tom carica il video, aspetta il verdetto, trascrive a mano quindici minuti di parlato e interroga tre servizi prima di uscire in orario. Trascrivere quindici minuti di parlato richiede di norma più di un'ora."}
+relazioni:
+  - {verso: rilevatori-ia, tipo: "analizzato da", fonte: "c9:19"}
+

@@ -1,0 +1,13 @@
+id: e06-01
+nome: Il televisore Voss torna sul banco di Tom per il ricondizionamento
+capitolo: 6
+ordine: 6.1
+quando: "poco più di tre settimane dopo il reset, durante il turno"
+dove: laboratorio-di-tom
+dopo: [e06-0b, e06-0a]
+coinvolti: [tom, tv-secondo-contatto, carrello-del-ricondizionamento, ricondizionamento]
+sintesi: "Arriva nel lotto con l'etichetta gialla. Tom confronta il numero di serie a memoria: è quello della signora Voss, molto prima dei 120 giorni."
+fatti:
+  - {testo: "L'arrivo e il numero di serie", fonte: "c6:9-11"}
+  - {testo: "Le tre settimane contro i 120 giorni", fonte: "c6:13"}
+

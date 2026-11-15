@@ -1,0 +1,13 @@
+id: e14-03
+nome: Tom mette in fila cosa dire e cosa tacere
+capitolo: 14
+ordine: 14.3
+quando: "il resto della mattina"
+dove: laboratorio-di-tom
+dopo: [e14-02]
+coinvolti: [tom, apparecchi-ordinari, registro-interventi, tv-secondo-contatto, signora-voss, quaderno-nero, video-della-voss, cellulare-di-tom, pete]
+sintesi: "Mentre ripara, decide: modello e guasto si possono dire; la morte è un fatto come gli altri ma non si decide a metterlo in fila; Morse, quaderno, video e telefonata restano fuori."
+fatti:
+  - {testo: "Cosa si può dire", fonte: "c14:31"}
+  - {testo: "Cosa resta fuori", fonte: "c14:33"}
+

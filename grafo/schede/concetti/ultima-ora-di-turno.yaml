@@ -1,0 +1,9 @@
+id: ultima-ora-di-turno
+nome: L'ultima ora di turno
+capitoli: [9]
+sintesi: "La finestra in cui Tom fa le cose rischiose in azienda: corridoio vuoto, colleghi distratti dal cambio turno, porta a doppia mandata."
+caratteristiche:
+  - {testo: "Il corridoio si svuota e nessuno bussa a una porta chiusa", fonte: "c9:25"}
+relazioni:
+  - {verso: laboratorio-di-tom, tipo: "si svolge in", fonte: "c9:25"}
+

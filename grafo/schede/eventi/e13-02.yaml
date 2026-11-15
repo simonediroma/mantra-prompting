@@ -1,0 +1,14 @@
+id: e13-02
+nome: Emma rilegge tutto l'archivio - ogni caso ha la sua curva
+capitolo: 13
+ordine: 13.2
+quando: "la stessa mattina"
+dove: stanza-di-emma
+dopo: [e13-01, e11-05]
+coinvolti: [emma, archivio-di-emma, meccanismo-della-ripetizione, frigorifero-anomalo, eblog]
+sintesi: "Caso per caso trova la curva attesa nei giorni prima della chiamata. Per la prima volta legge insieme curve e nomi. Prova il solito piccolo sollievo: il video ha funzionato."
+fatti:
+  - {testo: "Il frigorifero e la discesa nell'archivio", fonte: "c13:25"}
+  - {testo: "Il meccanismo", fonte: "c13:27"}
+  - {testo: "Il sollievo", fonte: "c13:29"}
+

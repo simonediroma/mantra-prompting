@@ -1,0 +1,12 @@
+id: e09-04
+nome: Tom riconosce il nome Elab
+capitolo: 9
+ordine: 9.4
+quando: "subito dopo"
+dove: laboratorio-di-tom
+dopo: [e09-03]
+coinvolti: [tom, elab, meridian, canale-etv, tv-secondo-contatto, signora-voss]
+sintesi: "Il video è un prodotto Meridian finito sul televisore Meridian di una cliente Meridian. Elab: un laboratorio di punta di dieci anni prima, muto da cinque."
+fatti:
+  - {testo: "La catena Meridian", fonte: "c9:37"}
+  - {testo: "Il ricordo di Elab", fonte: "c9:39"}

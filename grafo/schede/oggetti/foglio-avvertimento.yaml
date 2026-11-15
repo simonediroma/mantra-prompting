@@ -1,0 +1,15 @@
+id: foglio-avvertimento
+nome: Foglio con l'avvertimento decifrato
+capitoli: [5, 7, 18]
+sintesi: "Il foglio su cui Tom ricompone, a casa, il messaggio del video della signora Voss."
+caratteristiche:
+  - {testo: "Tom resta chino sul foglio fino a indolenzirsi il collo", fonte: "c5:25"}
+  - {testo: "Testo: STAI / ESAGERANDO / CON / LO / YOGA / IL / TUO / CUORE / NON / REGGE / PIU / FERMATI / O / RISCHI / LA / VITA", fonte: "c5:23"}
+  - {testo: "Tom lo ripiega", fonte: "c5:27"}
+  - {testo: "Le prime due parole, STAI / ESAGERANDO, tornano in mente a Tom davanti ai titoli «yoga fit»: «nessuno esagera con lo yoga dolce»", fonte: "c7:19"}
+  - {testo: "Il messaggio è «l'unica volta in cui Tom l'aveva visto parlarle»; è ciò che smentisce la parola «minacciata»", fonte: "c18:15"}
+non_detto:
+  - {testo: "Dove finisca il foglio dopo essere stato ripiegato non è detto. È un secondo foglio di trascrizione, distinto da quello «IO / SONO / QUI» rimasto nel cassetto del laboratorio."}
+relazioni:
+  - {verso: casa-di-tom, tipo: "si trova in", fonte: "c5:17"}
+

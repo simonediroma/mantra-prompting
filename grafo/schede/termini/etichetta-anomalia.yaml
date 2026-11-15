@@ -1,0 +1,9 @@
+id: etichetta-anomalia
+nome: Etichetta «anomalia riscontrata durante l'operazione»
+capitoli: [1]
+sintesi: "La classificazione che Tom usa per rimandare il caso zero nella pipeline invece di chiuderlo con un reset."
+caratteristiche:
+  - {testo: "Indica una complicazione tecnica insorta durante il servizio, non il guasto originale del cliente", fonte: "c1:97"}
+  - {testo: "Effetto atteso: secondo giro di diagnosi, che Tom spera di riprendere lui il giorno dopo", fonte: "c1:97"}
+  - {testo: "Effetto reale: riassegnazione a un altro tecnico per un reset diagnostico completo", fonte: "c2:33-37"}
+

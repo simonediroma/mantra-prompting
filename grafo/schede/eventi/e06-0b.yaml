@@ -1,0 +1,13 @@
+id: e06-0b
+nome: L'assistenza ricontatta la signora Voss - «non lo voglio più in casa»
+capitolo: 6
+ordine: 6.02
+quando: "nelle tre settimane dopo il reset (data non indicata)"
+in_scena: false
+dopo: [e03-05, e04-04]
+coinvolti: [signora-voss, tv-secondo-contatto, ricondizionamento, registro-interventi]
+sintesi: "Ricontattata per il ritiro, la signora rifiuta il televisore e chiede il rimborso del 33%. Scatta la scorciatoia del protocollo."
+fatti:
+  - {testo: "La prima voce del registro", fonte: "c6:19"}
+  - {testo: "La scorciatoia", fonte: "c6:15"}
+

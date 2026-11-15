@@ -1,0 +1,15 @@
+id: e15-02
+nome: Le 08:00:01 - «intendeva proprio quello?»
+capitolo: 15
+ordine: 15.2
+quando: "alle 08:00:01"
+dove: laboratorio-di-tom
+dopo: [e15-01, e14-05]
+coinvolti: [tom, emma, terza-mail-di-emma, ewatch, regole-sulla-posta, scheda-cliente-secondo-tv, signora-voss, terminale-del-turno, nastro]
+sintesi: "Il banco è vuoto, l'eWatch vibra. Emma chiede se «si rifiuta» fosse alla lettera: la distinzione che solo Tom e la signora conoscevano. Il cuore gli parte; dice alla stanza «E tu come fai a saperlo?» e si guarda il polso."
+fatti:
+  - {testo: "Le otto e la notifica", fonte: "c15:11"}
+  - {testo: "La mail", fonte: "c15:15"}
+  - {testo: "La frase copiata dalla scheda", fonte: "c15:17"}
+  - {testo: "La reazione", fonte: "c15:19-21"}
+

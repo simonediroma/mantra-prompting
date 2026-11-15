@@ -1,0 +1,12 @@
+id: e05-01
+nome: Tom arriva con due minuti di ritardo
+capitolo: 5
+ordine: 5.1
+quando: "mercoledì, inizio turno di mattina"
+dove: sede-assistenza
+dopo: [e04-05]
+coinvolti: [tom, soglia-ritardo-cinque-minuti, anticipo-di-quindici-minuti, pete]
+sintesi: "Primo ritardo in dodici anni. Sotto i cinque minuti nessun avviso al supervisore, ma l'orario è registrato."
+fatti:
+  - {testo: "Il badge al varco e la soglia", fonte: "c5:9"}
+

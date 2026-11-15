@@ -1,0 +1,11 @@
+id: e00-01
+nome: Il log del caso zero si interrompe; il cliente consegna il televisore
+capitolo: 1
+ordine: 0.1
+quando: "prima del cap. 1 (data non indicata)"
+in_scena: false
+coinvolti: [tv-caso-zero, log-tv-caso-zero, cliente-caso-zero, compacting-context]
+sintesi: "Il log si ferma su «compacting context» prima della consegna; il cliente porta il televisore in assistenza perché non si accende e non risponde al telecomando."
+fatti:
+  - {testo: "La riga è lì da prima che il televisore arrivi sul banco", fonte: "c1:93"}
+

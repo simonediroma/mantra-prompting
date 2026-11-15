@@ -1,0 +1,12 @@
+id: e10-03
+nome: Il tono di Emma si raffredda; risponde alle 16:59
+capitolo: 10
+ordine: 10.3
+quando: "lo stesso giorno, fino alle 16:59"
+dove: stanza-di-emma
+dopo: [e10-02]
+coinvolti: [emma, risposta-di-emma, tom]
+sintesi: "Preparata a rispondere con calore, Emma si ritrova in un registro asciutto senza averlo deciso. Decide cosa far sapere a Tom e invia a fine turno."
+fatti:
+  - {testo: "Il cambio di registro", fonte: "c10:25"}
+  - {testo: "L'invio", fonte: "c10:27"}

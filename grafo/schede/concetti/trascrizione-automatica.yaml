@@ -1,0 +1,13 @@
+id: trascrizione-automatica
+nome: Trascrizione automatica obbligatoria
+capitoli: [18, 19]
+sintesi: "L'opzione con cui un supervisore riceve, parola per parola, ciò che si dice nel meeting di un sottoposto."
+caratteristiche:
+  - {testo: "Sta nelle impostazioni dei meeting della divisione, accanto al nome di ogni tecnico. Pete non l'aveva mai usata: nessuno dei suoi tecnici fa meeting", fonte: "c18:64"}
+  - {testo: "Attivata per Tom e per quel solo appuntamento: alle quattro la trascrizione sarà nella casella di Pete", fonte: "c18:64"}
+  - {testo: "Emma non ne è avvisata; Tom lo sa «oppure lo temeva»", fonte: "c19:31"}
+non_detto:
+relazioni:
+  - {verso: pete, tipo: "attivata da", fonte: "c18:64"}
+  - {verso: invito-di-emma, tipo: "applicata al meeting di", fonte: "c18:64"}
+

@@ -1,0 +1,12 @@
+id: e10-01
+nome: La routine del mattino di Emma - il falso trend del sifone
+capitolo: 10
+ordine: 10.1
+quando: "il mattino dopo la mail"
+dove: stanza-di-emma
+coinvolti: [emma, strumento-di-emma, ciao-darwin]
+sintesi: "Emma fa girare il suo strumento. Il picco in bricolage sul sifone viene da una puntata di Ciao Darwin: lo scarta."
+fatti:
+  - {testo: "Lo strumento", fonte: "c10:9"}
+  - {testo: "Il picco e la verifica", fonte: "c10:11"}
+

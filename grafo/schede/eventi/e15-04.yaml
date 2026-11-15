@@ -1,0 +1,13 @@
+id: e15-04
+nome: Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch
+capitolo: 15
+ordine: 15.4
+quando: "primo intervento del turno"
+dove: laboratorio-di-tom
+dopo: [e15-02, e06-04]
+coinvolti: [tom, tritatutto, ewatch, ipotesi-ewatch, quaderno-nero, post-del-fratello, signora-voss, tv-secondo-contatto, verifica-di-conformita]
+sintesi: "Il proprio orologio gli ricorda quello della signora nella foto. Gli apparecchi di una casa si parlano: il televisore aveva i numeri del cuore. Non è una prova."
+fatti:
+  - {testo: "Il tritatutto", fonte: "c15:25"}
+  - {testo: "I due orologi", fonte: "c15:27"}
+

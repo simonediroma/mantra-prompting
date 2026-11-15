@@ -1,0 +1,15 @@
+id: e19-03
+nome: «Per la trascrizione» - Tom detta, Emma capisce
+capitolo: 19
+ordine: 19.3
+quando: "primi minuti del meeting"
+dove: laboratorio-di-tom
+dopo: [e19-02]
+coinvolti: [tom, emma, trascrizione-automatica, trascrizione-del-meeting, elab, log-tv-secondo-contatto, compacting-context, cartelli-di-tom]
+sintesi: "Tom interrompe e detta l'oggetto del meeting. Emma capisce che sono ascoltati e lo chiama «collega». A voce, una consulenza: il log del televisore Voss finiva su «compacting context». Emma spiega il compattamento: il problema è ciò che viene dopo."
+fatti:
+  - {testo: "La dettatura", fonte: "c19:27-33"}
+  - {testo: "«Collega»", fonte: "c19:35-37"}
+  - {testo: "La domanda sul log", fonte: "c19:39"}
+  - {testo: "La risposta di Emma", fonte: "c19:41"}
+

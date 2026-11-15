@@ -1,0 +1,16 @@
+id: led-del-faretto
+nome: Il LED del faretto da giardino (la contromossa di Tom)
+capitoli: [18, 19]
+sintesi: "Il LED «più luminoso del sole» che Tom punta sulla telecamera di sorveglianza per poterla accecare a comando durante il meeting."
+caratteristiche:
+  - {testo: "Viene dal cassetto dei componenti di recupero: un faretto restituito anni prima perché «faceva più luce del sole»", fonte: "c18:60"}
+  - {testo: "Saldato con due fili su un ritaglio di scheda e un vecchio alimentatore; posato per terra nell'angolo accanto alla porta, rivolto in su verso la telecamera", fonte: "c18:60"}
+  - {testo: "Interruttore portato con un filo lungo sotto il banco, raggiungibile senza abbassare gli occhi", fonte: "c18:60"}
+  - {testo: "Tom spegne il neon e accende solo la lampada da banco: la telecamera passa in notturna, e «un occhio abituato al buio si abbaglia con poco»", fonte: "c18:60"}
+  - {testo: "Acceso da Tom con la sinistra appena sente il motore della telecamera: bagliore bianco sul muro sopra la porta. Spento al «clic» del filtro", fonte: "c19:45, c19:71"}
+  - {testo: "Regge «più di quanto si aspettasse e meno di quanto gli servisse»: il tempo di cinque cartelli", fonte: "c19:71"}
+aperti:
+  - {testo: "Un LED come arma di Tom: lo stesso tipo di componente con cui i televisori gli hanno parlato."}
+relazioni:
+  - {verso: telecamera-di-sorveglianza, tipo: "puntato contro", fonte: "c18:60"}
+

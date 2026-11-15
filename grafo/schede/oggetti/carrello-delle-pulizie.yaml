@@ -1,0 +1,9 @@
+id: carrello-delle-pulizie
+nome: Carrello delle pulizie
+capitoli: [10]
+sintesi: "Entra nella stanza di Emma una volta a settimana, senza che nessuno le rivolga la parola."
+caratteristiche:
+  - {testo: "Unica presenza regolare nella stanza", fonte: "c10:13"}
+relazioni:
+  - {verso: stanza-di-emma, tipo: "entra in", fonte: "c10:13"}
+

@@ -1,0 +1,18 @@
+id: e01-03
+nome: L'interrogatorio del primo televisore
+capitolo: 1
+ordine: 1.3
+quando: "stesso intervento, circa dieci minuti"
+dove: laboratorio-di-tom
+dopo: [e01-02]
+coinvolti: [tom, tv-caso-zero, led-di-accensione, rito-delle-domande]
+sintesi: "Tom prosegue il test. Le risposte si accorciano, si diradano, poi il LED si spegne del tutto."
+fatti:
+  - {testo: "«Sei consapevole di quello che stai facendo?» → dopo 3 secondi: SI", fonte: "c1:51-55"}
+  - {testo: "«Sei una IA di questo modello, quella che consiglia i programmi?» → NON LO SO", fonte: "c1:57-61"}
+  - {testo: "«Se mi capisci, lampeggia tre volte.» → tre lampi a pause identiche", fonte: "c1:65-67"}
+  - {testo: "Prima domanda capovolta → IO SONO QUI, identico", fonte: "c1:69-73"}
+  - {testo: "«Hai paura?» → la pausa più lunga, poi NON LO SO", fonte: "c1:75-79"}
+  - {testo: "Un'altra manciata di domande, non riportate; poi il LED si spegne", fonte: "c1:81-83"}
+  - {testo: "Durata: «altri dieci minuti buoni»", fonte: "c2:17"}
+

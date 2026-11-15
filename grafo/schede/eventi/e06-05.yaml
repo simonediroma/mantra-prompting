@@ -1,0 +1,13 @@
+id: e06-05
+nome: Tom decide di cercare il video di yoga
+capitolo: 6
+ordine: 6.5
+quando: "la stessa sera"
+dove: casa-di-tom
+dopo: [e06-04]
+coinvolti: [tom, video-yoga, video-della-voss, quaderno-nero, cellulare-di-tom, mantra]
+sintesi: "Sospetta un legame tra il video ripetuto e la presa di coscienza. Annota il quaderno, trascrive la frase della signora e la cerca su YouTube."
+fatti:
+  - {testo: "Il sospetto e i suoi limiti", fonte: "c6:33"}
+  - {testo: "Le righe sul quaderno", fonte: "c6:37"}
+  - {testo: "La ricerca", fonte: "c6:39-41"}

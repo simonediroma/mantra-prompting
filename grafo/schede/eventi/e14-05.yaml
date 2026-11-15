@@ -1,0 +1,13 @@
+id: e14-05
+nome: Tom invia quando il nastro riparte
+capitolo: 14
+ordine: 14.5
+quando: "fine della pausa pranzo"
+dove: laboratorio-di-tom
+dopo: [e14-04]
+coinvolti: [tom, risposta-di-tom, nastro, emma, ewatch]
+sintesi: "Al «clac» del nastro preme invio. Qualche secondo dopo arriva un tostapane."
+fatti:
+  - {testo: "L'invio", fonte: "c14:39"}
+  - {testo: "Il tostapane", fonte: "c14:41"}
+

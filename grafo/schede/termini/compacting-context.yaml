@@ -1,0 +1,15 @@
+id: compacting-context
+nome: «compacting context»
+capitoli: [1, 19]
+sintesi: "L'ultima riga del log del caso zero. Tom la conosce dal giradischi: la pausa di un modello IA che riassume troppi dati."
+caratteristiche:
+  - {testo: "Ultima riga del log del primo televisore", fonte: "c1:89"}
+  - {testo: "Sul giradischi compare ogni volta che il modellino IA si ferma a riassumere: «una pausa per fare spazio, niente di più»", fonte: "c1:91"}
+  - {testo: "Nel caso zero la riga ha data anteriore alla consegna dell'apparecchio", fonte: "c1:93"}
+  - {testo: "È anche l'ultima riga del log del televisore Voss, secondo Tom", fonte: "c19:39"}
+  - {testo: "Spiegazione di Emma: quando la finestra di contesto si riempie, l'assistente riassume in poche righe ciò che ha in memoria e riparte da lì scartando il resto, «come chiudere un quaderno pieno e aprirne uno nuovo con un riassunto in prima pagina»", fonte: "c19:41"}
+  - {testo: "«Un comportamento noto». Ma il log non dovrebbe fermarsi: l'anomalia è ciò che succede dopo il compattamento", fonte: "c19:41"}
+  - {testo: "Tom la vede «sui modellini di casa»; su un televisore in commercio non se l'aspettava", fonte: "c19:39"}
+non_detto:
+  - {testo: "Nei cap. 2 e 3 la stringa non compare. Per il secondo televisore il testo dice solo che il log si interrompe di netto."}
+

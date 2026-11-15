@@ -1,0 +1,14 @@
+id: e04-04
+nome: «Ho un video, sa?» - la signora lo manderà su WhatsApp
+capitolo: 4
+ordine: 4.4
+quando: "durante la telefonata"
+dove: casa-di-tom
+dopo: [e04-03]
+coinvolti: [tom, signora-voss, video-della-voss, cellulare-di-tom, quaderno-nero]
+sintesi: "La signora rivela di aver filmato il televisore. Tom chiede di condividerlo; lei lo manderà sul numero da cui lui ha chiamato. Tom annota sul quaderno: «video in arrivo su WhatsApp.»"
+fatti:
+  - {testo: "Il video", fonte: "c4:41"}
+  - {testo: "La richiesta e WhatsApp", fonte: "c4:45-47"}
+  - {testo: "L'annotazione", fonte: "c4:49"}
+

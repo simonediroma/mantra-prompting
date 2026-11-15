@@ -1,0 +1,24 @@
+id: elab
+nome: Elab
+capitoli: [9, 10, 14, 18, 19]
+sintesi: "Laboratorio di ricerca Meridian sul comportamento emergente delle IA. Progetto di punta quasi dieci anni prima, silenzioso da cinque. Il suo indirizzo è il contatto del video di yoga."
+caratteristiche:
+  - {testo: "«Un progetto di punta di quasi dieci anni prima»: ricerca avanzata sul comportamento emergente delle intelligenze artificiali", fonte: "c9:39"}
+  - {testo: "Se ne parlava spesso nelle newsletter interne: «un'iniziativa da mostrare con orgoglio quando le cose vanno bene»", fonte: "c9:39"}
+  - {testo: "Negli ultimi cinque anni Tom non ne ha più sentito parlare, «nemmeno in una nota a piè di pagina»", fonte: "c9:39"}
+  - {testo: "Contatto in archivio: elab@meridian.com", fonte: "c9:35"}
+  - {testo: "Ne resta una sola persona: Emma, «l'ultima voce di un organigramma che nessuno si prendeva più la briga di aggiornare»", fonte: "c10:13"}
+  - {testo: "Il gruppo originale è stato spostato, riassegnato, promosso altrove, uno per uno", fonte: "c10:13"}
+  - {testo: "Per il resto dell'azienda il nome sopravvive in pochi documenti dimenticati; un tempo era uno dei nomi più noti di Meridian", fonte: "c10:13, c10:23"}
+  - {testo: "Fondato dal fondatore di Meridian", fonte: "c10:13"}
+  - {testo: "Non ha più le credenziali di reparto: non può togliere il proprio contatto dall'archivio senza lasciare traccia", fonte: "c10:23"}
+  - {testo: "Per Tom è «un laboratorio che l'azienda credeva chiuso»", fonte: "c14:37"}
+  - {testo: "Riceveva un tempo «tutto quello che arrivava agli altri»: nelle sue vecchie cartelle c'è il pacchetto di avvio dei meeting con istruzioni e sfondi", fonte: "c18:37"}
+  - {testo: "Pete non ne sa niente", fonte: "c18:45"}
+  - {testo: "Nel verbale del meeting compare come «laboratorio Elab», a cui un tecnico chiede una consulenza sui log", fonte: "c19:29"}
+non_detto:
+relazioni:
+  - {verso: meridian, tipo: "laboratorio di", fonte: "c9:39"}
+  - {verso: indirizzo-elab, tipo: "risponde a", fonte: "c9:35"}
+
+  - {verso: stanza-di-emma, tipo: "ha sede in", fonte: "c10:13"}

@@ -1,0 +1,14 @@
+id: e09-02
+nome: Tom trascrive il parlato - due rilevatori su tre lo danno per generato
+capitolo: 9
+ordine: 9.2
+quando: "la stessa mattina, prima di uscire"
+dove: casa-di-tom
+dopo: [e09-01]
+coinvolti: [tom, transcript-del-video, rilevatori-ia, origine-non-determinabile, video-yoga]
+sintesi: "Isola la variabile: solo il testo. Due su tre si sbilanciano, nessuno dice il modello. Tom esce col solito anticipo."
+fatti:
+  - {testo: "Il transcript", fonte: "c9:15-17"}
+  - {testo: "I tre verdetti", fonte: "c9:19"}
+  - {testo: "L'uscita in orario", fonte: "c9:21"}
+

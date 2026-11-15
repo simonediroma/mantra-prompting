@@ -1,0 +1,15 @@
+id: registro-interventi
+nome: Registro interventi
+capitoli: [2, 6, 13, 14, 16]
+sintesi: "Il registro in cui Tom, per abitudine, cerca l'unità del giorno prima e ne scopre la riassegnazione."
+caratteristiche:
+  - {testo: "Per il caso zero riporta: riassegnato, Turno B, Tecnico [omesso], reset diagnostico completo richiesto da coordinamento assistenza, in corso", fonte: "c2:33-37"}
+  - {testo: "Diciture possibili citate: «in coda», «in attesa di ulteriore diagnosi», «in lavorazione/in corso»", fonte: "c2:39"}
+
+  - {testo: "I tecnici hanno accesso in lettura all'intero registro, non solo al proprio reparto: una delle poche cose che in Meridian funzionano «in orizzontale»", fonte: "c6:19"}
+  - {testo: "Si cerca per numero di pratica associato al numero di serie", fonte: "c6:19"}
+  - {testo: "Voce 1 sul televisore Voss: «cliente ricontattata, rifiuta il ritiro (\"non lo voglio più in casa\"): richiesto il rimborso previsto (33% del valore di acquisto).»", fonte: "c6:19"}
+  - {testo: "Voce 2, pochi giorni dopo: «causale: decesso cliente, verificata su documentazione fornita. Pagamento reindirizzato a erede designato.»", fonte: "c6:21"}
+  - {testo: "Lo consulta anche Emma: vi legge rifiuto del ritiro, rimborso, decesso, erede", fonte: "c13:43"}
+  - {testo: "«Un registro che chiunque poteva aprire»", fonte: "c14:31"}
+  - {testo: "La morte della cliente sta qui e non sulla lista dell'assistenza; chiunque potrebbe leggerla", fonte: "c16:13, c16:23"}

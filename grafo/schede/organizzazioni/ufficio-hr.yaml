@@ -1,0 +1,10 @@
+id: ufficio-hr
+nome: Ufficio HR
+capitoli: [2]
+sintesi: "Ha voluto l'accordo di tre note del terminale «per mettere il dipendente di buon umore»."
+caratteristiche:
+  - {testo: "Citato solo per il suono del terminale", fonte: "c2:9"}
+relazioni:
+  - {verso: meridian, tipo: "parte di"}
+  - {verso: terminale-del-turno, tipo: "ha scelto il suono del", fonte: "c2:9"}
+

@@ -1,0 +1,14 @@
+id: e19-06
+nome: Il clic del filtro - «un caffè in mensa»
+capitolo: 19
+ordine: 19.6
+quando: "fine del meeting, dopo nove minuti"
+dove: laboratorio-di-tom
+dopo: [e19-05]
+coinvolti: [tom, emma, pete, telecamera-di-sorveglianza, led-del-faretto, cartelli-di-tom, scatti-di-pete, mensa, trascrizione-del-meeting]
+sintesi: "La telecamera rimette il filtro e torna a vedere. Tom gira il foglio, spegne il LED, il pennarello rotola. Pete prende l'ultimo scatto. Tom chiude proponendo un caffè in mensa; Emma: «Mi va»."
+fatti:
+  - {testo: "Il clic", fonte: "c19:69-71"}
+  - {testo: "L'ultimo scatto", fonte: "c19:73"}
+  - {testo: "La chiusura", fonte: "c19:75-81"}
+

@@ -1,0 +1,12 @@
+id: e02-04
+nome: Tom decide - il cronometro lo tiene lui, e un archivio privato
+capitolo: 2
+ordine: 2.4
+quando: "prima del primo apparecchio del turno"
+dove: laboratorio-di-tom
+dopo: [e02-01, e02-02]
+coinvolti: [tom, quaderno-nero, rito-delle-domande, nastro]
+sintesi: "Continuerà a parlare agli apparecchi, ma cronometrandosi, e terrà un archivio a casa. Il nastro fa clac; prima di toccare l'apparecchio Tom guarda l'ora."
+fatti:
+  - {testo: "La decisione", fonte: "c2:45"}
+

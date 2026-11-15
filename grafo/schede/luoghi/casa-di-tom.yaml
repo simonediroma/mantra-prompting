@@ -1,0 +1,22 @@
+id: casa-di-tom
+nome: Casa di Tom
+capitoli: [1, 3, 4, 5, 6, 7, 8, 9, 17]
+sintesi: "Dove Tom lavora al giradischi di notte e, dal cap. 2 in poi, trascrive ogni sera il quaderno nero."
+caratteristiche:
+  - {testo: "Scrivania con lampada da tavolo (la sola luce che accende per scrivere)", fonte: "c3:13"}
+  - {testo: "Pila di manuali di elettronica con cui ha imparato il mestiere; il quaderno le sta accanto", fonte: "c3:13"}
+  - {testo: "Alle due di notte, con un saldatore in mano, lavora al giradischi", fonte: "c1:15"}
+  - {testo: "Collegata al lavoro da un autobus", fonte: "c3:9"}
+  - {testo: "Cucina con un tavolo; al mattino la luce entra di taglio", fonte: "c4:13"}
+  - {testo: "La fermata dell'autobus è a due isolati", fonte: "c4:57"}
+  - {testo: "Cena in cucina, lava il piatto, spegne la luce; poi scrivania, sola lampada accesa, una pila di libri", fonte: "c5:17"}
+  - {testo: "La sera della scoperta tiene la finestra aperta «per la prima volta da mesi»", fonte: "c6:31"}
+  - {testo: "Una stanza sola che fa da studio, salotto e magazzino; ci stanno scrivania, giradischi, computer", fonte: "c7:9, c7:15"}
+  - {testo: "Libreria di dischi ben fornita: uno dei pochi oggetti che occupa più spazio dei manuali di elettronica", fonte: "c7:9"}
+  - {testo: "Dopo le undici di sera la stanza si è raffreddata", fonte: "c8:19"}
+  - {testo: "Al mattino presto è fredda: il riscaldamento «non ha ancora capito che qualcuno è sveglio»", fonte: "c9:9"}
+  - {testo: "Camera con comodino; cucina con pavimento freddo, frigorifero che ronza, lavello, tavolo col computer", fonte: "c17:10-12, c17:24"}
+relazioni:
+  - {verso: quaderno-nero, tipo: "custodisce", fonte: "c3:13"}
+  - {verso: giradischi-di-tom, tipo: "custodisce"}
+

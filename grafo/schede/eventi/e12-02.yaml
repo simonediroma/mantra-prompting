@@ -1,0 +1,14 @@
+id: e12-02
+nome: Emma scopre che il tecnico del televisore Voss era Tom
+capitolo: 12
+ordine: 12.2
+quando: "la stessa mattina"
+dove: stanza-di-emma
+dopo: [e12-01, e03-05]
+coinvolti: [emma, archivio-di-emma, lista-dispositivi-in-assistenza, tom, tv-secondo-contatto, mail-bluff-di-tom, canale-etv]
+sintesi: "Il suo archivio non ha il nome del tecnico; la lista dell'assistenza sì. Rilegge la mail: ora sa di quale televisore parla. Il tappetino le fa pensare ai video di yoga di eTv."
+fatti:
+  - {testo: "L'archivio senza tecnici", fonte: "c12:19"}
+  - {testo: "La lista e il nome", fonte: "c12:21"}
+  - {testo: "La rilettura e il tappetino", fonte: "c12:23"}
+

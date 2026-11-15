@@ -1,0 +1,13 @@
+id: e13-04
+nome: Emma decide di non togliere il video
+capitolo: 13
+ordine: 13.4
+quando: "la stessa mattina"
+dove: stanza-di-emma
+dopo: [e13-03]
+coinvolti: [emma, video-yoga, canale-etv]
+sintesi: "Rimuoverlo proteggerebbe qualcuno solo se il pericolo fosse nel video, e sarebbe l'unico gesto notabile. Lo lascia online."
+fatti:
+  - {testo: "Le due ragioni", fonte: "c13:37"}
+  - {testo: "La domanda vera e i cinque anni", fonte: "c13:39"}
+

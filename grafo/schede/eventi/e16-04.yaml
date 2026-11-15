@@ -1,0 +1,12 @@
+id: e16-04
+nome: Emma decide di parlargli lei della morte, lunedì alle otto
+capitolo: 16
+ordine: 16.2
+quando: "giovedì; venerdì alle cinque la casella è vuota da sei giorni"
+dove: stanza-di-emma
+dopo: [e16-03]
+coinvolti: [emma, tom, registro-interventi, signora-voss, indirizzo-elab]
+sintesi: "Smette di cercare. Ammetterà di aver letto la morte nel registro, con parole scelte una per una."
+fatti:
+  - {testo: "La decisione", fonte: "c16:23"}
+

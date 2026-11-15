@@ -1,0 +1,18 @@
+id: trascrizione-del-meeting
+nome: La trascrizione del meeting
+capitoli: [19]
+sintesi: "Ciò che arriva a Pete alle quattro: nove minuti di consulenza tecnica, «pulita come la camicia di Pete»."
+caratteristiche:
+  - {testo: "Intestazione dettata da Tom: «Revisione post-intervento, televisore della serie da salotto con assistente integrato, rientrato con il lotto del ricondizionamento. Richiesta di consulenza al laboratorio Elab sul comportamento dei log di sistema. Partecipanti, Tom, Divisione Assistenza Tecnica, ed Emma, Elab.»", fonte: "c19:29"}
+  - {testo: "Come la legge Pete: revisione post-intervento, televisore, log di sistema, compacting context, finestra di contesto, timestamp, intervalli di scrittura, documentazione da inviare", fonte: "c19:85"}
+  - {testo: "Arriva alle quattro in punto; meeting di nove minuti dentro il turno", fonte: "c19:85"}
+  - {testo: "In Tabella: nessuna riga, zero minuti", fonte: "c19:85"}
+  - {testo: "Si chiude con: «Il resto, se ti va, ne parliamo davanti a un caffè in mensa.» «Mi va.» «Chiudo il verbale.»", fonte: "c19:75-81"}
+aperti:
+  - {testo: "Prima che Tom dica «per la trascrizione», Emma ha già parlato a lungo: la mail delle undici e mezza di notte, la signora morta, la paura, «se qualcuno, prima di Tom, avesse visto qualcosa» (c19 r. 25). Anche questo è trascritto, ma nel riassunto di Pete (r. 85) non compare e la trascrizione gli risulta «pulita»."}
+  - {testo: "Il «caffè in mensa» è nel verbale: Pete sa dove e come i due intendono rivedersi."}
+  - {testo: "Il verbale lega ufficialmente Tom a Elab e alla stringa «compacting context»."}
+relazioni:
+  - {verso: trascrizione-automatica, tipo: "prodotta dalla", fonte: "c19:85"}
+  - {verso: compacting-context, tipo: "cita", fonte: "c19:85"}
+

@@ -1,0 +1,17 @@
+id: articolo-commemorativo-voss
+nome: L'articolo commemorativo sulla signora Voss
+capitoli: [12, 13]
+sintesi: "Il ricordo scritto dai parenti su un piccolo giornale locale, con una foto della signora nel suo salotto."
+caratteristiche:
+  - {testo: "Pubblicato il giorno prima del cap. 12 su un piccolo giornale locale", fonte: "c12:13"}
+  - {testo: "Foto «scelta con cura»: la donna sorride nel salotto, tappetino da yoga arrotolato in un angolo, televisore Meridian ben visibile alle spalle, eWatch al polso", fonte: "c12:13"}
+  - {testo: "La ricorda come amante dell'attività fisica in casa, «morta mentre portava avanti la sua passione»", fonte: "c12:17"}
+  - {testo: "La foto è «vecchia, scelta dai parenti»; resta aperta sullo schermo di Emma", fonte: "c13:31"}
+non_detto:
+  - {testo: "Il nome del giornale, la città e la data della morte non sono riportati."}
+relazioni:
+  - {verso: signora-voss, tipo: "ricorda", fonte: "c12:13"}
+  - {verso: tv-secondo-contatto, tipo: "mostra", fonte: "c12:13"}
+  - {verso: tappetino-da-yoga, tipo: "mostra", fonte: "c12:13"}
+  - {verso: ewatch, tipo: "mostra", fonte: "c12:13"}
+

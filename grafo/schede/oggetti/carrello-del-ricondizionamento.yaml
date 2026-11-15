@@ -1,0 +1,12 @@
+id: carrello-del-ricondizionamento
+nome: Carrello del ricondizionamento
+capitoli: [6]
+sintesi: "Porta al banco di Tom i lotti di apparecchi da ricondizionare."
+caratteristiche:
+  - {testo: "Si annuncia dal corridoio con un «cri-cri» di ruote", fonte: "c6:9"}
+  - {testo: "Odore di plastica tiepida e detergente, che Tom riconosce prima di vederlo", fonte: "c6:9"}
+  - {testo: "Nel cap. 6 porta una decina di apparecchi, tutti con etichetta gialla sul retro", fonte: "c6:9"}
+relazioni:
+  - {verso: ricondizionamento, tipo: "serve al", fonte: "c6:9"}
+  - {verso: sede-assistenza, tipo: "si trova in"}
+

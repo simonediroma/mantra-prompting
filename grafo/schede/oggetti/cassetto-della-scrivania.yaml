@@ -1,0 +1,10 @@
+id: cassetto-della-scrivania
+nome: Cassetto della scrivania (laboratorio)
+capitoli: [2]
+sintesi: "Il cassetto dove Tom tiene il foglio. Si incastra a metà corsa e va convinto con il palmo."
+caratteristiche:
+  - {testo: "Si incastra sempre a metà corsa, va convinto con il palmo", fonte: "c2:41"}
+  - {testo: "Contiene manuali tecnici e procedurali vecchi di anni, che nessuno ha chiesto indietro e che Tom considera suoi", fonte: "c2:43"}
+relazioni:
+  - {verso: laboratorio-di-tom, tipo: "si trova in", fonte: "c2:41"}
+

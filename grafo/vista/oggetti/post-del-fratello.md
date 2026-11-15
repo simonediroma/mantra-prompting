@@ -1,0 +1,36 @@
+# Post del fratello (con la foto della signora Voss)
+
+`post-del-fratello` · oggetto · capitoli: 6, 7, 12, 15
+
+Il post social, sotto il nome della signora Voss, da cui Tom apprende la causa della morte.
+
+## Caratteristiche
+
+- Su «un social», sotto il nome della signora; sotto, una fila di condoglianze *(cap. 6 r. 31)*
+- Testo: «Il cuore ha ceduto mentre faceva il suo yoga, la mattina, come ogni giorno. Non ha voluto ascoltare nessuno.» *(cap. 6 r. 31)*
+- Foto di qualche anno prima: la signora in piedi nel suo salotto, televisore spento alle spalle, eWatch al polso *(cap. 6 r. 31)*
+- Dalla foto Tom deduce l'età della signora: sulla cinquantina *(cap. 7 r. 17)*
+- Tom lo ha trovato «la sera del ricondizionamento» *(cap. 15 r. 27)*
+
+## Cosa NON dice il testo
+
+- Quale social e la data del post non sono indicati.
+
+## Punti aperti / da verificare
+
+- Due foto della signora nel salotto con televisore ed eWatch: quella del post del fratello (c6 r. 31, in piedi, televisore spento) e quella dell'articolo (c12 r. 13, sorridente, tappetino arrotolato). Stessa foto o due diverse? Nella prima il tappetino non è nominato.
+
+## Relazioni
+
+- → annuncia la morte di [Signora Voss](../personaggi/signora-voss.md) *(cap. 6 r. 31)*
+- → mostra [eWatch](../oggetti/ewatch.md) *(cap. 6 r. 31)*
+- → mostra [Televisore del secondo contatto](../oggetti/tv-secondo-contatto.md) *(cap. 6 r. 31)*
+- ← [Fratello della signora Voss](../personaggi/fratello-della-voss.md) ha scritto questa scheda *(cap. 6 r. 31)*
+
+## Catena degli eventi
+
+1. `e06-0c` (cap. 6, una mattina, dopo il rifiuto del ritiro; registrata «pochi giorni dopo» la prima voce) — [La signora Voss muore facendo yoga](../eventi/e06-0c.md)
+1. `e06-04` (cap. 6, la sera dello stesso giorno) — [Tom trova il post del fratello - il cuore, durante lo yoga](../eventi/e06-04.md)
+1. `e07-02` (cap. 7, la stessa sera) — [Tom filtra i risultati e fa ordinare i video all'assistente IA](../eventi/e07-02.md)
+1. `e15-04` (cap. 15, primo intervento del turno) — [Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch](../eventi/e15-04.md)
+

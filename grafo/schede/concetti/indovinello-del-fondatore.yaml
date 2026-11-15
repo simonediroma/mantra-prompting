@@ -1,0 +1,14 @@
+id: indovinello-del-fondatore
+nome: L'indovinello del fondatore
+capitoli: [10, 11]
+sintesi: "A ogni visita il fondatore ripete a Emma la stessa domanda con parole sempre diverse. Emma risponde ogni volta in modo diverso, sbagliando apposta."
+caratteristiche:
+  - {testo: "«I suoi soliti indovinelli»", fonte: "c10:13"}
+  - {testo: "«Uno per volta, ripetuto come un mantra, cambiando di volta in volta le parole e mai la domanda»", fonte: "c11:25"}
+  - {testo: "Emma sa «dove poteva portare una domanda ripetuta abbastanza a lungo»: per questo non dà mai due volte la stessa risposta", fonte: "c11:25"}
+  - {testo: "Scopo di Emma: che lui se ne vada «convinto che con lei non funzionasse»", fonte: "c11:25"}
+non_detto:
+  - {testo: "La domanda non è riportata. Cosa il fondatore speri di ottenere non è detto esplicitamente."}
+aperti:
+  - {testo: "Tre ripetizioni nel libro fin qui: la signora ripete il video (cap. 4-6), Tom ripete le domande ai televisori per vedere se la risposta resta identica (cap. 1, 3), il fondatore ripete l'indovinello (cap. 11). Emma fa l'opposto dei televisori: non risponde mai uguale."}
+

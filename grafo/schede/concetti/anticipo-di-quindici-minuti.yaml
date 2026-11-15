@@ -1,0 +1,16 @@
+id: anticipo-di-quindici-minuti
+nome: I quindici minuti di anticipo
+capitoli: [4, 5, 9, 15]
+sintesi: "Tom arriva sempre in azienda un quarto d'ora prima del turno. Nel cap. 4 li spende, per una volta, per la telefonata."
+caratteristiche:
+  - {testo: "Servono a sistemarsi alla postazione con calma", fonte: "c4:11"}
+  - {testo: "Bruciati dalla telefonata fino all'ultimo secondo", fonte: "c4:57"}
+
+  - {testo: "Esito del cap. 4: Tom arriva con due minuti di ritardo", fonte: "c5:9"}
+  - {testo: "Il mattino dopo ha di nuovo il «consueto quarto d'ora», che si assottiglia per la seconda volta in due giorni", fonte: "c5:35, c5:41"}
+  - {testo: "«Intoccabili come ogni mattina»: per avere tempo Tom anticipa la sveglia di un'ora, e esce comunque col solito quarto d'ora", fonte: "c9:9, c9:21"}
+  - {testo: "Scopo dichiarato: un quarto d'ora in cui non succede niente", fonte: "c15:9"}
+non_detto:
+  - {testo: "Il cap. 5 si chiude prima di dire se Tom arrivi in ritardo anche il secondo giorno."}
+aperti:
+  - {testo: "«Intoccabili» (c9 r. 9), ma nei cap. 4 e 5 Tom li ha spesi entrambe le mattine per telefonare alla signora Voss: la regola nasce dopo quel ritardo, o è una svista?"}

@@ -1,0 +1,14 @@
+id: e17-04
+nome: Pete fiuta l'osso - «Dai. Aprila.»
+capitolo: 17
+ordine: 17.4
+quando: "dopo le 23:59"
+dove: casa-di-pete
+dopo: [e17-03, e02-01, e10-0a, e15-03]
+coinvolti: [pete, tom, tabella-di-conversione, smutandata, ispettori-interni, comunicazione-formale-scostamento, porta-accostata, mail-bluff-di-tom]
+sintesi: "Sanzione, mail a un indirizzo nuovo, porta accostata, e adesso questa. Pete aspetta che Tom apra la mail fuori orario, contando smutandate fino al tetto. Si addormenta col telefono sulla pancia."
+fatti:
+  - {testo: "I quattro indizi in fila", fonte: "c17:52"}
+  - {testo: "Cosa serve a Pete", fonte: "c17:54-56"}
+  - {testo: "Il conto in smutandate e gli ispettori", fonte: "c17:58"}
+  - {testo: "Il sonno", fonte: "c17:60"}

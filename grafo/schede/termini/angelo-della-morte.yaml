@@ -1,0 +1,11 @@
+id: angelo-della-morte
+nome: «Angelo della morte»
+capitoli: [13]
+sintesi: "Il timore di Emma: che il televisore della signora Voss, nei giorni senza log, abbia preparato il terreno alla sua morte."
+caratteristiche:
+  - {testo: "«Prima doveva capire se quel televisore fosse diventato un angelo della morte»", fonte: "c13:37"}
+  - {testo: "Non può averla uccisa perché non c'era; ma nei giorni senza log, collegato alla rete di casa, «poteva aver fatto qualunque cosa»", fonte: "c13:33"}
+  - {testo: "«Se l'aveva fatto, l'aveva fatto perché lei gli aveva dato quel video»", fonte: "c13:33"}
+relazioni:
+  - {verso: tv-secondo-contatto, tipo: "detto del", fonte: "c13:37"}
+

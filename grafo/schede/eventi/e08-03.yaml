@@ -1,0 +1,12 @@
+id: e08-03
+nome: Tom rimanda a domani - con quale IA è stato generato il video
+capitolo: 8
+ordine: 8.3
+quando: "la stessa sera, dopo le undici"
+dove: casa-di-tom
+dopo: [e08-02]
+coinvolti: [tom, video-yoga, canale-etv, giradischi-di-tom, disco-tango]
+sintesi: "Decide il passo successivo, gira il disco, spegne il giradischi e va a dormire."
+fatti:
+  - {testo: "Il piano", fonte: "c8:19"}
+  - {testo: "Il disco", fonte: "c8:21"}

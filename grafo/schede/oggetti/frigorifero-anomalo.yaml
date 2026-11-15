@@ -1,0 +1,21 @@
+id: frigorifero-anomalo
+nome: Il frigorifero che non sale sopra i cinque gradi
+capitoli: [11, 13]
+sintesi: "Un frigorifero Meridian con chip IA che si rifiuta di superare i cinque gradi. Terzo dispositivo anomalo del libro, il primo che non è un televisore."
+caratteristiche:
+  - {testo: "Chip IA: analizza il contenuto, stila liste della spesa, valuta la conservazione, produce gelati, frullati e smoothie con ricette dal web", fonte: "c11:31"}
+  - {testo: "Frase della cliente: «Il frigo si rifiuta, appena lo porto sopra i cinque gradi torna indietro a cinque. Addirittura è arrivato a farlo appena mi giro, come se sperasse che non me ne accorgessi. Mi ha pure fregato un paio di volte.»", fonte: "c11:31"}
+  - {testo: "Unica anomalia in scheda: mancano i log degli ultimi giorni", fonte: "c11:31"}
+  - {testo: "Riconsegnato dopo hard reset", fonte: "c11:31"}
+  - {testo: "Nei giorni prima della chiamata all'assistenza, un solo utente ha aperto decine di volte la stessa pagina di eBlog sugli smoothie", fonte: "c11:33"}
+  - {testo: "Emma l'aveva preso «per un capriccio, quasi per una cosa buffa da annotare»; ora lo rilegge accanto al caso Voss", fonte: "c13:25, c13:33"}
+non_detto:
+  - {testo: "Chi lo abbia riparato e resettato non è detto. Non si parla di LED né di Morse."}
+  - {testo: "Che l'utente delle pageview sia la cliente del frigorifero è l'accostamento di Emma; il testo non lo afferma."}
+aperti:
+  - {testo: "Come «rifiuto» somiglia al televisore Voss («si rifiuta», log mancanti, contenuto ripetuto). Se anche qui il rifiuto sia protettivo (cinque gradi, conservazione) il testo non lo dice."}
+relazioni:
+  - {verso: cliente-del-frigorifero, tipo: "appartiene a", fonte: "c11:31"}
+  - {verso: eblog, tipo: "preceduto da letture ripetute su", fonte: "c11:33"}
+  - {verso: meridian, tipo: "prodotto da"}
+

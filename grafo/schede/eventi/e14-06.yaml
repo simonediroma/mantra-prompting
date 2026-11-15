@@ -1,0 +1,12 @@
+id: e14-06
+nome: Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto
+capitolo: 14
+ordine: 14.6
+quando: "pomeriggio e sera dello stesso giorno"
+dove: laboratorio-di-tom
+dopo: [e14-05]
+coinvolti: [tom, apparecchi-ordinari, emma, quaderno-nero, casa-di-tom]
+sintesi: "Emma non risponde. A ogni test Tom aggiorna la posta: gli sembra di doverla conoscere. A casa apre il quaderno e lo richiude senza scrivere."
+fatti:
+  - {testo: "Il pomeriggio", fonte: "c14:43"}
+  - {testo: "Il quaderno", fonte: "c14:45"}

@@ -1,0 +1,12 @@
+id: e08-01
+nome: Tom scorre il canale eTv - sempre la stessa ragazza
+capitolo: 8
+ordine: 8.1
+quando: "la stessa sera dei cap. 6-7"
+dove: casa-di-tom
+dopo: [e07-05]
+coinvolti: [tom, canale-etv, ragazza-del-video-yoga, computer-di-tom, disco-tango]
+sintesi: "Idraulica, cucina, musica, yoga: argomenti senza nulla in comune tranne la protagonista."
+fatti:
+  - {testo: "I video del canale", fonte: "c8:9"}
+

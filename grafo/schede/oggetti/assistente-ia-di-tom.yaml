@@ -1,0 +1,13 @@
+id: assistente-ia-di-tom
+nome: L'assistente IA di Tom
+capitoli: [7]
+sintesi: "L'assistente IA con cui Tom ha costruito il giradischi intelligente. Lo usa per ordinare i video candidati."
+caratteristiche:
+  - {testo: "Riceve titolo, copertina, descrizione e url di una ventina di video in un unico blocco di testo", fonte: "c7:17"}
+  - {testo: "Compito: ordinare per gradimento di un profilo (donna sulla cinquantina, decisa a tenersi «giovane e bella», dieci ripetizioni al giorno)", fonte: "c7:17"}
+  - {testo: "Risponde con una shortlist di cinque titoli, con punteggio di compatibilità e breve motivazione", fonte: "c7:19"}
+non_detto:
+  - {testo: "Nome, produttore e dove giri (in locale o in rete) non sono indicati."}
+relazioni:
+  - {verso: giradischi-di-tom, tipo: "usato per costruire", fonte: "c7:17"}
+

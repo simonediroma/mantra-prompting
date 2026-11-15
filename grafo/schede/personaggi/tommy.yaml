@@ -1,0 +1,13 @@
+id: tommy
+nome: «Tommy»
+capitoli: [16]
+sintesi: "Lo sconosciuto che compare accanto a Emma alla Mela Morsicata e le porge il sofisma della sarda salata."
+caratteristiche:
+  - {testo: "Si presenta: «Ciao, sono Tommy»; «con ogni probabilità non si chiamava Tommy»", fonte: "c16:39"}
+  - {testo: "«Lo sai che la sarda salata fa bere e ribere? Il bere e ribere estingue la sete. Quindi la sarda salata estingue la sete.»", fonte: "c16:39"}
+  - {testo: "Resta ad aspettare la risposta mentre Emma scrive a Tom", fonte: "c16:43"}
+non_detto:
+  - {testo: "Chi sia non è detto."}
+aperti:
+  - {testo: "Tommy / Tom, e una sarda salata per un uomo di origini sarde (c7 r. 11-13): eco evidente, non commentata dal testo."}
+

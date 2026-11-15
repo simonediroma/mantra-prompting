@@ -1,0 +1,11 @@
+id: e15-06
+nome: «Ciao Emma,» - Tom cancella e non risponde
+capitolo: 15
+ordine: 15.6
+quando: "nei secondi prima del pezzo successivo"
+dove: laboratorio-di-tom
+dopo: [e15-05, e04-03]
+coinvolti: [tom, emma, terza-mail-di-emma, signora-voss, cellulare-di-tom, porta-accostata]
+sintesi: "La risposta vera sta in una telefonata che su un server Meridian non può scrivere. Cancella le due parole, lascia la finestra aperta e torna al banco."
+fatti:
+  - {testo: "La risposta mancata", fonte: "c15:31"}

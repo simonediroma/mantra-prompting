@@ -1,0 +1,14 @@
+id: e04-02
+nome: Tom chiama la signora Voss fingendosi il controllo qualità
+capitolo: 4
+ordine: 4.2
+quando: "la mattina dopo (mercoledì), nei quindici minuti di anticipo prima di uscire"
+dove: casa-di-tom
+dopo: [e04-01]
+coinvolti: [tom, signora-voss, cellulare-di-tom, copertura-controllo-qualita, anticipo-di-quindici-minuti, tv-secondo-contatto, casa-della-voss]
+sintesi: "In piedi in cucina, dal proprio cellulare. La signora si lamenta che il televisore non le è stato restituito; Tom si tradisce dicendo che è appena uscito dall'assistenza e rattoppa."
+fatti:
+  - {testo: "La chiamata", fonte: "c4:13-19"}
+  - {testo: "La lamentela e la gaffe", fonte: "c4:21-23"}
+  - {testo: "Il giorno (mercoledì) si ricava: il secondo contatto è di martedì e la telefonata è «il giorno» dopo", fonte: "c3:17, c4:55"}
+

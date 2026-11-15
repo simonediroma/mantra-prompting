@@ -1,0 +1,12 @@
+id: e16-02
+nome: Emma sceglie la domanda sul verbo «si rifiuta»
+capitolo: 16
+ordine: 14.8
+quando: "venerdì pomeriggio e sera"
+dove: stanza-di-emma
+dopo: [e16-01]
+coinvolti: [emma, terza-mail-di-emma, mail-di-scuse-di-emma, la-mela-morsicata]
+sintesi: "Della morte non può chiedere senza scoprirsi. Chiederà se la cliente intendesse «si rifiuta» alla lettera. Chiude alle diciassette; la sera, al solito posto del venerdì, non trova quello che cerca."
+fatti:
+  - {testo: "Il ragionamento e la sera", fonte: "c16:15"}
+

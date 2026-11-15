@@ -1,0 +1,12 @@
+id: e06-0a
+nome: Tom richiama la signora per settimane, senza risposta
+capitolo: 6
+ordine: 6.01
+quando: "dalle mattine successive al cap. 5 fino a tre settimane dopo"
+in_scena: false
+dopo: [e05-05]
+coinvolti: [tom, signora-voss, cellulare-di-tom, copertura-controllo-qualita]
+sintesi: "Un tentativo al giorno, due squilli ravvicinati; dopo la seconda settimana Tom dirada. Mai una risposta."
+fatti:
+  - {testo: "I tentativi", fonte: "c6:17"}
+

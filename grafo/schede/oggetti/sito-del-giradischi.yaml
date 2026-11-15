@@ -1,0 +1,12 @@
+id: sito-del-giradischi
+nome: Il sito e il forum del progetto del giradischi
+capitoli: [12]
+sintesi: "Il sito del progetto open source di Tom, con un forum che va indietro di anni."
+caratteristiche:
+  - {testo: "Progetto open source: far correggere a un'IA il suono di un giradischi in tempo reale, secondo il disco e la posizione di chi ascolta", fonte: "c12:33"}
+  - {testo: "Anni di domande, prove fallite e tentativi ripresi, quasi tutti firmati tra mezzanotte e le due", fonte: "c12:35"}
+  - {testo: "Nei messaggi vecchi Tom racconta cosa ascolta; nei recenti no", fonte: "c12:37"}
+relazioni:
+  - {verso: giradischi-di-tom, tipo: "documenta", fonte: "c12:33"}
+  - {verso: audiofili-scandinavi, tipo: "frequentato da", fonte: "c12:35"}
+

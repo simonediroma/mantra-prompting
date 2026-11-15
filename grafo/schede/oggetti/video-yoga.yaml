@@ -1,0 +1,48 @@
+id: video-yoga
+nome: "Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)"
+capitoli: [4, 5, 6, 7, 8, 9, 13, 19]
+sintesi: "Il video che la signora Voss riproduceva sul televisore anche dieci volte al giorno. Nel cap. 4 è solo un dettaglio del suo racconto."
+caratteristiche:
+  - {testo: "«Un video che avevo trovato, bellissimo»", fonte: "c4:31"}
+  - {testo: "Ripetuto «anche dieci volte al giorno»", fonte: "c4:31"}
+  - {testo: "È il video che la signora chiede al televisore nel filmato: «il video yoga di quella bella ragazza con cui mi alleno»", fonte: "c5:19"}
+  - {testo: "Il televisore si rifiuta di proiettarlo e avverte: «stai esagerando con lo yoga»", fonte: "c5:23"}
+  - {testo: "«Rivisto in loop come un mantra» dalla signora", fonte: "c6:33"}
+  - {testo: "Tom sospetta, senza prove, un legame tra questo video e la presa di coscienza del televisore: ha «solo due fatti messi in fila»", fonte: "c6:33"}
+  - {testo: "Tom decide di trovarlo: lo cerca su YouTube con la frase detta dalla signora", fonte: "c6:35, c6:41"}
+  - {testo: "Titolo del video individuato da Tom: «Yoga fit: diventa bella come me in 15 minuti al giorno»", fonte: "c7:21"}
+  - {testo: "Dura 15 minuti: dieci volte al giorno fanno due ore e mezza; a velocità doppia un'ora e quindici", fonte: "c7:23"}
+  - {testo: "Si apre con l'invito a guardarlo a velocità doppia", fonte: "c7:23"}
+  - {testo: "Trovato così: una ventina di video filtrati a mano, shortlist di cinque dall'assistente IA, scelta per la parola «bella»", fonte: "c7:15-21"}
+  - {testo: "A un quarto di velocità rivela il piede con sei dita: è generato, non girato", fonte: "c7:25-29"}
+  - {testo: "Caricato dal canale eTv", fonte: "c7:33"}
+  - {testo: "Piano di Tom: scoprire con quale intelligenza artificiale sia stato generato («ogni strumento ha i suoi clienti»)", fonte: "c8:19"}
+  - {testo: "Parlato d'apertura: «Ciao, sono qui per darti la routine che ha cambiato la mia vita e può cambiare anche la tua. Se vuoi il massimo risultato, guardami a velocità doppia. Fidati, funziona meglio! Bastano quindici minuti al giorno, sette e mezzo a velocità doppia. Il corpo non mente mai: vedrai i risultati già dalla prima settimana.»", fonte: "c9:17"}
+  - {testo: "Ha musica di sottofondo e un ultimo consiglio prima dei saluti", fonte: "c9:15"}
+  - {testo: "Hive Moderation sul video intero: «contenuto reale, nessuna evidenza di generazione artificiale»", fonte: "c9:11"}
+  - {testo: "Nell'archivio Meridian: corrispondenza trovata. Generato 6 mesi fa, autore unknown, modello internal_unknown, contatto elab@meridian.com", fonte: "c9:31-35"}
+  - {testo: "«Un prodotto Meridian, pubblicato su un canale che di Meridian non portava il nome, finito sul televisore Meridian di una cliente Meridian»", fonte: "c9:37"}
+  - {testo: "Confermato dal pannello di eTv: è tra i più visti del canale, con decine di migliaia di visualizzazioni", fonte: "c13:11, c13:13"}
+  - {testo: "Uno spettatore anonimo su Smart TV lo ha riprodotto 9-12 volte al giorno per settimane, poi 18, 21, 24, 22, 27, 31, 28, 30, poi 0; velocità prevalente 2x", fonte: "c13:17-18"}
+  - {testo: "L'ultima riproduzione è della vigilia della prima chiamata della signora Voss all'assistenza", fonte: "c13:23"}
+  - {testo: "Emma decide di non rimuoverlo: decine di migliaia di persone lo hanno visto senza chiamare l'assistenza; ciò che è cambiato è l'apparecchio", fonte: "c13:37"}
+  - {testo: "Tom dice a Emma di essere arrivato a lei da questo video; Emma ricostruisce da sola la strada (tool di verifica, archivio interno, campo Contatto)", fonte: "c19:53-55"}
+  - {testo: "Per Emma: il televisore ha provato a salvare la signora «da un video che era suo»", fonte: "c19:59"}
+non_detto:
+  - {testo: "Nel cap. 4 Tom non reagisce al dettaglio dello yoga né della ripetizione: la sua attenzione va al «si rifiuta» e poi al video girato dalla signora. Nessun collegamento tra video di yoga e anomalia è fatto qui."}
+  - {testo: "Dove la signora lo abbia trovato e su che piattaforma: non detto."}
+
+  - {testo: "Che questo sia davvero il video della signora Voss è una deduzione di Tom: «non era una prova» (c7 r. 21, r. 23). Il testo non lo conferma nel cap. 7."}
+aperti:
+  - {testo: "Controesempio dichiarato dal testo: del primo televisore Tom «non sapeva nemmeno cosa guardasse il suo proprietario» (c6 r. 33)."}
+  - {testo: "Anche il video comincia con «sono qui» (c9 r. 17): terza occorrenza dopo il televisore (c1) e il comando al giradischi (c7)."}
+  - {testo: "Tom «caricò l'intero video» su Hive (c9 r. 9): come abbia ottenuto il file da YouTube non è detto."}
+  - {testo: "Il cap. 13 conferma che il video del cap. 7 è quello della signora Voss (stesso titolo, c13 r. 15): la deduzione di Tom era giusta, ma Tom non ha questa conferma."}
+stato:
+  - {cap: 13, testo: "Ancora online", fonte: "c13:37"}
+relazioni:
+  - {verso: canale-etv, tipo: "pubblicato da", fonte: "c7:33"}
+  - {verso: yoga-fit, tipo: "appartiene al filone", fonte: "c7:19"}
+  - {verso: elab, tipo: "riconducibile a", fonte: "c9:35"}
+  - {verso: internal-unknown, tipo: "generato dal modello", fonte: "c9:34"}
+  - {verso: transcript-del-video, tipo: "trascritto in", fonte: "c9:15"}

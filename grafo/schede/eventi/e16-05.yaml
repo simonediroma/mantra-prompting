@@ -1,0 +1,15 @@
+id: e16-05
+nome: Venerdì sera alla Mela Morsicata - Tommy e la sarda salata
+capitolo: 16
+ordine: 16.3
+quando: "venerdì sera, una settimana dopo"
+dove: la-mela-morsicata
+dopo: [e16-04]
+coinvolti: [emma, la-mela-morsicata, cameriere-della-mela, tommy, sofisma-della-sarda-salata, helge-mandelbrot, risposta-di-tom]
+sintesi: "Emma non riesce a stare attenta: risponde ai ping e lascia alla seconda battuta. Uno sconosciuto, «Tommy», le porge un sofisma che le spiega la sua impasse."
+fatti:
+  - {testo: "Il locale", fonte: "c16:25-33"}
+  - {testo: "Perché Emma ci va", fonte: "c16:35"}
+  - {testo: "Quella sera", fonte: "c16:37"}
+  - {testo: "Tommy e il sofisma", fonte: "c16:39-41"}
+

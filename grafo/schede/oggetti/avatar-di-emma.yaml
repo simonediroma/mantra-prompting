@@ -1,0 +1,19 @@
+id: avatar-di-emma
+nome: L'avatar e lo sfondo di Emma
+capitoli: [18, 19]
+sintesi: "Il set che Emma prepara per il primo meeting della sua vita fuori da Elab."
+caratteristiche:
+  - {testo: "Configurato in più di un'ora dal pacchetto di avvio delle vecchie cartelle di Elab: ogni passaggio rimanda a un menu che ha cambiato nome", fonte: "c18:37"}
+  - {testo: "Avatar fedele al suo aspetto attuale, come vuole il regolamento. Emma non lo guarda a lungo", fonte: "c18:37"}
+  - {testo: "Sfondo: il primo della cartella, una parete chiara con il logo di Meridian", fonte: "c18:37"}
+  - {testo: "Aspetto: una donna più o meno dell'età di Tom, capelli rossi e ricci con qualche filo grigio, occhi verdi, lentiggini che la modalità presenza non ha cancellato", fonte: "c19:23"}
+  - {testo: "Raddrizza le spalle, annuisce", fonte: "c19:35, c19:59"}
+  - {testo: "Lo sfondo ha il vecchio logo di Meridian, «quello con le righe», mandato in pensione un anno prima: nel codice di condotta vale trenta minuti a chi lo usa. Tocca però al supervisore di lei", fonte: "c19:87"}
+  - {testo: "Spenta la modalità presenza, nell'anteprima resta solo lo sfondo: la parete chiara e il logo, senza nessuno davanti", fonte: "c19:83"}
+non_detto:
+aperti:
+  - {testo: "«Fedele al suo aspetto attuale»: quale aspetto, per una che non pensa «fino in fondo» a stare in una stanza con qualcuno? Il testo lo lascia sospeso."}
+relazioni:
+  - {verso: modalita-presenza, tipo: "realizza la", fonte: "c18:37"}
+  - {verso: elab, tipo: "viene dalle cartelle di", fonte: "c18:37"}
+

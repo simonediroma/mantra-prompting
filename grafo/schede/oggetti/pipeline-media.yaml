@@ -1,0 +1,11 @@
+id: pipeline-media
+nome: La pipeline di sorveglianza dei media
+capitoli: [12]
+sintesi: "La seconda pipeline di Emma: intercetta su giornali, siti e televisioni ogni contenuto che nomini Meridian o ne mostri un prodotto."
+caratteristiche:
+  - {testo: "«Non serviva a produrre nulla, serviva a sapere», prima che l'informazione si diffonda, se Meridian rischia di finire in un fatto di cronaca", fonte: "c12:11"}
+  - {testo: "Riconosce i prodotti Meridian anche solo mostrati in una foto", fonte: "c12:11, c12:13"}
+  - {testo: "I suoi risultati arrivano prima dei trending topic del mattino", fonte: "c12:11"}
+relazioni:
+  - {verso: articolo-commemorativo-voss, tipo: "intercetta", fonte: "c12:11"}
+

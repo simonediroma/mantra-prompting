@@ -1,0 +1,13 @@
+id: e19-01
+nome: Le tre meno due - Tom pronto, Pete spreca il primo scatto
+capitolo: 19
+ordine: 19.1
+quando: "sabato, 14:58-15:00"
+dove: laboratorio-di-tom
+dopo: [e18-05, e18-06]
+coinvolti: [tom, pete, nastro, cartelli-di-tom, led-del-faretto, telecamera-di-sorveglianza, scatti-di-pete, appuntamento-doppia, postazione-di-pete]
+sintesi: "Il nastro si ferma. Sul banco fogli e pennarello; la mano di Tom trova l'interruttore. Dall'open space Pete apre l'anteprima, grande come un francobollo, e al promemoria fotografa un uomo che aspetta."
+fatti:
+  - {testo: "Tom", fonte: "c19:10"}
+  - {testo: "Pete e il pannello", fonte: "c19:12-17"}
+

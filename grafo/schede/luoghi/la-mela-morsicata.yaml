@@ -1,0 +1,23 @@
+id: la-mela-morsicata
+nome: La Mela Morsicata
+capitoli: [16]
+sintesi: "Il noodle bar dove Emma passa ogni venerdì sera. Un bancone senza fine, nessuno chiede le generalità, ognuno è quello che dice di essere."
+caratteristiche:
+  - {testo: "Insegna: una grossa mela rossa al neon con un morso sul fianco, due ideogrammi al centro e sotto, in piccolo, la traduzione", fonte: "c16:25"}
+  - {testo: "I proprietari hanno scelto il nome per il peccato originale, che si fa notare; nessuna allusione ad Alan Turing. Chi fa «il mestiere di Emma, o qualcosa di simile» ha cominciato ad andarci proprio per Turing", fonte: "c16:25-27"}
+  - {testo: "«Sembrava di stare in Blade Runner»: tettoia, vapore dalle pentole, neon che si rompe nelle pozzanghere", fonte: "c16:29"}
+  - {testo: "I ravioli al vapore sono i più buoni del mondo, ma ormai ci si va per l'ambiente, creato da chi lo frequenta", fonte: "c16:29"}
+  - {testo: "Bancone rifatto da Helge Mandelbrot: tra due sgabelli ce ne sta sempre un altro, chiunque può stare vicino a chiunque. I posti occupati «tendevano a infinito»", fonte: "c16:27, c16:29"}
+  - {testo: "Il cameriere, unico impiegato, saluta tutti all'arrivo e all'uscita col nome che ognuno si è dato; agli sconosciuti «Ciao, stranger»", fonte: "c16:31"}
+  - {testo: "Nessuno chiede nome e cognome: «ognuno era quello che diceva di essere. Quello che la gente diceva era tutto quello che c'era da vedere e da sentire»", fonte: "c16:31"}
+  - {testo: "Neon, vapore, acqua dalla tettoia sono «quello che i clienti si raccontavano di quel posto»", fonte: "c16:31"}
+  - {testo: "Due tipi di clienti: i logorroici e i silenziosi", fonte: "c16:33"}
+non_detto:
+  - {testo: "Il testo non dice se sia un luogo fisico o in rete. Indizi per la seconda: bancone infinito, «ping», «quittare alla seconda iterazione», «figure», l'ambiente fatto solo di ciò che la gente dice, il cameriere che parla «da qualche parte», la casella di posta e l'orologio «nell'angolo dello schermo» davanti a Emma."}
+  - {testo: "Cosa dicano i due ideogrammi e in che città sia: non detto."}
+aperti:
+  - {testo: "Tre giochi dell'imitazione nel libro: il «test di Turing improvvisato» di Tom con gli apparecchi (c1 r. 29), le domande-trappola tra Tom ed Emma per mail, e questo posto dedicato, di fatto, a Turing."}
+relazioni:
+  - {verso: cameriere-della-mela, tipo: "luogo di lavoro di", fonte: "c16:31"}
+  - {verso: helge-mandelbrot, tipo: "ha il bancone costruito da", fonte: "c16:29"}
+

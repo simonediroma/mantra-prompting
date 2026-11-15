@@ -1,0 +1,12 @@
+id: e19-07
+nome: Emma resta sola - lo sfondo senza nessuno davanti
+capitolo: 19
+ordine: 19.7
+quando: "subito dopo il meeting"
+dove: stanza-di-emma
+dopo: [e19-06]
+coinvolti: [emma, avatar-di-emma, modalita-presenza, archivio-di-emma, cartelli-di-tom]
+sintesi: "La paura dell'ultimo cartello è quella di chi vede contare da altri la propria colonna. Emma spegne la modalità presenza: nell'anteprima resta la parete con il logo, vuota."
+fatti:
+  - {testo: "Le due paure e l'anteprima", fonte: "c19:83"}
+

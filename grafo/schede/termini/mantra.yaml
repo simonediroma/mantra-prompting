@@ -1,0 +1,13 @@
+id: mantra
+nome: Mantra
+capitoli: [6, 11]
+sintesi: "Parola ricorrente: il video della Voss «rivisto in loop come un mantra» (cap. 6) e l'indovinello del fondatore «ripetuto come un mantra» (cap. 11)."
+caratteristiche:
+  - {testo: "«Il video rivisto in loop come un mantra dalla signora Voss»", fonte: "c6:33"}
+  - {testo: "L'indovinello del fondatore: «uno per volta, ripetuto come un mantra, cambiando di volta in volta le parole e mai la domanda»", fonte: "c11:25"}
+non_detto:
+  - {testo: "Nel cap. 6 è solo una similitudine del narratore/di Tom, non un termine tecnico."}
+relazioni:
+  - {verso: video-yoga, tipo: "detto del", fonte: "c6:33"}
+
+  - {verso: indovinello-del-fondatore, tipo: "detto del", fonte: "c11:25"}

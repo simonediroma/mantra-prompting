@@ -1,0 +1,12 @@
+id: digiuno-intermittente
+nome: Il digiuno intermittente di Tom
+capitoli: [14]
+sintesi: "Dai quarantuno anni Tom non mangia a mezzogiorno. Per lui la pausa pranzo è un'ora vuota."
+caratteristiche:
+  - {testo: "Cominciato per una scommessa con se stesso, poi abitudine, ormai «un fatto, come l'altezza o il gruppo sanguigno»", fonte: "c14:35"}
+  - {testo: "L'ora di pausa la riempie di solito con un manuale o con il niente", fonte: "c14:35"}
+aperti:
+  - {testo: "Nel cap. 5 Tom rimanda il video perché «aveva fame» e «prima veniva la cena» (r. 15): coerente con il digiuno a pranzo."}
+relazioni:
+  - {verso: mensa, tipo: "lo tiene lontano dalla", fonte: "c14:35"}
+

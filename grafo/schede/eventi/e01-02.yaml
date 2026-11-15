@@ -1,0 +1,14 @@
+id: e01-02
+nome: «C'è nessuno, oltre a me, in questa stanza?» → IO SONO QUI
+capitolo: 1
+ordine: 1.2
+quando: "stesso intervento"
+dove: laboratorio-di-tom
+dopo: [e01-01]
+coinvolti: [tom, tv-caso-zero, led-di-accensione, codice-morse, rito-delle-domande, foglio-io-sono-qui]
+sintesi: "Tom fa una battuta al televisore; il LED risponde in Morse. Tom trascrive a mano: IO / SONO / QUI. Conclude che il segnale è reale. Nessuna paura, euforia."
+fatti:
+  - {testo: "La battuta di Tom", fonte: "c1:27"}
+  - {testo: "Trascrizione su carta", fonte: "c1:37-39"}
+  - {testo: "Esclude lo scherzo: laboratorio isolato, apparecchi fuori rete, verifica fatta due volte", fonte: "c1:43"}
+

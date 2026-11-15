@@ -1,0 +1,22 @@
+id: smutandata
+nome: Smutandata
+capitoli: [17, 18, 19]
+sintesi: "Il dispetto da liceo di Pete, diventato la sua unità di misura delle sanzioni: una smutandata = 15 minuti di stipendio trattenuti."
+caratteristiche:
+  - {testo: "Definizione: l'elastico delle mutande di un secchione tirato verso l'alto finché il secchione non si alza in punta di piedi", fonte: "c17:28"}
+  - {testo: "Origine: il liceo, da cui Pete «non era mai uscito davvero»; lì era Biff di Ritorno al futuro. Sopra la smutandata: la testa nel cestino della carta (casi gravi) e la testa nel water (occasioni speciali)", fonte: "c17:28"}
+  - {testo: "In Meridian niente di questo è permesso: Pete traduce le infrazioni nei dispetti a cui è più affezionato", fonte: "c17:28"}
+  - {testo: "Scala: semplice 15 min · doppia 30 · tripla 45 · con testa nel cestino 60 (tetto del supervisore)", fonte: "c17:32-35"}
+  - {testo: "Pete usa la stessa parola per fare apprezzamenti sulle concorrenti di Ciao Darwin («Questa è da smutandata»): cambia solo il tono", fonte: "c17:38"}
+  - {testo: "Esempi: scrivere il cognome di un cliente in una nota vale «meno di una smutandata»; aprire una mail fuori orario è una semplice; rispondere fuori tema la fa doppia; col precedente dei 47 minuti, tripla", fonte: "c17:42, c17:58"}
+  - {testo: "Mail aperta alle otto in punto, in orario: «niente smutandata»", fonte: "c18:43"}
+  - {testo: "Meeting inutile: doppia smutandata, trenta minuti (ma per sanzionarlo deve prima esserci)", fonte: "c18:49"}
+  - {testo: "Il pennarello sul banco dopo il meeting: «meno di una smutandata, meno del cognome»", fonte: "c19:89"}
+  - {testo: "Pete sogna i ventimila dipendenti che commettono infrazioni «punibili con doppie e triple smutandate»", fonte: "c19:93"}
+non_detto:
+  - {testo: "La parola è solo di Pete (pensiero e battute davanti alla TV): nei passaggi letti nessun altro personaggio la usa o la conosce."}
+  - {testo: "La trattenuta di 47 minuti del cap. 2 non viene convertita in smutandate nel testo (47 non è multiplo di 15)."}
+relazioni:
+  - {verso: pete, tipo: "gergo di", fonte: "c17:28"}
+  - {verso: tabella-di-conversione, tipo: "unità di misura della", fonte: "c17:32"}
+

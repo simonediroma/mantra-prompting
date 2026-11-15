@@ -1,0 +1,14 @@
+id: e14-01
+nome: Le scuse di Emma arrivano sull'eWatch a metà intervento
+capitolo: 14
+ordine: 14.1
+quando: "stesso giorno dei cap. 12-13, turno del mattino, dopo le dieci e mezza"
+dove: laboratorio-di-tom
+dopo: [e13-06, e14-0a]
+coinvolti: [tom, apparecchi-ordinari, ewatch, mail-di-scuse-di-emma, indirizzo-elab, ciclo-diagnostico-14-minuti]
+sintesi: "Tom sta riparando un aspirapolvere, a dieci minuti su ventuno. L'eWatch vibra in modo diverso: mail da elab. Finisce il lavoro a una velocità mai usata e non chiude l'intervento."
+fatti:
+  - {testo: "L'aspirapolvere", fonte: "c14:11"}
+  - {testo: "La notifica", fonte: "c14:13"}
+  - {testo: "La corsa e il timer lasciato correre", fonte: "c14:15"}
+

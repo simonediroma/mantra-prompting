@@ -1,0 +1,34 @@
+id: quaderno-nero
+nome: Quaderno nero
+alias: ["l'archivio di Tom"]
+capitoli: [2, 3, 4, 5, 6, 14, 15]
+sintesi: "L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera registra a memoria i guasti di tutti i televisori del modello del caso zero."
+caratteristiche:
+  - {testo: "Deciso a fine cap. 2: archivio privato, non protocollato, difeso di giorno dalla memoria e trascritto la sera a casa", fonte: "c2:45"}
+  - {testo: "Quaderno nero, copertina di cartone gonfia agli angoli, logo del fornitore mezzo scolorito sul dorso", fonte: "c3:13"}
+  - {testo: "Non entra mai in laboratorio, nemmeno per un giorno: basterebbe una tasca sbagliata o un controllo al varco", fonte: "c3:13"}
+  - {testo: "Sta accanto alla pila di manuali di elettronica", fonte: "c3:13, c3:39"}
+  - {testo: "Criterio: tutti i guasti dei TV di modello simile al caso zero, banali o no, per dedurre l'estensione dell'anomalia", fonte: "c3:13"}
+  - {testo: "Campi di ogni voce: modello, orario dell'ultimo log disponibile, contenuto esatto del messaggio, pattern LED presente/assente, dati essenziali del proprietario", fonte: "c3:13, c3:37"}
+  - {testo: "Voce 1: il caso zero, con nota a margine riscritta tre volte: «irripetibile? verificare.»", fonte: "c3:15"}
+  - {testo: "Voci 2-4: tre guasti veri e banali (alimentatori bruciati, un cortocircuito, un firmware corrotto in aggiornamento)", fonte: "c3:15"}
+  - {testo: "Voce 5: il secondo televisore, con la riga «ce n'è più di uno.»", fonte: "c3:37"}
+  - {testo: "La quinta voce contiene numero di telefono, nome e indirizzo della signora Voss", fonte: "c4:9"}
+  - {testo: "Sotto la quinta voce Tom annota: «video in arrivo su WhatsApp.»", fonte: "c4:49"}
+  - {testo: "Sotto la voce Voss, la sera del video: «consapevole. Benevolo, non ostile.» Le prime parole scritte «con vera certezza»", fonte: "c5:33"}
+  - {testo: "Tom annota (e ricorda a memoria) anche i numeri di serie", fonte: "c6:9"}
+  - {testo: "Ha una «colonna dei dati del proprietario»: per la Voss aggiunge l'eWatch al polso nella foto, «un apparecchio Meridian nella stessa casa»", fonte: "c6:37"}
+  - {testo: "Sotto la voce Voss: «causa confermata. Vedi video: perché quello, non un altro.»", fonte: "c6:37"}
+  - {testo: "Ha colonne; «non rispondeva»: è l'unico a cui Tom ha mostrato ciò che ha visto", fonte: "c14:27, c14:43"}
+  - {testo: "La sera del cap. 14 Tom lo apre e lo richiude senza scrivere: solo guasti veri", fonte: "c14:45"}
+  - {testo: "La riga sull'eWatch della signora, scritta la sera del ricondizionamento, era «un dato come il numero di serie, niente di più»: è da lì che nasce l'ipotesi", fonte: "c15:27"}
+aperti:
+  - {testo: "Conteggio: «solo quattro volte in tutto» in tre mesi (c3 r. 15) comprende il caso zero + tre guasti banali; il secondo televisore è la quinta voce (c3 r. 37). Torna, ma il «quattro in tre mesi» include il caso zero, che sta all'inizio dei tre mesi."}
+  - {testo: "A fine cap. 3 Tom chiude il quaderno e spegne la lampada (c3 r. 39); il cap. 4 dice che «poco dopo» era alla scrivania col quaderno aperto a provare la scusa (c4 r. 9). Le due sere vanno lette come una sola sequenza: prima la scusa, poi la chiusura? Il testo le mette in ordine inverso."}
+  - {testo: "L'annotazione del cap. 4 (r. 49) è fatta di mattina, in cucina, durante la telefonata: unica volta in cui il quaderno viene scritto non di sera e non alla scrivania."}
+  - {testo: "Il numero di serie (c6 r. 9) non compare tra i campi elencati nel cap. 3 (modello, orario, messaggio, pattern, dati cliente)."}
+relazioni:
+  - {verso: fornitore-del-quaderno, tipo: "regalato da", fonte: "c3:13"}
+  - {verso: tv-caso-zero, tipo: "registra (voce 1)", fonte: "c3:15"}
+  - {verso: tv-secondo-contatto, tipo: "registra (voce 5)", fonte: "c3:37"}
+

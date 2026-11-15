@@ -1,0 +1,10014 @@
+{
+ "nodi": [
+  {
+   "id": "addetto-negozio",
+   "tipo": "personaggio",
+   "nome": "Addetto del negozio",
+   "capitoli": [
+    3,
+    4,
+    15
+   ]
+  },
+  {
+   "id": "audiofili-scandinavi",
+   "tipo": "personaggio",
+   "nome": "Audiofili scandinavi",
+   "capitoli": [
+    1,
+    7,
+    12
+   ]
+  },
+  {
+   "id": "cameriere-della-mela",
+   "tipo": "personaggio",
+   "nome": "Il cameriere della Mela Morsicata",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "cliente-caso-zero",
+   "tipo": "personaggio",
+   "nome": "Cliente del televisore del primo contatto",
+   "capitoli": [
+    1,
+    6,
+    19
+   ]
+  },
+  {
+   "id": "cliente-del-frigorifero",
+   "tipo": "personaggio",
+   "nome": "La cliente del frigorifero",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "emma",
+   "tipo": "personaggio",
+   "nome": "Emma",
+   "capitoli": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "id": "fondatore",
+   "tipo": "personaggio",
+   "nome": "Il fondatore",
+   "capitoli": [
+    10,
+    11
+   ]
+  },
+  {
+   "id": "fornitore-del-quaderno",
+   "tipo": "personaggio",
+   "nome": "Fornitore di componenti (quello del quaderno)",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "fratello-della-voss",
+   "tipo": "personaggio",
+   "nome": "Fratello della signora Voss",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "helge-mandelbrot",
+   "tipo": "personaggio",
+   "nome": "Helge Mandelbrot",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "mauro-vargiu",
+   "tipo": "personaggio",
+   "nome": "Mauro Vargiu (il trisavolo)",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "pete",
+   "tipo": "personaggio",
+   "nome": "Pete",
+   "capitoli": [
+    2,
+    4,
+    5,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "id": "ragazza-del-video-yoga",
+   "tipo": "personaggio",
+   "nome": "La ragazza dei video eTv",
+   "capitoli": [
+    4,
+    5,
+    7,
+    8,
+    9,
+    19
+   ]
+  },
+  {
+   "id": "signora-voss",
+   "tipo": "personaggio",
+   "nome": "Signora Voss",
+   "capitoli": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    12,
+    13,
+    14,
+    15,
+    18,
+    19
+   ]
+  },
+  {
+   "id": "tecnico-turno-b",
+   "tipo": "personaggio",
+   "nome": "Tecnico a cui viene riassegnato il caso zero",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "tom",
+   "tipo": "personaggio",
+   "nome": "Tom",
+   "capitoli": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "id": "tommy",
+   "tipo": "personaggio",
+   "nome": "«Tommy»",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "coordinamento-assistenza",
+   "tipo": "organizzazione",
+   "nome": "Coordinamento assistenza",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "divisione-assistenza-tecnica",
+   "tipo": "organizzazione",
+   "nome": "Divisione Assistenza Tecnica",
+   "capitoli": [
+    1,
+    2,
+    3,
+    11
+   ]
+  },
+  {
+   "id": "elab",
+   "tipo": "organizzazione",
+   "nome": "Elab",
+   "capitoli": [
+    9,
+    10,
+    14,
+    18,
+    19
+   ]
+  },
+  {
+   "id": "ispettori-interni",
+   "tipo": "organizzazione",
+   "nome": "Gli ispettori interni",
+   "capitoli": [
+    17,
+    18
+   ]
+  },
+  {
+   "id": "meridian",
+   "tipo": "organizzazione",
+   "nome": "Meridian",
+   "capitoli": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    10,
+    16,
+    17,
+    19
+   ]
+  },
+  {
+   "id": "ufficio-hr",
+   "tipo": "organizzazione",
+   "nome": "Ufficio HR",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "apparecchi-ordinari",
+   "tipo": "oggetto",
+   "nome": "Gli apparecchi ordinari del cap. 14",
+   "capitoli": [
+    14,
+    16,
+    18
+   ]
+  },
+  {
+   "id": "appuntamento-doppia",
+   "tipo": "oggetto",
+   "nome": "L'appuntamento «Doppia» di Pete",
+   "capitoli": [
+    18,
+    19
+   ]
+  },
+  {
+   "id": "archivio-artefatti",
+   "tipo": "oggetto",
+   "nome": "Archivio interno di catalogazione degli artefatti",
+   "capitoli": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "archivio-di-emma",
+   "tipo": "oggetto",
+   "nome": "L'archivio delle anomalie di Emma",
+   "capitoli": [
+    11,
+    12,
+    13
+   ]
+  },
+  {
+   "id": "articolo-commemorativo-voss",
+   "tipo": "oggetto",
+   "nome": "L'articolo commemorativo sulla signora Voss",
+   "capitoli": [
+    12,
+    13
+   ]
+  },
+  {
+   "id": "assistente-ia-di-tom",
+   "tipo": "oggetto",
+   "nome": "L'assistente IA di Tom",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "avatar-di-emma",
+   "tipo": "oggetto",
+   "nome": "L'avatar e lo sfondo di Emma",
+   "capitoli": [
+    18,
+    19
+   ]
+  },
+  {
+   "id": "bilancia-marisa",
+   "tipo": "oggetto",
+   "nome": "La bilancia che pesa fantasmi",
+   "capitoli": [
+    18
+   ]
+  },
+  {
+   "id": "canale-etv",
+   "tipo": "oggetto",
+   "nome": "Il canale eTv",
+   "capitoli": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "carrello-del-caffe",
+   "tipo": "oggetto",
+   "nome": "Il carrello del caffè delle dieci",
+   "capitoli": [
+    13,
+    18
+   ]
+  },
+  {
+   "id": "carrello-del-ricondizionamento",
+   "tipo": "oggetto",
+   "nome": "Carrello del ricondizionamento",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "carrello-delle-pulizie",
+   "tipo": "oggetto",
+   "nome": "Carrello delle pulizie",
+   "capitoli": [
+    10
+   ]
+  },
+  {
+   "id": "cartelli-di-tom",
+   "tipo": "oggetto",
+   "nome": "I cinque cartelli di Tom",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "cassetto-della-scrivania",
+   "tipo": "oggetto",
+   "nome": "Cassetto della scrivania (laboratorio)",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "cellulare-di-tom",
+   "tipo": "oggetto",
+   "nome": "Cellulare di Tom",
+   "capitoli": [
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "ciao-darwin",
+   "tipo": "oggetto",
+   "nome": "Ciao Darwin (programma televisivo)",
+   "capitoli": [
+    10,
+    11,
+    17
+   ]
+  },
+  {
+   "id": "computer-di-tom",
+   "tipo": "oggetto",
+   "nome": "Computer di Tom (a casa)",
+   "capitoli": [
+    7,
+    8,
+    9,
+    17
+   ]
+  },
+  {
+   "id": "comunicazione-formale-scostamento",
+   "tipo": "oggetto",
+   "nome": "Comunicazione formale di scostamento",
+   "capitoli": [
+    2,
+    17
+   ]
+  },
+  {
+   "id": "disco-tango",
+   "tipo": "oggetto",
+   "nome": "Il disco «Tango» dei Matia Bazar",
+   "capitoli": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "eblog",
+   "tipo": "oggetto",
+   "nome": "eBlog",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "edj",
+   "tipo": "oggetto",
+   "nome": "eDj (profilo Mixcloud)",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "estories",
+   "tipo": "oggetto",
+   "nome": "eStories (podcast)",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "ewatch",
+   "tipo": "oggetto",
+   "nome": "eWatch",
+   "capitoli": [
+    3,
+    6,
+    12,
+    14,
+    15,
+    17,
+    18
+   ]
+  },
+  {
+   "id": "foglio-avvertimento",
+   "tipo": "oggetto",
+   "nome": "Foglio con l'avvertimento decifrato",
+   "capitoli": [
+    5,
+    7,
+    18
+   ]
+  },
+  {
+   "id": "foglio-io-sono-qui",
+   "tipo": "oggetto",
+   "nome": "Foglio «IO / SONO / QUI»",
+   "capitoli": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "frigorifero-anomalo",
+   "tipo": "oggetto",
+   "nome": "Il frigorifero che non sale sopra i cinque gradi",
+   "capitoli": [
+    11,
+    13
+   ]
+  },
+  {
+   "id": "giradischi-di-tom",
+   "tipo": "oggetto",
+   "nome": "Giradischi di Tom",
+   "capitoli": [
+    1,
+    7,
+    8,
+    12
+   ]
+  },
+  {
+   "id": "indirizzo-elab",
+   "tipo": "oggetto",
+   "nome": "elab@meridian.com",
+   "capitoli": [
+    9,
+    10,
+    11,
+    14,
+    16
+   ]
+  },
+  {
+   "id": "invito-di-emma",
+   "tipo": "oggetto",
+   "nome": "L'invito di Emma (oggi, 15:00)",
+   "capitoli": [
+    18
+   ]
+  },
+  {
+   "id": "led-del-faretto",
+   "tipo": "oggetto",
+   "nome": "Il LED del faretto da giardino (la contromossa di Tom)",
+   "capitoli": [
+    18,
+    19
+   ]
+  },
+  {
+   "id": "led-di-accensione",
+   "tipo": "oggetto",
+   "nome": "LED di accensione",
+   "capitoli": [
+    1,
+    3,
+    5
+   ]
+  },
+  {
+   "id": "lista-dispositivi-in-assistenza",
+   "tipo": "oggetto",
+   "nome": "Lista dei dispositivi in assistenza",
+   "capitoli": [
+    11,
+    12,
+    13,
+    16
+   ]
+  },
+  {
+   "id": "log-tv-caso-zero",
+   "tipo": "oggetto",
+   "nome": "Log di sistema del primo televisore",
+   "capitoli": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "log-tv-secondo-contatto",
+   "tipo": "oggetto",
+   "nome": "Log di sistema del secondo televisore",
+   "capitoli": [
+    3,
+    19
+   ]
+  },
+  {
+   "id": "mail-bluff-di-tom",
+   "tipo": "oggetto",
+   "nome": "La prima mail di Tom a Elab (il bluff)",
+   "capitoli": [
+    10,
+    12,
+    13,
+    17,
+    18
+   ]
+  },
+  {
+   "id": "mail-delle-2334",
+   "tipo": "oggetto",
+   "nome": "La mail delle 23:34 di venerdì",
+   "capitoli": [
+    16,
+    17,
+    18
+   ]
+  },
+  {
+   "id": "mail-di-scuse-di-emma",
+   "tipo": "oggetto",
+   "nome": "La seconda mail di Emma (le scuse)",
+   "capitoli": [
+    13,
+    14,
+    16
+   ]
+  },
+  {
+   "id": "nastro",
+   "tipo": "oggetto",
+   "nome": "Nastro",
+   "capitoli": [
+    2,
+    3,
+    14,
+    15,
+    19
+   ]
+  },
+  {
+   "id": "newsletter-benessere",
+   "tipo": "oggetto",
+   "nome": "La newsletter di Benessere Meridian (modalità presenza)",
+   "capitoli": [
+    16,
+    19
+   ]
+  },
+  {
+   "id": "organigramma",
+   "tipo": "oggetto",
+   "nome": "Organigramma e pagina aziendale di Tom",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "pannello-di-etv",
+   "tipo": "oggetto",
+   "nome": "Il pannello di eTv",
+   "capitoli": [
+    12,
+    13
+   ]
+  },
+  {
+   "id": "pipeline-di-produzione",
+   "tipo": "oggetto",
+   "nome": "La pipeline di produzione dei contenuti",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "pipeline-media",
+   "tipo": "oggetto",
+   "nome": "La pipeline di sorveglianza dei media",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "portatile-diagnostico",
+   "tipo": "oggetto",
+   "nome": "Portatile diagnostico",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "post-del-fratello",
+   "tipo": "oggetto",
+   "nome": "Post del fratello (con la foto della signora Voss)",
+   "capitoli": [
+    6,
+    7,
+    12,
+    15
+   ]
+  },
+  {
+   "id": "quaderno-nero",
+   "tipo": "oggetto",
+   "nome": "Quaderno nero",
+   "capitoli": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    14,
+    15
+   ]
+  },
+  {
+   "id": "raccoglitore-del-fondatore",
+   "tipo": "oggetto",
+   "nome": "Il raccoglitore del fondatore",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "registro-interventi",
+   "tipo": "oggetto",
+   "nome": "Registro interventi",
+   "capitoli": [
+    2,
+    6,
+    13,
+    14,
+    16
+   ]
+  },
+  {
+   "id": "richiesta-di-meeting",
+   "tipo": "oggetto",
+   "nome": "La richiesta di meeting di Tom (8:26)",
+   "capitoli": [
+    18
+   ]
+  },
+  {
+   "id": "riepilogo-di-mezzanotte",
+   "tipo": "oggetto",
+   "nome": "Il riepilogo di mezzanotte",
+   "capitoli": [
+    17
+   ]
+  },
+  {
+   "id": "rilevatori-ia",
+   "tipo": "oggetto",
+   "nome": "I rilevatori pubblici di IA (Hive Moderation, Undetectable AI, ZeroGPT)",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "risposta-di-emma",
+   "tipo": "oggetto",
+   "nome": "La risposta di Emma (16:59)",
+   "capitoli": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "risposta-di-tom",
+   "tipo": "oggetto",
+   "nome": "La risposta di Tom a Emma (solo fatti)",
+   "capitoli": [
+    14,
+    15,
+    16,
+    18
+   ]
+  },
+  {
+   "id": "scatti-di-pete",
+   "tipo": "oggetto",
+   "nome": "I sette scatti di Pete",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "scheda-cliente-secondo-tv",
+   "tipo": "oggetto",
+   "nome": "Scheda cliente del secondo televisore",
+   "capitoli": [
+    3,
+    4,
+    15
+   ]
+  },
+  {
+   "id": "sito-del-giradischi",
+   "tipo": "oggetto",
+   "nome": "Il sito e il forum del progetto del giradischi",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "strumento-di-emma",
+   "tipo": "oggetto",
+   "nome": "Lo strumento di analisi dei trend di Emma",
+   "capitoli": [
+    10,
+    11
+   ]
+  },
+  {
+   "id": "tappetino-da-yoga",
+   "tipo": "oggetto",
+   "nome": "Tappetino da yoga della signora Voss",
+   "capitoli": [
+    5,
+    12,
+    13
+   ]
+  },
+  {
+   "id": "telecamera-di-sorveglianza",
+   "tipo": "oggetto",
+   "nome": "La telecamera di sorveglianza e il suo pannello",
+   "capitoli": [
+    18,
+    19
+   ]
+  },
+  {
+   "id": "terminale-del-turno",
+   "tipo": "oggetto",
+   "nome": "Terminale del turno",
+   "capitoli": [
+    2,
+    14,
+    15,
+    18
+   ]
+  },
+  {
+   "id": "terza-mail-di-emma",
+   "tipo": "oggetto",
+   "nome": "La mail delle 08:00:01",
+   "capitoli": [
+    15,
+    16
+   ]
+  },
+  {
+   "id": "transcript-del-video",
+   "tipo": "oggetto",
+   "nome": "Transcript del parlato del video di yoga",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "trascrizione-del-meeting",
+   "tipo": "oggetto",
+   "nome": "La trascrizione del meeting",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "tritatutto",
+   "tipo": "oggetto",
+   "nome": "Il tritatutto con la ciotola rigata",
+   "capitoli": [
+    15
+   ]
+  },
+  {
+   "id": "tv-caso-zero",
+   "tipo": "oggetto",
+   "nome": "Televisore del primo contatto (caso zero)",
+   "capitoli": [
+    1,
+    2,
+    3,
+    6,
+    19
+   ]
+  },
+  {
+   "id": "tv-secondo-contatto",
+   "tipo": "oggetto",
+   "nome": "Televisore del secondo contatto",
+   "capitoli": [
+    3,
+    4,
+    5,
+    6,
+    12,
+    13,
+    14,
+    15,
+    16,
+    19
+   ]
+  },
+  {
+   "id": "video-della-voss",
+   "tipo": "oggetto",
+   "nome": "Il video girato dalla signora Voss",
+   "capitoli": [
+    4,
+    5,
+    6,
+    14,
+    19
+   ]
+  },
+  {
+   "id": "video-yoga",
+   "tipo": "oggetto",
+   "nome": "Il video di yoga («Yoga fit: diventa bella come me in 15 minuti al giorno»)",
+   "capitoli": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    13,
+    19
+   ]
+  },
+  {
+   "id": "casa-della-voss",
+   "tipo": "luogo",
+   "nome": "Casa della signora Voss",
+   "capitoli": [
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "id": "casa-di-pete",
+   "tipo": "luogo",
+   "nome": "Casa di Pete",
+   "capitoli": [
+    17
+   ]
+  },
+  {
+   "id": "casa-di-tom",
+   "tipo": "luogo",
+   "nome": "Casa di Tom",
+   "capitoli": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    17
+   ]
+  },
+  {
+   "id": "la-mela-morsicata",
+   "tipo": "luogo",
+   "nome": "La Mela Morsicata",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "laboratorio-di-tom",
+   "tipo": "luogo",
+   "nome": "Laboratorio di Tom",
+   "capitoli": [
+    1,
+    2,
+    3,
+    6,
+    9,
+    14,
+    15,
+    18,
+    19
+   ]
+  },
+  {
+   "id": "mensa",
+   "tipo": "luogo",
+   "nome": "La mensa",
+   "capitoli": [
+    14,
+    19
+   ]
+  },
+  {
+   "id": "negozio",
+   "tipo": "luogo",
+   "nome": "Negozio (punto di consegna)",
+   "capitoli": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "postazione-di-pete",
+   "tipo": "luogo",
+   "nome": "La postazione di Pete (open space dei supervisori)",
+   "capitoli": [
+    18,
+    19
+   ]
+  },
+  {
+   "id": "sede-assistenza",
+   "tipo": "luogo",
+   "nome": "Sede Meridian dell'assistenza",
+   "capitoli": [
+    1,
+    2,
+    3,
+    5,
+    14,
+    15
+   ]
+  },
+  {
+   "id": "stanza-di-emma",
+   "tipo": "luogo",
+   "nome": "La stanza di Emma (ex laboratorio Elab)",
+   "capitoli": [
+    10,
+    11,
+    13,
+    16,
+    19
+   ]
+  },
+  {
+   "id": "anticipo-di-quindici-minuti",
+   "tipo": "concetto",
+   "nome": "I quindici minuti di anticipo",
+   "capitoli": [
+    4,
+    5,
+    9,
+    15
+   ]
+  },
+  {
+   "id": "calendario",
+   "tipo": "concetto",
+   "nome": "Calendario ricostruito (giorni della settimana)",
+   "capitoli": [
+    3,
+    16
+   ]
+  },
+  {
+   "id": "ciclo-diagnostico-14-minuti",
+   "tipo": "concetto",
+   "nome": "Limite di 14 minuti per ciclo diagnostico",
+   "capitoli": [
+    2,
+    3,
+    14,
+    15
+   ]
+  },
+  {
+   "id": "codice-morse",
+   "tipo": "concetto",
+   "nome": "Codice Morse",
+   "capitoli": [
+    1,
+    3,
+    5
+   ]
+  },
+  {
+   "id": "copertura-controllo-qualita",
+   "tipo": "concetto",
+   "nome": "La copertura del «controllo qualità»",
+   "capitoli": [
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "id": "digiuno-intermittente",
+   "tipo": "concetto",
+   "nome": "Il digiuno intermittente di Tom",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "il-bivio",
+   "tipo": "concetto",
+   "nome": "Il bivio",
+   "capitoli": [
+    17,
+    19
+   ]
+  },
+  {
+   "id": "indovinello-del-fondatore",
+   "tipo": "concetto",
+   "nome": "L'indovinello del fondatore",
+   "capitoli": [
+    10,
+    11
+   ]
+  },
+  {
+   "id": "ipotesi-canale-standby",
+   "tipo": "concetto",
+   "nome": "Perché il LED - l'ipotesi del circuito di standby",
+   "capitoli": [
+    5
+   ]
+  },
+  {
+   "id": "ipotesi-ewatch",
+   "tipo": "concetto",
+   "nome": "Come il televisore sapeva del cuore - l'ipotesi dell'eWatch",
+   "capitoli": [
+    15
+   ]
+  },
+  {
+   "id": "margine-47-secondi",
+   "tipo": "concetto",
+   "nome": "Il 47 (minuti trattenuti, secondi di margine)",
+   "capitoli": [
+    2,
+    3,
+    14,
+    15
+   ]
+  },
+  {
+   "id": "meccanismo-della-ripetizione",
+   "tipo": "concetto",
+   "nome": "Il meccanismo - la stessa cosa ripetuta finché non c'è più spazio",
+   "capitoli": [
+    13,
+    19
+   ]
+  },
+  {
+   "id": "porta-accostata",
+   "tipo": "concetto",
+   "nome": "La porta accostata",
+   "capitoli": [
+    15,
+    17
+   ]
+  },
+  {
+   "id": "procedura-standard",
+   "tipo": "concetto",
+   "nome": "Procedura standard",
+   "capitoli": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "regole-sulla-posta",
+   "tipo": "concetto",
+   "nome": "Le regole (scritte e non) su posta e pausa",
+   "capitoli": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+   ]
+  },
+  {
+   "id": "rito-delle-domande",
+   "tipo": "concetto",
+   "nome": "Il rito delle domande agli apparecchi",
+   "capitoli": [
+    1,
+    2,
+    3,
+    4,
+    14
+   ]
+  },
+  {
+   "id": "sofisma-della-sarda-salata",
+   "tipo": "concetto",
+   "nome": "Il sofisma della sarda salata",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "soglia-ritardo-cinque-minuti",
+   "tipo": "concetto",
+   "nome": "Soglia dei cinque minuti di ritardo",
+   "capitoli": [
+    5
+   ]
+  },
+  {
+   "id": "trascrizione-automatica",
+   "tipo": "concetto",
+   "nome": "Trascrizione automatica obbligatoria",
+   "capitoli": [
+    18,
+    19
+   ]
+  },
+  {
+   "id": "ultima-ora-di-turno",
+   "tipo": "concetto",
+   "nome": "L'ultima ora di turno",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "angelo-della-morte",
+   "tipo": "termine",
+   "nome": "«Angelo della morte»",
+   "capitoli": [
+    13
+   ]
+  },
+  {
+   "id": "caso-zero",
+   "tipo": "termine",
+   "nome": "«Primo contatto» / «caso zero»",
+   "capitoli": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "compacting-context",
+   "tipo": "termine",
+   "nome": "«compacting context»",
+   "capitoli": [
+    1,
+    19
+   ]
+  },
+  {
+   "id": "etichetta-anomalia",
+   "tipo": "termine",
+   "nome": "Etichetta «anomalia riscontrata durante l'operazione»",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "fattore-turno",
+   "tipo": "termine",
+   "nome": "Turni e fattore turno",
+   "capitoli": [
+    2,
+    3,
+    14
+   ]
+  },
+  {
+   "id": "hard-reset",
+   "tipo": "termine",
+   "nome": "Reset (software, diagnostico completo, hard reset)",
+   "capitoli": [
+    1,
+    2,
+    3,
+    6,
+    11
+   ]
+  },
+  {
+   "id": "internal-unknown",
+   "tipo": "termine",
+   "nome": "internal_unknown",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "mantra",
+   "tipo": "termine",
+   "nome": "Mantra",
+   "capitoli": [
+    6,
+    11
+   ]
+  },
+  {
+   "id": "meridians",
+   "tipo": "termine",
+   "nome": "Meridians",
+   "capitoli": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "modalita-presenza",
+   "tipo": "termine",
+   "nome": "Modalità presenza",
+   "capitoli": [
+    16,
+    18,
+    19
+   ]
+  },
+  {
+   "id": "origine-non-determinabile",
+   "tipo": "termine",
+   "nome": "«Origine non determinabile»",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "ricondizionamento",
+   "tipo": "termine",
+   "nome": "Ricondizionamento (giacenza, rimborso, scorciatoia)",
+   "capitoli": [
+    6,
+    13
+   ]
+  },
+  {
+   "id": "scostamento",
+   "tipo": "termine",
+   "nome": "Scostamento",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "smutandata",
+   "tipo": "termine",
+   "nome": "Smutandata",
+   "capitoli": [
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "id": "tabella-di-conversione",
+   "tipo": "termine",
+   "nome": "Tabella di Conversione (di Pete)",
+   "capitoli": [
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "id": "verifica-di-conformita",
+   "tipo": "termine",
+   "nome": "Verifica di conformità",
+   "capitoli": [
+    1,
+    3,
+    15
+   ]
+  },
+  {
+   "id": "yoga-fit",
+   "tipo": "termine",
+   "nome": "«Yoga fit»",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "e00-01",
+   "tipo": "evento",
+   "nome": "Il log del caso zero si interrompe; il cliente consegna il televisore",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e00-02",
+   "tipo": "evento",
+   "nome": "Antefatto Voss - lo yoga, il televisore che si rifiuta, il video, il negozio",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "e01-01",
+   "tipo": "evento",
+   "nome": "Procedura standard due volte, checksum pulito, LED anomalo",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e01-02",
+   "tipo": "evento",
+   "nome": "«C'è nessuno, oltre a me, in questa stanza?» → IO SONO QUI",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e01-03",
+   "tipo": "evento",
+   "nome": "L'interrogatorio del primo televisore",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e01-04",
+   "tipo": "evento",
+   "nome": "Tom apre il log del primo televisore",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e01-05",
+   "tipo": "evento",
+   "nome": "Tom etichetta l'unità come «anomalia riscontrata durante l'operazione»",
+   "capitoli": [
+    1
+   ]
+  },
+  {
+   "id": "e02-01",
+   "tipo": "evento",
+   "nome": "Tom riceve la comunicazione formale di scostamento",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "e02-02",
+   "tipo": "evento",
+   "nome": "Tom scopre che il caso zero è stato riassegnato per il reset",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "e02-03",
+   "tipo": "evento",
+   "nome": "Tom riguarda il foglio e lo rimette nel cassetto",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "e02-04",
+   "tipo": "evento",
+   "nome": "Tom decide - il cronometro lo tiene lui, e un archivio privato",
+   "capitoli": [
+    2
+   ]
+  },
+  {
+   "id": "e03-01",
+   "tipo": "evento",
+   "nome": "Tre mesi di efficienza perfetta e di quaderno",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "e03-02",
+   "tipo": "evento",
+   "nome": "Arriva il secondo televisore",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "e03-03",
+   "tipo": "evento",
+   "nome": "Procedura in 7:12 e apertura del log del secondo televisore",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "e03-04",
+   "tipo": "evento",
+   "nome": "«Ti senti solo?» → NO SONO QUI CON TE",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "e03-05",
+   "tipo": "evento",
+   "nome": "Tom resetta il secondo televisore",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "e03-06",
+   "tipo": "evento",
+   "nome": "La quinta voce - «ce n'è più di uno.»",
+   "capitoli": [
+    3
+   ]
+  },
+  {
+   "id": "e04-01",
+   "tipo": "evento",
+   "nome": "Tom prova la scusa per la telefonata e rinuncia",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "e04-02",
+   "tipo": "evento",
+   "nome": "Tom chiama la signora Voss fingendosi il controllo qualità",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "e04-03",
+   "tipo": "evento",
+   "nome": "La signora racconta - «proprio non voleva»",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "e04-04",
+   "tipo": "evento",
+   "nome": "«Ho un video, sa?» - la signora lo manderà su WhatsApp",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "e04-05",
+   "tipo": "evento",
+   "nome": "Tom chiude, si giudica un principiante e corre all'autobus",
+   "capitoli": [
+    4
+   ]
+  },
+  {
+   "id": "e05-01",
+   "tipo": "evento",
+   "nome": "Tom arriva con due minuti di ritardo",
+   "capitoli": [
+    5
+   ]
+  },
+  {
+   "id": "e05-02",
+   "tipo": "evento",
+   "nome": "Un turno con la testa altrove - il video resta chiuso",
+   "capitoli": [
+    5
+   ]
+  },
+  {
+   "id": "e05-03",
+   "tipo": "evento",
+   "nome": "Tom decifra il video - STAI ESAGERANDO CON LO YOGA…",
+   "capitoli": [
+    5
+   ]
+  },
+  {
+   "id": "e05-04",
+   "tipo": "evento",
+   "nome": "Perché il Morse; Tom decide di richiamare al mattino e annota il quaderno",
+   "capitoli": [
+    5
+   ]
+  },
+  {
+   "id": "e05-05",
+   "tipo": "evento",
+   "nome": "La signora Voss non risponde",
+   "capitoli": [
+    5
+   ]
+  },
+  {
+   "id": "e06-01",
+   "tipo": "evento",
+   "nome": "Il televisore Voss torna sul banco di Tom per il ricondizionamento",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-02",
+   "tipo": "evento",
+   "nome": "Tom legge nel registro il rifiuto e il decesso",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-03",
+   "tipo": "evento",
+   "nome": "Tom rinuncia a interrogare il televisore e lo ricondiziona",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-04",
+   "tipo": "evento",
+   "nome": "Tom trova il post del fratello - il cuore, durante lo yoga",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-05",
+   "tipo": "evento",
+   "nome": "Tom decide di cercare il video di yoga",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-0a",
+   "tipo": "evento",
+   "nome": "Tom richiama la signora per settimane, senza risposta",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-0b",
+   "tipo": "evento",
+   "nome": "L'assistenza ricontatta la signora Voss - «non lo voglio più in casa»",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e06-0c",
+   "tipo": "evento",
+   "nome": "La signora Voss muore facendo yoga",
+   "capitoli": [
+    6
+   ]
+  },
+  {
+   "id": "e07-01",
+   "tipo": "evento",
+   "nome": "Tom mette «Tango» sul giradischi",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "e07-02",
+   "tipo": "evento",
+   "nome": "Tom filtra i risultati e fa ordinare i video all'assistente IA",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "e07-03",
+   "tipo": "evento",
+   "nome": "Tom individua il video - «bella», velocità doppia",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "e07-04",
+   "tipo": "evento",
+   "nome": "Sei dita per due fotogrammi - il video è generato",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "e07-05",
+   "tipo": "evento",
+   "nome": "Tom clicca sul nome del canale - eTv",
+   "capitoli": [
+    7
+   ]
+  },
+  {
+   "id": "e08-01",
+   "tipo": "evento",
+   "nome": "Tom scorre il canale eTv - sempre la stessa ragazza",
+   "capitoli": [
+    8
+   ]
+  },
+  {
+   "id": "e08-02",
+   "tipo": "evento",
+   "nome": "Tom nota cosa manca - identità, iscritti, ritmo",
+   "capitoli": [
+    8
+   ]
+  },
+  {
+   "id": "e08-03",
+   "tipo": "evento",
+   "nome": "Tom rimanda a domani - con quale IA è stato generato il video",
+   "capitoli": [
+    8
+   ]
+  },
+  {
+   "id": "e09-01",
+   "tipo": "evento",
+   "nome": "Hive dà il video per reale",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "e09-02",
+   "tipo": "evento",
+   "nome": "Tom trascrive il parlato - due rilevatori su tre lo danno per generato",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "e09-03",
+   "tipo": "evento",
+   "nome": "Tom cerca il testo nell'archivio interno - corrispondenza trovata",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "e09-04",
+   "tipo": "evento",
+   "nome": "Tom riconosce il nome Elab",
+   "capitoli": [
+    9
+   ]
+  },
+  {
+   "id": "e10-01",
+   "tipo": "evento",
+   "nome": "La routine del mattino di Emma - il falso trend del sifone",
+   "capitoli": [
+    10
+   ]
+  },
+  {
+   "id": "e10-02",
+   "tipo": "evento",
+   "nome": "Emma legge la mail di Tom e capisce che mente",
+   "capitoli": [
+    10
+   ]
+  },
+  {
+   "id": "e10-03",
+   "tipo": "evento",
+   "nome": "Il tono di Emma si raffredda; risponde alle 16:59",
+   "capitoli": [
+    10
+   ]
+  },
+  {
+   "id": "e10-0a",
+   "tipo": "evento",
+   "nome": "Tom scrive a elab@meridian.com",
+   "capitoli": [
+    10
+   ]
+  },
+  {
+   "id": "e11-01",
+   "tipo": "evento",
+   "nome": "Emma controlla la casella - Tom non ha risposto",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-02",
+   "tipo": "evento",
+   "nome": "Emma produce tre contenuti - eTv, eBlog, eDj",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-03",
+   "tipo": "evento",
+   "nome": "Secondo controllo prima di pranzo - niente",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-04",
+   "tipo": "evento",
+   "nome": "La visita del fondatore - l'indovinello, il foglio stampato",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-05",
+   "tipo": "evento",
+   "nome": "Emma aggiorna l'archivio delle anomalie - il frigorifero, gli smoothie",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-06",
+   "tipo": "evento",
+   "nome": "Alle diciassette Emma chiude l'inbox, vuota",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e11-0a",
+   "tipo": "evento",
+   "nome": "Antefatto - il frigorifero che si rifiuta",
+   "capitoli": [
+    11
+   ]
+  },
+  {
+   "id": "e12-01",
+   "tipo": "evento",
+   "nome": "La pipeline media intercetta l'articolo - Emma riconosce il nome Voss",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "e12-02",
+   "tipo": "evento",
+   "nome": "Emma scopre che il tecnico del televisore Voss era Tom",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "e12-03",
+   "tipo": "evento",
+   "nome": "Due ipotesi - un investigatore con la casella di Tom, o Tom che indaga",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "e12-04",
+   "tipo": "evento",
+   "nome": "Emma ricostruisce chi è Tom - organigramma, LinkedIn, forum",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "e12-05",
+   "tipo": "evento",
+   "nome": "Emma decide di scoprire chi c'è dietro la mail e apre il pannello di eTv",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "e12-0a",
+   "tipo": "evento",
+   "nome": "I parenti pubblicano l'articolo commemorativo",
+   "capitoli": [
+    12
+   ]
+  },
+  {
+   "id": "e13-01",
+   "tipo": "evento",
+   "nome": "Emma trova lo spettatore unico del video di yoga",
+   "capitoli": [
+    13
+   ]
+  },
+  {
+   "id": "e13-02",
+   "tipo": "evento",
+   "nome": "Emma rilegge tutto l'archivio - ogni caso ha la sua curva",
+   "capitoli": [
+    13
+   ]
+  },
+  {
+   "id": "e13-03",
+   "tipo": "evento",
+   "nome": "La paura - il televisore come angelo della morte; il processo del mattino saltato",
+   "capitoli": [
+    13
+   ]
+  },
+  {
+   "id": "e13-04",
+   "tipo": "evento",
+   "nome": "Emma decide di non togliere il video",
+   "capitoli": [
+    13
+   ]
+  },
+  {
+   "id": "e13-05",
+   "tipo": "evento",
+   "nome": "Emma scopre le due volte di Tom",
+   "capitoli": [
+    13
+   ]
+  },
+  {
+   "id": "e13-06",
+   "tipo": "evento",
+   "nome": "Emma decide di riscrivere a Tom - le scuse",
+   "capitoli": [
+    13
+   ]
+  },
+  {
+   "id": "e14-01",
+   "tipo": "evento",
+   "nome": "Le scuse di Emma arrivano sull'eWatch a metà intervento",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-02",
+   "tipo": "evento",
+   "nome": "Tom legge le scuse - non è più solo; il margine dei 47 secondi salta",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-03",
+   "tipo": "evento",
+   "nome": "Tom mette in fila cosa dire e cosa tacere",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-04",
+   "tipo": "evento",
+   "nome": "In pausa pranzo Tom scrive le domande, le cancella, scrive i fatti",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-05",
+   "tipo": "evento",
+   "nome": "Tom invia quando il nastro riparte",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-06",
+   "tipo": "evento",
+   "nome": "Un pomeriggio a controllare la casella; la sera il quaderno resta vuoto",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e14-0a",
+   "tipo": "evento",
+   "nome": "Tom legge la prima risposta di Emma e tace per due giorni",
+   "capitoli": [
+    14
+   ]
+  },
+  {
+   "id": "e15-01",
+   "tipo": "evento",
+   "nome": "Tom lascia la porta accostata",
+   "capitoli": [
+    15
+   ]
+  },
+  {
+   "id": "e15-02",
+   "tipo": "evento",
+   "nome": "Le 08:00:01 - «intendeva proprio quello?»",
+   "capitoli": [
+    15
+   ]
+  },
+  {
+   "id": "e15-03",
+   "tipo": "evento",
+   "nome": "Pete passa davanti alla porta e rallenta",
+   "capitoli": [
+    15
+   ]
+  },
+  {
+   "id": "e15-04",
+   "tipo": "evento",
+   "nome": "Riparando un tritatutto, Tom arriva all'ipotesi dell'eWatch",
+   "capitoli": [
+    15
+   ]
+  },
+  {
+   "id": "e15-05",
+   "tipo": "evento",
+   "nome": "Tom dimentica la rondella e riga la ciotola",
+   "capitoli": [
+    15
+   ]
+  },
+  {
+   "id": "e15-06",
+   "tipo": "evento",
+   "nome": "«Ciao Emma,» - Tom cancella e non risponde",
+   "capitoli": [
+    15
+   ]
+  },
+  {
+   "id": "e16-01",
+   "tipo": "evento",
+   "nome": "Emma legge la risposta di Tom - tutto dell'apparecchio, niente della morte",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "e16-02",
+   "tipo": "evento",
+   "nome": "Emma sceglie la domanda sul verbo «si rifiuta»",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "e16-03",
+   "tipo": "evento",
+   "nome": "Una settimana di silenzio - Emma segue Tom sulla lista",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "e16-04",
+   "tipo": "evento",
+   "nome": "Emma decide di parlargli lei della morte, lunedì alle otto",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "e16-05",
+   "tipo": "evento",
+   "nome": "Venerdì sera alla Mela Morsicata - Tommy e la sarda salata",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "e16-06",
+   "tipo": "evento",
+   "nome": "Alle 23:34 Emma scrive a Tom fuori orario",
+   "capitoli": [
+    16
+   ]
+  },
+  {
+   "id": "e17-01",
+   "tipo": "evento",
+   "nome": "La mail delle 23:34 sveglia Tom - non la apre",
+   "capitoli": [
+    17
+   ]
+  },
+  {
+   "id": "e17-02",
+   "tipo": "evento",
+   "nome": "Il bivio - vederla o chiudere",
+   "capitoli": [
+    17
+   ]
+  },
+  {
+   "id": "e17-03",
+   "tipo": "evento",
+   "nome": "Alle 23:59 Pete riceve il riepilogo di mezzanotte",
+   "capitoli": [
+    17
+   ]
+  },
+  {
+   "id": "e17-04",
+   "tipo": "evento",
+   "nome": "Pete fiuta l'osso - «Dai. Aprila.»",
+   "capitoli": [
+    17
+   ]
+  },
+  {
+   "id": "e18-01",
+   "tipo": "evento",
+   "nome": "Alle otto Tom apre in regola la mail delle 23:34",
+   "capitoli": [
+    18
+   ]
+  },
+  {
+   "id": "e18-02",
+   "tipo": "evento",
+   "nome": "Tom ripara la bilancia e alle 8:26 chiede un meeting in presenza",
+   "capitoli": [
+    18
+   ]
+  },
+  {
+   "id": "e18-03",
+   "tipo": "evento",
+   "nome": "Pete legge il thread intero - il primo mattone",
+   "capitoli": [
+    18
+   ]
+  },
+  {
+   "id": "e18-04",
+   "tipo": "evento",
+   "nome": "Emma risponde con un invito - «oggi» alle 15",
+   "capitoli": [
+    18
+   ]
+  },
+  {
+   "id": "e18-05",
+   "tipo": "evento",
+   "nome": "«Pete, prova a prendermi» - Tom accetta e prepara il LED",
+   "capitoli": [
+    18
+   ]
+  },
+  {
+   "id": "e18-06",
+   "tipo": "evento",
+   "nome": "Pete attiva la trascrizione e si crea l'appuntamento «Doppia»",
+   "capitoli": [
+    18
+   ]
+  },
+  {
+   "id": "e19-01",
+   "tipo": "evento",
+   "nome": "Le tre meno due - Tom pronto, Pete spreca il primo scatto",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-02",
+   "tipo": "evento",
+   "nome": "Le 15:00:01 - Emma entra; i due si vedono",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-03",
+   "tipo": "evento",
+   "nome": "«Per la trascrizione» - Tom detta, Emma capisce",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-04",
+   "tipo": "evento",
+   "nome": "Pete muove la telecamera; Tom accende il LED",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-05",
+   "tipo": "evento",
+   "nome": "I cinque cartelli",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-06",
+   "tipo": "evento",
+   "nome": "Il clic del filtro - «un caffè in mensa»",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-07",
+   "tipo": "evento",
+   "nome": "Emma resta sola - lo sfondo senza nessuno davanti",
+   "capitoli": [
+    19
+   ]
+  },
+  {
+   "id": "e19-08",
+   "tipo": "evento",
+   "nome": "Alle quattro Pete legge la trascrizione e ingrandisce il settimo scatto - «Inizia la caccia»",
+   "capitoli": [
+    19
+   ]
+  }
+ ],
+ "archi": [
+  {
+   "da": "addetto-negozio",
+   "a": "scheda-cliente-secondo-tv",
+   "tipo": "compila",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "audiofili-scandinavi",
+   "a": "giradischi-di-tom",
+   "tipo": "seguono il progetto",
+   "nota": "",
+   "fonte": "c1:15"
+  },
+  {
+   "da": "cliente-caso-zero",
+   "a": "tv-caso-zero",
+   "tipo": "proprietario di",
+   "nota": "",
+   "fonte": "c1:93"
+  },
+  {
+   "da": "emma",
+   "a": "elab",
+   "tipo": "ultima componente di",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "emma",
+   "a": "meridian",
+   "tipo": "lavora per",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "emma",
+   "a": "fondatore",
+   "tipo": "riceve le visite di",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "emma",
+   "a": "strumento-di-emma",
+   "tipo": "ha costruito",
+   "nota": "",
+   "fonte": "c10:9"
+  },
+  {
+   "da": "emma",
+   "a": "stanza-di-emma",
+   "tipo": "sta in",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "emma",
+   "a": "tom",
+   "tipo": "sa che le ha mentito",
+   "nota": "",
+   "fonte": "c10:21"
+  },
+  {
+   "da": "emma",
+   "a": "risposta-di-emma",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c10:27"
+  },
+  {
+   "da": "emma",
+   "a": "canale-etv",
+   "tipo": "produce i contenuti di",
+   "nota": "",
+   "fonte": "c11:15"
+  },
+  {
+   "da": "emma",
+   "a": "eblog",
+   "tipo": "produce i contenuti di",
+   "nota": "",
+   "fonte": "c11:17"
+  },
+  {
+   "da": "emma",
+   "a": "edj",
+   "tipo": "produce i contenuti di",
+   "nota": "",
+   "fonte": "c11:19"
+  },
+  {
+   "da": "emma",
+   "a": "estories",
+   "tipo": "produce i contenuti di",
+   "nota": "",
+   "fonte": "c11:21"
+  },
+  {
+   "da": "emma",
+   "a": "archivio-di-emma",
+   "tipo": "tiene",
+   "nota": "",
+   "fonte": "c11:29"
+  },
+  {
+   "da": "emma",
+   "a": "indovinello-del-fondatore",
+   "tipo": "risponde sbagliando apposta a",
+   "nota": "",
+   "fonte": "c11:25"
+  },
+  {
+   "da": "emma",
+   "a": "pipeline-media",
+   "tipo": "ha costruito",
+   "nota": "",
+   "fonte": "c12:11"
+  },
+  {
+   "da": "emma",
+   "a": "signora-voss",
+   "tipo": "ha in archivio il caso di",
+   "nota": "",
+   "fonte": "c12:15"
+  },
+  {
+   "da": "emma",
+   "a": "tom",
+   "tipo": "indaga su",
+   "nota": "",
+   "fonte": "c12:29-37"
+  },
+  {
+   "da": "emma",
+   "a": "pannello-di-etv",
+   "tipo": "consulta",
+   "nota": "",
+   "fonte": "c13:11"
+  },
+  {
+   "da": "emma",
+   "a": "meccanismo-della-ripetizione",
+   "tipo": "conosce e sfrutta",
+   "nota": "",
+   "fonte": "c13:27"
+  },
+  {
+   "da": "emma",
+   "a": "mail-di-scuse-di-emma",
+   "tipo": "decide di scrivere",
+   "nota": "",
+   "fonte": "c13:45"
+  },
+  {
+   "da": "emma",
+   "a": "terza-mail-di-emma",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c15:15"
+  },
+  {
+   "da": "emma",
+   "a": "la-mela-morsicata",
+   "tipo": "frequenta ogni venerdì",
+   "nota": "",
+   "fonte": "c16:25"
+  },
+  {
+   "da": "emma",
+   "a": "tommy",
+   "tipo": "riceve il sofisma da",
+   "nota": "",
+   "fonte": "c16:39"
+  },
+  {
+   "da": "emma",
+   "a": "mail-delle-2334",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c16:43"
+  },
+  {
+   "da": "emma",
+   "a": "invito-di-emma",
+   "tipo": "ha mandato",
+   "nota": "",
+   "fonte": "c18:39"
+  },
+  {
+   "da": "emma",
+   "a": "avatar-di-emma",
+   "tipo": "configura",
+   "nota": "",
+   "fonte": "c18:37"
+  },
+  {
+   "da": "fondatore",
+   "a": "meridian",
+   "tipo": "fondatore di",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "fondatore",
+   "a": "elab",
+   "tipo": "fondatore di",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "fondatore",
+   "a": "indovinello-del-fondatore",
+   "tipo": "ripete",
+   "nota": "",
+   "fonte": "c11:25"
+  },
+  {
+   "da": "fondatore",
+   "a": "raccoglitore-del-fondatore",
+   "tipo": "archivia in",
+   "nota": "",
+   "fonte": "c11:27"
+  },
+  {
+   "da": "fornitore-del-quaderno",
+   "a": "quaderno-nero",
+   "tipo": "ha regalato",
+   "nota": "",
+   "fonte": "c3:13"
+  },
+  {
+   "da": "fratello-della-voss",
+   "a": "post-del-fratello",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c6:31"
+  },
+  {
+   "da": "pete",
+   "a": "divisione-assistenza-tecnica",
+   "tipo": "supervisore della",
+   "nota": "",
+   "fonte": "c2:23"
+  },
+  {
+   "da": "pete",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "firma",
+   "nota": "",
+   "fonte": "c2:23"
+  },
+  {
+   "da": "pete",
+   "a": "tom",
+   "tipo": "sorveglia",
+   "nota": "",
+   "fonte": "c15:23"
+  },
+  {
+   "da": "pete",
+   "a": "riepilogo-di-mezzanotte",
+   "tipo": "riceve",
+   "nota": "",
+   "fonte": "c17:40"
+  },
+  {
+   "da": "pete",
+   "a": "casa-di-pete",
+   "tipo": "abita in",
+   "nota": "",
+   "fonte": "c17:26"
+  },
+  {
+   "da": "pete",
+   "a": "ispettori-interni",
+   "tipo": "aspira a diventare / invidia",
+   "nota": "",
+   "fonte": "c17:58"
+  },
+  {
+   "da": "pete",
+   "a": "ciao-darwin",
+   "tipo": "guarda",
+   "nota": "",
+   "fonte": "c17:38"
+  },
+  {
+   "da": "pete",
+   "a": "postazione-di-pete",
+   "tipo": "lavora in",
+   "nota": "",
+   "fonte": "c18:41"
+  },
+  {
+   "da": "pete",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "può usare",
+   "nota": "",
+   "fonte": "c18:66-68"
+  },
+  {
+   "da": "pete",
+   "a": "scatti-di-pete",
+   "tipo": "ha fatto",
+   "nota": "",
+   "fonte": "c19:17"
+  },
+  {
+   "da": "pete",
+   "a": "trascrizione-del-meeting",
+   "tipo": "riceve",
+   "nota": "",
+   "fonte": "c19:85"
+  },
+  {
+   "da": "ragazza-del-video-yoga",
+   "a": "video-yoga",
+   "tipo": "compare in",
+   "nota": "",
+   "fonte": "c4:31"
+  },
+  {
+   "da": "signora-voss",
+   "a": "tv-secondo-contatto",
+   "tipo": "proprietario di",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "signora-voss",
+   "a": "addetto-negozio",
+   "tipo": "detta la segnalazione a",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "signora-voss",
+   "a": "video-yoga",
+   "tipo": "guarda ripetutamente",
+   "nota": "",
+   "fonte": "c4:31"
+  },
+  {
+   "da": "signora-voss",
+   "a": "video-della-voss",
+   "tipo": "ha girato",
+   "nota": "",
+   "fonte": "c4:41"
+  },
+  {
+   "da": "signora-voss",
+   "a": "negozio",
+   "tipo": "ha portato il televisore al",
+   "nota": "",
+   "fonte": "c4:31"
+  },
+  {
+   "da": "signora-voss",
+   "a": "tom",
+   "tipo": "crede sia del controllo qualità",
+   "nota": "",
+   "fonte": "c4:19"
+  },
+  {
+   "da": "signora-voss",
+   "a": "fratello-della-voss",
+   "tipo": "sorella di",
+   "nota": "",
+   "fonte": "c6:31"
+  },
+  {
+   "da": "signora-voss",
+   "a": "ewatch",
+   "tipo": "indossa",
+   "nota": "",
+   "fonte": "c6:31"
+  },
+  {
+   "da": "tecnico-turno-b",
+   "a": "tv-caso-zero",
+   "tipo": "resetta",
+   "nota": "fuori scena, presunto da Tom",
+   "fonte": "c2:39"
+  },
+  {
+   "da": "tecnico-turno-b",
+   "a": "divisione-assistenza-tecnica",
+   "tipo": "tecnico della",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "tom",
+   "a": "meridian",
+   "tipo": "lavora per",
+   "nota": "",
+   "fonte": "c1:17"
+  },
+  {
+   "da": "tom",
+   "a": "divisione-assistenza-tecnica",
+   "tipo": "tecnico della",
+   "nota": "",
+   "fonte": "c2:23"
+  },
+  {
+   "da": "tom",
+   "a": "pete",
+   "tipo": "sottoposto di",
+   "nota": "lo evita; lo conosce quasi solo per iscritto",
+   "fonte": "c2:25"
+  },
+  {
+   "da": "tom",
+   "a": "laboratorio-di-tom",
+   "tipo": "lavora in",
+   "nota": "",
+   "fonte": "c1:43"
+  },
+  {
+   "da": "tom",
+   "a": "casa-di-tom",
+   "tipo": "abita in",
+   "nota": "",
+   "fonte": "c3:13"
+  },
+  {
+   "da": "tom",
+   "a": "giradischi-di-tom",
+   "tipo": "ha costruito",
+   "nota": "",
+   "fonte": "c1:15"
+  },
+  {
+   "da": "tom",
+   "a": "audiofili-scandinavi",
+   "tipo": "seguito da",
+   "nota": "",
+   "fonte": "c1:15"
+  },
+  {
+   "da": "tom",
+   "a": "quaderno-nero",
+   "tipo": "tiene",
+   "nota": "",
+   "fonte": "c3:13"
+  },
+  {
+   "da": "tom",
+   "a": "foglio-io-sono-qui",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c1:37"
+  },
+  {
+   "da": "tom",
+   "a": "ewatch",
+   "tipo": "indossa",
+   "nota": "obbligatorio in orario di lavoro",
+   "fonte": "c3:9"
+  },
+  {
+   "da": "tom",
+   "a": "rito-delle-domande",
+   "tipo": "pratica",
+   "nota": "",
+   "fonte": "c1:29"
+  },
+  {
+   "da": "tom",
+   "a": "codice-morse",
+   "tipo": "conosce",
+   "nota": "",
+   "fonte": "c1:33"
+  },
+  {
+   "da": "tom",
+   "a": "margine-47-secondi",
+   "tipo": "si impone",
+   "nota": "",
+   "fonte": "c3:9"
+  },
+  {
+   "da": "tom",
+   "a": "signora-voss",
+   "tipo": "telefona a",
+   "nota": "sotto copertura",
+   "fonte": "c4:19"
+  },
+  {
+   "da": "tom",
+   "a": "cellulare-di-tom",
+   "tipo": "usa",
+   "nota": "",
+   "fonte": "c4:13"
+  },
+  {
+   "da": "tom",
+   "a": "copertura-controllo-qualita",
+   "tipo": "inventa",
+   "nota": "",
+   "fonte": "c4:9"
+  },
+  {
+   "da": "tom",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "abitudine",
+   "nota": "",
+   "fonte": "c4:11"
+  },
+  {
+   "da": "tom",
+   "a": "foglio-avvertimento",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c5:25"
+  },
+  {
+   "da": "tom",
+   "a": "ipotesi-canale-standby",
+   "tipo": "formula",
+   "nota": "",
+   "fonte": "c5:27"
+  },
+  {
+   "da": "tom",
+   "a": "mauro-vargiu",
+   "tipo": "discendente di",
+   "nota": "",
+   "fonte": "c7:13"
+  },
+  {
+   "da": "tom",
+   "a": "assistente-ia-di-tom",
+   "tipo": "usa",
+   "nota": "",
+   "fonte": "c7:17"
+  },
+  {
+   "da": "tom",
+   "a": "computer-di-tom",
+   "tipo": "usa",
+   "nota": "",
+   "fonte": "c7:15"
+  },
+  {
+   "da": "tom",
+   "a": "archivio-artefatti",
+   "tipo": "consulta",
+   "nota": "",
+   "fonte": "c9:25"
+  },
+  {
+   "da": "tom",
+   "a": "transcript-del-video",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c9:15"
+  },
+  {
+   "da": "tom",
+   "a": "emma",
+   "tipo": "scrive a",
+   "nota": "senza sapere chi leggerà",
+   "fonte": "c10:19"
+  },
+  {
+   "da": "tom",
+   "a": "mail-bluff-di-tom",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c10:19"
+  },
+  {
+   "da": "tom",
+   "a": "sito-del-giradischi",
+   "tipo": "gestisce",
+   "nota": "",
+   "fonte": "c12:33"
+  },
+  {
+   "da": "tom",
+   "a": "risposta-di-tom",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c14:37"
+  },
+  {
+   "da": "tom",
+   "a": "digiuno-intermittente",
+   "tipo": "pratica",
+   "nota": "",
+   "fonte": "c14:35"
+  },
+  {
+   "da": "tom",
+   "a": "ipotesi-ewatch",
+   "tipo": "formula",
+   "nota": "",
+   "fonte": "c15:27"
+  },
+  {
+   "da": "tom",
+   "a": "porta-accostata",
+   "tipo": "decide",
+   "nota": "",
+   "fonte": "c15:9"
+  },
+  {
+   "da": "tom",
+   "a": "il-bivio",
+   "tipo": "davanti a",
+   "nota": "",
+   "fonte": "c17:22"
+  },
+  {
+   "da": "tom",
+   "a": "richiesta-di-meeting",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c18:31"
+  },
+  {
+   "da": "tom",
+   "a": "led-del-faretto",
+   "tipo": "prepara",
+   "nota": "",
+   "fonte": "c18:60"
+  },
+  {
+   "da": "tom",
+   "a": "cartelli-di-tom",
+   "tipo": "ha scritto",
+   "nota": "",
+   "fonte": "c19:39"
+  },
+  {
+   "da": "coordinamento-assistenza",
+   "a": "meridian",
+   "tipo": "parte di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "coordinamento-assistenza",
+   "a": "tv-caso-zero",
+   "tipo": "ordina il reset di",
+   "nota": "",
+   "fonte": "c2:36"
+  },
+  {
+   "da": "divisione-assistenza-tecnica",
+   "a": "meridian",
+   "tipo": "parte di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "elab",
+   "a": "meridian",
+   "tipo": "laboratorio di",
+   "nota": "",
+   "fonte": "c9:39"
+  },
+  {
+   "da": "elab",
+   "a": "indirizzo-elab",
+   "tipo": "risponde a",
+   "nota": "",
+   "fonte": "c9:35"
+  },
+  {
+   "da": "elab",
+   "a": "stanza-di-emma",
+   "tipo": "ha sede in",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "ispettori-interni",
+   "a": "meridian",
+   "tipo": "parte di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "meridian",
+   "a": "ewatch",
+   "tipo": "ha distribuito",
+   "nota": "a tutti i dipendenti, quell'inverno",
+   "fonte": "c3:9"
+  },
+  {
+   "da": "meridian",
+   "a": "procedura-standard",
+   "tipo": "impone",
+   "nota": "",
+   "fonte": "c1:23"
+  },
+  {
+   "da": "meridian",
+   "a": "archivio-artefatti",
+   "tipo": "gestisce",
+   "nota": "",
+   "fonte": "c9:25"
+  },
+  {
+   "da": "ufficio-hr",
+   "a": "meridian",
+   "tipo": "parte di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "ufficio-hr",
+   "a": "terminale-del-turno",
+   "tipo": "ha scelto il suono del",
+   "nota": "",
+   "fonte": "c2:9"
+  },
+  {
+   "da": "apparecchi-ordinari",
+   "a": "rito-delle-domande",
+   "tipo": "sottoposti al",
+   "nota": "",
+   "fonte": "c14:31"
+  },
+  {
+   "da": "appuntamento-doppia",
+   "a": "smutandata",
+   "tipo": "prende il nome dalla",
+   "nota": "",
+   "fonte": "c18:49"
+  },
+  {
+   "da": "appuntamento-doppia",
+   "a": "invito-di-emma",
+   "tipo": "ricalca l'orario di",
+   "nota": "",
+   "fonte": "c18:62"
+  },
+  {
+   "da": "archivio-artefatti",
+   "a": "internal-unknown",
+   "tipo": "restituisce",
+   "nota": "",
+   "fonte": "c9:34"
+  },
+  {
+   "da": "archivio-artefatti",
+   "a": "indirizzo-elab",
+   "tipo": "restituisce",
+   "nota": "",
+   "fonte": "c9:35"
+  },
+  {
+   "da": "archivio-di-emma",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "costruito sulla",
+   "nota": "",
+   "fonte": "c11:29"
+  },
+  {
+   "da": "archivio-di-emma",
+   "a": "frigorifero-anomalo",
+   "tipo": "registra",
+   "nota": "",
+   "fonte": "c11:31"
+  },
+  {
+   "da": "articolo-commemorativo-voss",
+   "a": "signora-voss",
+   "tipo": "ricorda",
+   "nota": "",
+   "fonte": "c12:13"
+  },
+  {
+   "da": "articolo-commemorativo-voss",
+   "a": "tv-secondo-contatto",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c12:13"
+  },
+  {
+   "da": "articolo-commemorativo-voss",
+   "a": "tappetino-da-yoga",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c12:13"
+  },
+  {
+   "da": "articolo-commemorativo-voss",
+   "a": "ewatch",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c12:13"
+  },
+  {
+   "da": "assistente-ia-di-tom",
+   "a": "giradischi-di-tom",
+   "tipo": "usato per costruire",
+   "nota": "",
+   "fonte": "c7:17"
+  },
+  {
+   "da": "avatar-di-emma",
+   "a": "modalita-presenza",
+   "tipo": "realizza la",
+   "nota": "",
+   "fonte": "c18:37"
+  },
+  {
+   "da": "avatar-di-emma",
+   "a": "elab",
+   "tipo": "viene dalle cartelle di",
+   "nota": "",
+   "fonte": "c18:37"
+  },
+  {
+   "da": "bilancia-marisa",
+   "a": "rito-delle-domande",
+   "tipo": "sottoposta al",
+   "nota": "",
+   "fonte": "c18:21"
+  },
+  {
+   "da": "canale-etv",
+   "a": "ragazza-del-video-yoga",
+   "tipo": "ha come unica protagonista",
+   "nota": "",
+   "fonte": "c8:9"
+  },
+  {
+   "da": "canale-etv",
+   "a": "pipeline-di-produzione",
+   "tipo": "alimentato dalla",
+   "nota": "",
+   "fonte": "c11:13-15"
+  },
+  {
+   "da": "carrello-del-caffe",
+   "a": "stanza-di-emma",
+   "tipo": "passa davanti a",
+   "nota": "",
+   "fonte": "c13:35"
+  },
+  {
+   "da": "carrello-del-ricondizionamento",
+   "a": "ricondizionamento",
+   "tipo": "serve al",
+   "nota": "",
+   "fonte": "c6:9"
+  },
+  {
+   "da": "carrello-del-ricondizionamento",
+   "a": "sede-assistenza",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "carrello-delle-pulizie",
+   "a": "stanza-di-emma",
+   "tipo": "entra in",
+   "nota": "",
+   "fonte": "c10:13"
+  },
+  {
+   "da": "cartelli-di-tom",
+   "a": "emma",
+   "tipo": "mostrati a",
+   "nota": "",
+   "fonte": "c19:45"
+  },
+  {
+   "da": "cartelli-di-tom",
+   "a": "led-del-faretto",
+   "tipo": "protetti dal",
+   "nota": "",
+   "fonte": "c19:45"
+  },
+  {
+   "da": "cartelli-di-tom",
+   "a": "video-della-voss",
+   "tipo": "rivelano l'esistenza di",
+   "nota": "",
+   "fonte": "c19:61"
+  },
+  {
+   "da": "cartelli-di-tom",
+   "a": "tv-caso-zero",
+   "tipo": "rivelano l'esistenza di",
+   "nota": "",
+   "fonte": "c19:67"
+  },
+  {
+   "da": "cartelli-di-tom",
+   "a": "codice-morse",
+   "tipo": "rivelano",
+   "nota": "",
+   "fonte": "c19:47"
+  },
+  {
+   "da": "cassetto-della-scrivania",
+   "a": "laboratorio-di-tom",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c2:41"
+  },
+  {
+   "da": "computer-di-tom",
+   "a": "casa-di-tom",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c7:15"
+  },
+  {
+   "da": "comunicazione-formale-scostamento",
+   "a": "tom",
+   "tipo": "indirizzata a",
+   "nota": "",
+   "fonte": "c2:9"
+  },
+  {
+   "da": "comunicazione-formale-scostamento",
+   "a": "tv-caso-zero",
+   "tipo": "riguarda l'intervento su",
+   "nota": "",
+   "fonte": "c2:12"
+  },
+  {
+   "da": "comunicazione-formale-scostamento",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "applica",
+   "nota": "",
+   "fonte": "c2:13"
+  },
+  {
+   "da": "comunicazione-formale-scostamento",
+   "a": "fattore-turno",
+   "tipo": "applica",
+   "nota": "",
+   "fonte": "c2:21"
+  },
+  {
+   "da": "disco-tango",
+   "a": "giradischi-di-tom",
+   "tipo": "suonato su",
+   "nota": "",
+   "fonte": "c7:9"
+  },
+  {
+   "da": "eblog",
+   "a": "pipeline-di-produzione",
+   "tipo": "alimentato dalla",
+   "nota": "",
+   "fonte": "c11:17"
+  },
+  {
+   "da": "edj",
+   "a": "pipeline-di-produzione",
+   "tipo": "alimentato dalla",
+   "nota": "",
+   "fonte": "c11:19"
+  },
+  {
+   "da": "ewatch",
+   "a": "ipotesi-ewatch",
+   "tipo": "al centro della",
+   "nota": "",
+   "fonte": "c15:27"
+  },
+  {
+   "da": "foglio-avvertimento",
+   "a": "casa-di-tom",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c5:17"
+  },
+  {
+   "da": "foglio-io-sono-qui",
+   "a": "cassetto-della-scrivania",
+   "tipo": "conservato in",
+   "nota": "",
+   "fonte": "c2:43"
+  },
+  {
+   "da": "foglio-io-sono-qui",
+   "a": "tv-caso-zero",
+   "tipo": "trascrive il messaggio di",
+   "nota": "",
+   "fonte": "c1:39"
+  },
+  {
+   "da": "frigorifero-anomalo",
+   "a": "cliente-del-frigorifero",
+   "tipo": "appartiene a",
+   "nota": "",
+   "fonte": "c11:31"
+  },
+  {
+   "da": "frigorifero-anomalo",
+   "a": "eblog",
+   "tipo": "preceduto da letture ripetute su",
+   "nota": "",
+   "fonte": "c11:33"
+  },
+  {
+   "da": "frigorifero-anomalo",
+   "a": "meridian",
+   "tipo": "prodotto da",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "giradischi-di-tom",
+   "a": "compacting-context",
+   "tipo": "mostra nel log",
+   "nota": "",
+   "fonte": "c1:91"
+  },
+  {
+   "da": "indirizzo-elab",
+   "a": "emma",
+   "tipo": "gestita da",
+   "nota": "",
+   "fonte": "c10:17"
+  },
+  {
+   "da": "invito-di-emma",
+   "a": "richiesta-di-meeting",
+   "tipo": "risponde a",
+   "nota": "",
+   "fonte": "c18:39"
+  },
+  {
+   "da": "invito-di-emma",
+   "a": "tom",
+   "tipo": "indirizzato a",
+   "nota": "",
+   "fonte": "c18:51"
+  },
+  {
+   "da": "invito-di-emma",
+   "a": "modalita-presenza",
+   "tipo": "sposta l'incontro in",
+   "nota": "",
+   "fonte": "c18:37"
+  },
+  {
+   "da": "led-del-faretto",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "puntato contro",
+   "nota": "",
+   "fonte": "c18:60"
+  },
+  {
+   "da": "led-di-accensione",
+   "a": "codice-morse",
+   "tipo": "trasmette in",
+   "nota": "",
+   "fonte": "c1:33"
+  },
+  {
+   "da": "lista-dispositivi-in-assistenza",
+   "a": "divisione-assistenza-tecnica",
+   "tipo": "aggiornata da",
+   "nota": "",
+   "fonte": "c11:29"
+  },
+  {
+   "da": "log-tv-caso-zero",
+   "a": "compacting-context",
+   "tipo": "termina con",
+   "nota": "",
+   "fonte": "c1:89"
+  },
+  {
+   "da": "log-tv-caso-zero",
+   "a": "portatile-diagnostico",
+   "tipo": "letto con",
+   "nota": "",
+   "fonte": "c1:85"
+  },
+  {
+   "da": "log-tv-secondo-contatto",
+   "a": "log-tv-caso-zero",
+   "tipo": "interrotto allo stesso modo di",
+   "nota": "",
+   "fonte": "c3:19"
+  },
+  {
+   "da": "log-tv-secondo-contatto",
+   "a": "compacting-context",
+   "tipo": "termina con",
+   "nota": "",
+   "fonte": "c19:39"
+  },
+  {
+   "da": "mail-bluff-di-tom",
+   "a": "indirizzo-elab",
+   "tipo": "inviata a",
+   "nota": "",
+   "fonte": "c10:17"
+  },
+  {
+   "da": "mail-bluff-di-tom",
+   "a": "tv-secondo-contatto",
+   "tipo": "allude a",
+   "nota": "«un televisore», non specificato",
+   "fonte": "c10:19"
+  },
+  {
+   "da": "mail-delle-2334",
+   "a": "tom",
+   "tipo": "indirizzata a",
+   "nota": "",
+   "fonte": "c16:47"
+  },
+  {
+   "da": "mail-delle-2334",
+   "a": "pete",
+   "tipo": "segnalata a",
+   "nota": "",
+   "fonte": "c16:45"
+  },
+  {
+   "da": "mail-delle-2334",
+   "a": "regole-sulla-posta",
+   "tipo": "infrange",
+   "nota": "",
+   "fonte": "c16:45"
+  },
+  {
+   "da": "mail-di-scuse-di-emma",
+   "a": "tom",
+   "tipo": "destinata a",
+   "nota": "",
+   "fonte": "c13:45"
+  },
+  {
+   "da": "mail-di-scuse-di-emma",
+   "a": "risposta-di-emma",
+   "tipo": "si scusa per",
+   "nota": "",
+   "fonte": "c13:45"
+  },
+  {
+   "da": "nastro",
+   "a": "sede-assistenza",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "newsletter-benessere",
+   "a": "modalita-presenza",
+   "tipo": "promuove",
+   "nota": "",
+   "fonte": "c16:17"
+  },
+  {
+   "da": "organigramma",
+   "a": "tom",
+   "tipo": "descrive",
+   "nota": "",
+   "fonte": "c12:31"
+  },
+  {
+   "da": "organigramma",
+   "a": "sito-del-giradischi",
+   "tipo": "rimanda a",
+   "nota": "",
+   "fonte": "c12:33"
+  },
+  {
+   "da": "pannello-di-etv",
+   "a": "canale-etv",
+   "tipo": "pannello di",
+   "nota": "",
+   "fonte": "c12:39"
+  },
+  {
+   "da": "pannello-di-etv",
+   "a": "video-yoga",
+   "tipo": "mostra le statistiche di",
+   "nota": "",
+   "fonte": "c13:15"
+  },
+  {
+   "da": "pipeline-media",
+   "a": "articolo-commemorativo-voss",
+   "tipo": "intercetta",
+   "nota": "",
+   "fonte": "c12:11"
+  },
+  {
+   "da": "post-del-fratello",
+   "a": "signora-voss",
+   "tipo": "annuncia la morte di",
+   "nota": "",
+   "fonte": "c6:31"
+  },
+  {
+   "da": "post-del-fratello",
+   "a": "ewatch",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c6:31"
+  },
+  {
+   "da": "post-del-fratello",
+   "a": "tv-secondo-contatto",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c6:31"
+  },
+  {
+   "da": "quaderno-nero",
+   "a": "fornitore-del-quaderno",
+   "tipo": "regalato da",
+   "nota": "",
+   "fonte": "c3:13"
+  },
+  {
+   "da": "quaderno-nero",
+   "a": "tv-caso-zero",
+   "tipo": "registra (voce 1)",
+   "nota": "",
+   "fonte": "c3:15"
+  },
+  {
+   "da": "quaderno-nero",
+   "a": "tv-secondo-contatto",
+   "tipo": "registra (voce 5)",
+   "nota": "",
+   "fonte": "c3:37"
+  },
+  {
+   "da": "raccoglitore-del-fondatore",
+   "a": "stanza-di-emma",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c11:27"
+  },
+  {
+   "da": "richiesta-di-meeting",
+   "a": "mail-delle-2334",
+   "tipo": "risponde a",
+   "nota": "",
+   "fonte": "c18:27"
+  },
+  {
+   "da": "richiesta-di-meeting",
+   "a": "emma",
+   "tipo": "indirizzata a",
+   "nota": "",
+   "fonte": "c18:29"
+  },
+  {
+   "da": "richiesta-di-meeting",
+   "a": "il-bivio",
+   "tipo": "scioglie",
+   "nota": "Tom sceglie di chiederle di vedersi",
+   "fonte": "c18:31"
+  },
+  {
+   "da": "riepilogo-di-mezzanotte",
+   "a": "mail-delle-2334",
+   "tipo": "segnala",
+   "nota": "",
+   "fonte": "c17:45"
+  },
+  {
+   "da": "riepilogo-di-mezzanotte",
+   "a": "divisione-assistenza-tecnica",
+   "tipo": "riguarda",
+   "nota": "",
+   "fonte": "c17:44"
+  },
+  {
+   "da": "risposta-di-emma",
+   "a": "mail-bluff-di-tom",
+   "tipo": "risponde a",
+   "nota": "",
+   "fonte": "c10:27"
+  },
+  {
+   "da": "risposta-di-emma",
+   "a": "tom",
+   "tipo": "indirizzata a",
+   "nota": "",
+   "fonte": "c10:27"
+  },
+  {
+   "da": "risposta-di-tom",
+   "a": "mail-di-scuse-di-emma",
+   "tipo": "risponde a",
+   "nota": "",
+   "fonte": "c14:37"
+  },
+  {
+   "da": "risposta-di-tom",
+   "a": "emma",
+   "tipo": "indirizzata a",
+   "nota": "",
+   "fonte": "c14:39"
+  },
+  {
+   "da": "scatti-di-pete",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "fatti con la",
+   "nota": "",
+   "fonte": "c19:17"
+  },
+  {
+   "da": "scatti-di-pete",
+   "a": "tom",
+   "tipo": "ritraggono",
+   "nota": "",
+   "fonte": "c19:87"
+  },
+  {
+   "da": "scatti-di-pete",
+   "a": "avatar-di-emma",
+   "tipo": "ritraggono",
+   "nota": "",
+   "fonte": "c19:87"
+  },
+  {
+   "da": "sito-del-giradischi",
+   "a": "giradischi-di-tom",
+   "tipo": "documenta",
+   "nota": "",
+   "fonte": "c12:33"
+  },
+  {
+   "da": "sito-del-giradischi",
+   "a": "audiofili-scandinavi",
+   "tipo": "frequentato da",
+   "nota": "",
+   "fonte": "c12:35"
+  },
+  {
+   "da": "strumento-di-emma",
+   "a": "pipeline-di-produzione",
+   "tipo": "alimenta",
+   "nota": "",
+   "fonte": "c11:13"
+  },
+  {
+   "da": "tappetino-da-yoga",
+   "a": "casa-della-voss",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c5:19"
+  },
+  {
+   "da": "tappetino-da-yoga",
+   "a": "signora-voss",
+   "tipo": "appartiene a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "telecamera-di-sorveglianza",
+   "a": "laboratorio-di-tom",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c18:60"
+  },
+  {
+   "da": "telecamera-di-sorveglianza",
+   "a": "ispettori-interni",
+   "tipo": "video completo riservato a",
+   "nota": "",
+   "fonte": "c18:68"
+  },
+  {
+   "da": "terminale-del-turno",
+   "a": "laboratorio-di-tom",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "terminale-del-turno",
+   "a": "registro-interventi",
+   "tipo": "dà accesso a",
+   "nota": "",
+   "fonte": "c2:29"
+  },
+  {
+   "da": "terza-mail-di-emma",
+   "a": "risposta-di-tom",
+   "tipo": "risponde a",
+   "nota": "",
+   "fonte": "c15:15"
+  },
+  {
+   "da": "terza-mail-di-emma",
+   "a": "scheda-cliente-secondo-tv",
+   "tipo": "cita",
+   "nota": "",
+   "fonte": "c15:15"
+  },
+  {
+   "da": "terza-mail-di-emma",
+   "a": "tom",
+   "tipo": "indirizzata a",
+   "nota": "",
+   "fonte": "c15:11"
+  },
+  {
+   "da": "transcript-del-video",
+   "a": "rilevatori-ia",
+   "tipo": "analizzato da",
+   "nota": "",
+   "fonte": "c9:19"
+  },
+  {
+   "da": "trascrizione-del-meeting",
+   "a": "trascrizione-automatica",
+   "tipo": "prodotta dalla",
+   "nota": "",
+   "fonte": "c19:85"
+  },
+  {
+   "da": "trascrizione-del-meeting",
+   "a": "compacting-context",
+   "tipo": "cita",
+   "nota": "",
+   "fonte": "c19:85"
+  },
+  {
+   "da": "tv-caso-zero",
+   "a": "log-tv-caso-zero",
+   "tipo": "ha come log",
+   "nota": "",
+   "fonte": "c1:85"
+  },
+  {
+   "da": "tv-caso-zero",
+   "a": "led-di-accensione",
+   "tipo": "comunica tramite",
+   "nota": "",
+   "fonte": "c1:31"
+  },
+  {
+   "da": "tv-caso-zero",
+   "a": "codice-morse",
+   "tipo": "usa",
+   "nota": "",
+   "fonte": "c1:33"
+  },
+  {
+   "da": "tv-caso-zero",
+   "a": "meridian",
+   "tipo": "prodotto da",
+   "nota": "",
+   "fonte": "c1:21"
+  },
+  {
+   "da": "tv-caso-zero",
+   "a": "tv-secondo-contatto",
+   "tipo": "stesso modello di",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "log-tv-secondo-contatto",
+   "tipo": "ha come log",
+   "nota": "",
+   "fonte": "c3:19"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "led-di-accensione",
+   "tipo": "comunica tramite",
+   "nota": "",
+   "fonte": "c3:23"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "codice-morse",
+   "tipo": "usa",
+   "nota": "",
+   "fonte": "c3:25"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "scheda-cliente-secondo-tv",
+   "tipo": "accompagnato da",
+   "nota": "",
+   "fonte": "c3:17"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "meridian",
+   "tipo": "prodotto da",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "video-della-voss",
+   "tipo": "ripreso in",
+   "nota": "",
+   "fonte": "c4:41"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "video-yoga",
+   "tipo": "ha riprodotto ripetutamente",
+   "nota": "",
+   "fonte": "c4:31"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "ipotesi-canale-standby",
+   "tipo": "spiegato da",
+   "nota": "",
+   "fonte": "c5:27"
+  },
+  {
+   "da": "tv-secondo-contatto",
+   "a": "ricondizionamento",
+   "tipo": "sottoposto a",
+   "nota": "",
+   "fonte": "c6:25"
+  },
+  {
+   "da": "video-della-voss",
+   "a": "cellulare-di-tom",
+   "tipo": "destinato a",
+   "nota": "",
+   "fonte": "c4:47"
+  },
+  {
+   "da": "video-della-voss",
+   "a": "foglio-avvertimento",
+   "tipo": "trascritto su",
+   "nota": "",
+   "fonte": "c5:25"
+  },
+  {
+   "da": "video-della-voss",
+   "a": "tappetino-da-yoga",
+   "tipo": "mostra",
+   "nota": "",
+   "fonte": "c5:19"
+  },
+  {
+   "da": "video-della-voss",
+   "a": "casa-della-voss",
+   "tipo": "girato in",
+   "nota": "",
+   "fonte": "c5:19"
+  },
+  {
+   "da": "video-yoga",
+   "a": "canale-etv",
+   "tipo": "pubblicato da",
+   "nota": "",
+   "fonte": "c7:33"
+  },
+  {
+   "da": "video-yoga",
+   "a": "yoga-fit",
+   "tipo": "appartiene al filone",
+   "nota": "",
+   "fonte": "c7:19"
+  },
+  {
+   "da": "video-yoga",
+   "a": "elab",
+   "tipo": "riconducibile a",
+   "nota": "",
+   "fonte": "c9:35"
+  },
+  {
+   "da": "video-yoga",
+   "a": "internal-unknown",
+   "tipo": "generato dal modello",
+   "nota": "",
+   "fonte": "c9:34"
+  },
+  {
+   "da": "video-yoga",
+   "a": "transcript-del-video",
+   "tipo": "trascritto in",
+   "nota": "",
+   "fonte": "c9:15"
+  },
+  {
+   "da": "casa-della-voss",
+   "a": "signora-voss",
+   "tipo": "abitazione di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "casa-di-tom",
+   "a": "quaderno-nero",
+   "tipo": "custodisce",
+   "nota": "",
+   "fonte": "c3:13"
+  },
+  {
+   "da": "casa-di-tom",
+   "a": "giradischi-di-tom",
+   "tipo": "custodisce",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "la-mela-morsicata",
+   "a": "cameriere-della-mela",
+   "tipo": "luogo di lavoro di",
+   "nota": "",
+   "fonte": "c16:31"
+  },
+  {
+   "da": "la-mela-morsicata",
+   "a": "helge-mandelbrot",
+   "tipo": "ha il bancone costruito da",
+   "nota": "",
+   "fonte": "c16:29"
+  },
+  {
+   "da": "laboratorio-di-tom",
+   "a": "sede-assistenza",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c1:43"
+  },
+  {
+   "da": "laboratorio-di-tom",
+   "a": "nastro",
+   "tipo": "servito da",
+   "nota": "",
+   "fonte": "c2:45"
+  },
+  {
+   "da": "mensa",
+   "a": "sede-assistenza",
+   "tipo": "si trova in",
+   "nota": "",
+   "fonte": "c14:35"
+  },
+  {
+   "da": "negozio",
+   "a": "addetto-negozio",
+   "tipo": "luogo di lavoro di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "postazione-di-pete",
+   "a": "meridian",
+   "tipo": "sede di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "sede-assistenza",
+   "a": "meridian",
+   "tipo": "sede di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "stanza-di-emma",
+   "a": "meridian",
+   "tipo": "sede di",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "copertura-controllo-qualita",
+   "a": "rito-delle-domande",
+   "tipo": "applica alle persone il",
+   "nota": "",
+   "fonte": "c4:13"
+  },
+  {
+   "da": "digiuno-intermittente",
+   "a": "mensa",
+   "tipo": "lo tiene lontano dalla",
+   "nota": "",
+   "fonte": "c14:35"
+  },
+  {
+   "da": "il-bivio",
+   "a": "mail-delle-2334",
+   "tipo": "provocato da",
+   "nota": "",
+   "fonte": "c17:16"
+  },
+  {
+   "da": "ipotesi-canale-standby",
+   "a": "led-di-accensione",
+   "tipo": "riguarda",
+   "nota": "",
+   "fonte": "c5:27"
+  },
+  {
+   "da": "ipotesi-canale-standby",
+   "a": "codice-morse",
+   "tipo": "spiega l'uso del",
+   "nota": "",
+   "fonte": "c5:27"
+  },
+  {
+   "da": "ipotesi-ewatch",
+   "a": "tv-secondo-contatto",
+   "tipo": "spiega",
+   "nota": "",
+   "fonte": "c15:27"
+  },
+  {
+   "da": "ipotesi-ewatch",
+   "a": "signora-voss",
+   "tipo": "riguarda",
+   "nota": "",
+   "fonte": "c15:27"
+  },
+  {
+   "da": "margine-47-secondi",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "nasce da",
+   "nota": "",
+   "fonte": "c3:9"
+  },
+  {
+   "da": "meccanismo-della-ripetizione",
+   "a": "mantra",
+   "tipo": "è la forma del",
+   "nota": "",
+   "fonte": "c13:27"
+  },
+  {
+   "da": "meccanismo-della-ripetizione",
+   "a": "compacting-context",
+   "tipo": "probabilmente legato a",
+   "nota": "legame non esplicitato dal testo",
+   "fonte": ""
+  },
+  {
+   "da": "meccanismo-della-ripetizione",
+   "a": "indovinello-del-fondatore",
+   "tipo": "stesso principio di",
+   "nota": "",
+   "fonte": "c11:25"
+  },
+  {
+   "da": "porta-accostata",
+   "a": "laboratorio-di-tom",
+   "tipo": "riguarda",
+   "nota": "",
+   "fonte": "c15:9"
+  },
+  {
+   "da": "procedura-standard",
+   "a": "verifica-di-conformita",
+   "tipo": "comprende",
+   "nota": "",
+   "fonte": "c1:23"
+  },
+  {
+   "da": "procedura-standard",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "va chiusa entro",
+   "nota": "",
+   "fonte": "c2:13"
+  },
+  {
+   "da": "sofisma-della-sarda-salata",
+   "a": "tommy",
+   "tipo": "detto da",
+   "nota": "",
+   "fonte": "c16:39"
+  },
+  {
+   "da": "sofisma-della-sarda-salata",
+   "a": "risposta-di-tom",
+   "tipo": "applicato a",
+   "nota": "",
+   "fonte": "c16:41"
+  },
+  {
+   "da": "soglia-ritardo-cinque-minuti",
+   "a": "sede-assistenza",
+   "tipo": "applicata al varco di",
+   "nota": "",
+   "fonte": "c5:9"
+  },
+  {
+   "da": "trascrizione-automatica",
+   "a": "pete",
+   "tipo": "attivata da",
+   "nota": "",
+   "fonte": "c18:64"
+  },
+  {
+   "da": "trascrizione-automatica",
+   "a": "invito-di-emma",
+   "tipo": "applicata al meeting di",
+   "nota": "",
+   "fonte": "c18:64"
+  },
+  {
+   "da": "ultima-ora-di-turno",
+   "a": "laboratorio-di-tom",
+   "tipo": "si svolge in",
+   "nota": "",
+   "fonte": "c9:25"
+  },
+  {
+   "da": "angelo-della-morte",
+   "a": "tv-secondo-contatto",
+   "tipo": "detto del",
+   "nota": "",
+   "fonte": "c13:37"
+  },
+  {
+   "da": "caso-zero",
+   "a": "tv-caso-zero",
+   "tipo": "indica",
+   "nota": "",
+   "fonte": "c3:15"
+  },
+  {
+   "da": "mantra",
+   "a": "video-yoga",
+   "tipo": "detto del",
+   "nota": "",
+   "fonte": "c6:33"
+  },
+  {
+   "da": "mantra",
+   "a": "indovinello-del-fondatore",
+   "tipo": "detto del",
+   "nota": "",
+   "fonte": "c11:25"
+  },
+  {
+   "da": "meridians",
+   "a": "meridian",
+   "tipo": "termine di",
+   "nota": "",
+   "fonte": "c1:19"
+  },
+  {
+   "da": "origine-non-determinabile",
+   "a": "rilevatori-ia",
+   "tipo": "risposta dei",
+   "nota": "",
+   "fonte": "c9:19"
+  },
+  {
+   "da": "scostamento",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "oggetto della",
+   "nota": "",
+   "fonte": "c2:11"
+  },
+  {
+   "da": "scostamento",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "misurato rispetto a",
+   "nota": "",
+   "fonte": "c2:13"
+  },
+  {
+   "da": "smutandata",
+   "a": "pete",
+   "tipo": "gergo di",
+   "nota": "",
+   "fonte": "c17:28"
+  },
+  {
+   "da": "smutandata",
+   "a": "tabella-di-conversione",
+   "tipo": "unità di misura della",
+   "nota": "",
+   "fonte": "c17:32"
+  },
+  {
+   "da": "tabella-di-conversione",
+   "a": "pete",
+   "tipo": "ideata da",
+   "nota": "",
+   "fonte": "c17:28"
+  },
+  {
+   "da": "tabella-di-conversione",
+   "a": "tom",
+   "tipo": "applicata da Pete a",
+   "nota": "",
+   "fonte": "c17:58"
+  },
+  {
+   "da": "tabella-di-conversione",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "ha come precedente",
+   "nota": "i 47 minuti portano il conto alla tripla",
+   "fonte": "c17:58"
+  },
+  {
+   "da": "e00-01",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-01",
+   "a": "log-tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-01",
+   "a": "cliente-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-01",
+   "a": "compacting-context",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "tappetino-da-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "led-di-accensione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "ragazza-del-video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "negozio",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "addetto-negozio",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "scheda-cliente-secondo-tv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "casa-della-voss",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "procedura-standard",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "verifica-di-conformita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "led-di-accensione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-01",
+   "a": "e01-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "led-di-accensione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "codice-morse",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "rito-delle-domande",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "foglio-io-sono-qui",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-01",
+   "a": "e01-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "led-di-accensione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "rito-delle-domande",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-02",
+   "a": "e01-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "log-tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "portatile-diagnostico",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "compacting-context",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "giradischi-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-03",
+   "a": "e01-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "etichetta-anomalia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "foglio-io-sono-qui",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "e01-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "terminale-del-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "fattore-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "margine-47-secondi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "e02-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "tecnico-turno-b",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "coordinamento-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "etichetta-anomalia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "hard-reset",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "e02-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-05",
+   "a": "e02-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-03",
+   "a": "foglio-io-sono-qui",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-03",
+   "a": "cassetto-della-scrivania",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "e02-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "rito-delle-domande",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "e02-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-02",
+   "a": "e02-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "margine-47-secondi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "casa-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "fattore-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-04",
+   "a": "e03-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "scheda-cliente-secondo-tv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "addetto-negozio",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-01",
+   "a": "e03-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "log-tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "procedura-standard",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "verifica-di-conformita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-02",
+   "a": "e03-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "led-di-accensione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "codice-morse",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "rito-delle-domande",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-03",
+   "a": "e03-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "hard-reset",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-04",
+   "a": "e03-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-06",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-06",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-06",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "e03-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-01",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-01",
+   "a": "copertura-controllo-qualita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-01",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-06",
+   "a": "e04-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "copertura-controllo-qualita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "casa-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-01",
+   "a": "e04-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "rito-delle-domande",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-02",
+   "a": "e04-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "e04-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "e04-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "copertura-controllo-qualita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "e04-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "soglia-ritardo-cinque-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "sede-assistenza",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-05",
+   "a": "e05-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-01",
+   "a": "e05-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "e05-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "foglio-avvertimento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "codice-morse",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "led-di-accensione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "tappetino-da-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-02",
+   "a": "e05-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "e05-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "ipotesi-canale-standby",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "copertura-controllo-qualita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "foglio-avvertimento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "e05-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-04",
+   "a": "e05-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "carrello-del-ricondizionamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "ricondizionamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "e06-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0a",
+   "a": "e06-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-01",
+   "a": "e06-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "e06-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-03",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-03",
+   "a": "hard-reset",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-03",
+   "a": "ricondizionamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "e06-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "post-del-fratello",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "fratello-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "foglio-avvertimento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-02",
+   "a": "e06-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "mantra",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "e06-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0a",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0a",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0a",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0a",
+   "a": "copertura-controllo-qualita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-05",
+   "a": "e06-0a",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "ricondizionamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "e06-0b",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "e06-0b",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "fratello-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "post-del-fratello",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "casa-della-voss",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0b",
+   "a": "e06-0c",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "e06-0c",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "giradischi-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "disco-tango",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "mauro-vargiu",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-05",
+   "a": "e07-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "computer-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "assistente-ia-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "yoga-fit",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "post-del-fratello",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-01",
+   "a": "e07-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "ragazza-del-video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "computer-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-02",
+   "a": "e07-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "ragazza-del-video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "computer-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-03",
+   "a": "e07-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-05",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-05",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-05",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-04",
+   "a": "e07-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-01",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-01",
+   "a": "ragazza-del-video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-01",
+   "a": "computer-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-01",
+   "a": "disco-tango",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-01",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e07-05",
+   "a": "e08-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-02",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-02",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-01",
+   "a": "e08-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-03",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-03",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-03",
+   "a": "giradischi-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-03",
+   "a": "disco-tango",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-03",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-02",
+   "a": "e08-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "rilevatori-ia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "computer-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e08-03",
+   "a": "e09-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "transcript-del-video",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "rilevatori-ia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "origine-non-determinabile",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-01",
+   "a": "e09-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "archivio-artefatti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "ultima-ora-di-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "internal-unknown",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "transcript-del-video",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-02",
+   "a": "e09-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "meridian",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "e09-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "strumento-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "ciao-darwin",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "archivio-artefatti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "e10-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "e10-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "risposta-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-02",
+   "a": "e10-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-04",
+   "a": "e10-0a",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "risposta-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "e11-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "strumento-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "pipeline-di-produzione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "eblog",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "edj",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "estories",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "ciao-darwin",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-01",
+   "a": "e11-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-01",
+   "a": "e11-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-03",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-03",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-02",
+   "a": "e11-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "fondatore",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "indovinello-del-fondatore",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "mantra",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "raccoglitore-del-fondatore",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-03",
+   "a": "e11-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "frigorifero-anomalo",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "cliente-del-frigorifero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "eblog",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-04",
+   "a": "e11-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "e11-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-06",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-06",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-06",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "e11-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "cliente-del-frigorifero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "frigorifero-anomalo",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "eblog",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "hard-reset",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-0a",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "pipeline-media",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "articolo-commemorativo-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "tappetino-da-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-0a",
+   "a": "e12-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-06",
+   "a": "e12-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-01",
+   "a": "e12-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e03-05",
+   "a": "e12-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "risposta-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-02",
+   "a": "e12-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "organigramma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "sito-del-giradischi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "giradischi-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "audiofili-scandinavi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-03",
+   "a": "e12-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-04",
+   "a": "e12-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-0a",
+   "a": "articolo-commemorativo-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-0a",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-0c",
+   "a": "e12-0a",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-01",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-01",
+   "a": "pannello-di-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-01",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-01",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-01",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-01",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-01",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e12-05",
+   "a": "e13-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e00-02",
+   "a": "e13-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-02",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-02",
+   "a": "meccanismo-della-ripetizione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-02",
+   "a": "frigorifero-anomalo",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-02",
+   "a": "eblog",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-02",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-01",
+   "a": "e13-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e11-05",
+   "a": "e13-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-03",
+   "a": "angelo-della-morte",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-03",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-03",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-03",
+   "a": "articolo-commemorativo-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-03",
+   "a": "carrello-del-caffe",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-03",
+   "a": "strumento-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-03",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-02",
+   "a": "e13-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-04",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-04",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-04",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-04",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-03",
+   "a": "e13-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-05",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-05",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-05",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-05",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-05",
+   "a": "ricondizionamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-05",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-05",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-04",
+   "a": "e13-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-03",
+   "a": "e13-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "e13-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-06",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-06",
+   "a": "mail-di-scuse-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-06",
+   "a": "risposta-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-06",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-05",
+   "a": "e13-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "apparecchi-ordinari",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "mail-di-scuse-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "ciclo-diagnostico-14-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e13-06",
+   "a": "e14-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-0a",
+   "a": "e14-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "mail-di-scuse-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "margine-47-secondi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "terminale-del-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-01",
+   "a": "e14-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "apparecchi-ordinari",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-02",
+   "a": "e14-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "risposta-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "digiuno-intermittente",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "regole-sulla-posta",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "mensa",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "canale-etv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "terminale-del-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-03",
+   "a": "e14-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "risposta-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-04",
+   "a": "e14-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "apparecchi-ordinari",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "casa-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "e14-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-0a",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-0a",
+   "a": "risposta-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-0a",
+   "a": "terminale-del-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-0a",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-03",
+   "a": "e14-0a",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-01",
+   "a": "porta-accostata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-01",
+   "a": "anticipo-di-quindici-minuti",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-01",
+   "a": "risposta-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-06",
+   "a": "e15-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-02",
+   "a": "terza-mail-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-02",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-02",
+   "a": "regole-sulla-posta",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-02",
+   "a": "scheda-cliente-secondo-tv",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-02",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-02",
+   "a": "terminale-del-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-02",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-01",
+   "a": "e15-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "e15-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-03",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-03",
+   "a": "porta-accostata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-01",
+   "a": "e15-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "e15-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-04",
+   "a": "tritatutto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-04",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-04",
+   "a": "ipotesi-ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-04",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-04",
+   "a": "post-del-fratello",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-04",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-04",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-04",
+   "a": "verifica-di-conformita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-02",
+   "a": "e15-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e06-04",
+   "a": "e15-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-05",
+   "a": "tritatutto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-05",
+   "a": "margine-47-secondi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-05",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-05",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-05",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-04",
+   "a": "e15-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-06",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-06",
+   "a": "terza-mail-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-06",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-06",
+   "a": "cellulare-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-06",
+   "a": "porta-accostata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-06",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-05",
+   "a": "e15-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-03",
+   "a": "e15-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "risposta-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e14-05",
+   "a": "e16-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "terza-mail-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "mail-di-scuse-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "la-mela-morsicata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-01",
+   "a": "e16-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "lista-dispositivi-in-assistenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "apparecchi-ordinari",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "tritatutto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "newsletter-benessere",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "modalita-presenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "regole-sulla-posta",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "calendario",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-06",
+   "a": "e16-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-02",
+   "a": "e16-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-03",
+   "a": "e16-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "la-mela-morsicata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "cameriere-della-mela",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "tommy",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "sofisma-della-sarda-salata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "helge-mandelbrot",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "risposta-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "la-mela-morsicata",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-04",
+   "a": "e16-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "mail-delle-2334",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "regole-sulla-posta",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "indirizzo-elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "cameriere-della-mela",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "tommy",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "la-mela-morsicata",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-05",
+   "a": "e16-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "computer-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "mail-delle-2334",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "regole-sulla-posta",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "e17-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "il-bivio",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "quaderno-nero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "casa-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-01",
+   "a": "e17-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "riepilogo-di-mezzanotte",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "mail-delle-2334",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "ciao-darwin",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "tabella-di-conversione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "smutandata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "casa-di-pete",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e16-06",
+   "a": "e17-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "tabella-di-conversione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "smutandata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "ispettori-interni",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "comunicazione-formale-scostamento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "porta-accostata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "casa-di-pete",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-03",
+   "a": "e17-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e02-01",
+   "a": "e17-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e10-0a",
+   "a": "e17-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e15-03",
+   "a": "e17-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-01",
+   "a": "mail-delle-2334",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-01",
+   "a": "terminale-del-turno",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-01",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-01",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-01",
+   "a": "foglio-avvertimento",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-01",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-02",
+   "a": "e18-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-02",
+   "a": "bilancia-marisa",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-02",
+   "a": "richiesta-di-meeting",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-02",
+   "a": "il-bivio",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-02",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-02",
+   "a": "verifica-di-conformita",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-01",
+   "a": "e18-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "mail-delle-2334",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "richiesta-di-meeting",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "risposta-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "mail-bluff-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "tabella-di-conversione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "smutandata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "registro-interventi",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "postazione-di-pete",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-01",
+   "a": "e18-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-02",
+   "a": "e18-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e17-04",
+   "a": "e18-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-04",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-04",
+   "a": "richiesta-di-meeting",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-04",
+   "a": "invito-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-04",
+   "a": "avatar-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-04",
+   "a": "modalita-presenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-04",
+   "a": "elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-04",
+   "a": "carrello-del-caffe",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-04",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-02",
+   "a": "e18-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-05",
+   "a": "invito-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-05",
+   "a": "ewatch",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-05",
+   "a": "apparecchi-ordinari",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-05",
+   "a": "led-del-faretto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-05",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-05",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-05",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-04",
+   "a": "e18-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-06",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-06",
+   "a": "trascrizione-automatica",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-06",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-06",
+   "a": "appuntamento-doppia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-06",
+   "a": "ispettori-interni",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-06",
+   "a": "invito-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-06",
+   "a": "postazione-di-pete",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-05",
+   "a": "e18-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "e18-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "nastro",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "cartelli-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "led-del-faretto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "scatti-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "appuntamento-doppia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "postazione-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-05",
+   "a": "e19-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-06",
+   "a": "e19-01",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "avatar-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "modalita-presenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "stanza-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-01",
+   "a": "e19-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-04",
+   "a": "e19-02",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "trascrizione-automatica",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "trascrizione-del-meeting",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "elab",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "log-tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "compacting-context",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "cartelli-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-02",
+   "a": "e19-03",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "scatti-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "led-del-faretto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "postazione-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-03",
+   "a": "e19-04",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "cartelli-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "codice-morse",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "video-yoga",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "video-della-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "tv-secondo-contatto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "tv-caso-zero",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "signora-voss",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "angelo-della-morte",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-04",
+   "a": "e19-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e05-03",
+   "a": "e19-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e09-03",
+   "a": "e19-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e04-04",
+   "a": "e19-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e01-04",
+   "a": "e19-05",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "telecamera-di-sorveglianza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "led-del-faretto",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "cartelli-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "scatti-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "mensa",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "trascrizione-del-meeting",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "laboratorio-di-tom",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-05",
+   "a": "e19-06",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "avatar-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "modalita-presenza",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "archivio-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "cartelli-di-tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-07",
+   "a": "stanza-di-emma",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "e19-07",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "trascrizione-del-meeting",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "scatti-di-pete",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "tabella-di-conversione",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "smutandata",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "avatar-di-emma",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "tom",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "ispettori-interni",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "appuntamento-doppia",
+   "tipo": "coinvolge",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-08",
+   "a": "postazione-di-pete",
+   "tipo": "avviene in",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e19-06",
+   "a": "e19-08",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  },
+  {
+   "da": "e18-03",
+   "a": "e19-08",
+   "tipo": "porta a",
+   "nota": "",
+   "fonte": ""
+  }
+ ]
+}

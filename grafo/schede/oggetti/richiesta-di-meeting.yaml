@@ -1,0 +1,15 @@
+id: richiesta-di-meeting
+nome: La richiesta di meeting di Tom (8:26)
+capitoli: [18]
+sintesi: "«Emma, possiamo fissare un meeting in presenza? Tom». La sola risposta di Tom alla mail delle 23:34."
+caratteristiche:
+  - {testo: "Testo: «Emma, possiamo fissare un meeting in presenza? Tom»", fonte: "c18:31"}
+  - {testo: "Scritta dopo due versioni cancellate, rilette con gli occhi di Pete; inviata alle 8:26 a banco vuoto", fonte: "c18:27"}
+  - {testo: "Niente «ciao», niente sulla domanda, sulla signora, sul registro: «una frase a cui un supervisore non avrebbe potuto togliere niente»", fonte: "c18:33"}
+  - {testo: "Tom intende una stanza e due sedie", fonte: "c18:33"}
+  - {testo: "Con questa mail a Pete si apre l'intero thread", fonte: "c18:43"}
+relazioni:
+  - {verso: mail-delle-2334, tipo: "risponde a", fonte: "c18:27"}
+  - {verso: emma, tipo: "indirizzata a", fonte: "c18:29"}
+  - {verso: il-bivio, tipo: "scioglie", nota: "Tom sceglie di chiederle di vedersi", fonte: "c18:31"}
+

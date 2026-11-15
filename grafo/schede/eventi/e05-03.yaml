@@ -1,0 +1,16 @@
+id: e05-03
+nome: Tom decifra il video - STAI ESAGERANDO CON LO YOGA…
+capitolo: 5
+ordine: 5.3
+quando: "mercoledì sera, dopo cena"
+dove: casa-di-tom
+dopo: [e05-02, e00-02]
+coinvolti: [tom, video-della-voss, cellulare-di-tom, foglio-avvertimento, codice-morse, led-di-accensione, tv-secondo-contatto, signora-voss, video-yoga, tappetino-da-yoga]
+sintesi: "Alla scrivania, telefono contro una pila di libri, Tom ricompone il messaggio a frammenti. Non è un rifiuto: è un avvertimento. Il fenomeno è protettivo."
+fatti:
+  - {testo: "L'attesa fino a dopo cena", fonte: "c5:15-17"}
+  - {testo: "Il contenuto del video", fonte: "c5:19"}
+  - {testo: "La ricostruzione", fonte: "c5:21"}
+  - {testo: "Il messaggio", fonte: "c5:23"}
+  - {testo: "La conclusione di Tom", fonte: "c5:25"}
+

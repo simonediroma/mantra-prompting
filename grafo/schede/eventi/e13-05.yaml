@@ -1,0 +1,13 @@
+id: e13-05
+nome: Emma scopre le due volte di Tom
+capitolo: 13
+ordine: 13.5
+quando: "la stessa mattina"
+dove: stanza-di-emma
+dopo: [e13-04, e06-03, e10-0a]
+coinvolti: [emma, tom, lista-dispositivi-in-assistenza, registro-interventi, tv-secondo-contatto, ricondizionamento, mail-bluff-di-tom]
+sintesi: "Cercando la matricola trova due righe firmate da Tom: hard reset e, tre settimane dopo, ricondizionamento. Dal registro capisce che Tom le ha scritto il giorno dopo, sapendo della morte."
+fatti:
+  - {testo: "Tom unico vivo ad averlo visto", fonte: "c13:41"}
+  - {testo: "Le due righe e il registro", fonte: "c13:43"}
+

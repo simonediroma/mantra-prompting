@@ -1,0 +1,13 @@
+id: ciclo-diagnostico-14-minuti
+nome: Limite di 14 minuti per ciclo diagnostico
+capitoli: [2, 3, 14, 15]
+sintesi: "Il tempo massimo consentito per un ciclo diagnostico completo. Superarlo genera una comunicazione formale."
+caratteristiche:
+  - {testo: "14 minuti per ciclo diagnostico completo", fonte: "c2:13"}
+  - {testo: "Il modulo prevede «tempo eccedente» ma non «intervento mai terminato»", fonte: "c2:29"}
+  - {testo: "7:12 è «metà del tempo consentito»; ne restano «quasi sette»", fonte: "c3:19"}
+
+  - {testo: "Esistono slot diversi: ventuno minuti (sette in più) per gli interventi con pezzi da cambiare", fonte: "c14:13"}
+  - {testo: "Slot di diciotto minuti per il tritatutto: i quattordici del ciclo più quattro per i pezzi", fonte: "c15:25"}
+aperti:
+  - {testo: "I minuti in più «per i pezzi» sono sette per l'aspirapolvere (c14 r. 13) e quattro per il tritatutto (c15 r. 25): la regola con cui si calcolano non è detta."}

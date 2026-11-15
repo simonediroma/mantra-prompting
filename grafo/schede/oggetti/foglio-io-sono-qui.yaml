@@ -1,0 +1,19 @@
+id: foglio-io-sono-qui
+nome: Foglio «IO / SONO / QUI»
+capitoli: [1, 2]
+sintesi: "Il foglio su cui Tom trascrive a mano il primo messaggio. Finisce nel cassetto della scrivania del laboratorio."
+caratteristiche:
+  - {testo: "Scritto a penna, in stampatello un po' storto", fonte: "c1:37, c1:95"}
+  - {testo: "Piegato in quattro", fonte: "c2:41"}
+  - {testo: "«La sola prova al mondo, ormai, che qualcosa fosse davvero successo in quella stanza»", fonte: "c2:41"}
+stato:
+  - {cap: 1, testo: "Sul banco, davanti a Tom", fonte: "c1:95"}
+  - {cap: 2, testo: "Nel cassetto della scrivania del laboratorio, sotto vecchi manuali tecnici e procedurali", fonte: "c2:43"}
+non_detto:
+  - {testo: "Il cap. 3 non lo nomina: per quanto ne sa il testo è ancora nel cassetto, in laboratorio."}
+aperti:
+  - {testo: "Due «uniche prove al mondo»: il foglio (c2 r. 41, in laboratorio) e il quaderno (c3 r. 13, a casa). Il quaderno resta a casa per prudenza, ma il foglio resta in azienda."}
+relazioni:
+  - {verso: cassetto-della-scrivania, tipo: "conservato in", fonte: "c2:43"}
+  - {verso: tv-caso-zero, tipo: "trascrive il messaggio di", fonte: "c1:39"}
+

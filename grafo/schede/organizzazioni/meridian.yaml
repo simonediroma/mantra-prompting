@@ -1,0 +1,32 @@
+id: meridian
+nome: Meridian
+capitoli: [1, 2, 3, 4, 9, 10, 16, 17, 19]
+sintesi: "L'azienda. Nata negli anni Novanta scrivendo sistemi operativi, oggi controlla l'intera filiera dal silicio al robot da cucina."
+caratteristiche:
+  - {testo: "Nata negli anni Novanta per scrivere sistemi operativi per computer di casa; oggi produce i chip degli elettrodomestici", fonte: "c1:19"}
+  - {testo: "Ha attraversato datacenter, semiconduttori e la bolla dell'intelligenza artificiale, che ha fatto fallire mezzo settore; è rimasta in piedi «per pura fortuna di essere arrivata ovunque»", fonte: "c1:19"}
+  - {testo: "Ventimila e passa dipendenti nel mondo, chiamati «Meridians»", fonte: "c1:19, c3:9"}
+  - {testo: "Elettrodomestici con AI integrata; la pubblicità attribuisce loro un carattere", fonte: "c1:17, c1:21"}
+  - {testo: "Firmware proprietario: la verifica di conformità serve a scoprire manomissioni dei clienti", fonte: "c1:23"}
+  - {testo: "Turni misurati al minuto; retorica della «qualità della vita di tutti i Meridians» e dell'«equità di trattamento su scala globale»", fonte: "c1:95, c2:19"}
+  - {testo: "Non punisce la curiosità, punisce lo scostamento", fonte: "c2:27"}
+  - {testo: "Sa misurare i minuti ma non si accorge di un lavoro rimasto a metà: il modulo ha la casella «tempo eccedente», non «intervento mai terminato»", fonte: "c2:29"}
+  - {testo: "Controlli casuali al varco", fonte: "c3:13"}
+  - {testo: "I turni ruotano (mattino, pomeriggio, notte) secondo una tabella che nessuno ha mai capito", fonte: "c3:9"}
+  - {testo: "Esiste (o è credibile che esista) un «controllo qualità» che intervista i clienti sull'assistenza", fonte: "c4:19"}
+  - {testo: "Un paio d'anni prima, spaventata dai deepfake, ha deciso di etichettare ogni contenuto prodotto dai propri modelli; «la chiamavano trasparenza», serve a trovare in fretta un autore interno da sacrificare in caso di scandalo", fonte: "c9:25"}
+  - {testo: "Ha newsletter interne", fonte: "c9:39"}
+  - {testo: "Ha un fondatore, che ha anche fondato Elab", fonte: "c10:13"}
+  - {testo: "I televisori e gli altri dispositivi, anche con IA, non lasciano indirizzi di posta nei log", fonte: "c10:21"}
+  - {testo: "Ha una funzione «Benessere Meridian» che manda newsletter notturne; protegge il riposo con avvisi automatici ai supervisori", fonte: "c16:17"}
+  - {testo: "Mette l'IA in frigoriferi, orologi, «perfino nei tostapane»", fonte: "c16:27"}
+  - {testo: "La pubblicità promette apparecchi che vogliono, decidono, si offendono", fonte: "c16:19"}
+  - {testo: "Ha un codice di condotta che vieta, tra l'altro, di scrivere il cognome di un cliente in una nota", fonte: "c17:42"}
+  - {testo: "Ha un apparato di controllo: supervisori, riepilogo di mezzanotte, sorveglianza video, ispettori interni", fonte: "c17:26, c17:40, c17:58"}
+  - {testo: "Ha cambiato logo un anno prima: quello vecchio, «con le righe», è vietato dal codice di condotta (trenta minuti)", fonte: "c19:87"}
+  - {testo: "Ha un ufficio legale che ha autorizzato le foto ai dipendenti nello stesso parere in cui le definisce una violazione della privacy", fonte: "c19:17"}
+relazioni:
+  - {verso: ewatch, tipo: "ha distribuito", nota: "a tutti i dipendenti, quell'inverno", fonte: "c3:9"}
+  - {verso: procedura-standard, tipo: "impone", fonte: "c1:23"}
+
+  - {verso: archivio-artefatti, tipo: "gestisce", fonte: "c9:25"}

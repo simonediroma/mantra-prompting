@@ -1,0 +1,14 @@
+id: e09-03
+nome: Tom cerca il testo nell'archivio interno - corrispondenza trovata
+capitolo: 9
+ordine: 9.3
+quando: "lo stesso giorno, ultima ora di turno"
+dove: laboratorio-di-tom
+dopo: [e09-02]
+coinvolti: [tom, archivio-artefatti, ultima-ora-di-turno, internal-unknown, indirizzo-elab, transcript-del-video, video-yoga]
+sintesi: "Porta a doppia mandata. Senza caricare nulla, ribatte a memoria le frasi d'apertura. Risultato in pochi secondi: generato 6 mesi fa, modello internal_unknown, contatto elab@meridian.com. Tom si ritrova in piedi."
+fatti:
+  - {testo: "L'attesa e l'archivio", fonte: "c9:23-25"}
+  - {testo: "La cautela", fonte: "c9:27"}
+  - {testo: "Il risultato", fonte: "c9:29-35"}
+

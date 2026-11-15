@@ -1,0 +1,13 @@
+id: e02-02
+nome: Tom scopre che il caso zero è stato riassegnato per il reset
+capitolo: 2
+ordine: 2.2
+quando: "subito dopo, stesso inizio turno"
+dove: laboratorio-di-tom
+dopo: [e02-01, e01-05]
+coinvolti: [tom, tv-caso-zero, registro-interventi, tecnico-turno-b, coordinamento-assistenza, etichetta-anomalia, hard-reset]
+sintesi: "Nel registro l'intervento è «riassegnato», Turno B, reset diagnostico completo in corso. Tom perde l'accesso al televisore."
+fatti:
+  - {testo: "Il contenuto del registro", fonte: "c2:33-37"}
+  - {testo: "Il reset avviene fuori scena; Tom lo immagina", fonte: "c2:39"}
+

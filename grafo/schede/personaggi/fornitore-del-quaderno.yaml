@@ -1,0 +1,9 @@
+id: fornitore-del-quaderno
+nome: Fornitore di componenti (quello del quaderno)
+capitoli: [3]
+sintesi: "Fornitore di componenti che non è sopravvissuto alla bolla AI. Aveva regalato a Tom il quaderno nero; il suo logo è mezzo scolorito sul dorso."
+caratteristiche:
+  - {testo: "Non sopravvissuto alla bolla AI", fonte: "c3:13"}
+relazioni:
+  - {verso: quaderno-nero, tipo: "ha regalato", fonte: "c3:13"}
+

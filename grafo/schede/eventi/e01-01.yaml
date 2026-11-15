@@ -1,0 +1,14 @@
+id: e01-01
+nome: Procedura standard due volte, checksum pulito, LED anomalo
+capitolo: 1
+ordine: 1.1
+quando: "giorno del primo contatto, turno di pomeriggio (inverno, circa tre mesi prima del cap. 3)"
+dove: laboratorio-di-tom
+dopo: [e00-01]
+coinvolti: [tom, tv-caso-zero, procedura-standard, verifica-di-conformita, led-di-accensione]
+sintesi: "Tom esegue due volte la procedura standard: tutto in regola, ma il LED fa un pattern che nessun test spiega."
+fatti:
+  - {testo: "Il televisore è acceso da dodici minuti", fonte: "c1:9"}
+  - {testo: "Checksum pulito, nessuna manomissione, nessuna anomalia elettrica", fonte: "c1:23"}
+  - {testo: "Il turno (pomeriggio) si ricava dal cap. 2 e dal cap. 3", fonte: "c2:21, c3:9"}
+

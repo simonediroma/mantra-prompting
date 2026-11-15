@@ -1,0 +1,11 @@
+id: e07-05
+nome: Tom clicca sul nome del canale - eTv
+capitolo: 7
+ordine: 7.5
+quando: "la stessa sera"
+dove: casa-di-tom
+dopo: [e07-04]
+coinvolti: [tom, canale-etv, video-yoga]
+sintesi: "Se il video è generato, qualcuno lo ha caricato. Tom vuole capire chi."
+fatti:
+  - {testo: "La decisione e il clic", fonte: "c7:31-33"}

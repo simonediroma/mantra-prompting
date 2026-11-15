@@ -1,0 +1,13 @@
+id: tecnico-turno-b
+nome: Tecnico a cui viene riassegnato il caso zero
+capitoli: [2]
+sintesi: "Collega senza nome (campo «Tecnico: [omesso]») che prende in carico il televisore del primo contatto per il reset diagnostico completo."
+caratteristiche:
+  - {testo: "Nel registro: Turno B, Tecnico [omesso]", fonte: "c2:34-35"}
+  - {testo: "Per Tom è «un collega del suo stesso turno» che non ha dovuto aprire nessuna comunicazione personale e non ha idea di cosa abbia davanti", fonte: "c2:39"}
+aperti:
+  - {testo: "Il registro dice «Turno: B», la narrazione «collega del suo stesso turno»: torna solo se il turno di Tom (pomeriggio) è il B. Il testo non lo dice."}
+relazioni:
+  - {verso: tv-caso-zero, tipo: "resetta", nota: "fuori scena, presunto da Tom", fonte: "c2:39"}
+  - {verso: divisione-assistenza-tecnica, tipo: "tecnico della"}
+

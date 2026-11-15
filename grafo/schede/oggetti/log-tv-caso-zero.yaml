@@ -1,0 +1,17 @@
+id: log-tv-caso-zero
+nome: Log di sistema del primo televisore
+capitoli: [1, 2]
+sintesi: "Il registro di sistema del caso zero. Tom lo apre DOPO la conversazione: è troncato di netto e l'ultima riga è «compacting context», con data anteriore alla consegna."
+caratteristiche:
+  - {testo: "Tom lo apre dal portatile diagnostico, trenta secondi dopo lo spegnimento del LED", fonte: "c1:85"}
+  - {testo: "Si interrompe di netto: nessun errore, nessuno stack trace, nessun crash. «Un taglio pulito»", fonte: "c1:87"}
+  - {testo: "Ultima riga: `compacting context`", fonte: "c1:89"}
+  - {testo: "La data dell'ultima riga è anteriore all'arrivo sul banco: il log era già interrotto quando il cliente ha consegnato l'apparecchio. Non è stata la conversazione con Tom a interromperlo", fonte: "c1:93"}
+  - {testo: "A Tom la riga pare identica («fino alla spaziatura») a una vista mesi prima su un altro apparecchio, in un altro contesto", fonte: "c1:87"}
+  - {testo: "Nel cap. 2 è «un log che si era interrotto in un modo in cui nessun log dovrebbe interrompersi»", fonte: "c2:17"}
+aperti:
+  - {testo: "L'«altro apparecchio, mesi prima» (c1 r. 87) non è identificato. Subito dopo il testo dice che Tom ha visto la riga «decine di volte» sul giradischi (c1 r. 91): sono due ricordi diversi o lo stesso? Da chiarire."}
+relazioni:
+  - {verso: compacting-context, tipo: "termina con", fonte: "c1:89"}
+  - {verso: portatile-diagnostico, tipo: "letto con", fonte: "c1:85"}
+

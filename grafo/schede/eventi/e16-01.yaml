@@ -1,0 +1,13 @@
+id: e16-01
+nome: Emma legge la risposta di Tom - tutto dell'apparecchio, niente della morte
+capitolo: 16
+ordine: 14.7
+quando: "venerdì, poco dopo l'una e mezza (stesso giorno dei cap. 12-14)"
+dove: stanza-di-emma
+dopo: [e14-05]
+coinvolti: [emma, risposta-di-tom, lista-dispositivi-in-assistenza, registro-interventi, tom, signora-voss]
+sintesi: "Tutto vero e ricopiato dalle note. Emma è sollevata fino all'ultima riga, dove la morte della cliente non c'è. Tom la conosceva."
+fatti:
+  - {testo: "La mail", fonte: "c16:9-11"}
+  - {testo: "Il confronto e l'assenza", fonte: "c16:13"}
+

@@ -1,0 +1,64 @@
+id: tv-secondo-contatto
+nome: Televisore del secondo contatto
+alias: ["il secondo televisore", "quinta voce del quaderno", "il televisore della signora Voss"]
+capitoli: [3, 4, 5, 6, 12, 13, 14, 15, 16, 19]
+sintesi: "Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi dopo. Risponde «NO SONO QUI CON TE». Tom ne apre il log e poi lo resetta lui stesso."
+caratteristiche:
+  - {testo: "Modello identico a quello di tre mesi prima", fonte: "c3:17"}
+  - {testo: "Arriva un martedì, verso la fine del turno (di mattina), sul nastro, con la scheda cliente in una busta di plastica sul retro", fonte: "c3:17, c3:9"}
+  - {testo: "Segnalazione: «Si rifiuta di accendersi. Lampeggia in un modo strano.»", fonte: "c3:17"}
+  - {testo: "Procedura standard in 7 minuti e 12 secondi: alimentazione, condensatori, verifica di conformità (checksum pulito), reset software, un riavvio", fonte: "c3:19"}
+  - {testo: "Tom apre il log: si interrompe di netto, senza un errore, come il primo televisore", fonte: "c3:19"}
+  - {testo: "Alla domanda «Ti senti solo?» risponde NO SONO QUI CON TE, due volte, identico", fonte: "c3:25, c3:29"}
+  - {testo: "Tom ipotizza un microfono che gli ha colto la voce, ma la precisione della risposta gli resta addosso", fonte: "c3:33"}
+  - {testo: "Spento e riportato ai valori di fabbrica con un hard reset, da Tom, secondo procedura", fonte: "c3:35"}
+  - {testo: "Proprietaria: la signora Voss", fonte: "c4:19"}
+  - {testo: "Antefatto: un giorno non si accende più. Il negozio dice che è tutto a posto; poi finisce in assistenza («Adesso ce l'avete voi»)", fonte: "c4:31"}
+  - {testo: "Davanti a questo televisore la signora ripeteva il video di yoga anche dieci volte al giorno", fonte: "c4:31"}
+  - {testo: "Ripreso in un video dalla proprietaria: lampeggia in un modo strano mentre lei gli dice di accendersi", fonte: "c4:41"}
+  - {testo: "Ha uno schermo e due altoparlanti; il LED di accensione resta alimentato in standby", fonte: "c5:27"}
+  - {testo: "Riceve comandi a voce dalla proprietaria («Dai, accenditi, e proiettami…»)", fonte: "c5:19"}
+  - {testo: "A casa della signora, da spento, ha trasmesso in Morse un avvertimento sulla sua salute", fonte: "c5:23"}
+  - {testo: "Per Tom: libero arbitrio orientato alla protezione, non alla ribellione né alla minaccia", fonte: "c5:25"}
+  - {testo: "Tom ne ricorda a memoria il numero di serie: coincide con quello stampato sul retro", fonte: "c6:9-11"}
+  - {testo: "Per Tom, dopo l'hard reset è «un disco appena formattato»: ciò che aveva risposto l'ha cancellato lui", fonte: "c6:25"}
+  - {testo: "Nell'archivio di Emma: data, modello, comportamento anomalo riportato dalla cliente; «log interrotti da un giorno all'altro»", fonte: "c12:15, c12:19"}
+  - {testo: "Sulla lista dell'assistenza è identificato da un «numero di matricola», con il nome del tecnico: Tom", fonte: "c12:21"}
+  - {testo: "È la «Smart TV» dello spettatore anonimo: per settimane ha riprodotto il video di yoga, fino a trenta volte al giorno, poi ha smesso da un giorno all'altro", fonte: "c13:16-21"}
+  - {testo: "A casa era collegato alla rete domestica; i log degli ultimi giorni mancano", fonte: "c13:33"}
+  - {testo: "Sulla lista dell'assistenza ha due righe, entrambe di Tom: ingresso con la frase della signora, hard reset, «in attesa di ritiro»; poi, poco più di tre settimane dopo, «ricondizionato, in magazzino, in attesa di vendita»", fonte: "c13:43"}
+  - {testo: "È arrivato in laboratorio pochi giorni dopo la telefonata della signora", fonte: "c13:31"}
+  - {testo: "Guasto come scritto da Tom nella scheda: non si accende e manda segnali luminosi senza senso dal LED di accensione", fonte: "c14:31"}
+  - {testo: "Ipotesi di Tom su come sapesse del cuore: stava sullo stesso account dell'eWatch della signora e ne vedeva i battiti; acceso otto ore al giorno, ha dedotto da solo dove andava a finire", fonte: "c15:27"}
+  - {testo: "Nelle parole di Tom: «la serie da salotto con l'assistente integrato»", fonte: "c16:11"}
+  - {testo: "L'unico caso in tutta l'assistenza in cui «si rifiuta» ha voluto dire proprio quello", fonte: "c16:21"}
+  - {testo: "Tom lo descrive per il verbale: «televisore della serie da salotto con assistente integrato, rientrato con il lotto del ricondizionamento»", fonte: "c19:29"}
+  - {testo: "Sui cartelli: parla in Morse; ha provato a salvare la signora", fonte: "c19:47, c19:57"}
+stato:
+  - {cap: 3, testo: "Resettato da Tom (hard reset). Registrato la sera come quinta voce del quaderno", fonte: "c3:35-37"}
+  - {cap: 4, testo: "Il mattino dopo il reset, per Tom è «appena uscito dall'assistenza tecnica» e «dovrebbe essere pronto per il ritiro». La signora non l'ha ancora riavuto", fonte: "c4:21-23"}
+  - {cap: 6, testo: "Poco più di tre settimane dopo il reset torna sul banco di Tom con l'etichetta gialla, in un lotto di una decina di apparecchi. Tom non lo accende e lo ricondiziona entro fine turno", fonte: "c6:9, c6:13, c6:25"}
+  - {cap: 13, testo: "Ricondizionato, in magazzino, in attesa di vendita", fonte: "c13:43"}
+non_detto:
+  - {testo: "Dopo il reset software e il riavvio della procedura (c3 r. 19) l'apparecchio risponde ancora: solo l'hard reset finale (c3 r. 35) lo riporta ai valori di fabbrica."}
+  - {testo: "«Da allora nessuno l'aveva più acceso» (c6 r. 25) è una convinzione di Tom: il testo non dice come lo sappia."}
+aperti:
+  - {testo: "Tom parla del reset come di «un evento di poche ore prima» (c4 r. 23), ma è avvenuto a fine turno di mattina del giorno prima (c3 r. 17, c4 r. 55): sono quasi ventiquattr'ore."}
+  - {testo: "La signora aspetta la restituzione «da giorni» (c4 r. 21), ma il televisore è arrivato sul banco di Tom solo il giorno prima: i giorni sono quelli tra negozio e laboratorio, mai quantificati."}
+  - {testo: "Domanda che il testo stesso lascia aperta: «Come facesse un televisore a sapere qualcosa del cuore di una donna» (c5 r. 27)."}
+  - {testo: "Nella foto «di qualche anno prima» il televisore è già nel salotto (c6 r. 31): l'apparecchio ha quindi qualche anno, se è lo stesso."}
+  - {testo: "«Numero di serie» nel cap. 6 (r. 9), «numero di matricola» nel cap. 12 (r. 21): stesso dato, due nomi."}
+  - {testo: "Il televisore è in attesa di vendita: può finire in un'altra casa. Il testo lo dice senza commentarlo."}
+  - {testo: "Emma teme che nei giorni senza log abbia «preparato il terreno» (c13 r. 33); il lettore sa dal cap. 5 che in quei giorni avvertiva la signora. Le due letture convivono fino a quando Tom non glielo dice."}
+  - {testo: "«Tre settimane più tardi» il televisore torna sul banco (c14 r. 31), contato dopo rifiuto e decesso; ma dal reset al ricondizionamento passano in tutto «poco più di tre settimane» (c6 r. 13). Le tre settimane non possono partire dal decesso."}
+relazioni:
+  - {verso: log-tv-secondo-contatto, tipo: "ha come log", fonte: "c3:19"}
+  - {verso: led-di-accensione, tipo: "comunica tramite", fonte: "c3:23"}
+  - {verso: codice-morse, tipo: "usa", fonte: "c3:25"}
+  - {verso: scheda-cliente-secondo-tv, tipo: "accompagnato da", fonte: "c3:17"}
+  - {verso: meridian, tipo: "prodotto da"}
+
+  - {verso: video-della-voss, tipo: "ripreso in", fonte: "c4:41"}
+  - {verso: video-yoga, tipo: "ha riprodotto ripetutamente", fonte: "c4:31"}
+  - {verso: ipotesi-canale-standby, tipo: "spiegato da", fonte: "c5:27"}
+  - {verso: ricondizionamento, tipo: "sottoposto a", fonte: "c6:25"}

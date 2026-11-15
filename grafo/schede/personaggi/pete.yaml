@@ -1,0 +1,64 @@
+id: pete
+nome: Pete
+capitoli: [2, 4, 5, 14, 15, 16, 17, 18, 19]
+sintesi: "Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come firma in fondo alla comunicazione formale."
+caratteristiche:
+  - {testo: "Firma: «Pete, Supervisore, Divisione Assistenza Tecnica»", fonte: "c2:23"}
+  - {testo: "Si manifesta quasi solo per iscritto", fonte: "c2:25"}
+  - {testo: "Ha «piccoli giochi sadici da supervisore»", fonte: "c2:25"}
+  - {testo: "Paragonato a un piccione: non avverte prima e non si volta a controllare il danno", fonte: "c2:25"}
+  - {testo: "Non nominato nel cap. 4, ma è «il supervisore» a cui un ritardo di pochi minuti darebbe «un nuovo pretesto»", fonte: "c4:57"}
+  - {testo: "Non nominato nel cap. 5: sotto i cinque minuti il ritardo non gli viene comunicato", fonte: "c5:9"}
+  - {testo: "Per Tom è il supervisore che sa «trasformare in un provvedimento» una chiamata fuori procedura; una mail in pausa gli basterebbe per aprire una pratica", fonte: "c14:33, c14:37"}
+  - {testo: "Prima apparizione in scena, senza parole. Completo nero, camicia bianca, «una schiena larga quanto un armadio a due ante e più o meno della stessa forma»", fonte: "c15:23"}
+  - {testo: "Passo pesante, un po' strascicato sul tallone", fonte: "c15:23"}
+  - {testo: "Davanti alla porta accostata di Tom rallenta, gira la testa di qualche grado verso l'interno, non si ferma, non dice nulla; prosegue verso le scale", fonte: "c15:23"}
+  - {testo: "È il supervisore a cui arriva l'avviso per la mail fuori orario ricevuta da Tom", fonte: "c16:45"}
+  - {testo: "Passa tutte le sere sul divano, in mutande; il divano è a tre posti «e lui ne occupava tre». Cena d'asporto: cotoletta e patatine in un contenitore di alluminio", fonte: "c17:26"}
+  - {testo: "«Grande nel modo in cui sono grandi certi ragazzi di terza media che a quattordici anni hanno già la barba»", fonte: "c17:26"}
+  - {testo: "Il completo nero con la camicia bianca stirata sta appeso alla porta del soggiorno, pronto per l'indomani, ogni giorno", fonte: "c17:26"}
+  - {testo: "«La versione meno nobile dell'agente Smith di Matrix»: a morte i nerd, evviva le bistecche, mai seguire il Bianconiglio. Vuole vendicare Smith facendo carriera nell'apparato di controllo di Meridian", fonte: "c17:26"}
+  - {testo: "Dal liceo non è mai uscito davvero: era Biff di Ritorno al futuro. «Pratico più che intelligente»", fonte: "c17:28"}
+  - {testo: "Guarda Ciao Darwin tifando per i «fighi»; usa «smutandata» anche per apprezzamenti lascivi sulle concorrenti", fonte: "c17:38"}
+  - {testo: "Legge il riepilogo di mezzanotte alle 23:59 in punto, «come altri leggono l'oroscopo»; gli altri supervisori lo leggono il mattino o mai", fonte: "c17:40"}
+  - {testo: "Non sopporta Tom perché è il tecnico più pulito della divisione: non gli lascia niente da fare. La sanzione dei 47 minuti è l'unica soddisfazione in dodici anni: l'ha firmata col nome per esteso e riletta due volte", fonte: "c17:52"}
+  - {testo: "Può leggere una mail solo quando è nella casella di un suo sottoposto, cioè dopo che Tom l'ha aperta; del mittente «fuori giurisdizione» non vede il contenuto", fonte: "c17:54"}
+  - {testo: "Odia il tetto dei sessanta minuti; sogna la sanzione che solo gli ispettori possono dare. Può solo accumulare fino a chiedere un'ispezione", fonte: "c17:58"}
+  - {testo: "Del sistema di sorveglianza vede solo screenshot, non i video", fonte: "c17:58"}
+  - {testo: "Si sente «come un cane che ha fiutato un osso sotto il prato del vicino»", fonte: "c17:52"}
+  - {testo: "Arriva sempre puntuale; giacca d'ordinanza nera, occhiali da sole che getta sulla scrivania", fonte: "c18:41"}
+  - {testo: "Colazione: onion rings gusto pizza dalla macchinetta del corridoio; dita unte sul mouse", fonte: "c18:41, c18:45"}
+  - {testo: "Lavora in open space come tutti i supervisori; sogna un ufficio con una porta, come gli ispettori, e lo snack portato dal carrello", fonte: "c18:41"}
+  - {testo: "Guarda le date prima delle parole", fonte: "c18:47"}
+  - {testo: "Ciò che non è sotto di lui non gli interessa: Elab, Emma, «cose da nerd», gente che parla «dei sentimenti dei televisori»", fonte: "c18:45"}
+  - {testo: "Chiama la signora Voss «la vecchia»; dà per scontato che sia morta di cause naturali: «i televisori non ammazzavano nessuno»", fonte: "c18:45"}
+  - {testo: "Può vedere il calendario di ogni sottoposto, attivare la trascrizione automatica obbligatoria, aprire il pannello della sorveglianza (anteprima e sette scatti)", fonte: "c18:62-68"}
+  - {testo: "«Faceva sempre quello che gli diceva il telefono»: spreca il primo scatto al promemoria, su un uomo che aspetta", fonte: "c19:17"}
+  - {testo: "Con gli apparecchi: li muove e si rompono, «l'ordine normale degli eventi»; premere quattro volte come un telecomando che non risponde", fonte: "c19:51"}
+  - {testo: "Al liceo diceva davvero «Quel pennarello te lo faccio mangiare»; chi nasconde con il corpo finiva nel suo armadietto", fonte: "c19:89-91"}
+  - {testo: "Si sente limitato dalle stesse regole che fa rispettare; vuole essere ispettore, con accesso illimitato alla sorveglianza", fonte: "c19:93"}
+  - {testo: "Camicia pulita; secondo sacchetto di onion rings della giornata", fonte: "c19:12, c19:85"}
+non_detto:
+  - {testo: "Nei cap. 1-3 Pete non compare mai in scena e non parla."}
+stato:
+  - {cap: 15, testo: "In scena: passa nel corridoio e rallenta davanti alla stanza di Tom", fonte: "c15:23"}
+  - {cap: 17, testo: "Venerdì alle 23:59 riceve la segnalazione della mail fuori orario a Tom. Mette in fila sanzione, mail di dieci giorni prima, porta accostata. Aspetta che Tom la apra; si addormenta col telefono sulla pancia", fonte: "c17:60"}
+  - {cap: 18, testo: "Sabato: legge per la prima volta l'intero thread. La morte taciuta da Tom è il «primo mattone». Attiva la trascrizione per il meeting delle 15 e si crea l'appuntamento «Doppia»", fonte: "c18:47, c18:70"}
+  - {cap: 19, testo: "Segue il meeting dal pannello: sette scatti, di cui uno sprecato e quattro bianchi. La trascrizione è pulita (zero minuti). Ma nel settimo scatto c'è un pennarello: secondo mattone. «Inizia la caccia»", fonte: "c19:85-95"}
+aperti:
+  - {testo: "«Firmato con il nome per esteso» (c17 r. 52), ma la firma riportata è «Pete, Supervisore» (c2 r. 23): Pete è il nome per esteso, o ce n'è un altro."}
+  - {testo: "Per Pete Tom consegna ancora «con un margine che nessuno gli chiedeva» (c17 r. 52): non ha notato le due chiusure sull'ultimo secondo (cap. 14 e 15), o non contano."}
+  - {testo: "Per Pete la morte «stava nel registro dal giorno del ricondizionamento» (c18 r. 47); nel registro il decesso è annotato prima, pochi giorni dopo il rifiuto del ritiro (c6 r. 21). È il giorno in cui Tom l'ha letta, non quello in cui è stata scritta."}
+relazioni:
+  - {verso: divisione-assistenza-tecnica, tipo: "supervisore della", fonte: "c2:23"}
+  - {verso: comunicazione-formale-scostamento, tipo: "firma", fonte: "c2:23"}
+
+  - {verso: tom, tipo: "sorveglia", fonte: "c15:23"}
+  - {verso: riepilogo-di-mezzanotte, tipo: "riceve", fonte: "c17:40"}
+  - {verso: casa-di-pete, tipo: "abita in", fonte: "c17:26"}
+  - {verso: ispettori-interni, tipo: "aspira a diventare / invidia", fonte: "c17:58"}
+  - {verso: ciao-darwin, tipo: "guarda", fonte: "c17:38"}
+  - {verso: postazione-di-pete, tipo: "lavora in", fonte: "c18:41"}
+  - {verso: telecamera-di-sorveglianza, tipo: "può usare", fonte: "c18:66-68"}
+  - {verso: scatti-di-pete, tipo: "ha fatto", fonte: "c19:17"}
+  - {verso: trascrizione-del-meeting, tipo: "riceve", fonte: "c19:85"}

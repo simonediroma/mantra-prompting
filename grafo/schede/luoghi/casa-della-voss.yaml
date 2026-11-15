@@ -1,0 +1,14 @@
+id: casa-della-voss
+nome: Casa della signora Voss
+capitoli: [4, 5, 6]
+sintesi: "Da dove la signora risponde al telefono e dove stava il televisore."
+caratteristiche:
+  - {testo: "Una stanza con una radio accesa", fonte: "c4:17"}
+  - {testo: "Qui faceva yoga davanti al televisore", fonte: "c4:31"}
+  - {testo: "Salotto «qualunque»: divano chiaro con una coperta piegata sul bracciolo, tappetino da yoga srotolato sul pavimento, finestra con la luce del mattino; il televisore", fonte: "c5:19"}
+  - {testo: "Nella foto del post: la signora in piedi nel salotto, televisore spento alle spalle", fonte: "c6:31"}
+non_detto:
+  - {testo: "Città e indirizzo non sono riportati."}
+relazioni:
+  - {verso: signora-voss, tipo: "abitazione di"}
+

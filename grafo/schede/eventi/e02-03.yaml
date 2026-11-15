@@ -1,0 +1,12 @@
+id: e02-03
+nome: Tom riguarda il foglio e lo rimette nel cassetto
+capitolo: 2
+ordine: 2.3
+quando: "subito dopo"
+dove: laboratorio-di-tom
+dopo: [e02-02]
+coinvolti: [tom, foglio-io-sono-qui, cassetto-della-scrivania]
+sintesi: "Il foglio piegato in quattro è la sola prova rimasta. Tom lo rimette sotto i vecchi manuali."
+fatti:
+  - {testo: "Il foglio e il cassetto", fonte: "c2:41-43"}
+

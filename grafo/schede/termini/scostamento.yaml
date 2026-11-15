@@ -1,0 +1,10 @@
+id: scostamento
+nome: Scostamento
+capitoli: [2]
+sintesi: "Il termine Meridian per il tempo oltre il limite di procedura. È ciò che l'azienda punisce."
+caratteristiche:
+  - {testo: "«SCOSTAMENTO DA PROCEDURA STANDARD»: 12 minuti 41 secondi nel caso di Tom", fonte: "c2:11-15"}
+  - {testo: "«Meridian non puniva la curiosità in quanto tale. Puniva lo scostamento.»", fonte: "c2:27"}
+relazioni:
+  - {verso: comunicazione-formale-scostamento, tipo: "oggetto della", fonte: "c2:11"}
+  - {verso: ciclo-diagnostico-14-minuti, tipo: "misurato rispetto a", fonte: "c2:13"}

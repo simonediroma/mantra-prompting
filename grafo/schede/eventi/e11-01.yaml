@@ -1,0 +1,13 @@
+id: e11-01
+nome: Emma controlla la casella - Tom non ha risposto
+capitolo: 11
+ordine: 11.1
+quando: "il mattino dopo la sua risposta, prima del processo del mattino"
+dove: stanza-di-emma
+dopo: [e10-03]
+coinvolti: [emma, indirizzo-elab, risposta-di-emma, tom]
+sintesi: "Nessuna notifica, ma Emma guarda lo stesso. Si spiega il silenzio con i turni di Tom."
+fatti:
+  - {testo: "Il controllo", fonte: "c11:9"}
+  - {testo: "Il ragionamento sui turni", fonte: "c11:11"}
+

@@ -1,0 +1,167 @@
+id: tom
+nome: Tom
+capitoli: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+sintesi: "Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3."
+caratteristiche:
+  - {testo: "53 anni", fonte: "c1:11"}
+  - {testo: "Alto, troppo per gli sgabelli da laboratorio, che disprezza apertamente; magro, di magrezza nervosa; pochi capelli", fonte: "c1:13"}
+  - {testo: "Occhiali da lettura calati sulla punta del naso (in laboratorio e la sera a casa)", fonte: "c1:13, c3:13"}
+  - {testo: "Felpa con cappuccio anche se in laboratorio si sta benissimo: vestirsi comodi è rispetto per sé e per il lavoro", fonte: "c1:13"}
+  - {testo: "Smanettone nel senso nobile: le cose le capisce aprendole, non leggendole", fonte: "c1:15"}
+  - {testo: "Dodici anni di assistenza in Meridian", fonte: "c1:23, c2:9"}
+  - {testo: "Da bambino parlava alle radio rotte sperando che rispondessero; da lì l'abitudine di interrogare gli apparecchi", fonte: "c1:29"}
+  - {testo: "Ha imparato il Morse da bambino con vecchie radio a valvole dei mercatini: la luce gli arriva in testa già tradotta in suono", fonte: "c1:33"}
+  - {testo: "Parla poco durante il giorno («io non parlo così spesso durante il giorno»)", fonte: "c1:27"}
+  - {testo: "Metodo: mai chiedere la verità direttamente, tendere trappole gentili e vedere cosa ci cade dentro", fonte: "c1:81"}
+  - {testo: "Davanti al primo messaggio non prova paura ma euforia per il meccanismo", fonte: "c1:47"}
+  - {testo: "Davanti alla sanzione non si arrabbia: freddezza, curiosità clinica", fonte: "c2:27"}
+  - {testo: "Trascrive a mano, su carta («come un uomo di un secolo sbagliato»)", fonte: "c1:37"}
+  - {testo: "Tiene chiusa la porta del laboratorio per non far entrare i colleghi", fonte: "c1:43"}
+  - {testo: "Ha incrociato Pete di persona sì e no tre volte in dodici anni; ne riconosce il passo e cambia strada", fonte: "c2:25"}
+  - {testo: "Va al lavoro in autobus; col turno di mattina esce di casa col buio", fonte: "c3:9"}
+  - {testo: "Lavora in piedi, appoggiato al banco con due mani", fonte: "c3:21"}
+  - {testo: "In dodici anni non aveva mai chiesto a un elettrodomestico come si sentisse", fonte: "c3:21"}
+  - {testo: "Si presenta al telefono col suo vero nome: «sono Tom»", fonte: "c4:19"}
+  - {testo: "Esce sempre abbastanza presto da arrivare con un quarto d'ora di margine prima del turno", fonte: "c4:11"}
+  - {testo: "Non è solito mentire agli esseri umani, solo agli elettrodomestici; recita male e se ne stizzisce", fonte: "c4:9, c4:13"}
+  - {testo: "Usa il silenzio come strumento: quasi nessuno lo tollera più di tre secondi", fonte: "c4:29"}
+  - {testo: "In dodici anni non aveva mai corso per un autobus; la fermata è a due isolati da casa", fonte: "c4:57"}
+  - {testo: "Si è sempre vantato con se stesso di una puntualità totale: mai un ritardo in dodici anni, fino ai due minuti del cap. 5", fonte: "c5:9"}
+  - {testo: "Ripara anche altro oltre ai televisori: rimonta un motore di aspirapolvere", fonte: "c5:13"}
+  - {testo: "Prima di tutto viene la cena: aspetta a guardare il video perché ha fame", fonte: "c5:15"}
+  - {testo: "Da bambino decifrava a pezzi le registrazioni delle radio amatoriali, fermandole e mandandole indietro", fonte: "c5:21"}
+  - {testo: "Dà ai propri stati d'animo etichette da scheda d'intervento: «urgenza di verifica»", fonte: "c5:29"}
+  - {testo: "Il suo primo pensiero davanti all'avvertimento è tecnico, non umano", fonte: "c5:25"}
+  - {testo: "Si occupa lui stesso del ricondizionamento degli apparecchi non ritirati", fonte: "c6:13"}
+  - {testo: "Ricorda a memoria i numeri di serie dei televisori annotati nel suo archivio", fonte: "c6:9"}
+  - {testo: "Come tecnico ha accesso in lettura all'intero registro interventi", fonte: "c6:19"}
+  - {testo: "Non gli interessa la morte in sé né fare giustizia: vuole sapere cosa è successo, il meccanismo", fonte: "c6:27"}
+  - {testo: "Davanti alla notizia della morte posa il cacciavite «con più cura del necessario»: non ha un'etichetta pronta per quello che prova", fonte: "c6:23"}
+  - {testo: "Non ha mai incontrato di persona la signora Voss", fonte: "c6:27"}
+  - {testo: "Cognome: Vardju. Suona slavo; in Meridian gli dà «un'aria da smanettone». Nessuno in azienda potrebbe risalire all'origine sarda", fonte: "c7:13"}
+  - {testo: "Origini sarde: i trisavoli lasciarono la Sardegna più di un secolo prima; gliene parlavano il padre e la nonna", fonte: "c7:11"}
+  - {testo: "Non parla italiano, non l'ha mai imparato davvero, ma ci entra in sintonia", fonte: "c7:11"}
+  - {testo: "Musica per concentrarsi davanti a uno schermo: Tango dei Matia Bazar, che non metteva da anni", fonte: "c7:11"}
+  - {testo: "Da quando il progetto del giradischi ha toccato l'apice ne parla ancora con gli audiofili, ma ha smesso di ascoltare musica", fonte: "c7:9"}
+  - {testo: "Pulisce gli occhiali da lettura sul bordo della felpa", fonte: "c7:15"}
+  - {testo: "Affronta una ricerca come un guasto multiplo: elimina prima le variabili più ovvie, non le più interessanti", fonte: "c7:15"}
+  - {testo: "Usa un assistente IA: non gli chiede di indovinare, gli chiede di ordinare per un profilo", fonte: "c7:17"}
+  - {testo: "Guarda prima quello che manca, non quello che c'è", fonte: "c8:11"}
+  - {testo: "Conosce il canale YouTube del New York Times; di canali e rapporti views/iscritti sa poco", fonte: "c8:13"}
+  - {testo: "I quindici minuti di anticipo sono intoccabili: quando gli serve tempo lo prende dal sonno, alzandosi un'ora prima", fonte: "c9:9"}
+  - {testo: "Chiude la porta del laboratorio a doppia mandata, «clac clac», come sempre", fonte: "c9:25"}
+  - {testo: "Fuori carica file su siti sconosciuti senza pensarci; dentro Meridian non lascia tracce: «ogni clic aveva un proprietario»", fonte: "c9:27"}
+  - {testo: "Circa dieci anni prima era «agli inizi della propria carriera in Meridian»", fonte: "c9:39"}
+  - {testo: "Nella mail si firma «Tom, membro della Divisione Assistenza Tecnica»", fonte: "c10:19"}
+  - {testo: "Nell'organigramma della Divisione c'è un solo Tom: dodici anni, stesso ruolo, nessuna promozione, nessun cambio di reparto", fonte: "c12:31"}
+  - {testo: "Scrive le note d'intervento tutte allo stesso modo, con formule rigide da scheda; la mail a Elab ha la stessa mano", fonte: "c12:29"}
+  - {testo: "Ha una pagina di presentazione aziendale mai aggiornata, con link ai profili esterni; su LinkedIn un solo progetto personale", fonte: "c12:33"}
+  - {testo: "Sul forum del progetto scrive da anni, quasi sempre tra mezzanotte e le due", fonte: "c12:35"}
+  - {testo: "Nei messaggi recenti parla di musica ma non dice più di ascoltarne", fonte: "c12:37"}
+  - {testo: "Per Emma: un tecnico vero, che davanti a un apparecchio strano «non avrebbe smesso di smontarlo finché non avesse capito»", fonte: "c12:35"}
+  - {testo: "Per Emma è l'unico ancora vivo ad aver avuto davanti il televisore Voss dopo che aveva smesso di obbedire: prima dell'hard reset e dopo la morte", fonte: "c13:41, c13:43"}
+  - {testo: "Ha scritto a Elab il giorno dopo aver ricondizionato il televisore e letto la pratica: sapeva già della morte", fonte: "c13:43"}
+  - {testo: "Dai quarantuno anni segue il digiuno intermittente: a mezzogiorno non mangia. In dodici anni non ha mai messo piede in mensa", fonte: "c14:35"}
+  - {testo: "È solo «da molto tempo»: almeno da quando il nastro ha chiuso ogni tecnico in una stanza singola, forse da prima. Ci ha fatto l'abitudine «come al ronzio di un frigorifero»", fonte: "c14:27"}
+  - {testo: "Il suo desiderio: aprire il coperchio davanti a qualcuno che ne capisce e dire «guarda qui». Non avere ragione né arrivare primo", fonte: "c14:27"}
+  - {testo: "A ogni apparecchio fa una domanda, per abitudine: all'aspirapolvere se è stanco, al microonde se lo fa apposta, al tostapane se ha qualcosa da dirgli", fonte: "c14:11, c14:29, c14:41"}
+  - {testo: "Legge la prima risposta di Emma in piedi, col cappuccio della felpa già tirato su, e resta così finché il corridoio non si svuota", fonte: "c14:19"}
+  - {testo: "Scrive le mail come schede: toglie un aggettivo a ogni rilettura finché restano solo i fatti", fonte: "c14:37"}
+  - {testo: "Con Emma inverte il suo metodo: non domandare e osservare, ma rispondere e vedere cosa lei chiede dopo", fonte: "c14:37"}
+  - {testo: "La telefonata alla signora Voss è «l'unico momento in cui l'aveva sentita viva»: è ciò che gli costa di più tacere", fonte: "c14:33"}
+  - {testo: "Sente di «doverla conoscere», «come si sa una cosa già vista da qualche parte senza ricordare dove»", fonte: "c14:43"}
+  - {testo: "Arriva alle otto meno un quarto, cappuccio abbassato, chiave già in mano; accende il neon, posa la chiave sul banco", fonte: "c15:9"}
+  - {testo: "Il tell: a disagio davanti a una persona, si guarda il polso, l'eWatch, «più a lungo del necessario»", fonte: "c15:21"}
+  - {testo: "Parla alla stanza «con il tono che usava per i televisori»: «E tu come fai a saperlo?»", fonte: "c15:21"}
+  - {testo: "Riconosce il passo di Pete dopo «anni di incroci evitati»", fonte: "c15:23"}
+  - {testo: "Monta lame «da prima di avere gli occhiali da lettura»: dimenticare la rondella è il primo lavoro che gli va male", fonte: "c15:29"}
+  - {testo: "Distingue ciò che ha voglia di credere da ciò che è provato: «Non era una prova», se lo dice con le parole precise", fonte: "c15:27"}
+  - {testo: "Scrive «come scrivono i tecnici di Meridian, cioè come se ogni aggettivo costasse una decurtazione»", fonte: "c16:9"}
+  - {testo: "Di notte tiene l'eWatch sul comodino, accanto a un bicchiere", fonte: "c17:10"}
+  - {testo: "La posta aziendale gli arriva anche sul computer di casa", fonte: "c17:10-14"}
+  - {testo: "Parla alla cucina: «Se la apro adesso, lui lo sa». Il frigorifero «di solito qualcosa da dire ce l'aveva»", fonte: "c17:18-20"}
+  - {testo: "Il tell confermato: si guarda il polso «come faceva al telefono quando dall'altra parte c'era una persona»", fonte: "c17:24"}
+  - {testo: "La morte della cliente l'ha «tolta» dalla sua risposta: scriverla aprirebbe «un vaso di Pandora»", fonte: "c17:20"}
+  - {testo: "Lascia la tazza del caffè del mattino piena sul tavolo fino a notte", fonte: "c17:12"}
+  - {testo: "Supera il metro e novanta; scarpe da trekking", fonte: "c18:9"}
+  - {testo: "Lo sgabello è lo stesso da dodici anni e da dodici anni lo disprezza apertamente: ci sta «con le ginocchia quasi all'altezza del piano… come un clown dentro la sua macchinina»", fonte: "c18:9"}
+  - {testo: "Pesa settantotto chili (la bilancia lo scambia per «Marisa»)", fonte: "c18:25"}
+  - {testo: "Da ragazzo ha copiato almeno un compito: il caldo dal collo alle orecchie di quando un professore glielo restituiva senza una parola", fonte: "c18:15"}
+  - {testo: "Rilegge ciò che scrive «con gli occhi di Pete»", fonte: "c18:27"}
+  - {testo: "In dodici anni non ha mai chiesto niente a nessuno, nemmeno un giorno di ferie fuori stagione", fonte: "c18:49"}
+  - {testo: "Sentire Emma parlare è, in dodici anni in quella stanza, un evento secondo solo ai due televisori, «con cui aveva tenuto le conversazioni più interessanti della sua vita»", fonte: "c18:56"}
+  - {testo: "Sfida: «Pete, prova a prendermi», detto alla stanza", fonte: "c18:58"}
+  - {testo: "Non ha mai configurato la modalità presenza: in call si mostra com'è, felpa grigia, occhiali da lettura spinti sulla fronte, faccia «stanca il giusto»", fonte: "c19:10, c19:19"}
+  - {testo: "Prepara l'unica frase preparabile: «Ciao Emma, come stai?»", fonte: "c19:21-23"}
+  - {testo: "Davanti a Emma si accorge di contarle le lentiggini; gli sembra di conoscerla già, «come quando una canzone alla radio ti ricorda un ritornello e non il titolo»", fonte: "c19:23"}
+  - {testo: "Parla per la trascrizione con «la voce del verbale» mentre scrive cartelli a stampatello, coprendo il banco con la schiena", fonte: "c19:29, c19:39, c19:75"}
+  - {testo: "Propone «un caffè in mensa», stupendosi di nominare un posto dove non ha mai messo piede", fonte: "c19:75-77"}
+stato:
+  - {cap: 1, testo: "Scopre che un televisore risponde in Morse; perde tempo oltre il limite; prende tempo etichettando l'unità come anomalia", fonte: "c1:97"}
+  - {cap: 2, testo: "Richiamo formale e trattenuta di 47 minuti; perde il televisore; decide di tenere lui il cronometro e un archivio privato", fonte: "c2:45"}
+  - {cap: 3, testo: "Da tre mesi è il tecnico più efficiente del reparto (margine medio 47 secondi); turno di mattina da qualche settimana; al secondo contatto conclude «ce n'è più di uno»", fonte: "c3:9, c3:37"}
+  - {cap: 4, testo: "Chiama la signora Voss dal proprio cellulare fingendosi il controllo qualità; scopre che esiste un video; brucia tutti i quindici minuti di anticipo e corre all'autobus", fonte: "c4:57"}
+  - {cap: 5, testo: "Primo ritardo in dodici anni (2 minuti). La sera decifra il video: il televisore avvertiva la signora. Annota «consapevole. Benevolo, non ostile.» Il mattino dopo la signora non risponde", fonte: "c5:33, c5:37"}
+  - {cap: 6, testo: "Tre settimane dopo: gli torna sul banco il televisore Voss per il ricondizionamento. Scopre dal registro che la signora è morta, e dal post del fratello che è morta di cuore facendo yoga. Decide di cercare il video di yoga", fonte: "c6:21, c6:31, c6:35"}
+  - {cap: 7, testo: "La stessa sera del cap. 6: trova un video «Yoga fit» compatibile con la signora Voss e, a un quarto di velocità, scopre che la ragazza ha sei dita per due fotogrammi. Il video è generato. Clicca sul canale: eTv", fonte: "c7:27-33"}
+  - {cap: 8, testo: "Stessa sera, fin dopo le undici: analizza il canale eTv e conclude che è un'operazione. Rimanda a domani: capire con quale IA sia stato generato il video, per risalire dai clienti dello strumento a chi sta dietro", fonte: "c8:17-19"}
+  - {cap: 9, testo: "Il giorno dopo: i rilevatori pubblici danno il video per reale ma il parlato per generato. A fine turno cerca il testo nell'archivio interno: è un prodotto Meridian, modello internal_unknown, contatto elab@meridian.com", fonte: "c9:31-37"}
+  - {cap: 10, testo: "Fuori scena: la sera del cap. 9 ha scritto a elab@meridian.com sostenendo di aver trovato l'indirizzo nei log di un televisore", fonte: "c10:17-19"}
+  - {cap: 11, testo: "Fuori scena: per tutta la giornata non risponde alla mail di Emma", fonte: "c11:37"}
+  - {cap: 12, testo: "Fuori scena: non ha ancora risposto a Emma, tre giorni dopo la sua mail", fonte: "c12:25"}
+  - {cap: 13, testo: "Fuori scena. Per Emma: «Forse non mi sta dando la caccia. Forse sta cercando anche lui di sapere cosa sia successo.»", fonte: "c13:41"}
+  - {cap: 14, testo: "Dopo due giorni di silenzio riceve le scuse di Emma durante un intervento: per la prima volta chiude sull'ultimo secondo, senza margine. In pausa pranzo scrive una risposta di soli fatti, tacendo Morse, quaderno, video e telefonata; la invia quando il nastro riparte. La sera non scrive nulla sul quaderno", fonte: "c14:29, c14:39, c14:45"}
+  - {cap: 15, testo: "Il mattino dopo: lascia la porta accostata per la prima volta in dodici anni. Alle 08:00:01 Emma gli chiede se «si rifiuta» fosse alla lettera. Pete passa e rallenta. Tom arriva all'ipotesi dell'eWatch, sbaglia un tritatutto, comincia una risposta e la cancella", fonte: "c15:31"}
+  - {cap: 16, testo: "Fuori scena: dopo la mail delle 08:00:01 non risponde a Emma per sei giorni", fonte: "c16:23"}
+  - {cap: 17, testo: "Venerdì 23:34: svegliato dalla mail di Emma, non la apre. Si mette davanti al bivio: chiederle di vedersi, o chiudere. Rimanda alle otto", fonte: "c17:22-24"}
+  - {cap: 18, testo: "Sabato alle otto apre in regola la mail delle 23:34. Alle 8:26 chiede a Emma un meeting in presenza. Riceve un invito per una call alle 15: accetta e prepara un LED puntato sulla telecamera di sorveglianza", fonte: "c18:27, c18:60"}
+  - {cap: 19, testo: "Sabato alle 15: nove minuti di call con Emma. A voce una consulenza sul log; sui cartelli, con la telecamera accecata, le dice del Morse, del video, del televisore che ha provato a salvare la signora e dell'altro televisore. Chiude proponendo un caffè in mensa", fonte: "c19:45-81"}
+aperti:
+  - {testo: "Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi."}
+  - {testo: "Nel cap. 9 Tom evita ogni traccia nell'archivio; la sera stessa manda da un indirizzo Meridian riconoscibile una mail con una bugia tecnica verificabile (c10 r. 17-21). Il testo non mostra come sia arrivato a questa scelta: il cap. 10 è dal punto di vista di Emma."}
+  - {testo: "Sgabello: Tom li «disprezza apertamente» (c1 r. 13) e lavora in piedi «perché gli sgabelli restavano quello che erano» (c3 r. 21), ma nel cap. 14 «girò lo sgabello verso il computer» due volte (r. 15, r. 41)."}
+  - {testo: "«Nove apparecchi su dieci non avevano niente da dire» (c14 r. 11): alla lettera uno su dieci risponde, mentre in quattro mesi hanno risposto due televisori in tutto."}
+  - {testo: "Sgabello, terza volta: nel cap. 15 si siede «sullo sgabello troppo basso, di tre quarti» (r. 9). Il disprezzo c'è ancora («troppo basso»), ma ormai ci si siede."}
+  - {testo: "Perché Tom taccia per un'intera settimana dopo la domanda su «si rifiuta»: il cap. 15 dà il motivo del primo giorno (non può scrivere della telefonata), non quello dei sei successivi."}
+  - {testo: "La notifica sul computer di Tom è in inglese: «New email from Emm…» (c17 r. 14). Con «non parlava italiano» (c7 r. 11) è il secondo indizio che la lingua della storia non sia l'italiano."}
+  - {testo: "Sgabello, quadro completo: il cap. 18 (r. 9) spiega che ci si siede disprezzandolo. Resta solo il cap. 3 (r. 21), dove lavora in piedi «perché gli sgabelli restavano quello che erano»."}
+  - {testo: "C'è una telecamera di sorveglianza sopra la porta del laboratorio (c18 r. 56, r. 60). Nei cap. 1 e 3 Tom parla ai televisori e il LED risponde in Morse in quella stessa stanza, descritta come isolata e senza testimoni (c1 r. 43). O la telecamera c'era già e ha ripreso tutto (il video completo è degli ispettori), o è stata messa dopo: il testo non lo dice."}
+  - {testo: "Dove finiscano i cinque cartelli dopo il meeting non è detto: l'ultimo resta a faccia in giù sul banco (c19 r. 71)."}
+non_detto:
+relazioni:
+  - {verso: meridian, tipo: "lavora per", fonte: "c1:17"}
+  - {verso: divisione-assistenza-tecnica, tipo: "tecnico della", fonte: "c2:23"}
+  - {verso: pete, tipo: "sottoposto di", nota: "lo evita; lo conosce quasi solo per iscritto", fonte: "c2:25"}
+  - {verso: laboratorio-di-tom, tipo: "lavora in", fonte: "c1:43"}
+  - {verso: casa-di-tom, tipo: "abita in", fonte: "c3:13"}
+  - {verso: giradischi-di-tom, tipo: "ha costruito", fonte: "c1:15"}
+  - {verso: audiofili-scandinavi, tipo: "seguito da", fonte: "c1:15"}
+  - {verso: quaderno-nero, tipo: "tiene", fonte: "c3:13"}
+  - {verso: foglio-io-sono-qui, tipo: "ha scritto", fonte: "c1:37"}
+  - {verso: ewatch, tipo: "indossa", nota: "obbligatorio in orario di lavoro", fonte: "c3:9"}
+  - {verso: rito-delle-domande, tipo: "pratica", fonte: "c1:29"}
+  - {verso: codice-morse, tipo: "conosce", fonte: "c1:33"}
+  - {verso: margine-47-secondi, tipo: "si impone", fonte: "c3:9"}
+
+  - {verso: signora-voss, tipo: "telefona a", nota: "sotto copertura", fonte: "c4:19"}
+  - {verso: cellulare-di-tom, tipo: "usa", fonte: "c4:13"}
+  - {verso: copertura-controllo-qualita, tipo: "inventa", fonte: "c4:9"}
+  - {verso: anticipo-di-quindici-minuti, tipo: "abitudine", fonte: "c4:11"}
+  - {verso: foglio-avvertimento, tipo: "ha scritto", fonte: "c5:25"}
+  - {verso: ipotesi-canale-standby, tipo: "formula", fonte: "c5:27"}
+  - {verso: mauro-vargiu, tipo: "discendente di", fonte: "c7:13"}
+  - {verso: assistente-ia-di-tom, tipo: "usa", fonte: "c7:17"}
+  - {verso: computer-di-tom, tipo: "usa", fonte: "c7:15"}
+  - {verso: archivio-artefatti, tipo: "consulta", fonte: "c9:25"}
+  - {verso: transcript-del-video, tipo: "ha scritto", fonte: "c9:15"}
+  - {verso: emma, tipo: "scrive a", nota: "senza sapere chi leggerà", fonte: "c10:19"}
+  - {verso: mail-bluff-di-tom, tipo: "ha scritto", fonte: "c10:19"}
+  - {verso: sito-del-giradischi, tipo: "gestisce", fonte: "c12:33"}
+  - {verso: risposta-di-tom, tipo: "ha scritto", fonte: "c14:37"}
+  - {verso: digiuno-intermittente, tipo: "pratica", fonte: "c14:35"}
+  - {verso: ipotesi-ewatch, tipo: "formula", fonte: "c15:27"}
+  - {verso: porta-accostata, tipo: "decide", fonte: "c15:9"}
+  - {verso: il-bivio, tipo: "davanti a", fonte: "c17:22"}
+  - {verso: richiesta-di-meeting, tipo: "ha scritto", fonte: "c18:31"}
+  - {verso: led-del-faretto, tipo: "prepara", fonte: "c18:60"}
+  - {verso: cartelli-di-tom, tipo: "ha scritto", fonte: "c19:39"}

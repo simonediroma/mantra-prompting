@@ -1,0 +1,10 @@
+id: origine-non-determinabile
+nome: «Origine non determinabile»
+capitoli: [9]
+sintesi: "La formula con cui i rilevatori pubblici rispondono sul modello che ha generato il testo."
+caratteristiche:
+  - {testo: "«Una formula asettica, come quella con cui certi referti evitano di scrivere la parola che tutti aspettano»", fonte: "c9:19"}
+  - {testo: "Tom se la porta in testa per tutto il turno «come un sassolino nella scarpa»", fonte: "c9:21"}
+relazioni:
+  - {verso: rilevatori-ia, tipo: "risposta dei", fonte: "c9:19"}
+

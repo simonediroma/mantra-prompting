@@ -1,0 +1,13 @@
+id: e07-03
+nome: Tom individua il video - «bella», velocità doppia
+capitolo: 7
+ordine: 7.3
+quando: "la stessa sera"
+dove: casa-di-tom
+dopo: [e07-02]
+coinvolti: [tom, video-yoga, ragazza-del-video-yoga, computer-di-tom]
+sintesi: "Lo ferma la parola «bella» nel titolo. La ragazza invita a guardare a velocità doppia: i conti sul tempo tornano con le dieci ripetizioni al giorno."
+fatti:
+  - {testo: "Il titolo", fonte: "c7:21"}
+  - {testo: "L'invito e i conti", fonte: "c7:23"}
+

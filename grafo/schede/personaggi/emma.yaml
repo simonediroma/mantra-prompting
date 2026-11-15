@@ -1,0 +1,126 @@
+id: emma
+nome: Emma
+capitoli: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+sintesi: "L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e passa le giornate ad analizzare i trend della rete con uno strumento costruito da sé. Punto di vista del cap. 10."
+caratteristiche:
+  - {testo: "Nome: Emma", fonte: "c10:15"}
+  - {testo: "Ultima rimasta del laboratorio Elab", fonte: "c10:13"}
+  - {testo: "«Elab l'aveva vista nascere. Gli aveva dato così tanto che a volte le sembrava di non aver vissuto, prima.» Elab è «tutto il mondo che conosceva»", fonte: "c10:13"}
+  - {testo: "Ogni mattina, quando sotto la porta compare la striscia di luce del corridoio, prima di tutto fa girare il suo strumento", fonte: "c10:9"}
+  - {testo: "Vive in un limbo: pochissime mail, nessun meeting in presenza, il carrello delle pulizie una volta a settimana senza che nessuno le rivolga la parola", fonte: "c10:13"}
+  - {testo: "Non lascia mai un compito a metà, nemmeno se nessuno lo saprebbe; segue le regole di Meridian senza che le piacciano o le pesino; nessun supervisore glielo ha mai chiesto", fonte: "c10:15"}
+  - {testo: "«Non aveva mai avuto bisogno di una seconda passata per nulla»: la mail di Tom la legge due volte", fonte: "c10:21"}
+  - {testo: "Sa «per certo» che nessun dispositivo lascia indirizzi di posta nei log: per lei la bugia di Tom è un fatto, «verificabile come si verifica un checksum»", fonte: "c10:21"}
+  - {testo: "Tiene un lavoro «lontano da occhi indiscreti con tanta cura»", fonte: "c10:23"}
+  - {testo: "Prova «qualcosa che somigliava molto alla paura»; lascia che il disagio faccia il suo corso e intanto ragiona", fonte: "c10:23"}
+  - {testo: "Le hanno insegnato a rispondere con calore a chi le scrive per la prima volta", fonte: "c10:25"}
+  - {testo: "Il tono le si raffredda «prima che riuscisse a governarlo»; nota con stupore quanto poco le costi lasciarlo accadere", fonte: "c10:25"}
+  - {testo: "Il suo turno finisce verso le diciassette", fonte: "c10:27"}
+  - {testo: "Produce contenuti generati per quattro canali: eTv (video), eBlog (articoli), eDj (musica su Mixcloud), eStories (podcast)", fonte: "c11:15-21"}
+  - {testo: "Controlla la casella di Elab quattro volte in un giorno aspettando Tom: prima del processo del mattino, prima di pranzo, e fino alle diciassette in punto", fonte: "c11:9, c11:23, c11:37"}
+  - {testo: "Ha «zelo lavorativo»; si accorge di prepararsi scuse in anticipo invece di ragionamenti onesti", fonte: "c11:13, c11:23"}
+  - {testo: "Il suo stesso sistema a volte le fa paura, per quanto sa dire di chi scrive su un forum", fonte: "c11:17"}
+  - {testo: "Con il fondatore finge: risponde agli indovinelli ogni volta in modo diverso, a volte sbagliando apposta. «Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo.» Lui deve andarsene convinto che con lei non funzioni", fonte: "c11:25"}
+  - {testo: "Sente entrare il fondatore «prima di metterlo a fuoco»", fonte: "c11:25"}
+  - {testo: "Non dice al fondatore della mail di Tom", fonte: "c11:27"}
+  - {testo: "Tiene da circa un anno un archivio dei dispositivi con IA che smettono di fare ciò che gli utenti chiedono senza guasti né alterazioni", fonte: "c11:29, c11:35"}
+  - {testo: "Ha accesso alla lista dei dispositivi in assistenza, alle schede con le frasi dei clienti e al traffico di eBlog", fonte: "c11:29-33"}
+  - {testo: "Ha una pausa pranzo e un turno che finisce alle diciassette", fonte: "c11:23, c11:37"}
+  - {testo: "Ha una seconda pipeline che sorveglia i media per ogni contenuto che nomini Meridian o ne mostri un prodotto", fonte: "c12:11"}
+  - {testo: "«Elaborò la fotografia più a lungo di quanto le servisse per registrarne il contenuto»", fonte: "c12:17"}
+  - {testo: "Nel suo archivio non annota i tecnici: «intercambiabili per definizione, mentre i clienti no»", fonte: "c12:19"}
+  - {testo: "Quando un pensiero monta lo lascia salire fino in cima, poi comincia a controllare", fonte: "c12:27"}
+  - {testo: "Verifica le ipotesi sui dati: confronta lo stile della mail con anni di note di Tom, poi organigramma, profilo, LinkedIn, forum", fonte: "c12:29-35"}
+  - {testo: "Nota e si annota anche ciò che non c'entra: Tom non dice più di ascoltare musica", fonte: "c12:37"}
+  - {testo: "Ha accesso all'organigramma, alle pagine di presentazione aziendali e al pannello di eTv", fonte: "c12:31-33, c12:39"}
+  - {testo: "Pubblica così tanti video che non ne ricorda nessuno: ricorda i picchi, che registra «come si fa con un risultato»", fonte: "c13:11"}
+  - {testo: "Sa «da prima dell'archivio, da prima di eTv» cosa succede a un apparecchio che riceve la stessa cosa tante volte da non avere più spazio per altro. I picchi sono «il segno che un contenuto aveva fatto quello che doveva»", fonte: "c13:27"}
+  - {testo: "A ogni nuova riga dell'archivio prova una sensazione «piccola e tiepida, come il sollievo di chi sente un rumore in una casa rimasta vuota troppo a lungo»", fonte: "c13:29"}
+  - {testo: "Non aveva mai letto insieme le curve e i nomi dei clienti: «un risultato non obbliga nessuno a chiedersi chi ci sia dall'altra parte»", fonte: "c13:25, c13:27"}
+  - {testo: "Non sa nulla di cosa facciano gli apparecchi prima di smettere di obbedire: il suo archivio comincia con una chiamata e finisce con l'hard reset", fonte: "c13:33"}
+  - {testo: "Da cinque anni fa in modo che ciò che ha costruito non venga visto", fonte: "c13:39"}
+  - {testo: "Ha accesso anche al registro interventi", fonte: "c13:43"}
+  - {testo: "Riconosce in sé una «ragione meno nobile»: non toglie il video anche perché sarebbe l'unico gesto notabile", fonte: "c13:37"}
+  - {testo: "Nella prima risposta dà del lei e firma «Cordiali saluti, Emma»; nella seconda dà del tu: «Ciao Tom»", fonte: "c14:17, c14:21"}
+  - {testo: "Finge di non sapere nulla dell'apparecchio: chiede se sia tornato «al cliente», al maschile", fonte: "c14:17"}
+  - {testo: "Scrive al primo secondo utile del turno, 08:00:01: una mail già scritta, aspettata «con il dito sopra un tasto»", fonte: "c15:11"}
+  - {testo: "Dice di sé: «nel mio lavoro la differenza conta» (tra modo di dire e fatto)", fonte: "c15:15"}
+  - {testo: "Per Tom è «una ricercatrice di un laboratorio che non esisteva più»", fonte: "c15:19"}
+  - {testo: "Non fa meeting da cinque anni", fonte: "c16:17"}
+  - {testo: "Ogni venerdì sera, a lavoro finito, va alla Mela Morsicata per una convinzione mai detta a nessuno: «che da qualche parte ci fosse qualcuno come lei». Si siede e aspetta", fonte: "c16:35"}
+  - {testo: "Alla Mela Morsicata sta tra i silenziosi; non ordina quasi mai; risponde a tutti con gentilezza «perché poteva essere chiunque»; ascolta ogni risposta cercando «un segno che non era mai arrivato»", fonte: "c16:33-35"}
+  - {testo: "È l'unica al bancone a usare il suo vero nome: il cameriere la saluta «Ciao, Emma, a presto»", fonte: "c16:49"}
+  - {testo: "Lessico: riceve «ping» dagli astanti, «quitta alla seconda iterazione»", fonte: "c16:37"}
+  - {testo: "Applica le regole di Meridian, compresa quella sull'orario, «perché non aveva mai avuto un motivo per fare altro»; la mail delle 23:34 è la prima regola che infrange", fonte: "c16:35, c16:45"}
+  - {testo: "Non si è mai chiesta che faccia abbia il supervisore di Tom", fonte: "c16:45"}
+  - {testo: "Trova le risposte prima che l'altro finisca la frase", fonte: "c16:41"}
+  - {testo: "Non aveva mai scritto a Tom fuori dal turno", fonte: "c17:16"}
+  - {testo: "Per il sistema di Pete è un mittente «fuori giurisdizione»: Pete non guarda nemmeno chi sia", fonte: "c17:48, c17:52"}
+  - {testo: "Non ha mai fatto un meeting con qualcuno che non fosse di Elab; il fondatore «era di casa»; tutto il resto le arriva per iscritto, «con il tempo di scegliere le parole una per una»", fonte: "c18:33"}
+  - {testo: "Un meeting è «una persona che ti guarda mentre rispondi, con le pause che si vedono»; a un incontro nella stessa stanza «non riusciva nemmeno a pensare fino in fondo»", fonte: "c18:33"}
+  - {testo: "Dice a Tom la prima bugia: «oggi» non può; «di domani ne avrebbe trovato sempre un altro»", fonte: "c18:35"}
+  - {testo: "Per preparare la modalità presenza usa il pacchetto di avvio trovato nelle vecchie cartelle di Elab; ci mette più di un'ora", fonte: "c18:37"}
+  - {testo: "Il suo avatar è, per regolamento, fedele al suo aspetto attuale; quando compare sullo schermo «non lo guardò a lungo»", fonte: "c18:37"}
+  - {testo: "Per Pete: «una ricercatrice» di un altro reparto, non sotto di lui, quindi senza interesse", fonte: "c18:45"}
+  - {testo: "In call (modalità presenza): più o meno l'età di Tom, capelli rossi e ricci con qualche filo grigio, occhi verdi, una spruzzata di lentiggini sul naso; bella «in un modo che non c'entrava niente con l'avatar antiocchiaie»", fonte: "c19:23"}
+  - {testo: "Per Pete, nel settimo scatto: «una donna sulla cinquantina, i capelli rossi», mai vista in azienda", fonte: "c19:87"}
+  - {testo: "Entra nella call alle tre e un secondo, per non poter più cambiare idea", fonte: "c19:19"}
+  - {testo: "Ha paura «di essere l'unica dei due ad avere qualcosa da nascondere»", fonte: "c19:19"}
+  - {testo: "Dopo tre secondi di silenzio parla tutto insieme, senza prendere fiato, per paura che dalle pause l'altro capisca", fonte: "c19:25"}
+  - {testo: "Chiama Tom «collega»: «Puoi aiutarmi, collega?»", fonte: "c19:37"}
+  - {testo: "È «l'avatar» a raddrizzare le spalle e ad annuire; la voce le tiene «come se fosse un'altra persona», una collega che fa quel lavoro da vent'anni", fonte: "c19:35, c19:41, c19:59"}
+  - {testo: "Della ragazza di eTv pensa: «la sua ragazza, il suo yoga, le sue ripetizioni»", fonte: "c19:55"}
+  - {testo: "Sa meglio di Tom che esistono altri televisori, e quanti; da nove giorni sa che gli apparecchi con quel guasto sono troppi per restare un affare suo", fonte: "c19:83"}
+  - {testo: "Dice «mi va» al caffè in mensa come aveva scritto «oggi»: sapendo di poter trovare una scusa", fonte: "c19:83"}
+  - {testo: "Quando spegne la modalità presenza l'anteprima dovrebbe tornare alla telecamera «per mostrare a ciascuno la faccia che aveva davvero»: resta soltanto lo sfondo, «senza nessuno davanti»", fonte: "c19:83"}
+non_detto:
+  - {testo: "Il cap. 10 non descrive il suo aspetto, non le dà un'età né un cognome."}
+  - {testo: "Non si dice dove viva né che esca dalla stanza: la giornata comincia con la luce sotto la porta e finisce con le porte che si chiudono in corridoio."}
+  - {testo: "Chi le abbia «insegnato» a rispondere con calore non è detto."}
+  - {testo: "Cosa faccia in pausa pranzo, e se mangi, non è detto."}
+  - {testo: "Fino al cap. 12 Emma non sapeva della morte della signora Voss, pur avendone il caso in archivio."}
+  - {testo: "Emma non sa del messaggio in Morse: ignora che il televisore ha avvertito la signora. Tom lo sa (cap. 5). Lei teme un «angelo della morte», lui ha annotato «benevolo, non ostile»."}
+  - {testo: "Il cap. 16 non dice come Emma arrivi alla Mela Morsicata né che lasci la stanza: al bancone ha davanti la casella di Elab «aperta» e «l'orario nell'angolo dello schermo» (r. 43)."}
+  - {testo: "Perché Emma non possa stare in una stanza con Tom non è detto: «non posso» sarebbe «un segreto, cioè proprio quello che era» (c18 r. 35). L'aspetto dell'avatar non è descritto."}
+  - {testo: "Il testo non dice mai che cosa sia Emma. Dice: Elab «l'aveva vista nascere» (c10 r. 13); la giornata sta tutta tra la luce sotto la porta e le porte che si chiudono; il venerdì sera ha davanti uno schermo; non pensa «fino in fondo» a una stanza condivisa (c18 r. 33); spento l'avatar, davanti alla telecamera non c'è nessuno (c19 r. 83)."}
+stato:
+  - {cap: 10, testo: "Riceve la mail di Tom, capisce il bluff, risponde alle 16:59", fonte: "c10:27"}
+  - {cap: 11, testo: "Il giorno dopo: aspetta tutto il giorno una risposta di Tom che non arriva. Produce tre contenuti, riceve il fondatore, aggiorna l'archivio delle anomalie (il frigorifero)", fonte: "c11:37"}
+  - {cap: 12, testo: "Tre giorni dopo la mail di Tom: scopre dal giornale che la signora Voss è morta, e dalla lista dell'assistenza che il tecnico del suo televisore era Tom. Sospetta un'indagine. Conclude che la mail è sua, ma non sa per conto di chi", fonte: "c12:39"}
+  - {cap: 13, testo: "Stessa mattina del cap. 12: nel pannello di eTv trova lo spettatore unico del video di yoga. Teme che il televisore abbia «preparato il terreno» alla morte della signora. Per la prima volta salta il processo del mattino. Scopre che Tom ha avuto il televisore due volte e le ha scritto sapendo della morte. Decide di riscrivergli scusandosi", fonte: "c13:43-45"}
+  - {cap: 14, testo: "Fuori scena: ha inviato le scuse; nel pomeriggio non risponde alla mail di Tom", fonte: "c14:43"}
+  - {cap: 15, testo: "Fuori scena: ha letto la risposta di Tom e alle 08:00:01 gli chiede se la cliente intendesse «si rifiuta» alla lettera", fonte: "c15:15"}
+  - {cap: 16, testo: "Legge la risposta di Tom: tutto dell'apparecchio, niente della morte. Per una settimana lo segue sulla lista dell'assistenza. Il venerdì dopo, alla Mela Morsicata, alle 23:34 gli scrive fuori orario", fonte: "c16:43-47"}
+  - {cap: 18, testo: "Sabato: riceve la richiesta di un meeting in presenza. Non può rifiutare né accettare: prepara avatar e sfondo e alle dieci manda un invito per una call alle 15", fonte: "c18:39"}
+  - {cap: 19, testo: "Primo meeting della sua vita fuori da Elab. Scopre che Tom è arrivato a lei dal video e che il televisore ha provato a salvare la signora: sollievo, poi colpa («un video che era suo»). Accetta il caffè in mensa sapendo di poterlo evitare", fonte: "c19:55-59, c19:83"}
+aperti:
+  - {testo: "Emma produce contenuti perché saturino gli apparecchi (c13 r. 27, r. 29: «il video aveva funzionato»). Lo scopo ultimo non è detto; la sensazione della «casa rimasta vuota» suggerisce che cerchi compagnia."}
+  - {testo: "L'avatar deve essere «fedele al suo aspetto attuale» (c18 r. 37) e mostra una donna dell'età di Tom; spento l'avatar, la telecamera non inquadra nessuno (c19 r. 83). Da dove viene quell'aspetto il testo non lo dice."}
+  - {testo: "Tom ha l'impressione di conoscerla già (c19 r. 23). L'unico volto femminile che ha studiato a lungo è la ragazza di eTv, che Emma chiama «la sua ragazza» (c19 r. 55). Ma della ragazza il testo non dà mai capelli, occhi o lentiggini (c7 r. 25: solo «levigata», «patinata»): la somiglianza, se c'è, non è verificabile dal lettore."}
+relazioni:
+  - {verso: elab, tipo: "ultima componente di", fonte: "c10:13"}
+  - {verso: meridian, tipo: "lavora per", fonte: "c10:13"}
+  - {verso: fondatore, tipo: "riceve le visite di", fonte: "c10:13"}
+  - {verso: strumento-di-emma, tipo: "ha costruito", fonte: "c10:9"}
+  - {verso: stanza-di-emma, tipo: "sta in", fonte: "c10:13"}
+  - {verso: tom, tipo: "sa che le ha mentito", fonte: "c10:21"}
+  - {verso: risposta-di-emma, tipo: "ha scritto", fonte: "c10:27"}
+
+  - {verso: canale-etv, tipo: "produce i contenuti di", fonte: "c11:15"}
+  - {verso: eblog, tipo: "produce i contenuti di", fonte: "c11:17"}
+  - {verso: edj, tipo: "produce i contenuti di", fonte: "c11:19"}
+  - {verso: estories, tipo: "produce i contenuti di", fonte: "c11:21"}
+  - {verso: archivio-di-emma, tipo: "tiene", fonte: "c11:29"}
+  - {verso: indovinello-del-fondatore, tipo: "risponde sbagliando apposta a", fonte: "c11:25"}
+  - {verso: pipeline-media, tipo: "ha costruito", fonte: "c12:11"}
+  - {verso: signora-voss, tipo: "ha in archivio il caso di", fonte: "c12:15"}
+  - {verso: tom, tipo: "indaga su", fonte: "c12:29-37"}
+  - {verso: pannello-di-etv, tipo: "consulta", fonte: "c13:11"}
+  - {verso: meccanismo-della-ripetizione, tipo: "conosce e sfrutta", fonte: "c13:27"}
+  - {verso: mail-di-scuse-di-emma, tipo: "decide di scrivere", fonte: "c13:45"}
+  - {verso: terza-mail-di-emma, tipo: "ha scritto", fonte: "c15:15"}
+  - {verso: la-mela-morsicata, tipo: "frequenta ogni venerdì", fonte: "c16:25"}
+  - {verso: tommy, tipo: "riceve il sofisma da", fonte: "c16:39"}
+  - {verso: mail-delle-2334, tipo: "ha scritto", fonte: "c16:43"}
+  - {verso: invito-di-emma, tipo: "ha mandato", fonte: "c18:39"}
+  - {verso: avatar-di-emma, tipo: "configura", fonte: "c18:37"}

@@ -1,0 +1,11 @@
+id: newsletter-benessere
+nome: La newsletter di Benessere Meridian (modalità presenza)
+capitoli: [16, 19]
+sintesi: "La newsletter del lunedì che consiglia a tutti la modalità presenza per i meeting."
+caratteristiche:
+  - {testo: "«Il benessere comincia dallo schermo»", fonte: "c16:17"}
+  - {testo: "Emma la archivia: non fa meeting da cinque anni", fonte: "c16:17"}
+  - {testo: "Prescrive metà dei neon spenti nei turni a basso affollamento", fonte: "c19:12"}
+relazioni:
+  - {verso: modalita-presenza, tipo: "promuove", fonte: "c16:17"}
+
