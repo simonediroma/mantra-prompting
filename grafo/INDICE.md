@@ -41,7 +41,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Pete](vista/personaggi/pete.md) — Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come firma in fondo alla comunicazione formale.
 - [Signora Voss](vista/personaggi/signora-voss.md) — Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo stesso video anche dieci volte al giorno; ha filmato il televisore che «si rifiuta» di accendersi.
 - [Tecnico a cui viene riassegnato il caso zero](vista/personaggi/tecnico-turno-b.md) — Collega senza nome (campo «Tecnico: [omesso]») che prende in carico il televisore del primo contatto per il reset diagnostico completo.
-- [Tom](vista/personaggi/tom.md) — Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
+- [Tom](vista/personaggi/tom.md) — Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista: agli apparecchi guasti fa delle domande, e un giorno uno risponde.
 - [«Tommy»](vista/personaggi/tommy.md) — Lo sconosciuto che compare accanto a Emma alla Mela Morsicata e le porge il sofisma della sarda salata.
 
 ## Organizzazioni (6)

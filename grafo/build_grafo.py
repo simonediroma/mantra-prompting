@@ -6,6 +6,7 @@
 Legge  grafo/schede/<tipo>/<id>.yaml  e  grafo/capitoli.yaml
 Scrive grafo/vista/**.md (schede leggibili con link e backlink),
        grafo/INDICE.md, grafo/grafo.json
+Il sito (docs/index.html) si rigenera con build_sito.py, che legge le stesse schede.
 Si ferma con errore se una scheda cita un id inesistente o una riga fuori dal capitolo.
 Avvisa se un capitolo è cambiato di versione dopo l'analisi.
 """

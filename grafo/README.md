@@ -6,6 +6,7 @@ Mappa di tutto ciò che esiste nel romanzo: personaggi, organizzazioni, oggetti,
 
 ## Come si usa
 
+- Da esplorare nel browser: sezione «Grafo» del sito (`docs/index.html`), rigenerata da `build_sito.py` con le stesse schede.
 - Da leggere: [INDICE.md](INDICE.md) → `vista/` (schede con link, backlink e catena degli eventi di ogni scheda; `vista/capitoli/` ha il diagramma della catena per capitolo).
 - Da modificare: solo `schede/<tipo>/<id>.yaml`, poi `python3 grafo/build_grafo.py`.
 - Lo script si ferma se una scheda cita un id inesistente o una riga fuori dal capitolo, e avvisa se un capitolo ha cambiato versione dopo l'analisi (`capitoli.yaml`): quelle schede vanno riverificate.
