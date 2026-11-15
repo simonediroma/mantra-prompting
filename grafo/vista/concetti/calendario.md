@@ -13,12 +13,9 @@ I due punti fermi del testo sono il martedì del secondo contatto (cap. 3) e il 
 - Venerdì successivo: casella vuota «da sei giorni», poi la mail delle 23:34 *(cap. 16 r. 23, cap. 16 r. 47)*
 - A ritroso dal primo venerdì: giovedì il cap. 11, mercoledì il cap. 10, martedì il cap. 9 (e la mail del bluff la sera), lunedì il ricondizionamento e i cap. 6-8 *(cap. 12 r. 17, cap. 13 r. 43)*
 
-## Punti aperti / da verificare
-
-- Il venerdì del cap. 16 (r. 15) fissa i cap. 12-14 di venerdì; a ritroso il cap. 9 è martedì e il ricondizionamento (cap. 6) lunedì. Dal martedì del secondo contatto (c3 r. 17) a un lunedì passano 20 o 27 giorni, non «poco più di tre settimane» (c6 r. 13, c16 r. 11).
-
 ## Osservazioni di lettura (non errori)
 
+- Dal martedì del secondo contatto al lunedì del ricondizionamento passano 20 o 27 giorni; «poco più di tre settimane» (c6 r. 13) è un'indicazione approssimativa, non un conteggio (scelta dell'autore).
 - Tom e Pete lavorano di sabato (cap. 15): la settimana Meridian è di sei giorni. Il testo lo dà per scontato.
 
 ## Catena degli eventi

@@ -44,10 +44,6 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - Dopo il reset software e il riavvio della procedura (c3 r. 19) l'apparecchio risponde ancora: solo l'hard reset finale (c3 r. 35) lo riporta ai valori di fabbrica.
 - «Da allora nessuno l'aveva più acceso» (c6 r. 25) è una convinzione di Tom: il testo non dice come lo sappia.
 
-## Punti aperti / da verificare
-
-- «Pochi giorni dopo … la causale era diventata decesso cliente … Tre settimane più tardi l'apparecchio era tornato sul suo banco» (c14 r. 31): contate dal decesso, le tre settimane non tornano, perché dal reset al ricondizionamento passano in tutto «poco più di tre settimane» (c6 r. 13).
-
 ## Osservazioni di lettura (non errori)
 
 - Il televisore è in attesa di vendita: può finire in un'altra casa. Il testo lo dice senza commentarlo.
