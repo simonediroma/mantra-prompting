@@ -182,7 +182,9 @@ def main():
         "N_PUNTATE": str(len(eps)), "PODCAST": podcast,
         "GRAFO_TITOLO": e(gr["titolo"]), "GRAFO_TESTO": e(gr["testo"]), "SPOILER": e(gr["spoiler"]),
         "GRAFO_APERTI": e(gr["aperti"]), "N_SCHEDE": str(len(nodi)), "N_EVENTI": str(len(eventi)),
-        "N_APERTI": str(tot_aperti), "N_CON_APERTI": str(len(con_aperti)), "N_CAP": str(len(caps)),
+        "N_APERTI": str(tot_aperti),
+        "APERTI_TXT": f"{tot_aperti} punt{'o' if tot_aperti == 1 else 'i'} apert{'o' if tot_aperti == 1 else 'i'}",
+        "CON_APERTI_TXT": f"{len(con_aperti)} sched{'a' if len(con_aperti) == 1 else 'e'}", "N_CON_APERTI": str(len(con_aperti)), "N_CAP": str(len(caps)),
         "CHIP": chip, "OPZIONI_CAP": opz, "PER_CAP": per_cap, "LISTA_APERTI": lista_aperti,
         "PARTENZE": partenze, "SCHEDE": tutte, "DATI": dati,
     }
