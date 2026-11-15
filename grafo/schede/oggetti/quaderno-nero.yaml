@@ -22,10 +22,10 @@ caratteristiche:
   - {testo: "Ha colonne; «non rispondeva»: è l'unico a cui Tom ha mostrato ciò che ha visto", fonte: "c14:27, c14:43"}
   - {testo: "La sera del cap. 14 Tom lo apre e lo richiude senza scrivere: solo guasti veri", fonte: "c14:45"}
   - {testo: "La riga sull'eWatch della signora, scritta la sera del ricondizionamento, era «un dato come il numero di serie, niente di più»: è da lì che nasce l'ipotesi", fonte: "c15:27"}
-aperti:
-  - {testo: "A fine cap. 3 Tom chiude il quaderno e spegne la lampada (c3 r. 39); il cap. 4 dice che «poco dopo» aver trascritto il numero era alla scrivania con il quaderno aperto a provare la scusa (c4 r. 9). L'ordine della serata va sistemato in uno dei due capitoli."}
 relazioni:
   - {verso: fornitore-del-quaderno, tipo: "regalato da", fonte: "c3:13"}
   - {verso: tv-caso-zero, tipo: "registra (voce 1)", fonte: "c3:15"}
   - {verso: tv-secondo-contatto, tipo: "registra (voce 5)", fonte: "c3:37"}
 
+note:
+  - {testo: "A fine cap. 3 Tom chiude il quaderno e spegne la lampada (c3 r. 39); il cap. 4 dice che «poco dopo» aver trascritto il numero era alla scrivania con il quaderno aperto a provare la scusa (c4 r. 9). L'ordine della serata va sistemato in uno dei due capitoli."}

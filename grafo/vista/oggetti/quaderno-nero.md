@@ -27,7 +27,7 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 - La sera del cap. 14 Tom lo apre e lo richiude senza scrivere: solo guasti veri *(cap. 14 r. 45)*
 - La riga sull'eWatch della signora, scritta la sera del ricondizionamento, era «un dato come il numero di serie, niente di più»: è da lì che nasce l'ipotesi *(cap. 15 r. 27)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - A fine cap. 3 Tom chiude il quaderno e spegne la lampada (c3 r. 39); il cap. 4 dice che «poco dopo» aver trascritto il numero era alla scrivania con il quaderno aperto a provare la scusa (c4 r. 9). L'ordine della serata va sistemato in uno dei due capitoli.
 

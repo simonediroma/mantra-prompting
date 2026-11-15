@@ -12,7 +12,7 @@ I tre reset nominati nei cap. 1-3. Vanno tenuti distinti.
 - Confermato: l'hard reset cancella ciò che rispondeva; interrogare dopo è «come fare domande a un disco appena formattato» *(cap. 6 r. 25)*
 - Anche il frigorifero anomalo viene «riconsegnato dopo hard reset» *(cap. 11 r. 31)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Sul caso zero Tom esegue due volte la procedura standard, che comprende un reset software, e il televisore parla lo stesso (c1 r. 23); poi teme che «un reset qualunque» cancelli tutto (c1 r. 97). Conviene precisare che teme l'hard reset, l'unico che cancella (c6 r. 25).
 

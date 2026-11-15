@@ -12,10 +12,7 @@ Il registro di sistema del caso zero. Tom lo apre DOPO la conversazione: è tron
 - La data dell'ultima riga è anteriore all'arrivo sul banco: il log era già interrotto quando il cliente ha consegnato l'apparecchio. Non è stata la conversazione con Tom a interromperlo *(cap. 1 r. 93)*
 - A Tom la riga pare identica («fino alla spaziatura») a una vista mesi prima su un altro apparecchio, in un altro contesto *(cap. 1 r. 87)*
 - Nel cap. 2 è «un log che si era interrotto in un modo in cui nessun log dovrebbe interrompersi» *(cap. 2 r. 17)*
-
-## Punti aperti / da verificare
-
-- La riga «compacting context» gli pare vista «una volta, mesi prima, su un altro apparecchio, in un altro contesto» (c1 r. 87); due righe dopo l'ha vista «decine di volte» sul giradischi (c1 r. 91). Le due frasi si contraddicono: una volta o decine, un altro apparecchio o il suo giradischi.
+- Due contesti diversi: su un log Meridian Tom aveva visto quella riga una volta sola, mesi prima; il significato lo conosce dal suo giradischi, dove compare decine di volte *(cap. 1 r. 87-91)*
 
 ## Relazioni
 

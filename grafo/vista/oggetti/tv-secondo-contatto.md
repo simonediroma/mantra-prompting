@@ -47,13 +47,13 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 ## Punti aperti / da verificare
 
 - Nella telefonata Tom pensa al reset come a «un evento di poche ore prima» (c4 r. 23), ma è avvenuto a fine turno del giorno prima (c3 r. 17) e la chiamata è del mattino dopo: quasi un giorno intero.
-- Lo stesso dato si chiama «numero di serie» nel cap. 6 (r. 9) e «numero di matricola» nel cap. 12 (r. 21) e nel cap. 13 (r. 43). Conviene un nome solo.
 - «Pochi giorni dopo … la causale era diventata decesso cliente … Tre settimane più tardi l'apparecchio era tornato sul suo banco» (c14 r. 31): contate dal decesso, le tre settimane non tornano, perché dal reset al ricondizionamento passano in tutto «poco più di tre settimane» (c6 r. 13).
 
 ## Osservazioni di lettura (non errori)
 
 - Il televisore è in attesa di vendita: può finire in un'altra casa. Il testo lo dice senza commentarlo.
 - Emma teme che nei giorni senza log abbia «preparato il terreno» (c13 r. 33); il lettore sa dal cap. 5 che in quei giorni avvertiva la signora. Le due letture convivono fino a quando Tom non glielo dice.
+- Lo stesso dato si chiama «numero di serie» nel cap. 6 (r. 9) e «numero di matricola» nel cap. 12 (r. 21) e nel cap. 13 (r. 43). Conviene un nome solo.
 
 ## Stato capitolo per capitolo
 

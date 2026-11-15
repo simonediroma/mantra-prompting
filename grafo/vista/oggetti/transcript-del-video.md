@@ -10,7 +10,7 @@ Il documento in cui Tom trascrive parola per parola tutto ciò che la ragazza di
 - Incollato per intero in Undetectable AI, ZeroGPT e Hive: due su tre lo danno per generato, il terzo resta sul reale «ma di poco» *(cap. 9 r. 19)*
 - Le frasi d'apertura, ribattute a memoria, sono la chiave di ricerca nell'archivio interno *(cap. 9 r. 27)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - In un'ora prima di uscire (c9 r. 9-21) Tom carica il video, attende il verdetto, trascrive a mano tutto il parlato di quindici minuti e interroga tre servizi. La sola trascrizione parola per parola di quindici minuti richiede di norma più di un'ora: i tempi sono stretti.
 
