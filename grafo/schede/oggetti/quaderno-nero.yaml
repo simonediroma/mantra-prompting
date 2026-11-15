@@ -22,6 +22,7 @@ caratteristiche:
   - {testo: "Ha colonne; «non rispondeva»: è l'unico a cui Tom ha mostrato ciò che ha visto", fonte: "c14:27, c14:43"}
   - {testo: "La sera del cap. 14 Tom lo apre e lo richiude senza scrivere: solo guasti veri", fonte: "c14:45"}
   - {testo: "La riga sull'eWatch della signora, scritta la sera del ricondizionamento, era «un dato come il numero di serie, niente di più»: è da lì che nasce l'ipotesi", fonte: "c15:27"}
+  - {testo: "È la certezza di Tom: «l'unica cosa che, nelle sere in cui il primo contatto gli sembrava troppo strano per essere vero, gli diceva che non se l'era inventato». Perderlo a un controllo al varco vorrebbe dire perdere quella certezza", fonte: "c3:13"}
 relazioni:
   - {verso: fornitore-del-quaderno, tipo: "regalato da", fonte: "c3:13"}
   - {verso: tv-caso-zero, tipo: "registra (voce 1)", fonte: "c3:15"}

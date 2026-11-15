@@ -9,14 +9,11 @@ Il foglio su cui Tom trascrive a mano il primo messaggio. Finisce nel cassetto d
 - Scritto a penna, in stampatello un po' storto *(cap. 1 r. 37, cap. 1 r. 95)*
 - Piegato in quattro *(cap. 2 r. 41)*
 - «La sola prova al mondo, ormai, che qualcosa fosse davvero successo in quella stanza» *(cap. 2 r. 41)*
+- Nel cap. 2 è «la sola prova al mondo, ormai» di ciò che è successo in quella stanza; dal cap. 3 a dare a Tom la certezza di non essersi inventato tutto è il quaderno *(cap. 2 r. 41, cap. 3 r. 13)*
 
 ## Cosa NON dice il testo
 
 - Il cap. 3 non lo nomina: per quanto ne sa il testo è ancora nel cassetto, in laboratorio.
-
-## Punti aperti / da verificare
-
-- Il foglio è «la sola prova al mondo, ormai» (c2 r. 41); nel cap. 3 lo diventa il quaderno («l'unica prova al mondo di ciò che aveva visto», c3 r. 13), mentre il foglio è ancora nel cassetto del laboratorio. Una delle due «uniche prove» va ridimensionata.
 
 ## Stato capitolo per capitolo
 

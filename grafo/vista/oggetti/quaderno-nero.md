@@ -26,6 +26,7 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 - Ha colonne; «non rispondeva»: è l'unico a cui Tom ha mostrato ciò che ha visto *(cap. 14 r. 27, cap. 14 r. 43)*
 - La sera del cap. 14 Tom lo apre e lo richiude senza scrivere: solo guasti veri *(cap. 14 r. 45)*
 - La riga sull'eWatch della signora, scritta la sera del ricondizionamento, era «un dato come il numero di serie, niente di più»: è da lì che nasce l'ipotesi *(cap. 15 r. 27)*
+- È la certezza di Tom: «l'unica cosa che, nelle sere in cui il primo contatto gli sembrava troppo strano per essere vero, gli diceva che non se l'era inventato». Perderlo a un controllo al varco vorrebbe dire perdere quella certezza *(cap. 3 r. 13)*
 
 ## Osservazioni di lettura (non errori)
 
