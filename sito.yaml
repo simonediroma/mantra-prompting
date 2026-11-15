@@ -14,10 +14,10 @@ libro:
     - "Ha un'abitudine che nessun manuale gli ha insegnato: agli apparecchi guasti fa delle domande. Non si aspetta mai una risposta. Finché un televisore, un pomeriggio, non gli risponde con il LED di accensione, in codice Morse."
     - "Da lì comincia un'indagine fatta di quaderni tenuti a casa, telefonate sotto copertura e mail scritte un aggettivo alla volta, in un'azienda dove ogni clic ha un proprietario. Tra X-Files e l'ironia di Douglas Adams."
   download:
-    sorgente: "Mantra_Prompting_Kindle_Capitoli_1-13.pdf"   # file nel repository
-    pubblicato: "download/mantra-prompting-capitoli-1-13.pdf"  # dove finisce in docs/
-    etichetta: "Scarica i capitoli 1–13 (PDF)"
-    nota: "Formato Kindle. Il libro è in corso: i capitoli successivi si possono ascoltare nel podcast."
+    sorgente: "Mantra_Prompting_Capitoli_1-19.pdf"   # generato da export_libro.py
+    pubblicato: "download/mantra-prompting-capitoli-1-19.pdf"  # dove finisce in docs/
+    etichetta: "Scarica il libro (PDF, capitoli 1–19)"
+    nota: "Formato A5, lo stesso pronto per la stampa su Amazon KDP."
 
 personaggi:
   - id: tom
