@@ -6,13 +6,12 @@ caratteristiche:
   - {testo: "Scritto a penna, in stampatello un po' storto", fonte: "c1:37, c1:95"}
   - {testo: "Piegato in quattro", fonte: "c2:41"}
   - {testo: "«La sola prova al mondo, ormai, che qualcosa fosse davvero successo in quella stanza»", fonte: "c2:41"}
+  - {testo: "Nel cap. 2 è «la sola prova al mondo, ormai» di ciò che è successo in quella stanza; dal cap. 3 a dare a Tom la certezza di non essersi inventato tutto è il quaderno", fonte: "c2:41, c3:13"}
 stato:
   - {cap: 1, testo: "Sul banco, davanti a Tom", fonte: "c1:95"}
   - {cap: 2, testo: "Nel cassetto della scrivania del laboratorio, sotto vecchi manuali tecnici e procedurali", fonte: "c2:43"}
 non_detto:
   - {testo: "Il cap. 3 non lo nomina: per quanto ne sa il testo è ancora nel cassetto, in laboratorio."}
-aperti:
-  - {testo: "Il foglio è «la sola prova al mondo, ormai» (c2 r. 41); nel cap. 3 lo diventa il quaderno («l'unica prova al mondo di ciò che aveva visto», c3 r. 13), mentre il foglio è ancora nel cassetto del laboratorio. Una delle due «uniche prove» va ridimensionata."}
 relazioni:
   - {verso: cassetto-della-scrivania, tipo: "conservato in", fonte: "c2:43"}
   - {verso: tv-caso-zero, tipo: "trascrive il messaggio di", fonte: "c1:39"}

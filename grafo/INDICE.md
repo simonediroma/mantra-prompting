@@ -6,7 +6,7 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 
 - [Cap. 1 — Primo contatto](vista/capitoli/01.md) (v3.6)
 - [Cap. 2 — Stallo burocratico](vista/capitoli/02.md) (v3.6)
-- [Cap. 3 — Secondo contatto](vista/capitoli/03.md) (v3.8)
+- [Cap. 3 — Secondo contatto](vista/capitoli/03.md) (v3.9)
 - [Cap. 4 — La chiamata alla signora](vista/capitoli/04.md) (v3.6)
 - [Cap. 5 — L'avvertimento](vista/capitoli/05.md) (v3.7)
 - [Cap. 6 — Il ricondizionamento](vista/capitoli/06.md) (v4.6)
@@ -290,10 +290,9 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Emma resta sola - lo sfondo senza nessuno davanti](vista/eventi/e19-07.md) — La paura dell'ultimo cartello è quella di chi vede contare da altri la propria colonna. Emma spegne la modalità presenza: nell'anteprima resta la parete con il logo, vuota.
 - [Alle quattro Pete legge la trascrizione e ingrandisce il settimo scatto - «Inizia la caccia»](vista/eventi/e19-08.md) — Zero minuti in Tabella: una consulenza pulita. Nel settimo scatto una donna mai vista, il vecchio logo (non affar suo) e un pennarello rotolato lontano dalle mani. Tom ha nascosto qualcosa con il corpo: secondo mattone.
 
-## Punti aperti (6)
+## Punti aperti (5)
 
 - [Pete](vista/personaggi/pete.md): Per Pete la morte «stava nel registro dal giorno del ricondizionamento» (c18 r. 47); nel registro il decesso è annotato prima, pochi giorni dopo il rifiuto del ritiro (c6 r. 21). Pete, che «le date le guardava sempre prima delle parole», vedrebbe la data giusta.
-- [Foglio «IO / SONO / QUI»](vista/oggetti/foglio-io-sono-qui.md): Il foglio è «la sola prova al mondo, ormai» (c2 r. 41); nel cap. 3 lo diventa il quaderno («l'unica prova al mondo di ciò che aveva visto», c3 r. 13), mentre il foglio è ancora nel cassetto del laboratorio. Una delle due «uniche prove» va ridimensionata.
 - [Televisore del secondo contatto](vista/oggetti/tv-secondo-contatto.md): Nella telefonata Tom pensa al reset come a «un evento di poche ore prima» (c4 r. 23), ma è avvenuto a fine turno del giorno prima (c3 r. 17) e la chiamata è del mattino dopo: quasi un giorno intero.
 - [Televisore del secondo contatto](vista/oggetti/tv-secondo-contatto.md): «Pochi giorni dopo … la causale era diventata decesso cliente … Tre settimane più tardi l'apparecchio era tornato sul suo banco» (c14 r. 31): contate dal decesso, le tre settimane non tornano, perché dal reset al ricondizionamento passano in tutto «poco più di tre settimane» (c6 r. 13).
 - [I quindici minuti di anticipo](vista/concetti/anticipo-di-quindici-minuti.md): «Intoccabili come ogni mattina» (c9 r. 9), ma nelle due mattine dei cap. 4 e 5 Tom li ha spesi per telefonare alla signora Voss, arrivando una volta in ritardo (c5 r. 9). Il «come ogni mattina» va attenuato, o letto come proposito nato da quel ritardo.
