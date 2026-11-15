@@ -14,11 +14,11 @@
     "seconds": 568
   },
   "episode-03": {
-    "length": 7079885,
-    "md5": "de0734ef8951",
+    "length": 7225021,
+    "md5": "ab189a6c4a58",
     "pub": 1792745795,
-    "rev": 1,
-    "seconds": 589
+    "rev": 2,
+    "seconds": 602
   },
   "episode-04": {
     "length": 6709372,
@@ -116,11 +116,11 @@
     "seconds": 758
   },
   "episode-18": {
-    "length": 12667172,
-    "md5": "244f060362ae",
+    "length": 12604792,
+    "md5": "a36fa6693ef7",
     "pub": 1794606106,
-    "rev": 1,
-    "seconds": 1055
+    "rev": 2,
+    "seconds": 1050
   },
   "episode-19": {
     "length": 15755459,
