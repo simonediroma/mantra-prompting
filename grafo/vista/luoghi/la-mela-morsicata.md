@@ -21,7 +21,7 @@ Il noodle bar dove Emma passa ogni venerdì sera. Un bancone senza fine, nessuno
 - Il testo non dice se sia un luogo fisico o in rete. Indizi per la seconda: bancone infinito, «ping», «quittare alla seconda iterazione», «figure», l'ambiente fatto solo di ciò che la gente dice, il cameriere che parla «da qualche parte», la casella di posta e l'orologio «nell'angolo dello schermo» davanti a Emma.
 - Cosa dicano i due ideogrammi e in che città sia: non detto.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Tre giochi dell'imitazione nel libro: il «test di Turing improvvisato» di Tom con gli apparecchi (c1 r. 29), le domande-trappola tra Tom ed Emma per mail, e questo posto dedicato, di fatto, a Turing.
 

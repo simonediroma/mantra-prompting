@@ -22,7 +22,7 @@ In Meridian contano l'ora e il luogo da cui parte una mail. Emma e Tom le usano 
 - Quando il sottoposto apre una mail e risponde, al supervisore si apre l'intero thread, dalla prima mail all'ultima *(cap. 18 r. 43)*
 - Un invito in calendario si può accettare senza scrivere una parola *(cap. 18 r. 39)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - L'avviso per una mail fuori orario va al supervisore di chi la RICEVE (c16 r. 45): Emma, scrivendo alle 23:34, espone Tom, non se stessa.
 - Se ogni mail verso un indirizzo nuovo compare nel riepilogo e ogni thread di un sottoposto è leggibile, la prudenza di Tom sull'ora d'invio (cap. 14) lo protegge dall'infrazione ma non dalla lettura: lo capisce solo nel cap. 17 (r. 20).

@@ -9,10 +9,6 @@ Dai quarantuno anni Tom non mangia a mezzogiorno. Per lui la pausa pranzo è un'
 - Cominciato per una scommessa con se stesso, poi abitudine, ormai «un fatto, come l'altezza o il gruppo sanguigno» *(cap. 14 r. 35)*
 - L'ora di pausa la riempie di solito con un manuale o con il niente *(cap. 14 r. 35)*
 
-## Punti aperti / da verificare
-
-- Nel cap. 5 Tom rimanda il video perché «aveva fame» e «prima veniva la cena» (r. 15): coerente con il digiuno a pranzo.
-
 ## Relazioni
 
 - → lo tiene lontano dalla [La mensa](../luoghi/mensa.md) *(cap. 14 r. 35)*

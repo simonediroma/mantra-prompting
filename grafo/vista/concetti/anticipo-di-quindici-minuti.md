@@ -19,7 +19,7 @@ Tom arriva sempre in azienda un quarto d'ora prima del turno. Nel cap. 4 li spen
 
 ## Punti aperti / da verificare
 
-- «Intoccabili» (c9 r. 9), ma nei cap. 4 e 5 Tom li ha spesi entrambe le mattine per telefonare alla signora Voss: la regola nasce dopo quel ritardo, o è una svista?
+- «Intoccabili come ogni mattina» (c9 r. 9), ma nelle due mattine dei cap. 4 e 5 Tom li ha spesi per telefonare alla signora Voss, arrivando una volta in ritardo (c5 r. 9). Il «come ogni mattina» va attenuato, o letto come proposito nato da quel ritardo.
 
 ## Relazioni
 

@@ -6,7 +6,7 @@ caratteristiche:
   - {testo: "«Cri-cri»; non si ferma mai davanti alla sua porta", fonte: "c13:35"}
   - {testo: "Passa di nuovo alle dieci («cri-cri») mentre Emma manda l'invito", fonte: "c18:39"}
   - {testo: "Alle «persone più importanti dell'azienda» lo snack arriva con il carrello: è ciò che Pete sogna", fonte: "c18:41"}
-aperti:
+note:
   - {testo: "Fa lo stesso suono («cri-cri») del carrello del ricondizionamento che entra da Tom (c6 r. 9)."}
 relazioni:
   - {verso: stanza-di-emma, tipo: "passa davanti a", fonte: "c13:35"}

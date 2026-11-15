@@ -14,7 +14,7 @@ caratteristiche:
 non_detto:
   - {testo: "Che fine facciano i cinque fogli non è detto. Pete non sa cosa ci sia scritto né dove siano."}
   - {testo: "Tom non dice a Emma il contenuto del messaggio Morse, né della telefonata, né del quaderno."}
-aperti:
+note:
   - {testo: "Ritorno del foglio: nel cap. 1 Tom trascrive a penna IO / SONO / QUI; qui è lui a scrivere a stampatello messaggi brevi a qualcuno dall'altra parte di uno schermo."}
   - {testo: "Tom scrive «A VOI»: pensa a un laboratorio, non a una persona sola."}
 relazioni:

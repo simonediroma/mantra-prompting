@@ -17,7 +17,7 @@ L'indirizzo che l'archivio interno indica come contatto del contenuto corrispond
 
 ## Punti aperti / da verificare
 
-- Il contatto è stato scritto dal sistema «anni prima» (c10 r. 23), ma l'etichettatura dell'archivio risale a «un paio d'anni prima» (c9 r. 25) e il video a 6 mesi fa (c9 r. 32).
+- «Quel contatto l'aveva scritto il sistema, anni prima» (c10 r. 23): ma il contatto è quello associato al video, generato 6 mesi prima (c9 r. 32), e l'archivio etichetta i contenuti da «un paio d'anni» (c9 r. 25). Se Emma intende che l'indirizzo di Elab è stato impostato anni fa come contatto predefinito, conviene dirlo.
 
 ## Relazioni
 

@@ -16,7 +16,7 @@ Il post social, sotto il nome della signora Voss, da cui Tom apprende la causa d
 
 - Quale social e la data del post non sono indicati.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Due foto della signora nel salotto con televisore ed eWatch: quella del post del fratello (c6 r. 31, in piedi, televisore spento) e quella dell'articolo (c12 r. 13, sorridente, tappetino arrotolato). Stessa foto o due diverse? Nella prima il tappetino non è nominato.
 

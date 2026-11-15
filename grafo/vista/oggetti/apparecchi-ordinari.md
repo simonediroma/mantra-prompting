@@ -14,7 +14,7 @@ I guasti veri che passano sul banco di Tom nel giorno delle scuse: a ognuno fa l
 - Emma li rilegge sulla lista: l'altoparlante parlava portoghese «in una casa dove nessuno sapeva effettivamente dove si trovasse il Portogallo» *(cap. 16 r. 19)*
 - Sabato: un frullatore a immersione che «frullava solo quando voleva lui» *(cap. 18 r. 51)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Aspirapolvere che «sospira», microonde che si accende da solo, altoparlante che cambia lingua: comportamenti che sembrano anomali e hanno tutti una causa banale. Tom rimontava un motore di aspirapolvere anche nel cap. 5 (r. 13).
 

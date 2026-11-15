@@ -11,7 +11,7 @@ La bilancia pesapersone che Tom ripara mentre decide cosa rispondere a Emma.
 - Causa: una crepa sottile nella saldatura del filo di una cella di carico, che si apre e si chiude con calore e vibrazioni *(cap. 18 r. 23)*
 - Al collaudo, con Tom sopra: «Bentornata, Marisa! Oggi sei a settantotto chili. Ottimo lavoro!» Tom non la corregge *(cap. 18 r. 25)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Un apparecchio che «parla» a qualcuno che non c'è e riconosce la persona sbagliata, il giorno in cui Tom sta per parlare con Emma: il testo non commenta.
 

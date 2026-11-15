@@ -7,7 +7,7 @@ caratteristiche:
   - {testo: "Incollato per intero in Undetectable AI, ZeroGPT e Hive: due su tre lo danno per generato, il terzo resta sul reale «ma di poco»", fonte: "c9:19"}
   - {testo: "Le frasi d'apertura, ribattute a memoria, sono la chiave di ricerca nell'archivio interno", fonte: "c9:27"}
 aperti:
-  - {testo: "Tempi: alzandosi un'ora prima Tom carica il video, aspetta il verdetto, trascrive a mano quindici minuti di parlato e interroga tre servizi prima di uscire in orario. Trascrivere quindici minuti di parlato richiede di norma più di un'ora."}
+  - {testo: "In un'ora prima di uscire (c9 r. 9-21) Tom carica il video, attende il verdetto, trascrive a mano tutto il parlato di quindici minuti e interroga tre servizi. La sola trascrizione parola per parola di quindici minuti richiede di norma più di un'ora: i tempi sono stretti."}
 relazioni:
   - {verso: rilevatori-ia, tipo: "analizzato da", fonte: "c9:19"}
 

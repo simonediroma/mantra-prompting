@@ -18,7 +18,7 @@ Ciò che Emma sa da sempre: un apparecchio che riceve lo stesso contenuto abbast
 - Il testo non collega esplicitamente questo meccanismo alla riga «compacting context» dei log (cap. 1): il legame è lasciato al lettore.
 - Il meccanismo non ha ancora un nome nel testo.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Il video è stato visto da decine di migliaia di persone senza effetti (c13 r. 37): serve la ripetizione sullo stesso apparecchio. Quante ripetizioni bastino non è detto; nel caso Voss, settimane a dieci al giorno e poi una salita fino a trenta.
 - Chi fa salire le riproduzioni da dieci a trenta al giorno negli ultimi giorni: la signora, o il televisore stesso? Il testo dà solo la curva.

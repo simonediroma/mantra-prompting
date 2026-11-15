@@ -12,10 +12,6 @@ Il pannello di controllo del canale, con le statistiche per video e per spettato
 - La riga dello spettatore arriva fino a oggi con più di tre settimane di zeri; Emma taglia il periodo al giorno dopo l'ultima riproduzione *(cap. 13 r. 13)*
 - Lo spettatore è così lontano dal secondo che il grafico schiaccia tutti gli altri in una riga piatta *(cap. 13 r. 13)*
 
-## Punti aperti / da verificare
-
-- «Più di tre settimane di zeri» (c13 r. 13): tra l'ultima riproduzione e il cap. 13 ci sono i giorni tra telefonata e laboratorio, le tre settimane e più fino al ricondizionamento, e altri quattro giorni. Sono più vicine a quattro-cinque settimane.
-
 ## Relazioni
 
 - → pannello di [Il canale eTv](../oggetti/canale-etv.md) *(cap. 12 r. 39)*

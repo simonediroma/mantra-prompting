@@ -14,7 +14,7 @@ I tre reset nominati nei cap. 1-3. Vanno tenuti distinti.
 
 ## Punti aperti / da verificare
 
-- Sul caso zero Tom fa due volte la procedura (che include il reset software) e l'apparecchio parla comunque; nel cap. 1 r. 97 teme però che «un reset qualunque» cancelli tutto. Da tenere coerente: quale reset cancella cosa.
+- Sul caso zero Tom esegue due volte la procedura standard, che comprende un reset software, e il televisore parla lo stesso (c1 r. 23); poi teme che «un reset qualunque» cancelli tutto (c1 r. 97). Conviene precisare che teme l'hard reset, l'unico che cancella (c6 r. 25).
 
 ## Catena degli eventi
 

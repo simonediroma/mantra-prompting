@@ -12,7 +12,7 @@ Ciò che arriva a Pete alle quattro: nove minuti di consulenza tecnica, «pulita
 - In Tabella: nessuna riga, zero minuti *(cap. 19 r. 85)*
 - Si chiude con: «Il resto, se ti va, ne parliamo davanti a un caffè in mensa.» «Mi va.» «Chiudo il verbale.» *(cap. 19 r. 75-81)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Prima che Tom dica «per la trascrizione», Emma ha già parlato a lungo: la mail delle undici e mezza di notte, la signora morta, la paura, «se qualcuno, prima di Tom, avesse visto qualcosa» (c19 r. 25). Anche questo è trascritto, ma nel riassunto di Pete (r. 85) non compare e la trascrizione gli risulta «pulita».
 - Il «caffè in mensa» è nel verbale: Pete sa dove e come i due intendono rivedersi.

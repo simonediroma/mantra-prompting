@@ -15,7 +15,7 @@ La telecamera sopra la porta del laboratorio di Tom. I supervisori ne vedono un'
 - È orientabile dal pannello con due frecce: il motore fa «zzz». In dodici anni in quella stanza Tom non l'aveva mai sentito *(cap. 19 r. 43-45)*
 - Abbagliata dal LED diventa bianca; poi rimette da sola il filtro («clic») e torna a vedere a colori *(cap. 19 r. 51, cap. 19 r. 71-73)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Se c'era già ai tempi dei cap. 1 e 3, ha ripreso Tom che parla ai televisori e il LED che lampeggia in Morse: quei video sarebbero accessibili agli ispettori interni.
 - La telecamera riprende anche l'audio? La trascrizione viene dal meeting, non dalla telecamera; delle frasi che Tom dice ad alta voce nella stanza il testo non dice se restino registrate.

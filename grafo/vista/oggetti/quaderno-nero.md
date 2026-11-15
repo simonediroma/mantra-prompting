@@ -29,10 +29,7 @@ L'archivio privato di Tom: un quaderno tenuto solo a casa, dove ogni sera regist
 
 ## Punti aperti / da verificare
 
-- Conteggio: «solo quattro volte in tutto» in tre mesi (c3 r. 15) comprende il caso zero + tre guasti banali; il secondo televisore è la quinta voce (c3 r. 37). Torna, ma il «quattro in tre mesi» include il caso zero, che sta all'inizio dei tre mesi.
-- A fine cap. 3 Tom chiude il quaderno e spegne la lampada (c3 r. 39); il cap. 4 dice che «poco dopo» era alla scrivania col quaderno aperto a provare la scusa (c4 r. 9). Le due sere vanno lette come una sola sequenza: prima la scusa, poi la chiusura? Il testo le mette in ordine inverso.
-- L'annotazione del cap. 4 (r. 49) è fatta di mattina, in cucina, durante la telefonata: unica volta in cui il quaderno viene scritto non di sera e non alla scrivania.
-- Il numero di serie (c6 r. 9) non compare tra i campi elencati nel cap. 3 (modello, orario, messaggio, pattern, dati cliente).
+- A fine cap. 3 Tom chiude il quaderno e spegne la lampada (c3 r. 39); il cap. 4 dice che «poco dopo» aver trascritto il numero era alla scrivania con il quaderno aperto a provare la scusa (c4 r. 9). L'ordine della serata va sistemato in uno dei due capitoli.
 
 ## Relazioni
 

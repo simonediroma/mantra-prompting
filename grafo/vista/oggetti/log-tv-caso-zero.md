@@ -15,7 +15,7 @@ Il registro di sistema del caso zero. Tom lo apre DOPO la conversazione: è tron
 
 ## Punti aperti / da verificare
 
-- L'«altro apparecchio, mesi prima» (c1 r. 87) non è identificato. Subito dopo il testo dice che Tom ha visto la riga «decine di volte» sul giradischi (c1 r. 91): sono due ricordi diversi o lo stesso? Da chiarire.
+- La riga «compacting context» gli pare vista «una volta, mesi prima, su un altro apparecchio, in un altro contesto» (c1 r. 87); due righe dopo l'ha vista «decine di volte» sul giradischi (c1 r. 91). Le due frasi si contraddicono: una volta o decine, un altro apparecchio o il suo giradischi.
 
 ## Relazioni
 

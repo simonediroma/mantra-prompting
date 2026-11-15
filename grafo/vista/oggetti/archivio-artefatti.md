@@ -17,7 +17,7 @@ Lo strumento Meridian che etichetta e indicizza ogni contenuto prodotto dai mode
 - Per Emma è l'unico posto che può aver messo il nome Elab davanti a un tecnico: tutto ciò che esce da un modello Meridian vi finisce indicizzato con un contatto *(cap. 10 r. 23)*
 - Per rimuovere un contatto senza traccia servono le credenziali di un reparto *(cap. 10 r. 23)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - La descrizione dice che ogni contenuto è etichettato con «reparto» (c9 r. 25), ma nel risultato il campo reparto non c'è (r. 31-35).
 - La ricerca di Tom resta comunque tracciata («ogni clic aveva un proprietario»): ha evitato file e link, non la ricerca stessa.

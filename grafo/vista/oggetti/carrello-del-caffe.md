@@ -10,7 +10,7 @@ Passa in corridoio alle dieci e davanti alla porta di Emma non si ferma mai.
 - Passa di nuovo alle dieci («cri-cri») mentre Emma manda l'invito *(cap. 18 r. 39)*
 - Alle «persone più importanti dell'azienda» lo snack arriva con il carrello: è ciò che Pete sogna *(cap. 18 r. 41)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Fa lo stesso suono («cri-cri») del carrello del ricondizionamento che entra da Tom (c6 r. 9).
 

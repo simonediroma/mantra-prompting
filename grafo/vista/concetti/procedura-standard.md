@@ -10,10 +10,6 @@ La sequenza di diagnosi che Meridian impone entro tempi prestabiliti.
 - Cap. 3: alimentazione, condensatori, verifica di conformità, reset software, un riavvio *(cap. 3 r. 19)*
 - Nel cap. 1 Tom la esegue due volte; nel cap. 3 una volta, in 7:12 *(cap. 1 r. 23, cap. 3 r. 19)*
 
-## Punti aperti / da verificare
-
-- Nel cap. 3 Tom apre il log («Aprì anche il log») come passo in più: l'apertura del log non fa parte dell'elenco della procedura in nessuno dei due capitoli.
-
 ## Relazioni
 
 - → comprende [Verifica di conformità](../termini/verifica-di-conformita.md) *(cap. 1 r. 23)*

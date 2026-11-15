@@ -11,7 +11,7 @@ Il vinile che Tom mette per concentrarsi la sera in cui cerca il video.
 - Terza traccia mentre Tom scorre il canale; il lato A finisce senza che se ne accorga («crr crr» a vuoto) *(cap. 8 r. 9, cap. 8 r. 21)*
 - Tom gira il disco e lascia partire «Il video sono io», poi spegne *(cap. 8 r. 21)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Tom gira il disco, fa partire «Il video sono io» «poi spense il giradischi»: il titolo della canzone è l'ultima parola del capitolo sul tema del video generato. Voluto: da non perdere in revisione.
 

@@ -18,7 +18,7 @@ Un frigorifero Meridian con chip IA che si rifiuta di superare i cinque gradi. T
 - Chi lo abbia riparato e resettato non è detto. Non si parla di LED né di Morse.
 - Che l'utente delle pageview sia la cliente del frigorifero è l'accostamento di Emma; il testo non lo afferma.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Come «rifiuto» somiglia al televisore Voss («si rifiuta», log mancanti, contenuto ripetuto). Se anche qui il rifiuto sia protettivo (cinque gradi, conservazione) il testo non lo dice.
 

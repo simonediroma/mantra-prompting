@@ -12,7 +12,7 @@ Le sette fotografie che Pete può fare durante il meeting: una sprecata, una uti
 - 7: Tom di spalle, felpa grigia, piegato verso sinistra come a cercare qualcosa sotto il banco; sullo schermo una donna sulla cinquantina con i capelli rossi e il vecchio logo; il pennarello rotolato al bordo del banco *(cap. 19 r. 73, cap. 19 r. 87-89)*
 - Il settimo è «il secondo mattone»; salvato in una cartella chiamata «Doppia» *(cap. 19 r. 93)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Nel settimo scatto Tom è «piegato verso sinistra, come se stesse cercando qualcosa sotto il banco» (c19 r. 87): è la mano sull'interruttore del LED. Pete non lo collega, per ora, ai quattro scatti bianchi, che attribuisce a un guasto provocato da lui.
 - Il settimo scatto contiene il volto di Emma (dell'avatar): è la prima immagine di lei in mano a qualcuno fuori da Elab.

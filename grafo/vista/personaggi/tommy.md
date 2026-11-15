@@ -14,7 +14,7 @@ Lo sconosciuto che compare accanto a Emma alla Mela Morsicata e le porge il sofi
 
 - Chi sia non è detto.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Tommy / Tom, e una sarda salata per un uomo di origini sarde (c7 r. 11-13): eco evidente, non commentata dal testo.
 

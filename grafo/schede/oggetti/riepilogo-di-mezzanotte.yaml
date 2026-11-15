@@ -7,9 +7,8 @@ caratteristiche:
   - {testo: "Di solito: un ritardo di sei minuti, un cognome di cliente scritto in una nota", fonte: "c17:42"}
   - {testo: "Venerdì: «Riepilogo giornaliero · Divisione Assistenza Tecnica · Segnalazione: mail fuori orario ricevuta · Destinatario: Tom · Ora di ricezione: 23:34 · Mittente: fuori giurisdizione · Contenuto: non disponibile · Infrazione: nessuna»", fonte: "c17:44-50"}
   - {testo: "Una decina di giorni prima vi era comparsa la prima mail di Tom a un indirizzo nuovo, senza infrazione", fonte: "c17:52"}
-aperti:
+note:
   - {testo: "Un ritardo di sei minuti finisce nel riepilogo (c17 r. 42): coerente con la soglia dei cinque minuti (c5 r. 9). I due minuti di Tom non ci sono finiti."}
-  - {testo: "Le mail di Tom dei giorni successivi (la risposta a Emma, cap. 14) dovrebbero essere comparse anch'esse nel riepilogo, o no perché l'indirizzo non era più nuovo: Pete ricorda una sola riga."}
 relazioni:
   - {verso: mail-delle-2334, tipo: "segnala", fonte: "c17:45"}
   - {verso: divisione-assistenza-tecnica, tipo: "riguarda", fonte: "c17:44"}

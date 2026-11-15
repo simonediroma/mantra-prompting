@@ -14,7 +14,7 @@ Il telefono personale da cui Tom chiama la signora Voss. Lei ne conserva il nume
 - Ha l'app di YouTube; Tom ci incolla la frase della signora nella ricerca *(cap. 6 r. 41)*
 - Resta appoggiato contro «la solita pila di libri» mentre Tom passa al computer *(cap. 7 r. 15)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - La chiamata «dal controllo qualità di Meridian» parte da un numero privato, e da lì passerà il video: è una traccia fuori dai sistemi aziendali, ma anche un legame diretto tra Tom e la cliente.
 

@@ -10,7 +10,7 @@
 - Lettura di Emma: da una settimana «beveva e ribeveva» la mail di Tom, con più sete a ogni giro, aspettando che a toglierle la sete fosse ciò che la provocava *(cap. 16 r. 41)*
 - Emma ha la risposta al sofisma prima che Tommy finisca, ma non la dà *(cap. 16 r. 41)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - È un'altra ripetizione che non sazia: Emma rilegge la stessa mail come la signora riguardava lo stesso video. Qui la ripetizione finisce con Emma che fa una cosa mai fatta.
 

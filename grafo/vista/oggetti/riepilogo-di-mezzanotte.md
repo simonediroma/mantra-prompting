@@ -11,10 +11,9 @@ L'elenco di infrazioni e segnalazioni della giornata che Meridian manda a ogni s
 - Venerdì: «Riepilogo giornaliero · Divisione Assistenza Tecnica · Segnalazione: mail fuori orario ricevuta · Destinatario: Tom · Ora di ricezione: 23:34 · Mittente: fuori giurisdizione · Contenuto: non disponibile · Infrazione: nessuna» *(cap. 17 r. 44-50)*
 - Una decina di giorni prima vi era comparsa la prima mail di Tom a un indirizzo nuovo, senza infrazione *(cap. 17 r. 52)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Un ritardo di sei minuti finisce nel riepilogo (c17 r. 42): coerente con la soglia dei cinque minuti (c5 r. 9). I due minuti di Tom non ci sono finiti.
-- Le mail di Tom dei giorni successivi (la risposta a Emma, cap. 14) dovrebbero essere comparse anch'esse nel riepilogo, o no perché l'indirizzo non era più nuovo: Pete ricorda una sola riga.
 
 ## Relazioni
 

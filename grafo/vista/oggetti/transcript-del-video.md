@@ -12,7 +12,7 @@ Il documento in cui Tom trascrive parola per parola tutto ciò che la ragazza di
 
 ## Punti aperti / da verificare
 
-- Tempi: alzandosi un'ora prima Tom carica il video, aspetta il verdetto, trascrive a mano quindici minuti di parlato e interroga tre servizi prima di uscire in orario. Trascrivere quindici minuti di parlato richiede di norma più di un'ora.
+- In un'ora prima di uscire (c9 r. 9-21) Tom carica il video, attende il verdetto, trascrive a mano tutto il parlato di quindici minuti e interroga tre servizi. La sola trascrizione parola per parola di quindici minuti richiede di norma più di un'ora: i tempi sono stretti.
 
 ## Relazioni
 

@@ -16,7 +16,7 @@ L'hobby di Tom: un giradischi di ottant'anni fa a cui ha insegnato, con un model
 - Spento da Tom prima di andare a dormire *(cap. 8 r. 21)*
 - È un progetto open source, con un sito e un forum attivi da anni *(cap. 12 r. 33-35)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Il comando di Tom al giradischi è «sono qui» (c7 r. 9); il primo televisore gli aveva risposto «IO SONO QUI» (c1 r. 39). Eco voluta o coincidenza: il testo non la commenta.
 

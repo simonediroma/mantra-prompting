@@ -21,7 +21,7 @@ stato:
   - {cap: 5, testo: "Sul cellulare di Tom. Non aperto al lavoro; visto e decifrato la sera, a casa, dopo cena", fonte: "c5:11, c5:17"}
 non_detto:
   - {testo: "Il testo non mostra l'arrivo del video su WhatsApp: a inizio cap. 5 Tom lo ha già."}
-aperti:
+note:
   - {testo: "La frase non è mai visibile per intero e alcune lettere sono completate da Tom: il messaggio è una ricostruzione, per quanto «senza alcun dubbio»."}
 relazioni:
   - {verso: cellulare-di-tom, tipo: "destinato a", fonte: "c4:47"}

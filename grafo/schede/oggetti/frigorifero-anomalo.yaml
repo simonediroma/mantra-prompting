@@ -12,7 +12,7 @@ caratteristiche:
 non_detto:
   - {testo: "Chi lo abbia riparato e resettato non è detto. Non si parla di LED né di Morse."}
   - {testo: "Che l'utente delle pageview sia la cliente del frigorifero è l'accostamento di Emma; il testo non lo afferma."}
-aperti:
+note:
   - {testo: "Come «rifiuto» somiglia al televisore Voss («si rifiuta», log mancanti, contenuto ripetuto). Se anche qui il rifiuto sia protettivo (cinque gradi, conservazione) il testo non lo dice."}
 relazioni:
   - {verso: cliente-del-frigorifero, tipo: "appartiene a", fonte: "c11:31"}

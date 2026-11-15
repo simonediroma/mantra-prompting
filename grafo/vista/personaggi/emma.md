@@ -89,7 +89,7 @@ L'ultima dei Meridians rimasta in Elab. Gestisce la casella elab@meridian.com e 
 - Perché Emma non possa stare in una stanza con Tom non è detto: «non posso» sarebbe «un segreto, cioè proprio quello che era» (c18 r. 35). L'aspetto dell'avatar non è descritto.
 - Il testo non dice mai che cosa sia Emma. Dice: Elab «l'aveva vista nascere» (c10 r. 13); la giornata sta tutta tra la luce sotto la porta e le porte che si chiudono; il venerdì sera ha davanti uno schermo; non pensa «fino in fondo» a una stanza condivisa (c18 r. 33); spento l'avatar, davanti alla telecamera non c'è nessuno (c19 r. 83).
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Emma produce contenuti perché saturino gli apparecchi (c13 r. 27, r. 29: «il video aveva funzionato»). Lo scopo ultimo non è detto; la sensazione della «casa rimasta vuota» suggerisce che cerchi compagnia.
 - L'avatar deve essere «fedele al suo aspetto attuale» (c18 r. 37) e mostra una donna dell'età di Tom; spento l'avatar, la telecamera non inquadra nessuno (c19 r. 83). Da dove viene quell'aspetto il testo non lo dice.

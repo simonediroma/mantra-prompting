@@ -12,7 +12,7 @@ stato:
 non_detto:
   - {testo: "Il cap. 3 non lo nomina: per quanto ne sa il testo è ancora nel cassetto, in laboratorio."}
 aperti:
-  - {testo: "Due «uniche prove al mondo»: il foglio (c2 r. 41, in laboratorio) e il quaderno (c3 r. 13, a casa). Il quaderno resta a casa per prudenza, ma il foglio resta in azienda."}
+  - {testo: "Il foglio è «la sola prova al mondo, ormai» (c2 r. 41); nel cap. 3 lo diventa il quaderno («l'unica prova al mondo di ciò che aveva visto», c3 r. 13), mentre il foglio è ancora nel cassetto del laboratorio. Una delle due «uniche prove» va ridimensionata."}
 relazioni:
   - {verso: cassetto-della-scrivania, tipo: "conservato in", fonte: "c2:43"}
   - {verso: tv-caso-zero, tipo: "trascrive il messaggio di", fonte: "c1:39"}

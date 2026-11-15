@@ -22,7 +22,7 @@ La mail con cui Tom scrive a elab@meridian.com dicendo di aver trovato l'indiriz
 - Ora esatta e luogo d'invio (casa o azienda) non sono indicati. La scrittura della mail non è in scena.
 - La mail non nomina la signora Voss, il video, né quale televisore.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - «In orario» per il riepilogo di Pete (c17 r. 52), ma a Emma risulta «arrivata la sera prima» (c10 r. 17), cioè dopo le diciassette, quando lei chiude. Il turno di Tom finisce più tardi di quello di Emma? Eppure Tom legge la risposta delle 16:59 «a fine turno» (c14 r. 19).
 

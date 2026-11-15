@@ -46,9 +46,8 @@ stato:
   - {cap: 18, testo: "Sabato: legge per la prima volta l'intero thread. La morte taciuta da Tom è il «primo mattone». Attiva la trascrizione per il meeting delle 15 e si crea l'appuntamento «Doppia»", fonte: "c18:47, c18:70"}
   - {cap: 19, testo: "Segue il meeting dal pannello: sette scatti, di cui uno sprecato e quattro bianchi. La trascrizione è pulita (zero minuti). Ma nel settimo scatto c'è un pennarello: secondo mattone. «Inizia la caccia»", fonte: "c19:85-95"}
 aperti:
-  - {testo: "«Firmato con il nome per esteso» (c17 r. 52), ma la firma riportata è «Pete, Supervisore» (c2 r. 23): Pete è il nome per esteso, o ce n'è un altro."}
-  - {testo: "Per Pete Tom consegna ancora «con un margine che nessuno gli chiedeva» (c17 r. 52): non ha notato le due chiusure sull'ultimo secondo (cap. 14 e 15), o non contano."}
-  - {testo: "Per Pete la morte «stava nel registro dal giorno del ricondizionamento» (c18 r. 47); nel registro il decesso è annotato prima, pochi giorni dopo il rifiuto del ritiro (c6 r. 21). È il giorno in cui Tom l'ha letta, non quello in cui è stata scritta."}
+  - {testo: "Pete ha firmato la sanzione «con il nome per esteso» (c17 r. 52), ma la firma riportata nel cap. 2 è «Pete, Supervisore» (c2 r. 23). O Pete è già il nome per esteso, o la firma del cap. 2 va allungata."}
+  - {testo: "Per Pete la morte «stava nel registro dal giorno del ricondizionamento» (c18 r. 47); nel registro il decesso è annotato prima, pochi giorni dopo il rifiuto del ritiro (c6 r. 21). Pete, che «le date le guardava sempre prima delle parole», vedrebbe la data giusta."}
 relazioni:
   - {verso: divisione-assistenza-tecnica, tipo: "supervisore della", fonte: "c2:23"}
   - {verso: comunicazione-formale-scostamento, tipo: "firma", fonte: "c2:23"}

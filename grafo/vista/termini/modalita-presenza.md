@@ -12,7 +12,7 @@ Nei meeting Meridian: un avatar al posto della telecamera, «per non mostrare ai
 - Regolamento: l'avatar deve essere fedele all'aspetto attuale, perché l'azienda ha diritto di sapere con chi sta parlando *(cap. 18 r. 37)*
 - Spegnendola, l'anteprima torna alla telecamera reale *(cap. 19 r. 83)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - «Meeting in presenza» è ambiguo per costruzione: Tom intende una stanza e due sedie, la lingua di Meridian intende l'avatar. Emma lo capisce nel senso di Tom e risponde nell'altro.
 

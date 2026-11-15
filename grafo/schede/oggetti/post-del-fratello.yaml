@@ -10,7 +10,7 @@ caratteristiche:
   - {testo: "Tom lo ha trovato «la sera del ricondizionamento»", fonte: "c15:27"}
 non_detto:
   - {testo: "Quale social e la data del post non sono indicati."}
-aperti:
+note:
   - {testo: "Due foto della signora nel salotto con televisore ed eWatch: quella del post del fratello (c6 r. 31, in piedi, televisore spento) e quella dell'articolo (c12 r. 13, sorridente, tappetino arrotolato). Stessa foto o due diverse? Nella prima il tappetino non è nominato."}
 relazioni:
   - {verso: signora-voss, tipo: "annuncia la morte di", fonte: "c6:31"}

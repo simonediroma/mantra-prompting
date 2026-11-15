@@ -100,17 +100,9 @@ Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista: agli appare
 - Parla per la trascrizione con «la voce del verbale» mentre scrive cartelli a stampatello, coprendo il banco con la schiena *(cap. 19 r. 29, cap. 19 r. 39, cap. 19 r. 75)*
 - Propone «un caffè in mensa», stupendosi di nominare un posto dove non ha mai messo piede *(cap. 19 r. 75-77)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
-- Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi.
 - Nel cap. 9 Tom evita ogni traccia nell'archivio; la sera stessa manda da un indirizzo Meridian riconoscibile una mail con una bugia tecnica verificabile (c10 r. 17-21). Il testo non mostra come sia arrivato a questa scelta: il cap. 10 è dal punto di vista di Emma.
-- Sgabello: Tom li «disprezza apertamente» (c1 r. 13) e lavora in piedi «perché gli sgabelli restavano quello che erano» (c3 r. 21), ma nel cap. 14 «girò lo sgabello verso il computer» due volte (r. 15, r. 41).
-- «Nove apparecchi su dieci non avevano niente da dire» (c14 r. 11): alla lettera uno su dieci risponde, mentre in quattro mesi hanno risposto due televisori in tutto.
-- Sgabello, terza volta: nel cap. 15 si siede «sullo sgabello troppo basso, di tre quarti» (r. 9). Il disprezzo c'è ancora («troppo basso»), ma ormai ci si siede.
-- Perché Tom taccia per un'intera settimana dopo la domanda su «si rifiuta»: il cap. 15 dà il motivo del primo giorno (non può scrivere della telefonata), non quello dei sei successivi.
-- La notifica sul computer di Tom è in inglese: «New email from Emm…» (c17 r. 14). Con «non parlava italiano» (c7 r. 11) è il secondo indizio che la lingua della storia non sia l'italiano.
-- Sgabello, quadro completo: il cap. 18 (r. 9) spiega che ci si siede disprezzandolo. Resta solo il cap. 3 (r. 21), dove lavora in piedi «perché gli sgabelli restavano quello che erano».
-- C'è una telecamera di sorveglianza sopra la porta del laboratorio (c18 r. 56, r. 60). Nei cap. 1 e 3 Tom parla ai televisori e il LED risponde in Morse in quella stessa stanza, descritta come isolata e senza testimoni (c1 r. 43). O la telecamera c'era già e ha ripreso tutto (il video completo è degli ispettori), o è stata messa dopo: il testo non lo dice.
 - Dove finiscano i cinque cartelli dopo il meeting non è detto: l'ultimo resta a faccia in giù sul banco (c19 r. 71).
 
 ## Stato capitolo per capitolo

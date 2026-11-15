@@ -11,8 +11,7 @@ caratteristiche:
   - {testo: "Nell'archivio di Emma: «log interrotti da un giorno all'altro»", fonte: "c12:15"}
 non_detto:
 aperti:
-  - {testo: "L'ultima riga «compacting context» del secondo televisore è detta solo nel cap. 19 (r. 39), a voce e a uso della trascrizione; nel cap. 3 (r. 19), quando Tom apre il log, il testo dice soltanto che si interrompe «come il primo». Chi legge il cap. 3 non sa che la riga c'è."}
-  - {testo: "La data dell'ultima riga non è mai indicata per questo televisore (nel primo era anteriore alla consegna, c1 r. 93)."}
+  - {testo: "Nel cap. 19 (r. 39) Tom dice che l'ultima riga del log del televisore Voss era «compacting context»; nel cap. 3 (r. 19), quando lo apre, il testo dice solo che si interrompe «come il primo». Il lettore del cap. 3 non sa che la riga c'è: se serve come preparazione, va resa esplicita."}
 relazioni:
   - {verso: log-tv-caso-zero, tipo: "interrotto allo stesso modo di", fonte: "c3:19"}
 

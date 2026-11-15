@@ -46,14 +46,14 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 
 ## Punti aperti / da verificare
 
-- Tom parla del reset come di «un evento di poche ore prima» (c4 r. 23), ma è avvenuto a fine turno di mattina del giorno prima (c3 r. 17, c4 r. 55): sono quasi ventiquattr'ore.
-- La signora aspetta la restituzione «da giorni» (c4 r. 21), ma il televisore è arrivato sul banco di Tom solo il giorno prima: i giorni sono quelli tra negozio e laboratorio, mai quantificati.
-- Domanda che il testo stesso lascia aperta: «Come facesse un televisore a sapere qualcosa del cuore di una donna» (c5 r. 27).
-- Nella foto «di qualche anno prima» il televisore è già nel salotto (c6 r. 31): l'apparecchio ha quindi qualche anno, se è lo stesso.
-- «Numero di serie» nel cap. 6 (r. 9), «numero di matricola» nel cap. 12 (r. 21): stesso dato, due nomi.
+- Nella telefonata Tom pensa al reset come a «un evento di poche ore prima» (c4 r. 23), ma è avvenuto a fine turno del giorno prima (c3 r. 17) e la chiamata è del mattino dopo: quasi un giorno intero.
+- Lo stesso dato si chiama «numero di serie» nel cap. 6 (r. 9) e «numero di matricola» nel cap. 12 (r. 21) e nel cap. 13 (r. 43). Conviene un nome solo.
+- «Pochi giorni dopo … la causale era diventata decesso cliente … Tre settimane più tardi l'apparecchio era tornato sul suo banco» (c14 r. 31): contate dal decesso, le tre settimane non tornano, perché dal reset al ricondizionamento passano in tutto «poco più di tre settimane» (c6 r. 13).
+
+## Osservazioni di lettura (non errori)
+
 - Il televisore è in attesa di vendita: può finire in un'altra casa. Il testo lo dice senza commentarlo.
 - Emma teme che nei giorni senza log abbia «preparato il terreno» (c13 r. 33); il lettore sa dal cap. 5 che in quei giorni avvertiva la signora. Le due letture convivono fino a quando Tom non glielo dice.
-- «Tre settimane più tardi» il televisore torna sul banco (c14 r. 31), contato dopo rifiuto e decesso; ma dal reset al ricondizionamento passano in tutto «poco più di tre settimane» (c6 r. 13). Le tre settimane non possono partire dal decesso.
 
 ## Stato capitolo per capitolo
 
