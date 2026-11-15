@@ -290,10 +290,8 @@ Generato da `build_grafo.py`. Non modificare: le sorgenti sono in `schede/`.
 - [Emma resta sola - lo sfondo senza nessuno davanti](vista/eventi/e19-07.md) — La paura dell'ultimo cartello è quella di chi vede contare da altri la propria colonna. Emma spegne la modalità presenza: nell'anteprima resta la parete con il logo, vuota.
 - [Alle quattro Pete legge la trascrizione e ingrandisce il settimo scatto - «Inizia la caccia»](vista/eventi/e19-08.md) — Zero minuti in Tabella: una consulenza pulita. Nel settimo scatto una donna mai vista, il vecchio logo (non affar suo) e un pennarello rotolato lontano dalle mani. Tom ha nascosto qualcosa con il corpo: secondo mattone.
 
-## Punti aperti (5)
+## Punti aperti (3)
 
 - [Pete](vista/personaggi/pete.md): Per Pete la morte «stava nel registro dal giorno del ricondizionamento» (c18 r. 47); nel registro il decesso è annotato prima, pochi giorni dopo il rifiuto del ritiro (c6 r. 21). Pete, che «le date le guardava sempre prima delle parole», vedrebbe la data giusta.
-- [Televisore del secondo contatto](vista/oggetti/tv-secondo-contatto.md): Nella telefonata Tom pensa al reset come a «un evento di poche ore prima» (c4 r. 23), ma è avvenuto a fine turno del giorno prima (c3 r. 17) e la chiamata è del mattino dopo: quasi un giorno intero.
 - [Televisore del secondo contatto](vista/oggetti/tv-secondo-contatto.md): «Pochi giorni dopo … la causale era diventata decesso cliente … Tre settimane più tardi l'apparecchio era tornato sul suo banco» (c14 r. 31): contate dal decesso, le tre settimane non tornano, perché dal reset al ricondizionamento passano in tutto «poco più di tre settimane» (c6 r. 13).
-- [I quindici minuti di anticipo](vista/concetti/anticipo-di-quindici-minuti.md): «Intoccabili come ogni mattina» (c9 r. 9), ma nelle due mattine dei cap. 4 e 5 Tom li ha spesi per telefonare alla signora Voss, arrivando una volta in ritardo (c5 r. 9). Il «come ogni mattina» va attenuato, o letto come proposito nato da quel ritardo.
 - [Calendario ricostruito (giorni della settimana)](vista/concetti/calendario.md): Il venerdì del cap. 16 (r. 15) fissa i cap. 12-14 di venerdì; a ritroso il cap. 9 è martedì e il ricondizionamento (cap. 6) lunedì. Dal martedì del secondo contatto (c3 r. 17) a un lunedì passano 20 o 27 giorni, non «poco più di tre settimane» (c6 r. 13, c16 r. 11).

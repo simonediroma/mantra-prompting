@@ -12,14 +12,11 @@ Tom arriva sempre in azienda un quarto d'ora prima del turno. Nel cap. 4 li spen
 - Il mattino dopo ha di nuovo il «consueto quarto d'ora», che si assottiglia per la seconda volta in due giorni *(cap. 5 r. 35, cap. 5 r. 41)*
 - «Intoccabili come ogni mattina»: per avere tempo Tom anticipa la sveglia di un'ora, e esce comunque col solito quarto d'ora *(cap. 9 r. 9, cap. 9 r. 21)*
 - Scopo dichiarato: un quarto d'ora in cui non succede niente *(cap. 15 r. 9)*
+- Nei cap. 4 e 5 Tom sacrifica i quindici minuti per indagare (le due telefonate alla signora Voss): un'eccezione voluta, non una contraddizione con «intoccabili come ogni mattina» *(cap. 4 r. 11, cap. 5 r. 35, cap. 9 r. 9)*
 
 ## Cosa NON dice il testo
 
 - Il cap. 5 si chiude prima di dire se Tom arrivi in ritardo anche il secondo giorno.
-
-## Punti aperti / da verificare
-
-- «Intoccabili come ogni mattina» (c9 r. 9), ma nelle due mattine dei cap. 4 e 5 Tom li ha spesi per telefonare alla signora Voss, arrivando una volta in ritardo (c5 r. 9). Il «come ogni mattina» va attenuato, o letto come proposito nato da quel ritardo.
 
 ## Relazioni
 
