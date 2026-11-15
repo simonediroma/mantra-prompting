@@ -181,7 +181,7 @@ def main():
         "PODCAST_TITOLO": e(cfg["podcast"]["titolo"]), "PODCAST_TESTO": e(cfg["podcast"]["testo"]),
         "N_PUNTATE": str(len(eps)), "PODCAST": podcast,
         "GRAFO_TITOLO": e(gr["titolo"]), "GRAFO_TESTO": e(gr["testo"]), "SPOILER": e(gr["spoiler"]),
-        "GRAFO_APERTI": e(gr["aperti"]), "N_SCHEDE": str(len(nodi)), "N_EVENTI": str(len(eventi)),
+        "GRAFO_APERTI": e(gr["aperti"] if tot_aperti else "Nessuna incongruenza aperta: quelle trovate nel testo sono state sistemate. Se ne emergono di nuove, i nodi interessati avranno il bordo arancione."), "N_SCHEDE": str(len(nodi)), "N_EVENTI": str(len(eventi)),
         "N_APERTI": str(tot_aperti),
         "APERTI_TXT": f"{tot_aperti} punt{'o' if tot_aperti == 1 else 'i'} apert{'o' if tot_aperti == 1 else 'i'}",
         "CON_APERTI_TXT": f"{len(con_aperti)} sched{'a' if len(con_aperti) == 1 else 'e'}", "N_CON_APERTI": str(len(con_aperti)), "N_CAP": str(len(caps)),
