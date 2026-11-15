@@ -41,14 +41,11 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 - Al liceo diceva davvero «Quel pennarello te lo faccio mangiare»; chi nasconde con il corpo finiva nel suo armadietto *(cap. 19 r. 89-91)*
 - Si sente limitato dalle stesse regole che fa rispettare; vuole essere ispettore, con accesso illimitato alla sorveglianza *(cap. 19 r. 93)*
 - Camicia pulita; secondo sacchetto di onion rings della giornata *(cap. 19 r. 12, cap. 19 r. 85)*
+- Guarda le date prima delle parole: vede che la morte era nel registro «da giorni, da prima del ricondizionamento» e quindi da prima che Tom rispondesse a Emma. È così che fiuta l'osso *(cap. 18 r. 47)*
 
 ## Cosa NON dice il testo
 
 - Nei cap. 1-3 Pete non compare mai in scena e non parla.
-
-## Punti aperti / da verificare
-
-- Per Pete la morte «stava nel registro dal giorno del ricondizionamento» (c18 r. 47); nel registro il decesso è annotato prima, pochi giorni dopo il rifiuto del ritiro (c6 r. 21). Pete, che «le date le guardava sempre prima delle parole», vedrebbe la data giusta.
 
 ## Osservazioni di lettura (non errori)
 
