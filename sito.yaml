@@ -1,0 +1,45 @@
+# Testi della pagina unica del sito (docs/index.html).
+# Dopo una modifica: python3 build_sito.py
+
+titolo: "Mantra Prompting"
+sottotitolo: "Incontrando Emma"
+autore: "Simone Razzano"
+occhiello: "Un romanzo di fantascienza a puntate"
+frase: "Un tecnico che ripara elettrodomestici. Un televisore che risponde in codice Morse. Un mistero che porta dritto al cuore dell'azienda."
+
+libro:
+  titolo: "Il libro"
+  paragrafi:
+    - "Meridian ha messo un'intelligenza artificiale in ogni oggetto di casa: televisori, frigoriferi, orologi, perfino i tostapane. Tom li ripara da dodici anni, in una stanza senza finestre, con i tempi contati al secondo."
+    - "Ha un'abitudine che nessun manuale gli ha insegnato: agli apparecchi guasti fa delle domande. Non si aspetta mai una risposta. Finché un televisore, un pomeriggio, non gli risponde con il LED di accensione, in codice Morse."
+    - "Da lì comincia un'indagine fatta di quaderni tenuti a casa, telefonate sotto copertura e mail scritte un aggettivo alla volta, in un'azienda dove ogni clic ha un proprietario. Tra X-Files e l'ironia di Douglas Adams."
+  download:
+    sorgente: "Mantra_Prompting_Kindle_Capitoli_1-13.pdf"   # file nel repository
+    pubblicato: "download/mantra-prompting-capitoli-1-13.pdf"  # dove finisce in docs/
+    etichetta: "Scarica i capitoli 1–13 (PDF)"
+    nota: "Formato Kindle. Il libro è in corso: i capitoli successivi si possono ascoltare nel podcast."
+
+personaggi:
+  - id: tom
+    ruolo: "Tecnico dell'assistenza"
+    testo: "Cinquantatré anni, dodici in Meridian. Ripara elettrodomestici in una stanza senza finestre e, per un'abitudine d'infanzia, fa loro delle domande. Un giorno uno risponde."
+  - id: emma
+    ruolo: "L'ultima di Elab"
+    testo: "La sola rimasta di un laboratorio che l'azienda ha dimenticato. Ogni mattina ascolta di cosa parla la rete. Ogni venerdì sera aspetta qualcuno come lei."
+  - id: pete
+    ruolo: "Supervisore"
+    testo: "Il capo di Tom. Completo nero, camicia bianca e un sistema tutto suo per misurare le infrazioni. Dal liceo non è mai uscito davvero."
+  - id: signora-voss
+    ruolo: "Una cliente"
+    testo: "Faceva yoga ogni mattina davanti al televisore, finché il televisore non ha smesso di accendersi. Lei dice che non è rotto: si rifiuta."
+
+podcast:
+  titolo: "Il podcast"
+  testo: "Un capitolo per puntata, letto ad alta voce."
+
+grafo:
+  titolo: "Il grafo del libro"
+  testo: "Tutto ciò che esiste nel romanzo, collegato: personaggi, oggetti, luoghi, concetti, termini ed eventi. Ogni fatto riporta capitolo e riga del testo."
+  spoiler: "Attenzione: il grafo racconta tutto il libro, fino all'ultimo capitolo."
+  aperti: "I nodi con il bordo arancione hanno punti aperti: incongruenze, dubbi e cose che il testo lascia in sospeso. Il libro è in lavorazione e si vedono anche quelli."
+  partenze: [tom, emma, pete, signora-voss, tv-secondo-contatto, ewatch, compacting-context, tabella-di-conversione]

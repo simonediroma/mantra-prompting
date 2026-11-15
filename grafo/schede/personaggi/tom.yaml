@@ -1,7 +1,7 @@
 id: tom
 nome: Tom
 capitoli: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
-sintesi: "Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3."
+sintesi: "Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista: agli apparecchi guasti fa delle domande, e un giorno uno risponde."
 caratteristiche:
   - {testo: "53 anni", fonte: "c1:11"}
   - {testo: "Alto, troppo per gli sgabelli da laboratorio, che disprezza apertamente; magro, di magrezza nervosa; pochi capelli", fonte: "c1:13"}

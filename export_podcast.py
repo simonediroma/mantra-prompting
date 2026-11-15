@@ -1014,9 +1014,13 @@ def feed(project_dir):
 <link rel="alternate" type="application/rss+xml" title="Feed RSS" href="feed.xml">
 <style>body{{font-family:system-ui,sans-serif;max-width:720px;margin:2rem auto;padding:0 16px;background:#0e1116;color:#e6e6e6}}a{{color:#6ee7a0}}img{{width:100%;max-width:360px;border-radius:8px}}ul{{list-style:none;padding:0}}li{{margin:1.5rem 0}}audio{{width:100%}}h3{{margin:.2rem 0}}p{{color:#aab}}</style></head>
 <body><img src="cover.jpg" alt="Copertina"><h1>{title}</h1><p>{description}</p>
-<p>{author} · <a href="feed.xml">Feed RSS</a> · <a href="grafo/">Esplora il grafo del libro</a></p><ul>{episodes_html}</ul></body></html>
+<p>{author} · <a href="feed.xml">Feed RSS</a></p><ul>{episodes_html}</ul></body></html>
 """
-        (project_dir / "docs" / "index.html").write_text(page, encoding="utf-8")
+        sito = project_dir / "build_sito.py"
+        if sito.exists():   # pagina unica del sito (libro, personaggi, podcast, grafo)
+            subprocess.run([sys.executable, str(sito)], check=True)
+        else:
+            (project_dir / "docs" / "index.html").write_text(page, encoding="utf-8")
     print(f"✅ {out} ({len(items)} episodes)")
 
 

@@ -2,7 +2,7 @@
 
 `tom` · personaggio · capitoli: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
 
-Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista e punto di vista dei cap. 1-3.
+Tecnico dell'assistenza Meridian, 53 anni, smanettone. Protagonista: agli apparecchi guasti fa delle domande, e un giorno uno risponde.
 
 ## Caratteristiche
 

@@ -5,7 +5,8 @@
 
 Legge  grafo/schede/<tipo>/<id>.yaml  e  grafo/capitoli.yaml
 Scrive grafo/vista/**.md (schede leggibili con link e backlink),
-       grafo/INDICE.md, grafo/grafo.json, docs/grafo/dati.json (per il sito)
+       grafo/INDICE.md, grafo/grafo.json
+Il sito (docs/index.html) si rigenera con build_sito.py, che legge le stesse schede.
 Si ferma con errore se una scheda cita un id inesistente o una riga fuori dal capitolo.
 Avvisa se un capitolo è cambiato di versione dopo l'analisi.
 """
@@ -216,12 +217,6 @@ def main():
         "nodi": [{"id": i, "tipo": n["tipo"], "nome": n["nome"], "capitoli": n.get("capitoli", [n.get("capitolo")])}
                  for i, n in nodi.items()],
         "archi": archi}, ensure_ascii=False, indent=1), encoding="utf-8")
-    # dati per l'esploratore web (docs/grafo/index.html)
-    sito = BOOK / "docs" / "grafo"
-    sito.mkdir(parents=True, exist_ok=True)
-    (sito / "dati.json").write_text(json.dumps({
-        "capitoli": {str(k): v["titolo"] for k, v in caps.items()},
-        "nodi": list(nodi.values())}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     for a in avvisi:
         print("AVVISO:", a)
     print(f"OK: {len(nodi)} schede, {len(archi)} archi, {len(eventi)} eventi")
