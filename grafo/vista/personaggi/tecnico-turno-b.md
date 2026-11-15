@@ -9,10 +9,6 @@ Collega senza nome (campo «Tecnico: [omesso]») che prende in carico il televis
 - Nel registro: Turno B, Tecnico [omesso] *(cap. 2 r. 34-35)*
 - Per Tom è «un collega del suo stesso turno» che non ha dovuto aprire nessuna comunicazione personale e non ha idea di cosa abbia davanti *(cap. 2 r. 39)*
 
-## Punti aperti / da verificare
-
-- Il registro dice «Turno: B», la narrazione «collega del suo stesso turno»: torna solo se il turno di Tom (pomeriggio) è il B. Il testo non lo dice.
-
 ## Relazioni
 
 - → resetta [Televisore del primo contatto (caso zero)](../oggetti/tv-caso-zero.md) — fuori scena, presunto da Tom *(cap. 2 r. 39)*

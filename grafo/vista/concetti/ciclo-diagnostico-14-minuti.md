@@ -12,10 +12,6 @@ Il tempo massimo consentito per un ciclo diagnostico completo. Superarlo genera 
 - Esistono slot diversi: ventuno minuti (sette in più) per gli interventi con pezzi da cambiare *(cap. 14 r. 13)*
 - Slot di diciotto minuti per il tritatutto: i quattordici del ciclo più quattro per i pezzi *(cap. 15 r. 25)*
 
-## Punti aperti / da verificare
-
-- I minuti in più «per i pezzi» sono sette per l'aspirapolvere (c14 r. 13) e quattro per il tritatutto (c15 r. 25): la regola con cui si calcolano non è detta.
-
 ## Relazioni
 
 - ← [Comunicazione formale di scostamento](../oggetti/comunicazione-formale-scostamento.md) applica questa scheda *(cap. 2 r. 13)*

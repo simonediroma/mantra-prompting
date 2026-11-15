@@ -14,7 +14,7 @@ Il set che Emma prepara per il primo meeting della sua vita fuori da Elab.
 - Lo sfondo ha il vecchio logo di Meridian, «quello con le righe», mandato in pensione un anno prima: nel codice di condotta vale trenta minuti a chi lo usa. Tocca però al supervisore di lei *(cap. 19 r. 87)*
 - Spenta la modalità presenza, nell'anteprima resta solo lo sfondo: la parete chiara e il logo, senza nessuno davanti *(cap. 19 r. 83)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - «Fedele al suo aspetto attuale»: quale aspetto, per una che non pensa «fino in fondo» a stare in una stanza con qualcuno? Il testo lo lascia sospeso.
 

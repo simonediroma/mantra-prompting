@@ -15,7 +15,7 @@ A ogni visita il fondatore ripete a Emma la stessa domanda con parole sempre div
 
 - La domanda non è riportata. Cosa il fondatore speri di ottenere non è detto esplicitamente.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Tre ripetizioni nel libro fin qui: la signora ripete il video (cap. 4-6), Tom ripete le domande ai televisori per vedere se la risposta resta identica (cap. 1, 3), il fondatore ripete l'indovinello (cap. 11). Emma fa l'opposto dei televisori: non risponde mai uguale.
 

@@ -12,7 +12,7 @@ caratteristiche:
   - {testo: "Risposta: Corrispondenza trovata · Data di generazione: 6 mesi fa · Autore: unknown · Modello: internal_unknown · Contatto: elab@meridian.com", fonte: "c9:31-35"}
   - {testo: "Per Emma è l'unico posto che può aver messo il nome Elab davanti a un tecnico: tutto ciò che esce da un modello Meridian vi finisce indicizzato con un contatto", fonte: "c10:23"}
   - {testo: "Per rimuovere un contatto senza traccia servono le credenziali di un reparto", fonte: "c10:23"}
-aperti:
+note:
   - {testo: "La descrizione dice che ogni contenuto è etichettato con «reparto» (c9 r. 25), ma nel risultato il campo reparto non c'è (r. 31-35)."}
   - {testo: "La ricerca di Tom resta comunque tracciata («ogni clic aveva un proprietario»): ha evitato file e link, non la ricerca stessa."}
 relazioni:

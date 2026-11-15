@@ -20,7 +20,7 @@ caratteristiche:
 non_detto:
 
   - {testo: "Numero totale dei video, data di apertura del canale e numero esatto di iscritti non sono indicati."}
-aperti:
+note:
   - {testo: "L'incoerenza che il testo lascia aperta: se lo scopo sono le visualizzazioni, perché pubblicare a singhiozzo (c8 r. 15)?"}
   - {testo: "Tom ammette di non sapere quale sia un rapporto normale tra visualizzazioni e iscritti: il suo unico confronto è il canale del New York Times (c8 r. 13). La conclusione «pochi iscritti» è un'impressione."}
 relazioni:

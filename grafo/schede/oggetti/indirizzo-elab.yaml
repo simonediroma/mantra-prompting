@@ -13,6 +13,6 @@ caratteristiche:
   - {testo: "Tom lo aveva «creduto morto»", fonte: "c14:27"}
   - {testo: "Vuota per sei giorni; alle 23:34 di venerdì ne parte la prima mail fuori orario", fonte: "c16:23, c16:47"}
 aperti:
-  - {testo: "Il contatto è stato scritto dal sistema «anni prima» (c10 r. 23), ma l'etichettatura dell'archivio risale a «un paio d'anni prima» (c9 r. 25) e il video a 6 mesi fa (c9 r. 32)."}
+  - {testo: "«Quel contatto l'aveva scritto il sistema, anni prima» (c10 r. 23): ma il contatto è quello associato al video, generato 6 mesi prima (c9 r. 32), e l'archivio etichetta i contenuti da «un paio d'anni» (c9 r. 25). Se Emma intende che l'indirizzo di Elab è stato impostato anni fa come contatto predefinito, conviene dirlo."}
 relazioni:
   - {verso: emma, tipo: "gestita da", fonte: "c10:17"}

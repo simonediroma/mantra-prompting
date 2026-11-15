@@ -16,7 +16,7 @@ Il foglio su cui Tom trascrive a mano il primo messaggio. Finisce nel cassetto d
 
 ## Punti aperti / da verificare
 
-- Due «uniche prove al mondo»: il foglio (c2 r. 41, in laboratorio) e il quaderno (c3 r. 13, a casa). Il quaderno resta a casa per prudenza, ma il foglio resta in azienda.
+- Il foglio è «la sola prova al mondo, ormai» (c2 r. 41); nel cap. 3 lo diventa il quaderno («l'unica prova al mondo di ciò che aveva visto», c3 r. 13), mentre il foglio è ancora nel cassetto del laboratorio. Una delle due «uniche prove» va ridimensionata.
 
 ## Stato capitolo per capitolo
 

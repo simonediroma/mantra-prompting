@@ -21,7 +21,7 @@ L'orologio che Meridian ha regalato a tutti i dipendenti quell'inverno, presto d
 - Notifica le mail anche di notte, a casa; dopo tre secondi il quadrante si spegne *(cap. 17 r. 10)*
 - Notifica anche gli inviti in calendario («bzz bzz») *(cap. 18 r. 51)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Nel cap. 1 «l'orologio gli disse» (r. 95) e nel cap. 2 «guardò l'ora» (r. 45): il testo non dice se è già l'eWatch. Il cap. 1 cade in inverno (tre mesi prima della fine dell'inverno, c3 r. 9), cioè nella stessa stagione del regalo.
 

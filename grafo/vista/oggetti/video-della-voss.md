@@ -25,7 +25,7 @@ Ripresa fatta col telefono dalla signora: il televisore lampeggia in modo strano
 
 - Il testo non mostra l'arrivo del video su WhatsApp: a inizio cap. 5 Tom lo ha già.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - La frase non è mai visibile per intero e alcune lettere sono completate da Tom: il messaggio è una ricostruzione, per quanto «senza alcun dubbio».
 

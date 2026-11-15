@@ -14,7 +14,7 @@ La spiegazione che Tom si dà del perché il televisore usi il Morse sul LED inv
 
 - È una deduzione di Tom («la risposta che si diede»), non un fatto verificato.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Il caso zero rispondeva da acceso, sul banco, con l'alimentatore collegato (c1 r. 9): l'ipotesi dello standby spiega il televisore Voss a casa, non necessariamente il Morse in laboratorio.
 

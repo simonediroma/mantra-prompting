@@ -41,5 +41,5 @@ grafo:
   titolo: "Il grafo del libro"
   testo: "Tutto ciò che esiste nel romanzo, collegato: personaggi, oggetti, luoghi, concetti, termini ed eventi. Ogni fatto riporta capitolo e riga del testo."
   spoiler: "Attenzione: il grafo racconta tutto il libro, fino all'ultimo capitolo."
-  aperti: "I nodi con il bordo arancione hanno punti aperti: incongruenze, dubbi e cose che il testo lascia in sospeso. Il libro è in lavorazione e si vedono anche quelli."
+  aperti: "I nodi con il bordo arancione hanno punti aperti: piccole incongruenze del testo ancora da sistemare. Il libro è in lavorazione e si vedono anche quelle."
   partenze: [tom, emma, pete, signora-voss, tv-secondo-contatto, ewatch, compacting-context, tabella-di-conversione]

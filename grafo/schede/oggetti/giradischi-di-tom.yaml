@@ -12,7 +12,7 @@ caratteristiche:
   - {testo: "Costruito con l'aiuto di un assistente IA", fonte: "c7:17"}
   - {testo: "Spento da Tom prima di andare a dormire", fonte: "c8:21"}
   - {testo: "È un progetto open source, con un sito e un forum attivi da anni", fonte: "c12:33-35"}
-aperti:
+note:
   - {testo: "Il comando di Tom al giradischi è «sono qui» (c7 r. 9); il primo televisore gli aveva risposto «IO SONO QUI» (c1 r. 39). Eco voluta o coincidenza: il testo non la commenta."}
 relazioni:
   - {verso: compacting-context, tipo: "mostra nel log", fonte: "c1:91"}

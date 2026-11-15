@@ -15,7 +15,10 @@ I due punti fermi del testo sono il martedì del secondo contatto (cap. 3) e il 
 
 ## Punti aperti / da verificare
 
-- Se il ricondizionamento è di lunedì e il secondo contatto di martedì, tra i due passano 20 giorni (o 27): «poco più di tre settimane» (c6 r. 13, c16 r. 11) chiede almeno 22. Con 20 sono «poco meno di tre settimane»; con 27 quasi quattro.
+- Il venerdì del cap. 16 (r. 15) fissa i cap. 12-14 di venerdì; a ritroso il cap. 9 è martedì e il ricondizionamento (cap. 6) lunedì. Dal martedì del secondo contatto (c3 r. 17) a un lunedì passano 20 o 27 giorni, non «poco più di tre settimane» (c6 r. 13, c16 r. 11).
+
+## Osservazioni di lettura (non errori)
+
 - Tom e Pete lavorano di sabato (cap. 15): la settimana Meridian è di sei giorni. Il testo lo dà per scontato.
 
 ## Catena degli eventi

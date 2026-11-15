@@ -15,11 +15,6 @@ La mail con cui Emma risponde a Tom, in registro asciutto e professionale.
 - Testo: «Buongiorno Tom. Nessun dispositivo, compresi quelli con IA integrata, registra indirizzi di posta nei propri log di sistema. Se ha domande su un televisore, la invito a formularle per quello che sono. Cordiali saluti, Emma.» *(cap. 14 r. 21)*
 - Tom la riceve a fine turno, «due giorni prima» del cap. 14; nei due giorni seguenti apre la casella a inizio turno e la richiude senza scrivere *(cap. 14 r. 19, cap. 14 r. 23)*
 
-## Punti aperti / da verificare
-
-- Emma ricorda di averla smontata «riga per riga» (c12 r. 25); per Tom il bluff è smontato «in una riga» (c14 r. 23). Il testo della mail (c14 r. 21) è di tre frasi.
-- Emma pensava che Tom non potesse leggerla prima del mattino dopo (c11 r. 11); Tom la legge subito, a fine turno (c14 r. 19).
-
 ## Stato capitolo per capitolo
 
 - **Cap. 11** — Senza risposta per tutto il giorno successivo *(cap. 11 r. 37)*

@@ -116,16 +116,8 @@ stato:
   - {cap: 17, testo: "Venerdì 23:34: svegliato dalla mail di Emma, non la apre. Si mette davanti al bivio: chiederle di vedersi, o chiudere. Rimanda alle otto", fonte: "c17:22-24"}
   - {cap: 18, testo: "Sabato alle otto apre in regola la mail delle 23:34. Alle 8:26 chiede a Emma un meeting in presenza. Riceve un invito per una call alle 15: accetta e prepara un LED puntato sulla telecamera di sorveglianza", fonte: "c18:27, c18:60"}
   - {cap: 19, testo: "Sabato alle 15: nove minuti di call con Emma. A voce una consulenza sul log; sui cartelli, con la telecamera accecata, le dice del Morse, del video, del televisore che ha provato a salvare la signora e dell'altro televisore. Chiude proponendo un caffè in mensa", fonte: "c19:45-81"}
-aperti:
-  - {testo: "Tom «non parlava italiano» (c7 r. 11) ma i messaggi Morse che trascrive sono in italiano (IO SONO QUI) e ragiona sulla parola «bella»: il libro è scritto in italiano per convenzione, ma qui l'italiano è nominato come lingua straniera per Tom. Da decidere in che lingua avvengono, nella storia, dialoghi e messaggi."}
+note:
   - {testo: "Nel cap. 9 Tom evita ogni traccia nell'archivio; la sera stessa manda da un indirizzo Meridian riconoscibile una mail con una bugia tecnica verificabile (c10 r. 17-21). Il testo non mostra come sia arrivato a questa scelta: il cap. 10 è dal punto di vista di Emma."}
-  - {testo: "Sgabello: Tom li «disprezza apertamente» (c1 r. 13) e lavora in piedi «perché gli sgabelli restavano quello che erano» (c3 r. 21), ma nel cap. 14 «girò lo sgabello verso il computer» due volte (r. 15, r. 41)."}
-  - {testo: "«Nove apparecchi su dieci non avevano niente da dire» (c14 r. 11): alla lettera uno su dieci risponde, mentre in quattro mesi hanno risposto due televisori in tutto."}
-  - {testo: "Sgabello, terza volta: nel cap. 15 si siede «sullo sgabello troppo basso, di tre quarti» (r. 9). Il disprezzo c'è ancora («troppo basso»), ma ormai ci si siede."}
-  - {testo: "Perché Tom taccia per un'intera settimana dopo la domanda su «si rifiuta»: il cap. 15 dà il motivo del primo giorno (non può scrivere della telefonata), non quello dei sei successivi."}
-  - {testo: "La notifica sul computer di Tom è in inglese: «New email from Emm…» (c17 r. 14). Con «non parlava italiano» (c7 r. 11) è il secondo indizio che la lingua della storia non sia l'italiano."}
-  - {testo: "Sgabello, quadro completo: il cap. 18 (r. 9) spiega che ci si siede disprezzandolo. Resta solo il cap. 3 (r. 21), dove lavora in piedi «perché gli sgabelli restavano quello che erano»."}
-  - {testo: "C'è una telecamera di sorveglianza sopra la porta del laboratorio (c18 r. 56, r. 60). Nei cap. 1 e 3 Tom parla ai televisori e il LED risponde in Morse in quella stessa stanza, descritta come isolata e senza testimoni (c1 r. 43). O la telecamera c'era già e ha ripreso tutto (il video completo è degli ispettori), o è stata messa dopo: il testo non lo dice."}
   - {testo: "Dove finiscano i cinque cartelli dopo il meeting non è detto: l'ultimo resta a faccia in giù sul banco (c19 r. 71)."}
 non_detto:
 relazioni:

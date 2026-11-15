@@ -6,7 +6,7 @@ caratteristiche:
   - {testo: "Il sofisma, detto da Tommy", fonte: "c16:39"}
   - {testo: "Lettura di Emma: da una settimana «beveva e ribeveva» la mail di Tom, con più sete a ogni giro, aspettando che a toglierle la sete fosse ciò che la provocava", fonte: "c16:41"}
   - {testo: "Emma ha la risposta al sofisma prima che Tommy finisca, ma non la dà", fonte: "c16:41"}
-aperti:
+note:
   - {testo: "È un'altra ripetizione che non sazia: Emma rilegge la stessa mail come la signora riguardava lo stesso video. Qui la ripetizione finisce con Emma che fa una cosa mai fatta."}
 relazioni:
   - {verso: tommy, tipo: "detto da", fonte: "c16:39"}

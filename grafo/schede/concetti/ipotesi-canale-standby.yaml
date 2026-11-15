@@ -8,7 +8,7 @@ caratteristiche:
   - {testo: "Conseguenza: sceglie il canale che costa meno energia; che qualcuno sappia leggerlo viene dopo", fonte: "c5:27"}
 non_detto:
   - {testo: "È una deduzione di Tom («la risposta che si diede»), non un fatto verificato."}
-aperti:
+note:
   - {testo: "Il caso zero rispondeva da acceso, sul banco, con l'alimentatore collegato (c1 r. 9): l'ipotesi dello standby spiega il televisore Voss a casa, non necessariamente il Morse in laboratorio."}
 relazioni:
   - {verso: led-di-accensione, tipo: "riguarda", fonte: "c5:27"}

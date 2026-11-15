@@ -25,10 +25,6 @@ La stanza singola sul retro dell'assistenza dove Tom ripara. Isolata, senza fine
 - Lampada da banco a braccio, quella delle saldature; cassetto dei componenti di recupero; sgabello con poggiapiedi *(cap. 18 r. 9, cap. 18 r. 60)*
 - Scaffali dei ricambi alle spalle di Tom, con una fila di barattoli di viti; una webcam sul terminale *(cap. 19 r. 10, cap. 19 r. 19)*
 
-## Punti aperti / da verificare
-
-- «Senza altoparlanti» (c1 r. 43) si riferisce alla stanza: va tenuto distinto dal fatto che il televisore possa avere un microfono (c3 r. 33).
-
 ## Relazioni
 
 - → si trova in [Sede Meridian dell'assistenza](../luoghi/sede-assistenza.md) *(cap. 1 r. 43)*

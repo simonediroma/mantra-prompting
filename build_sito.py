@@ -102,6 +102,7 @@ def main():
         h.append(elenco("Fatti", n.get("fatti")))
         h.append(elenco("Stato, capitolo per capitolo", n.get("stato")))
         h.append(elenco("Cosa il testo non dice", n.get("non_detto"), "nondetto"))
+        h.append(elenco("Osservazioni di lettura", n.get("note"), "nondetto"))
         usc = [(r["verso"], r) for r in n.get("relazioni", [])]
         ent = [(j, r) for j, m in nodi.items() for r in m.get("relazioni", []) if r["verso"] == i]
         if usc or ent:

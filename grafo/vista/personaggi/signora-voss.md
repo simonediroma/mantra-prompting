@@ -50,15 +50,13 @@ Proprietaria del secondo televisore. Faceva yoga davanti alla TV ripetendo lo st
 - Perché non rispondesse a Tom pur avendo risposto all'assistenza: il testo non lo spiega.
 - Il televisore era in assistenza quando è morta facendo yoga: con cosa guardasse il video, se lo guardava, non è detto.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - «Non ha voluto ascoltare nessuno» (c6 r. 31): chi l'aveva avvertita oltre al televisore? Il fratello? Il testo non lo dice.
 - Cosa le ha fatto cambiare idea tra «me lo dovevano restituire» (c4 r. 21) e «non lo voglio più in casa» (c6 r. 19): il testo lo pone come domanda («Qualcosa, nel frattempo…») senza risposta.
 - Età: «sulla cinquantina» dedotta da una foto «di qualche anno prima» (c6 r. 31); lei dice «alla mia età bisogna darsi da fare» (c4 r. 31). Tom, che ha 53 anni, la pensa come una «cinquantenne fissata con il fitness» (c7 r. 23).
-- Tom immagina una sessione «mattutina prima di andare al lavoro» (c7 r. 23); lei aveva detto «prima di andare a fare la spesa» (c4 r. 31). Il testo non dice se la signora lavorasse.
 - A Tom aveva detto «anche dieci volte al giorno» (c4 r. 31); le statistiche arrivano a trenta (c13 r. 17). Minimizzava, o Tom ha in mano un dato vecchio.
 - Primo contatto con l'assistenza: «ha telefonato» (c13 r. 23) contro «l'ho portato in negozio» (c4 r. 31) e la scheda battuta dall'addetto del negozio (c3 r. 17). Prima la telefonata e poi il negozio? Il testo non mette in fila i due passaggi.
-- Età, terza versione: «sulla cinquantina» per Tom (c7 r. 17), «la vecchia» per Pete (c18 r. 45), «alla mia età» per lei (c4 r. 31).
 
 ## Stato capitolo per capitolo
 

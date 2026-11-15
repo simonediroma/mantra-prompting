@@ -13,7 +13,7 @@ Il LED «più luminoso del sole» che Tom punta sulla telecamera di sorveglianza
 - Acceso da Tom con la sinistra appena sente il motore della telecamera: bagliore bianco sul muro sopra la porta. Spento al «clic» del filtro *(cap. 19 r. 45, cap. 19 r. 71)*
 - Regge «più di quanto si aspettasse e meno di quanto gli servisse»: il tempo di cinque cartelli *(cap. 19 r. 71)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Un LED come arma di Tom: lo stesso tipo di componente con cui i televisori gli hanno parlato.
 

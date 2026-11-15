@@ -15,9 +15,8 @@ La spiegazione a cui Tom arriva: gli apparecchi di una casa Meridian stanno sull
 
 - Resta un'ipotesi «altamente probabile»: nessuna verifica nel cap. 15.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
-- Risponde alla domanda lasciata aperta nel cap. 5 (r. 27): come facesse un televisore a sapere del cuore di una donna.
 - Se gli apparecchi di casa si parlano, il televisore poteva anche agire sugli altri: è ciò che Emma teme («collegato alla rete di casa, poteva aver fatto qualunque cosa», c13 r. 33). Tom non ci pensa.
 - «Yoga dieci volte al giorno» e «acceso otto ore al giorno» (c15 r. 27): Tom ragiona ancora sul dato della signora; le statistiche di Emma dicono fino a trenta riproduzioni e quasi quattro ore (c13 r. 21).
 

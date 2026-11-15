@@ -139,7 +139,8 @@ def main():
             o.append("")
         for titolo, chiave in (("Caratteristiche", "caratteristiche"), ("Fatti", "fatti"),
                                ("Cosa NON dice il testo", "non_detto"),
-                               ("Punti aperti / da verificare", "aperti")):
+                               ("Punti aperti / da verificare", "aperti"),
+                               ("Osservazioni di lettura (non errori)", "note")):
             if n.get(chiave):
                 o += [f"## {titolo}", ""]
                 for x in n[chiave]:

@@ -11,7 +11,7 @@ Il primo lavoro che a Tom va male: rimonta la lama senza la rondella e riga la c
 - Resta un cerchio opaco di graffi sul fondo della ciotola: il cliente lo noterà *(cap. 15 r. 29)*
 - Esito scritto: «riparato, sostituito giunto». Chiuso sull'ultimo secondo *(cap. 15 r. 29)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - La ciotola rigata non compare nell'esito: è un danno fatto in assistenza e non dichiarato. Possibile appiglio per Pete; il testo non lo dice.
 

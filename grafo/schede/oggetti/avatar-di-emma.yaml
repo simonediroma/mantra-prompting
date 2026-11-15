@@ -11,7 +11,7 @@ caratteristiche:
   - {testo: "Lo sfondo ha il vecchio logo di Meridian, «quello con le righe», mandato in pensione un anno prima: nel codice di condotta vale trenta minuti a chi lo usa. Tocca però al supervisore di lei", fonte: "c19:87"}
   - {testo: "Spenta la modalità presenza, nell'anteprima resta solo lo sfondo: la parete chiara e il logo, senza nessuno davanti", fonte: "c19:83"}
 non_detto:
-aperti:
+note:
   - {testo: "«Fedele al suo aspetto attuale»: quale aspetto, per una che non pensa «fino in fondo» a stare in una stanza con qualcuno? Il testo lo lascia sospeso."}
 relazioni:
   - {verso: modalita-presenza, tipo: "realizza la", fonte: "c18:37"}

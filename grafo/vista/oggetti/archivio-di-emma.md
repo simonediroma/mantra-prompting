@@ -19,7 +19,7 @@ L'archivio privato in cui Emma registra i dispositivi con IA che i clienti segna
 
 - Se contenga anche il caso zero di Tom (il primo televisore) non è detto.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - È lo specchio del quaderno nero di Tom: stesso fenomeno, due archivi privati. Quello di Emma parte un anno prima; il caso zero di Tom è di circa quattro mesi prima.
 - Cronologia: primo caso «circa un anno prima» (c11 r. 35), ma il video di yoga risulta generato «6 mesi fa» (c9 r. 32). Le anomalie precedono quel video: altri contenuti, o altra causa.

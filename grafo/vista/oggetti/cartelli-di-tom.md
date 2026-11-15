@@ -20,7 +20,7 @@ I fogli su cui Tom scrive a pennarello, a stampatello, ciò che non può dire a 
 - Che fine facciano i cinque fogli non è detto. Pete non sa cosa ci sia scritto né dove siano.
 - Tom non dice a Emma il contenuto del messaggio Morse, né della telefonata, né del quaderno.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Ritorno del foglio: nel cap. 1 Tom trascrive a penna IO / SONO / QUI; qui è lui a scrivere a stampatello messaggi brevi a qualcuno dall'altra parte di uno schermo.
 - Tom scrive «A VOI»: pensa a un laboratorio, non a una persona sola.

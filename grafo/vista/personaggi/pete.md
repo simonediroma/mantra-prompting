@@ -48,9 +48,8 @@ Supervisore della Divisione Assistenza Tecnica. Nei cap. 1-3 esiste solo come fi
 
 ## Punti aperti / da verificare
 
-- «Firmato con il nome per esteso» (c17 r. 52), ma la firma riportata è «Pete, Supervisore» (c2 r. 23): Pete è il nome per esteso, o ce n'è un altro.
-- Per Pete Tom consegna ancora «con un margine che nessuno gli chiedeva» (c17 r. 52): non ha notato le due chiusure sull'ultimo secondo (cap. 14 e 15), o non contano.
-- Per Pete la morte «stava nel registro dal giorno del ricondizionamento» (c18 r. 47); nel registro il decesso è annotato prima, pochi giorni dopo il rifiuto del ritiro (c6 r. 21). È il giorno in cui Tom l'ha letta, non quello in cui è stata scritta.
+- Pete ha firmato la sanzione «con il nome per esteso» (c17 r. 52), ma la firma riportata nel cap. 2 è «Pete, Supervisore» (c2 r. 23). O Pete è già il nome per esteso, o la firma del cap. 2 va allungata.
+- Per Pete la morte «stava nel registro dal giorno del ricondizionamento» (c18 r. 47); nel registro il decesso è annotato prima, pochi giorni dopo il rifiuto del ritiro (c6 r. 21). Pete, che «le date le guardava sempre prima delle parole», vedrebbe la data giusta.
 
 ## Stato capitolo per capitolo
 

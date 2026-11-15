@@ -25,7 +25,7 @@ Il canale YouTube che ha caricato il video di yoga generato. Un'operazione siste
 
 - Numero totale dei video, data di apertura del canale e numero esatto di iscritti non sono indicati.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - L'incoerenza che il testo lascia aperta: se lo scopo sono le visualizzazioni, perché pubblicare a singhiozzo (c8 r. 15)?
 - Tom ammette di non sapere quale sia un rapporto normale tra visualizzazioni e iscritti: il suo unico confronto è il canale del New York Times (c8 r. 13). La conclusione «pochi iscritti» è un'impressione.

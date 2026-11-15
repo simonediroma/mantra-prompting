@@ -38,7 +38,7 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 - Dove la signora lo abbia trovato e su che piattaforma: non detto.
 - Che questo sia davvero il video della signora Voss è una deduzione di Tom: «non era una prova» (c7 r. 21, r. 23). Il testo non lo conferma nel cap. 7.
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Controesempio dichiarato dal testo: del primo televisore Tom «non sapeva nemmeno cosa guardasse il suo proprietario» (c6 r. 33).
 - Anche il video comincia con «sono qui» (c9 r. 17): terza occorrenza dopo il televisore (c1) e il comando al giradischi (c7).

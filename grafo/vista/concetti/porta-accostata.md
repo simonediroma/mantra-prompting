@@ -13,7 +13,7 @@ Per la prima volta in dodici anni Tom non chiude a doppia mandata: lascia un pal
 - Visto da Pete: «La porta, per la prima volta in dodici anni, l'aveva trovata accostata… un tecnico seduto di tre quarti davanti a un banco vuoto, con l'aria di chi aspetta qualcuno» *(cap. 17 r. 52)*
 - Pete era passato «apposta», per far sentire la sua presenza, quattro giorni dopo la riga della prima mail *(cap. 17 r. 52)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - La vedetta ha un effetto opposto a quello voluto: è proprio la porta aperta, insolita, a dare a Pete qualcosa da notare (c17 r. 52).
 - Con la porta accostata Tom dice ad alta voce «E tu come fai a saperlo?» (c15 r. 21), poco prima che passi Pete.
