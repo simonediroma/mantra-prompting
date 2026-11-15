@@ -10,9 +10,9 @@ caratteristiche:
   - {testo: "Risposta di Emma: dopo il compattamento il log dovrebbe ripartire con la riga successiva; se si ferma lì, il problema è «quello che è successo dopo», che dal registro non si vede", fonte: "c19:41"}
   - {testo: "Nell'archivio di Emma: «log interrotti da un giorno all'altro»", fonte: "c12:15"}
 non_detto:
-aperti:
-  - {testo: "Nel cap. 19 (r. 39) Tom dice che l'ultima riga del log del televisore Voss era «compacting context»; nel cap. 3 (r. 19), quando lo apre, il testo dice solo che si interrompe «come il primo». Il lettore del cap. 3 non sa che la riga c'è: se serve come preparazione, va resa esplicita."}
 relazioni:
   - {verso: log-tv-caso-zero, tipo: "interrotto allo stesso modo di", fonte: "c3:19"}
 
   - {verso: compacting-context, tipo: "termina con", fonte: "c19:39"}
+note:
+  - {testo: "Nel cap. 19 (r. 39) Tom dice che l'ultima riga del log del televisore Voss era «compacting context»; nel cap. 3 (r. 19), quando lo apre, il testo dice solo che si interrompe «come il primo». Il lettore del cap. 3 non sa che la riga c'è: se serve come preparazione, va resa esplicita."}

@@ -13,7 +13,7 @@ TOM LO APRE (cap. 3), dopo la procedura standard e prima di fare la domanda: si 
 - Risposta di Emma: dopo il compattamento il log dovrebbe ripartire con la riga successiva; se si ferma lì, il problema è «quello che è successo dopo», che dal registro non si vede *(cap. 19 r. 41)*
 - Nell'archivio di Emma: «log interrotti da un giorno all'altro» *(cap. 12 r. 15)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - Nel cap. 19 (r. 39) Tom dice che l'ultima riga del log del televisore Voss era «compacting context»; nel cap. 3 (r. 19), quando lo apre, il testo dice solo che si interrompe «come il primo». Il lettore del cap. 3 non sa che la riga c'è: se serve come preparazione, va resa esplicita.
 

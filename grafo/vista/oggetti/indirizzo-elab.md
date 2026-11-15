@@ -15,7 +15,7 @@ L'indirizzo che l'archivio interno indica come contatto del contenuto corrispond
 - Tom lo aveva «creduto morto» *(cap. 14 r. 27)*
 - Vuota per sei giorni; alle 23:34 di venerdì ne parte la prima mail fuori orario *(cap. 16 r. 23, cap. 16 r. 47)*
 
-## Punti aperti / da verificare
+## Osservazioni di lettura (non errori)
 
 - «Quel contatto l'aveva scritto il sistema, anni prima» (c10 r. 23): ma il contatto è quello associato al video, generato 6 mesi prima (c9 r. 32), e l'archivio etichetta i contenuti da «un paio d'anni» (c9 r. 25). Se Emma intende che l'indirizzo di Elab è stato impostato anni fa come contatto predefinito, conviene dirlo.
 

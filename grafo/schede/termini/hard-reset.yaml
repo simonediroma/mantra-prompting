@@ -8,6 +8,6 @@ caratteristiche:
   - {testo: "Hard reset ai valori di fabbrica: quello che Tom fa sul secondo televisore, «secondo procedura», come si era promesso per ogni caso ripetuto", fonte: "c3:35"}
   - {testo: "Confermato: l'hard reset cancella ciò che rispondeva; interrogare dopo è «come fare domande a un disco appena formattato»", fonte: "c6:25"}
   - {testo: "Anche il frigorifero anomalo viene «riconsegnato dopo hard reset»", fonte: "c11:31"}
-aperti:
-  - {testo: "Sul caso zero Tom esegue due volte la procedura standard, che comprende un reset software, e il televisore parla lo stesso (c1 r. 23); poi teme che «un reset qualunque» cancelli tutto (c1 r. 97). Conviene precisare che teme l'hard reset, l'unico che cancella (c6 r. 25)."}
 
+note:
+  - {testo: "Sul caso zero Tom esegue due volte la procedura standard, che comprende un reset software, e il televisore parla lo stesso (c1 r. 23); poi teme che «un reset qualunque» cancelli tutto (c1 r. 97). Conviene precisare che teme l'hard reset, l'unico che cancella (c6 r. 25)."}
