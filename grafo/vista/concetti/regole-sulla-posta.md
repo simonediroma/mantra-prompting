@@ -8,7 +8,7 @@ In Meridian contano l'ora e il luogo da cui parte una mail. Emma e Tom le usano 
 
 - Per Emma «le regole di Meridian sulla posta» coprono ciò che sta dietro le sue domande; scrive alle dieci e mezza, dentro il turno di Tom *(cap. 13 r. 45)*
 - Lavorare in pausa non è vietato da nessuna regola scritta: per questo è guardato peggio di molte cose vietate *(cap. 14 r. 35)*
-- Una mail personale su un computer aziendale «non era lavorare, o almeno nessuno avrebbe potuto dimostrarlo» *(cap. 14 r. 35)*
+- Scrivere a una collega dalla casella aziendale, per una faccenda propria, «non era lavorare, o almeno nessuno avrebbe potuto dimostrarlo» *(cap. 14 r. 35)*
 - Una mail inviata in pausa porta l'ora della pausa: basta a un supervisore per aprire una pratica. Inviata a banco vuoto, a turno ripreso, è inattaccabile *(cap. 14 r. 37)*
 - «Una mail di un dipendente, una volta partita, non apparteneva più del tutto al dipendente» *(cap. 14 r. 33)*
 - Valgono per tutti: Tom non conosce gli orari di nessun laboratorio ma le conosce. Una mail partita al primo secondo utile del turno (08:00:01) è una mail già scritta *(cap. 15 r. 11)*
