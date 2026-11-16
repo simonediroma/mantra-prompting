@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="1200" height="1600">
+  <defs>
+    <path id="body" d="M600 520 C560 470 430 455 385 560 C340 670 400 830 495 875 C535 893 565 870 600 870 C635 870 665 893 705 875 C800 830 860 670 815 560 C770 455 640 470 600 520 Z"/>
+    <mask id="bite"><rect width="1200" height="1600" fill="#fff"/><circle cx="835" cy="680" r="68" fill="#000"/></mask>
+    <clipPath id="inBody"><use href="#body"/></clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="22" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b2"/>
+      <feMerge><feMergeNode in="b1"/><feMergeNode in="b1"/><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Titolo -->
+  <g font-family="Inter Display" font-weight="900" fill="#f4f1ea" text-anchor="middle">
+    <text x="600" y="250" font-size="235" letter-spacing="-6">MANTRA</text>
+    <text x="600" y="400" font-size="150" letter-spacing="2">PROMPTING</text>
+  </g>
+
+  <!-- Insegna al neon: La Mela Morsicata -->
+  <g filter="url(#glow)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- corpo mela (rosso) -->
+    <g stroke="#ff3b46" stroke-width="16">
+      <use href="#body" mask="url(#bite)"/>
+      <circle cx="835" cy="680" r="68" clip-path="url(#inBody)"/>
+    </g>
+    <!-- picciolo e foglia (verde) -->
+    <g stroke="#59f5a0" stroke-width="13">
+      <path d="M600 515 C598 480 605 450 625 420"/>
+      <path d="M612 455 C640 405 705 395 740 415 C715 460 655 478 612 455 Z"/>
+      <path d="M625 452 C660 440 690 428 720 420" stroke-width="7"/>
+    </g>
+    <!-- ideogrammi 禁果 = frutto proibito -->
+    <text x="600" y="738" text-anchor="middle" font-family="WenQuanYi Zen Hei" font-size="150"
+          fill="none" stroke="#ffd0d6" stroke-width="5">禁果</text>
+  </g>
+
+  <!-- traduzione sotto, in piccolo -->
+  <text x="600" y="985" text-anchor="middle" font-family="JetBrains Mono" font-weight="700" font-size="44"
+        letter-spacing="14" fill="#ff8a93" filter="url(#glow)">LA MELA MORSICATA</text>
+</svg>
