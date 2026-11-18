@@ -11,7 +11,7 @@ version: 1.1
 
 ## Identità
 
-Nata come azienda software nel 1995 (fondata da tre persone: il fondatore, allora venticinquenne, un suo collega di università e un suo amico), ha prodotto da sempre sistemi operativi per device casalinghi. Ha poi espanso il business a datacenter e produzione di chip, prima ancora che l'IA diventasse di uso comune. Quando è scoppiata la bolla IA, Meridian è una delle poche aziende rimaste in piedi, grazie proprio a questa diversificazione precoce. Oggi vanta l'intera filiera: chip AI-native (brevetto proprietario per modelli piccoli su device consumer), datacenter propri di dimensioni enormi (la vastità dei dati non è mai un problema), prodotti finiti per il mercato consumer — TV, robot da cucina, elettrodomestici, tutti con OS proprietario e IA integrata — e dispositivi indossabili (l'eWatch, vedi sotto). Ci si riferisce all'azienda semplicemente come "Meridian", e ai dipendenti come "Meridians". Oltre 20.000 dipendenti nel mondo. **Location**: geograficamente indefinita — ambientazione internazionale/anglosassone, senza una città o un paese specifico.
+Nata come azienda software nel 1995 (fondata da tre persone: il fondatore, allora venticinquenne, un suo collega di università e un suo amico, oggi capo dell'HR), ha prodotto da sempre sistemi operativi per device casalinghi. Ha poi espanso il business a datacenter e produzione di chip, prima ancora che l'IA diventasse di uso comune. Quando è scoppiata la bolla IA, Meridian è una delle poche aziende rimaste in piedi, grazie proprio a questa diversificazione precoce. Oggi vanta l'intera filiera: chip AI-native (brevetto proprietario per modelli piccoli su device consumer), datacenter propri di dimensioni enormi (la vastità dei dati non è mai un problema), prodotti finiti per il mercato consumer — TV, robot da cucina, elettrodomestici, tutti con OS proprietario e IA integrata — e dispositivi indossabili (l'eWatch, vedi sotto). Ci si riferisce all'azienda semplicemente come "Meridian", e ai dipendenti come "Meridians". Oltre 20.000 dipendenti nel mondo. **Location**: geograficamente indefinita — ambientazione internazionale/anglosassone, senza una città o un paese specifico.
 
 ## Il brand — i due loghi
 
@@ -24,6 +24,7 @@ Nata come azienda software nel 1995 (fondata da tre persone: il fondatore, allor
 ## Il divieto di lavorare fuori orario — regola cardine, sempre da introdurre così
 
 **Facciata ufficiale**: divieto tassativo di lavorare fuori dall'orario d'ufficio, presentato come garanzia di "qualità della vita" e di parità di trattamento su scala globale.
+**Chi l'ha voluta**: il capo dell'HR, co-fondatore e amico del fondatore, mente dell'intero sistema di regole.
 **Verità sotto la facciata**: è un meccanismo di controllo che punta a ottimizzare al massimo il rendimento del lavoratore nelle ore contrattuali — il benessere è la maschera, non il motivo.
 **Come viene fatta rispettare**: tramite la figura dei **supervisori** (vedi sotto) e un sistema di alert automatico — chi supervisiona un dipendente riceve una notifica ogni volta che quel dipendente manda o riceve una mail fuori orario.
 **Limite tecnico preciso**: un supervisore può leggere il contenuto di una mail solo se il mittente/rispondente è un dipendente sotto la sua giurisdizione diretta. Non può leggere nulla di chi non è sotto il suo controllo (es. Pete non può leggere le mail di Emma), ma può leggere l'intero thread nel momento in cui il suo sottoposto (es. Tom) risponde.
@@ -32,7 +33,7 @@ Questa regola va **sempre ricordata quando un personaggio scrive o legge una mai
 
 ## I supervisori
 
-Ruolo esistente solo per sorvegliare, non per produrre: il loro unico compito è controllare gli altri dipendenti, assicurarsi che rispettino le regole sulla "qualità della vita", e comminare sanzioni minime in caso di violazione. Sono il primo livello del sistema di controllo. **Pete è un supervisore** — un ruolo coerente con la sua ambizione di scalare al livello successivo.
+Ruolo esistente solo per sorvegliare, non per produrre: il loro unico compito è controllare gli altri dipendenti, assicurarsi che rispettino le regole sulla "qualità della vita", e comminare sanzioni minime in caso di violazione. Sono il primo livello del sistema di controllo. **Al vertice c'è il capo dell'HR** (autore, 2026-11-18): co-fondatore di Meridian e amico del fondatore, è il supervisore massimo e l'autore dell'intero impianto di regole sulla "qualità della vita". Nome non ancora assegnato; rapporto gerarchico con gli ispettori interni da definire. **Pete è un supervisore** — un ruolo coerente con la sua ambizione di scalare al livello successivo.
 
 ## Indennizzo per apparecchi riparati mai ritirati (cap. 6)
 
