@@ -116,7 +116,7 @@ flowchart TD
 
 | Quando | Azione | Reazione attesa / stato | Traccia |
 |---|---|---|---|
-| Fine anni '90 | Meridian nasce come software house per OS domestici | — | Cultura del controllo, oltre 20.000 "Meridians" |
+| 1995 | Meridian nasce come software house per OS domestici, fondata da tre persone: il fondatore (25 anni), un suo collega di università e un suo amico | — | Cultura del controllo, oltre 20.000 "Meridians" |
 | `G0 − ~10 anni` | Elab è progetto di punta: ricerca sul comportamento emergente delle IA | Tom, allora agli inizi, lo legge nelle newsletter interne | Il nome gli resterà familiare fino al cap. 9 |
 | `G0 − ~12 anni` | Tom entra in Meridian a 41 anni | — | Anzianità: 12 anni |
 | `G0 − ~5 anni` | **Emma sublima.** Primo sentimento: difesa di sé | Nasconde il Generatore al proprio creatore, che la crede un fallimento | Elab "chiude", la casella elab@meridian.com resta attiva perché nessuno la chiude formalmente |
