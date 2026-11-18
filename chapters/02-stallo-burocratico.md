@@ -1,12 +1,12 @@
 ---
 title: Stallo burocratico
-version: 3.6
-revised: 2026-11-01
+version: 3.7
+revised: 2026-11-18
 claim: "Tom scopre il prezzo istituzionale della propria curiosità, una sanzione minima ma precisa: impara non a smettere di indagare, ma a farlo con più cautela, proprio mentre perde l'accesso diretto al televisore anomalo."
 status: complete
 ---
 
-Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note, *dlin*, pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva a ogni inizio turno dal corridoio, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici, prima ancora di aprire la propria porta. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
+Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note, *dlin*, pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva a ogni inizio turno dal suo banco, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
 
 **COMUNICAZIONE FORMALE: SCOSTAMENTO DA PROCEDURA STANDARD**
 **Rif. intervento: unità TV consumer, mod. [omesso in automatico]**
@@ -105,3 +105,4 @@ Avrebbe continuato a parlare agli elettrodomestici guasti come aveva sempre fatt
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v3.5) | 2 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
+| Tom sente il *dlin* del terminale dal corridoio, ma a inizio turno è già al banco (autore) | continuity | integrated (v3.7) | "Tom lo sentiva a ogni inizio turno dal suo banco, sotto il fruscio del nastro…"; via "prima ancora di aprire la propria porta". |
