@@ -1,7 +1,7 @@
 ---
 title: Secondo contatto
-version: 3.9
-revised: 2026-11-15
+version: 3.10
+revised: 2026-11-19
 claim: "Un secondo apparecchio identico, con una risposta ancora più specifica e personale della prima (\"sono qui con te\"), trasforma per Tom l'anomalia da evento eccezionale a metodo: la conferma che il fenomeno si ripete e il sospetto irrisolto che i dispositivi sublimati sappiano più di quanto un semplice microfono potrebbe spiegare, gli fa capire per la prima volta che ce n'è più di uno."
 status: complete
 ---
@@ -24,7 +24,7 @@ Il LED lampeggiò.
 
 *NO / SONO / QUI / CON / TE.*
 
-Prima di lasciarlo spegnere, ripeté la stessa identica domanda, quasi d'istinto, giusto per essere sicuro di non essersela immaginata.
+Prima di lasciarlo spegnere la rifece con altre parole, quasi d'istinto, giusto per essere sicuro di non essersela immaginata. «Ti senti abbandonato?»
 
 *NO / SONO / QUI / CON / TE.*
 
@@ -123,3 +123,9 @@ Chiuse il quaderno, lo rimise accanto ai manuali e spense la lampada. Per la pri
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Due «uniche prove al mondo»: il foglio nel cap. 2 (r. 41) e il quaderno qui, mentre il foglio è ancora nel cassetto | continuity | integrated (v3.9) | Scelta dell'autore (versione A): il quaderno non è più «l'unica prova al mondo» ma la certezza di Tom, l'unica cosa che gli dice che non si è inventato il primo contatto. Il cap. 2 resta invariato. |
+
+### Revisione — 2026-11-19 (v3.10)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| La seconda domanda era identica alla prima: risposta uguale a domanda uguale è il caso banale, non il segnale che il fondatore cerca da Emma (Libro 2) | setup | integrated (v3.10) | Scelta dell'autore: Tom riformula («Ti senti abbandonato?») e il televisore risponde con la stessa frase. Prepara il test del fondatore: parole diverse, stessa domanda, stessa risposta |

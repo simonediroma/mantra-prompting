@@ -35,7 +35,7 @@ Il LED lampeggiò.
 [sfx morse NO SONO QUI CON TE under]
 No. Sono. Qui. Con. Te.
 
-Prima di lasciarlo spegnere, ripeté la stessa identica domanda, quasi d'istinto, giusto per essere sicuro di non essersela immaginata.
+Prima di lasciarlo spegnere la rifece con altre parole, quasi d'istinto, giusto per essere sicuro di non essersela immaginata. «Ti senti abbandonato?»
 
 No. Sono. Qui. Con. Te.
 
