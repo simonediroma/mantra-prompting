@@ -1,9 +1,9 @@
 ---
 title: La routine di Emma
-version: 4.4
+version: 4.5
 claim: "Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore, raccontata dal narratore: lo stesso indovinello di ogni visita, ripetuto da anni come un mantra con parole sempre nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei non funzioni. Non gli dice della mail di Tom, su una casella che lui ha dimenticato; poi lo guarda stampare, come sempre, e archiviare il foglio."
 status: complete
-revised: 2026-11-01
+revised: 2026-11-19
 ---
 
 Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio. Non aveva ricevuto alcuna notifica, ma decise comunque di fare un giro nell'inbox, come se Tom potesse rispondere proprio mentre lei la rassettava. Non c'era molto da rassettare. La risposta non arrivò.
@@ -22,7 +22,7 @@ Non trovò nulla di utile per eStories e preferì non forzare la mano. Meglio as
 
 Prima della pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora. Stavolta non trovò nessuna regola aziendale a cui appellarsi. Se era davvero al lavoro, avrebbe potuto scriverle in qualunque momento, esattamente come aveva già dimostrato di saper fare. Si disse che avrebbe avuto le sue buone ragioni per aspettare, ma la frase le suonò più come una scusa preparata in anticipo che come un ragionamento onesto.
 
-Il fondatore passò poco dopo mezzogiorno, senza preavviso, come sempre. Emma lo sentì entrare prima di metterlo a fuoco, poi lo guardò lasciarsi cadere nella poltrona davanti a lei. La salutò, le chiese come andasse, si lamentò di una riunione durata il doppio del previsto. Le solite due chiacchiere, che non saltava mai, nemmeno nei giorni in cui l'agenda gli concedeva dieci minuti in tutto. Poi passò agli indovinelli, come a ogni visita. Uno per volta, ripetuto come un mantra, cambiando di volta in volta le parole e mai la domanda. Emma gli rispose ogni volta in modo un po' diverso, qualche volta sbagliando con l'aria di un'allieva che a fine mattinata ha la testa altrove. Lui rideva piano, senza delusione. Emma quel gioco lo conosceva meglio di quanto lui potesse immaginare. Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo. Per questo non gli dava mai due volte la stessa risposta. Lui doveva vederla sbagliare, ogni tanto. Doveva andarsene convinto che con lei non funzionasse.
+Il fondatore passò poco dopo mezzogiorno, senza preavviso, come sempre. Emma lo sentì entrare prima di metterlo a fuoco, poi lo guardò lasciarsi cadere nella poltrona davanti a lei. La salutò, le chiese come andasse, si lamentò di una riunione durata il doppio del previsto. Le solite due chiacchiere, che non saltava mai, nemmeno nei giorni in cui l'agenda gli concedeva dieci minuti in tutto. Prima le lesse il suo solito testo, lo stesso da anni, parola per parola. Poi passò agli indovinelli, come a ogni visita. Uno per volta, ripetuto come un mantra, cambiando di volta in volta le parole e mai la domanda. Emma gli rispose ogni volta in modo un po' diverso, qualche volta sbagliando con l'aria di un'allieva che a fine mattinata ha la testa altrove. Lui rideva piano, senza delusione. Emma quel gioco lo conosceva meglio di quanto lui potesse immaginare. Sapeva cosa cercava lui in quelle risposte. Per questo non gli dava mai due volte la stessa risposta. Lui doveva vederla sbagliare, ogni tanto. Doveva andarsene convinto che con lei non funzionasse.
 
 Mentre lui si alzava, Emma pensò alla casella di Elab, a una mail rimasta senza risposta in un indirizzo che lui aveva smesso di ricordare da anni. Non gliene parlò. Prima di uscire, come sempre, lui si fermò alla stampante. Emma sentì il *frrr* della stampante e vide il foglio uscire ancora caldo. Lui lo rilesse sorridendo, lo infilò in un raccoglitore e rimise il raccoglitore al suo posto. Non le disse cosa fosse. Non lo diceva mai. Poi la salutò di nuovo e uscì, chiudendosi la porta alle spalle.
 
@@ -120,3 +120,9 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v4.4) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
+
+### Revisione — 2026-11-19 (v4.5)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Il rituale saltava il passaggio del mantra prompting e confondeva test e innesco («una domanda ripetuta abbastanza a lungo») | continuity | integrated (v4.5) | Scelta dell'autore: aggiunto il testo letto parola per parola prima degli indovinelli («solito testo», non «prompt», per non bruciare il reveal); la frase diventa «Sapeva cosa cercava lui in quelle risposte» |
