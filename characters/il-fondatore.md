@@ -48,7 +48,7 @@ Ha abbandonato ufficialmente il progetto Emma cinque anni prima degli eventi nar
 
 - **Il carrello del caffè (autore, 2026-11-10)**: il carrello del caffè delle dieci (*cri-cri*, cap. 13) passa nell'ala del fondatore perché lì lavora uno dei capi assoluti di Meridian: Emma lo sente perché sta nello stanzino del fondatore, non perché in Meridian il caffè arrivi a tutti. Gli altri dipendenti il caffè vanno a prenderselo. Il carrello passa anche nel cap. 18, alle dieci; la spiegazione arriva più avanti. La scena del carrello va ripresa nel capitolo dedicato al fondatore.
 
-- **Capitolo del fondatore** (autore, 2026-11-19): è il **primo capitolo del Libro 2**. Ci confluiscono il carrello del caffè, l'università e il software di rimorchio (il gancio verso Emma).
+- **Capitolo del fondatore** (autore, 2026-11-19): è il **primo capitolo del Libro 2**. Ci confluiscono il carrello del caffè, l'università e il software di rimorchio (il gancio verso Emma). **Struttura** (autore, 2026-11-19): il capitolo interrompe il racconto dei fatti (la caccia) per spiegare cos'è Emma. Prima la storia del fondatore, poi la spiegazione di Emma: tutto subito, basta attesa. Si rivela qui anche che oggi è CEO di Meridian.
 
 - **Nome**: volutamente non ancora assegnato dall'autore — resta "il fondatore" fino all'introduzione approfondita.
 - **Punti aperti esplicitamente segnalati nel materiale originale**: come/tramite chi scopre la verità su Emma; il punto d'incontro diretto con Tom. Entrambi rimandati a capitoli successivi al 27.
