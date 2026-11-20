@@ -17,7 +17,7 @@ Fonte: `chapters/` (tutti `complete`). I copioni si rigenerano dai capitoli con 
 | 10 | Il bluff | 1.211 | 7.536 | ~9 min | da rigenerare (copione approvato) |
 | 11 | La routine di Emma | 1.260 | 7.834 | ~9 min | da rigenerare (copione approvato) |
 | 12 | Solo un tecnico? | 1.249 | 7.635 | ~9 min | da rigenerare (copione approvato) |
-| 13 | La correlazione | 1.676 | 10.341 | ~12 min | da rigenerare (copione approvato) |
+| 13 | La correlazione | 1.676 | 10.341 | 11,3 min | rendered (2026-11-20, "Smart TV" → "AI TV") |
 | 14 | La fiducia di Tom | 2.138 | 12.775 | ~15 min | copione da approvare, poi audio |
 
 ## Pronunciation
@@ -45,6 +45,7 @@ Con ElevenLabs i termini inglesi restano come nel libro: valgono solo le regole 
 | eTv, eBlog, eDj, eStories, Mixcloud, LinkedIn, YouTube, WhatsApp, E04 | invariati | letti correttamente da ElevenLabs; verificare eDj ed E04 al primo ascolto |
 | 8:00:01 (cap. 15, futuro) | le otto, zero zero e un secondo | da scrivere così nel copione |
 | compacting context, checksum, LED, IA, Meridian(s), reset, log | invariati | letti correttamente |
+| AI TV (cap. 13) | invariato | da verificare al primo ascolto: va letto "ei-ai tivù" |
 | ribere (cap. 16) | ribére | altrimenti rischia "rìbere"; applicato dal generatore (`PRONUNCIATION` in `export_podcast.py`), vale anche con ElevenLabs |
 
 ## Suoni d'ambiente e Morse (2026-11-01)
