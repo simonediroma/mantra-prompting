@@ -20,7 +20,7 @@ Il pannello di eTv si aprì sulla solita schermata di benvenuto, quella che a og
 Decine di migliaia di visualizzazioni non le dicevano niente. Le servivano le persone, o almeno quello che il pannello concedeva delle persone, cioè utenti senza nome divisi per tipo di dispositivo. Filtrò gli spettatori per numero di riproduzioni, dal più alto al più basso. Il primo della lista era così lontano dal secondo che il grafico, per farcelo stare, aveva dovuto schiacciare tutti gli altri in una riga piatta sul fondo. Aprì il dettaglio di quell'utente. La sua riga arrivava fino a oggi e finiva con più di tre settimane di zeri. Emma tagliò il periodo al giorno dopo l'ultima riproduzione.
 
 Yoga fit: diventa bella come me in quindici minuti al giorno.
-Spettatore: utente anonimo. Dispositivo: Smart TV.
+Spettatore: utente anonimo. Dispositivo: AI TV.
 Riproduzioni giornaliere (periodo selezionato): nove, dieci, dieci, undici, nove, dodici, dieci… diciotto, ventuno, ventiquattro, ventidue, ventisette, trentuno, ventotto, trenta. Zero.
 Velocità di riproduzione prevalente: doppia.
 Questo video sta fidelizzando il tuo pubblico!

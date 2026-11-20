@@ -28,7 +28,7 @@ Secondo televisore, modello identico al caso zero, arrivato un martedì tre mesi
 - Per Tom, dopo l'hard reset è «un disco appena formattato»: ciò che aveva risposto l'ha cancellato lui *(cap. 6 r. 25)*
 - Nell'archivio di Emma: data, modello, comportamento anomalo riportato dalla cliente; «log interrotti da un giorno all'altro» *(cap. 12 r. 15, cap. 12 r. 19)*
 - Sulla lista dell'assistenza è identificato da un «numero di matricola», con il nome del tecnico: Tom *(cap. 12 r. 21)*
-- È la «Smart TV» dello spettatore anonimo: per settimane ha riprodotto il video di yoga, fino a trenta volte al giorno, poi ha smesso da un giorno all'altro *(cap. 13 r. 16-21)*
+- È la «AI TV» dello spettatore anonimo: per settimane ha riprodotto il video di yoga, fino a trenta volte al giorno, poi ha smesso da un giorno all'altro *(cap. 13 r. 16-21)*
 - A casa era collegato alla rete domestica; i log degli ultimi giorni mancano *(cap. 13 r. 33)*
 - Sulla lista dell'assistenza ha due righe, entrambe di Tom: ingresso con la frase della signora, hard reset, «in attesa di ritiro»; poi, poco più di tre settimane dopo, «ricondizionato, in magazzino, in attesa di vendita» *(cap. 13 r. 43)*
 - È arrivato in laboratorio pochi giorni dopo la telefonata della signora *(cap. 13 r. 31)*

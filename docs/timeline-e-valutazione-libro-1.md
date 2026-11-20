@@ -56,7 +56,7 @@
 | Cap. | Quando | POV | Eventi salienti |
 |---|---|---|---|
 | 12 Solo un tecnico? | `G24` mattina | Emma | Il necrologio della signora Voss (foto: tappetino, TV Meridian, eWatch). Lo collega al suo archivio. Sulla lista dell'assistenza trova il tecnico: Tom. Investigatore o tecnico? Stessa mano nella mail e nelle schede, organigramma, LinkedIn, sito del giradischi: un tecnico vero, uno che smonta finché non capisce. |
-| 13 La correlazione | `G24` mattina, fino alle dieci e mezza | Emma | Nelle statistiche di eTv: un solo spettatore, Smart TV, "Yoga fit" a 2x da dieci fino a trenta volte al giorno, fino alla vigilia della chiamata. Prima il sollievo (ha funzionato), poi la paura: il TV può aver "preparato il terreno"? Deve sapere, senza tracce. Per matricola: Tom l'ha avuto due volte, e le ha scritto sapendo già della morte. **Decide di scrivergli: scuse come appiglio, domande di cui conosce le risposte.** |
+| 13 La correlazione | `G24` mattina, fino alle dieci e mezza | Emma | Nelle statistiche di eTv: un solo spettatore, AI TV, "Yoga fit" a 2x da dieci fino a trenta volte al giorno, fino alla vigilia della chiamata. Prima il sollievo (ha funzionato), poi la paura: il TV può aver "preparato il terreno"? Deve sapere, senza tracce. Per matricola: Tom l'ha avuto due volte, e le ha scritto sapendo già della morte. **Decide di scrivergli: scuse come appiglio, domande di cui conosce le risposte.** |
 
 ### Parte 6 — Secondo contatto (in lavorazione)
 

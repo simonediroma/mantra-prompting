@@ -20,6 +20,7 @@ Mechanical conventions. One value per row — mixing forms in the book is always
 | Serial comma | no | idraulica, cucina e yoga |
 | Numbers | in lettere nella narrazione (anche sopra dieci); cifre solo in box/schermate di sistema e titoli di video | le undici passate · *in 15 minuti al giorno* |
 | "mail" / "email" | sempre "mail" (una mail, la mail, le mail); "indirizzo di posta" per l'indirizzo | una mail vera · ❌ un'email vera |
+| "Smart TV" | i televisori con chip IA si chiamano "AI TV" (un'AI TV); "smart" resta solo per i dispositivi senza chip IA (es. smartwatch). "eTv" è il canale, non si tocca | un'AI TV · ❌ una Smart TV |
 
 ---
 

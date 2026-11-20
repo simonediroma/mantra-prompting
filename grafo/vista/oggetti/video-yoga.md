@@ -26,7 +26,7 @@ Il video che la signora Voss riproduceva sul televisore anche dieci volte al gio
 - Nell'archivio Meridian: corrispondenza trovata. Generato 6 mesi fa, autore unknown, modello internal_unknown, contatto elab@meridian.com *(cap. 9 r. 31-35)*
 - «Un prodotto Meridian, pubblicato su un canale che di Meridian non portava il nome, finito sul televisore Meridian di una cliente Meridian» *(cap. 9 r. 37)*
 - Confermato dal pannello di eTv: è tra i più visti del canale, con decine di migliaia di visualizzazioni *(cap. 13 r. 11, cap. 13 r. 13)*
-- Uno spettatore anonimo su Smart TV lo ha riprodotto 9-12 volte al giorno per settimane, poi 18, 21, 24, 22, 27, 31, 28, 30, poi 0; velocità prevalente 2x *(cap. 13 r. 17-18)*
+- Uno spettatore anonimo su AI TV lo ha riprodotto 9-12 volte al giorno per settimane, poi 18, 21, 24, 22, 27, 31, 28, 30, poi 0; velocità prevalente 2x *(cap. 13 r. 17-18)*
 - L'ultima riproduzione è della vigilia della prima chiamata della signora Voss all'assistenza *(cap. 13 r. 23)*
 - Emma decide di non rimuoverlo: decine di migliaia di persone lo hanno visto senza chiamare l'assistenza; ciò che è cambiato è l'apparecchio *(cap. 13 r. 37)*
 - Tom dice a Emma di essere arrivato a lei da questo video; Emma ricostruisce da sola la strada (tool di verifica, archivio interno, campo Contatto) *(cap. 19 r. 53-55)*

@@ -28,7 +28,7 @@ Da due giorni si chiedeva cosa sapesse Tom di lei. La domanda le parve all'impro
 
 Il processo del mattino partì con quattro ore di ritardo. I topic del giorno furono scremati in fretta, tre passarono alla pipeline, il resto aspettò l'indomani senza protestare. Emma li seguì con meno attenzione del solito, abbastanza per non sbagliare. Poco prima delle diciassette aprì lo shop dei ricondizionati Meridian. Nella categoria dei televisori trovò il modello in pochi secondi.
 
-> **Smart TV Meridian · Ricondizionato certificato**
+> **AI TV Meridian · Ricondizionato certificato**
 > Come nuovo. Testato da un tecnico Meridian.
 > Prezzo: −38% rispetto al nuovo · Garanzia 24 mesi
 > Disponibilità: 3 pezzi
