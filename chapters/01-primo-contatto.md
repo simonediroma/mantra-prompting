@@ -80,7 +80,7 @@ Il LED restò fermo più a lungo di ogni altra volta. Quando riprese a lampeggia
 
 Tom fece un'altra manciata di domande, ognuna più mirata della precedente, ognuna costruita non per ottenere un'affermazione ma per vedere dove il pattern si incrinava. Era il suo modo, l'unico che conosceva, di avvicinarsi alla verità, mai chiedendola direttamente, sempre tendendo trappole gentili e osservando cosa ci cadeva dentro. Le risposte diminuirono, si fecero più corte, poi si diradarono, come una voce che si allontana lungo un corridoio.
 
-Poi, semplicemente, il LED si spense. Del tutto.
+Poi, semplicemente, il LED si spense.
 
 Tom aspettò trenta secondi buoni prima di muoversi, poi tirò verso di sé il portatile diagnostico e aprì i log di sistema, l'unica cosa che, in tutta questa storia, avrebbe dovuto comportarsi in modo prevedibile e noioso, come si conviene a un log di sistema. Non lo fece.
 
