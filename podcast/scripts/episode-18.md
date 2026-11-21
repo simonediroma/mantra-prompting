@@ -4,10 +4,12 @@ title: "Capitolo 18 — La richiesta di meeting"
 description: "Una mail della notte aspetta Tom con una parola sbagliata, che lui non può correggere per iscritto. Così chiede a Emma l'unica cosa che una casella di Meridian non può leggere: vedersi di persona."
 source: chapters/18-la-richiesta-di-meeting.md
 status: "approved"
-recap: ""
-teaser: ""
+recap: "nel cuore della notte una mail di Emma ha svegliato Tom, che ha deciso di non aprirla prima delle otto, mentre Pete, sul divano, aspettava che lo facesse."
+teaser: "alle tre, un meeting in presenza, un pennarello e una telecamera che può scattare solo sette foto."
 ---
 Mantra Prompting. Incontrando Emma. Episodio diciotto.
+
+Nell'episodio precedente, nel cuore della notte una mail di Emma ha svegliato Tom, che ha deciso di non aprirla prima delle otto, mentre Pete, sul divano, aspettava che lo facesse.
 
 [pause 1]
 
@@ -80,3 +82,5 @@ Video completo: riservato agli ispettori interni.
 Pete lesse l'ultima riga come la leggeva ogni volta, con la faccia di chi trova una porta chiusa a chiave e la riconosce. Sette scatti bastavano. Dove c'era una trascrizione, sette foto erano tutto quello che serviva per mettere una faccia accanto alle parole. Chiuse il pannello, prese l'ultimo onion ring dal fondo del sacchetto e nel suo calendario creò un appuntamento alle quindici, privato, senza invitati. Lo chiamò "Doppia". Poi, per scrupolo, gli mise un promemoria un minuto prima.
 
 [pause 1.5]
+
+Nel prossimo episodio, alle tre, un meeting in presenza, un pennarello e una telecamera che può scattare solo sette foto.
