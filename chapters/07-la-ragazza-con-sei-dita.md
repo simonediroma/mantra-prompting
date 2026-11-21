@@ -26,7 +26,7 @@ Lo rivide da capo. Poi ancora. A ritmo normale, poi a velocità doppia, poi di n
 
 Al minuto tre e qualche secondo, durante un affondo laterale, il piede sinistro della ragazza toccò terra con un dito in più del previsto. Sei, non cinque. Tom fermò il video, si avvicinò allo schermo fino a sentirne il calore sulla faccia e tornò indietro un fotogramma alla volta con la tastiera. Contò di nuovo. Sei, per due fotogrammi consecutivi.
 
-Non era un difetto di compressione, non un artefatto della qualità video. Il piede, da un fotogramma all'altro, cambiava la propria anatomia. Cinque dita, poi sei, poi di nuovo cinque, come se il corpo stesso non riuscisse a decidersi. Il tipo di errore che una persona in carne e ossa non può commettere, semplicemente perché non ha un dito di scorta da tirare fuori per due fotogrammi e poi rimettere via. Un errore, invece, perfettamente coerente con un corpo che non era mai stato filmato, solo generato.
+Non era un difetto di compressione. Il piede, da un fotogramma all'altro, cambiava la propria anatomia. Cinque dita, poi sei, poi di nuovo cinque, come se il corpo stesso non riuscisse a decidersi. Il tipo di errore che una persona in carne e ossa non può commettere, semplicemente perché non ha un dito di scorta da tirare fuori per due fotogrammi e poi rimettere via. Un errore, invece, perfettamente coerente con un corpo che non era mai stato filmato, solo generato.
 
 Lasciò il fotogramma in pausa. Se quel video era stato generato, qualcuno lo aveva anche caricato. Decise che doveva capire chi.
 

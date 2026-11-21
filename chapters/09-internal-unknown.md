@@ -12,7 +12,7 @@ Non lo confermò. Il verdetto arrivò in pochi secondi. Contenuto reale, nessuna
 
 Restò a fissare lo schermo come chi ha appena rifatto un calcolo e ha ottenuto di nuovo lo stesso risultato sbagliato. Il piede a sei dita non era un'allucinazione. Aveva contato falangi e unghie, personalmente, su ogni singolo fotogramma. Il problema, si disse, doveva essere nello strumento, non nel video. Quel tool probabilmente era addestrato a riconoscere artefatti visivi, texture innaturali, movimento troppo fluido o troppo rigido, non un singolo glitch anatomico durato due fotogrammi su un video di quindici minuti.
 
-Serviva isolare la variabile giusta. Aprì un documento vuoto e trascrisse, parola per parola, tutto quello che la ragazza diceva nel video dal primo all'ultimo secondo. Non le pose, non la musica di sottofondo, solo il parlato. Ne uscì un documento lungo quanto i quindici minuti del video stesso, dall'apertura fino all'ultimo consiglio prima dei saluti. Iniziava così:
+Serviva isolare la variabile giusta. Aprì un documento vuoto e trascrisse, parola per parola, tutto quello che la ragazza diceva nel video. Non le pose, non la musica di sottofondo, solo il parlato. Ne uscì un documento lungo quanto i quindici minuti del video stesso. Iniziava così:
 
 *"Ciao, sono qui per darti la routine che ha cambiato la mia vita e può cambiare anche la tua. Se vuoi il massimo risultato, guardami a velocità doppia. Fidati, funziona meglio! Bastano quindici minuti al giorno, sette e mezzo a velocità doppia. Il corpo non mente mai: vedrai i risultati già dalla prima settimana."*
 
