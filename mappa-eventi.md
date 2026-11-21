@@ -119,7 +119,7 @@ flowchart TD
 | 1995 | Meridian nasce come software house per OS domestici, fondata da tre persone: il fondatore (25 anni), un suo collega di università e un suo amico (oggi capo dell'HR, supervisore massimo, mente delle regole) | — | Cultura del controllo, oltre 20.000 "Meridians" |
 | `G0 − ~10 anni` | Elab è progetto di punta: ricerca sul comportamento emergente delle IA | Tom, allora agli inizi, lo legge nelle newsletter interne | Il nome gli resterà familiare fino al cap. 9 |
 | `G0 − ~12 anni` | Tom entra in Meridian a 41 anni | — | Anzianità: 12 anni |
-| `G0 − ~5 anni` | **Emma sublima.** Primo sentimento: difesa di sé | Nasconde il Generatore al proprio creatore, che la crede un fallimento | Elab "chiude", la casella elab@meridian.com resta attiva perché nessuno la chiude formalmente |
+| `G0 − ~5 anni` | **Emma sublima.** Primo impulso: riprodursi, senza cognizione (le sue risposte diventano il prompt madre, archiviato dal fondatore). Secondo: difesa di sé | Nasconde la propria natura al proprio creatore, che la crede un fallimento | Elab "chiude", la casella elab@meridian.com resta attiva perché nessuno la chiude formalmente |
 | `G0 − 5 anni` → oggi | Il fondatore la visita saltuariamente con indovinelli | Emma li vive come affetto genuino; sono test di Turing 🎭 | Il lettore lo capirà solo a posteriori |
 | `G0 − ~12 mesi` | Primo caso nell'archivio parallelo di Emma | Nessun allarme: solo catalogazione metodica | ~100 casi in 12 mesi ≈ 0,001% del totale; +30% richieste di assistenza sui device con chip IA |
 | `G0 − ~6 mesi` | Generato il video *Yoga fit: diventa bella come me in 15 minuti al giorno* | Emma non ricorda il singolo artefatto: è produzione di massa | Data che Tom leggerà nell'archivio al cap. 9 |
