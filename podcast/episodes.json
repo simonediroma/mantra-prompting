@@ -1,80 +1,80 @@
 {
   "episode-01": {
-    "length": 12183164,
-    "md5": "a19eb2d36e2d",
+    "length": 12126426,
+    "md5": "b064c9d9f05e",
     "pub": 1792738595,
-    "rev": 2,
-    "seconds": 1015
+    "rev": 3,
+    "seconds": 1010
   },
   "episode-02": {
-    "length": 6709993,
-    "md5": "ef99ca026bab",
+    "length": 6697141,
+    "md5": "99dcfb545345",
     "pub": 1792742195,
-    "rev": 2,
-    "seconds": 559
+    "rev": 3,
+    "seconds": 558
   },
   "episode-03": {
-    "length": 7225021,
-    "md5": "ab189a6c4a58",
+    "length": 7162327,
+    "md5": "28e9f9173a21",
     "pub": 1792745795,
-    "rev": 2,
-    "seconds": 602
+    "rev": 3,
+    "seconds": 596
   },
   "episode-04": {
-    "length": 6709372,
-    "md5": "e8508c80067e",
+    "length": 6641349,
+    "md5": "972e03f749cc",
     "pub": 1792749395,
-    "rev": 1,
-    "seconds": 559
+    "rev": 2,
+    "seconds": 553
   },
   "episode-05": {
-    "length": 6136340,
-    "md5": "2386abb42b4a",
+    "length": 6032268,
+    "md5": "3091e49c3cac",
     "pub": 1792752995,
-    "rev": 2,
-    "seconds": 511
+    "rev": 3,
+    "seconds": 502
   },
   "episode-06": {
-    "length": 6168633,
-    "md5": "516c886bd49a",
+    "length": 6119732,
+    "md5": "c96be78819ea",
     "pub": 1792756595,
-    "rev": 1,
-    "seconds": 514
+    "rev": 2,
+    "seconds": 509
   },
   "episode-07": {
-    "length": 6274275,
-    "md5": "74c00c34f63f",
+    "length": 6242928,
+    "md5": "0749d56d94ed",
     "pub": 1792760195,
-    "rev": 2,
-    "seconds": 522
+    "rev": 3,
+    "seconds": 520
   },
   "episode-08": {
-    "length": 3357433,
-    "md5": "7b1db71dded5",
+    "length": 3315428,
+    "md5": "a8300f2b15e5",
     "pub": 1792763795,
-    "rev": 2,
-    "seconds": 279
+    "rev": 3,
+    "seconds": 276
   },
   "episode-09": {
-    "length": 5054559,
-    "md5": "edd5d7994013",
+    "length": 4979013,
+    "md5": "3c39d8751849",
     "pub": 1792767395,
-    "rev": 1,
-    "seconds": 421
+    "rev": 2,
+    "seconds": 414
   },
   "episode-10": {
-    "length": 5371471,
-    "md5": "bc4dde70b2b2",
+    "length": 5315359,
+    "md5": "641f7f8679f3",
     "pub": 1792770995,
-    "rev": 2,
-    "seconds": 447
+    "rev": 3,
+    "seconds": 442
   },
   "episode-11": {
-    "length": 6088072,
-    "md5": "a2702d254afb",
+    "length": 6048261,
+    "md5": "7eaf046f06a1",
     "pub": 1792774595,
-    "rev": 1,
-    "seconds": 507
+    "rev": 2,
+    "seconds": 503
   },
   "episode-12": {
     "length": 5852341,
