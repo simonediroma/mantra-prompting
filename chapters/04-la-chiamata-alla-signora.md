@@ -50,7 +50,7 @@ Tom non aveva previsto quel dettaglio, ma non poteva certo tirarsi indietro senz
 
 Chiuse la chiamata con le formule di rito, ringraziandola per la disponibilità, augurandole una buona giornata. Restò a fissare il telefono muto come, tre mesi prima, era rimasto a fissare un televisore altrettanto muto.
 
-Ripensandoci, si rese conto di aver improvvisato l'intera telefonata come un principiante. Nessuno script pronto, nessuna domanda preparata a dovere, un copione che gli era scivolato di mano dopo la prima frase. Se la signora Voss fosse stata più attenta alla coerenza di quello che le stava chiedendo, invece che presa dalla voglia di raccontare finalmente a qualcuno cosa le fosse successo, lo avrebbe smascherato senza nessuna fatica.
+Ripensandoci, si rese conto di aver improvvisato l'intera telefonata come un principiante. Nessuno script pronto, nessuna domanda preparata a dovere, un copione che gli era scivolato di mano dopo la prima frase. Se la signora Voss fosse stata più attenta alla coerenza di quello che le stava chiedendo, invece che presa dalla voglia di raccontare finalmente a qualcuno cosa le fosse successo, lo avrebbe smascherato.
 
 La signora Voss aveva descritto, senza saperlo, la stessa cosa che lui aveva avuto sul banco il giorno prima. Non era più l'unico a vederla.
 
