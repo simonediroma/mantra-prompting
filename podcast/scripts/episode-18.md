@@ -1,7 +1,7 @@
 ---
 episode: 18
 title: "Capitolo 18 — La richiesta di meeting"
-description: ""
+description: "Una mail della notte aspetta Tom con una parola sbagliata, che lui non può correggere per iscritto. Così chiede a Emma l'unica cosa che una casella di Meridian non può leggere: vedersi di persona."
 source: chapters/18-la-richiesta-di-meeting.md
 status: "approved"
 recap: ""
