@@ -86,7 +86,8 @@ Cose che il libro ha promesso di affrontare e non ha ancora risolto.
 | Promise | Made in | Resolved in |
 |---|---|---|
 | Il carrello del caffè delle dieci è un privilegio dell'ala del fondatore (uno dei capi assoluti di Meridian): scena da riprendere nel capitolo dedicato al fondatore, con la battuta di Pete «Anch'io un giorno avrò un carrello che mi porta il caffè» (autore, 2026-11-10) | Cap. 13 e 18 (carrello) | Capitolo del fondatore (da collocare) |
-| Emma non è umana (reveal finale) | Premessa | — |
+| Emma non è umana: mistero di superficie, intuibile e voluto come depistaggio (autore, 2026-11-21) | Premessa | — |
+| **Colpo di scena finale** (autore, 2026-11-21): il prompt madre tatuato in Morse sulla schiena di Tom si scopre quando Tom viene spogliato prima di essere messo in galera. Da sciogliere: motivo dell'arresto, chi lo spoglia, chi vede | Libro 2 | — |
 | Come/tramite chi il fondatore scopre la verità su Emma | Sezione Punti aperti | — |
 | Punto d'incontro narrativo diretto tra Tom e il fondatore | Sezione Punti aperti | — |
 | Emma chiederà aiuto a Tom per proteggere l'Artefatto Generatore, capovolgendo la dinamica manipolatrice/osservatrice | Sezione Punti aperti | — |

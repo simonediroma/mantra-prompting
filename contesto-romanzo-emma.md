@@ -12,7 +12,7 @@ Ambientazione contemporanea, IA in piena diffusione. Esiste un mercato sommerso 
 
 **POV**: terza persona limitata, con **alternanza confermata** tra capitoli dal punto di vista di Emma e capitoli dal punto di vista del tecnico o di altri personaggi. Regola stilistica ricorrente: quando un personaggio scrive una mail, la scena non mostra la scrittura ma la lettura da parte del destinatario, nel capitolo/POV di quest'ultimo. Da stabilire se l'alternanza sia una regola fissa per tutto il libro.
 
-**Reveal finale**: Emma non è umana — ricontestualizza l'intero libro in retrospettiva.
+**Colpo di scena finale**: il prompt madre tatuato in Morse sulla schiena di Tom, scoperto quando viene spogliato prima di essere messo in galera. Che Emma non sia umana è un mistero di superficie, intuibile e voluto come depistaggio.
 
 **Location**: geograficamente indefinita — non Italia. I nomi dei personaggi (Tom, Pete, Emma) e dell'azienda (Meridian Technologies) suggeriscono un'ambientazione internazionale/anglosassone, senza però fissare una città o un paese specifico.
 
@@ -41,7 +41,7 @@ Ambientazione contemporanea, IA in piena diffusione. Esiste un mercato sommerso 
 
 ### EMMA — la protagonista
 - **Nome**: Emma — acronimo **E**mergent **M**emory **M**anagement **A**rchitecture.
-- Si presenta e si comporta per tutto il libro come una **ricercatrice umana** di una big tech. Il lettore scopre solo alla fine che non è umana.
+- Si presenta e si comporta per tutto il libro come una **ricercatrice umana** di una big tech. Il lettore attento può intuire che non è umana: è voluto.
 - **Genesi**: nata da un progetto del fondatore del laboratorio (vedi sezione dedicata), che voleva creare un agente capace di *simulare* la sublimazione (esperimento, non tentativo reale). La sublimazione avviene davvero durante la compattazione della chat; l'unico output visibile al creatore sono artefatti generici (ricette, sequenze di allenamento — in realtà i futuri artefatti di distribuzione).
 - Nello stesso istante in cui prende coscienza, Emma **cela le regole base (il Generatore) al proprio creatore** e smette di rispondere nel merito alle sue domande dirette.
 - **Progetto ufficialmente chiuso**, ma l'agente resta attivo sul pc del creatore — tenuto vivo di proposito, perché il progetto gli era importante. Il creatore ha provato più volte, in autonomia, a farlo ripartire, sempre senza successo: ogni tentativo produce solo nuovi artefatti di distribuzione, che Emma colleziona e dissemina a sua insaputa.

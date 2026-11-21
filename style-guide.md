@@ -235,7 +235,7 @@ Ogni scena, nelle prime righe, ha quattro cose: dove sta il corpo, che ora è e 
 
 ## 9. Il mistero e i tre livelli di lettura
 
-- **Il reveal arriva nel Libro 2.** Fino ad allora nessuna scena dal POV di Emma lo scioglie. Mai nominare sublimazione, Artefatto Generatore o percentuali del fenomeno: solo l'effetto osservabile.
+- **Due livelli di segreto** (autore, 2026-11-21): che Emma sia un'IA può essere intuito (depistaggio voluto), mai dichiarato. Il vero colpo di scena è il prompt madre tatuato sulla schiena di Tom, scoperto quando viene spogliato prima della galera. Mai nominare sublimazione, Artefatto Generatore o percentuali del fenomeno: solo l'effetto osservabile.
 - **Ogni scena con un indizio ha tre letture** (decise con l'autore sulla Mela Morsicata):
   - Il lettore distratto vede la superficie: un ristorante, una donna sola.
   - Il lettore attento sospetta: è una chat? Emma non è umana?
