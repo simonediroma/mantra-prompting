@@ -54,7 +54,7 @@ Ripensandoci, si rese conto di aver improvvisato l'intera telefonata come un pri
 
 La signora Voss aveva descritto, senza saperlo, la stessa cosa che lui aveva avuto sul banco il giorno prima. Non era più l'unico a vederla.
 
-Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata fino all'ultimo secondo. Bastava un piccolo ritardo, anche di pochi minuti, per dare al supervisore un nuovo pretesto. Si staccò dal tavolo, uscì di casa quasi correndo e fece di corsa anche gli ultimi due isolati fino alla fermata, lui che in dodici anni non aveva mai corso per un autobus.
+Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata. Bastava un piccolo ritardo per dare al supervisore un nuovo pretesto. Si staccò dal tavolo, uscì di casa quasi correndo e fece di corsa anche gli ultimi due isolati fino alla fermata, lui che in dodici anni non aveva mai corso per un autobus.
 
 ## Demolition Log
 
