@@ -116,17 +116,17 @@
     "seconds": 758
   },
   "episode-18": {
-    "length": 12604792,
-    "md5": "a36fa6693ef7",
+    "length": 12860896,
+    "md5": "41d1317affa2",
     "pub": 1794606106,
-    "rev": 2,
-    "seconds": 1050
+    "rev": 3,
+    "seconds": 1071
   },
   "episode-19": {
-    "length": 15755459,
-    "md5": "fb0a87ce99d2",
+    "length": 15889938,
+    "md5": "673a07fc46a0",
     "pub": 1794609706,
-    "rev": 1,
-    "seconds": 1312
+    "rev": 2,
+    "seconds": 1324
   }
 }
