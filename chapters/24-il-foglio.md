@@ -4,7 +4,7 @@ version: 0.1
 revised: 2026-11-22
 claim: "Da definire: per ora solo l'apertura."
 status: draft
-summary: "G35, martedì. Dopo la notte al giradischi Tom, per la prima volta in dodici anni, si mette in malattia. La giornata passa veloce. Appena scaduta la finestra in cui il medico dell'azienda può passare a controllare, alle 19:01, esce e va al Ganesh Bazar. Al banco c'è un ragazzo; Tom gli dice che Emma gli ha lasciato qualcosa. Il ragazzo annuisce, gli dà un foglio da consegnare di sotto e con un cenno gli indica di proseguire verso il bagno."
+summary: "G35, martedì. Dopo la notte al giradischi Tom, per la prima volta in dodici anni, si mette in malattia. La giornata passa veloce. Appena scaduta la finestra in cui il medico dell'azienda può passare a controllare, alle 19:01, esce e va al Ganesh Bazar. Al banco c'è un ragazzo; Tom gli dice che Emma gli ha lasciato qualcosa. Il ragazzo annuisce, gli dà un foglio da consegnare di sotto e con un cenno gli indica di proseguire verso il bagno. Di sotto Tom consegna il foglio alla tatuatrice («Visore o ago?»), che lo legge, se lo mette in tasca e gli indica la poltrona accanto alla sua con il LED MATTIA."
 ---
 
 Alle sette del mattino, con il sole che entrava di sbieco dalla finestra del salotto e *Easy Listening Vol. 3* di nuovo sul piatto, al giro numero non sapeva più quanto, Tom fece una cosa che in dodici anni di Meridian non aveva mai fatto. Si mise in malattia.
@@ -28,3 +28,15 @@ Il ragazzo staccò gli occhi dal cricket, lo guardò per un secondo, come si gua
 «Questo è da consegnare di sotto» disse.
 
 Poi, senza aggiungere altro, gli fece un cenno con il mento verso la tenda a fiori in fondo al negozio, verso il bagno, e tornò al cricket.
+
+Il bagno era lo stesso, con le piastrelle verdi e la catenella con il pomello di porcellana. Questa volta Tom non rimase a guardarlo. Tirò la catenella, aspettò lo scatto dietro il muro e il rumore dei contrappesi, poi scese la scala nella roccia con il foglio in mano, tenendolo per un angolo come gliel'aveva dato il ragazzo, senza aprirlo. Non era suo. Era da consegnare, perché un tecnico, una cosa da consegnare, non la apre.
+
+Di sotto il ronzio degli aghi e dei ventilatori lo accolse come la sera prima, con le lampadine appese al cavo e le frecce con i nomi lungo le pareti. Questa volta non lesse i LED. Andò dritto alla stanza in fondo al corridoio, quella con le quattro poltrone, perché se c'era qualcuno a cui consegnare un foglio, di sotto, era l'unica persona che gli avesse rivolto la parola.
+
+La tatuatrice era lì, china su un ragazzo a pancia in giù, con l'ago che ronzava sopra una spalla. Alzò gli occhi quando Tom entrò, lo riconobbe, guardò i jeans neri e fece un mezzo sorriso, senza dire niente, cosa di cui Tom le fu più grato che di qualunque battuta. Spense l'ago, si tolse un guanto e tese la mano.
+
+Tom le diede il foglio.
+
+Lei lo aprì, lo lesse senza cambiare faccia, lo ripiegò in quattro e se lo infilò nella tasca del grembiule, come una ricevuta. Poi, con la mano ancora senza guanto, gli indicò una poltrona della stanza, quella accanto alla sua, dove sopra lo schienale la striscia di LED scriveva in lettere rosse il suo nome nuovo.
+
+MATTIA.
