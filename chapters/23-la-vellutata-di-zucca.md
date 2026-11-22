@@ -1,0 +1,26 @@
+---
+title: La vellutata di zucca
+version: 0.1
+revised: 2026-11-22
+claim: "Da definire: per ora solo la scena d'apertura."
+status: draft
+summary: "G34, lunedì sera. Pete, tornato a prendere la macchina per il freddo, aspetta davanti al Ganesh Bazar che Tom esca. A un certo punto entra; il vecchio dietro il banco gli chiede cosa gli serva, Pete non risponde, gira tra gli scaffali, trova la tenda a fiori e spalanca la porta del bagno. Dentro c'è un omone seduto sul water: «Ma che cazzo, sono questi i modi? Sto cacando. Ho mangiato un litro di vellutata di zucca, ne avrò ancora per un bel po'. Chiudi la porta, gira i tacchi e vattene.»"
+---
+
+Alle otto e mezza Pete era tornato a prendere la macchina, perché la giacca d'ordinanza era fatta per l'open space e non per stare dietro un furgone, e l'aveva parcheggiata proprio davanti al Ganesh Bazar, in doppia fila, con il motore acceso e il riscaldamento al massimo. Da lì vedeva la vetrina, i sacchi di riso, la piramide di ceci e, dietro il banco, il vecchio con la barba bianca che guardava il cricket. Della tenda a fiori in fondo al negozio si vedeva solo un angolo, che non si muoveva.
+
+Aspettò. Uscì una coppia con un sacchetto di lenticchie. Entrò un uomo grosso con la tuta da ginnastica e ne uscì un altro, più piccolo, con un mazzo di coriandolo. Il nerd no. L'eWatch gli ricordò per la terza volta che era fuori orario e che il riposo era un diritto, con lo stesso tono con cui la newsletter Benessere ricordava ai dipendenti di bere due litri d'acqua al giorno, senza specificare dove andassero poi.
+
+Alle nove Pete spense il motore. Un uomo che entra in un negozio e non esce è un uomo che dentro quel negozio ha trovato un posto dove stare, mentre un posto dove stare, per esperienza, ha sempre una porta che qualcuno, prima o poi, deve aprire. Scese dalla macchina, si sistemò la giacca, si mise gli occhiali da sole, anche se era buio, perché era entrato in molti posti con gli occhiali da sole e in nessuno lo avevano preso per un uomo qualunque, poi entrò. Il campanello suonò sopra la sua testa.
+
+«Buonasera» disse il vecchio, senza staccare gli occhi dal cricket. «Cosa le serve?»
+
+Pete non rispose. Al liceo non rispondeva mai a chi gli chiedeva cosa volesse, perché la risposta la scopriva l'altro, di solito con la testa nel cestino. Cominciò a girare per il negozio, piano, con le mani dietro la schiena, come faceva in open space il lunedì mattina tra le postazioni dei suoi sottoposti. Il primo scaffale era di legumi, il secondo di spezie, il terzo di cose che Pete non sapeva cosa fossero e che non gli interessavano. Dietro il terzo scaffale non c'era nessuno. Dietro la cassa frigorifera non c'era nessuno. Il negozio era lungo quanto il suo open space era largo e un uomo alto quasi due metri non ci si poteva nascondere, a meno che non si nascondesse dove nessuno guarda.
+
+In fondo c'era la tenda a fiori. Pete la scostò con il dorso della mano. Dietro c'era un corridoio corto, con una cassa di cipolle, una scopa appoggiata al muro e una porta sola, con un cartello scritto a mano che diceva *WC*. Era chiusa. Pete sentì la stessa cosa che sentiva al liceo davanti al bagno dei professori, l'unica porta della scuola che non gli era permesso aprire, e fece quello che al liceo non aveva mai avuto il coraggio di fare.
+
+Afferrò la maniglia e spalancò la porta.
+
+Dentro, seduto sul water, con i pantaloni della tuta alle caviglie, i gomiti sulle ginocchia e il telefono in mano, c'era un omone con la barba lunga e una canottiera bianca. Alzò gli occhi verso Pete con la calma di chi in quel bagno era a casa sua.
+
+«Ma che cazzo, sono questi i modi?» disse. «Sto cacando. Ho mangiato un litro di vellutata di zucca, ne avrò ancora per un bel po'. Chiudi la porta, gira i tacchi e vattene.»
