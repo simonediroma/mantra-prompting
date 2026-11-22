@@ -117,7 +117,7 @@ Dall'altra parte ci fu un silenzio corto. «Elab» disse il poliziotto. «Credev
 
 Il poliziotto rise. «Le tue regole.»
 
-«Le mie regole» disse il capo supremo. «Non so cosa abbia in testa il Prof. Non lo sa mai nemmeno lui. Ma se sta portando fuori qualcosa, lo sta portando fuori con quel tecnico.» Si fermò, come si ferma chi chiede un favore che ha già chiesto altre volte. «Fagli il solito rendez-vous. Domani il tecnico torna, quelli alla prima volta tornano sempre. Prendetelo all'uscita della lavanderia e fategli il trattamento che riserviamo a chi va reso innocuo. Al Prof ci penso io.»
+«Le mie regole» disse il capo supremo. «Non so cosa abbia in testa il Prof. Non lo sa mai nemmeno lui. Ma se sta portando fuori qualcosa, lo sta portando fuori con quel tecnico.» Si fermò, come si ferma chi chiede un favore che ha già chiesto altre volte. «Fagli il solito rendez-vous. Appena il tecnico torna, prendetelo all'uscita della lavanderia e fategli il trattamento che riserviamo a chi va reso innocuo. Al Prof ci penso io.»
 
 «Va bene» disse il poliziotto, senza bisogno di farsi ripetere niente. Poi, con un tono diverso, quasi affettuoso, aggiunse: «Sai che non te l'ho mai detto? La Mela Morsicata è stata un'idea geniale. Tutti quelli che vogliono sparire vanno a sparire nello stesso posto, il tuo, e ci vanno contenti, perché è fico.»
 
