@@ -4,7 +4,7 @@ version: 0.1
 revised: 2026-11-22
 claim: "Da definire: per ora solo l'apertura."
 status: draft
-summary: "G35, martedì. Dopo la notte al giradischi Tom, per la prima volta in dodici anni, si mette in malattia. La giornata passa veloce. Appena scaduta la finestra in cui il medico dell'azienda può passare a controllare, alle 19:01, esce e va al Ganesh Bazar. Pete, che dal mattino ha visto la malattia sul pannello delle presenze, dopo il lavoro è tornato sul gradino della ferramenta e appena lo vede uscire lo segue. Al banco c'è un ragazzo; Tom gli dice che Emma gli ha lasciato qualcosa. Il ragazzo annuisce, gli dà un foglio da consegnare di sotto e con un cenno gli indica di proseguire verso il bagno. Di sotto Tom consegna il foglio alla tatuatrice («Visore o ago?»), che lo legge, se lo mette in tasca e gli indica la poltrona accanto alla sua con il LED MATTIA. Pete entra nel bazar, chiede il bagno (stavolta è vero), lo trova vuoto, tira la catenella e la parete ruota: scende nei cunicoli, tra tatuatori e visori, a cercare il suo nerd."
+summary: "G35, martedì. Dopo la notte al giradischi Tom, per la prima volta in dodici anni, si mette in malattia. La giornata passa veloce. Appena scaduta la finestra in cui il medico dell'azienda può passare a controllare, alle 19:01, esce e va al Ganesh Bazar. Pete, che dal mattino ha visto la malattia sul pannello delle presenze, dopo il lavoro è tornato sul gradino della ferramenta e appena lo vede uscire lo segue. Al banco c'è un ragazzo; Tom, con una vecchia spilletta della Apple appuntata al bavero dell'impermeabile (la chiave della mela), gli dice che Emma gli ha lasciato qualcosa; il ragazzo guarda la spilla. Il ragazzo annuisce, gli dà un foglio da consegnare di sotto e con un cenno gli indica di proseguire verso il bagno. Di sotto Tom consegna il foglio alla tatuatrice («Visore o ago?»), che lo legge, se lo mette in tasca e gli indica la poltrona accanto alla sua con il LED MATTIA. Pete entra nel bazar, chiede il bagno (stavolta è vero), lo trova vuoto, tira la catenella e la parete ruota: scende nei cunicoli, tra tatuatori e visori, a cercare il suo nerd."
 ---
 
 Alle sette del mattino, con il sole che entrava di sbieco dalla finestra del salotto e *Easy Listening Vol. 3* di nuovo sul piatto, al giro numero non sapeva più quanto, Tom fece una cosa che in dodici anni di Meridian non aveva mai fatto. Si mise in malattia.
@@ -13,7 +13,7 @@ La procedura era più semplice di quanto avesse immaginato, il che lo deluse un 
 
 Non era malato, almeno non di una cosa che un medico dell'azienda avrebbe saputo scrivere su un referto. Non aveva dormito, aveva le orecchie che fischiavano piano come un trasformatore sotto carico e nella testa la musica non aveva smesso un momento, nemmeno quando aveva tolto il disco. Ma la ragione vera era un'altra. Non sarebbe riuscito a stare dieci ore davanti al nastro, a cambiare guarnizioni e a rispondere a Pete con la faccia di un tecnico qualunque, sapendo quello che sapeva e sapendo che la sera Emma gli avrebbe lasciato un messaggio.
 
-La giornata passò velocemente, come non passava mai quella di nessuno che aspetta. Dormì due ore sul divano, di un sonno senza sogni, poi si svegliò con un ritornello già in testa e tornò al giradischi. Mangiò qualcosa in piedi, alle quattro del pomeriggio, perché il digiuno intermittente, quel giorno, non sapeva più a che ora cominciasse. Il medico dell'azienda non passò. Alle sette meno cinque Tom era già vestito, con i jeans neri della lavanderia e il maglione scuro, seduto sul bordo del divano con lo sguardo fisso sull'eWatch, come la mattina del secondo contatto con il cronometro dei quarantasette secondi.
+La giornata passò velocemente, come non passava mai quella di nessuno che aspetta. Dormì due ore sul divano, di un sonno senza sogni, poi si svegliò con un ritornello già in testa e tornò al giradischi. Mangiò qualcosa in piedi, alle quattro del pomeriggio, perché il digiuno intermittente, quel giorno, non sapeva più a che ora cominciasse. Il medico dell'azienda non passò. Alle sei e mezza si ricordò della mela. Emma non gli aveva detto quale, solo che si vedesse. Tom non aveva mele in casa, né vere né disegnate, ma in fondo al cassetto dei cavi, sotto un groviglio di adattatori che non adattavano più niente, c'era una vecchia spilletta della Apple, quella con la mela a strisce colorate, che un audiofilo scandinavo gli aveva regalato al suo ultimo hackmeeting come si regala un pezzo d'antiquariato. In un'azienda che vietava i loghi vecchi perfino ai propri dipendenti, il logo vecchio di un'altra azienda era quasi una dichiarazione politica. La appuntò al bavero dell'impermeabile, quello beige che metteva quando il cielo di maggio non sapeva decidersi. Alle sette meno cinque Tom era già vestito, con i jeans neri della lavanderia, il maglione scuro e l'impermeabile con la mela sul bavero, seduto sul bordo del divano con lo sguardo fisso sull'eWatch, come la mattina del secondo contatto con il cronometro dei quarantasette secondi.
 
 Alle diciannove e zero zero uscì la notifica. *Fascia di reperibilità terminata. Riposati!*
 
@@ -27,7 +27,7 @@ Fece la strada a piedi, i tre isolati, con le mani in tasca e la musica in testa
 
 «Buonasera» disse Tom. «Emma mi ha lasciato qualcosa.»
 
-Il ragazzo staccò gli occhi dal cricket, lo guardò per un secondo, come si guarda un cliente che si è già visto descrivere, poi annuì. Si chinò sotto il banco, dove la sera prima il vecchio teneva il blocchetto delle ricevute, da dove tirò fuori un foglio piegato in quattro, bianco, senza busta e senza nome. Glielo porse tenendolo per un angolo.
+Il ragazzo staccò gli occhi dal cricket e non guardò lui. Guardò il bavero dell'impermeabile, la mela a strisce colorate, per un secondo, come si controlla una ricevuta, poi annuì. Si chinò sotto il banco, dove la sera prima il vecchio teneva il blocchetto delle ricevute, da dove tirò fuori un foglio piegato in quattro, bianco, senza busta e senza nome. Glielo porse tenendolo per un angolo.
 
 «Questo è da consegnare di sotto» disse.
 
@@ -41,11 +41,11 @@ La tatuatrice era lì, china su un ragazzo a pancia in giù, con l'ago che ronza
 
 Tom le diede il foglio.
 
-Lei lo aprì, lo lesse senza cambiare faccia, lo ripiegò in quattro e se lo infilò nella tasca del grembiule, come una ricevuta. Poi, con la mano ancora senza guanto, gli indicò una poltrona della stanza, quella accanto alla sua, dove sopra lo schienale la striscia di LED scriveva in lettere rosse il suo nome nuovo.
+Lei lo aprì, lo lesse senza cambiare faccia, lo ripiegò in quattro e se lo infilò nella tasca del grembiule, come una ricevuta. Poi, con la mano ancora senza guanto, gli indicò una poltrona della stanza, quella accanto alla sua, spenta, senza nessun nome. Toccò qualcosa sul tablet appeso al muro e sopra lo schienale la striscia di LED si accese, una lettera alla volta, in rosso, con il suo nome nuovo.
 
 MATTIA.
 
-Pete, sul marciapiede di fronte, aveva visto il nerd entrare nel bazar per la seconda volta in due giorni e aveva capito che questa volta non sarebbe rimasto dietro un furgone. Aspettò un minuto, il tempo di non sembrare uno che segue qualcuno, poi attraversò la strada e spinse la porta. Il campanello suonò sopra la sua testa.
+Pete, sul marciapiede di fronte, con la giacca d'ordinanza abbottonata fino al collo nonostante la sera di maggio fosse più tiepida di quanto un completo nero sopportasse, aveva visto il nerd entrare nel bazar per la seconda volta in due giorni e aveva capito che questa volta non sarebbe rimasto dietro un furgone. Aspettò un minuto, il tempo di non sembrare uno che segue qualcuno, poi attraversò la strada e spinse la porta. Il campanello suonò sopra la sua testa.
 
 Dietro il banco c'era un ragazzo con la barba nera che guardava il cricket. Alzò gli occhi, vide un uomo enorme con un cappellino da camminata al contrario e la giacca abbottonata fino al collo, e glieli tenne addosso un secondo più del necessario.
 
