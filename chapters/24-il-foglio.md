@@ -4,7 +4,7 @@ version: 0.1
 revised: 2026-11-22
 claim: "Da definire: per ora solo l'apertura."
 status: draft
-summary: "G35, martedì. Dopo la notte al giradischi Tom, per la prima volta in dodici anni, si mette in malattia. La giornata passa veloce. Appena scaduta la finestra in cui il medico dell'azienda può passare a controllare, alle 19:01, esce e va al Ganesh Bazar. Pete, che dal mattino ha visto la malattia sul pannello delle presenze, dopo il lavoro è tornato sul gradino della ferramenta e appena lo vede uscire lo segue. Al banco c'è un ragazzo; Tom gli dice che Emma gli ha lasciato qualcosa. Il ragazzo annuisce, gli dà un foglio da consegnare di sotto e con un cenno gli indica di proseguire verso il bagno. Di sotto Tom consegna il foglio alla tatuatrice («Visore o ago?»), che lo legge, se lo mette in tasca e gli indica la poltrona accanto alla sua con il LED MATTIA."
+summary: "G35, martedì. Dopo la notte al giradischi Tom, per la prima volta in dodici anni, si mette in malattia. La giornata passa veloce. Appena scaduta la finestra in cui il medico dell'azienda può passare a controllare, alle 19:01, esce e va al Ganesh Bazar. Pete, che dal mattino ha visto la malattia sul pannello delle presenze, dopo il lavoro è tornato sul gradino della ferramenta e appena lo vede uscire lo segue. Al banco c'è un ragazzo; Tom gli dice che Emma gli ha lasciato qualcosa. Il ragazzo annuisce, gli dà un foglio da consegnare di sotto e con un cenno gli indica di proseguire verso il bagno. Di sotto Tom consegna il foglio alla tatuatrice («Visore o ago?»), che lo legge, se lo mette in tasca e gli indica la poltrona accanto alla sua con il LED MATTIA. Pete entra nel bazar, chiede il bagno (stavolta è vero), lo trova vuoto, tira la catenella e la parete ruota: scende nei cunicoli, tra tatuatori e visori, a cercare il suo nerd."
 ---
 
 Alle sette del mattino, con il sole che entrava di sbieco dalla finestra del salotto e *Easy Listening Vol. 3* di nuovo sul piatto, al giro numero non sapeva più quanto, Tom fece una cosa che in dodici anni di Meridian non aveva mai fatto. Si mise in malattia.
@@ -44,3 +44,23 @@ Tom le diede il foglio.
 Lei lo aprì, lo lesse senza cambiare faccia, lo ripiegò in quattro e se lo infilò nella tasca del grembiule, come una ricevuta. Poi, con la mano ancora senza guanto, gli indicò una poltrona della stanza, quella accanto alla sua, dove sopra lo schienale la striscia di LED scriveva in lettere rosse il suo nome nuovo.
 
 MATTIA.
+
+Pete, sul marciapiede di fronte, aveva visto il nerd entrare nel bazar per la seconda volta in due giorni e aveva capito che questa volta non sarebbe rimasto dietro un furgone. Aspettò un minuto, il tempo di non sembrare uno che segue qualcuno, poi attraversò la strada e spinse la porta. Il campanello suonò sopra la sua testa.
+
+Dietro il banco c'era un ragazzo con la barba nera che guardava il cricket. Alzò gli occhi, vide un uomo enorme con un cappellino da camminata al contrario e la giacca abbottonata fino al collo, e glieli tenne addosso un secondo più del necessario.
+
+«Buonasera» disse. «Cosa le serve?»
+
+«Il bagno» disse Pete, che questa volta aveva una risposta, perché era vera. Due panini con le polpette al sugo, una notte in macchina e due ore su un gradino gli avevano lasciato un bisogno che nessun codice di condotta avrebbe potuto sanzionare.
+
+Il ragazzo indicò la tenda a fiori con il mento, senza dire niente, e tornò al cricket.
+
+Il bagno era vuoto. Niente omone, niente nerd, solo le piastrelle verdi, un lavandino con un rubinetto e un water vecchio, con la cassetta in alto e una catenella con un pomello di porcellana. Pete chiuse la porta a chiave, guardò sotto il lavandino, dietro la porta, perfino dentro la cassetta, salendo in piedi sul water con una cautela che non aveva da anni, e non trovò nessuno. Il nerd era entrato lì, il ragazzo l'aveva mandato lì, e lì non c'era. Pete scese dal water, fece quello per cui era venuto, perché un uomo deve pur fare una cosa alla volta, e tirò la catenella.
+
+Dalla cassetta non venne giù niente. Dietro il muro si sentì uno scatto metallico, poi un rumore di contrappesi, e la parete con le piastrelle verdi, lavandino compreso, ruotò su se stessa di un quarto di giro. Dietro c'era una scala scavata nella roccia, con una fila di lampadine appese a un cavo e un odore di umido, di polvere e di qualcosa di bruciato che Pete non riconobbe.
+
+Rimase fermo con la mano ancora sulla catenella. Poi si sistemò il cappellino e scese.
+
+In fondo alla scala la roccia si apriva in corridoi con la volta a botte, uno dopo l'altro, con cavi di rete fissati alle pareti, prese multiple appese ai chiodi e stanze ricavate nella pietra, piene di poltrone. Su alcune c'era gente a pancia in giù con un tatuatore chino sopra e il ronzio dell'ago. Su altre c'era gente a pancia in su con un visore sugli occhi, immobile, come chi dorme e intanto è da un'altra parte. Sopra gli schienali scorrevano strisce di LED rosse con nomi di una parola sola. Nessuno lo guardò. Nessuno gli chiese niente.
+
+Pete si fermò in mezzo al corridoio, enorme, con il cappellino al contrario. Per la prima volta in vita sua non seppe cosa fare con le mani. Al liceo i nerd stavano in un armadietto alla volta. Qui sotto ce n'erano a centinaia, tatuati, collegati, sdraiati, tutti insieme, in un posto che nessun regolamento di Meridian aveva mai previsto, mentre da qualche parte, in mezzo a loro, c'era il suo.
