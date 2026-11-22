@@ -4,7 +4,7 @@ version: 0.1
 revised: 2026-11-22
 claim: "Da definire: per ora solo la scena d'apertura."
 status: draft
-summary: "G34, lunedì sera. Pete, tornato a prendere la macchina per il freddo, aspetta davanti al Ganesh Bazar che Tom esca. A un certo punto entra; il vecchio dietro il banco gli chiede cosa gli serva, Pete non risponde, gira tra gli scaffali, trova la tenda a fiori e spalanca la porta del bagno. Dentro c'è un omone seduto sul water: «Ma che cazzo, sono questi i modi? Sto cacando. Ho mangiato un litro di vellutata di zucca, ne avrò ancora per un bel po'. Chiudi la porta, gira i tacchi e vattene.»"
+summary: "G34, lunedì sera. Pete, tornato a prendere la macchina per il freddo, aspetta davanti al Ganesh Bazar che Tom esca. A un certo punto entra; il vecchio dietro il banco gli chiede cosa gli serva, Pete non risponde, gira tra gli scaffali, trova la tenda a fiori e spalanca la porta del bagno. Dentro c'è un omone seduto sul water: «Ma che cazzo, sono questi i modi? Sto cacando. Ho mangiato un litro di vellutata di zucca, ne avrò ancora per un bel po'. Chiudi la porta, gira i tacchi e vattene.» Pete chiude la porta, esce dal bazar e torna sotto casa di Tom, davanti al portone con la crepa, ad aspettare che rientri; la finestra del terzo piano è buia."
 ---
 
 Alle otto e mezza Pete era tornato a prendere la macchina, perché la giacca d'ordinanza era fatta per l'open space e non per stare dietro un furgone. L'aveva parcheggiata proprio davanti al Ganesh Bazar, in doppia fila, con il motore acceso e il riscaldamento al massimo. Da lì vedeva la vetrina, i sacchi di riso, la piramide di ceci e, dietro il banco, il vecchio con la barba bianca che guardava il cricket. Della tenda a fiori in fondo al negozio si vedeva solo un angolo, che non si muoveva.
@@ -24,3 +24,15 @@ Afferrò la maniglia e spalancò la porta.
 Dentro, seduto sul water, con i pantaloni della tuta alle caviglie, i gomiti sulle ginocchia e il telefono in mano, c'era un omone con la barba lunga e una canottiera bianca. Alzò gli occhi verso Pete con la calma di chi in quel bagno era a casa sua.
 
 «Ma che cazzo, sono questi i modi?» disse. «Sto cacando. Ho mangiato un litro di vellutata di zucca, ne avrò ancora per un bel po'. Chiudi la porta, gira i tacchi e vattene.»
+
+Pete chiuse la porta. Non perché gliel'avesse detto l'omone, si disse, ma perché dentro quel bagno non c'era nessun nerd, e un supervisore non perde tempo con chi non è sotto la sua giurisdizione, nemmeno quando è seduto su un water. Tornò indietro tra gli scaffali con le mani dietro la schiena, più in fretta dell'andata. Il vecchio con la barba, dietro il banco, non aveva staccato gli occhi dal cricket.
+
+«Buonasera» disse il vecchio, quando il campanello suonò di nuovo.
+
+In macchina Pete accese il motore e rimase un momento con le mani sul volante, a guardare la vetrina. Era la seconda volta in una giornata che restava seduto ad aspettare qualcuno che non arrivava, la prima in mensa e la seconda lì, e tutte e due le volte era stato il nerd a farlo aspettare, il che nella Tabella di Conversione non aveva una riga ma, se l'avesse avuta, sarebbe stata almeno una tripla. Da quel negozio Tom non era uscito, ma un uomo può non uscire da un posto per molte ore, non per sempre, perché prima o poi, a meno di non essere un omone con un litro di vellutata di zucca in corpo, deve tornare a casa a dormire. Pete decise che l'avrebbe aspettato lì, sotto casa sua, dove anche il nerd più furbo del mondo doveva passare per forza.
+
+Tornò al palazzo con le persiane verdi e parcheggiò nello stesso posto di qualche ora prima, davanti al portone di vetro con la crepa nell'angolo. Al terzo piano la finestra di Tom era buia. Spense il motore, poi lo riaccese per il riscaldamento, poi lo rispense perché un motore acceso sotto casa di qualcuno si fa notare, mentre un uomo in completo nero dentro una berlina nera, al buio, secondo lui no. Si sistemò sul sedile, quanto può sistemarsi un uomo della sua stazza, e fissò il portone.
+
+L'eWatch gli vibrò al polso. *Sono le 21:40. Una buona notte di sonno comincia prima delle 23.*
+
+Pete lo girò verso il sedile e continuò ad aspettare.
