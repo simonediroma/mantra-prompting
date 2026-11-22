@@ -19,7 +19,7 @@ Il secondino rimase a guardarla con il registro a mezz'aria. Aveva visto schiene
 
 «Deve far male» disse.
 
-Nell'angolo sopra la porta, la telecamera del circuito chiuso si mosse con uno *zzz* corto, il motore che girava di qualche grado sulla sua base. Poi l'obiettivo si allungò, piano, e lo zoom si fermò sulla schiena di Tom, riga dopo riga, come un occhio che legge.
+Nell'angolo sopra la porta, la telecamera del circuito chiuso si mosse con uno *zzz* corto, il motore che girava di qualche grado sulla sua base. Poi l'obiettivo si allungò, piano, finché lo zoom non si fermò sulla schiena di Tom, riga dopo riga, come un occhio che legge.
 
 Tom lo sentì. Non si girò. Abbassò le braccia lungo i fianchi, guardò le piastrelle bianche davanti a sé e, per la prima volta da quando l'avevano preso, sorrise.
 
