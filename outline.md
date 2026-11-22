@@ -323,9 +323,9 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ---
 
-### Capitolo 25 — Resistenza
-Tom esce dalla lavanderia passate le due, dolorante e poco lucido. Due agenti in borghese, finti tifosi di ritorno dalla finale, prendono a pretesto la spilletta Apple a strisce ("attivista LGBT") e lo insultano; Tom prova a scappare, si scontra con uno dei due, che cade, si rialza e mostra il distintivo: arresto per resistenza a pubblico ufficiale. Tom: non sapeva che fossero poliziotti finché non ha visto il distintivo. Motivo futile, niente legato a Meridian (autore, 2026-11-22).
-**File**: `chapters/25-resistenza.md`
+### Capitolo 25 — Riciclaggio
+Tom esce di sotto passate le due, dolorante e poco lucido. In lavanderia lascia i jeans neri del giorno prima e si rimette i suoi, lavati: in tasca gli hanno messo un ledger (portafoglio hardware per bitcoin). Fuori i due agenti della polizia telematica lo fermano per un controllo, trovano il ledger: fermo per riciclaggio. Il posto è sotto il controllo del capo supremo; niente scontro fisico, niente legato a Meridian (autore, 2026-11-22).
+**File**: `chapters/25-riciclaggio.md`
 
 ### Capitolo 26 — Fa male (ultima scena del libro, fissata dall'autore, 2026-11-22)
 **File**: `chapters/26-fa-male.md`

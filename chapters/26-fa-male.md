@@ -11,7 +11,7 @@ La stanza della perquisizione aveva le piastrelle bianche fino a metà muro, una
 
 «Spogliati» disse. «Tutto. I vestiti sulla panca.»
 
-Tom si tolse l'Harrington, con la spilletta della mela ancora sul bavero, poi le scarpe, poi la felpa con il cappuccio, poi i jeans neri della lavanderia, che piegò con cura sulla panca come se dovesse riportarli indietro. Rimase con le mutande bianche che non erano sue e la maglietta. Quando si sfilò anche quella, piano, con le braccia alzate e un sospiro tra i denti, il secondino alzò gli occhi dal registro per la prima volta.
+Tom si tolse l'Harrington, con la spilletta della mela ancora sul bavero, poi le scarpe, poi la felpa con il cappuccio, poi i suoi jeans, quelli che una lavanderia gli aveva restituito lavati e piegati, e li piegò con cura sulla panca come se dovesse riportarli indietro. Rimase con le mutande bianche che non erano sue e la maglietta. Quando si sfilò anche quella, piano, con le braccia alzate e un sospiro tra i denti, il secondino alzò gli occhi dal registro per la prima volta.
 
 La schiena di Tom era coperta da una pellicola trasparente, fissata con il nastro di carta ai bordi, come si fa con i tatuaggi appena fatti. Sotto la pellicola, dalla nuca fino ai reni, da una scapola all'altra, correvano righe e righe di segni piccoli, punti e linee, tutti dello stesso nero, tutti alla stessa distanza, così fitti che da lontano sembravano una trama di stoffa e da vicino una cucitura infinita. La pelle intorno era ancora rossa, gonfia, lucida di crema. In un paio di punti, vicino alla colonna, una goccia di inchiostro e di sangue si era fermata contro la pellicola.
 
