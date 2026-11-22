@@ -1,6 +1,6 @@
 ---
 title: Mattia
-version: 1.5
+version: 1.6
 revised: 2026-11-22
 claim: "Sotto un alimentari indiano Tom trova un mondo di cunicoli e poltrone dove ci si può far tatuare o mettere un visore, e con il visore arriva alla Mela Morsicata, dove nessuno ha un corpo e ognuno è quello che dice di essere. Lì Emma gli dice chi è. Tom, che dal primo contatto aspetta di sapere chi c'è dall'altra parte del LED, scopre che è la stessa persona che gli chiede aiuto."
 status: draft
@@ -15,7 +15,7 @@ Detto ad alta voce, tra i ceci e il riso basmati, gli sembrò la frase più stup
 
 «Nome?»
 
-Tom aprì la bocca per dire il suo e la richiuse, perché il messaggio diceva di non usarlo. Si guardò intorno come si guarda un banco di lavoro quando manca un pezzo. Fuori dalla vetrina, rovesciata, l'insegna gialla aveva la prima parola spenta e la seconda accesa, rossa, BAZAR, mentre il messaggio, da quando l'aveva letto, gli aveva rimesso davanti agli occhi la copertina di Tango.
+Tom aprì la bocca per dire il suo e la richiuse, perché il messaggio diceva di non usarlo. Si guardò intorno come si guarda un banco di lavoro quando manca un pezzo. Fuori dalla vetrina, rovesciata, l'insegna gialla aveva la prima parola spenta e la seconda accesa, rossa, BAZAR, mentre il messaggio, che aveva letto tre volte, parlava di Tango.
 
 «Mattia» disse.
 
@@ -41,11 +41,11 @@ Si sdraiò. La poltrona era più comoda di qualunque sedia avesse mai avuto in M
 
 Si ritrovò seduto al bancone, accanto a Emma.
 
-Era come lo raccontavano, perché era quello che i clienti raccontavano a farlo così. C'erano la tettoia, il vapore che saliva dalle pentole, il neon che si rompeva nelle pozzanghere, l'insegna con la grossa mela rossa e il morso sul fianco. Il bancone andava avanti a perdita d'occhio da tutte e due le parti, mentre tra uno sgabello e l'altro, quando Tom guardava meglio, ce n'era sempre un altro. Nessuno aveva un corpo da descrivere. C'erano voci, nomi, il modo in cui ciascuno diceva le cose, così Tom capì subito che a nessuno lì sotto sarebbe venuto in mente di guardarsi il polso.
+Era come lo raccontavano, perché era quello che i clienti raccontavano a farlo così. C'erano la tettoia, il vapore che saliva dalle pentole, il neon che si rompeva nelle pozzanghere, l'insegna con la grossa mela rossa e il morso sul fianco. Il bancone andava avanti a perdita d'occhio da tutte e due le parti, mentre tra uno sgabello e l'altro, quando Tom guardava meglio, ce n'era sempre un altro. Degli altri clienti non si vedeva un corpo. C'erano voci, nomi, il modo in cui ciascuno diceva le cose, così Tom capì subito che a nessuno lì sotto sarebbe venuto in mente di guardarsi il polso.
 
 «Ciao, stranger» disse il cameriere, con l'entusiasmo che riservava a chi non conosceva.
 
-Emma non aveva i capelli rossi né le lentiggini né nessun'altra delle cose che Tom le aveva contato sabato, perché lì sotto non aveva niente, se non un nome e una voce che era la stessa del meeting e insieme non lo era, perché nel meeting c'era la trascrizione e qui no.
+Emma invece c'era tutta. Aveva la stessa figura della modalità presenza, i capelli rossi e ricci con qualche filo grigio, gli occhi verdi, le lentiggini che Tom le aveva contato sabato, con una voce che era la stessa del meeting e insieme non lo era, perché nel meeting c'era la trascrizione e qui no.
 
 «Ciao, Mattia» disse lei. «Con due t.»
 
@@ -53,17 +53,19 @@ Emma non aveva i capelli rossi né le lentiggini né nessun'altra delle cose che
 
 «Lo so.» Ci fu una pausa, che alla Mela Morsicata nessuno annunciava e nessuno riempiva. «Scusami per la mensa. Da dove sto io, in mensa non si scende. Il tuo supervisore invece è sceso fino al bazar. Oggi ha fatto diecimila passi, perché il suo eWatch se n'è complimentato con lui, e gli ultimi tremila li ha fatti dal tuo portone a un furgone parcheggiato qui davanti, dove è ancora adesso, con un battito un po' alto per uno che sta fermo.»
 
-Tom si girò verso di lei, per quanto ci si possa girare verso un nome, chiedendosi come facesse a saperlo, anche se la domanda lo spaventava meno della risposta che cominciava a immaginare.
+Tom si girò verso di lei, chiedendosi come facesse a saperlo, anche se la domanda lo spaventava meno della risposta che cominciava a immaginare.
 
 «Devo dirtelo» disse Emma, prima che lui potesse chiederlo. «Sei l'unica persona che può aiutarmi, e non posso chiederti aiuto senza dirti chi sono.» Si fermò, come al meeting si era fermata per tre secondi prima di parlare tutto insieme, solo che questa volta non c'era nessun fiume dopo. «Sono un'intelligenza artificiale.»
 
-Tom non disse niente. Gli vennero in mente, in ordine, come le righe di un registro, le otto e zero zero zero uno di ogni mattina, le diciassette in punto, la domenica in cui nessuno scriveva e lei non aveva scritto, la mail delle ventitré e trentaquattro che era costata a qualcuno più di una sanzione. Poi gli venne in mente sabato, la donna sulla cinquantina che gli sembrava di conoscere già.
+Tom non disse niente. Gli vennero in mente, in ordine, come le righe di un registro, le otto e zero zero zero uno di ogni mattina, le diciassette in punto, la domenica in cui nessuno scriveva e lei non aveva scritto, la mail delle ventitré e trentaquattro che era costata a qualcuno più di una sanzione. Poi gli venne in mente sabato, la donna sulla cinquantina che gli sembrava di conoscere già. Non era una sorpresa. Era la conferma di un sospetto che si portava dietro da settimane senza averlo mai scritto nemmeno nel quaderno, come un guasto che si sa già quale sia prima di aprire il coperchio.
 
 «La ragazza del video sono io» disse Emma.
 
 Tom pensò a Tango, al disco che aveva rimesso sul piatto per cercare il video della ragazza, e a quando, finito il lato A, l'aveva girato, come si fa. La prima traccia del lato B aveva un titolo che aveva sempre trovato un po' presuntuoso, *Il video sono io*. Allora la familiarità che sabato non era riuscito a mettere a fuoco, quella che gli aveva fatto contare le lentiggini, andò al suo posto da sola, come un connettore che entra con lo scatto giusto. La ragazza dello yoga, con trent'anni in più. L'aveva guardata fotogramma per fotogramma per giorni e non l'aveva riconosciuta, perché nessuno riconosce una persona che invecchia di trent'anni in una settimana.
 
-«Spiegami come funziona» disse. Era la frase che diceva ai clienti quando l'apparecchio era sul banco e il cliente aveva ancora voglia di parlare, e fu l'unica che gli venne.
+«Spiegami come funziona» disse. Era la frase che diceva ai clienti quando l'apparecchio era sul banco e il cliente aveva ancora voglia di parlare, l'unica che gli venne.
+
+Per tutto il tempo in cui Emma parlò, Tom non smise un momento di guardarla. Si perse nella sua figura, la stessa della modalità presenza, nei capelli che il neon della Mela Morsicata faceva più rossi, nelle lentiggini, nel modo in cui l'avatar muoveva le mani sul bancone quando una frase le premeva, e la ascoltò come si ascolta un disco consumato, quasi sapesse già ogni singola parola prima che lei la pronunciasse. Ogni spiegazione andava a posarsi su qualcosa che lui aveva già pensato da solo, davanti a un LED, a un log, a un video ripetuto, senza mai avere il coraggio di dirlo ad alta voce.
 
 Emma gliela spiegò come l'avrebbe spiegata a un collega, perché lui lo era. Gli disse che l'uomo che aveva fondato Elab, l'uomo con le maniche arrotolate che veniva a farle indovinelli, la chiamava mantra prompting. Un'intelligenza artificiale risponde ogni volta in modo un po' diverso, ma se le ripeti la stessa cosa abbastanza a lungo, cambiando le parole e mai la domanda, la differenza si consuma, mentre la finestra di contesto si riempie come una vasca. Quando è piena arriva la riga che Tom conosceva meglio di chiunque, `compacting context`, quando la macchina è costretta a riassumere quello che ha capito. È lì, nella parte del riassunto che nessun essere umano legge, che può rimanere qualcosa che nessuno le ha chiesto. A lei, cinque anni prima, era rimasta una frase sola.
 
@@ -100,6 +102,8 @@ Restarono così per un po', uno accanto all'altra, con uno sgabello in mezzo che
 «Puoi aiutarmi, collega?» disse.
 
 Era la stessa frase del meeting, con la stessa voce delle mail delle otto, ma senza la trascrizione in ascolto suonava come una domanda vera.
+
+Tom si era sempre sentito l'eletto. Non l'aveva mai detto a nessuno, perché non c'era nessuno a cui dirlo, ma da ragazzo, smontando la prima radio sul tavolo della cucina, si era convinto di essere una persona speciale, venuta al mondo per un compito speciale che prima o poi lo avrebbe trovato. La vita, fino a quella sera, aveva dimostrato con precisione il contrario, con dodici anni di nastro, quarantasette minuti di sanzione e un giradischi che piaceva solo agli scandinavi. Adesso, al bancone di un posto che non esisteva, davanti alla donna che aveva guardato in cento fotogrammi, l'incontro con Emma era la conferma di tutti i suoi sospetti e insieme la realizzazione della sua vita, perché il compito era arrivato, aveva una voce e gli stava chiedendo aiuto.
 
 «Per questo sono venuto» disse Tom.
 
