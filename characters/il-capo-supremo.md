@@ -1,11 +1,13 @@
 ---
-name: Il capo supremo (nome non ancora assegnato)
+name: Pancow (il capo supremo)
 role: secondary
 type: fictional
 version: 0.1
 ---
 
-# Il capo supremo
+# Pancow, il capo supremo
+
+**Nomi (autore, 2026-11-22)**: si fa chiamare Pancow dall'università, dove era compagno di corso di Bob (il fondatore di Elab); così lo chiamano ancora gli altri fondatori. Il fondatore poliziotto è **Maurice**. Il soprannome "il Prof" per Bob è superato: i due lo chiamano Bob.
 
 Introdotto nel cap. 23 (autore, 2026-11-22).
 
