@@ -49,7 +49,7 @@ Aprì la portiera posteriore della macchina grigia, dove sul sedile c'era un por
 
 «Ultima transazione alle ventitré e quaranta» disse il secondo, leggendo. «Un'altra all'una e dieci. Un'altra all'una e cinquantadue.» Fece scorrere il dito sul trackpad. «Importi rilevanti. Molto rilevanti, per uno che ritira i jeans in lavanderia.»
 
-Tom, a quell'ora, era sdraiato a pancia in giù su una poltrona di pelle consumata, sotto una scala di roccia, con un ronzio sopra le scapole. Non poteva dirlo. Guardò la colonna di cifre sullo schermo, che non riusciva nemmeno a leggere da lì, e capì soltanto che tutte quelle righe erano state scritte mentre lui non c'era, nel modo in cui un tecnico capisce che un log è stato riempito da qualcun altro.
+Tom, a quell'ora, era di sotto, su una poltrona con il suo nome nuovo scritto sullo schienale, in un posto che non poteva nominare. Non poteva dirlo. Guardò la colonna di cifre sullo schermo, che non riusciva nemmeno a leggere da lì, e capì soltanto che tutte quelle righe erano state scritte mentre lui non c'era, nel modo in cui un tecnico capisce che un log è stato riempito da qualcun altro.
 
 «Non sono mie» disse.
 
