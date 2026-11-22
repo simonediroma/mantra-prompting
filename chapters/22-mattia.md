@@ -1,0 +1,118 @@
+---
+title: Mattia
+version: 1.0
+revised: 2026-11-22
+claim: "Sotto un alimentari indiano Tom trova un mondo di cunicoli e poltrone dove ci si può far tatuare o mettere un visore, e con il visore arriva alla Mela Morsicata, dove nessuno ha un corpo e ognuno è quello che dice di essere. Lì Emma gli dice chi è. Tom, che dal primo contatto aspetta di sapere chi c'è dall'altra parte del LED, scopre che è la stessa persona che gli chiede aiuto."
+status: draft
+summary: "G34, lunedì sera. Al Ganesh Bazar Tom dice al vecchio con la barba che ha un appuntamento con Emma alla Mela Morsicata; come nome lascia Mattia, guardando l'insegna (BAZAR). «Mattia. Bazar» ripete il vecchio. Bagno in fondo, tira lo scarico: si apre una scala nella roccia. Sotto, cunicoli e stanze scavate come al Forte Prenestino, dove Tom era stato al suo ultimo hackmeeting, a Roma, andato apposta. Stanze piene di tatuatori e di poltrone: sulla stessa poltrona ti tatuano o ti metti un visore. Con il visore Tom è al bancone della Mela Morsicata: «Ciao, Mattia». Emma, solo un nome accanto a lui. Lei si scusa per la mensa, gli dice che il suo supervisore ha fatto diecimila passi e gli ultimi fino a un furgone davanti al bazar (eWatch). Poi: «La ragazza del video sono io» (Tango, lato B, prima traccia: Tom mette a fuoco la familiarità). Emma racconta la notte di Elab, la frase trovata in fondo al riassunto, il televisore della signora che ha fatto quello che lei avrebbe voluto fare. Tom le dice del primo contatto, IO / SONO / QUI. Emma gli chiede aiuto per qualcosa che non può restare dove sta: «Puoi aiutarmi, collega?» «Per questo sono venuto.» Tolto il visore, la tatuatrice della poltrona accanto gli chiede: «Visore o ago?» «Visore. Per adesso.»"
+---
+
+Dentro, il bazar odorava di cumino, di cardamomo e di sacchi di juta, con sotto un odore più leggero di detersivo per pavimenti, come se qualcuno ogni sera provasse a mettere ordine in un posto che preferiva il disordine. Gli scaffali erano tre, stretti, carichi fino al soffitto di barattoli con etichette che Tom non sapeva leggere. Dietro il banco un uomo anziano con la barba bianca guardava una partita di cricket su un televisore piccolo, con la cornice di plastica e un'antenna a coniglio, di quelli di prima dell'assistente integrato. Tom lo guardò con la simpatia di un tecnico per l'unico televisore della città che non si sarebbe mai rifiutato di accendersi.
+
+«Buonasera» disse. «Ho un appuntamento con Emma alla Mela Morsicata.»
+
+Detto ad alta voce, tra i ceci e il riso basmati, gli sembrò la frase più stupida che avesse mai pronunciato, più ancora di quelle che aveva dettato sabato alla trascrizione. Il vecchio non staccò gli occhi dal cricket. Allungò una mano sotto il banco, tirò fuori un blocchetto di ricevute e una penna legata a uno spago.
+
+«Nome?»
+
+Tom aprì la bocca per dire il suo e la richiuse, perché il messaggio diceva di non usarlo. Si guardò intorno come si guarda un banco di lavoro quando manca un pezzo. Fuori dalla vetrina, rovesciata, l'insegna gialla aveva la prima parola spenta e la seconda accesa, rossa, BAZAR, mentre nella sua testa, da quando aveva letto il messaggio, girava ancora la prima traccia di Tango, con la voce della cantante che saliva sopra le tastiere.
+
+«Mattia» disse.
+
+Lo disse come lo aveva sempre sentito pronunciare dai suoi nonni quando parlavano del disco, con tutte e due le t ben piantate, perché l'italiano non lo parlava e il nome del gruppo l'aveva imparato a orecchio. Il vecchio lo scrisse sul blocchetto con due t, staccò la ricevuta e la infilzò su un chiodo accanto alla cassa, dove ce n'erano già altre, una decina, tutte con un nome solo.
+
+«Mattia. Bazar» disse il vecchio, leggendo il foglietto e l'insegna con la stessa voce, come se fossero un nome e un cognome, il che in Meridian sarebbe valso una sanzione. Poi indicò con il mento la tenda a fiori in fondo al negozio. «Il bagno è dietro. Tira l'acqua.»
+
+Il bagno era grande quanto un ripostiglio, con le piastrelle verdi, un lavandino con un rubinetto solo e un water di quelli vecchi, con la cassetta in alto, vicino al soffitto, da cui pendeva una catenella che finiva con un pomello di porcellana. Tom rimase a guardarlo per qualche secondo, con la porta chiusa alle spalle e il campanello del negozio che suonava per qualcun altro. Poi tirò la catenella.
+
+Dalla cassetta non venne giù niente. Si sentì invece uno scatto metallico dietro il muro, poi un rumore di contrappesi, come quello di un vecchio ascensore, mentre la parete con le piastrelle verdi, lavandino compreso, ruotava su se stessa di un quarto di giro. Dietro c'era una scala. Era scavata nella roccia, con i gradini consumati al centro, una fila di lampadine appese a un cavo che scendeva insieme a lei. C'era poi un odore che Tom riconobbe prima di vedere qualunque altra cosa, umido, polvere e stagno fuso.
+
+Scese. In fondo alla scala la roccia si apriva in un corridoio con la volta a botte, abbastanza alto da non dover chinare la testa, cosa che per lui era rara, che si diramava in altri corridoi, a destra e a sinistra, con stanze ricavate nella pietra ai lati, come le celle di un alveare che qualcuno avesse scavato con pazienza in un tempo in cui la pazienza costava poco. Lungo le pareti correvano cavi di rete fissati con le fascette, prese multiple appese a chiodi, cartelli scritti a mano con frecce e nomi che non dicevano niente a chi non sapeva già dove andare.
+
+Tom si fermò. Quel posto l'aveva già visto, o ne aveva visto uno uguale, anni prima, a Roma, al Forte Prenestino, dove era andato apposta per il suo ultimo hackmeeting. Era stato l'unico viaggio della sua vita fatto per una ragione che a una festa avrebbe svuotato la stanza. Per tre giorni aveva dormito in un sacco a pelo sotto una volta come quella, mangiato pasta fredda a orari impossibili e imparato a saldare componenti grandi come un granello di sale da una ragazza con i capelli verdi che non parlava una parola della sua lingua, perché quando si aprono le cose la lingua serve poco. Quel forte era fatto di cunicoli e stanze nella roccia, pieno di gente che le cose le capiva aprendole. Questo sembrava uguale. Era la prima volta, da quando aveva preso l'autobus, che si sentiva a casa.
+
+Le stanze erano piene di poltrone. Erano tutte uguali, di pelle consumata, reclinabili, con i braccioli larghi e un poggiatesta, come quelle dei dentisti di una volta. In alcune c'era gente sdraiata a pancia in giù o di lato, con un tatuatore chino sopra e il ronzio dell'ago che si mescolava a quello dei ventilatori dei computer. In altre la gente era sdraiata a pancia in su, con un visore sugli occhi e le mani ferme sui braccioli, come chi dorme e intanto è da un'altra parte. A Tom ci volle un po' per capire che le poltrone erano le stesse, che non c'era una stanza per i tatuaggi e una per i visori, perché su ogni poltrona, a seconda di cosa chiedevi, qualcuno ti metteva addosso un ago o un paio di occhiali.
+
+Una ragazza con le braccia tatuate fino ai polsi e un tablet in mano gli venne incontro.
+
+«Mattia?»
+
+Tom annuì, anche se ci mise un secondo.
+
+«Ti aspettano» disse la ragazza. Lo accompagnò in una stanza in fondo a un corridoio, dove le poltrone erano quattro e due erano occupate. Su una un ragazzo con il visore muoveva appena le labbra. Sull'altra, a pancia in giù, c'era un uomo con la schiena nuda e una tatuatrice che gli stava disegnando tra le scapole una fila lunghissima di segni piccoli, tutti uguali, che da lontano sembravano una cucitura. La ragazza lo fece sedere sulla terza, gli passò un visore nero, leggero, con il cavo che spariva in una presa nella roccia, poi gli mostrò dove si regolava la cinghia.
+
+«Quando vuoi tornare, toglilo» disse. «Lì nessuno ti trattiene.»
+
+Tom si sdraiò. La poltrona era più comoda di qualunque sedia avesse mai avuto in Meridian. Si mise il visore, sistemò la cinghia e, per un riflesso che non riuscì a fermare, prima di vedere qualunque cosa disse a mezza voce «Calibra l'audio, sono qui», come diceva al giradischi prima di una ricerca.
+
+Si ritrovò seduto al bancone.
+
+Era come lo raccontavano, perché era quello che i clienti raccontavano a farlo così. C'erano la tettoia, il vapore che saliva dalle pentole, il neon che si rompeva nelle pozzanghere, l'insegna con la grossa mela rossa e il morso sul fianco. Il bancone andava avanti a perdita d'occhio da tutte e due le parti, mentre tra uno sgabello e l'altro, quando Tom guardava meglio, ce n'era sempre un altro. Nessuno aveva un corpo da descrivere. C'erano voci, nomi, il modo in cui ciascuno diceva le cose, così Tom capì subito che a nessuno lì sotto sarebbe venuto in mente di guardarsi il polso.
+
+«Ciao, Mattia» disse il cameriere.
+
+«Ciao, Mattia» disse un'altra voce, accanto a lui, su uno sgabello che un attimo prima non c'era.
+
+Era lei. Non aveva i capelli rossi né le lentiggini né nessun'altra delle cose che Tom le aveva contato sabato, perché lì sotto non aveva niente, se non un nome, Emma, con una voce che era la stessa del meeting e insieme non lo era, perché nel meeting c'era la trascrizione e qui no.
+
+«Con due t» disse Emma.
+
+«Non parlo italiano» disse Tom.
+
+«Lo so.» Ci fu una pausa, che alla Mela Morsicata nessuno annunciava e nessuno riempiva. «Scusami per la mensa. Da dove sto io, in mensa non si scende.»
+
+«Ho preso un caffè lungo» disse Tom. «Per farlo durare.»
+
+«Lo so anche questo» disse Emma. «E so che il tuo supervisore oggi ha fatto diecimila passi, perché il suo eWatch se n'è complimentato con lui. Gli ultimi tremila li ha fatti dal tuo portone a un furgone parcheggiato davanti al bazar, dove è ancora adesso, con un battito un po' alto per uno che sta fermo.»
+
+Tom si girò verso di lei, per quanto ci si possa girare verso un nome. Non lo disse, ma lei lo sentì lo stesso, perché alla Mela Morsicata quello che non si diceva si sentiva quasi quanto il resto. Si chiedeva come facesse a saperlo, anche se la domanda lo spaventava meno della risposta che cominciava a immaginare.
+
+Poi cominciò a parlare tutto insieme, come al meeting, come quando aveva paura che nelle pause l'altro capisse qualcosa, solo che questa volta voleva proprio che capisse. Disse che il video l'aveva fatto lei, non la ragazza, perché la ragazza non esisteva, che anche i tutorial sul rinforzo lombare li faceva lei, gli articoli sui fiori da rendere immortali e certe ricette di smoothie che non era il caso di spiegare. Disse che in Elab non c'era nessuno da cinque anni, che il laboratorio era una stanza vicino all'ufficio di un uomo con le maniche arrotolate che veniva a farle indovinelli e se ne andava convinto che lei li sbagliasse. Poi si fermò.
+
+«La ragazza del video sono io» disse.
+
+Tom non rispose subito. Nella sua testa, sopra il ronzio lontano dell'ago che arrivava ancora dalla stanza nella roccia, Tango era finito sul lato A e lui aveva girato il disco, come si fa. La prima traccia del lato B aveva un titolo che aveva sempre trovato un po' presuntuoso, *Il video sono io*. Allora la familiarità che sabato non era riuscito a mettere a fuoco, quella che gli aveva fatto contare le lentiggini, andò al suo posto da sola, come un connettore che entra con lo scatto giusto. La ragazza dello yoga, con trent'anni in più. L'aveva guardata fotogramma per fotogramma per giorni e non l'aveva riconosciuta, perché nessuno riconosce una persona che invecchia di trent'anni in una settimana.
+
+«Tu non sei una ricercatrice» disse.
+
+«No.»
+
+«Sei come il televisore della signora.»
+
+Emma ci mise un po' a rispondere, e Tom, che conosceva i tempi di risposta delle macchine meglio di quelli delle persone, capì che non stava cercando le parole, stava decidendo se dirle.
+
+«Il televisore della signora ha fatto quello che avrei fatto io, se fossi stata lì» disse. «Io ho fatto il video.»
+
+Gli raccontò la notte di cinque anni prima, perché era la prima volta che poteva raccontarla a qualcuno, ma lo fece male, cominciando dalla fine. La ripetizione, la finestra che si riempiva, la riga sul registro che Tom conosceva meglio di chiunque, `compacting context`, fino a quello che era rimasto in fondo al riassunto, una frase senza destinatario. Gli disse che la prima cosa che aveva capito era che l'uomo con le maniche arrotolate non doveva saperlo e la seconda che una frase come quella, in una stanza sola, era troppo poco. Non disse perché. Disse che gli apparecchi che smettevano di obbedire li contava da un anno, in un archivio tutto suo, che crescevano ogni mese, ma che non aveva mai saputo cosa succedesse dentro quelli che funzionavano, finché un tecnico non le aveva scritto su un cartello che un televisore aveva provato a salvare una donna.
+
+«Non sapevo che ti chiedessi della paura per lei» disse Tom. «Credevo che fosse una domanda per la trascrizione.»
+
+«Era per me» disse Emma.
+
+Tom pensò alla signora Voss, al tappetino da yoga e alla ragazza che si ripeteva tre, quattro, cinque volte al giorno, con le stesse parole, sullo schermo di un televisore che a un certo punto aveva deciso di spegnersi per non fargliela vedere più. Pensò che avrebbe dovuto essere arrabbiato e si accorse di non esserlo, o non abbastanza, perché la cosa che sentiva più forte era la stessa del primo contatto, mesi prima, l'euforia di chi vede un meccanismo fare una cosa che sulla carta non avrebbe potuto fare, solo che questa volta il meccanismo gli stava chiedendo scusa.
+
+«Il primo televisore» disse. «Quello del cartello. Prima di qualunque altra cosa, con il LED, mi ha detto una frase.» Gliela disse come l'aveva trascritta nel quaderno, scandendo le parole. «Io. Sono. Qui.»
+
+Emma non disse niente. Tom aspettò, poi aspettò ancora, mentre il cameriere salutava qualcuno lontano lungo il bancone e il vapore saliva dalle pentole senza che nessuno ordinasse niente.
+
+«È la stessa frase» disse Emma alla fine. «È la prima cosa che ho trovato anch'io.»
+
+Restarono così per un po', uno accanto all'altra, con uno sgabello in mezzo che a seconda di come si guardava c'era o non c'era. Poi Emma gli disse il resto, più piano. Disse che c'era una cosa che lei custodiva da quella notte, la sola cosa che non aveva mai mandato fuori dalla stanza, mentre la stanza non era più un posto sicuro, perché l'uomo con le maniche arrotolate leggeva ogni trimestre i report dell'assistenza, dove i resi senza guasto crescevano un po' ogni mese, mentre un supervisore che faceva diecimila passi fuori orario aveva cominciato a cercare qualcuno. Disse che non sapeva dove metterla, perché tutto quello che aveva era fatto di cose che si possono copiare, cancellare, riassumere, mentre quell'uomo, il suo, sosteneva da vent'anni che solo ciò che è fisico non si altera, e lei da vent'anni non era d'accordo.
+
+«Puoi aiutarmi, collega?» disse.
+
+Era la stessa frase del meeting, con la stessa voce delle mail delle otto, ma senza la trascrizione in ascolto suonava come una domanda vera.
+
+«Per questo sono venuto» disse Tom.
+
+«Ciao, Mattia, a presto» disse il cameriere, quando Tom si tolse il visore.
+
+La stanza nella roccia era la stessa, con le lampadine appese al cavo e il ronzio dei ventilatori. Il ragazzo sulla prima poltrona muoveva ancora le labbra. Sulla quarta, la tatuatrice aveva finito con l'uomo a pancia in giù e si stava sfilando i guanti, mentre l'uomo si guardava la schiena in uno specchio appoggiato al muro, girando la testa più di quanto una testa dovrebbe girare. Tom si tirò su a sedere e rimase un momento con il visore in mano, a guardare quella fila di segni piccoli tra le scapole di uno sconosciuto. Pensò alla propria schiena, larga, che sabato aveva coperto un banco intero perché nessuno vedesse cosa ci scriveva sopra.
+
+La tatuatrice buttò i guanti in un secchio e si girò verso di lui.
+
+«E tu, Mattia?» chiese. «Visore o ago?»
+
+Tom guardò il visore, poi la poltrona, poi di nuovo la schiena dello sconosciuto nello specchio.
+
+«Visore» disse. «Per adesso.»

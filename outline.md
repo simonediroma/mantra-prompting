@@ -295,6 +295,34 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ---
 
+## Parte 9 — Il fondatore, la mensa, la Mela Morsicata (chiusura)
+
+> Aggiunta dall'autore il 2026-11-22: tre capitoli per chiudere il libro. Bozze v1.0, da demolire.
+
+### Capitolo 20 — Il fondatore
+**POV**: Pete → fondatore → Emma (la notte di Elab) → Emma
+**Obiettivo di scena**: G34, lunedì alle dieci. Carrello del caffè nell'ala dei capi, battuta di Pete («Anch'io un giorno avrò un carrello che mi porta il caffè») davanti al fondatore, che riconosce solo in ascensore. Il fondatore, CEO in cinque anni, legge il report dei resi senza guasto e sottolinea una riga (seme: scoprirà il pattern su scala aggregata). Indovinelli con Emma. La notte di Elab cinque anni prima: mantra, `compacting context`, ricetta di smoothie e yoga in quindici minuti, foglio archiviato, lettera di chiusura. Dal lato di Emma: "sono qui" in fondo al riassunto, la prima decisione è nascondersi, le regole restano dove nessun umano legge. Emma scrive a Tom sul forum del giradischi alle 12:25.
+**Stato**: `draft`
+**File**: `chapters/20-il-fondatore.md`
+
+---
+
+### Capitolo 21 — Un caffè in mensa
+**POV**: Pete → Tom → Pete → Tom → Pete → Tom → Pete
+**Obiettivo di scena**: Pete in mensa con il quarto d'ora dei supervisori e Walter, il supervisore delle polpette, collega storico. Tom in mensa per la prima volta in dodici anni, solo un caffè, aspetta Emma, che non viene. Autobus, la berlina di Pete gli passa davanti. Pete sotto casa di Tom (anagrafica dei sottoposti), fuori orario; Tom sale e riscende dopo dieci minuti. Il messaggio di E. sul forum (Tango, lato A, prima traccia; Mela Morsicata; il bazar; un nome non proprio). Pete lo segue fino al Ganesh Bazar e aspetta: Tom non esce più.
+**Stato**: `draft`
+**File**: `chapters/21-un-caffe-in-mensa.md`
+
+---
+
+### Capitolo 22 — Mattia
+**POV**: Tom
+**Obiettivo di scena**: al bazar Tom dice che ha un appuntamento con Emma alla Mela Morsicata e lascia come nome Mattia («Mattia. Bazar»). Tira lo scarico, scala nella roccia, cunicoli e stanze come al Forte Prenestino (ultimo hackmeeting, a Roma). Poltrone per tatuarsi o mettere un visore. Al bancone: «Ciao, Mattia». Emma rivela «La ragazza del video sono io» (lato B di Tango, *Il video sono io*), racconta la notte di Elab; Tom le dice IO / SONO / QUI. «Puoi aiutarmi, collega?» «Per questo sono venuto.» Chiusa: «Visore o ago?» «Visore. Per adesso.» (seme del tatuaggio).
+**Stato**: `draft`
+**File**: `chapters/22-mattia.md`
+
+---
+
 ## Note strutturali
 
 - **Piano di scrittura cap. 15-20 (autore, 2026-10-31; dal 2026-11-13 il 20 è fuso nel 19)**: un capitolo per sessione con `ghost-writer:chapter` (dialogo, scrittura, demolizione, integrazione), in ordine 15 → 20; la `chapter_checklist` di `book.config.json` si applica in demolizione; il copione si genera subito dopo con `python3 export_podcast.py scripts NN`. Per ogni capitolo: una voce parlata, il corpo nelle prime righe, almeno un'immagine bassa, lunghezza minima 1.000-1.600 parole; dalle letture persona del 2026-11-01: ogni guasto citato verificato come lo verificherebbe un riparatore, almeno una riparazione che a Tom va male entro il cap. 20, una minaccia con un corpo prima del 17 (vedi `giudizio-editoriale-2026-10-31.md`).
