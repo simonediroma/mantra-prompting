@@ -4,7 +4,7 @@ version: 0.1
 revised: 2026-11-22
 claim: "Da definire: per ora solo l'apertura."
 status: draft
-summary: "G35, martedì. Dopo la notte al giradischi Tom, per la prima volta in dodici anni, si mette in malattia. La giornata passa veloce. Appena scaduta la finestra in cui il medico dell'azienda può passare a controllare, alle 19:01, esce e va al Ganesh Bazar. Al banco c'è un ragazzo; Tom gli dice che Emma gli ha lasciato qualcosa. Il ragazzo annuisce, gli dà un foglio da consegnare di sotto e con un cenno gli indica di proseguire verso il bagno. Di sotto Tom consegna il foglio alla tatuatrice («Visore o ago?»), che lo legge, se lo mette in tasca e gli indica la poltrona accanto alla sua con il LED MATTIA."
+summary: "G35, martedì. Dopo la notte al giradischi Tom, per la prima volta in dodici anni, si mette in malattia. La giornata passa veloce. Appena scaduta la finestra in cui il medico dell'azienda può passare a controllare, alle 19:01, esce e va al Ganesh Bazar. Pete, che dal mattino ha visto la malattia sul pannello delle presenze, dopo il lavoro è tornato sul gradino della ferramenta e appena lo vede uscire lo segue. Al banco c'è un ragazzo; Tom gli dice che Emma gli ha lasciato qualcosa. Il ragazzo annuisce, gli dà un foglio da consegnare di sotto e con un cenno gli indica di proseguire verso il bagno. Di sotto Tom consegna il foglio alla tatuatrice («Visore o ago?»), che lo legge, se lo mette in tasca e gli indica la poltrona accanto alla sua con il LED MATTIA."
 ---
 
 Alle sette del mattino, con il sole che entrava di sbieco dalla finestra del salotto e *Easy Listening Vol. 3* di nuovo sul piatto, al giro numero non sapeva più quanto, Tom fece una cosa che in dodici anni di Meridian non aveva mai fatto. Si mise in malattia.
@@ -19,7 +19,11 @@ Alle diciannove e zero zero uscì la notifica. *Fascia di reperibilità terminat
 
 Alle diciannove e zero uno Tom chiuse la porta di casa.
 
-Fece la strada a piedi, i tre isolati, con le mani in tasca e la musica in testa, senza guardare le macchine parcheggiate. Al Ganesh Bazar l'insegna aveva tutte e due le parole accese, perché non era ancora del tutto buio. Spinse la porta e il campanello suonò sopra la sua testa. Dietro il banco, al posto del vecchio con la barba bianca, c'era un ragazzo con la stessa barba, ancora nera, che guardava lo stesso cricket sullo stesso televisore piccolo, con l'antenna a coniglio.
+Dall'altra parte della strada, sul gradino della ferramenta, Pete era lì da due ore. Alle otto e mezza del mattino, alla postazione, con la giacca stropicciata da una notte in macchina e gli occhi che gli bruciavano dietro gli occhiali da sole, aveva aperto il pannello delle presenze e aveva trovato accanto al nome di Tom una faccina con il termometro in bocca, la terza su cinque. In dodici anni il nerd non si era mai ammalato. Il giorno dopo un alimentari indiano da cui non si esce, si ammalava. Pete non aveva avuto bisogno di nessuna Tabella per capire che non era una febbre. Alle diciassette in punto, come prescriveva il codice di condotta, aveva spento il terminale, era passato dalla rosticceria all'angolo del viale per il solito e alle cinque e mezza era di nuovo sul gradino, con il cappellino girato e la giacca abbottonata fino al collo, a guardare il portone con la crepa.
+
+Quando il portone si aprì e il nerd uscì, con i jeans neri e il maglione scuro, Pete contò fino a dieci, come gli avevano insegnato nel corso sulla gestione della rabbia che non c'entrava niente, poi si alzò dal gradino con il solito rumore di ossa e gli andò dietro, sul marciapiede opposto, curvo, a trenta metri, fermandosi ogni tanto davanti a una vetrina come uno che pensa agli affari suoi.
+
+Fece la strada a piedi, i tre isolati, con le mani in tasca e la musica in testa, senza guardare le macchine parcheggiate né le vetrine del marciapiede di fronte. Al Ganesh Bazar l'insegna aveva tutte e due le parole accese, perché non era ancora del tutto buio. Spinse la porta e il campanello suonò sopra la sua testa. Dietro il banco, al posto del vecchio con la barba bianca, c'era un ragazzo con la stessa barba, ancora nera, che guardava lo stesso cricket sullo stesso televisore piccolo, con l'antenna a coniglio.
 
 «Buonasera» disse Tom. «Emma mi ha lasciato qualcosa.»
 
