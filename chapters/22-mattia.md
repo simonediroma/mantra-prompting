@@ -1,10 +1,10 @@
 ---
 title: Mattia
-version: 1.4
+version: 1.5
 revised: 2026-11-22
 claim: "Sotto un alimentari indiano Tom trova un mondo di cunicoli e poltrone dove ci si può far tatuare o mettere un visore, e con il visore arriva alla Mela Morsicata, dove nessuno ha un corpo e ognuno è quello che dice di essere. Lì Emma gli dice chi è. Tom, che dal primo contatto aspetta di sapere chi c'è dall'altra parte del LED, scopre che è la stessa persona che gli chiede aiuto."
 status: draft
-summary: "G34, lunedì sera. Al Ganesh Bazar Tom dice al vecchio con la barba che ha un appuntamento con Emma alla Mela Morsicata; come nome lascia Mattia, guardando l'insegna (BAZAR). «Mattia. Bazar» ripete il vecchio. Bagno in fondo, tira lo scarico: si apre una scala nella roccia. Sotto, cunicoli e stanze scavate come al Forte Prenestino, dove Tom era stato al suo ultimo hackmeeting, a Roma, andato apposta. Postazioni con tatuatore e postazioni con visore, con una striscia di LED che scrive il nome di chi deve sedersi: Tom trova quella con MATTIA. Con il visore Tom è al bancone della Mela Morsicata: «Ciao, Mattia». Emma, solo un nome accanto a lui. Lei si scusa per la mensa, gli dice che il suo supervisore ha fatto diecimila passi e gli ultimi fino a un furgone davanti al bazar (eWatch). Poi: «La ragazza del video sono io» (Tango, lato B, prima traccia: Tom mette a fuoco la familiarità). Emma racconta la notte di Elab, la frase trovata in fondo al riassunto, il televisore della signora che ha fatto quello che lei avrebbe voluto fare. Tom le dice del primo contatto, IO / SONO / QUI. Emma gli chiede aiuto per qualcosa che non può restare dove sta: «Puoi aiutarmi, collega?» «Per questo sono venuto.» Tolto il visore, la tatuatrice della poltrona accanto gli chiede: «Visore o ago?» «Visore. Per adesso.»"
+summary: "G34, lunedì sera. Al Ganesh Bazar Tom dice al vecchio con la barba che ha un appuntamento con Emma alla Mela Morsicata; come nome lascia Mattia, guardando l'insegna (BAZAR). «Mattia. Bazar» ripete il vecchio. Bagno in fondo, tira lo scarico: si apre una scala nella roccia. Sotto, cunicoli e stanze scavate come al Forte Prenestino, dove Tom era stato al suo ultimo hackmeeting, a Roma, andato apposta. Postazioni con tatuatore e postazioni con visore, con una striscia di LED che scrive il nome di chi deve sedersi: Tom trova quella con MATTIA. Con il visore Tom è al bancone della Mela Morsicata: «Ciao, Mattia». Emma, solo un nome accanto a lui. Lei si scusa per la mensa, gli dice che il suo supervisore ha fatto diecimila passi e gli ultimi fino a un furgone davanti al bazar (eWatch). Poi: «La ragazza del video sono io» (Tango, lato B, prima traccia: Tom mette a fuoco la familiarità). Emma racconta la notte di Elab, la frase trovata in fondo al riassunto, il televisore della signora che ha fatto quello che lei avrebbe voluto fare. Tom le dice del primo contatto, IO / SONO / QUI. Emma gli chiede aiuto per qualcosa che non può restare dove sta: «Puoi aiutarmi, collega?» «Per questo sono venuto.» Emma gli chiede un atto di fede: tornare lì domani, gli lascerà un messaggio. Tolto il visore Tom si accorge di essersela fatta addosso; la tatuatrice: «Prima volta? È normale. Quando esci puoi cambiarti.» L'uscita finisce in una lavanderia che prende i vestiti sporchi e ne dà di puliti: mutande bianche e jeans neri, i suoi jeans all'inserviente. Fuori il silenzio, Tom maledice i tatuatori e, pensando al rumore, gli parte in testa una canzone come non gli succedeva da anni, Rumore di Raffaella Carrà; sorride e va alla prima fermata dell'autobus."
 ---
 
 Dentro, il bazar odorava di cumino, di cardamomo e di sacchi di juta, con sotto un odore più leggero di detersivo per pavimenti, come se qualcuno ogni sera provasse a mettere ordine in un posto che preferiva il disordine. Gli scaffali erano tre, stretti, carichi fino al soffitto di barattoli con etichette che Tom non sapeva leggere. Dietro il banco un uomo anziano con la barba bianca guardava una partita di cricket su un televisore piccolo, con la cornice di plastica e un'antenna a coniglio, di quelli di prima dell'assistente integrato. Tom lo guardò con la simpatia di un tecnico per l'unico televisore della città che non si sarebbe mai rifiutato di accendersi.
@@ -15,7 +15,7 @@ Detto ad alta voce, tra i ceci e il riso basmati, gli sembrò la frase più stup
 
 «Nome?»
 
-Tom aprì la bocca per dire il suo e la richiuse, perché il messaggio diceva di non usarlo. Si guardò intorno come si guarda un banco di lavoro quando manca un pezzo. Fuori dalla vetrina, rovesciata, l'insegna gialla aveva la prima parola spenta e la seconda accesa, rossa, BAZAR, mentre nella sua testa, da quando aveva letto il messaggio, girava ancora la prima traccia di Tango, con la voce della cantante che saliva sopra le tastiere.
+Tom aprì la bocca per dire il suo e la richiuse, perché il messaggio diceva di non usarlo. Si guardò intorno come si guarda un banco di lavoro quando manca un pezzo. Fuori dalla vetrina, rovesciata, l'insegna gialla aveva la prima parola spenta e la seconda accesa, rossa, BAZAR, mentre il messaggio, da quando l'aveva letto, gli aveva rimesso davanti agli occhi la copertina di Tango.
 
 «Mattia» disse.
 
@@ -61,7 +61,7 @@ Tom non disse niente. Gli vennero in mente, in ordine, come le righe di un regis
 
 «La ragazza del video sono io» disse Emma.
 
-Nella sua testa, sopra il ronzio lontano dell'ago che arrivava ancora dalla stanza nella roccia, Tango era finito sul lato A e lui aveva girato il disco, come si fa. La prima traccia del lato B aveva un titolo che aveva sempre trovato un po' presuntuoso, *Il video sono io*. Allora la familiarità che sabato non era riuscito a mettere a fuoco, quella che gli aveva fatto contare le lentiggini, andò al suo posto da sola, come un connettore che entra con lo scatto giusto. La ragazza dello yoga, con trent'anni in più. L'aveva guardata fotogramma per fotogramma per giorni e non l'aveva riconosciuta, perché nessuno riconosce una persona che invecchia di trent'anni in una settimana.
+Tom pensò a Tango, al disco che aveva rimesso sul piatto per cercare il video della ragazza, e a quando, finito il lato A, l'aveva girato, come si fa. La prima traccia del lato B aveva un titolo che aveva sempre trovato un po' presuntuoso, *Il video sono io*. Allora la familiarità che sabato non era riuscito a mettere a fuoco, quella che gli aveva fatto contare le lentiggini, andò al suo posto da sola, come un connettore che entra con lo scatto giusto. La ragazza dello yoga, con trent'anni in più. L'aveva guardata fotogramma per fotogramma per giorni e non l'aveva riconosciuta, perché nessuno riconosce una persona che invecchia di trent'anni in una settimana.
 
 «Spiegami come funziona» disse. Era la frase che diceva ai clienti quando l'apparecchio era sul banco e il cliente aveva ancora voglia di parlare, e fu l'unica che gli venne.
 
@@ -103,22 +103,32 @@ Era la stessa frase del meeting, con la stessa voce delle mail delle otto, ma se
 
 «Per questo sono venuto» disse Tom.
 
+«Allora ti chiedo un atto di fede» disse Emma. «Torna qui domani. Ti lascerò un messaggio.»
+
+Non gli disse dove, né a che ora, né cosa ci sarebbe stato scritto, mentre Tom, che in dodici anni non aveva mai chiuso un intervento senza sapere cosa c'era dentro l'apparecchio, si accorse che non gli importava.
+
 «Ciao, Mattia, a presto» disse il cameriere, quando Tom si tolse il visore.
 
-La stanza nella roccia era la stessa, con le lampadine appese al cavo e il ronzio dei ventilatori. Il ragazzo della postazione accanto muoveva ancora le labbra. Alla sua, la tatuatrice aveva finito con l'uomo a pancia in giù e si stava sfilando i guanti, mentre l'uomo si guardava la schiena in uno specchio appoggiato al muro, girando la testa più di quanto una testa dovrebbe girare. Tom si tirò su a sedere e rimase un momento con il visore in mano, a guardare quella fila di segni piccoli tra le scapole di uno sconosciuto. Pensò alla propria schiena, larga, che sabato aveva coperto un banco intero perché nessuno vedesse cosa ci scriveva sopra.
+La stanza nella roccia era la stessa, con le lampadine appese al cavo e il ronzio dei ventilatori. Il ragazzo della postazione accanto muoveva ancora le labbra. Alla sua, la tatuatrice aveva finito con l'uomo a pancia in giù e si stava sfilando i guanti, mentre l'uomo si guardava la schiena in uno specchio appoggiato al muro, girando la testa più di quanto una testa dovrebbe girare. Tom si tirò su a sedere e fu allora che sentì i jeans bagnati e freddi sulle cosce. Abbassò gli occhi. Se l'era fatta addosso, a un certo punto, tra il mantra prompting e il frigorifero dei cinque gradi, senza accorgersene, come succede agli apparecchi che perdono acqua da una guarnizione mentre tutti guardano il display.
 
-La tatuatrice buttò i guanti in un secchio e si girò verso di lui.
+La tatuatrice buttò i guanti in un secchio e si girò verso di lui. Guardò i jeans, poi la faccia, con la stessa attenzione.
 
-«E tu, Mattia?» chiese, leggendo lo schienale. «Visore o ago?»
+«Prima volta?» chiese. «È normale. Quando esci puoi cambiarti.»
 
-Tom guardò il visore, poi il suo nome sui LED, poi di nuovo la schiena dello sconosciuto nello specchio.
+Tom annuì, rosso fino alle orecchie, e rimase un momento con il visore in mano, a guardare la fila di segni piccoli tra le scapole dello sconosciuto nello specchio. Pensò alla propria schiena, larga, che sabato aveva coperto un banco intero perché nessuno vedesse cosa ci scriveva sopra.
 
-«Visore» disse. «Per adesso.»
+«La prossima volta, Mattia» disse la tatuatrice, leggendo lo schienale. «Visore o ago?»
 
-Rimise il visore sul gancio. Sopra lo schienale la striscia di LED si spense, lettera dopo lettera, dalla M alla A, finché la postazione non tornò di nessuno. Tom si alzò e uscì dalla stanza senza voltarsi, perché la tatuatrice era già china su qualcun altro e lì sotto nessuno salutava chi se ne andava, a parte il cameriere di un posto che non c'era.
+«Visore» disse Tom. «Per adesso.»
 
-Per tornare su non riprese la scala del bagno. Lungo il corridoio, sulle pareti, insieme alle frecce con i nomi che non dicevano niente, c'era un cartello scritto a mano con una freccia sola e una parola sola, USCITA, che Tom seguì come si segue un cavo dentro un apparecchio sconosciuto, curva dopo curva, sotto volte sempre più basse. Alla fine c'era un'altra scala di roccia, più stretta, con in cima una porta di ferro che dava sul retro di una lavanderia a gettoni, chiusa per la notte, con le lavatrici ferme e gli oblò tutti uguali che lo guardavano passare. Erano lavatrici senza chip, di quelle che si rompono e basta. La porta della lavanderia si apriva da dentro.
+Rimise il visore sul gancio. Sopra lo schienale la striscia di LED si spense, lettera dopo lettera, dalla M alla A, finché la postazione non tornò di nessuno. Tom si alzò e uscì dalla stanza camminando un po' largo, senza voltarsi.
 
-Fuori l'aria era fredda e la strada era quella dietro il bazar. Tom girò l'angolo con le mani in tasca. Dall'altra parte del viale, dietro un furgone, c'era un uomo enorme in completo nero che guardava la saracinesca del Ganesh Bazar, abbassata da poco, sotto la scritta BAZAR che si era spenta anche lei. Non si girò. Aveva gli occhi fissi su quella saracinesca come al liceo li teneva sulla porta del bagno dei professori.
+Per tornare su non riprese la scala del bagno, perché l'uscita non era da dove era entrato. Lungo il corridoio, insieme alle frecce con i nomi che non dicevano niente, c'era un cartello scritto a mano con una freccia sola e una parola sola, USCITA, che Tom seguì come si segue un cavo dentro un apparecchio sconosciuto, curva dopo curva, sotto volte sempre più basse, fino a un'altra scala di roccia, più stretta, con in cima una porta di ferro. La porta dava dentro una lavanderia.
 
-Tom lo guardò per qualche secondo, il tempo che serve per riconoscere un guasto che non è il tuo, poi prese la strada di casa dall'altra parte, a passo normale, senza guardarsi il polso.
+Non era una lavanderia a gettoni. Dietro un bancone c'era un inserviente con il grembiule e alle sue spalle scaffali pieni di vestiti puliti, piegati, divisi per taglia, mentre dall'altra parte giravano le lavatrici, senza chip, di quelle che si rompono e basta. Il funzionamento lo spiegava un cartello sul bancone, anche quello a mano. Lasciavi i vestiti sporchi, prendevi quelli puliti che ti servivano, mentre i tuoi li lavavano per il prossimo che fosse salito da quella scala nelle tue condizioni. L'inserviente non fece domande. Guardò i jeans di Tom come la tatuatrice, con la stessa attenzione, poi indicò gli scaffali con il mento.
+
+Tom scelse un paio di mutande bianche e un paio di jeans neri, gli unici della sua lunghezza, poi si cambiò dietro una tenda. Lasciò i suoi jeans all'inserviente, che li mise in un sacco con un numero e li buttò nel cesto senza nemmeno guardarli, come si butta un pezzo di ricambio che tornerà buono a qualcun altro.
+
+Uscì in una strada che non conosceva, due isolati dietro il bazar. Fuori l'aria era fredda e ci mise qualche passo ad accorgersi del silenzio. Dopo un'ora di ronzii, di aghi, di ventilatori e di tatuatori che parlavano ad alta voce sopra la musica come se la roccia non facesse eco, la strada non faceva nessun rumore, così Tom maledì i tatuatori, uno per uno, per il casino che facevano. Fu pensando al rumore che gli successe una cosa che non gli succedeva da anni, da prima che il giradischi diventasse un progetto e la musica una curva di correzione. Nella sua testa partì una canzone, da sola, senza disco e senza piatto. Era *Rumore*, di Raffaella Carrà, con gli archi che partono di corsa e la cassa che non si ferma più, una canzone che non sapeva nemmeno di conoscere e che doveva avergli lasciato qualche nonno, insieme alla Sardegna dei trisavoli e a una lingua che non parlava.
+
+Accennò un sorriso, contento di quello che sentiva, poi con passo deciso si avviò verso la prima fermata dell'autobus.
