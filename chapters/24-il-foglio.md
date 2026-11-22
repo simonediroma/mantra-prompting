@@ -103,7 +103,11 @@ Archiviò anche quella, senza inoltrarla a nessun ispettore, poi prese il telefo
 
 «È tornato» disse, quando dall'altra parte risposero. «È dentro adesso.»
 
-«Lo so, Pancow» disse Maurice. «Il tuo registro lo leggo anch'io. Ingresso dal bazar alle diciannove e sette.» Ci fu una pausa, il rumore di una sedia. «Mando due dei miei alla lavanderia.»
+«Al bazar?» chiese Maurice.
+
+«Dalle diciannove e sette, dice il suo supervisore.»
+
+Ci fu una pausa, il rumore di una sedia. «Va bene, Pancow» disse Maurice. «Mando due dei miei alla lavanderia.»
 
 Due agenti in borghese arrivarono davanti alla lavanderia poco dopo le otto, in una macchina grigia senza nessun segno, di quelle che la gente non guarda perché non c'è niente da guardare. Parcheggiarono dall'altra parte della strada, con il muso verso la vetrina, poi spensero il motore. Dentro la lavanderia l'inserviente piegava magliette sotto la luce bianca, mentre le lavatrici senza chip giravano piano, una dopo l'altra, come se non avessero nient'altro da fare al mondo. Uno dei due agenti aprì un thermos di caffè. L'altro tirò fuori il telefono e guardò l'ora.
 
