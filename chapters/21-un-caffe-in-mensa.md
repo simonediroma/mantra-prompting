@@ -65,7 +65,7 @@ L'eWatch gli vibrò al polso. *Fuori orario. Ricordati di staccare.* Pete lo gir
 
 Alle sei meno dieci l'autobus si fermò all'angolo e Tom scese. Camminava come camminano gli uomini alti che non vogliono occupare spazio, con le spalle un po' in avanti e lo zaino su una spalla sola. Non guardò le macchine parcheggiate. Aprì il portone con la crepa e salì. Dopo un minuto al terzo piano si accese una finestra. Pete scivolò giù sul sedile, quanto può scivolare un uomo della sua stazza, cioè di pochi centimetri.
 
-Tom accese la luce, posò lo zaino e fece quello che faceva ogni sera prima di qualunque altra cosa, prima del frigorifero, prima del giradischi. Aprì il forum del progetto, dove gli audiofili scandinavi gli lasciavano le domande della notte, poi scorse i messaggi nuovi con il cappotto ancora addosso.
+Tom accese la luce, posò lo zaino e fece quello che faceva ogni sera prima di qualunque altra cosa, prima del frigorifero, prima del giradischi. Aprì il forum del progetto, dove gli audiofili scandinavi gli lasciavano le domande della notte, poi scorse i messaggi nuovi con la giacca ancora addosso.
 
 Ce n'era uno di un iscritto nuovo, con un nome di una lettera sola. Lo lesse in piedi. Poi lo rilesse seduto. Alla terza volta spense il computer, cambiò la felpa grigia con un maglione scuro, che non sapeva perché gli sembrasse più adatto, poi riscese le scale a due a due, come non faceva da anni.
 

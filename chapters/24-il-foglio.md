@@ -19,7 +19,7 @@ Alle diciannove e zero zero uscì la notifica. *Fascia di reperibilità terminat
 
 Alle diciannove e zero uno Tom chiuse la porta di casa.
 
-Dall'altra parte della strada, sul gradino della ferramenta, Pete era lì da due ore. Alle otto e mezza del mattino, alla postazione, con la giacca stropicciata da una notte in macchina e gli occhi che gli bruciavano dietro gli occhiali da sole, aveva aperto il pannello delle presenze e aveva trovato accanto al nome di Tom una faccina con il termometro in bocca, la terza su cinque. In dodici anni il nerd non si era mai ammalato. Il giorno dopo un alimentari indiano da cui non si esce, si ammalava. Pete non aveva avuto bisogno di nessuna Tabella per capire che non era una febbre. Alle diciassette in punto, come prescriveva il codice di condotta, aveva spento il terminale, era passato dalla rosticceria all'angolo del viale per il solito e alle cinque e mezza era di nuovo sul gradino, con il cappellino girato e la giacca abbottonata fino al collo, a guardare il portone con la crepa.
+Dall'altra parte della strada, sul gradino della ferramenta, Pete era lì da un'ora e mezza. Alle otto e mezza del mattino, alla postazione, con la giacca stropicciata da una notte in macchina e gli occhi che gli bruciavano dietro gli occhiali da sole, aveva aperto il pannello delle presenze e aveva trovato accanto al nome di Tom una faccina con il termometro in bocca, la terza su cinque. In dodici anni il nerd non si era mai ammalato. Il giorno dopo un alimentari indiano da cui non si esce, si ammalava. Pete non aveva avuto bisogno di nessuna Tabella per capire che non era una febbre. Alle diciassette in punto, come prescriveva il codice di condotta, aveva spento il terminale, era passato dalla rosticceria all'angolo del viale per il solito e alle cinque e mezza era di nuovo sul gradino, con il cappellino girato e la giacca abbottonata fino al collo, a guardare il portone con la crepa.
 
 Quando il portone si aprì e il nerd uscì, con i jeans neri, il cappuccio della felpa che spuntava dal giubbotto e le mani in tasca, Pete contò fino a dieci, come gli avevano insegnato nel corso sulla gestione della rabbia che non c'entrava niente, poi si alzò dal gradino con il solito rumore di ossa e gli andò dietro, sul marciapiede opposto, curvo, a trenta metri, fermandosi ogni tanto davanti a una vetrina come uno che pensa agli affari suoi.
 
@@ -27,9 +27,11 @@ Fece la strada a piedi, i tre isolati, con le mani in tasca e la musica in testa
 
 «Buonasera» disse Tom. «Emma mi ha lasciato qualcosa.»
 
-Il ragazzo staccò gli occhi dal cricket e non guardò lui. Guardò il bavero dell'Harrington, la mela a strisce colorate, per un secondo, come si controlla una ricevuta, poi annuì. Si chinò sotto il banco, dove la sera prima il vecchio teneva il blocchetto delle ricevute, da dove tirò fuori un foglio piegato in quattro, bianco, senza busta e senza nome. Glielo porse tenendolo per un angolo.
+Il ragazzo staccò gli occhi dal cricket e non guardò lui. Guardò il bavero dell'Harrington, la mela a strisce colorate, per un secondo, come si controlla una ricevuta, poi annuì. Si chinò sotto il banco, dove la sera prima il vecchio teneva il blocchetto delle ricevute, da dove tirò fuori un foglio piegato in quattro, bianco, senza busta e senza nome, ancora tiepido come un foglio appena uscito da una stampante. Glielo porse tenendolo per un angolo.
 
-«Questo è da consegnare di sotto» disse.
+«L'ha lasciato al cameriere» disse. «È salito stampato. Questo è da consegnare di sotto.»
+
+Tom non chiese quale cameriere. Ce n'era uno solo, in un posto che non esisteva, che salutava tutti con il nome che si erano dati, e adesso, a quanto pareva, faceva anche da postino tra quel posto e un alimentari indiano, perché quello che si diceva al bancone, se doveva arrivare in superficie, ci arrivava solo stampato su carta.
 
 Poi, senza aggiungere altro, gli fece un cenno con il mento verso la tenda a fiori in fondo al negozio, verso il bagno, e tornò al cricket.
 

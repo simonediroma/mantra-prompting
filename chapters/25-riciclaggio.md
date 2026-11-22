@@ -55,7 +55,7 @@ Tom, a quell'ora, era di sotto, su una poltrona con il suo nome nuovo scritto su
 
 «Le spiegherà al magistrato.» Il secondo poliziotto staccò il ledger dal portatile e lo infilò in una bustina trasparente che aveva già pronta in tasca. «Per qualche giorno, intanto, le spiegherà a noi. Lei è in stato di fermo per riciclaggio. Si giri, per favore.»
 
-Le manette erano fredde. Quando gli portarono le braccia dietro la schiena, il dolore che salì dalle scapole fu così forte che Tom vide bianco, come il francobollo di Pete sotto il LED, tanto che dovette appoggiarsi alla macchina per non cadere.
+Le manette erano fredde. Quando gli portarono le braccia dietro la schiena, il dolore che salì dalle scapole fu così forte che Tom vide bianco, come il muro sopra la porta quando aveva acceso il LED, tanto che dovette appoggiarsi alla macchina per non cadere.
 
 La portiera si chiuse. Tom appoggiò la fronte al finestrino, perché la schiena contro il sedile non la reggeva, poi guardò la vetrina della lavanderia, con l'inserviente che piegava magliette sotto la luce bianca senza alzare gli occhi, finché la macchina non partì e la vetrina non diventò una luce tra le altre. Non riusciva a mettere in fila i pensieri. Riusciva solo a contare, come contava i secondi di un intervento, i respiri uno alla volta, perché ognuno faceva male in un punto diverso.
 

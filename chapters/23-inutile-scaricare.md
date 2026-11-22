@@ -69,7 +69,7 @@ Tirò fuori il telefono di lavoro, lo schermo al minimo, coperto con la mano com
 >
 > Segnalo un comportamento compatibile con una possibile esfiltrazione di dati sensibili da parte di un mio sottoposto, Tom, Divisione Assistenza Tecnica.
 >
-> Il G21 il dipendente ha scritto per la prima volta all'indirizzo elab@meridian.com, laboratorio Elab, con cui non aveva mai avuto contatti e che non rientra nelle sue mansioni. Da allora intrattiene uno scambio continuativo con una dipendente di Elab mai vista in azienda, culminato in un meeting di nove minuti con trascrizione formalmente regolare durante il quale il dipendente ha armeggiato con supporti cartacei e un pennarello, coprendoli con il corpo alla vista della sorveglianza.
+> Tredici giorni fa il dipendente ha scritto per la prima volta all'indirizzo elab@meridian.com, laboratorio Elab, con cui non aveva mai avuto contatti e che non rientra nelle sue mansioni. Da allora intrattiene uno scambio continuativo con una dipendente di Elab mai vista in azienda, culminato in un meeting di nove minuti con trascrizione formalmente regolare durante il quale il dipendente ha armeggiato con supporti cartacei e un pennarello, coprendoli con il corpo alla vista della sorveglianza.
 >
 > In data odierna, fuori dall'orario di lavoro, il dipendente è entrato nell'esercizio commerciale Ganesh Bazar, al numero dodici di via dei Tigli, angolo viale, alle ore 18:07, senza uscirne dall'ingresso principale. È rientrato al proprio domicilio alle 22:47 con un abbigliamento diverso da quello con cui era uscito. Si ritiene necessario un intervento ispettivo.
 >
