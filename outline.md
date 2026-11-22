@@ -323,7 +323,12 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ---
 
-### Ultima scena del libro (fissata dall'autore, 2026-11-22)
+### Capitolo 25 — Resistenza
+Tom esce dalla lavanderia passate le due, dolorante e poco lucido. Due agenti in borghese, finti tifosi di ritorno dalla finale, prendono a pretesto la spilletta Apple a strisce ("attivista LGBT") e lo insultano; Tom prova a scappare, si scontra con uno dei due, che cade, si rialza e mostra il distintivo: arresto per resistenza a pubblico ufficiale. Tom: non sapeva che fossero poliziotti finché non ha visto il distintivo. Motivo futile, niente legato a Meridian (autore, 2026-11-22).
+**File**: `chapters/25-resistenza.md`
+
+### Capitolo 26 — Fa male (ultima scena del libro, fissata dall'autore, 2026-11-22)
+**File**: `chapters/26-fa-male.md`
 Tom in prigione si spoglia, il secondino: «deve far male». La schiena appena tatuata per tutta la lunghezza con il prompt madre in Morse; la telecamera del circuito chiuso zooma sulla schiena; Tom: «fa male come un parto gemellare»; interferenza su tutti i video del circuito chiuso. Fino a qui non si sa se la poltrona MATTIA (cap. 24) fosse visore o ago; il foglio di Emma non si mostra mai.
 
 ---
