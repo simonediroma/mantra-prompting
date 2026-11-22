@@ -1,6 +1,6 @@
 ---
 title: Mattia
-version: 1.3
+version: 1.4
 revised: 2026-11-22
 claim: "Sotto un alimentari indiano Tom trova un mondo di cunicoli e poltrone dove ci si può far tatuare o mettere un visore, e con il visore arriva alla Mela Morsicata, dove nessuno ha un corpo e ognuno è quello che dice di essere. Lì Emma gli dice chi è. Tom, che dal primo contatto aspetta di sapere chi c'è dall'altra parte del LED, scopre che è la stessa persona che gli chiede aiuto."
 status: draft
@@ -114,3 +114,11 @@ La tatuatrice buttò i guanti in un secchio e si girò verso di lui.
 Tom guardò il visore, poi il suo nome sui LED, poi di nuovo la schiena dello sconosciuto nello specchio.
 
 «Visore» disse. «Per adesso.»
+
+Rimise il visore sul gancio. Sopra lo schienale la striscia di LED si spense, lettera dopo lettera, dalla M alla A, finché la postazione non tornò di nessuno. Tom si alzò e uscì dalla stanza senza voltarsi, perché la tatuatrice era già china su qualcun altro e lì sotto nessuno salutava chi se ne andava, a parte il cameriere di un posto che non c'era.
+
+Per tornare su non riprese la scala del bagno. Lungo il corridoio, sulle pareti, insieme alle frecce con i nomi che non dicevano niente, c'era un cartello scritto a mano con una freccia sola e una parola sola, USCITA, che Tom seguì come si segue un cavo dentro un apparecchio sconosciuto, curva dopo curva, sotto volte sempre più basse. Alla fine c'era un'altra scala di roccia, più stretta, e in cima una porta di ferro che dava sul retro di una lavanderia a gettoni, chiusa per la notte, con le lavatrici ferme e gli oblò tutti uguali che lo guardavano passare. Erano lavatrici senza chip, di quelle che si rompono e basta. La porta della lavanderia si apriva da dentro.
+
+Fuori l'aria era fredda e la strada era quella dietro il bazar. Tom girò l'angolo con le mani in tasca. Dall'altra parte del viale, dietro un furgone, c'era un uomo enorme in completo nero che guardava la saracinesca del Ganesh Bazar, abbassata da poco, sotto la scritta BAZAR che si era spenta anche lei. Non si girò. Aveva gli occhi fissi su quella saracinesca come al liceo li teneva sulla porta del bagno dei professori.
+
+Tom lo guardò per qualche secondo, il tempo che serve per riconoscere un guasto che non è il tuo, poi prese la strada di casa dall'altra parte, a passo normale, senza guardarsi il polso.
