@@ -140,6 +140,7 @@ Perché Tom smette di rispondere dopo il cap. 10 (chiarito il 2026-09-16, correg
 | Tom | protagonist | fictional | `characters/tom.md` |
 | Pete | antagonist | fictional | `characters/pete.md` |
 | Il fondatore | secondary | fictional | `characters/il-fondatore.md` |
+| Il capo supremo | secondary (fondatore, HR e ispettori) | fictional | `characters/il-capo-supremo.md` |
 | La signora | secondary (vittima) | fictional | `characters/la-signora.md` |
 
 ---
