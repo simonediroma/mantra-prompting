@@ -323,6 +323,11 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ---
 
+### Ultima scena del libro (fissata dall'autore, 2026-11-22)
+Tom in prigione si spoglia, il secondino: «deve far male». La schiena appena tatuata per tutta la lunghezza con il prompt madre in Morse; la telecamera del circuito chiuso zooma sulla schiena; Tom: «fa male come un parto gemellare»; interferenza su tutti i video del circuito chiuso. Fino a qui non si sa se la poltrona MATTIA (cap. 24) fosse visore o ago; il foglio di Emma non si mostra mai.
+
+---
+
 ## Note strutturali
 
 - **Piano di scrittura cap. 15-20 (autore, 2026-10-31; dal 2026-11-13 il 20 è fuso nel 19)**: un capitolo per sessione con `ghost-writer:chapter` (dialogo, scrittura, demolizione, integrazione), in ordine 15 → 20; la `chapter_checklist` di `book.config.json` si applica in demolizione; il copione si genera subito dopo con `python3 export_podcast.py scripts NN`. Per ogni capitolo: una voce parlata, il corpo nelle prime righe, almeno un'immagine bassa, lunghezza minima 1.000-1.600 parole; dalle letture persona del 2026-11-01: ogni guasto citato verificato come lo verificherebbe un riparatore, almeno una riparazione che a Tom va male entro il cap. 20, una minaccia con un corpo prima del 17 (vedi `giudizio-editoriale-2026-10-31.md`).
