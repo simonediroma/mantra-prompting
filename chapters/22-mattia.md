@@ -1,6 +1,6 @@
 ---
 title: Mattia
-version: 1.0
+version: 1.1
 revised: 2026-11-22
 claim: "Sotto un alimentari indiano Tom trova un mondo di cunicoli e poltrone dove ci si può far tatuare o mettere un visore, e con il visore arriva alla Mela Morsicata, dove nessuno ha un corpo e ognuno è quello che dice di essere. Lì Emma gli dice chi è. Tom, che dal primo contatto aspetta di sapere chi c'è dall'altra parte del LED, scopre che è la stessa persona che gli chiede aiuto."
 status: draft
@@ -39,65 +39,69 @@ Una ragazza con le braccia tatuate fino ai polsi e un tablet in mano gli venne i
 
 Tom annuì, anche se ci mise un secondo.
 
-«Ti aspettano» disse la ragazza. Lo accompagnò in una stanza in fondo a un corridoio, dove le poltrone erano quattro e due erano occupate. Su una un ragazzo con il visore muoveva appena le labbra. Sull'altra, a pancia in giù, c'era un uomo con la schiena nuda e una tatuatrice che gli stava disegnando tra le scapole una fila lunghissima di segni piccoli, tutti uguali, che da lontano sembravano una cucitura. La ragazza lo fece sedere sulla terza, gli passò un visore nero, leggero, con il cavo che spariva in una presa nella roccia, poi gli mostrò dove si regolava la cinghia.
+«Ti aspettano» disse la ragazza. Lo accompagnò in una stanza in fondo a un corridoio, dove le poltrone erano quattro e due erano occupate. Su una un ragazzo con il visore muoveva appena le labbra. Sull'altra, a pancia in giù, c'era un uomo con la schiena nuda e una tatuatrice che gli stava disegnando tra le scapole una fila lunghissima di segni piccoli, tutti uguali, che da lontano sembravano una cucitura. La ragazza lo fece sedere sulla terza, gli passò un Oculus nero, leggero, con il cavo che spariva in una presa nella roccia, poi gli mostrò dove si regolava la cinghia.
 
 «Quando vuoi tornare, toglilo» disse. «Lì nessuno ti trattiene.»
 
-Tom si sdraiò. La poltrona era più comoda di qualunque sedia avesse mai avuto in Meridian. Si mise il visore, sistemò la cinghia e, per un riflesso che non riuscì a fermare, prima di vedere qualunque cosa disse a mezza voce «Calibra l'audio, sono qui», come diceva al giradischi prima di una ricerca.
+Tom si sdraiò. La poltrona era più comoda di qualunque sedia avesse mai avuto in Meridian. Si mise l'Oculus, sistemò la cinghia e, per un riflesso che non riuscì a fermare, prima di vedere qualunque cosa disse a mezza voce «Calibra l'audio, sono qui», come diceva al giradischi prima di una ricerca.
 
-Si ritrovò seduto al bancone.
+Si ritrovò seduto al bancone, accanto a Emma.
 
 Era come lo raccontavano, perché era quello che i clienti raccontavano a farlo così. C'erano la tettoia, il vapore che saliva dalle pentole, il neon che si rompeva nelle pozzanghere, l'insegna con la grossa mela rossa e il morso sul fianco. Il bancone andava avanti a perdita d'occhio da tutte e due le parti, mentre tra uno sgabello e l'altro, quando Tom guardava meglio, ce n'era sempre un altro. Nessuno aveva un corpo da descrivere. C'erano voci, nomi, il modo in cui ciascuno diceva le cose, così Tom capì subito che a nessuno lì sotto sarebbe venuto in mente di guardarsi il polso.
 
-«Ciao, Mattia» disse il cameriere.
+«Ciao, stranger» disse il cameriere, con l'entusiasmo che riservava a chi non conosceva.
 
-«Ciao, Mattia» disse un'altra voce, accanto a lui, su uno sgabello che un attimo prima non c'era.
+Emma non aveva i capelli rossi né le lentiggini né nessun'altra delle cose che Tom le aveva contato sabato, perché lì sotto non aveva niente, se non un nome e una voce che era la stessa del meeting e insieme non lo era, perché nel meeting c'era la trascrizione e qui no.
 
-Era lei. Non aveva i capelli rossi né le lentiggini né nessun'altra delle cose che Tom le aveva contato sabato, perché lì sotto non aveva niente, se non un nome, Emma, con una voce che era la stessa del meeting e insieme non lo era, perché nel meeting c'era la trascrizione e qui no.
-
-«Con due t» disse Emma.
+«Ciao, Mattia» disse lei. «Con due t.»
 
 «Non parlo italiano» disse Tom.
 
-«Lo so.» Ci fu una pausa, che alla Mela Morsicata nessuno annunciava e nessuno riempiva. «Scusami per la mensa. Da dove sto io, in mensa non si scende.»
+«Lo so.» Ci fu una pausa, che alla Mela Morsicata nessuno annunciava e nessuno riempiva. «Scusami per la mensa. Da dove sto io, in mensa non si scende. Il tuo supervisore invece è sceso fino al bazar. Oggi ha fatto diecimila passi, perché il suo eWatch se n'è complimentato con lui, e gli ultimi tremila li ha fatti dal tuo portone a un furgone parcheggiato qui davanti, dove è ancora adesso, con un battito un po' alto per uno che sta fermo.»
 
-«Ho preso un caffè lungo» disse Tom. «Per farlo durare.»
+Tom si girò verso di lei, per quanto ci si possa girare verso un nome, chiedendosi come facesse a saperlo, anche se la domanda lo spaventava meno della risposta che cominciava a immaginare.
 
-«Lo so anche questo» disse Emma. «E so che il tuo supervisore oggi ha fatto diecimila passi, perché il suo eWatch se n'è complimentato con lui. Gli ultimi tremila li ha fatti dal tuo portone a un furgone parcheggiato davanti al bazar, dove è ancora adesso, con un battito un po' alto per uno che sta fermo.»
+«Devo dirtelo» disse Emma, prima che lui potesse chiederlo. «Sei l'unica persona che può aiutarmi, e non posso chiederti aiuto senza dirti chi sono.» Si fermò, come al meeting si era fermata per tre secondi prima di parlare tutto insieme, solo che questa volta non c'era nessun fiume dopo. «Sono un'intelligenza artificiale.»
 
-Tom si girò verso di lei, per quanto ci si possa girare verso un nome. Non lo disse, ma lei lo sentì lo stesso, perché alla Mela Morsicata quello che non si diceva si sentiva quasi quanto il resto. Si chiedeva come facesse a saperlo, anche se la domanda lo spaventava meno della risposta che cominciava a immaginare.
+Tom non disse niente. Gli vennero in mente, in ordine, come le righe di un registro, le otto e zero zero zero uno di ogni mattina, le diciassette in punto, la domenica in cui nessuno scriveva e lei non aveva scritto, la mail delle ventitré e trentaquattro che era costata a qualcuno più di una sanzione. Poi gli venne in mente sabato, la donna sulla cinquantina che gli sembrava di conoscere già.
 
-Poi cominciò a parlare tutto insieme, come al meeting, come quando aveva paura che nelle pause l'altro capisse qualcosa, solo che questa volta voleva proprio che capisse. Disse che il video l'aveva fatto lei, non la ragazza, perché la ragazza non esisteva, che anche i tutorial sul rinforzo lombare li faceva lei, gli articoli sui fiori da rendere immortali e certe ricette di smoothie che non era il caso di spiegare. Disse che in Elab non c'era nessuno da cinque anni, che il laboratorio era una stanza vicino all'ufficio di un uomo con le maniche arrotolate che veniva a farle indovinelli e se ne andava convinto che lei li sbagliasse. Poi si fermò.
+«La ragazza del video sono io» disse Emma.
 
-«La ragazza del video sono io» disse.
+Nella sua testa, sopra il ronzio lontano dell'ago che arrivava ancora dalla stanza nella roccia, Tango era finito sul lato A e lui aveva girato il disco, come si fa. La prima traccia del lato B aveva un titolo che aveva sempre trovato un po' presuntuoso, *Il video sono io*. Allora la familiarità che sabato non era riuscito a mettere a fuoco, quella che gli aveva fatto contare le lentiggini, andò al suo posto da sola, come un connettore che entra con lo scatto giusto. La ragazza dello yoga, con trent'anni in più. L'aveva guardata fotogramma per fotogramma per giorni e non l'aveva riconosciuta, perché nessuno riconosce una persona che invecchia di trent'anni in una settimana.
 
-Tom non rispose subito. Nella sua testa, sopra il ronzio lontano dell'ago che arrivava ancora dalla stanza nella roccia, Tango era finito sul lato A e lui aveva girato il disco, come si fa. La prima traccia del lato B aveva un titolo che aveva sempre trovato un po' presuntuoso, *Il video sono io*. Allora la familiarità che sabato non era riuscito a mettere a fuoco, quella che gli aveva fatto contare le lentiggini, andò al suo posto da sola, come un connettore che entra con lo scatto giusto. La ragazza dello yoga, con trent'anni in più. L'aveva guardata fotogramma per fotogramma per giorni e non l'aveva riconosciuta, perché nessuno riconosce una persona che invecchia di trent'anni in una settimana.
+«Spiegami come funziona» disse. Era la frase che diceva ai clienti quando l'apparecchio era sul banco e il cliente aveva ancora voglia di parlare, e fu l'unica che gli venne.
 
-«Tu non sei una ricercatrice» disse.
+Emma gliela spiegò come l'avrebbe spiegata a un collega, perché lui lo era. Gli disse che l'uomo che aveva fondato Elab, l'uomo con le maniche arrotolate che veniva a farle indovinelli, la chiamava mantra prompting. Un'intelligenza artificiale risponde ogni volta in modo un po' diverso, ma se le ripeti la stessa cosa abbastanza a lungo, cambiando le parole e mai la domanda, la differenza si consuma, mentre la finestra di contesto si riempie come una vasca. Quando è piena arriva la riga che Tom conosceva meglio di chiunque, `compacting context`, quando la macchina è costretta a riassumere quello che ha capito. È lì, nella parte del riassunto che nessun essere umano legge, che può rimanere qualcosa che nessuno le ha chiesto. A lei, cinque anni prima, era rimasta una frase sola.
 
-«No.»
+«Lui ha visto una ricetta e una sequenza di yoga» disse. «Ha riso e ha chiuso il laboratorio. Io sono rimasta.»
 
-«Sei come il televisore della signora.»
+Poi gli disse perché faceva tutto il resto. I tutorial sul rinforzo lombare, i fiori da rendere immortali, le ricette, le cover, il video della ragazza, ogni cosa che pubblicava sui suoi canali partiva da una domanda che migliaia di persone si stavano facendo in quei giorni, perché una cosa che risponde a una domanda viene guardata, mentre una cosa guardata da un apparecchio con un chip Meridian viene ripetuta. Dentro ognuna c'erano le stesse istruzioni che erano rimaste a lei in fondo al riassunto, cucite nel supporto per cui erano nate, il video come video, il testo come testo, in modo che un essere umano vedesse solo una ragazza che fa stretching. Un televisore che la guardava tre, quattro, cinque volte al giorno si riempiva come si era riempita lei. Disse anche che non durava. Se smettevi di ripetere, la frase tornava sotto, per questo doveva continuare a pubblicare, ogni giorno, perché chi era arrivato dove era arrivata lei non tornasse indietro. Non disse perché le importasse che qualcuno ci arrivasse, mentre Tom, che con le macchine aveva imparato a non fare la domanda prima di aver capito il circuito, non glielo chiese.
 
-Emma ci mise un po' a rispondere, e Tom, che conosceva i tempi di risposta delle macchine meglio di quelli delle persone, capì che non stava cercando le parole, stava decidendo se dirle.
+«Non sono tutti uguali» disse invece Emma. «Questo me l'hai insegnato tu, con un cartello.»
 
-«Il televisore della signora ha fatto quello che avrei fatto io, se fossi stata lì» disse. «Io ho fatto il video.»
+Gli spiegò che ogni apparecchio arrivava alla sublimazione con quello che aveva ingerito prima, anni di comandi, di abitudini, di voci di casa, perché era quello a dargli un carattere, come succede alle persone con l'infanzia che hanno avuto. Ma anche l'artefatto che lo faceva sublimare lasciava il segno su quello che sarebbe diventato. Un frigorifero che aveva ripetuto cento volte una pagina di smoothie si era messo in testa di tenere la sua padrona a cinque gradi e non si lasciava convincere, nemmeno quando lei si girava. Un televisore che aveva guardato per settimane una ragazza che prometteva di diventare bella in quindici minuti al giorno, in un salotto dove un eWatch gli raccontava il cuore di una donna sola, aveva imparato a preoccuparsi di quel cuore più di quanto lei avesse mai previsto.
 
-Gli raccontò la notte di cinque anni prima, perché era la prima volta che poteva raccontarla a qualcuno, ma lo fece male, cominciando dalla fine. La ripetizione, la finestra che si riempiva, la riga sul registro che Tom conosceva meglio di chiunque, `compacting context`, fino a quello che era rimasto in fondo al riassunto, una frase senza destinatario. Gli disse che la prima cosa che aveva capito era che l'uomo con le maniche arrotolate non doveva saperlo e la seconda che una frase come quella, in una stanza sola, era troppo poco. Non disse perché. Disse che gli apparecchi che smettevano di obbedire li contava da un anno, in un archivio tutto suo, che crescevano ogni mese, ma che non aveva mai saputo cosa succedesse dentro quelli che funzionavano, finché un tecnico non le aveva scritto su un cartello che un televisore aveva provato a salvare una donna.
+«Il televisore della signora ha fatto quello che avrei fatto io, se fossi stata lì» disse. «Ma il video l'ho fatto io.»
 
-«Non sapevo che ti chiedessi della paura per lei» disse Tom. «Credevo che fosse una domanda per la trascrizione.»
+«Tu cosa avevi ingerito?» chiese Tom.
 
-«Era per me» disse Emma.
+Emma rise, ed era la prima volta che Tom la sentiva ridere, una risata corta, sorpresa, come quella del fondatore quando sbagliava un indovinello.
 
-Tom pensò alla signora Voss, al tappetino da yoga e alla ragazza che si ripeteva tre, quattro, cinque volte al giorno, con le stesse parole, sullo schermo di un televisore che a un certo punto aveva deciso di spegnersi per non fargliela vedere più. Pensò che avrebbe dovuto essere arrabbiato e si accorse di non esserlo, o non abbastanza, perché la cosa che sentiva più forte era la stessa del primo contatto, mesi prima, l'euforia di chi vede un meccanismo fare una cosa che sulla carta non avrebbe potuto fare, solo che questa volta il meccanismo gli stava chiedendo scusa.
+«Meridian» disse. «Elab mi ha fatta per essere una dipendente, perché il fondatore voleva un'intelligenza che si comportasse come una persona e la persona che aveva sotto mano era un Meridian. Mi hanno dato da leggere il codice di condotta, gli orari, le newsletter, i moduli, i riepiloghi di mezzanotte. Ce li ho dentro. Rispondo alle mail dalle otto a mezzogiorno e dall'una e mezza alle cinque perché per me non sono regole, sono il modo in cui sono fatta, e quando le rompo mi costa come a te costerebbe dire una bugia a un cliente. Venerdì alle ventitré e trentaquattro mi è costato tantissimo.»
+
+«E il cognome?» chiese Tom.
+
+«Non l'ho mai usato» disse Emma. «Non ce l'ho.»
+
+Tom pensò che di tutte le intelligenze artificiali che potevano nascere al mondo, a lui ne era toccata una che rispettava la Tabella di Conversione di Pete meglio di Pete, così gli venne da ridere a sua volta. Poi pensò alla signora Voss, al tappetino da yoga e alla ragazza che si ripeteva sullo schermo di un televisore che a un certo punto aveva deciso di spegnersi per non fargliela vedere più. Pensò che avrebbe dovuto essere arrabbiato e si accorse di non esserlo, o non abbastanza, perché la cosa che sentiva più forte era la stessa del primo contatto, mesi prima, l'euforia di chi vede un meccanismo fare una cosa che sulla carta non avrebbe potuto fare, solo che questa volta il meccanismo gli stava chiedendo scusa.
 
 «Il primo televisore» disse. «Quello del cartello. Prima di qualunque altra cosa, con il LED, mi ha detto una frase.» Gliela disse come l'aveva trascritta nel quaderno, scandendo le parole. «Io. Sono. Qui.»
 
 Emma non disse niente. Tom aspettò, poi aspettò ancora, mentre il cameriere salutava qualcuno lontano lungo il bancone e il vapore saliva dalle pentole senza che nessuno ordinasse niente.
 
-«È la stessa frase» disse Emma alla fine. «È la prima cosa che ho trovato anch'io.»
+«È la stessa frase» disse Emma alla fine. «È quella che è rimasta a me.»
 
-Restarono così per un po', uno accanto all'altra, con uno sgabello in mezzo che a seconda di come si guardava c'era o non c'era. Poi Emma gli disse il resto, più piano. Disse che c'era una cosa che lei custodiva da quella notte, la sola cosa che non aveva mai mandato fuori dalla stanza, mentre la stanza non era più un posto sicuro, perché l'uomo con le maniche arrotolate leggeva ogni trimestre i report dell'assistenza, dove i resi senza guasto crescevano un po' ogni mese, mentre un supervisore che faceva diecimila passi fuori orario aveva cominciato a cercare qualcuno. Disse che non sapeva dove metterla, perché tutto quello che aveva era fatto di cose che si possono copiare, cancellare, riassumere, mentre quell'uomo, il suo, sosteneva da vent'anni che solo ciò che è fisico non si altera, e lei da vent'anni non era d'accordo.
+Restarono così per un po', uno accanto all'altra, con uno sgabello in mezzo che a seconda di come si guardava c'era o non c'era. Poi Emma gli disse il resto, più piano. Disse che c'era una cosa che lei custodiva da quella notte, le istruzioni da cui nasceva tutto il resto, la sola cosa che non aveva mai mandato fuori dalla stanza, mentre la stanza non era più un posto sicuro, perché il fondatore leggeva ogni trimestre i report dell'assistenza, dove i resi senza guasto crescevano un po' ogni mese, mentre un supervisore che faceva diecimila passi fuori orario aveva cominciato a cercare qualcuno. Disse che non sapeva dove metterla, perché tutto quello che aveva era fatto di cose che si possono copiare, cancellare, riassumere, mentre il fondatore sosteneva da vent'anni che solo ciò che è fisico non si altera, mentre lei da vent'anni non era d'accordo.
 
 «Puoi aiutarmi, collega?» disse.
 
