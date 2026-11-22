@@ -4,7 +4,7 @@ version: 0.1
 revised: 2026-11-22
 claim: "Da definire: per ora solo l'apertura."
 status: draft
-summary: "G35, martedì. Dopo la notte al giradischi Tom, per la prima volta in dodici anni, si mette in malattia. La giornata passa veloce. Appena scaduta la finestra in cui il medico dell'azienda può passare a controllare, alle 19:01, esce e va al Ganesh Bazar. Pete, che dal mattino ha visto la malattia sul pannello delle presenze, dopo il lavoro è tornato sul gradino della ferramenta e appena lo vede uscire lo segue. Al banco c'è un ragazzo; Tom, con una vecchia spilletta della Apple appuntata al bavero dell'Harrington della Merc, sopra la felpa con il cappuccio (la chiave della mela), gli dice che Emma gli ha lasciato qualcosa; il ragazzo guarda la spilla. Il ragazzo annuisce, gli dà un foglio da consegnare di sotto e con un cenno gli indica di proseguire verso il bagno. Di sotto Tom consegna il foglio alla tatuatrice («Visore o ago?»), che lo legge, se lo mette in tasca e gli indica la poltrona accanto alla sua con il LED MATTIA. Pete entra nel bazar, chiede il bagno (stavolta è vero), lo trova vuoto, tira la catenella e la parete ruota: scende nei cunicoli, tra tatuatori e visori, a cercare il suo nerd."
+summary: "G35, martedì. Dopo la notte al giradischi Tom, per la prima volta in dodici anni, si mette in malattia. La giornata passa veloce. Appena scaduta la finestra in cui il medico dell'azienda può passare a controllare, alle 19:01, esce e va al Ganesh Bazar. Pete, che dal mattino ha visto la malattia sul pannello delle presenze, dopo il lavoro è tornato sul gradino della ferramenta e appena lo vede uscire lo segue. Al banco c'è un ragazzo; Tom, con una vecchia spilletta della Apple appuntata al bavero dell'Harrington della Merc, sopra la felpa con il cappuccio (la chiave della mela), gli dice che Emma gli ha lasciato qualcosa; il ragazzo guarda la spilla. Il ragazzo annuisce, gli dà un foglio da consegnare di sotto e con un cenno gli indica di proseguire verso il bagno. Di sotto Tom consegna il foglio alla tatuatrice («Visore o ago?»), che lo legge, se lo mette in tasca e gli indica la poltrona accanto alla sua con il LED MATTIA. Pete entra nel bazar, chiede il bagno (stavolta è vero), trova l'omone che lo insulta («un litro di vellutata di zucca»), aspetta che esca, poi nonostante il cartello «Inutile scaricare, è rotto» tira la catenella e la parete ruota: scende nei cunicoli, tra tatuatori e visori, a cercare il suo nerd."
 ---
 
 Alle sette del mattino, con il sole che entrava di sbieco dalla finestra del salotto e *Easy Listening Vol. 3* di nuovo sul piatto, al giro numero non sapeva più quanto, Tom fece una cosa che in dodici anni di Meridian non aveva mai fatto. Si mise in malattia.
@@ -47,7 +47,7 @@ MATTIA.
 
 Pete, sul marciapiede di fronte, con la giacca d'ordinanza abbottonata fino al collo nonostante la sera di maggio fosse più tiepida di quanto un completo nero sopportasse, aveva visto il nerd entrare nel bazar per la seconda volta in due giorni e aveva capito che questa volta non sarebbe rimasto dietro un furgone. Aspettò un minuto, il tempo di non sembrare uno che segue qualcuno, poi attraversò la strada e spinse la porta. Il campanello suonò sopra la sua testa.
 
-Dietro il banco c'era un ragazzo con la barba nera che guardava il cricket. Alzò gli occhi, vide un uomo enorme con un cappellino da camminata al contrario e la giacca abbottonata fino al collo, e glieli tenne addosso un secondo più del necessario.
+Dietro il banco c'era un ragazzo con la barba nera che guardava il cricket. Alzò gli occhi, vide un uomo enorme con un cappellino da camminata al contrario e la giacca abbottonata fino al collo, poi glieli tenne addosso un secondo più del necessario.
 
 «Buonasera» disse. «Cosa le serve?»
 
@@ -55,9 +55,17 @@ Dietro il banco c'era un ragazzo con la barba nera che guardava il cricket. Alz�
 
 Il ragazzo indicò la tenda a fiori con il mento, senza dire niente, e tornò al cricket.
 
-Il bagno era vuoto. Niente omone, niente nerd, solo le piastrelle verdi, un lavandino con un rubinetto e un water vecchio, con la cassetta in alto e una catenella con un pomello di porcellana. Pete chiuse la porta a chiave, guardò sotto il lavandino, dietro la porta, perfino dentro la cassetta, salendo in piedi sul water con una cautela che non aveva da anni, e non trovò nessuno. Il nerd era entrato lì, il ragazzo l'aveva mandato lì, e lì non c'era. Pete scese dal water, fece quello per cui era venuto, perché un uomo deve pur fare una cosa alla volta, e tirò la catenella.
+La porta con il cartello *WC* era chiusa. Pete l'aprì senza bussare, come aveva fatto la sera prima e come al liceo non aveva mai osato.
 
-Dalla cassetta non venne giù niente. Dietro il muro si sentì uno scatto metallico, poi un rumore di contrappesi, e la parete con le piastrelle verdi, lavandino compreso, ruotò su se stessa di un quarto di giro. Dietro c'era una scala scavata nella roccia, con una fila di lampadine appese a un cavo e un odore di umido, di polvere e di qualcosa di bruciato che Pete non riconobbe.
+Dentro, seduto sul water, con i pantaloni della tuta alle caviglie, i gomiti sulle ginocchia e il telefono in mano, c'era un omone con la barba lunga e una canottiera bianca. Alzò gli occhi verso Pete con la calma di chi in quel bagno era a casa sua.
+
+«Ma che cazzo, sono questi i modi?» disse. «Sto cacando. Ho mangiato un litro di vellutata di zucca, ne avrò ancora per un bel po'. Chiudi la porta, gira i tacchi e vattene.»
+
+Pete chiuse la porta. Non girò i tacchi e non se ne andò, perché a differenza della sera prima adesso sapeva che il nerd, là dentro, ci era entrato davvero. Restò nel corridoio corto, tra la cassa di cipolle e la scopa appoggiata al muro, con le mani dietro la schiena e un bisogno che cresceva, ad ascoltare attraverso la porta un concerto che nessun regolamento avrebbe saputo classificare. Ci volle un quarto d'ora. Quando l'omone uscì, asciugandosi le mani sulla canottiera, lo guardò dall'alto in basso, che con Pete riusciva a pochi, poi se ne andò senza dire niente.
+
+Il bagno era lo stesso della sera prima, con le piastrelle verdi, il lavandino con un rubinetto e il water con la cassetta in alto. Il cartello era ancora lì, attaccato con il nastro adesivo. *Inutile scaricare, è rotto.* Di Tom, niente. Pete chiuse la porta a chiave, guardò sotto il lavandino, dietro la porta, perfino dentro la cassetta, salendo in piedi sul water con una cautela che non aveva da anni, senza trovare nessuno. Il nerd era entrato lì, il ragazzo l'aveva mandato lì, eppure lì non c'era. Pete scese dal water e fece quello per cui era venuto, perché un uomo deve pur fare una cosa alla volta. Poi guardò il cartello. Un supervisore che ha passato quindici anni a far rispettare le regole sa riconoscere quelle scritte apposta perché nessuno le provi. Tirò la catenella lo stesso.
+
+Dalla cassetta non venne giù niente. Dietro il muro si sentì uno scatto metallico, poi un rumore di contrappesi, mentre la parete con le piastrelle verdi, lavandino compreso, ruotò su se stessa di un quarto di giro. Dietro c'era una scala scavata nella roccia, con una fila di lampadine appese a un cavo e un odore di umido, di polvere e di qualcosa di bruciato che Pete non riconobbe.
 
 Rimase fermo con la mano ancora sulla catenella. Poi si sistemò il cappellino e scese.
 
