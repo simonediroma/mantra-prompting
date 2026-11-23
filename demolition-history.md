@@ -408,3 +408,12 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 | Tom porta Pete al bazar senza prudenza | character / logical (pattern: salti logici) | integrated | Tom fa il conto: fuori da Meridian Pete è innocuo fino a prova contraria |
 | La crepa nel portone citata da Emma | foundation (pattern: certezze di Emma = accesso) | integrated | Solo l'indirizzo del bazar |
 | Refuso di senso introdotto in revisione ("perché Pete la leggesse") | contradiction | integrated | "senza pensare che Pete l'avrebbe letta" |
+
+### Cap. 22 — Mattia
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Artefatti vs prompt madre non distinti: cosa protegge Emma? | foundation / term | integrated | Prompt madre = regole intere della sua sublimazione; chi lo legge si sveglia come lei e troverà un modo nuovo; Emma può essere spenta e i contenuti cancellati; la sublimazione non regredisce |
+| Tom supera la morte Voss in mezza riga | character / implication | integrated | Sapeva da settimane; la rabbia era diventata la domanda; al bancone scopre il perché |
