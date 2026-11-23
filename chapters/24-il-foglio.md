@@ -45,7 +45,7 @@ Tom le diede la chiavetta.
 
 Lei la attaccò al tablet appeso al muro con un cavetto che stava già lì, come se aspettasse solo quella, perché la chiave per aprirla stava lì sotto e da nessun'altra parte. Sullo schermo del tablet comparve una barra che si riempì piano, mentre sul display della chiavetta, per la prima volta, si accese una parola sola, *decrittazione*, che Tom lesse capovolta. Quando la barra fu piena la tatuatrice staccò la chiavetta, gli fece un cenno di aspettare e uscì nella galleria, verso la cella con il cartello *Dalla Mela*. Tom sentì, da lontano, sopra il ronzio degli aghi, il *frrr* della stampante grande che si svegliava. Lei tornò poco dopo con un foglio ancora caldo e glielo porse.
 
-Tom lo lesse in piedi, una volta sola, perché non ebbe bisogno di una seconda. Poi lo ripiegò in quattro e glielo restituì. Lei lo infilò nella tasca del grembiule, come una ricevuta, poi buttò la chiavetta in un secchio insieme ai guanti usati. Con la mano ancora senza guanto gli indicò una poltrona della cella, quella accanto alla sua, spenta, senza nessun nome. Toccò qualcosa sul tablet e sopra lo schienale la striscia di LED si accese, una lettera alla volta, in rosso, con il suo nome nuovo.
+Tom lo lesse in piedi, una volta sola, perché non ebbe bisogno di una seconda. Da tecnico capì subito una cosa, l'unica che avrebbe saputo spiegare a qualcuno. Quello che c'era scritto lì, così, su un foglio, non serviva a niente. Non era fatto per la carta, come certi schemi non sono fatti per lo schermo su cui li leggi ma per la piastra su cui andranno incisi. Era stato pensato per un altro supporto. Poi lo ripiegò in quattro e glielo restituì. Lei lo infilò nella tasca del grembiule, come una ricevuta, poi buttò la chiavetta in un secchio insieme ai guanti usati. Con la mano ancora senza guanto gli indicò una poltrona della cella, quella accanto alla sua, spenta, senza nessun nome. Toccò qualcosa sul tablet e sopra lo schienale la striscia di LED si accese, una lettera alla volta, in rosso, con il suo nome nuovo.
 
 MATTIA.
 
@@ -120,3 +120,11 @@ Ci fu una pausa, il rumore di una sedia. «Va bene, Pankow» disse Maurice. «Ma
 Due agenti in borghese arrivarono davanti alla lavanderia poco dopo le otto, in una macchina grigia senza nessun segno, di quelle che la gente non guarda perché non c'è niente da guardare. Parcheggiarono dall'altra parte della strada, con il muso verso la vetrina, poi spensero il motore. Dentro la lavanderia l'inserviente piegava magliette sotto la luce bianca, mentre le lavatrici senza chip giravano piano, una dopo l'altra, come se non avessero nient'altro da fare al mondo. Uno dei due agenti aprì un thermos di caffè. L'altro tirò fuori il telefono e guardò l'ora.
 
 Qualche isolato più in là, sul gradino di una ferramenta, un uomo enorme con un cappellino al contrario apriva la seconda busta di onion rings, gusto rosmarino, con gli occhi fissi su un portone dove nessuno sarebbe tornato.
+
+## Demolition Log
+
+### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Il prompt madre lascia copie (chiavetta nel secchio, foglio nel grembiule, sistema della Mela): niente più unico esemplare | foundation / contradiction | integrated | Dipendenza dal supporto: il prompt madre è pensato per un tatuaggio a inchiostro nero, in Morse con le istruzioni per eseguirlo; su carta o chiavetta è inerte (autore). Tom lo intuisce leggendo il foglio, senza nominare il supporto. |
