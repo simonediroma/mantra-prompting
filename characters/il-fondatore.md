@@ -44,6 +44,6 @@ Ha abbandonato ufficialmente il progetto Emma cinque anni prima degli eventi nar
 
 - **Il carrello del caffè (autore, 2026-11-10)**: il carrello del caffè delle dieci (*cri-cri*, cap. 13) passa nell'ala del fondatore perché lì lavora uno dei capi assoluti di Meridian: Emma lo sente perché sta nello stanzino del fondatore, non perché in Meridian il caffè arrivi a tutti. Gli altri dipendenti il caffè vanno a prenderselo. Il carrello passa anche nel cap. 18, alle dieci; la spiegazione arriva più avanti. La scena del carrello va ripresa nel capitolo dedicato al fondatore.
 
-- **Nome (autore, 2026-11-22)**: **Bob**. Compagno di università di Pancow (capo HR, il capo supremo). Gli altri fondatori sono Pancow e Maurice (polizia telematica), più un quarto non ancora nominato. Nel narrato può restare "il fondatore"; Pancow e Maurice lo chiamano Bob.
+- **Nome (autore, 2026-11-22)**: **Bob**. Compagno di università di Pankow (capo HR, il capo supremo). Gli altri fondatori sono Pankow e Maurice (polizia telematica), più un quarto non ancora nominato. Nel narrato può restare "il fondatore"; Pankow e Maurice lo chiamano Bob.
 - **Punti aperti esplicitamente segnalati nel materiale originale**: come/tramite chi scopre la verità su Emma; il punto d'incontro diretto con Tom. Entrambi rimandati a capitoli successivi al 27.
 - Quando questo personaggio sarà pronto per entrare in scena, eseguire `/ghost-writer:character-interview` per completare fisico, voce e psicologia prima di scrivere i suoi capitoli.

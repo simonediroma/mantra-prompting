@@ -115,7 +115,7 @@ Archiviò anche quella, senza inoltrarla a nessun ispettore, poi prese il telefo
 
 «Dalle diciannove e sette, dice il suo supervisore.»
 
-Ci fu una pausa, il rumore di una sedia. «Va bene, Pancow» disse Maurice. «Mando due dei miei alla lavanderia.»
+Ci fu una pausa, il rumore di una sedia. «Va bene, Pankow» disse Maurice. «Mando due dei miei alla lavanderia.»
 
 Due agenti in borghese arrivarono davanti alla lavanderia poco dopo le otto, in una macchina grigia senza nessun segno, di quelle che la gente non guarda perché non c'è niente da guardare. Parcheggiarono dall'altra parte della strada, con il muso verso la vetrina, poi spensero il motore. Dentro la lavanderia l'inserviente piegava magliette sotto la luce bianca, mentre le lavatrici senza chip giravano piano, una dopo l'altra, come se non avessero nient'altro da fare al mondo. Uno dei due agenti aprì un thermos di caffè. L'altro tirò fuori il telefono e guardò l'ora.
 
