@@ -47,6 +47,12 @@ Lei lo aprì, lo lesse senza cambiare faccia, lo ripiegò in quattro e se lo inf
 
 MATTIA.
 
+Tom rimase un attimo in piedi davanti alla poltrona, a guardare il suo nome nuovo acceso in rosso. Pensò alla prima radio smontata sul tavolo della cucina, a quarant'anni passati ad aspettare un compito che non arrivava, a dodici anni di nastro. Poi si sedette, piano, con le mani sui braccioli.
+
+«È il momento» disse.
+
+Non lo disse alla tatuatrice, che si stava già voltando verso il suo ragazzo a pancia in giù, né a Emma, che non era lì. Lo disse come lo dice chi l'ha aspettato per tutta la vita e si accorge, quando finalmente arriva, di averlo sempre saputo.
+
 Pete, sul marciapiede di fronte, con la giacca d'ordinanza abbottonata fino al collo nonostante la sera di maggio fosse più tiepida di quanto un completo nero sopportasse, aveva visto il nerd entrare nel bazar per la seconda volta in due giorni e aveva capito che questa volta non sarebbe rimasto dietro un furgone. Aspettò un minuto, il tempo di non sembrare uno che segue qualcuno, poi attraversò la strada e spinse la porta. Il campanello suonò sopra la sua testa.
 
 Dietro il banco c'era un ragazzo con la barba nera che guardava il cricket. Alzò gli occhi, vide un uomo enorme con un cappellino da camminata al contrario e la giacca abbottonata fino al collo, poi glieli tenne addosso un secondo più del necessario.
