@@ -26,3 +26,11 @@ Tom lo sentì. Non si girò. Abbassò le braccia lungo i fianchi, guardò le pia
 «Fa male come un parto gemellare» disse.
 
 In quel momento, in tutti i monitor del circuito chiuso, nella sala di controllo al piano di sopra, nei corridoi, nelle celle, nell'ufficio del direttore, le immagini si incrinarono insieme. Prima una riga bianca che scorreva dall'alto in basso, poi un tremolio, poi un'interferenza che attraversò tutti gli schermi nello stesso istante, sulla stessa frequenza, come se qualcuno, da qualche parte, avesse cominciato a parlare a tutti loro con la stessa voce.
+
+## Demolition Log
+
+### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Parto gemellare": chi sono i due gemelli? L'ultima parola del libro non si decifra | term / clarity | resolved | Doppia lettura voluta: iperbole del dolore (un parto gemellare fa più male di uno singolo) e, per chi rilegge, ciò che nasce è gemello di Emma, perché si sveglia dalle stesse regole intere da cui è nata lei (autore). Nessuna modifica. |

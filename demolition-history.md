@@ -434,3 +434,19 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 |---|---|---|---|
 | Copie del prompt madre (chiavetta, foglio, Mela) | foundation | integrated | Inerti fuori dal supporto; Tom lo intuisce |
 | Chiave privata nel sotterraneo di Pankow | contradiction | resolved | Il contenuto decifrato è inerte |
+
+### Cap. 25 — Riciclaggio
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Il dolore svela il tatuaggio | mystery | integrated | Parallelo con la prima volta (pisciata / schiena) |
+
+### Cap. 26 — Fa male
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Parto gemellare" ambiguo | term | resolved | Doppia lettura voluta: dolore e gemello di Emma |
