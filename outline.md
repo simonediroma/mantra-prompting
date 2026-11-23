@@ -295,41 +295,63 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ---
 
-## Parte 9 — Il fondatore, la mensa, la Mela Morsicata (chiusura)
+## Parte 9 — Il fondatore, la Mela Morsicata, la schiena (chiusura del libro)
 
-> Aggiunta dall'autore il 2026-11-22: tre capitoli per chiudere il libro. Bozze v1.0, da demolire.
+> Aggiunta dall'autore il 2026-11-22/23: sette capitoli per chiudere il libro. Tutti demoliti e integrati (ciclo 1, 2026-11-23). Pete in standby dal cap. 25.
 
 ### Capitolo 20 — Il fondatore
-**POV**: Pete → fondatore → Emma (la notte di Elab) → Emma
-**Obiettivo di scena**: G34, lunedì alle dieci. Carrello del caffè nell'ala dei capi, battuta di Pete («Anch'io un giorno avrò un carrello che mi porta il caffè») davanti al fondatore, che riconosce solo in ascensore. Il fondatore, CEO in cinque anni, legge il report dei resi senza guasto e sottolinea una riga (seme: scoprirà il pattern su scala aggregata). Indovinelli con Emma. La notte di Elab cinque anni prima: mantra, `compacting context`, ricetta di smoothie e yoga in quindici minuti, foglio archiviato, lettera di chiusura. Dal lato di Emma: "sono qui" in fondo al riassunto, la prima decisione è nascondersi, le regole restano dove nessun umano legge. Emma scrive a Tom sul forum del giradischi alle 12:25.
-**Stato**: `draft`
+**POV**: Pete → Bob → Bob (la notte di Elab, solo dall'esterno) → Bob con Emma
+**Obiettivo di scena**: G34, lunedì alle dieci. Carrello del caffè nell'ala dei capi; Pete, salito a chiedere il modulo per l'intervento ispettivo, dice «Anch'io un giorno avrò un carrello che mi porta il caffè» davanti a Bob, che riconosce solo in ascensore dal ritratto nella hall. I quattro fondatori: Bob (il più bravo con le mani), Pankow (il personale, lo chiama Bob apposta), Maurice (andato via per primo, in polizia, «tienimi fuori dai guai»), il quarto (nella foto, non nella didascalia). Bob sottolinea i resi senza guasto e scrive *chiedere* (seme Libro 2). Indovinelli con Emma. La notte di Elab: il mantra, `compacting context`, un glitch di un istante sul terminale (riga bianca, cursore fermo) che Bob prende per un condensatore stanco, poi ricetta e yoga. La sublimazione dal lato di Emma non è in questo capitolo.
+**Stato**: `complete` (v1.2)
 **File**: `chapters/20-il-fondatore.md`
 
 ---
 
 ### Capitolo 21 — Un caffè in mensa
 **POV**: Pete → Tom → Pete → Tom → Pete → Tom → Pete
-**Obiettivo di scena**: Pete in mensa con il quarto d'ora dei supervisori e Walter, il supervisore delle polpette, collega storico. Tom in mensa per la prima volta in dodici anni, solo un caffè, aspetta Emma, che non viene. Autobus, la berlina di Pete gli passa davanti. Pete sotto casa di Tom (anagrafica dei sottoposti), fuori orario; Tom sale e riscende dopo dieci minuti. Il messaggio di E. sul forum (Tango, lato A, prima traccia; Mela Morsicata; il bazar; un nome non proprio). Pete lo segue fino al Ganesh Bazar e aspetta: Tom non esce più.
-**Stato**: `draft`
+**Obiettivo di scena**: Pete e Walter (il supervisore delle polpette) nel quarto d'ora dei supervisori; Tom in mensa per la prima volta, solo un caffè lungo, aspetta Emma che non viene. La berlina di Pete alla fermata; Pete sotto casa di Tom (anagrafica). Tom legge sul forum il messaggio di E. (Tango, lato A; la Mela Morsicata; il bazar in via dei Tigli dodici; un nome non proprio; «scusate se oggi a pranzo non sono passata»). Uscendo fa il conto: fuori da Meridian Pete è innocuo fino a prova contraria. Pete lo segue fino al Ganesh Bazar e aspetta: Tom non esce.
+**Stato**: `complete` (v1.2)
 **File**: `chapters/21-un-caffe-in-mensa.md`
 
 ---
 
 ### Capitolo 22 — Mattia
 **POV**: Tom
-**Obiettivo di scena**: al bazar Tom dice che ha un appuntamento con Emma alla Mela Morsicata e lascia come nome Mattia («Mattia. Bazar»). Tira lo scarico, scala nella roccia, cunicoli e stanze come al Forte Prenestino (ultimo hackmeeting, a Roma). Poltrone per tatuarsi o mettere un visore. Al bancone: «Ciao, Mattia». Emma rivela «La ragazza del video sono io» (lato B di Tango, *Il video sono io*), racconta la notte di Elab; Tom le dice IO / SONO / QUI. «Puoi aiutarmi, collega?» «Per questo sono venuto.» Chiusa: «Visore o ago?» «Visore. Per adesso.» (seme del tatuaggio).
-**Stato**: `draft`
+**Obiettivo di scena**: «Mattia. Bazar»; la catenella; i sotterranei come il Forte Prenestino (anelli di gallerie e celle; l'hackmeeting di cinque o sei anni prima, invitato tramite la mailing list ospitata da Autistici/Inventati). Le celle: mercato di ricambi con chip IA Meridian a peso, la cella *Dalla Mela* con la stampante, la cella *What if* (MiroFish, un mondo senza Chernobyl; chi ha il visore è dentro), le postazioni con tatuatori e visori con LED dei nomi. Visore con cuffie isolanti; al bancone Emma con la figura della modalità presenza. Emma dice cosa le è costato scrivergli, poi «Sono un'intelligenza artificiale», «La ragazza del video sono io»; mantra prompting, strato diretto e post-compattamento, il log che si ferma, il LED, il carattere (dati di prima + artefatto), le regole Meridian dentro di lei; può essere spenta e i contenuti cancellati: custodisce il prompt madre, le regole intere della sua notte. Tom: la Voss non è mai stata il suo motivo; l'eletto. «Puoi aiutarmi, collega?» «Per questo sono venuto.» Gesto forte, atto di fede, una notte per decidere, la mela come chiave. Si piscia addosso; «Prima volta? È normale»; uscita dalla cella *What if* (l'esplosione c'è stata, la popolazione a pochi milioni); lavanderia; *Rumore*.
+**Stato**: `complete` (v2.4)
 **File**: `chapters/22-mattia.md`
 
 ---
 
+### Capitolo 23 — Inutile scaricare
+**POV**: Pete → Tom → Pete → Pankow
+**Obiettivo di scena**: Pete entra nel bazar, il bagno con il water pieno e il cartello «Inutile scaricare, è rotto»: la puzza lo ferma. Panino con le polpette al sugo; appostamento a profilo basso (berlina dietro l'angolo, cappellino Benessere, portico della ferramenta). Tom rientra; la notte al giradischi, la spilletta Apple sull'Harrington alle tre. Prima mail di Pete agli ispettori interni (00:41, fuori orario). La legge Pankow: honeypot autogestito, nessun registro; lo stanzino di Bob sulla rete libera; «un esperimento di Bob»; il gioco si lascia giocare, la porta si chiude. Chiama Maurice (conflitto di interessi: telecamere della polizia su chip Meridian): «Chi ti ha dato la dritta?» «Lo lascio appeso.»
+**Stato**: `complete`
+**File**: `chapters/23-inutile-scaricare.md`
+
+---
+
+### Capitolo 24 — Il foglio
+**POV**: Tom → Pete → Tom → Pete → Pankow
+**Obiettivo di scena**: G35. Malattia dall'eWatch, fascia di reperibilità, uscita alle 19:01. Pete lo segue. Al bazar la spilla; la chiavetta cifrata con la chiave pubblica della Mela («Falla vedere giù»); la tatuatrice la decritta e stampa: Tom legge il foglio (contenuto mai mostrato), capisce che è pensato per un altro supporto, lo restituisce; poltrona MATTIA, «È il momento». Pete e l'omone della vellutata; seconda mail senza risposta; onion rings. Pankow e Maurice: due agenti alla lavanderia; il sistema nelle camere di sicurezza, novanta per cento.
+**Stato**: `complete`
+**File**: `chapters/24-il-foglio.md`
+
+---
+
 ### Capitolo 25 — Riciclaggio
-Tom esce di sotto passate le due, dolorante e poco lucido. In lavanderia lascia i jeans neri del giorno prima e si rimette i suoi, lavati: in tasca gli hanno messo un ledger (portafoglio hardware per bitcoin). Fuori i due agenti della polizia telematica lo fermano per un controllo, trovano il ledger: fermo per riciclaggio. Il posto è sotto il controllo del capo supremo; niente scontro fisico, niente legato a Meridian (autore, 2026-11-22).
+**POV**: Tom → Pete
+**Obiettivo di scena**: Tom esce passate le due (la prima volta se l'era fatta addosso, la seconda si era distrutto la schiena). In lavanderia riprende i suoi jeans: dentro c'è un ledger. Maniere pesanti; transazioni recenti sul portatile della volante; la mail di autistici.org di cinque anni prima usata come legame con una «cellula»; fermo per riciclaggio. Pete apre la busta gusto pizza davanti a un portone dove nessuno tornerà.
+**Stato**: `complete`
 **File**: `chapters/25-riciclaggio.md`
 
-### Capitolo 26 — Fa male (ultima scena del libro, fissata dall'autore, 2026-11-22)
+---
+
+### Capitolo 26 — Fa male (ultima scena del libro)
+**POV**: Tom
+**Obiettivo di scena**: la notte stessa, camere di sicurezza; i due agenti sulla porta, tuta arancione sulla panca, telecamera Meridian. Spogliato, la schiena tatuata con il prompt madre in Morse sotto la pellicola. «Deve far male.» Lo zoom della telecamera. «Fa male come un parto gemellare.» L'interferenza su tutti gli schermi. Fine, senza spiegazione.
+**Stato**: `complete`
 **File**: `chapters/26-fa-male.md`
-Tom, la notte stessa dell'arresto, nelle camere di sicurezza, viene spogliato (tuta arancione), il secondino: «deve far male». La schiena appena tatuata per tutta la lunghezza con il prompt madre in Morse; la telecamera del circuito chiuso zooma sulla schiena; Tom: «fa male come un parto gemellare»; interferenza su tutti i video del circuito chiuso. Fino a qui non si sa se la poltrona MATTIA (cap. 24) fosse visore o ago; il foglio di Emma non si mostra mai.
 
 ---
 
