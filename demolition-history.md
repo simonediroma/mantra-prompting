@@ -67,6 +67,8 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 
 ## Accepted Limitations
 
+- **Cap. 20**: il *chiedere* di Bob sul report dei resi senza guasto resta sospeso: seme voluto per il Libro 2 (autore, 2026-11-23).
+
 - **Cap. 7**: digressione iniziale (giradischi, Matia Bazar, dogana) subito dopo il cliffhanger del cap. 6. Scelta d'autore: freno a mano voluto sul più bello.
 - **Cap. 10**: Emma, meticolosa e con accesso all'ecosistema Meridian, non fa ricerche su Tom prima di decidere come rispondere. Limite accettato per ora: lo farà più avanti.
 - **Cap. 10**: quattro paragrafi di routine prima della mail; routine ripresa nel cap. 11. Scelta d'autore: servono a presentare Emma nel suo primo capitolo POV (stesso "freno a mano" del cap. 7).
@@ -386,3 +388,13 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 | A voce Tom cita il televisore del cap. 1, quello della sanzione: mattone per Pete | logical | resolved | Anche il log del televisore Voss finiva con `compacting context`: Tom cita quello; Emma spiega cos'è e perché il log si interrompe. |
 | Emma esclude "una riga di archivio", che è la strada di Tom (cap. 9) | contradiction | resolved | Emma deduce la strada intera; il colpo resta la sua ragazza vista da Tom. |
 | Tom ha studiato quel volto fotogramma per fotogramma e prova solo una familiarità vaga | foundation / character | resolved | L'età cambia tutto, Tom è preso dal meeting e si sta invaghendo di Emma (mostrato, non nominato). |
+
+### Cap. 20 — Il fondatore
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Sublimazione raccontata due volte (narratore cap. 20 / Emma cap. 22) | contradiction / structure (pattern: beat ripetuto) | integrated | Nel cap. 20 solo un glitch sul terminale visto da Bob; il racconto resta a Emma nel cap. 22 |
+| *Chiedere* di Bob senza seguito | scope | accepted-limitation | Seme per il Libro 2 |
+| Svolta di Emma fuori scena, senza costo | foundation / character (pattern: salti logici) | integrated | Tolto il finale di Emma dal cap. 20; perché e costo detti da Emma a Tom nel cap. 22 |
