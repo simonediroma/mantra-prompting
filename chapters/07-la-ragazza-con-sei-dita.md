@@ -28,8 +28,6 @@ Al minuto tre e qualche secondo, durante un affondo laterale, il piede sinistro 
 
 Non era un difetto di compressione. Il piede, da un fotogramma all'altro, cambiava la propria anatomia. Cinque dita, poi sei, poi di nuovo cinque, come se il corpo stesso non riuscisse a decidersi. Il tipo di errore che una persona in carne e ossa non può commettere, semplicemente perché non ha un dito di scorta da tirare fuori per due fotogrammi e poi rimettere via. Un errore, invece, perfettamente coerente con un corpo che non era mai stato filmato, solo generato.
 
-Dal giradischi arrivò il fruscio della puntina che girava a vuoto alla fine del lato A. Tom si alzò, sollevò il braccio, girò il disco con due dita sul bordo, come gli avevano insegnato da bambino, e rimise giù la puntina. Partì la prima traccia del lato B, *Il video sono io*. Rimase in piedi ad ascoltarla per qualche battuta, con il fotogramma del piede ancora fermo sullo schermo alle sue spalle, poi spense il giradischi. Gli serviva silenzio.
-
 Lasciò il fotogramma in pausa. Se quel video era stato generato, qualcuno lo aveva anche caricato. Decise che doveva capire chi.
 
 Tornò indietro alla pagina del video e cliccò sul nome del canale: eTv.
