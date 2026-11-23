@@ -1,6 +1,6 @@
 ---
 title: Un caffè in mensa
-version: 1.0
+version: 1.1
 revised: 2026-11-22
 claim: "Il caffè in mensa che Tom ha nominato per la trascrizione diventa l'appuntamento di Pete più che il suo. Emma non viene, perché da una stanza non si esce, e risponde dove Pete non legge. Pete, che non ha mai avuto bisogno di uscire dalle regole per inseguire qualcuno, esce dall'orario per la prima volta e perde Tom dentro un negozio di spezie."
 status: draft
@@ -71,6 +71,8 @@ Ce n'era uno di un iscritto nuovo, con un nome di una lettera sola. Lo lesse in 
 
 Pete lo vide uscire dal portone dieci minuti dopo essere entrato. Senza zaino, con un maglione scuro e le mani in tasca, a passo veloce. Contò fino a dieci, come gli avevano insegnato in un corso di formazione sulla gestione della rabbia che non c'entrava niente, poi scese dalla macchina e lo seguì a piedi, a una distanza che gli sembrò professionale.
 
+Sul portone si era fermato un attimo a guardare la strada, perché la berlina nera della fermata gli era rimasta in testa come un rumore che non si riesce a localizzare. Non vide niente, ma non bastava a escluderlo. Mentre camminava fece il conto, come lo avrebbe fatto per un guasto. Se Pete lo stava seguendo, lo seguiva fuori da Meridian, dove un supervisore non era niente. Non poteva fermarlo per strada, non poteva chiedergli dove andava, non poteva sanzionare un uomo che entra in un negozio alle sei di sera. Poteva solo scrivere agli ispettori, e agli ispettori avrebbe dovuto dimostrare un'infrazione, mentre la sola infrazione certa, a quell'ora, era quella di un supervisore che lavorava fuori orario per pedinare un sottoposto. Le regole di Meridian, che Tom conosceva meglio di chi le faceva rispettare, valevano anche per lui. Fuori dal recinto Pete era innocuo, fino a prova contraria, e una prova contraria Tom non aveva intenzione di dargliela. Non si voltò più.
+
 Tom camminava e intanto ripassava il messaggio, a memoria, come ripassava i numeri di serie degli apparecchi che lo avevano colpito. Non aveva bisogno di rileggerlo, perché l'aveva letto tre volte e la sua memoria, con le cose a cui teneva, non sbagliava una virgola.
 
 *Ciao a tutti. Ho un giradischi da tarare e un disco solo per farlo, Tango, lato A, prima traccia, quella che usano tutti. La sento bene solo dal vivo, in una stanza piccola, con chi ascolta a destra del banco. Qualcuno l'ha mai provata così? Io stasera la ascolto alla Mela Morsicata. C'è un bazar che resta aperto fino a tardi, a tre isolati da una strada con un portone di vetro crepato nell'angolo. Al banco basta dire che si ha un appuntamento alla Mela Morsicata e lasciare un nome. Non il proprio, lì nessuno usa il proprio. Scusate se oggi a pranzo non sono passata. E.*
@@ -88,3 +90,11 @@ Alle otto Tom non era ancora uscito.
 Pete attraversò la strada e guardò dentro dalla vetrina, tra un sacco di riso e una piramide di ceci. Dietro il banco c'era un uomo anziano con la barba bianca che guardava una partita di cricket su un televisore piccolo, uno di quelli vecchi, senza assistente integrato. Gli scaffali erano tre, il negozio era lungo quanto il suo open space era largo e in fondo c'era una tenda a fiori, ferma. Tom non c'era.
 
 Pete tornò dietro il furgone e restò lì. Per un supervisore, un dipendente che entra da una porta e non esce da nessuna parte non è un mistero, è un'infrazione che non ha ancora trovato la sua riga.
+
+## Demolition Log
+
+### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Tom, dopo mensa e berlina, porta Pete al bazar senza prudenza | character / logical (pattern: salti logici) | integrated (v1.1) | Tom considera di essere seguito e fa il conto: fuori da Meridian Pete non ha giurisdizione, per segnalarlo dovrebbe provare un'infrazione, mentre l'unica certa è la sua (fuori orario). Innocuo fino a prova contraria (autore). Ripreso nel cap. 24. |

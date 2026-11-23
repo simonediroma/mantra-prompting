@@ -23,7 +23,7 @@ Dall'altra parte della strada, sul gradino della ferramenta, Pete era lì da un'
 
 Quando il portone si aprì e il nerd uscì, con i jeans neri, il cappuccio della felpa che spuntava dal giubbotto e le mani in tasca, Pete contò fino a dieci, come gli avevano insegnato nel corso sulla gestione della rabbia che non c'entrava niente, poi si alzò dal gradino con il solito rumore di ossa e gli andò dietro, sul marciapiede opposto, curvo, a trenta metri, fermandosi ogni tanto davanti a una vetrina come uno che pensa agli affari suoi.
 
-Fece la strada a piedi, i tre isolati, con le mani in tasca e la musica in testa, senza guardare le macchine parcheggiate né le vetrine del marciapiede di fronte. Al Ganesh Bazar l'insegna aveva tutte e due le parole accese, perché non era ancora del tutto buio. Spinse la porta e il campanello suonò sopra la sua testa. Dietro il banco, al posto del vecchio con la barba bianca, c'era un ragazzo con la stessa barba, ancora nera, che guardava lo stesso cricket sullo stesso televisore piccolo, con l'antenna a coniglio.
+Fece la strada a piedi, i tre isolati, con le mani in tasca e la musica in testa, senza guardare le macchine parcheggiate né le vetrine del marciapiede di fronte, perché il conto l'aveva già fatto la sera prima e il risultato non era cambiato. Fuori da Meridian, Pete non era niente. Al Ganesh Bazar l'insegna aveva tutte e due le parole accese, perché non era ancora del tutto buio. Spinse la porta e il campanello suonò sopra la sua testa. Dietro il banco, al posto del vecchio con la barba bianca, c'era un ragazzo con la stessa barba, ancora nera, che guardava lo stesso cricket sullo stesso televisore piccolo, con l'antenna a coniglio.
 
 «Buonasera» disse Tom. «Emma mi ha lasciato qualcosa.»
 
