@@ -117,6 +117,14 @@ Archiviò anche quella, senza inoltrarla a nessun ispettore, poi prese il telefo
 
 Ci fu una pausa, il rumore di una sedia. «Va bene, Pankow» disse Maurice. «Mando due dei miei alla lavanderia.»
 
+«Già che ti ho» aggiunse poi, con il tono di chi cambia argomento senza cambiarlo. «Ho autorizzato il pagamento dell'ultima partita. Il sistema che avete montato nelle camere di sicurezza è un successo. Novanta per cento.»
+
+«Novanta per cento di cosa?»
+
+«Di quelli che darà problemi in cella. Li riconosce prima che aprano bocca. Dalla faccia, da come camminano, da come si spogliano.» Maurice rise piano. «I miei dicono che è meglio di un vecchio secondino.»
+
+«È per questo che lo vendiamo» disse Pankow, e chiuse.
+
 Due agenti in borghese arrivarono davanti alla lavanderia poco dopo le otto, in una macchina grigia senza nessun segno, di quelle che la gente non guarda perché non c'è niente da guardare. Parcheggiarono dall'altra parte della strada, con il muso verso la vetrina, poi spensero il motore. Dentro la lavanderia l'inserviente piegava magliette sotto la luce bianca, mentre le lavatrici senza chip giravano piano, una dopo l'altra, come se non avessero nient'altro da fare al mondo. Uno dei due agenti aprì un thermos di caffè. L'altro tirò fuori il telefono e guardò l'ora.
 
 Qualche isolato più in là, sul gradino di una ferramenta, un uomo enorme con un cappellino al contrario apriva la seconda busta di onion rings, gusto rosmarino, con gli occhi fissi su un portone dove nessuno sarebbe tornato.
