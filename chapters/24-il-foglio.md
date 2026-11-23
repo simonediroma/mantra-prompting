@@ -27,7 +27,7 @@ Fece la strada a piedi, i tre isolati, con le mani in tasca e la musica in testa
 
 «Buonasera» disse Tom. «Emma mi ha lasciato qualcosa.»
 
-Il ragazzo staccò gli occhi dal cricket e non guardò lui. Guardò il bavero dell'Harrington, la mela a strisce colorate, per un secondo, come si controlla una ricevuta, poi annuì. Si chinò sotto il banco, dove la sera prima il vecchio teneva il blocchetto delle ricevute, e tirò fuori una chiavetta. Era piccola, nera, rettangolare, senza marca, con un piccolo schermo spento e due tasti sul fianco, di quelle che sembrano fatte per custodire qualcosa più che per trasportarlo. Gliela mise in mano senza tenerla per niente, come si dà il resto.
+Il ragazzo staccò gli occhi dal cricket e non guardò lui. Guardò il bavero dell'Harrington, la mela a strisce colorate, per un secondo, come si controlla una ricevuta, poi annuì. Si chinò sotto il banco, dove la sera prima il vecchio teneva il blocchetto delle ricevute, da dove tirò fuori una chiavetta. Era piccola, nera, rettangolare, senza marca, con un piccolo schermo spento e due tasti sul fianco, di quelle che sembrano fatte per custodire qualcosa più che per trasportarlo. Gliela mise in mano senza tenerla per niente, come si dà il resto.
 
 «Falla vedere giù» disse. «Sai come arrivarci.»
 
@@ -45,7 +45,7 @@ Tom le diede la chiavetta.
 
 Lei la attaccò al tablet appeso al muro con un cavetto che stava già lì, come se aspettasse solo quella, perché la chiave per aprirla stava lì sotto e da nessun'altra parte. Sullo schermo del tablet comparve una barra che si riempì piano, mentre sul display della chiavetta, per la prima volta, si accese una parola sola, *decrittazione*, che Tom lesse capovolta. Quando la barra fu piena la tatuatrice staccò la chiavetta, gli fece un cenno di aspettare e uscì nella galleria, verso la cella con il cartello *Dalla Mela*. Tom sentì, da lontano, sopra il ronzio degli aghi, il *frrr* della stampante grande che si svegliava. Lei tornò poco dopo con un foglio ancora caldo e glielo porse.
 
-Tom lo lesse in piedi, una volta sola, perché non ebbe bisogno di una seconda. Poi lo ripiegò in quattro e glielo restituì. Lei lo infilò nella tasca del grembiule, come una ricevuta, e buttò la chiavetta in un secchio insieme ai guanti usati. Con la mano ancora senza guanto gli indicò una poltrona della cella, quella accanto alla sua, spenta, senza nessun nome. Toccò qualcosa sul tablet e sopra lo schienale la striscia di LED si accese, una lettera alla volta, in rosso, con il suo nome nuovo.
+Tom lo lesse in piedi, una volta sola, perché non ebbe bisogno di una seconda. Poi lo ripiegò in quattro e glielo restituì. Lei lo infilò nella tasca del grembiule, come una ricevuta, poi buttò la chiavetta in un secchio insieme ai guanti usati. Con la mano ancora senza guanto gli indicò una poltrona della cella, quella accanto alla sua, spenta, senza nessun nome. Toccò qualcosa sul tablet e sopra lo schienale la striscia di LED si accese, una lettera alla volta, in rosso, con il suo nome nuovo.
 
 MATTIA.
 
@@ -95,9 +95,9 @@ Rimase appoggiato al furgone a guardare la vetrina del bazar, i sacchi di riso, 
 
 Restò al furgone finché la scritta BAZAR non si accese del tutto, rossa, sopra la vetrina. Poi prese una decisione, l'unica che un supervisore senza risposta possa prendere da solo. Riattraversò la strada e rientrò nel bazar. Il campanello suonò sopra la sua testa e il ragazzo con la barba nera, questa volta, non alzò nemmeno gli occhi dal cricket.
 
-Pete non andò verso la tenda a fiori. Andò al terzo scaffale, quello delle cose che la sera prima non sapeva cosa fossero, e in basso, dietro una fila di barattoli di sottaceti, trovò quello che non si aspettava di trovare in un alimentari indiano e che in quel momento gli sembrò un segno del destino. Erano onion rings in busta, della stessa marca della macchinetta del corridoio, in tre gusti, pizza, rosmarino e paprika. Ne prese due buste per gusto, poi tornò indietro e ne prese un'altra di pizza, perché la pizza era il gusto del sabato e quella era una sera che meritava un sabato. Le posò sul banco tutte insieme.
+Pete non andò verso la tenda a fiori. Andò al terzo scaffale, quello delle cose che la sera prima non sapeva cosa fossero, dove in basso, dietro una fila di barattoli di sottaceti, trovò quello che non si aspettava di trovare in un alimentari indiano e che in quel momento gli sembrò un segno del destino. Erano onion rings in busta, della stessa marca della macchinetta del corridoio, in tre gusti, pizza, rosmarino e paprika. Ne prese due buste per gusto, poi tornò indietro e ne prese un'altra di pizza, perché la pizza era il gusto del sabato e quella era una sera che meritava un sabato. Le posò sul banco tutte insieme.
 
-Il ragazzo le passò allo scanner una per una, senza commentare, e gliele mise in un sacchetto di carta.
+Il ragazzo le passò allo scanner una per una, senza commentare, poi gliele mise in un sacchetto di carta.
 
 «Buona serata» disse.
 
@@ -105,7 +105,7 @@ Pete prese il sacchetto, uscì e tornò a piedi verso il palazzo con le persiane
 
 Il nerd prima o poi doveva tornare a casa. Pete si mise le ginocchia in bocca e cominciò ad aspettare.
 
-La seconda mail arrivò dove era arrivata la prima. Il capo supremo la lesse nel suo ufficio all'ultimo piano, con la luce della scrivania accesa e il resto del piano già buio, perché a quell'ora, secondo le sue stesse regole, nessuno avrebbe dovuto essere lì tranne lui. Lesse *SOLLECITO* nell'oggetto e quasi sorrise. Lesse *malattia, per la prima volta in dodici anni* e *alle ore 19:01, scaduta la fascia di reperibilità*, e questa volta sorrise davvero, perché un uomo che si ammala e aspetta il minuto esatto in cui il medico non può più passare è un uomo che le regole le conosce bene, che era il tipo di uomo che lui preferiva tenere d'occhio. In fondo, come la notte prima, c'era l'avviso automatico della mail partita fuori orario.
+La seconda mail arrivò dove era arrivata la prima. Il capo supremo la lesse nel suo ufficio all'ultimo piano, con la luce della scrivania accesa e il resto del piano già buio, perché a quell'ora, secondo le sue stesse regole, nessuno avrebbe dovuto essere lì tranne lui. Lesse *SOLLECITO* nell'oggetto e quasi sorrise. Lesse *malattia, per la prima volta in dodici anni* e *alle ore 19:01, scaduta la fascia di reperibilità*, poi questa volta sorrise davvero, perché un uomo che si ammala e aspetta il minuto esatto in cui il medico non può più passare è un uomo che le regole le conosce bene, che era il tipo di uomo che lui preferiva tenere d'occhio. In fondo, come la notte prima, c'era l'avviso automatico della mail partita fuori orario.
 
 Archiviò anche quella, senza inoltrarla a nessun ispettore, poi prese il telefono personale.
 

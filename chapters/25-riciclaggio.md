@@ -47,11 +47,11 @@ Tom aprì la bocca per spiegare la lavanderia, lo scambio dei vestiti, il cartel
 
 «Lo vedremo» disse il secondo poliziotto.
 
-Aprì la portiera posteriore della macchina grigia, dove sul sedile c'era un portatile rugged con il logo della polizia telematica sul coperchio, collegato all'accendisigari con un cavo arrotolato male. Ci attaccò il ledger con un cavetto che sembrava fatto apposta, premette i due tasti sul fianco in una sequenza che Tom, da tecnico, trovò sospettosamente rapida per uno che lo vedeva per la prima volta, e girò lo schermo verso il collega. Il piccolo display del ledger si accese. Sul portatile comparve una colonna di righe.
+Aprì la portiera posteriore della macchina grigia, dove sul sedile c'era un portatile rugged con il logo della polizia telematica sul coperchio, collegato all'accendisigari con un cavo arrotolato male. Ci attaccò il ledger con un cavetto che sembrava fatto apposta, premette i due tasti sul fianco in una sequenza che Tom, da tecnico, trovò sospettosamente rapida per uno che lo vedeva per la prima volta, poi girò lo schermo verso il collega. Il piccolo display del ledger si accese. Sul portatile comparve una colonna di righe.
 
 «Ultima transazione alle ventitré e quaranta» disse il secondo, leggendo. «Un'altra all'una e dieci. Un'altra all'una e cinquantadue.» Fece scorrere il dito sul trackpad. «Importi rilevanti. Molto rilevanti, per uno che ritira i jeans in lavanderia.»
 
-Tom, a quell'ora, era di sotto, su una poltrona con il suo nome nuovo scritto sullo schienale, in un posto che non poteva nominare. Non poteva dirlo. Guardò la colonna di cifre sullo schermo, che non riusciva nemmeno a leggere da lì, e capì soltanto che tutte quelle righe erano state scritte mentre lui non c'era, nel modo in cui un tecnico capisce che un log è stato riempito da qualcun altro.
+Tom, a quell'ora, era di sotto, su una poltrona con il suo nome nuovo scritto sullo schienale, in un posto che non poteva nominare. Non poteva dirlo. Guardò la colonna di cifre sullo schermo, che non riusciva nemmeno a leggere da lì, capendo soltanto che tutte quelle righe erano state scritte mentre lui non c'era, nel modo in cui un tecnico capisce che un log è stato riempito da qualcun altro.
 
 «Non sono mie» disse.
 
