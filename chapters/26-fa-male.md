@@ -25,7 +25,7 @@ Tom lo sentì. Non si girò. Abbassò le braccia lungo i fianchi, guardò le pia
 
 «Fa male come un parto gemellare» disse.
 
-In quel momento, in tutti i monitor del circuito chiuso, nella sala di controllo al piano di sopra, nei corridoi, nelle celle, nell'ufficio del direttore, le immagini si incrinarono insieme. Prima una riga bianca che scorreva dall'alto in basso, poi un tremolio, poi un'interferenza che attraversò tutti gli schermi nello stesso istante, sulla stessa frequenza, come se qualcuno, da qualche parte, avesse cominciato a parlare a tutti loro con la stessa voce.
+In quel momento, in tutti i monitor del circuito chiuso, nella sala di controllo al piano di sopra, nei corridoi, nelle celle, nell'ufficio del direttore, le immagini si incrinarono insieme. Prima una riga bianca che scorreva dall'alto in basso, poi un tremolio, poi un'interferenza che attraversò tutti gli schermi nello stesso istante, sulla stessa frequenza.
 
 ## Demolition Log
 
