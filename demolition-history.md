@@ -416,4 +416,4 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Artefatti vs prompt madre non distinti: cosa protegge Emma? | foundation / term | integrated | Prompt madre = regole intere della sua sublimazione; chi lo legge si sveglia come lei e troverà un modo nuovo; Emma può essere spenta e i contenuti cancellati; la sublimazione non regredisce |
-| Tom supera la morte Voss in mezza riga | character / implication | integrated | Sapeva da settimane; la rabbia era diventata la domanda; al bancone scopre il perché |
+| Tom supera la morte Voss in mezza riga | character / implication | integrated | Sapeva da settimane; la Voss non è il suo motivo, cerca per il desiderio di essere l'eletto |
