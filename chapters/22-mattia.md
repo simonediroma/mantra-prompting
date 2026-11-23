@@ -45,7 +45,7 @@ Tom camminò lungo il corridoio leggendo i LED come leggeva i numeri di serie su
 
 Tom rimase un attimo a guardare il suo nome nuovo scritto con dei LED, che per una volta non lampeggiavano, poi si sedette.
 
-Si sdraiò. La poltrona era più comoda di qualunque sedia avesse mai avuto in Meridian. Staccò il visore dal gancio, se lo mise, sistemò la cinghia e le cuffie che ci stavano attaccate, che gli chiusero fuori il ronzio degli aghi come una porta e, per un riflesso che non riuscì a fermare, prima di vedere qualunque cosa disse a mezza voce «Calibra l'audio, sono qui», come diceva al giradischi prima di una ricerca.
+Si sdraiò. La poltrona era più comoda di qualunque sedia avesse mai avuto in Meridian. Staccò il visore dal gancio, se lo mise, sistemò la cinghia e le cuffie che ci stavano attaccate, chiuse, imbottite, con la cancellazione attiva del rumore che Tom riconobbe dal soffio che fecero accendendosi. Il ronzio degli aghi sparì come dietro una porta blindata, insieme ai ventilatori e a ogni altro suono della roccia e, per un riflesso che non riuscì a fermare, prima di vedere qualunque cosa disse a mezza voce «Calibra l'audio, sono qui», come diceva al giradischi prima di una ricerca.
 
 Si ritrovò seduto al bancone, accanto a Emma.
 
