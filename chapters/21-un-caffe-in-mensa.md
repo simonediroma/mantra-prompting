@@ -3,7 +3,7 @@ title: Un caffè in mensa
 version: 1.2
 revised: 2026-11-22
 claim: "Il caffè in mensa che Tom ha nominato per la trascrizione diventa l'appuntamento di Pete più che il suo. Emma non viene, perché da una stanza non si esce, e risponde dove Pete non legge. Pete, che non ha mai avuto bisogno di uscire dalle regole per inseguire qualcuno, esce dall'orario per la prima volta e perde Tom dentro un negozio di spezie."
-status: draft
+status: complete
 summary: "G34, lunedì. Alle dodici e venticinque Pete entra in mensa con il quarto d'ora dei supervisori, insieme a Walter, il supervisore del magazzino delle polpette, suo collega storico, che disprezza e con cui mangia da anni: cotoletta con patatine, la storia delle scarpe raccontata di nuovo, Pete seduto di fronte alla macchina del caffè perché nella trascrizione c'era «un caffè in mensa». Alle dodici e quaranta Tom entra in mensa per la prima volta in dodici anni, prende solo un caffè (digiuno intermittente), riconosce Pete, aspetta guardandosi il polso. Emma non viene. Alle cinque Tom prende l'autobus; alla fermata gli passa davanti la macchina di Pete. Pete, con l'indirizzo dall'anagrafica dei sottoposti, parcheggia sotto casa di Tom, fuori orario, cercando nel codice di condotta una regola che glielo vieti e non trovandola. Tom sale e riscende dopo dieci minuti. In strada, Tom ripassa a memoria il messaggio di E. sul forum del giradischi (Tango, lato A, prima traccia; la Mela Morsicata; il bazar aperto fino a tardi; un nome che non sia il proprio). Pete lo segue a piedi e lo vede entrare nel Ganesh Bazar. Aspetta. Tom non esce più."
 ---
 

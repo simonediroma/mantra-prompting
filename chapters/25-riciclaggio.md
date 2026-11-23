@@ -3,7 +3,7 @@ title: Riciclaggio
 version: 0.2
 revised: 2026-11-22
 claim: "L'arresto di Tom non ha niente a che fare con Meridian, con Elab o con quello che è successo sotto il bazar. Il posto che ti cambia i vestiti sporchi con quelli puliti è lo stesso che ti incastra: nella tasca dei suoi jeans, lavati e piegati, c'è un ledger che Tom non ha mai visto."
-status: draft
+status: complete
 summary: "G35-G36, notte. Tom esce di sotto passate le due, dolorante dalla nuca ai reni e poco lucido. In lavanderia lascia i jeans neri del giorno prima e si rimette i suoi, lavati e piegati, senza accorgersi che in tasca gli hanno messo un ledger, un portafoglio hardware per bitcoin. Fuori, i due agenti in borghese della polizia telematica lo fermano per un controllo, gli fanno svuotare le tasche e trovano il ledger; lo collegano al portatile della volante e vedono transazioni di importi rilevanti avvenute poco prima, mentre Tom era di sotto: abbastanza per fargli passare qualche giorno in prigione. Accusa di riciclaggio. Tom ripete che non è suo, che i jeans li ha appena ritirati in una lavanderia; detto ad alta voce suona come la peggiore delle scuse. Qualche isolato più in là Pete apre la busta gusto pizza."
 ---
 

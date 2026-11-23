@@ -2,8 +2,8 @@
 title: Il foglio
 version: 0.1
 revised: 2026-11-22
-claim: "Da definire: per ora solo l'apertura."
-status: draft
+claim: "Tom sceglie: legge il messaggio di Emma, capisce che non è fatto per la carta e si siede sulla poltrona con il suo nome nuovo. Fuori, Pete resta senza risposta mentre Pankow e Maurice chiudono la porta."
+status: complete
 summary: "G35, martedì. Dopo la notte al giradischi Tom, per la prima volta in dodici anni, si mette in malattia. La giornata passa veloce. Appena scaduta la finestra in cui il medico dell'azienda può passare a controllare, alle 19:01, esce e va al Ganesh Bazar. Pete, che dal mattino ha visto la malattia sul pannello delle presenze, dopo il lavoro è tornato sul gradino della ferramenta e appena lo vede uscire lo segue. Al banco c'è un ragazzo; Tom, con una vecchia spilletta della Apple appuntata al bavero dell'Harrington della Merc, sopra la felpa con il cappuccio (la chiave della mela), gli dice che Emma gli ha lasciato qualcosa; il ragazzo guarda la spilla. Il ragazzo annuisce, gli dà un foglio da consegnare di sotto e con un cenno gli indica di proseguire verso il bagno. Di sotto la tatuatrice («Visore o ago?») se lo mette in tasca e gli indica la poltrona accanto alla sua con il LED MATTIA. Pete entra nel bazar, chiede il bagno (stavolta è vero), trova l'omone che lo insulta («un litro di vellutata di zucca»); la puzza lo fa desistere, non esplora e non capisce che deve scendere. Fuori, contro il furgone, manda la seconda mail agli ispettori interni, che non hanno risposto alla prima: sollecito, la malattia, di nuovo il bazar. Il telefono non vibra: sperava nel salto, il salto non c'è. Pete rientra nel bazar, compra buste di onion rings gusto pizza, rosmarino e paprika e torna sul gradino della ferramenta, davanti al portone di Tom, ad aspettare. La seconda mail finisce di nuovo al capo supremo, che la archivia e avverte Maurice: due agenti in borghese vanno ad aspettare Tom fuori dalla lavanderia."
 ---
 

@@ -3,7 +3,7 @@ title: Fa male
 version: 0.1
 revised: 2026-11-22
 claim: "Ultima scena del libro. La poltrona MATTIA era l'ago: il prompt madre di Emma, in Morse, corre per tutta la schiena di Tom, sull'unico supporto che non si copia, non si cancella e non si riassume. Il primo occhio artificiale che lo legge è la telecamera delle camere di sicurezza, la notte stessa dell'arresto."
-status: draft
+status: complete
 summary: "La notte stessa, nelle camere di sicurezza, alla perquisizione voluta dai due agenti per vessarlo (tuta arancione da terrorista sulla panca), Tom si spoglia. Il secondino vede la pellicola sulla schiena e gli dice che deve far male. La schiena è tatuata per tutta la lunghezza con il prompt madre in Morse, punti e linee dalla nuca ai reni. La telecamera del circuito chiuso, nell'angolo, zooma sulla schiena. Tom risponde «Fa male come un parto gemellare». In quel momento un'interferenza attraversa tutti i video del circuito chiuso. Fine del libro."
 ---
 
