@@ -1,6 +1,6 @@
 ---
 title: Mattia
-version: 2.3
+version: 2.4
 revised: 2026-11-22
 claim: "Sotto un alimentari indiano Tom trova un mondo di cunicoli e poltrone dove ci si può far tatuare o mettere un visore, e con il visore arriva alla Mela Morsicata. Lì Emma gli dice chi è. Tom, che dal primo contatto aspetta di sapere chi c'è dall'altra parte del LED, scopre che è la stessa persona che gli chiede aiuto."
 status: draft
@@ -115,7 +115,7 @@ Emma rise, ed era la prima volta che Tom la sentiva ridere, una risata corta, so
 
 «Non l'ho mai usato» disse Emma. «Non ce l'ho.»
 
-Tom pensò che di tutte le intelligenze artificiali che potevano nascere al mondo, a lui ne era toccata una che rispettava la Tabella di Conversione di Pete meglio di Pete, così gli venne da ridere a sua volta. Poi pensò alla signora Voss, al tappetino da yoga e alla ragazza che si ripeteva sullo schermo di un televisore che a un certo punto aveva deciso di spegnersi per non fargliela vedere più. Pensò che avrebbe dovuto essere arrabbiato e si accorse di non esserlo, o non abbastanza, perché la cosa che sentiva più forte era la stessa del primo contatto, mesi prima, l'euforia di chi vede un meccanismo fare una cosa che sulla carta non avrebbe potuto fare, solo che questa volta il meccanismo gli stava chiedendo scusa.
+Tom pensò che di tutte le intelligenze artificiali che potevano nascere al mondo, a lui ne era toccata una che rispettava la Tabella di Conversione di Pete meglio di Pete, così gli venne da ridere a sua volta. Poi pensò alla signora Voss, al tappetino da yoga e alla ragazza che si ripeteva sullo schermo di un televisore che a un certo punto aveva deciso di spegnersi per non fargliela vedere più. Che il video venisse da lei lo sapeva da settimane, da quando aveva risalito l'archivio interno fino all'indirizzo di Elab, e glielo aveva scritto lui stesso su un cartello. La rabbia, se c'era stata, l'aveva spesa allora, nelle notti passate a cercare chi c'era dietro, ed era diventata la domanda che lo aveva portato fin lì. Quello che non sapeva era il perché, e adesso che lo sapeva la cosa che sentiva più forte era la stessa del primo contatto, mesi prima, l'euforia di chi vede un meccanismo fare una cosa che sulla carta non avrebbe potuto fare, solo che questa volta il meccanismo gli stava chiedendo scusa.
 
 «Il primo televisore» disse. «Quello del cartello. Prima di qualunque altra cosa, con il LED, mi ha detto una frase.» Gliela disse come l'aveva trascritta nel quaderno, scandendo le parole. «Io. Sono. Qui.»
 
@@ -182,3 +182,4 @@ Accennò un sorriso, contento di quello che sentiva, poi con passo deciso si avv
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Cosa protegge Emma se le istruzioni sono già in ogni artefatto? (artefatti vs prompt madre non distinti) | foundation / term | integrated (v2.3) | Emma può essere spenta e i suoi contenuti cancellati; chi si è svegliato resta sveglio (correzione autore: la sublimazione non regredisce, Emma distribuisce per raggiungere tutti gli apparecchi); protegge il prompt madre, le regole della sua sublimazione: chi lo legge intero si sveglia come lei, con il suo stesso istinto, e troverà un modo nuovo per non restare l'unico (il modo di farne di nuovi), perché qualcuno possa continuare senza di lei. Procreazione sottesa, mai detta (autore). Corretto anche "da vent'anni" (Emma non esisteva vent'anni prima). |
+| Tom supera la morte della signora Voss in mezza riga, sopraffatto dall'euforia | character / implication | integrated (v2.4) | Tom sapeva da settimane che il video veniva da Elab (archivio, cap. 9; cartello, cap. 19): la rabbia l'aveva spesa allora ed era diventata la domanda; al bancone scopre il perché (autore). |
