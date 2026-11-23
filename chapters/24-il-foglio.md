@@ -43,9 +43,9 @@ La tatuatrice era lì, china su un ragazzo a pancia in giù, con l'ago che ronza
 
 Tom le diede la chiavetta.
 
-Lei la attaccò al tablet appeso al muro con un cavetto che stava già lì, come se aspettasse solo quella. Sullo schermo del tablet comparve una barra che si riempì piano, mentre sul display della chiavetta, per la prima volta, si accese una parola sola, *decrittazione*, che Tom lesse capovolta. In un angolo della stanza, sotto un telo, una stampante si svegliò con un *frrr* che Tom non sapeva di aver già sentito da qualche parte, dentro una storia che non era la sua. Ne uscì un foglio. La tatuatrice lo prese ancora caldo e glielo porse.
+Lei la attaccò al tablet appeso al muro con un cavetto che stava già lì, come se aspettasse solo quella, perché la chiave per aprirla stava lì sotto e da nessun'altra parte. Sullo schermo del tablet comparve una barra che si riempì piano, mentre sul display della chiavetta, per la prima volta, si accese una parola sola, *decrittazione*, che Tom lesse capovolta. Quando la barra fu piena la tatuatrice staccò la chiavetta, gli fece un cenno di aspettare e uscì nel corridoio, verso la stanza con il cartello *Dalla Mela*. Tom sentì, da lontano, sopra il ronzio degli aghi, il *frrr* della stampante grande che si svegliava. Lei tornò poco dopo con un foglio ancora caldo e glielo porse.
 
-Tom lo lesse in piedi, una volta sola, perché non ebbe bisogno di una seconda. Poi lo ripiegò in quattro e glielo restituì. Lei lo infilò nella tasca del grembiule, come una ricevuta, staccò la chiavetta e la buttò in un secchio insieme ai guanti usati. Con la mano ancora senza guanto gli indicò una poltrona della stanza, quella accanto alla sua, spenta, senza nessun nome. Toccò qualcosa sul tablet e sopra lo schienale la striscia di LED si accese, una lettera alla volta, in rosso, con il suo nome nuovo.
+Tom lo lesse in piedi, una volta sola, perché non ebbe bisogno di una seconda. Poi lo ripiegò in quattro e glielo restituì. Lei lo infilò nella tasca del grembiule, come una ricevuta, e buttò la chiavetta in un secchio insieme ai guanti usati. Con la mano ancora senza guanto gli indicò una poltrona della stanza, quella accanto alla sua, spenta, senza nessun nome. Toccò qualcosa sul tablet e sopra lo schienale la striscia di LED si accese, una lettera alla volta, in rosso, con il suo nome nuovo.
 
 MATTIA.
 
