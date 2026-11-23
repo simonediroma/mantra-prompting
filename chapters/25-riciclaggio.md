@@ -29,7 +29,7 @@ Lo girarono di scatto, con la schiena contro la vetrina. A Tom il fiato si ferm�
 
 «Svuota le tasche. Tutte. Adesso.»
 
-Tom infilò le mani nelle tasche dei jeans. Nella sinistra c'erano le chiavi di casa, che non ricordava di averci messo. Nella destra le sue dita trovarono una cosa piccola, liscia e fredda, rettangolare, che non c'era quando aveva lasciato i jeans nel sacco. La tirò fuori e la guardò sul palmo come si guarda un componente sconosciuto trovato dentro un apparecchio che si credeva di conoscere. Era un ledger, un portafoglio hardware per criptovalute, di quelli che sembrano chiavette e servono a custodire i bitcoin fuori dalla rete, con un piccolo schermo spento e due tasti sul fianco. Tom ne aveva riparati un paio, anni prima, per un collega che li usava per qualcosa di cui preferiva non parlare.
+Tom infilò le mani nelle tasche dei jeans. Nella sinistra c'erano le chiavi di casa, che non ricordava di averci messo. Nella destra le sue dita trovarono una cosa piccola, liscia e fredda, rettangolare, che non c'era quando aveva lasciato i jeans nel sacco. La tirò fuori e la guardò sul palmo come si guarda un componente sconosciuto trovato dentro un apparecchio che si credeva di conoscere. Per un attimo pensò che fosse la chiavetta del bazar, tornata da sola dal secchio della tatuatrice, poi si ricordò che quella era nera e questa grigia. Era un ledger, un portafoglio hardware per criptovalute, di quelli che sembrano chiavette e servono a custodire i bitcoin fuori dalla rete, con un piccolo schermo spento e due tasti sul fianco. Tom ne aveva riparati un paio, anni prima, per un collega che li usava per qualcosa di cui preferiva non parlare.
 
 Il secondo poliziotto glielo strappò dal palmo, facendolo girare sotto il lampione.
 
