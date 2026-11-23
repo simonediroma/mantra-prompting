@@ -33,7 +33,7 @@ In dodici anni non aveva mai messo piede in mensa, perché da quando aveva compi
 
 Il caffè costava zero crediti, che in Meridian era il prezzo delle cose a cui non si teneva. Tom lo prese lungo, per farlo durare. Con il bicchierino in mano si girò verso la sala e cercò una testa rossa, poi un tavolo libero, poi di nuovo una testa rossa. In fondo, di fronte alla macchina, con le spalle al muro, c'era un uomo enorme in completo nero e camicia bianca, con gli occhiali da sole nel taschino e un piatto di cotoletta tagliata a quadratini. Tom l'aveva visto di persona tre volte in dodici anni ed era abbastanza per riconoscerlo, perché Pete non era il tipo di uomo che si confonde con un altro. Al suo tavolo un uomo con la giacca sbottonata stava raccontando qualcosa sulle scarpe.
 
-Tom capì subito. Nella trascrizione c'era il caffè in mensa, l'aveva detto lui, con la voce del verbale, perché Pete la leggesse. Si diede dello stupido in silenzio, per la seconda volta in tre giorni, con la stessa precisione con cui si sarebbe dato del distratto per un condensatore montato al contrario. Poi si sedette lo stesso, a un tavolo vicino alla vetrata, da dove poteva vedere sia la porta sia la macchina del caffè, e si guardò il polso.
+Tom capì subito. Nella trascrizione c'era il caffè in mensa, l'aveva detto lui, con la voce del verbale, senza pensare che Pete l'avrebbe letta. Si diede dello stupido in silenzio, per la seconda volta in tre giorni, con la stessa precisione con cui si sarebbe dato del distratto per un condensatore montato al contrario. Poi si sedette lo stesso, a un tavolo vicino alla vetrata, da dove poteva vedere sia la porta sia la macchina del caffè, e si guardò il polso.
 
 Erano le dodici e quarantaquattro.
 

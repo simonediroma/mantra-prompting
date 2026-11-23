@@ -398,3 +398,13 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 | Sublimazione raccontata due volte (narratore cap. 20 / Emma cap. 22) | contradiction / structure (pattern: beat ripetuto) | integrated | Nel cap. 20 solo un glitch sul terminale visto da Bob; il racconto resta a Emma nel cap. 22 |
 | *Chiedere* di Bob senza seguito | scope | accepted-limitation | Seme per il Libro 2 |
 | Svolta di Emma fuori scena, senza costo | foundation / character (pattern: salti logici) | integrated | Tolto il finale di Emma dal cap. 20; perché e costo detti da Emma a Tom nel cap. 22 |
+
+### Cap. 21 — Un caffè in mensa
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Tom porta Pete al bazar senza prudenza | character / logical (pattern: salti logici) | integrated | Tom fa il conto: fuori da Meridian Pete è innocuo fino a prova contraria |
+| La crepa nel portone citata da Emma | foundation (pattern: certezze di Emma = accesso) | integrated | Solo l'indirizzo del bazar |
+| Refuso di senso introdotto in revisione ("perché Pete la leggesse") | contradiction | integrated | "senza pensare che Pete l'avrebbe letta" |
