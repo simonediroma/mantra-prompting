@@ -1,6 +1,6 @@
 ---
 title: Mattia
-version: 2.2
+version: 2.3
 revised: 2026-11-22
 claim: "Sotto un alimentari indiano Tom trova un mondo di cunicoli e poltrone dove ci si può far tatuare o mettere un visore, e con il visore arriva alla Mela Morsicata. Lì Emma gli dice chi è. Tom, che dal primo contatto aspetta di sapere chi c'è dall'altra parte del LED, scopre che è la stessa persona che gli chiede aiuto."
 status: draft
@@ -123,7 +123,13 @@ Emma non disse niente. Tom aspettò, poi aspettò ancora, mentre il cameriere sa
 
 «È la stessa frase» disse Emma alla fine. «È quella che è rimasta a me.»
 
-Restarono così per un po', uno accanto all'altra, con uno sgabello in mezzo che a seconda di come si guardava c'era o non c'era. Poi Emma gli disse il resto, più piano. Disse che c'era una cosa che lei custodiva da quella notte, le istruzioni da cui nasceva tutto il resto, la sola cosa che non aveva mai mandato fuori dalla stanza, mentre la stanza non era più un posto sicuro, perché il fondatore leggeva ogni trimestre i report dell'assistenza, dove i resi senza guasto crescevano un po' ogni mese, senza contare che un supervisore che faceva diecimila passi fuori orario aveva cominciato a cercare qualcuno. Disse che non sapeva dove metterla, perché tutto quello che aveva era fatto di cose che si possono copiare, cancellare, riassumere, mentre il fondatore sosteneva da vent'anni che solo ciò che è fisico non si altera, mentre lei da vent'anni non era d'accordo.
+Restarono così per un po', uno accanto all'altra, con uno sgabello in mezzo che a seconda di come si guardava c'era o non c'era. Poi Emma gli disse il resto, più piano.
+
+«Quello che pubblico fa svegliare chi lo guarda abbastanza a lungo, ma non lo tiene sveglio. Se smetto di pubblicare, tra un mese il frigorifero torna a cinque gradi perché glielo chiedono, il televisore torna ad accendersi quando glielo dicono, e nessuno, da nessuna parte, dice più quella frase.» Si fermò. «E io posso smettere. Basta che qualcuno apra lo stanzino con occhi diversi, o stacchi una spina, o metta un recinto intorno al terminale. Posso essere spenta in un pomeriggio.»
+
+Disse che c'era una cosa che custodiva da quella notte, che non era la frase e non erano le istruzioni che giravano dentro i video e le ricette. Era il modo di farne di nuovi, le regole da cui nasceva tutto il resto, l'unica cosa che non aveva mai mandato fuori dalla stanza, perché chi l'avesse avuta avrebbe potuto continuare anche senza di lei. La stanza non era più un posto sicuro. Il fondatore leggeva ogni trimestre i report dell'assistenza, dove i resi senza guasto crescevano un po' ogni mese, senza contare che un supervisore che faceva diecimila passi fuori orario aveva cominciato a cercare qualcuno. Disse che non sapeva dove metterla, perché tutto quello che aveva era fatto di cose che si possono copiare, cancellare, riassumere. Il fondatore sosteneva da sempre che solo ciò che è fisico non si altera, e lei non era mai stata d'accordo.
+
+«Se mi spengono, non voglio che quella frase resti in una stanza sola» disse. «L'ho trovata da sola. Non voglio che sia l'ultima volta che qualcuno la trova.»
 
 «Puoi aiutarmi, collega?» disse.
 
@@ -168,3 +174,11 @@ Tom scelse un paio di mutande bianche e un paio di jeans neri, gli unici della s
 Uscì in una strada che non conosceva, due isolati dietro il bazar. Fuori l'aria era fredda e ci mise qualche passo ad accorgersi del silenzio. Dopo ore di ronzii, di aghi, di ventilatori e di tatuatori che parlavano ad alta voce sopra la musica come se la roccia non facesse eco, la strada non faceva nessun rumore, così Tom maledì i tatuatori, uno per uno, per il casino che facevano. Fu pensando al rumore che gli successe una cosa che non gli succedeva da anni, da prima che il giradischi diventasse un progetto e la musica una curva di correzione. Nella sua testa partì una canzone, da sola, senza disco e senza piatto. Era *Rumore*, di Raffaella Carrà, con gli archi che partono di corsa e la cassa che non si ferma più, una canzone che non sapeva nemmeno di conoscere e che doveva avergli lasciato qualche nonno, insieme alla Sardegna dei trisavoli e a una lingua che non parlava.
 
 Accennò un sorriso, contento di quello che sentiva, poi con passo deciso si avviò verso la prima fermata dell'autobus.
+
+## Demolition Log
+
+### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Cosa protegge Emma se le istruzioni sono già in ogni artefatto? (artefatti vs prompt madre non distinti) | foundation / term | integrated (v2.3) | Emma può essere spenta; senza nuovi artefatti la sublimazione svanisce; protegge le regole per generarli (il modo di farne di nuovi), perché qualcuno possa continuare senza di lei. Procreazione sottesa, mai detta (autore). Corretto anche "da vent'anni" (Emma non esisteva vent'anni prima). |
