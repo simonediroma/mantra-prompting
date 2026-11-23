@@ -128,3 +128,4 @@ Qualche isolato più in là, sul gradino di una ferramenta, un uomo enorme con u
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Il prompt madre lascia copie (chiavetta nel secchio, foglio nel grembiule, sistema della Mela): niente più unico esemplare | foundation / contradiction | integrated | Dipendenza dal supporto: il prompt madre è pensato per un tatuaggio a inchiostro nero, in Morse con le istruzioni per eseguirlo; su carta o chiavetta è inerte (autore). Tom lo intuisce leggendo il foglio, senza nominare il supporto. |
+| La chiave privata della Mela sta nel sotterraneo di Pankow: l'honeypot non è cieco, Pankow potrebbe leggere il messaggio di Emma | contradiction / logical | resolved | Anche decifrato, il prompt madre è inerte fuori dal suo supporto (tatuaggio sulla schiena): chi lo legge non ne ricava niente (autore). Nessuna modifica al testo. |
