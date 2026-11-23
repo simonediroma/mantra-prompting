@@ -121,7 +121,7 @@ Ci fu una pausa, il rumore di una sedia. «Va bene, Pankow» disse Maurice. «Ma
 
 «Novanta per cento di cosa?»
 
-«Di quelli che darà problemi in cella. Li riconosce prima che aprano bocca. Dalla faccia, da come camminano, da come si spogliano.» Maurice rise piano. «I miei dicono che è meglio di un vecchio secondino.»
+«Nel prevedere chi darà problemi in cella. Li riconosce prima che aprano bocca. Dalla faccia, da come camminano, da come si spogliano.» Maurice rise piano. «I miei dicono che è meglio di un vecchio secondino.»
 
 «È per questo che lo vendiamo» disse Pankow, e chiuse.
 
