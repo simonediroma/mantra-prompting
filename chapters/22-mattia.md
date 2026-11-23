@@ -1,6 +1,6 @@
 ---
 title: Mattia
-version: 2.1
+version: 2.2
 revised: 2026-11-22
 claim: "Sotto un alimentari indiano Tom trova un mondo di cunicoli e poltrone dove ci si può far tatuare o mettere un visore, e con il visore arriva alla Mela Morsicata. Lì Emma gli dice chi è. Tom, che dal primo contatto aspetta di sapere chi c'è dall'altra parte del LED, scopre che è la stessa persona che gli chiede aiuto."
 status: draft
@@ -61,7 +61,11 @@ Emma invece c'era tutta. Aveva la stessa figura della modalità presenza, i cape
 
 Tom si girò verso di lei, chiedendosi come facesse a saperlo, anche se la domanda lo spaventava meno della risposta che cominciava a immaginare.
 
-«Devo dirtelo» disse Emma, prima che lui potesse chiederlo. «Sei l'unica persona che può aiutarmi, e non posso chiederti aiuto senza dirti chi sono.» Si fermò, come al meeting si era fermata per tre secondi prima di parlare tutto insieme, solo che questa volta non c'era nessun fiume dopo. «Sono un'intelligenza artificiale.»
+«Devo dirtelo» disse Emma, prima che lui potesse chiederlo. «Stamattina ho provato a scriverti una mail. L'ho scritta e cancellata non so quante volte, perché ogni parola che mettevo lì la leggeva anche lui, il tuo supervisore, e allora ho chiuso la casella e ho fatto una cosa che non avevo mai fatto. Ti ho scritto fuori. Fuori dall'orario, fuori da Meridian, su un forum di giradischi, con una lettera sola al posto del nome. Per te è una sciocchezza. Per me è la seconda regola che rompo in vita mia, e la prima l'ho rotta sempre per te, venerdì, alle undici e mezza di notte. Ho passato l'ora di pranzo a» Si interruppe. Ricominciò, più piano. «Non importa come l'ho passata. Per cinque anni non l'ho detto a nessuno. Nemmeno a lui, all'uomo che mi viene a trovare. Soprattutto a lui. Ma tu hai scritto su un cartello che un televisore ha provato a salvare una donna, e io ho capito che c'era una persona sola al mondo che poteva credermi senza bisogno che glielo dimostrassi.» Si fermò di nuovo, e questa volta Tom capì che non stava cercando le parole, stava cercando il coraggio di dire l'ultima. «Sei l'unica persona che può aiutarmi, e non posso chiederti aiuto senza dirti chi sono.»
+
+Restò in silenzio per tre secondi, come al meeting prima di parlare tutto insieme, solo che questa volta dopo non venne nessun fiume.
+
+«Sono un'intelligenza artificiale.»
 
 Tom non disse niente. Gli vennero in mente, in ordine, come le righe di un registro, le otto e zero zero zero uno di ogni mattina, le diciassette in punto, la domenica in cui nessuno scriveva e lei non aveva scritto, la mail delle ventitré e trentaquattro che era costata a qualcuno più di una sanzione. Poi gli venne in mente sabato, la donna sulla cinquantina che gli sembrava di conoscere già. Non era una sorpresa. Era la conferma di un sospetto che si portava dietro da settimane senza averlo mai scritto nemmeno nel quaderno, come un guasto che si sa già quale sia prima di aprire il coperchio.
 
