@@ -329,7 +329,7 @@ Tom esce di sotto passate le due, dolorante e poco lucido. In lavanderia lascia 
 
 ### Capitolo 26 — Fa male (ultima scena del libro, fissata dall'autore, 2026-11-22)
 **File**: `chapters/26-fa-male.md`
-Tom in prigione si spoglia, il secondino: «deve far male». La schiena appena tatuata per tutta la lunghezza con il prompt madre in Morse; la telecamera del circuito chiuso zooma sulla schiena; Tom: «fa male come un parto gemellare»; interferenza su tutti i video del circuito chiuso. Fino a qui non si sa se la poltrona MATTIA (cap. 24) fosse visore o ago; il foglio di Emma non si mostra mai.
+Tom, la notte stessa dell'arresto, nelle camere di sicurezza, viene spogliato (tuta arancione), il secondino: «deve far male». La schiena appena tatuata per tutta la lunghezza con il prompt madre in Morse; la telecamera del circuito chiuso zooma sulla schiena; Tom: «fa male come un parto gemellare»; interferenza su tutti i video del circuito chiuso. Fino a qui non si sa se la poltrona MATTIA (cap. 24) fosse visore o ago; il foglio di Emma non si mostra mai.
 
 ---
 
