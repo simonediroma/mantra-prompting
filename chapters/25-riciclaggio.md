@@ -55,6 +55,16 @@ Tom, a quell'ora, era di sotto, su una poltrona con il suo nome nuovo scritto su
 
 «Non sono mie» disse.
 
+Il secondo poliziotto non lo ascoltava. Aveva aperto un'altra finestra sul portatile e la scorreva con il dito, come se cercasse qualcosa che sapeva già di trovare. Si fermò.
+
+«Cinque anni fa» disse. «Una mail da un indirizzo autistici.org. Un invito a parlare in un forte occupato, a Roma.» Alzò gli occhi su Tom. «Sai chi sono quelli di Autistici? Stanno nella lista nera degli americani, quella dei terroristi. Una cellula.»
+
+«Non sono una cellula» disse Tom. «Ospitano una mailing list. Ho presentato un giradischi.»
+
+«Un giradischi» disse il primo, e rise, mentre l'altro girava lo schermo verso di lui come si mostra la prova regina. «Un tecnico che parla in un covo di hacker legati al terrorismo, con un portafoglio di bitcoin in tasca e tre transazioni in una notte. Sai come si chiama questo, a casa mia? Finanziamento.»
+
+Tom capì che non c'era niente da spiegare, perché ogni parola vera che diceva entrava nella frase sbagliata.
+
 «Le spiegherai al magistrato.» Il secondo poliziotto staccò il ledger dal portatile e lo infilò in una bustina trasparente che aveva già pronta in tasca. «Per qualche giorno, intanto, le spieghi a noi. Sei in stato di fermo per riciclaggio. Girati.»
 
 Le manette erano fredde e strette. Quando gli torsero le braccia dietro la schiena, il dolore che salì dalle scapole fu così forte che Tom vide bianco, come il muro sopra la porta quando aveva acceso il LED, tanto che dovette appoggiarsi alla macchina per non cadere.
