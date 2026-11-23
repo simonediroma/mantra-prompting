@@ -15,7 +15,7 @@ In lavanderia l'inserviente con il grembiule era lo stesso della sera prima. Gua
 
 L'inserviente annuì, mise i jeans neri nel cesto e tornò a piegare magliette sotto la luce bianca, mentre le lavatrici senza chip giravano piano, una dopo l'altra.
 
-Fuori la strada era vuota, a parte una macchina grigia parcheggiata dall'altra parte, che Tom non guardò perché camminava guardando i piedi, uno dopo l'altro, come si controllano le saldature di una scheda. Fece una decina di passi. Le portiere della macchina grigia si aprirono e scesero due uomini in giacca scura, senza fretta, con la faccia di chi ha bevuto troppo caffè da un thermos. Uno dei due gli si mise davanti, l'altro gli arrivò alle spalle, e prima che Tom capisse cosa stesse succedendo si ritrovò con la faccia contro la vetrina di un negozio chiuso, una mano aperta tra le scapole che lo teneva lì.
+Fuori la strada era vuota, a parte una macchina grigia parcheggiata dall'altra parte, che Tom non guardò perché camminava guardando i piedi, uno dopo l'altro, come si controllano le saldature di una scheda. Fece una decina di passi. Le portiere della macchina grigia si aprirono e scesero due uomini in giacca scura, senza fretta, con la faccia di chi ha bevuto troppo caffè da un thermos. Uno dei due gli si mise davanti, l'altro gli arrivò alle spalle. Prima che Tom capisse cosa stesse succedendo si ritrovò con la faccia contro la vetrina di un negozio chiuso, una mano aperta tra le scapole che lo teneva lì.
 
 «Polizia» disse quello davanti, sbattendogli un distintivo a un palmo dagli occhi, che si richiuse prima che Tom riuscisse a leggerlo. «Documenti.»
 
@@ -25,7 +25,7 @@ Tom provò a infilare la mano nella tasca dell'Harrington e la mano tra le scapo
 
 «Ho ritirato i jeans» disse Tom, contro il vetro, ed era vero.
 
-Lo girarono di scatto, con la schiena contro la vetrina. Tom vide bianco.
+Lo girarono di scatto, con la schiena contro la vetrina. A Tom il fiato si fermò a metà, come un nastro che si inceppa.
 
 «Svuota le tasche. Tutte. Adesso.»
 
