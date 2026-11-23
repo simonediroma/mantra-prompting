@@ -117,6 +117,10 @@ Dall'altra parte ci fu un silenzio corto. «Elab» disse Maurice. «Credevo che 
 
 Maurice rise. «Le tue regole.»
 
+«Chi ti ha dato la dritta?» chiese poi.
+
+«Bah» disse il capo supremo. «Uno dei miei supervisori. Neanche il più brillante, anzi. Un bullo del liceo che a colazione mangia anelli di cipolla fritti e che vuole un ufficio tutto suo, con la porta e la targhetta.» Guardò il nome in fondo alla segnalazione come si guarda un attrezzo in fondo a un cassetto. «Lo lascio appeso. Se servirà, lo userò più avanti.»
+
 «Le mie regole» disse il capo supremo. «Non so cosa abbia in testa Bob. Non lo sa mai nemmeno lui. Ma se sta portando fuori qualcosa, lo sta portando fuori con quel tecnico.» Si fermò, come si ferma chi chiede un favore che ha già chiesto altre volte. «Fagli il solito rendez-vous. Appena il tecnico torna, prendetelo all'uscita della lavanderia e fategli il trattamento che riserviamo a chi va reso innocuo. A Bob ci penso io.»
 
 «Va bene» disse Maurice, senza bisogno di farsi ripetere niente. Poi, con un tono diverso, quasi affettuoso, aggiunse: «Sai che non te l'ho mai detto? La Mela Morsicata è stata un'idea geniale. Tutti quelli che vogliono sparire vanno a sparire nello stesso posto, il tuo, e ci vanno contenti, perché è fico.»
