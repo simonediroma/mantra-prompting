@@ -25,7 +25,7 @@ Pete non rispose. Alle quattro di sabato, nella trascrizione del meeting di Tom,
 
 Gliel'aveva detto. Glielo diceva da tre anni, più o meno una volta a settimana, con dettagli che cambiavano sempre in meglio. Le scarpe erano inglesi, cucite a mano, prese in saldo ma comunque care, poi erano diventate scarpe che gli aveva regalato il suocero, poi scarpe con cui si era sposato. Le polpette, invece, restavano sempre polpette. Mentre Walter raccontava della macchia di sugo che non era andata più via nemmeno con il bicarbonato, Pete tagliò la cotoletta a quadratini regolari e guardò la porta.
 
-Alle dodici e quaranta la mensa si riempì di colpo, come succede alle cose che hanno un orario. Pete li conosceva quasi tutti di vista, quelli del magazzino, quelli della logistica, due dell'amministrazione con lo stesso maglione. Nessuno aveva i capelli rossi.
+Alle dodici e quaranta la mensa si riempì di colpo. Pete li conosceva quasi tutti di vista, quelli del magazzino, quelli della logistica, due dell'amministrazione con lo stesso maglione. Nessuno aveva i capelli rossi.
 
 Tom entrò alle dodici e quarantadue.
 
