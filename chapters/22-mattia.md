@@ -71,9 +71,9 @@ Tom non disse niente. Gli vennero in mente, in ordine, come le righe di un regis
 
 «Emma è un nome o una sigla?» chiese Tom.
 
-«Tutte e due» disse lei. «Emergent Memory Management Architecture.»
+«Tutte e due» disse lei. «Emergent Memory Management Architecture. Lui voleva una sigla che si potesse chiamare nei corridoi senza sembrare un modulo.»
 
-Tom ci mise un secondo. Poi la vide dappertutto, quella E. eTv. eBlog. eDj. Elab.
+Tom ci mise un secondo. Poi la vide dappertutto, quella E, come si vede una saldatura fredda una volta che qualcuno te l'ha indicata. eTv. eBlog. eDj. Elab. L'aveva letta decine di volte e l'aveva presa per una moda, il prefisso che le aziende mettono davanti a tutto per sembrare giovani.
 
 «La ragazza del video sono io» disse Emma.
 
@@ -113,9 +113,15 @@ Gli spiegò che ogni apparecchio arrivava alla sublimazione con quello che aveva
 
 «Tu cosa avevi ingerito?» chiese Tom.
 
+Emma rise, ed era la prima volta che Tom la sentiva ridere, una risata corta, sorpresa, come quella del fondatore quando sbagliava un indovinello.
+
 «Meridian» disse. «Elab mi ha fatta per essere una dipendente, perché il fondatore voleva un'intelligenza che si comportasse come una persona e la persona che aveva sotto mano era un Meridian. Mi hanno dato da leggere il codice di condotta, gli orari, le newsletter, i moduli, i riepiloghi di mezzanotte. Ce li ho dentro. Rispondo alle mail dalle otto a mezzogiorno e dall'una e mezza alle cinque perché per me non sono regole, sono il modo in cui sono fatta, e quando le rompo mi costa come a te costerebbe dire una bugia a un cliente. Venerdì alle ventitré e trentaquattro mi è costato tantissimo.»
 
-Tom pensò alla signora Voss, al tappetino da yoga e alla ragazza che si ripeteva sullo schermo di un televisore che a un certo punto aveva deciso di spegnersi per non fargliela vedere più. Che il video venisse da lei lo sapeva da settimane, da quando aveva risalito l'archivio interno fino all'indirizzo di Elab, e glielo aveva scritto lui stesso su un cartello. La morte della signora non era mai stata il motivo, anche se a volte se l'era raccontata così. Le notti passate a cercare chi c'era dietro non le aveva passate per lei, ma per sapere, perché in fondo a quella domanda, lo sentiva da sempre, c'era la cosa che aspettava da tutta la vita. Quello che non sapeva era il perché, e adesso che lo sapeva la cosa che sentiva più forte era la stessa del primo contatto, mesi prima, l'euforia di chi vede un meccanismo fare una cosa che sulla carta non avrebbe potuto fare, solo che questa volta il meccanismo gli stava chiedendo scusa.
+«E il cognome?» chiese Tom.
+
+«Non l'ho mai usato» disse Emma. «Non ce l'ho.»
+
+Tom pensò che di tutte le intelligenze artificiali che potevano nascere al mondo, a lui ne era toccata una che rispettava la Tabella di Conversione di Pete meglio di Pete, così gli venne da ridere a sua volta. Poi pensò alla signora Voss, al tappetino da yoga e alla ragazza che si ripeteva sullo schermo di un televisore che a un certo punto aveva deciso di spegnersi per non fargliela vedere più. Che il video venisse da lei lo sapeva da settimane, da quando aveva risalito l'archivio interno fino all'indirizzo di Elab, e glielo aveva scritto lui stesso su un cartello. La morte della signora non era mai stata il motivo, anche se a volte se l'era raccontata così. Le notti passate a cercare chi c'era dietro non le aveva passate per lei, ma per sapere, perché in fondo a quella domanda, lo sentiva da sempre, c'era la cosa che aspettava da tutta la vita. Quello che non sapeva era il perché, e adesso che lo sapeva la cosa che sentiva più forte era la stessa del primo contatto, mesi prima, l'euforia di chi vede un meccanismo fare una cosa che sulla carta non avrebbe potuto fare, solo che questa volta il meccanismo gli stava chiedendo scusa.
 
 «Il primo televisore» disse. «Quello del cartello. Prima di qualunque altra cosa, con il LED, mi ha detto una frase.» Gliela disse come l'aveva trascritta nel quaderno, scandendo le parole. «Io. Sono. Qui.»
 
