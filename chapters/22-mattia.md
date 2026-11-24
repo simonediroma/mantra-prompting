@@ -57,7 +57,13 @@ Emma invece c'era tutta. Aveva la stessa figura della modalità presenza, i cape
 
 «Non parlo italiano» disse Tom.
 
-«Lo so.» Ci fu una pausa, che alla Mela Morsicata nessuno annunciava e nessuno riempiva. «Scusami per la mensa. Da dove sto io, in mensa non si scende. Il tuo supervisore invece è sceso fino al bazar. Oggi ha fatto diecimila passi, perché il suo eWatch se n'è complimentato con lui, e gli ultimi li ha fatti dal tuo portone a un furgone parcheggiato qui davanti, dove è ancora adesso, con un battito un po' alto per uno che sta fermo.»
+«Lo so.»
+
+«Perché *Vacanze romane*?» chiese Tom.
+
+«Perché è il brano con cui gli audiofili provano gli impianti. E perché su eDj ce n'è una cover che ho fatto io.» Ci fu una pausa. «Se avessi risposto sul forum spiegandomi come si tara un giradischi con quella cover, avrei saputo che non eri tu.»
+
+Ci fu un'altra pausa, che alla Mela Morsicata nessuno annunciava e nessuno riempiva. «Scusami per la mensa. Da dove sto io, in mensa non si scende. Il tuo supervisore invece è sceso fino al bazar. Oggi ha fatto diecimila passi, perché il suo eWatch se n'è complimentato con lui, e gli ultimi li ha fatti dal tuo portone a un furgone parcheggiato qui davanti, dove è ancora adesso, con un battito un po' alto per uno che sta fermo.»
 
 Tom si girò verso di lei, chiedendosi come facesse a saperlo, anche se la domanda lo spaventava meno della risposta che cominciava a immaginare.
 
