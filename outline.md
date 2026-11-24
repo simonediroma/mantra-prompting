@@ -333,7 +333,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ### Capitolo 24 — Il foglio
 **POV**: Tom → Pete → Tom → Pete → Pankow
-**Obiettivo di scena**: G35. Malattia dall'eWatch, fascia di reperibilità, uscita alle 19:01. Pete lo segue. Al bazar la spilla; la chiavetta cifrata con la chiave pubblica della Mela («Falla vedere giù»); la tatuatrice la decritta e stampa: Tom legge il foglio (contenuto mai mostrato), capisce che è pensato per un altro supporto, lo restituisce; poltrona MATTIA, «È il momento». Pete e l'omone della vellutata; seconda mail senza risposta; onion rings. Pankow e Maurice: due agenti alla lavanderia; il sistema nelle camere di sicurezza, novanta per cento.
+**Obiettivo di scena**: G35. Malattia dall'eWatch; alle 7:30 Tom esce all'ora di sempre con lo zaino per depistare Pete, che lo crede al lavoro e corre in ufficio; Tom va al bazar. Pete capisce alle 8:30 dalla faccina e alle 17 torna al bazar. Al bazar la spilla; la chiavetta cifrata con la chiave pubblica della Mela («Falla vedere giù»); la tatuatrice la decritta e stampa: Tom legge il foglio (contenuto mai mostrato), capisce che è pensato per un altro supporto, lo restituisce; poltrona MATTIA, «È il momento». Pete e l'omone della vellutata; seconda mail senza risposta; onion rings. Pankow e Maurice: due agenti alla lavanderia; il sistema nelle camere di sicurezza, novanta per cento.
 **Stato**: `complete`
 **File**: `chapters/24-il-foglio.md`
 
@@ -341,7 +341,7 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ### Capitolo 25 — Riciclaggio
 **POV**: Tom → Pete
-**Obiettivo di scena**: Tom esce passate le due (la prima volta se l'era fatta addosso, la seconda si era distrutto la schiena). In lavanderia riprende i suoi jeans: dentro c'è un ledger. Maniere pesanti; transazioni recenti sul portatile della volante; la mail di autistici.org di cinque anni prima usata come legame con una «cellula»; fermo per riciclaggio. Pete apre la busta gusto pizza davanti a un portone dove nessuno tornerà.
+**Obiettivo di scena**: Tom esce passate le nove di sera (la prima volta se l'era fatta addosso, la seconda si era distrutto la schiena). In lavanderia riprende i suoi jeans: dentro c'è un ledger. Maniere pesanti; transazioni recenti sul portatile della volante; la mail di autistici.org di cinque anni prima usata come legame con una «cellula»; fermo per riciclaggio. Pete apre la busta gusto pizza davanti a un portone dove nessuno tornerà.
 **Stato**: `complete`
 **File**: `chapters/25-riciclaggio.md`
 
