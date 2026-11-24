@@ -47,3 +47,8 @@ Ha abbandonato ufficialmente il progetto Emma cinque anni prima degli eventi nar
 - **Nome (autore, 2026-11-22)**: **Bob**. Compagno di università di Pankow (capo HR, il capo supremo). Gli altri fondatori sono Pankow e Maurice (polizia telematica), più un quarto non ancora nominato. Nel narrato può restare "il fondatore"; Pankow e Maurice lo chiamano Bob.
 - **Punti aperti esplicitamente segnalati nel materiale originale**: come/tramite chi scopre la verità su Emma; il punto d'incontro diretto con Tom. Entrambi rimandati a capitoli successivi al 27.
 - Quando questo personaggio sarà pronto per entrare in scena, eseguire `/ghost-writer:character-interview` per completare fisico, voce e psicologia prima di scrivere i suoi capitoli.
+- **Cap. 20, revisione (autore, 2026-11-24)**:
+  - **Il creativo dei quattro**: non "il più bravo con le mani", ma quello che le idee le aveva e il meno bravo a venderle. Cerca sempre sfide e stimoli, si annoia con ciò che funziona già. Può restare in disparte (in fondo alla sala alle presentazioni), ma la creatività che tiene in piedi Meridian è sua. Precisa il "Wozniak" della sezione Surface: più inventore che tecnico.
+  - **Aspetto**: capelli bianchi corti, camicia azzurra senza cravatta, maniche arrotolate che gli danno un'aria giovane e indaffarata nonostante i sessant'anni passati.
+  - **Epoca della fondazione**: Meridian nasce quando i sistemi operativi non avevano ancora una finestra (era del DOS, mai nominata in prosa). Niente "sistemi operativi per lavatrici".
+  - **Pete e Bob**: Pete gli fa un cenno con il mento "da Agent Smith a un impiegato qualunque", perché lo scambia per nessuno (camicia, caffè in mano); lo riconosce dal ritratto solo in ascensore. Valutata e scartata una versione con Pete servile.

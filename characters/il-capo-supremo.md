@@ -22,3 +22,5 @@ Introdotto nel cap. 23 (autore, 2026-11-22).
 - **Soprannome del fondatore di Elab**: "il Prof" (aggiunta non richiesta, da confermare).
 
 - **Conflitto di interessi di Maurice (autore, 2026-11-23)**: dalla polizia telematica ha favorito indirettamente Meridian nelle gare per la videosorveglianza: ogni telecamera di questure, camere di sicurezza e carceri gira su chip Meridian. Per questo il finale funziona: la telecamera del cap. 26 è Meridian (cap. 23, 26).
+
+- **Caratteri (autore, 2026-11-24, cap. 20)**: **Pankow è interventista**: non riesce a vedere una cosa ferma senza metterci le mani. **Maurice è pragmatico**: le cose gli interessano solo finché servono. In prosa, nel cap. 20, nella presentazione dei fondatori.
