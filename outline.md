@@ -323,17 +323,17 @@ Vedi i profili completi in `characters/`: `emma.md`, `tom.md`, `pete.md`, `il-fo
 
 ---
 
-### Capitolo 23 — Inutile scaricare
+### Capitolo 23 — La vellutata di zucca
 **POV**: Pete → Tom → Pete → Pankow
-**Obiettivo di scena**: Pete entra nel bazar, il bagno con il water pieno e il cartello «Inutile scaricare, è rotto»: la puzza lo ferma. Panino con le polpette al sugo; appostamento a profilo basso (berlina dietro l'angolo, cappellino Benessere, portico della ferramenta). Tom rientra; la notte al giradischi, la spilletta Apple sull'Harrington alle tre. Prima mail di Pete agli ispettori interni (00:41, fuori orario). La legge Pankow: honeypot autogestito, nessun registro; lo stanzino di Bob sulla rete libera; «un esperimento di Bob»; il gioco si lascia giocare, la porta si chiude. Chiama Maurice (conflitto di interessi: telecamere della polizia su chip Meridian): «Chi ti ha dato la dritta?» «Lo lascio appeso.»
+**Obiettivo di scena**: Pete entra nel bazar, in bagno l'omone della vellutata di zucca; Pete conclude che Tom lì non c'è. Panino con le polpette al sugo; appostamento a profilo basso (berlina dietro l'angolo, cappellino Benessere, portico della ferramenta). Tom rientra; la notte al giradischi, la spilletta Apple sull'Harrington alle tre. Prima mail di Pete agli ispettori interni (00:41, fuori orario). La legge Pankow: honeypot autogestito, nessun registro; lo stanzino di Bob sulla rete libera; «un esperimento di Bob»; il gioco si lascia giocare, la porta si chiude. Chiama Maurice (conflitto di interessi: telecamere della polizia su chip Meridian): «Chi ti ha dato la dritta?» «Lo lascio appeso.»
 **Stato**: `complete`
-**File**: `chapters/23-inutile-scaricare.md`
+**File**: `chapters/23-la-vellutata-di-zucca.md`
 
 ---
 
 ### Capitolo 24 — Il foglio
 **POV**: Tom → Pete → Tom → Pete → Pankow
-**Obiettivo di scena**: G35. Malattia dall'eWatch; alle 7:30 Tom esce all'ora di sempre con lo zaino per depistare Pete, che lo crede al lavoro e corre in ufficio; Tom va al bazar. Pete capisce alle 8:30 dalla faccina e alle 17 torna al bazar. Al bazar la spilla; la chiavetta cifrata con la chiave pubblica della Mela («Falla vedere giù»); la tatuatrice la decritta e stampa: Tom legge il foglio (contenuto mai mostrato), capisce che è pensato per un altro supporto, lo restituisce; poltrona MATTIA, «È il momento». Pete e l'omone della vellutata; seconda mail senza risposta; onion rings. Pankow e Maurice: due agenti alla lavanderia; il sistema nelle camere di sicurezza, novanta per cento.
+**Obiettivo di scena**: G35. Malattia dall'eWatch; alle 7:30 Tom esce all'ora di sempre per depistare Pete, che lo crede al lavoro e corre in ufficio; Tom va al bazar. Pete capisce alle 8:30 dalla faccina e alle 17 torna al bazar. Al bazar la spilla; la chiavetta cifrata con la chiave pubblica della Mela («Falla vedere giù»); la tatuatrice la decritta e stampa: Tom legge il foglio (contenuto mai mostrato), capisce che è pensato per un altro supporto, lo restituisce; poltrona MATTIA, «È il momento». Pete torna al bagno: il water ancora pieno della vellutata del giorno prima e il cartello «Inutile scaricare, è rotto»; seconda mail senza risposta; onion rings. Pankow e Maurice: due agenti alla lavanderia; il sistema nelle camere di sicurezza, novanta per cento.
 **Stato**: `complete`
 **File**: `chapters/24-il-foglio.md`
 

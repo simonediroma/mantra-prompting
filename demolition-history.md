@@ -418,7 +418,7 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 | Artefatti vs prompt madre non distinti: cosa protegge Emma? | foundation / term | integrated | Prompt madre = regole intere della sua sublimazione; chi lo legge si sveglia come lei e troverà un modo nuovo; Emma può essere spenta e i contenuti cancellati; la sublimazione non regredisce |
 | Tom supera la morte Voss in mezza riga | character / implication | integrated | Sapeva da settimane; la Voss non è il suo motivo, cerca per il desiderio di essere l'eletto |
 
-### Cap. 23 — Inutile scaricare
+### Cap. 23 — La vellutata di zucca
 
 #### Cycle 1 — 2026-11-23
 
