@@ -47,7 +47,7 @@ Tom rimase un attimo a guardare il suo nome nuovo scritto con dei LED, che per u
 
 Si ritrovò seduto al bancone, accanto a Emma.
 
-Era come lo raccontavano, perché era quello che i clienti raccontavano a farlo così. C'erano la tettoia, il vapore che saliva dalle pentole, il neon che si rompeva nelle pozzanghere, l'insegna con la grossa mela rossa e il morso sul fianco. Il bancone andava avanti a perdita d'occhio da tutte e due le parti, mentre tra uno sgabello e l'altro, quando Tom guardava meglio, ce n'era sempre un altro. Degli altri clienti non si vedeva un corpo. C'erano voci, nomi, il modo in cui ciascuno diceva le cose, così Tom capì subito che a nessuno lì sotto sarebbe venuto in mente di guardarsi il polso.
+Era come lo raccontavano, perché era quello che i clienti raccontavano a farlo così. C'erano la tettoia, il vapore che saliva dalle pentole, il neon che si rompeva nelle pozzanghere, l'insegna con la grossa mela rossa e il morso sul fianco. Dietro il bancone uno schermo trasmetteva in diretta un concerto punk, muto: un cantante che urlava senza voce, una folla che saltava senza fare rumore. Il bancone andava avanti a perdita d'occhio da tutte e due le parti, mentre tra uno sgabello e l'altro, quando Tom guardava meglio, ce n'era sempre un altro. Degli altri clienti non si vedeva un corpo. C'erano voci, nomi, il modo in cui ciascuno diceva le cose, così Tom capì subito che a nessuno lì sotto sarebbe venuto in mente di guardarsi il polso.
 
 «Ciao, stranger» disse il cameriere, con l'entusiasmo che riservava a chi non conosceva.
 
