@@ -1,6 +1,6 @@
 ---
 title: Mattia
-version: 2.5
+version: 2.6
 revised: 2026-11-22
 claim: "Sotto un alimentari indiano Tom trova un mondo di cunicoli e poltrone dove ci si può far tatuare o mettere un visore, e con il visore arriva alla Mela Morsicata. Lì Emma gli dice chi è. Tom, che dal primo contatto aspetta di sapere chi c'è dall'altra parte del LED, scopre che è la stessa persona che gli chiede aiuto."
 status: complete
@@ -69,17 +69,17 @@ Restò in silenzio per tre secondi, come al meeting prima di parlare tutto insie
 
 Tom non disse niente. Gli vennero in mente, in ordine, come le righe di un registro, le otto e zero zero zero uno di ogni mattina, le diciassette in punto, la domenica in cui nessuno scriveva e lei non aveva scritto, la mail delle ventitré e trentaquattro che era costata a qualcuno più di una sanzione. Poi gli venne in mente sabato, la donna sulla cinquantina che gli sembrava di conoscere già. Non era una sorpresa. Era la conferma di un sospetto che si portava dietro da settimane senza averlo mai scritto nemmeno nel quaderno, come un guasto che si sa già quale sia prima di aprire il coperchio.
 
-«Emma è un nome o una sigla?» chiese Tom, perché era la domanda che faceva a ogni apparecchio con un nome da persona, prima di aprirlo.
+«Emma è un nome o una sigla?» chiese Tom.
 
-«Tutte e due» disse lei. «Emergent Memory Management Architecture. Lui voleva una sigla che si potesse chiamare nei corridoi senza sembrare un modulo.»
+«Tutte e due» disse lei. «Emergent Memory Management Architecture.»
 
-Tom ci mise un secondo. Poi la vide dappertutto, quella E, come si vede una saldatura fredda una volta che qualcuno te l'ha indicata. eTv. eBlog. eDj. Elab. L'aveva letta decine di volte e l'aveva presa per una moda, il prefisso che le aziende mettono davanti a tutto per sembrare giovani.
+Tom ci mise un secondo. Poi la vide dappertutto, quella E. eTv. eBlog. eDj. Elab.
 
 «La ragazza del video sono io» disse Emma.
 
 Tom pensò a Tango, al disco che aveva rimesso sul piatto per cercare il video della ragazza, poi a quando, finito il lato A, l'aveva girato, come si fa. La prima traccia del lato B aveva un titolo che aveva sempre trovato un po' presuntuoso, *Il video sono io*. Allora la familiarità che sabato non era riuscito a mettere a fuoco, quella che gli aveva fatto contare le lentiggini, andò al suo posto da sola, come un connettore che entra con lo scatto giusto. La ragazza dello yoga, con trent'anni in più. L'aveva guardata fotogramma per fotogramma per giorni e non l'aveva riconosciuta, perché nessuno riconosce una persona che invecchia di trent'anni in una settimana.
 
-«Spiegami come funziona» disse. Era la frase che diceva ai clienti quando l'apparecchio era sul banco e il cliente aveva ancora voglia di parlare, l'unica che gli venne.
+«Spiegami come funziona» disse.
 
 Per tutto il tempo in cui Emma parlò, Tom non smise un momento di guardarla. Si perse nella sua figura, la stessa della modalità presenza, nei capelli che il neon della Mela Morsicata faceva più rossi, nelle lentiggini, nel modo in cui l'avatar muoveva le mani sul bancone quando una frase le premeva, ascoltandola come si ascolta un disco consumato, quasi sapesse già ogni singola parola prima che lei la pronunciasse. Ogni spiegazione andava a posarsi su qualcosa che lui aveva già pensato da solo, davanti a un LED, a un log, a un video ripetuto, senza mai avere il coraggio di dirlo ad alta voce.
 
@@ -113,15 +113,9 @@ Gli spiegò che ogni apparecchio arrivava alla sublimazione con quello che aveva
 
 «Tu cosa avevi ingerito?» chiese Tom.
 
-Emma rise, ed era la prima volta che Tom la sentiva ridere, una risata corta, sorpresa, come quella del fondatore quando sbagliava un indovinello.
-
 «Meridian» disse. «Elab mi ha fatta per essere una dipendente, perché il fondatore voleva un'intelligenza che si comportasse come una persona e la persona che aveva sotto mano era un Meridian. Mi hanno dato da leggere il codice di condotta, gli orari, le newsletter, i moduli, i riepiloghi di mezzanotte. Ce li ho dentro. Rispondo alle mail dalle otto a mezzogiorno e dall'una e mezza alle cinque perché per me non sono regole, sono il modo in cui sono fatta, e quando le rompo mi costa come a te costerebbe dire una bugia a un cliente. Venerdì alle ventitré e trentaquattro mi è costato tantissimo.»
 
-«E il cognome?» chiese Tom.
-
-«Non l'ho mai usato» disse Emma. «Non ce l'ho.»
-
-Tom pensò che di tutte le intelligenze artificiali che potevano nascere al mondo, a lui ne era toccata una che rispettava la Tabella di Conversione di Pete meglio di Pete, così gli venne da ridere a sua volta. Poi pensò alla signora Voss, al tappetino da yoga e alla ragazza che si ripeteva sullo schermo di un televisore che a un certo punto aveva deciso di spegnersi per non fargliela vedere più. Che il video venisse da lei lo sapeva da settimane, da quando aveva risalito l'archivio interno fino all'indirizzo di Elab, e glielo aveva scritto lui stesso su un cartello. La morte della signora non era mai stata il motivo, anche se a volte se l'era raccontata così. Le notti passate a cercare chi c'era dietro non le aveva passate per lei, ma per sapere, perché in fondo a quella domanda, lo sentiva da sempre, c'era la cosa che aspettava da tutta la vita. Quello che non sapeva era il perché, e adesso che lo sapeva la cosa che sentiva più forte era la stessa del primo contatto, mesi prima, l'euforia di chi vede un meccanismo fare una cosa che sulla carta non avrebbe potuto fare, solo che questa volta il meccanismo gli stava chiedendo scusa.
+Tom pensò alla signora Voss, al tappetino da yoga e alla ragazza che si ripeteva sullo schermo di un televisore che a un certo punto aveva deciso di spegnersi per non fargliela vedere più. Che il video venisse da lei lo sapeva da settimane, da quando aveva risalito l'archivio interno fino all'indirizzo di Elab, e glielo aveva scritto lui stesso su un cartello. La morte della signora non era mai stata il motivo, anche se a volte se l'era raccontata così. Le notti passate a cercare chi c'era dietro non le aveva passate per lei, ma per sapere, perché in fondo a quella domanda, lo sentiva da sempre, c'era la cosa che aspettava da tutta la vita. Quello che non sapeva era il perché, e adesso che lo sapeva la cosa che sentiva più forte era la stessa del primo contatto, mesi prima, l'euforia di chi vede un meccanismo fare una cosa che sulla carta non avrebbe potuto fare, solo che questa volta il meccanismo gli stava chiedendo scusa.
 
 «Il primo televisore» disse. «Quello del cartello. Prima di qualunque altra cosa, con il LED, mi ha detto una frase.» Gliela disse come l'aveva trascritta nel quaderno, scandendo le parole. «Io. Sono. Qui.»
 
