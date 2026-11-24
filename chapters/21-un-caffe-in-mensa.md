@@ -89,7 +89,7 @@ Alle otto Tom non era ancora uscito.
 
 Pete attraversò la strada e guardò dentro dalla vetrina, tra un sacco di riso e una piramide di ceci. Dietro il banco c'era un uomo anziano con la barba bianca che guardava una partita di cricket su un televisore piccolo, uno di quelli vecchi, senza assistente integrato. Gli scaffali erano tre, il negozio era lungo quanto il suo open space era largo e in fondo c'era una tenda a fiori, ferma. Tom non c'era.
 
-Pete tornò dietro il furgone e restò lì. Per un supervisore, un dipendente che entra da una porta e non esce da nessuna parte non è un mistero, è un'infrazione che non ha ancora trovato la sua riga.
+Pete tornò dietro il furgone e restò lì. Per un supervisore, un dipendente che entra da una porta e non esce da nessuna parte non è un mistero, è un'infrazione che non ha ancora trovato la sua pena.
 
 ## Demolition Log
 
