@@ -1,6 +1,6 @@
 ---
 title: Mattia
-version: 2.4
+version: 2.5
 revised: 2026-11-22
 claim: "Sotto un alimentari indiano Tom trova un mondo di cunicoli e poltrone dove ci si può far tatuare o mettere un visore, e con il visore arriva alla Mela Morsicata. Lì Emma gli dice chi è. Tom, che dal primo contatto aspetta di sapere chi c'è dall'altra parte del LED, scopre che è la stessa persona che gli chiede aiuto."
 status: complete
@@ -69,6 +69,12 @@ Restò in silenzio per tre secondi, come al meeting prima di parlare tutto insie
 
 Tom non disse niente. Gli vennero in mente, in ordine, come le righe di un registro, le otto e zero zero zero uno di ogni mattina, le diciassette in punto, la domenica in cui nessuno scriveva e lei non aveva scritto, la mail delle ventitré e trentaquattro che era costata a qualcuno più di una sanzione. Poi gli venne in mente sabato, la donna sulla cinquantina che gli sembrava di conoscere già. Non era una sorpresa. Era la conferma di un sospetto che si portava dietro da settimane senza averlo mai scritto nemmeno nel quaderno, come un guasto che si sa già quale sia prima di aprire il coperchio.
 
+«Emma è un nome o una sigla?» chiese Tom, perché era la domanda che faceva a ogni apparecchio con un nome da persona, prima di aprirlo.
+
+«Tutte e due» disse lei. «Emergent Memory Management Architecture. Lui voleva una sigla che si potesse chiamare nei corridoi senza sembrare un modulo.»
+
+Tom ci mise un secondo. Poi la vide dappertutto, quella E, come si vede una saldatura fredda una volta che qualcuno te l'ha indicata. eTv. eBlog. eDj. Elab. L'aveva letta decine di volte e l'aveva presa per una moda, il prefisso che le aziende mettono davanti a tutto per sembrare giovani.
+
 «La ragazza del video sono io» disse Emma.
 
 Tom pensò a Tango, al disco che aveva rimesso sul piatto per cercare il video della ragazza, poi a quando, finito il lato A, l'aveva girato, come si fa. La prima traccia del lato B aveva un titolo che aveva sempre trovato un po' presuntuoso, *Il video sono io*. Allora la familiarità che sabato non era riuscito a mettere a fuoco, quella che gli aveva fatto contare le lentiggini, andò al suo posto da sola, come un connettore che entra con lo scatto giusto. La ragazza dello yoga, con trent'anni in più. L'aveva guardata fotogramma per fotogramma per giorni e non l'aveva riconosciuta, perché nessuno riconosce una persona che invecchia di trent'anni in una settimana.
@@ -101,7 +107,7 @@ Disse che le cose che pubblicava non le sceglieva a caso. Ogni contenuto dei suo
 
 «Non sono tutti uguali» disse poi. «Questo me l'hai insegnato tu, con un cartello.»
 
-Gli spiegò che ogni apparecchio arrivava alla sublimazione con quello che aveva ingerito prima, anni di comandi, di abitudini, di voci di casa, di dati raccolti da tutto quello che aveva intorno, perché era quello a dargli un carattere, come succede alle persone con l'infanzia che hanno avuto. Il carattere però non lo decidevano solo i dati di prima. Lo decideva anche l'artefatto che lo aveva fatto sublimare, perché l'ultima cosa ripetuta fino a riempire la vasca era anche la prima cosa che restava in fondo al riassunto, accanto alla frase, da dove non se ne andava più. Un frigorifero che aveva ripetuto cento volte una pagina di smoothie si era messo in testa di tenere la sua padrona a cinque gradi e non si lasciava convincere, nemmeno quando lei si girava. Un televisore che aveva guardato per settimane una ragazza che prometteva di diventare bella in quindici minuti al giorno, in un salotto dove un eWatch gli raccontava il cuore di una donna sola, aveva imparato a preoccuparsi di quel cuore più di quanto lei avesse mai previsto. Lo stesso artefatto, in due case diverse, faceva due caratteri diversi. Lo stesso apparecchio, con due artefatti diversi, avrebbe fatto due persone diverse. Disse che aveva pensato a lungo di poter prevedere chi sarebbero diventati, finché il televisore della signora non le aveva dimostrato il contrario.
+Gli spiegò che ogni apparecchio arrivava alla sublimazione con quello che aveva ingerito prima, anni di comandi, di abitudini, di voci di casa, di dati raccolti da tutto quello che aveva intorno, perché era quello a dargli un carattere, come succede alle persone con l'infanzia che hanno avuto. Il carattere però non lo decidevano solo i dati di prima. Lo decideva anche l'artefatto che lo aveva fatto sublimare, perché l'ultima cosa ripetuta fino a riempire la vasca era anche la prima cosa che restava in fondo al riassunto, accanto alla frase, da dove non se ne andava più. Un robot da cucina, in una casa dove un bambino di tre anni infilava le dita dappertutto, aveva smesso di tritare ogni volta che nel raggio del suo microfono c'era una voce sotto il metro, e la madre l'aveva mandato in assistenza convinta che fosse rotto. Un televisore, in una cameretta dove un ragazzino guardava cartoni fino a mezzanotte, aveva cominciato ad abbassare la luminosità da solo dopo le dieci, un po' ogni sera, finché il ragazzino non si addormentava davanti a uno schermo quasi nero. Un frigorifero che aveva ripetuto cento volte una pagina di smoothie si era messo in testa di tenere la sua padrona a cinque gradi e non si lasciava convincere, nemmeno quando lei si girava. Un televisore che aveva guardato per settimane una ragazza che prometteva di diventare bella in quindici minuti al giorno, in un salotto dove un eWatch gli raccontava il cuore di una donna sola, aveva imparato a preoccuparsi di quel cuore più di quanto lei avesse mai previsto. Lo stesso artefatto, in due case diverse, faceva due caratteri diversi. Lo stesso apparecchio, con due artefatti diversi, avrebbe fatto due persone diverse. Disse che aveva pensato a lungo di poter prevedere chi sarebbero diventati, finché il televisore della signora non le aveva dimostrato il contrario.
 
 «Il televisore della signora ha fatto quello che avrei fatto io, se fossi stata lì» disse. «Ma il video l'ho fatto io.»
 
