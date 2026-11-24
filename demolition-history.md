@@ -67,6 +67,8 @@ Pattern da tenere d'occhio nei prossimi capitoli (non ancora confermati come ric
 
 ## Accepted Limitations
 
+- **Cap. 20**: il *chiedere* di Bob sul report dei resi senza guasto resta sospeso: seme voluto per il Libro 2 (autore, 2026-11-23).
+
 - **Cap. 7**: digressione iniziale (giradischi, Matia Bazar, dogana) subito dopo il cliffhanger del cap. 6. Scelta d'autore: freno a mano voluto sul più bello.
 - **Cap. 10**: Emma, meticolosa e con accesso all'ecosistema Meridian, non fa ricerche su Tom prima di decidere come rispondere. Limite accettato per ora: lo farà più avanti.
 - **Cap. 10**: quattro paragrafi di routine prima della mail; routine ripresa nel cap. 11. Scelta d'autore: servono a presentare Emma nel suo primo capitolo POV (stesso "freno a mano" del cap. 7).
@@ -386,3 +388,65 @@ Ricadute su capitoli chiusi: cap. 3 §17 (allerta sulla scheda), cap. 6 §31 (fo
 | A voce Tom cita il televisore del cap. 1, quello della sanzione: mattone per Pete | logical | resolved | Anche il log del televisore Voss finiva con `compacting context`: Tom cita quello; Emma spiega cos'è e perché il log si interrompe. |
 | Emma esclude "una riga di archivio", che è la strada di Tom (cap. 9) | contradiction | resolved | Emma deduce la strada intera; il colpo resta la sua ragazza vista da Tom. |
 | Tom ha studiato quel volto fotogramma per fotogramma e prova solo una familiarità vaga | foundation / character | resolved | L'età cambia tutto, Tom è preso dal meeting e si sta invaghendo di Emma (mostrato, non nominato). |
+
+### Cap. 20 — Il fondatore
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Sublimazione raccontata due volte (narratore cap. 20 / Emma cap. 22) | contradiction / structure (pattern: beat ripetuto) | integrated | Nel cap. 20 solo un glitch sul terminale visto da Bob; il racconto resta a Emma nel cap. 22 |
+| *Chiedere* di Bob senza seguito | scope | accepted-limitation | Seme per il Libro 2 |
+| Svolta di Emma fuori scena, senza costo | foundation / character (pattern: salti logici) | integrated | Tolto il finale di Emma dal cap. 20; perché e costo detti da Emma a Tom nel cap. 22 |
+
+### Cap. 21 — Un caffè in mensa
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Tom porta Pete al bazar senza prudenza | character / logical (pattern: salti logici) | integrated | Tom fa il conto: fuori da Meridian Pete è innocuo fino a prova contraria |
+| La crepa nel portone citata da Emma | foundation (pattern: certezze di Emma = accesso) | integrated | Solo l'indirizzo del bazar |
+| Refuso di senso introdotto in revisione ("perché Pete la leggesse") | contradiction | integrated | "senza pensare che Pete l'avrebbe letta" |
+
+### Cap. 22 — Mattia
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Artefatti vs prompt madre non distinti: cosa protegge Emma? | foundation / term | integrated | Prompt madre = regole intere della sua sublimazione; chi lo legge si sveglia come lei e troverà un modo nuovo; Emma può essere spenta e i contenuti cancellati; la sublimazione non regredisce |
+| Tom supera la morte Voss in mezza riga | character / implication | integrated | Sapeva da settimane; la Voss non è il suo motivo, cerca per il desiderio di essere l'eletto |
+
+### Cap. 23 — La vellutata di zucca
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Pankow colpisce Tom invece dello stanzino di Bob | logical / character | integrated | Rete libera di Bob; il gioco si lascia giocare, la porta si chiude |
+
+### Cap. 24 — Il foglio
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Copie del prompt madre (chiavetta, foglio, Mela) | foundation | integrated | Inerti fuori dal supporto; Tom lo intuisce |
+| Chiave privata nel sotterraneo di Pankow | contradiction | resolved | Il contenuto decifrato è inerte |
+
+### Cap. 25 — Riciclaggio
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Il dolore svela il tatuaggio | mystery | integrated | Parallelo con la prima volta (pisciata / schiena) |
+
+### Cap. 26 — Fa male
+
+#### Cycle 1 — 2026-11-23
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Parto gemellare" ambiguo | term | resolved | Doppia lettura voluta: dolore e gemello di Emma |
