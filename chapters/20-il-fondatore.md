@@ -15,7 +15,7 @@ Il carrello gli passò davanti senza rallentare. Pete lo seguì con gli occhi co
 
 «Anch'io un giorno avrò un carrello che mi porta il caffè» disse, a voce alta, a nessuno in particolare.
 
-«Glielo auguro» disse un uomo che usciva in quel momento da una porta, con una tazzina in mano. Aveva i capelli bianchi tagliati corti, una camicia azzurra senza cravatta e le maniche arrotolate, come chi in un'altra vita aveva saldato qualcosa. «È l'unica cosa di questo piano che funziona sempre.»
+«Glielo auguro» disse un uomo che usciva in quel momento da una porta, con una tazzina in mano. Aveva i capelli bianchi tagliati corti, una camicia azzurra senza cravatta e le maniche arrotolate, che gli davano un'aria giovane e indaffarata nonostante i sessant'anni passati. «È l'unica cosa di questo piano che funziona sempre.»
 
 Pete gli fece un cenno con il mento, da Agent Smith a un impiegato qualunque, poi tornò verso l'ascensore. Solo davanti alle porte che si chiudevano si accorse di aver visto quella faccia sul ritratto appeso all'ingresso, nella hall, sopra la scritta *Bob, il nostro fondatore e amministratore delegato*, l'unico dipendente di Meridian a cui il codice di condotta concedesse un nome in una cornice. Premette il pulsante del piano terra tre volte, come si fa con un telecomando che non risponde, mentre l'ascensore, che rispondeva benissimo, scendeva alla sua velocità.
 
