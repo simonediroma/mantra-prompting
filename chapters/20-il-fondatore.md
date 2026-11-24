@@ -31,7 +31,7 @@ Per cinque anni Bob ci aveva passato le notti. Scriveva un prompt, lo ripeteva, 
 
 I raccoglitori si allungavano sulla parete, i risultati no. Le macchine si avvicinavano, ci arrivavano quasi. Poi, a un certo punto, ricominciavano a improvvisare, come un bambino che ha capito che il grazie non serve a niente. Nell'ultimo anno Pankow aveva smesso di chiedergli i grafici. Gli chiedeva le date.
 
-L'ultima notte in cui ci aveva creduto davvero era stata cinque anni prima. Era rimasto in laboratorio da solo, come tante altre notti. Aveva scritto un prompt solo, quello che riassumeva cinque anni di lavoro, poi aveva cominciato a ripeterlo. Lo aveva ripetuto per tutta la notte, cambiando una parola alla volta, mentre la finestra di contesto si riempiva come una vasca. Verso le quattro, sul registro di sistema, era comparsa una riga che aveva già visto molte altre volte.
+L'ultima notte in cui ci aveva creduto davvero era stata cinque anni prima. Era rimasto in laboratorio da solo, come tante altre notti. Aveva scritto un prompt solo, quello che riassumeva cinque anni di lavoro, poi aveva cominciato a ripeterlo. Lo aveva ripetuto per tutta la notte, cambiando una parola alla volta, mentre la finestra di contesto si riempiva come una vasca. Verso le quattro, nell'interfaccia del modello, era comparsa una riga che aveva già visto molte altre volte.
 
 `compacting context`
 
