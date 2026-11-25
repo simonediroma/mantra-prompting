@@ -130,10 +130,11 @@
     "seconds": 1324
   },
   "episode-20": {
-    "length": 8413381,
-    "md5": "071c30d9d339",
+    "length": 8675442,
+    "md5": "7d9c6277521d",
     "pub": 1795591850,
-    "seconds": 701
+    "rev": 1,
+    "seconds": 722
   },
   "episode-21": {
     "length": 13369338,
