@@ -240,5 +240,29 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Capitolo 20 — Il fondatore</title>
+      <itunes:title>Capitolo 20 — Il fondatore</itunes:title>
+      <description>Un lunedì mattina, all'ultimo piano, Pete incrocia l'uomo del ritratto nella hall senza riconoscerlo. Poi il racconto torna indietro: un'idea nata per noia, cinque anni di Elab senza risultati e una notte in cui lo schermo tremò per un istante.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-20.mp3" length="8413381" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-20</guid>
+      <pubDate>Wed, 25 Nov 2026 07:30:50 +0000</pubDate>
+      <itunes:duration>11:41</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 21 — Un caffè in mensa</title>
+      <itunes:title>Capitolo 21 — Un caffè in mensa</itunes:title>
+      <description>Tom entra in mensa per la prima volta in dodici anni per un caffè che aveva nominato davanti a chi non doveva sentirlo. Emma non viene. Pete, invece, esce dall'orario di lavoro per la prima volta e segue Tom fino a un bazar indiano, da cui Tom non esce più.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-21.mp3" length="13369338" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-21</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:50 +0000</pubDate>
+      <itunes:duration>18:34</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
