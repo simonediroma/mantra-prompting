@@ -16,7 +16,7 @@ Nell'episodio precedente, Emma ha seguito Tom per una settimana e venerdì sera,
 # Capitolo diciassette. Il bivio
 
 [sfx ewatch-mail]
-L'eWatch lo svegliò alle undici e trentaquattro di venerdì con il doppio ronzio delle mail, *bzz bzz*, che sul comodino, al buio, sembrava durare il doppio. Quando Tom lo trovò a tentoni accanto al bicchiere vuoto il quadrante si era già spento, perché un eWatch dava la notizia e tornava a dormire prima di chi la riceveva. Il computer no. Era rimasto aperto sul tavolo della cucina e aveva ricevuto la stessa notifica dell'orologio, senza spegnersi dopo tre secondi.
+L'eWatch lo svegliò alle undici e trentaquattro di venerdì con il doppio ronzio delle mail, *bzz bzz*, che sul comodino, al buio, sembrava durare il doppio. Quando Tom lo trovò a tentoni accanto al bicchiere vuoto il quadrante si era già spento, perché un eWatch dava la notizia e tornava a dormire prima di chi la riceveva. Il computer no. Era rimasto aperto sul tavolo della cucina e aveva ricevuto la stessa notifica dell'orologio, perché Meridian, per il benessere dei dipendenti, faceva arrivare le notifiche di lavoro su ogni dispositivo collegato al loro account, così che nessuno si sentisse tagliato fuori, e a nessuno mancasse l'occasione di sbagliare. Solo che il computer, a differenza dell'orologio, non si spegneva dopo tre secondi.
 
 Si alzò senza accendere niente. Il pavimento della cucina era freddo, il frigorifero ronzava per conto suo, come fanno i frigoriferi di notte, quasi amplificato dal silenzio della casa, mentre lo schermo faceva sul tavolo un rettangolo bianco che arrivava fino alla tazza del caffè della mattina, ancora piena. Nel riquadro delle notifiche c'era una riga sola, troncata dove finiva lo spazio.
 

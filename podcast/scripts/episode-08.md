@@ -23,7 +23,7 @@ Poi guardò i numeri. Ogni video aveva decine di migliaia di visualizzazioni, ma
 
 Controllò anche le date di pubblicazione, sperando in un ritmo, qualcosa che tradisse un calendario editoriale dietro le quinte. Non ne trovò nessuno. Giorni saltati a caso, raffiche di tre video in un'ora, poi settimane di silenzio. Questo, invece, non tornava. Chi vuole più visualizzazioni possibili pubblica con regolarità, lo sa chiunque abbia aperto un canale. Su eTv sembrava che nessuno ne avesse mai sentito il bisogno.
 
-Non era più, a questo punto, un video isolato caricato per sbaglio da qualcuno con troppo tempo libero. Era un'operazione, sistematica quanto anonima, un supermercato aperto di notte con tutte le luci accese e nessuno alla cassa. Qualcuno, o qualcosa, stava producendo contenuti su scala, senza lasciarsi dietro la minima traccia di chi fosse.
+Non era più, a questo punto, un video isolato caricato per sbaglio da qualcuno con troppo tempo libero. Era un'operazione, sistematica quanto anonima, un supermercato aperto di notte con tutte le luci accese e nessuno alla cassa. Qualcuno, o qualcosa, stava producendo contenuti su scala.
 
 Erano ormai le undici passate e la stanza si era raffreddata. Domani, con la testa più fresca, avrebbe provato a capire con quale intelligenza artificiale fosse stato generato quel video. Era un passo nel vuoto, ma ogni strumento ha i suoi clienti. Tra quelli, forse, c'era anche chi stava dietro eTv.
 
