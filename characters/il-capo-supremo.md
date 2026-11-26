@@ -8,6 +8,7 @@ version: 0.1
 # Pankow, il capo supremo
 
 **Nomi (autore, 2026-11-22)**: si fa chiamare Pankow dall'università, dove era compagno di corso di Bob (il fondatore di Elab); così lo chiamano ancora gli altri fondatori. Il fondatore poliziotto è **Maurice**. Il soprannome "il Prof" per Bob è superato: i due lo chiamano Bob.
+**Nome vero (autore, 2026-11-26)**: anche lui si chiama Bob; Pankow è il soprannome nato all'università «per non sbagliarsi» tra i due Bob. Con Bob, Maurice e il quarto (l'innominabile) ha condiviso dieci anni di università e la fondazione di Meridian (cap. 20).
 
 Introdotto nel cap. 23 (autore, 2026-11-22).
 
