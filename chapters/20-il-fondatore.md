@@ -11,7 +11,7 @@ Alle dieci in punto, nell'ala dove lavoravano le persone che in Meridian non ave
 
 Pete era lì da dieci minuti. Era salito all'ultimo piano per chiedere all'ufficio degli ispettori interni il modulo per la richiesta d'intervento ispettivo, con la giacca abbottonata e gli occhiali da sole nel taschino, perché un uomo che chiede un modulo agli ispettori deve sembrare uno che un giorno quel modulo lo riceverà. La segretaria gli aveva sorriso e gli aveva detto che il modulo era sulla intranet, nella sezione Moduli, sotto la voce Moduli, il che a Pete era sembrato un modo molto elegante di mandarlo via. Si era fermato nel corridoio a guardare le porte. Avevano tutte una targhetta e davano su stanze con infissi, finestre e pareti, senza i pannelli divisori che separavano dalla vista dei colleghi ma non dai loro rumori, odori e umori.
 
-Il carrello gli passò davanti senza rallentare. Pete lo seguì con gli occhi come al liceo seguiva le ragazze dell'ultimo anno, sapendo che non era roba per lui e trovandolo profondamente ingiusto.
+Il carrello gli passò davanti senza rallentare. Pete lo seguì con gli occhi come al liceo seguiva le ragazze dell'ultimo anno, sapendo che non era roba per lui.
 
 «Anch'io un giorno avrò un carrello che mi porta il caffè» disse, a voce alta, a nessuno in particolare.
 
