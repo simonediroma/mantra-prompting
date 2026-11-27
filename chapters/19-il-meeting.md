@@ -24,7 +24,7 @@ Tom aveva preparato la frase, perché era l'unica che si potesse preparare. Non 
 
 Emma rimase tre secondi in silenzio, il tempo che nessuno, in una call, tollerava. Poi parlò tutto insieme. Disse che lo ringraziava di averle dato il suo tempo, che sapeva quanto fosse strano un meeting per un tecnico, che la mail che gli aveva scritto alle undici e mezza di notte era stata fuori luogo e che se ne scusava, che però la domanda restava, perché la signora era morta e lei non riusciva a togliersi dalla testa quel televisore. Voleva sapere se la signora ne avesse avuto paura. Se qualcuno, prima di Tom, avesse visto qualcosa. Parlava senza prendere fiato, come chi ha paura che, se si ferma, l'altro capisca qualcosa dalle pause.
 
-Tom alzò una mano, piano, e la interruppe.
+Tom alzò una mano, piano.
 
 «Scusa se ti interrompo» disse. «Prima di cominciare, per la trascrizione.» Si schiarì la voce e guardò un punto a metà tra lo schermo e il soffitto, dove immaginava che la trascrizione stesse in ascolto. «Revisione post-intervento, televisore della serie da salotto con assistente integrato, rientrato con il lotto del ricondizionamento. Richiesta di consulenza al laboratorio Elab sul comportamento dei log di sistema. Partecipanti, Tom, Divisione Assistenza Tecnica, ed Emma, Elab.»
 
