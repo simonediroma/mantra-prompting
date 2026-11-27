@@ -15,7 +15,7 @@ Il carrello gli passò davanti senza rallentare. Pete lo seguì con gli occhi co
 
 «Anch'io un giorno avrò un carrello che mi porta il caffè» disse, a voce alta, a nessuno in particolare.
 
-«Glielo auguro» disse un uomo che usciva in quel momento da una porta, con una tazzina in mano. Aveva i capelli bianchi tagliati corti, una camicia azzurra senza cravatta e le maniche arrotolate, che gli davano un'aria giovane e indaffarata nonostante i sessant'anni passati. «È l'unica cosa di questo piano che funziona sempre.»
+«Glielo auguro» disse un uomo che usciva in quel momento da una porta, con una tazzina in mano. Aveva i capelli bianchi tagliati corti, una camicia azzurra senza cravatta e le maniche arrotolate, che gli davano un'aria giovanile e indaffarata nonostante i sessant'anni passati. «È l'unica cosa di questo piano che funziona sempre.»
 
 Pete gli fece un cenno con il mento, da agente Smith a un impiegato qualunque, poi tornò verso l'ascensore. Davanti alle porte che si chiudevano si rese conto, con un ritardo che un supervisore non avrebbe dovuto permettersi, che quella faccia l'aveva vista in ogni video di benvenuto, in ogni convention, in ogni messaggio di fine anno. Era Bob, il fondatore e amministratore delegato, e lui, troppo assorto ad assaporare fin dove potesse arrivare vendicando l'agente Smith, l'aveva trattato come uno dei suoi sottoposti. Premette il pulsante del piano terra tre volte, come si fa con un telecomando che non risponde, mentre l'ascensore scendeva alla sua velocità.
 
