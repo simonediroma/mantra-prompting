@@ -34,7 +34,7 @@ Emma lo guardò. Per la trascrizione. Tom si aspettava di essere ascoltato e sta
 
 Emma restò un attimo ferma sulla parola sintassi. Poi l'avatar raddrizzò le spalle.
 
-«Allora te lo chiedo da collega» disse. Le uscì con la voce che usava per scrivere le mail delle otto. «Puoi aiutarmi, collega?»
+«Allora parliamo da colleghi» disse. Le uscì con la voce che usava per scrivere le mail delle otto. «In che cosa posso aiutarti?»
 
 «Per questo ti ho chiamata.» Tom prese un foglio dal blocco e lo mise sul banco, davanti a sé, mentre girava appena lo sgabello, quanto bastava perché la schiena, dalla porta, coprisse tutto il piano. «Il punto tecnico è questo. Sul televisore della signora, quando è arrivato in assistenza, il log di sistema si interrompeva di netto. Nessun errore, nessun crash, nessuna sequenza di spegnimento. L'ultima riga era compacting context.» Mentre lo diceva, il pennarello andava sul foglio, a stampatello, grosso. «Io quella riga la conosco perché la vedo sui modellini di casa, quando la memoria dell'assistente si riempie e lui riassume quello che ha capito per ricominciare. Su un televisore in commercio non me l'aspettavo. Vorrei sapere da voi se è un comportamento previsto.»
 
