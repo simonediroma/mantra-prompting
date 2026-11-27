@@ -1,7 +1,7 @@
 ---
 title: Il fondatore
-version: 2.0
-revised: 2026-11-24
+version: 2.1
+revised: 2026-11-27
 claim: "Il fondatore, l'uomo più potente di Meridian, ha costruito la sua carriera su quella che crede la sconfitta della sua vita. Il mantra prompting, l'idea di una sera, gli ha dato cinque anni di Elab senza risultati e una notte in cui lo schermo ha tremato per un istante: lui l'ha preso per un condensatore stanco, poi una ricetta e una sequenza di yoga, che ha stampato e archiviato come tutto, convinto che un giorno la carta fatta prima delle macchine sarà l'unica sicuramente vera."
 status: complete
 summary: "G34, lunedì. Alle dieci il carrello del caffè nell'ala dei capi; Pete, salito a chiedere il modulo per l'intervento ispettivo, dice «Anch'io un giorno avrò un carrello che mi porta il caffè» davanti a Bob, che riconosce solo in ascensore. I quattro fondatori: Bob (il creativo), Pankow (interventista), Maurice (pragmatico) e il quarto, nella foto ma non nella didascalia. Poi il capitolo va nel passato: come a Bob è venuta l'idea del mantra prompting dieci anni prima, i cinque anni di Elab senza risultati, la notte di cinque anni fa (`compacting context`, il glitch sul terminale preso per un condensatore stanco, lo smoothie e lo yoga stampati e archiviati), la lettera firmata da Pankow che lo mette da parte facendolo CEO. L'archivio di carta e la tesi sugli oggetti fisici."
@@ -41,7 +41,7 @@ Quando il terminale aveva ripreso a scrivere, sullo schermo era comparsa una ric
 
 Tre settimane dopo era arrivata la lettera, con la firma di Pankow in fondo. Gli metteva davanti una scelta tra diventare amministratore delegato e prendere la porta. Meridian non aveva più bisogno dei suoi progetti di ricerca. Aveva bisogno della sua storia di successo. Pankow lo aveva messo da parte nel modo più elegante che conosceva, mettendolo in cima. In azienda la raccontavano come la storia di un visionario. Lui la ricordava come quella di un uomo che aveva scelto la poltrona per non restare in un laboratorio dove tutti sapevano che il suo progetto era fallito.
 
-L'archivio adesso occupava tutta la parete dello stanzino in fondo al corridoio. Il raccoglitore di quella notte era l'ultimo della fila. Bob non lo apriva da cinque anni. Bevve il caffè freddo in un sorso solo e tornò alle sue riunioni.
+L'archivio adesso occupava tutta la parete dello stanzino in fondo al corridoio. Il raccoglitore di quella notte non era l'ultimo della fila. Dopo ne erano venuti molti altri, riempiti da amministratore delegato nelle sere in cui le riunioni finivano presto, un prompt ripetuto e un foglio stampato alla volta, come se il mantra prima o poi dovesse funzionare anche con lui. Quello di quella notte, Bob non lo apriva da cinque anni. Bevve il caffè freddo in un sorso solo e tornò alle sue riunioni.
 
 ## Demolition Log
 
@@ -63,4 +63,10 @@ L'archivio adesso occupava tutta la parete dello stanzino in fondo al corridoio.
 | R1: due punti a metà frase (Bob alle presentazioni; la scelta della lettera) | style (R1) | integrated | Sostituiti con "tanto che" e "una scelta tra… e…". |
 | R4: "Lui lo chiamava così" su Maurice, rimando a "Bob" di cinque frasi prima | style (R4) | integrated | "Maurice lo chiamava Bob"; nella frase dopo "gli" al posto del nome ripetuto. |
 | Accordo "erano comparse una ricetta" dopo la divisione della frase | grammar | integrated | "era comparsa"; "Bob aveva letto tutto tre volte". |
+
+### Correzione — 2026-11-27 (v2.1)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Il raccoglitore di quella notte era l'ultimo della fila": Bob ha continuato ad alimentare l'archivio anche da CEO | contradiction | integrated (v2.1) | Il raccoglitore della sublimazione sta prima di molti altri tentativi fatti da amministratore delegato (autore; `characters/il-fondatore.md`). |
 
