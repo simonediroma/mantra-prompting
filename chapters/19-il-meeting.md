@@ -28,7 +28,7 @@ Tom alzò una mano, piano.
 
 «Scusa se ti interrompo» disse. «Prima di cominciare, per la trascrizione.» Si schiarì la voce e guardò un punto a metà tra lo schermo e il soffitto, dove immaginava che la trascrizione stesse in ascolto. «Revisione post-intervento, televisore della serie da salotto con assistente integrato, rientrato con il lotto del ricondizionamento. Richiesta di consulenza al laboratorio Elab sul comportamento dei log di sistema. Partecipanti, Tom, Divisione Assistenza Tecnica, ed Emma, Elab.»
 
-Emma lo guardò. Per la trascrizione. Nessuno le aveva detto che il meeting venisse trascritto, ma Tom lo sapeva, oppure lo temeva, il che per un tecnico era la stessa cosa. Capì in quel momento il «meeting in presenza», la mail senza il ciao, l'invito accettato senza una parola. Tom non le stava rispondendo. Stava dettando.
+Emma lo guardò. Per la trascrizione. Tom si aspettava di essere ascoltato e stava reagendo a una cosa che aveva previsto. Capì in quel momento il «meeting in presenza», la mail senza il ciao, l'invito accettato senza una parola. Tom non le stava rispondendo. Stava dettando.
 
 «Della paura dei clienti non mi occupo» disse Tom, con il tono di chi legge una scheda. «Mi occupo dei sintomi. E i sintomi, in questo caso, avevano una loro sintassi.»
 
