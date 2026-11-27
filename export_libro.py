@@ -31,6 +31,13 @@ from reportlab.platypus.tableofcontents import TableOfContents
 
 ROOT = Path(__file__).resolve().parent
 TITOLO, SOTTOTITOLO, AUTORE = "Mantra Prompting", "Incontrando Emma", "Simone Razzano"
+LICENZA = "CC BY-NC-ND 4.0"
+LICENZA_URL = "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it"
+CONTATTO = "simone.razzano@gmail.com"
+NOTA_LICENZA = (f"Quest'opera è distribuita con licenza Creative Commons Attribuzione - Non commerciale - "
+                f"Non opere derivate 4.0 Internazionale ({LICENZA}): {LICENZA_URL}. "
+                f"Chi la condivide deve citare autore e titolo originale. "
+                f"Per qualsiasi uso commerciale scrivere a {CONTATTO}.")
 FONT_DIR = Path("/usr/share/fonts/truetype/liberation")
 FONT = {"Serif": "LiberationSerif-Regular", "Serif-Bold": "LiberationSerif-Bold", "Serif-Italic": "LiberationSerif-Italic",
         "Serif-BoldItalic": "LiberationSerif-BoldItalic", "Mono": "LiberationMono-Regular", "Mono-Bold": "LiberationMono-Bold"}
@@ -127,7 +134,7 @@ def pdf(caps, dest):
           Paragraph(AUTORE, ParagraphStyle("a", fontName="Serif", fontSize=12, leading=16, alignment=TA_CENTER)),
           PageBreak(),
           Spacer(1, 120 * mm),
-          Paragraph(f"{TITOLO}: {SOTTOTITOLO}<br/>© {date.today().year} {AUTORE}<br/>Tutti i diritti riservati.<br/><br/>"
+          Paragraph(f"{TITOLO}: {SOTTOTITOLO}<br/>© {date.today().year} {AUTORE}<br/><br/>{NOTA_LICENZA}<br/><br/>"
                     "Questo libro è un'opera di fantasia. Nomi, personaggi, aziende, luoghi ed eventi sono frutto "
                     "dell'immaginazione dell'autore o sono usati in modo fittizio.",
                     ParagraphStyle("c", fontName="Serif", fontSize=8.5, leading=12)),
@@ -189,7 +196,7 @@ def epub(caps, dest):
     uid = "urn:uuid:" + str(uuid.uuid5(uuid.NAMESPACE_URL, "https://simonediroma.github.io/mantra-prompting"))
     tag = dict(b="strong", i="em", mono="<code>%s</code>")
     file = [("fronte.xhtml", TITOLO, f'<div class="fronte"><h1>{TITOLO}</h1><p><em>{SOTTOTITOLO}</em></p><p>&#160;</p>'
-             f'<p>{AUTORE}</p><p>&#160;</p><p>© {date.today().year} {AUTORE}. Tutti i diritti riservati.</p></div>')]
+             f'<p>{AUTORE}</p><p>&#160;</p><p>© {date.today().year} {AUTORE}.</p><p>{escape(NOTA_LICENZA)}</p></div>')]
     for c in caps:
         h = [f'<h1><span>{c["n"]}</span>{escape(c["titolo"])}</h1>']
         primo = True
@@ -207,7 +214,7 @@ def epub(caps, dest):
     opf = (f'<?xml version="1.0" encoding="utf-8"?>\n<package xmlns="http://www.idpf.org/2007/opf" version="3.0" '
            f'unique-identifier="id" xml:lang="it"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">'
            f'<dc:identifier id="id">{uid}</dc:identifier><dc:title>{TITOLO}: {SOTTOTITOLO}</dc:title>'
-           f'<dc:creator>{AUTORE}</dc:creator><dc:language>it</dc:language>'
+           f'<dc:creator>{AUTORE}</dc:creator><dc:language>it</dc:language><dc:rights>{LICENZA} {LICENZA_URL}</dc:rights>'
            f'<meta property="dcterms:modified">{date.today().isoformat()}T00:00:00Z</meta></metadata>'
            f'<manifest><item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>'
            f'<item id="css" href="stile.css" media-type="text/css"/>{manifest}</manifest><spine>{spine}</spine></package>')

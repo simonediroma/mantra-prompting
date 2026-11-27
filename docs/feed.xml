@@ -28,10 +28,10 @@
       <title>Capitolo 2 — Stallo burocratico</title>
       <itunes:title>Capitolo 2 — Stallo burocratico</itunes:title>
       <description>Meridian misura il mondo in minuti e secondi. La curiosità di Tom ne ha sforati dodici.</description>
-      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-02.mp3?v=1" length="6823155" type="audio/mpeg"/>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-02.mp3?v=2" length="6709993" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-02</guid>
       <pubDate>Fri, 23 Oct 2026 07:56:35 +0000</pubDate>
-      <itunes:duration>9:28</itunes:duration>
+      <itunes:duration>9:19</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -219,11 +219,11 @@
     <item>
       <title>Capitolo 18 — La richiesta di meeting</title>
       <itunes:title>Capitolo 18 — La richiesta di meeting</itunes:title>
-      <description></description>
-      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-18.mp3?v=2" length="12604792" type="audio/mpeg"/>
+      <description>Una mail della notte aspetta Tom con una parola sbagliata, che lui non può correggere per iscritto. Così chiede a Emma l'unica cosa che una casella di Meridian non può leggere: vedersi di persona.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-18.mp3?v=3" length="12860896" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-18</guid>
       <pubDate>Fri, 13 Nov 2026 21:41:46 +0000</pubDate>
-      <itunes:duration>17:30</itunes:duration>
+      <itunes:duration>17:51</itunes:duration>
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -231,12 +231,36 @@
     <item>
       <title>Capitolo 19 — Il meeting</title>
       <itunes:title>Capitolo 19 — Il meeting</itunes:title>
-      <description></description>
-      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-19.mp3?v=1" length="15755459" type="audio/mpeg"/>
+      <description>Alle tre Tom ed Emma si incontrano per la prima volta, mentre qualcuno li guarda da dietro una telecamera con sette scatti a disposizione. A voce, una consulenza tecnica impeccabile; su un blocco di fogli, tutto il resto. Chiude il Libro 1.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-19.mp3?v=2" length="15889938" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-19</guid>
       <pubDate>Fri, 13 Nov 2026 22:41:46 +0000</pubDate>
-      <itunes:duration>21:52</itunes:duration>
+      <itunes:duration>22:04</itunes:duration>
       <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 20 — Il fondatore</title>
+      <itunes:title>Capitolo 20 — Il fondatore</itunes:title>
+      <description>Un lunedì mattina, all'ultimo piano, Pete incrocia l'uomo del ritratto nella hall senza riconoscerlo. Poi il racconto torna indietro: un'idea nata per noia, cinque anni di Elab senza risultati e una notte in cui lo schermo tremò per un istante.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-20.mp3?v=1" length="8675442" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-20</guid>
+      <pubDate>Wed, 25 Nov 2026 07:30:50 +0000</pubDate>
+      <itunes:duration>12:02</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitolo 21 — Un caffè in mensa</title>
+      <itunes:title>Capitolo 21 — Un caffè in mensa</itunes:title>
+      <description>Tom entra in mensa per la prima volta in dodici anni per un caffè che aveva nominato davanti a chi non doveva sentirlo. Emma non viene. Pete, invece, esce dall'orario di lavoro per la prima volta e segue Tom fino a un bazar indiano, da cui Tom non esce più.</description>
+      <enclosure url="https://simonediroma.github.io/mantra-prompting/episodes/episode-21.mp3" length="13369338" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-21</guid>
+      <pubDate>Wed, 25 Nov 2026 08:30:50 +0000</pubDate>
+      <itunes:duration>18:34</itunes:duration>
+      <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

@@ -1,12 +1,12 @@
 ---
 title: Stallo burocratico
-version: 3.6
-revised: 2026-11-01
+version: 3.7
+revised: 2026-11-18
 claim: "Tom scopre il prezzo istituzionale della propria curiosità, una sanzione minima ma precisa: impara non a smettere di indagare, ma a farlo con più cautela, proprio mentre perde l'accesso diretto al televisore anomalo."
 status: complete
 ---
 
-Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note, *dlin*, pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva a ogni inizio turno dal corridoio, sotto il fruscio del nastro che portava i primi apparecchi del turno verso le stanze dei tecnici, prima ancora di aprire la propria porta. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
+Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tre note, *dlin*, pensato, a detta dell'ufficio HR, per "mettere il dipendente di buon umore all'inizio della giornata lavorativa". Tom lo sentiva a ogni inizio turno dal suo banco, sotto il fruscio del nastro che portava i primi apparecchi verso le stanze dei tecnici. Quel giorno le tre note suonarono identiche al solito, il che rendeva ancora più ingiusto, secondo Tom, che ad accoglierlo ci fosse un'icona rossa lampeggiante in alto a destra, quella riservata alle comunicazioni di "rilevanza personale", un eufemismo che in dodici anni non aveva mai introdotto una sola buona notizia.
 
 **COMUNICAZIONE FORMALE: SCOSTAMENTO DA PROCEDURA STANDARD**
 **Rif. intervento: unità TV consumer, mod. [omesso in automatico]**
@@ -22,7 +22,7 @@ Quarantasette minuti. Un numero storto, contato al minuto; un'ora tonda sarebbe 
 
 In fondo la firma: **Pete, Supervisore, Divisione Assistenza Tecnica.**
 
-Un nome che Tom aveva incrociato di persona sì e no tre volte in dodici anni, il tempo sufficiente per imparare a riconoscerne il passo nel corridoio e a cambiare strada con discrezione, giusto in tempo per non farsi risucchiare nei suoi piccoli giochi sadici da supervisore. Nient'altro. Per il resto Pete si manifestava solo per iscritto, un nome e un ruolo in fondo a una comunicazione, che era proprio il modo in cui certe cose spiacevoli preferiscono presentarsi. Un piccione non avverte mai chi si trova sotto di lui prima di lasciarsi andare. E di certo non si volta poi a controllare il danno.
+Un nome che Tom aveva incrociato di persona sì e no tre volte in dodici anni, il tempo sufficiente per imparare a riconoscerne il passo nel corridoio e a cambiare strada con discrezione, giusto in tempo per non farsi risucchiare nei suoi piccoli giochi sadici da supervisore. Per il resto Pete si manifestava solo per iscritto, un nome e un ruolo in fondo a una comunicazione, che era proprio il modo in cui certe cose spiacevoli preferiscono presentarsi. Un piccione non avverte mai chi si trova sotto di lui prima di lasciarsi andare. E di certo non si volta poi a controllare il danno.
 
 Tom non si arrabbiò. Fu lui stesso a notarlo, con la curiosità clinica che riservava al banco di lavoro. Niente battito accelerato, niente frase sprezzante trattenuta a fatica. Solo un abbassamento di temperatura interna, il tipo di freddezza che si prova quando un sistema (un motore, un'azienda, un rapporto, qualunque sistema) dimostra di funzionare come progettato, senza sorprese, senza eccezioni per le buone intenzioni. Meridian non puniva la curiosità in quanto tale. Puniva lo scostamento. Che poi la curiosità e lo scostamento fossero, in quel caso, la stessa identica cosa vestita con due nomi diversi, era un dettaglio che al codice di condotta non doveva importare granché.
 
@@ -105,3 +105,4 @@ Avrebbe continuato a parlare agli elettrodomestici guasti come aveva sempre fatt
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v3.5) | 2 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
+| Tom sente il *dlin* del terminale dal corridoio, ma a inizio turno è già al banco (autore) | continuity | integrated (v3.7) | "Tom lo sentiva a ogni inizio turno dal suo banco, sotto il fruscio del nastro…"; via "prima ancora di aprire la propria porta". |
