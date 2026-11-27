@@ -41,7 +41,7 @@ Quando il terminale aveva ripreso a scrivere, sullo schermo era comparsa una ric
 
 Tre settimane dopo era arrivata la lettera, con la firma di Pankow in fondo. Gli metteva davanti una scelta tra diventare amministratore delegato e prendere la porta. Meridian non aveva più bisogno dei suoi progetti di ricerca. Aveva bisogno della sua storia di successo. Pankow lo aveva messo da parte nel modo più elegante che conosceva, mettendolo in cima. In azienda la raccontavano come la storia di un visionario. Lui la ricordava come quella di un uomo che aveva scelto la poltrona per non restare in un laboratorio dove tutti sapevano che il suo progetto era fallito.
 
-L'archivio adesso occupava tutta la parete dello stanzino in fondo al corridoio. Il raccoglitore di quella notte non era l'ultimo della fila. Dopo ne erano venuti molti altri, riempiti da amministratore delegato nelle sere in cui le riunioni finivano presto, un prompt ripetuto e un foglio stampato alla volta, come se il mantra prima o poi dovesse funzionare anche con lui. Quello di quella notte, Bob non lo apriva da cinque anni. Bevve il caffè freddo in un sorso solo e tornò alle sue riunioni.
+L'archivio adesso occupava tutta la parete dello stanzino in fondo al corridoio. Il raccoglitore di quella notte non era l'ultimo della fila. Dopo ne erano venuti molti altri, riempiti da amministratore delegato nelle sere in cui le riunioni finivano presto, un prompt ripetuto e un foglio stampato alla volta, anche se Elab non esisteva più. Quello di quella notte, Bob non lo apriva da cinque anni. Bevve il caffè freddo in un sorso solo e tornò alle sue riunioni.
 
 ## Demolition Log
 
