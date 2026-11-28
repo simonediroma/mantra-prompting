@@ -15,7 +15,7 @@ Alle nove Pete spense il motore. Scese dalla macchina, si sistemò la giacca, si
 
 «Buonasera» disse il vecchio, senza staccare gli occhi dal cricket. «Cosa le serve?»
 
-Pete non rispose. Cominciò a girare per il negozio, piano, con le mani dietro la schiena, come faceva in open space il lunedì mattina tra le postazioni dei suoi sottoposti. Il primo scaffale era di legumi, il secondo di spezie, il terzo di cose che Pete non sapeva cosa fossero e che non gli interessavano. Dietro il terzo scaffale non c'era nessuno. Dietro la cassa frigorifera non c'era nessuno. Il negozio era lungo quanto il suo open space era largo e un uomo alto quasi due metri non ci si poteva nascondere, a meno che non si nascondesse dove nessuno guarda.
+Pete non rispose. Al liceo non rispondeva mai a chi gli chiedeva cosa volesse, perché la risposta la scopriva l'altro, di solito con la testa nel cestino. Cominciò a girare per il negozio, piano, con le mani dietro la schiena, come faceva in open space il lunedì mattina tra le postazioni dei suoi sottoposti. Il primo scaffale era di legumi, il secondo di spezie, il terzo di cose che Pete non sapeva cosa fossero e che non gli interessavano. Dietro il terzo scaffale non c'era nessuno. Dietro la cassa frigorifera non c'era nessuno. Il negozio era lungo quanto il suo open space era largo e un uomo alto quasi due metri non ci si poteva nascondere, a meno che non si nascondesse dove nessuno guarda.
 
 In fondo c'era la tenda a fiori. Pete la scostò con il dorso della mano. Dietro c'era un corridoio corto, con una cassa di cipolle, una scopa appoggiata al muro e una porta sola, con un cartello scritto a mano che diceva *WC*. Era chiusa. Pete sentì la stessa cosa che sentiva al liceo davanti al bagno dei professori, l'unica porta della scuola che non gli era permesso aprire, così fece quello che al liceo non aveva mai avuto il coraggio di fare.
 
@@ -77,7 +77,7 @@ Tirò fuori il telefono di lavoro, lo schermo al minimo, coperto con la mano com
 >
 > Pete, Supervisore, Divisione Assistenza Tecnica
 
-La rilesse due volte, con il cuore che gli batteva forte. La seconda volta tolse un aggettivo, *sospetto*, perché un ispettore, pensò, gli aggettivi li mette da sé. Premette invio. L'icona della mail girò un attimo nel buio e sparì.
+La rilesse due volte, con il cuore che gli batteva come davanti all'armadietto di un nerd al liceo. La seconda volta tolse un aggettivo, *sospetto*, perché un ispettore, pensò, gli aggettivi li mette da sé. Premette invio. L'icona della mail girò un attimo nel buio e sparì.
 
 > **Inviata** · A: Segnalazioni urgenti · Ispettori interni · mar 00:41
 
@@ -89,7 +89,7 @@ Pete lo coprì con la manica e tornò a guardare il portone.
 
 La mail arrivò alle 00:41 e alle 00:42 era già stata letta.
 
-La casella delle segnalazioni urgenti degli ispettori interni, di notte, non la leggeva un ispettore di turno, perché gli ispettori, come tutti i Meridians, di notte dormivano, nel rispetto del codice di condotta. La leggeva un uomo solo, che il codice di condotta l'aveva scritto. Era Pankow, che dei quattro fondatori era sempre stato il più bravo con le persone, o almeno con il modo di metterle in fila. Era stato lui a inventare il corpo degli ispettori interni, la Tabella delle sanzioni da cui un supervisore di nome Pete aveva ricavato la sua Tabella di Conversione, il divieto di scrivere mail fuori orario e i sette scatti a meeting, otto no.
+La casella delle segnalazioni urgenti degli ispettori interni, di notte, non la leggeva un ispettore di turno, perché gli ispettori, come tutti i Meridians, di notte dormivano, nel rispetto del codice di condotta. La leggeva un uomo solo, che il codice di condotta l'aveva scritto. Era Pankow, che dei quattro fondatori era sempre stato il più bravo con le persone, o almeno con il modo di metterle in fila. Era stato lui a inventare il corpo degli ispettori interni, la Tabella delle sanzioni da cui un supervisore di nome Pete aveva ricavato la sua Tabella di Conversione, il divieto di scrivere mail fuori orario e i sette scatti a meeting, otto no. Per l'azienda era l'uomo delle regole. Per i ventimila dipendenti era un nome che stava in fondo alle circolari.
 
 Non dormiva quasi mai, perché sosteneva che un sistema di controllo ha senso solo se qualcuno controlla anche di notte, mentre quel qualcuno, per coerenza, doveva essere chi le regole le aveva fatte. Lesse l'oggetto, *Possibile esfiltrazione di dati sensibili*, con la stessa faccia con cui leggeva ogni notte decine di segnalazioni di supervisori che avevano scambiato una stampante inceppata per un complotto. Lesse il nome del tecnico, che non gli diceva niente. Poi lesse la seconda riga e si tirò su a sedere.
 
@@ -147,3 +147,4 @@ Chiuse la chiamata e rimase un momento a guardare la segnalazione di Pete, apert
 | Il honeypot di Pankow spiegato tre volte in un solo paragrafo | structure | integrated (v0.2) | Qui restano bazar, lavanderia, anonimato, "Voleva attirare", nessun registro. L'autogestione e l'esca passano in dialogo nella telefonata con Maurice del cap. 24 (autore). |
 | La regola della mela spiegata dal narratore | structure | integrated (v0.2) | Tolta: resta sottesa, come richiesta diretta di Emma nel cap. 22. Seme: riusarla più avanti, per esempio come segno di riconoscimento dei poliziotti quando fermano Tom nel cap. 25 (autore, da decidere). |
 | "Un bullo del liceo" detto da Pankow: non può saperlo | POV (R11) | integrated (v0.2) | "Uno che a colazione…". |
+| Tratti dei personaggi tolti con l'asciugatura (verifica sui profili in `characters/`) | character | integrated | Ripristinati: il liceo e la testa nel cestino, l'armadietto del nerd (tell e motivo di Pete); Pankow "uomo delle regole" (autore, 2026-11-28). |
