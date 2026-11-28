@@ -9,7 +9,7 @@ Asciugare i capitoli del romanzo "Mantra Prompting" secondo il piano in `analisi
 1. Allinea il branch a `main`. Se `analisi-ritmo-2026-11-28.md` non c'è, fai merge di `origin/claude/fondatore-many-shot-prompting-gl2wkm`.
 2. Leggi per intero, in quest'ordine:
    - `analisi-ritmo-2026-11-28.md`: per ogni capitolo, cosa tagliare e quanto;
-   - `style-guide.md`, `voice-reference.md`, `style-rules.md` (regole R1-R7 e convenzioni di punteggiatura);
+   - `style-guide.md`, `voice-reference.md`, `style-rules.md` (regole R1-R16 e convenzioni di punteggiatura; R8-R16 coincidono con i tagli dell'analisi: similitudini, chiose, spiegazioni, presentazioni ripetute, parola ripetuta);
    - `book.config.json → author_voice` (tone, register, rhythm, avoid).
 3. Come modello guarda i capitoli 20 e 21, già asciugati (v2.2 e v1.3), e la voce "Asciugatura — 2026-11-27" nel loro Demolition Log.
 
@@ -34,7 +34,7 @@ Asciugare i capitoli del romanzo "Mantra Prompting" secondo il piano in `analisi
   - le mail, i box e le schermate di sistema;
   - la riparazione vera del capitolo (regola dell'autore: almeno una per capitolo).
 - **Elementi da conservare perché ripresi più avanti** (elenco completo nella sezione 4 di `analisi-ritmo-2026-11-28.md`): Sardegna e nonni (7 → 22); sifone a *Ciao Darwin* (10); rinforzo lombare, fiori immortali, cover su eDj (11 → 22); aspirapolvere, microonde, altoparlante portoghese (14 → 16); Forte Prenestino e Autistici (22 → 25); lavanderia (22 → 25); *Dalla Mela* e stampante (22 → 24); bagno e vellutata (23 → 24); furgone, terzo scaffale, tenda a fiori (21 → 23, 24). Prima di togliere un dettaglio concreto, cercalo con grep nei capitoli successivi.
-- **Rispetta sempre** R1-R7, nessun trattino lungo in narrazione, numeri in lettere nella narrazione, "mail" e mai "email".
+- **Rispetta sempre** R1-R16, nessun trattino lungo in narrazione, numeri in lettere nella narrazione, "mail" e mai "email".
 - **Obiettivo di lunghezza:** quello indicato per ogni capitolo nell'analisi, con una tolleranza del 10%. Se per arrivarci dovresti togliere un fatto, fermati prima e dimmelo.
 
 ## Procedura, un capitolo alla volta
