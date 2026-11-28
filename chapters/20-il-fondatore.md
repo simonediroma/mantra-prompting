@@ -1,7 +1,7 @@
 ---
 title: Il fondatore
-version: 2.2
-revised: 2026-11-27
+version: 2.3
+revised: 2026-11-28
 claim: "Il fondatore, l'uomo più potente di Meridian, ha costruito la sua carriera su quella che crede la sconfitta della sua vita. Il mantra prompting, l'idea di una sera, gli ha dato cinque anni di Elab senza risultati e una notte in cui lo schermo ha tremato per un istante: lui l'ha preso per un condensatore stanco, poi una ricetta e una sequenza di yoga, che ha stampato e archiviato come tutto, convinto che un giorno la carta fatta prima delle macchine sarà l'unica sicuramente vera."
 status: complete
 summary: "G34, lunedì. Alle dieci il carrello del caffè nell'ala dei capi; Pete, salito a chiedere il modulo per l'intervento ispettivo, dice «Anch'io un giorno avrò un carrello che mi porta il caffè» davanti a Bob, che riconosce solo in ascensore. I quattro fondatori: Bob (il creativo), Pankow (interventista), Maurice (pragmatico) e il quarto, nella foto ma non nella didascalia. Poi il capitolo va nel passato: come a Bob è venuta l'idea del mantra prompting dieci anni prima, i cinque anni di Elab senza risultati, la notte di cinque anni fa (`compacting context`, il glitch sul terminale preso per un condensatore stanco, lo smoothie e lo yoga stampati e archiviati), la lettera firmata da Pankow che lo mette da parte facendolo CEO. L'archivio di carta e la tesi sugli oggetti fisici."
@@ -17,7 +17,7 @@ Il carrello gli passò davanti senza rallentare. Pete lo seguì con gli occhi co
 
 «Glielo auguro» disse un uomo che usciva in quel momento da una porta, con una tazzina in mano. Aveva i capelli bianchi tagliati corti, una camicia azzurra senza cravatta e le maniche arrotolate, che gli davano un'aria giovanile nonostante i sessant'anni passati. «È l'unica cosa di questo piano che funziona sempre.»
 
-Pete gli fece un cenno con il mento, da agente Smith a un impiegato qualunque, e tornò verso l'ascensore. Davanti alle porte che si chiudevano si rese conto che quella faccia l'aveva vista in ogni video di benvenuto e in ogni messaggio di fine anno. Era Bob, il fondatore e amministratore delegato, e lui l'aveva trattato da sottoposto. Premette il pulsante del piano terra tre volte, come si fa con un telecomando che non risponde.
+Pete gli fece un cenno con il mento, da agente Smith a un impiegato qualunque, e tornò verso l'ascensore. Davanti alle porte che si chiudevano si rese conto che quella faccia l'aveva vista in ogni video di benvenuto e in ogni messaggio di fine anno. Era Bob, il fondatore e amministratore delegato, e lui l'aveva trattato da sottoposto. Premette il pulsante del piano terra tre volte.
 
 Bob tornò alla scrivania con il caffè. Era stato uno dei quattro che avevano messo in piedi Meridian quando un sistema operativo era ancora un cursore che lampeggiava su uno schermo nero. Dei quattro era quello che le idee le aveva e il meno bravo a venderle, tanto che alle presentazioni restava in fondo alla sala a controllare il proiettore. Lo sapevano in pochi, ma la visione che aveva salvato Meridian dalla bolla dell'intelligenza artificiale era sua. Con Maurice, con l'altro Bob, detto Pankow per non sbagliarsi, un soprannome che ormai usavano solo loro, e con l'innominabile aveva condiviso l'università e la fondazione di Meridian, a conti fatti un buon ottanta per cento della sua vita. Pankow si era preso il personale e non l'aveva più mollato, perché non riusciva a vedere una cosa ferma senza metterci le mani. Maurice se n'era andato per primo, perché diceva che i computer gli piacevano di più da sbirro che da programmatore, e aveva fatto carriera nella polizia telematica. Chiamava Bob una volta l'anno, a Natale, con un messaggio di due righe che finiva sempre con *tieniti e tienimi fuori dai guai*. Del quarto non parlava nessuno. Nella foto della fondazione, appesa nella hall, erano in quattro davanti a un capannone con l'insegna dipinta a mano, Bob con i capelli neri fino alle spalle e le maniche già arrotolate, ma nella didascalia i nomi erano tre. Al posto del quarto c'era uno spazio vuoto lungo quanto un nome.
 
@@ -75,3 +75,9 @@ L'archivio adesso occupava tutta la parete dello stanzino in fondo al corridoio.
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Feedback di un ascoltatore del podcast: narrazione troppo tirata per le lunghe, descrizioni che "sanno di IA" | pacing / style (R3, R6) | integrated (v2.2) | Taglio di circa un quarto: code esplicative, similitudini decorative, elenchi ridondanti, frasi che ripetono l'azione. Fatti, battute e richiami ai capitoli successivi invariati (autore). |
+
+### Asciugatura — 2026-11-28 (v2.3)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| "Come si fa con un telecomando che non risponde" già nel cap. 19 (Pete e gli scatti) | style (R8, R12) | integrated (v2.3) | Tolta la similitudine; resta il gesto, il pulsante premuto tre volte (analisi del ritmo 2026-11-28, autore). |
