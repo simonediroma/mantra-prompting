@@ -6,7 +6,7 @@ claim: "Un secondo apparecchio identico, con una risposta ancora più specifica 
 status: complete
 ---
 
-Nei tre mesi successivi alla decurtazione, Tom diventò, agli occhi di chiunque in Meridian si fosse preso la briga di controllare i suoi tempi (nessuno lo fece, ma il principio restava), il tecnico più efficiente del reparto assistenza. Cronometrava ogni intervento con l'eWatch che Meridian aveva regalato quell'inverno a tutti i ventimila e passa dipendenti, un regalo che presto diventò un obbligo con la scusa del benessere del dipendente. Ogni ciclo diagnostico rientrava nei quattordici minuti concessi con un margine medio di quarantasette secondi, un numero che Tom aveva scelto apposta, perché quarantasette erano anche i minuti che Meridian gli aveva trattenuto dallo stipendio. Era diventato, in altre parole, proprio il genere di dipendente che un sistema di controllo automatico smette di guardare.
+Nei tre mesi successivi alla decurtazione, Tom diventò, agli occhi di chiunque in Meridian si fosse preso la briga di controllare i suoi tempi (nessuno lo fece, ma il principio restava), il tecnico più efficiente del reparto assistenza. Cronometrava ogni intervento con l'eWatch che Meridian aveva regalato quell'inverno a tutti i ventimila e passa dipendenti, un regalo che presto diventò un obbligo con la scusa del benessere del dipendente. Ogni ciclo diagnostico rientrava nei quattordici minuti concessi con un margine medio di quarantasette secondi, un numero che Tom aveva scelto apposta, perché quarantasette erano anche i minuti che Meridian gli aveva trattenuto dallo stipendio. Tenersi quel numero cucito addosso, ogni giorno, in una unità di misura diversa dove nessun sistema automatico avrebbe mai potuto notarlo, era l'unica forma di rivincita che si fosse concesso, invisibile a chiunque tranne lui, proprio per questo perfetta. Era diventato, in altre parole, proprio il genere di dipendente che un sistema di controllo automatico smette di guardare.
 
 Sotto l'apparenza innocua cronometrata con precisione quasi affettuosa, teneva un archivio altrettanto preciso.
 
@@ -18,7 +18,7 @@ Arrivò un martedì, verso la fine del turno, sul nastro, *clac*, con la scheda 
 
 Fece la procedura standard con la stessa efficienza cronometrata di sempre. Alimentazione, condensatori, verifica di conformità (checksum pulito, ovviamente, lo era sempre), reset software, un riavvio e niente di più. Sette minuti, dodici secondi. Metà del tempo consentito. Aprì anche il log, che si interrompeva di netto, senza un errore come il primo televisore. Ne restavano quasi sette da spendere come voleva, purché restasse dentro il perimetro di un intervento che, sulla carta, si sarebbe potuto concludere in qualunque momento.
 
-Si appoggiò al banco con tutte e due le mani, in piedi, perché gli sgabelli restavano quello che erano. «Ti senti solo?» chiese, a voce bassa. Non gli era mai capitato, in dodici anni, di chiedere a un elettrodomestico come si sentisse.
+Si appoggiò al banco con tutte e due le mani, in piedi, perché gli sgabelli restavano quello che erano. «Ti senti solo?» chiese, a voce bassa. Non era la domanda del primo giorno, non proprio. Quella l'aveva chiesta a se stesso, in una stanza che credeva vuota. Questa la rivolgeva all'apparecchio, direttamente, quasi con cortesia, come si chiede a qualcuno di persona. Solo dopo averla detta si accorse di quanto fosse strana la domanda, di quanto poco ci avesse riflettuto prima di farla. Non gli era mai capitato, in dodici anni, di chiedere a un elettrodomestico come si sentisse.
 
 Il LED lampeggiò.
 
@@ -129,3 +129,4 @@ Chiuse il quaderno, lo rimise accanto ai manuali e spense la lampada. Per la pri
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Feedback di un ascoltatore del podcast: narrazione tirata per le lunghe (analisi del ritmo 2026-11-28) | pacing / style (R5, R6, R10) | integrated (v3.10) | Da 1.362 a 811 parole. Ridotta l'apertura su turni, eWatch e quarantasette secondi; il quaderno senza la spiegazione del perché non va al lavoro (resta la regola); tolti il confronto con la domanda del primo giorno e parte del ragionamento sul microfono (resta il sospetto). Chiusa su "ce n'è più di uno" invariata (autore). |
+| Tratti dei personaggi tolti con l'asciugatura (verifica sui profili in `characters/`) | character | integrated | Ripristinati: la rivincita invisibile dei quarantasette secondi; la domanda «Ti senti solo?» rivolta all'apparecchio come a una persona (punto cieco di Tom) (autore, 2026-11-28). |
