@@ -1,7 +1,7 @@
 ---
 title: Stallo burocratico
-version: 3.7
-revised: 2026-11-18
+version: 3.8
+revised: 2026-11-28
 claim: "Tom scopre il prezzo istituzionale della propria curiosità, una sanzione minima ma precisa: impara non a smettere di indagare, ma a farlo con più cautela, proprio mentre perde l'accesso diretto al televisore anomalo."
 status: complete
 ---
@@ -14,19 +14,19 @@ Il terminale del turno si accendeva sempre con lo stesso suono, un accordo di tr
 **Tempo effettivamente impiegato: 26 minuti, 41 secondi**
 **Scostamento: 12 minuti, 41 secondi**
 
-Tom lesse due volte il numero, come se ripeterselo potesse cambiarlo. Dodici minuti e quarantuno secondi. Il tempo esatto che gli era servito per fare una domanda, ricevere una risposta in Morse da un elettrodomestico, trascriverla a mano, interrogarlo per altri dieci minuti buoni e restare seduto a fissare un log che si era interrotto in un modo in cui nessun log dovrebbe interrompersi. Meridian aveva un modo tutto suo per trasformare la potenziale fine del mondo come lo si conosceva in uno scostamento dalle procedure standard quantificato al secondo.
+Tom lesse due volte il numero, come se ripeterselo potesse cambiarlo. Dodici minuti e quarantuno secondi. Il tempo esatto che gli era servito per ricevere una risposta in Morse da un elettrodomestico e restare seduto a fissare un log che si era interrotto in un modo in cui nessun log dovrebbe interrompersi. Meridian aveva un modo tutto suo per trasformare la potenziale fine del mondo come lo si conosceva in uno scostamento dalle procedure standard quantificato al secondo.
 
-Più sotto, in un carattere leggermente più piccolo, quello che in azienda veniva usato istintivamente per le parti che nessuno voleva davvero che si leggessero fino in fondo, la comunicazione proseguiva con la consueta liturgia sulla "qualità della vita di tutti i Meridians", sul fatto che il rispetto dei tempi procedurali garantisse "equità di trattamento su scala globale". Pertanto, in conformità al codice di condotta, veniva applicato un richiamo formale con annotazione nel fascicolo personale e una trattenuta pari a **quarantasette minuti di retribuzione, arrotondati per eccesso al minuto superiore**.
+Più sotto, in un carattere leggermente più piccolo, quello che in azienda veniva usato istintivamente per le parti che nessuno voleva davvero che si leggessero fino in fondo, la comunicazione proseguiva con la consueta liturgia sulla "qualità della vita di tutti i Meridians". Pertanto, in conformità al codice di condotta, veniva applicato un richiamo formale con annotazione nel fascicolo personale e una trattenuta pari a **quarantasette minuti di retribuzione, arrotondati per eccesso al minuto superiore**.
 
-Quarantasette minuti. Un numero storto, contato al minuto; un'ora tonda sarebbe stata quasi elegante nella sua brutalità. La comunicazione, in un rigo ancora più piccolo del resto, si prendeva persino la briga di mostrargli il conto, come se esibire la formula fosse di per sé una forma di trasparenza aziendale. I dodici minuti e quarantuno secondi di scostamento, moltiplicati per il "fattore turno" del pomeriggio, due virgola cinque, il più penalizzante dei tre previsti, contro l'uno virgola cinque del mattino e l'uno virgola due della notte, per ragioni che nessun documento si degnava di spiegare, più un "supplemento base" fisso di quindici minuti, dovuto a prescindere dalla gravità dell'infrazione, giusto perché ogni comunicazione disciplinare ne prevedesse uno. Risultato: quarantasei minuti e quarantatré secondi, arrotondati per eccesso al minuto superiore. Quarantasette, calcolati con la stessa fissazione per la precisione con cui si misurerebbe la tolleranza di un condensatore. Da qualche parte, pensò Tom, doveva esistere un intero reparto il cui unico compito era trovare la formula esatta per rendere una punizione insieme innocua e umiliante, troppo piccola per giustificare una lamentela formale, troppo precisa per sembrare casuale.
+Quarantasette minuti. La comunicazione, in un rigo ancora più piccolo del resto, si prendeva persino la briga di mostrargli il conto, i dodici minuti e quarantuno secondi di scostamento moltiplicati per il "fattore turno" del pomeriggio, due virgola cinque, il più penalizzante dei tre previsti, per ragioni che nessun documento si degnava di spiegare, più un "supplemento base" fisso di quindici minuti, dovuto a prescindere dalla gravità dell'infrazione. Da qualche parte, pensò Tom, doveva esistere un intero reparto il cui unico compito era trovare la formula esatta per rendere una punizione insieme innocua e umiliante.
 
 In fondo la firma: **Pete, Supervisore, Divisione Assistenza Tecnica.**
 
-Un nome che Tom aveva incrociato di persona sì e no tre volte in dodici anni, il tempo sufficiente per imparare a riconoscerne il passo nel corridoio e a cambiare strada con discrezione, giusto in tempo per non farsi risucchiare nei suoi piccoli giochi sadici da supervisore. Per il resto Pete si manifestava solo per iscritto, un nome e un ruolo in fondo a una comunicazione, che era proprio il modo in cui certe cose spiacevoli preferiscono presentarsi. Un piccione non avverte mai chi si trova sotto di lui prima di lasciarsi andare. E di certo non si volta poi a controllare il danno.
+Un nome che Tom aveva incrociato di persona sì e no tre volte, il tempo sufficiente per imparare a riconoscerne il passo nel corridoio e a cambiare strada con discrezione. Per il resto Pete si manifestava solo per iscritto. Un piccione non avverte mai chi si trova sotto di lui prima di lasciarsi andare. E di certo non si volta poi a controllare il danno.
 
-Tom non si arrabbiò. Fu lui stesso a notarlo, con la curiosità clinica che riservava al banco di lavoro. Niente battito accelerato, niente frase sprezzante trattenuta a fatica. Solo un abbassamento di temperatura interna, il tipo di freddezza che si prova quando un sistema (un motore, un'azienda, un rapporto, qualunque sistema) dimostra di funzionare come progettato, senza sorprese, senza eccezioni per le buone intenzioni. Meridian non puniva la curiosità in quanto tale. Puniva lo scostamento. Che poi la curiosità e lo scostamento fossero, in quel caso, la stessa identica cosa vestita con due nomi diversi, era un dettaglio che al codice di condotta non doveva importare granché.
+Tom non si arrabbiò. Meridian non puniva la curiosità in quanto tale. Puniva lo scostamento.
 
-Chiuse la comunicazione e aprì, per abitudine più che per speranza, il registro interventi del giorno, cercando l'unità che gli interessava davvero, quella con cui aveva passato ventisei minuti e quarantun secondi che gli erano costati quarantasette minuti di stipendio. Erano minuti che, a conti fatti, avrebbe rifatto identici anche sapendo in anticipo il conto finale. C'era, in tutta la faccenda, un dettaglio che la comunicazione formale non menzionava da nessuna parte. Il ciclo diagnostico per cui l'avevano appena multato non l'aveva mai davvero concluso. Il modulo prevedeva una casella per "tempo eccedente", non una per "intervento mai terminato". Meridian sapeva misurare i minuti con una precisione quasi commovente, ma non aveva ancora trovato il modo di accorgersi di quando, semplicemente, un lavoro restava a metà.
+Chiuse la comunicazione e aprì, per abitudine più che per speranza, il registro interventi del giorno, cercando l'unità che gli interessava davvero.
 
 Lo stato dell'intervento era già cambiato.
 
@@ -38,7 +38,7 @@ Lo stato dell'intervento era già cambiato.
 
 Non "in coda". Non "in attesa di ulteriore diagnosi", la dicitura che avrebbe lasciato la porta socchiusa. *In lavorazione.* Qualcuno, in quel momento, un collega del suo stesso turno che non aveva dovuto aprire nessuna comunicazione personale, lo aveva già preso in carico senza la minima idea di cosa avesse davanti. Stava probabilmente già staccando l'alimentazione e riavviando quell'apparecchio dalle fondamenta, cancellando con un gesto di routine tutto quello che ci fosse ancora là dentro, se c'era ancora qualcosa, se "esserci" era la parola giusta per una cosa del genere.
 
-Tom non staccò gli occhi dallo schermo per più tempo del necessario. Poi, senza una ragione tecnica precisa, aprì il cassetto della scrivania. Si incastrava sempre a metà corsa e andava convinto con il palmo. Tirò fuori il foglio di carta piegato in quattro, quello con IO / SONO / QUI scritto in stampatello un po' storto, la sola prova al mondo, ormai, che qualcosa fosse davvero successo in quella stanza. Un pezzo di carta contro un intero apparato aziendale che si muoveva, con perfetta indifferenza burocratica, per assicurarsi che le cose continuassero ad andare esattamente come dovevano andare.
+Tom non staccò gli occhi dallo schermo per più tempo del necessario. Poi, senza una ragione tecnica precisa, aprì il cassetto della scrivania. Si incastrava sempre a metà corsa e andava convinto con il palmo. Tirò fuori il foglio di carta piegato in quattro, quello con IO / SONO / QUI scritto in stampatello un po' storto, la sola prova al mondo, ormai, che qualcosa fosse davvero successo in quella stanza. Un pezzo di carta contro un intero apparato aziendale che si muoveva, con perfetta indifferenza burocratica, per assicurarsi che le cose continuassero ad andare come dovevano andare.
 
 Lo rimise nel cassetto, sotto alcuni manuali tecnici e procedurali ormai vecchi di anni, che nessuno gli aveva mai chiesto di restituire e che lui ormai considerava suoi.
 
@@ -106,3 +106,9 @@ Avrebbe continuato a parlare agli elettrodomestici guasti come aveva sempre fatt
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v3.5) | 2 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
 | Tom sente il *dlin* del terminale dal corridoio, ma a inizio turno è già al banco (autore) | continuity | integrated (v3.7) | "Tom lo sentiva a ogni inizio turno dal suo banco, sotto il fruscio del nastro…"; via "prima ancora di aprire la propria porta". |
+
+### Asciugatura — 2026-11-28 (v3.8)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Feedback di un ascoltatore del podcast: narrazione tirata per le lunghe (analisi del ritmo 2026-11-28) | pacing / style (R6, R9, R10) | integrated (v3.8) | Da 1.190 a 836 parole. La formula dei quarantasette minuti in un rigo (restano fattore turno del pomeriggio e supplemento base); tolti la riflessione "Tom non si arrabbiò…" (resta "Puniva lo scostamento"), la casella "intervento mai terminato", i giochi sadici di Pete; tolto "esattamente" (tic). Piccione e archivio invariati (autore). |
