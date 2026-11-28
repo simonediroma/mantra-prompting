@@ -1,14 +1,14 @@
 ---
 title: La chiamata alla signora
-version: 3.6
-revised: 2026-11-01
+version: 3.7
+revised: 2026-11-28
 claim: "Tom estende per la prima volta il proprio metodo (sondare, non affermare) dalle macchine alle persone e ottiene qualcosa di più solido di un sospetto personale: la prova che qualcun altro, indipendentemente, ha visto lo stesso comportamento intenzionale, abbastanza da filmarlo."
 status: complete
 ---
 
-Il numero era nel suo archivio, dove Tom lo aveva trascritto la sera prima insieme al resto dei dati essenziali della cliente, nome e indirizzo, il minimo che serviva per rintracciare una pratica. Non aveva annotato una scusa plausibile per chiamarla. Quella se l'era dovuta inventare nella solitudine di casa sua, poco dopo, seduto alla scrivania con il quaderno aperto sotto il naso. Aveva provato a voce alta varie frasi che sembrassero professionali senza suonare come un copione, fino a che, evidentemente stizzito dalla sua scarsa bravura a recitare, aveva deciso di andare a letto.
+Il numero era nel suo archivio, dove Tom lo aveva trascritto la sera prima insieme al resto dei dati essenziali della cliente. Poi aveva provato a voce alta varie frasi che sembrassero professionali senza suonare come un copione, fino a che, evidentemente stizzito dalla sua scarsa bravura a recitare, aveva deciso di andare a letto.
 
-Quella mattina era pronto per uscire con il solito anticipo. Usciva sempre abbastanza presto da arrivare in azienda con un quarto d'ora di margine prima dell'inizio del turno, giusto il tempo di sistemarsi alla postazione con calma. Per una volta decise di spendere quei quindici minuti in un altro modo.
+Quella mattina era pronto per uscire con il solito quarto d'ora di anticipo, ma per una volta decise di spenderlo in un altro modo.
 
 Non era solito mentire agli esseri umani, solo agli elettrodomestici, che non potevano accorgersene. Compose il numero dal proprio cellulare, in piedi in cucina, con la luce del mattino di taglio sul tavolo e la felpa già addosso. Si ripeté, per rassicurarsi, che doveva applicare alla signora del televisore lo stesso principio che applicava da sempre agli elettrodomestici guasti. Mai chiedere direttamente quello che vuoi sapere, tendere la domanda giusta e osservare dove cade. *Driin.*
 
@@ -26,15 +26,15 @@ Se la signora notò qualcosa di strano, non lo diede a vedere. «Va bene, va ben
 
 «Certo, mi dica pure. È esattamente per questo che la chiamo: vorremmo capire come si è trovata con le persone con cui ha parlato, dal primo contatto in poi.»
 
-Tom non disse altro, dopo. Lasciò che il silenzio facesse il suo lavoro, lo stesso silenzio che funzionava sui pannelli LED quanto sulle persone. Quasi nessuno lo tollera più di tre secondi senza sentirsi in dovere di riempirlo.
+Tom non disse altro, dopo. Lasciò che il silenzio facesse il suo lavoro.
 
 «Facevo yoga, la mattina, prima di andare a fare la spesa. Un video che avevo trovato, bellissimo, una ragazza che sembrava avere vent'anni ed era così brava a spiegare gli esercizi. Lo rifacevo anche dieci volte al giorno, lo ammetto, per tenermi giovane e bella, alla mia età bisogna darsi da fare» rise, un riso breve e un po' imbarazzato di chi si aspetta un giudizio e lo previene da sola. «E poi, un giorno, niente. Il televisore non si accendeva più. L'ho portato in negozio e mi hanno detto che per loro era tutto a posto, ma io lo so che non era tutto a posto. Adesso ce l'avete voi.»
 
-«In che senso, scusi?» Non "cosa intende per non a posto". Non "mi dica di più sul guasto". Solo la domanda più piccola e più aperta che gli venne in mente, quella che lascia il massimo spazio possibile a chi risponde.
+«In che senso, scusi?» Non "cosa intende per non a posto". Non "mi dica di più sul guasto". Solo la domanda più piccola e più aperta che gli venne in mente.
 
 «Nel senso che si comportava come se ce l'avesse con me.» Lo disse ridendo di nuovo, come per sdrammatizzare qualcosa che evidentemente l'aveva colpita più di quanto la risata lasciasse intendere. «Lo so, sembra una follia. Ma io ero lì, e quella cosa non voleva accendersi, non "non riusciva" ad accendersi: proprio non voleva. C'è differenza, sa? Un elettrodomestico rotto è muto e basta. Questo mi dava proprio l'idea di uno che si rifiuta.»
 
-Tom strinse il telefono un po' più forte, con l'attenzione di chi sente arrivare, da lontano, proprio la frase che era venuto a cercare.
+Tom strinse il telefono un po' più forte.
 
 «È una sensazione comprensibile, con questi modelli nuovi» disse, con il tono più neutro e rassicurante che riuscì a mettere insieme. «Capita che il pubblico li percepisca come più... presenti, diciamo, di un vecchio televisore. Ha notato altro, in quei giorni? Qualcosa che le fosse sembrato fuori posto, anche solo un dettaglio?»
 
@@ -49,10 +49,6 @@ Tom restò in silenzio un secondo di troppo, il tempo che gli serviva per assicu
 Tom non aveva previsto quel dettaglio, ma non poteva certo tirarsi indietro senza sembrare sospetto. Confermò, ringraziò e sotto la quinta voce del quaderno annotò solo: *video in arrivo su WhatsApp.*
 
 Chiuse la chiamata con le formule di rito, ringraziandola per la disponibilità, augurandole una buona giornata. Restò a fissare il telefono muto come, tre mesi prima, era rimasto a fissare un televisore altrettanto muto.
-
-Ripensandoci, si rese conto di aver improvvisato l'intera telefonata come un principiante. Nessuno script pronto, nessuna domanda preparata a dovere, un copione che gli era scivolato di mano dopo la prima frase. Se la signora Voss fosse stata più attenta alla coerenza di quello che le stava chiedendo, invece che presa dalla voglia di raccontare finalmente a qualcuno cosa le fosse successo, lo avrebbe smascherato.
-
-La signora Voss aveva descritto, senza saperlo, la stessa cosa che lui aveva avuto sul banco il giorno prima. Non era più l'unico a vederla.
 
 Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati dalla telefonata. Bastava un piccolo ritardo per dare al supervisore un nuovo pretesto. Si staccò dal tavolo, uscì di casa quasi correndo e fece di corsa anche gli ultimi due isolati fino alla fermata, lui che in dodici anni non aveva mai corso per un autobus.
 
@@ -128,3 +124,9 @@ Guardò l'ora. I quindici minuti di anticipo se n'erano andati tutti, bruciati d
 | Issue | Type | Status |
 |---|---|---|
 | Un commesso davanti a un LED che lampeggia parla di codice errore, non di retroilluminazione | persona-tecnico | resolved (v3.6) |
+
+### Asciugatura — 2026-11-28 (v3.7)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Feedback di un ascoltatore del podcast: narrazione tirata per le lunghe (analisi del ritmo 2026-11-28) | pacing / style (R6, R9, R15) | integrated (v3.7) | Da 1.290 a 1.083 parole. Ridotte l'apertura sulla scusa preparata e il quarto d'ora; tolti la massima sul silenzio (R15), le chiose dentro la telefonata e i due paragrafi finali che la commentano ("Ripensandoci…", "La signora Voss aveva descritto…"). Dialoghi invariati (autore). |
