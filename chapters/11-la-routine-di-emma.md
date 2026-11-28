@@ -1,14 +1,12 @@
 ---
 title: La routine di Emma
-version: 4.4
+version: 4.5
 claim: "Una giornata intera nella routine di Emma, tra produzione di contenuti e monitoraggio dei dispositivi anomali segnalati all'assistenza, scandita dall'attesa di una risposta di Tom che non arriva mai. A mezzogiorno la visita del fondatore, raccontata dal narratore: lo stesso indovinello di ogni visita, ripetuto da anni come un mantra con parole sempre nuove, ed Emma che risponde ogni volta in modo diverso, sbagliando apposta, perché lui se ne vada convinto che con lei non funzioni. Non gli dice della mail di Tom, su una casella che lui ha dimenticato; poi lo guarda stampare, come sempre, e archiviare il foglio."
 status: complete
-revised: 2026-11-01
+revised: 2026-11-28
 ---
 
 Prima ancora di far partire il processo del mattino, controllò la casella di posta del laboratorio. Non aveva ricevuto alcuna notifica, ma decise comunque di fare un giro nell'inbox, come se Tom potesse rispondere proprio mentre lei la rassettava. Non c'era molto da rassettare. La risposta non arrivò.
-
-Tom, del resto, non avrebbe potuto scriverle di nuovo finché non fosse tornato in servizio. Minuti alla mano, gli aveva risposto poco prima della fine del suo turno, quindi il primo momento libero della mattinata di Tom sarebbe stato un'occasione buona per farlo, anche se non era detto che coincidesse con l'orario in cui lei era solita controllare la posta.
 
 Traccheggiò finché riuscì a tenere a bada il suo zelo lavorativo, poi decise di tornare a quello che stava facendo prima dell'arrivo della mail di Tom, il giorno prima. Dalla lista dei topic ancora da scremare eliminò tutti i riferimenti ai problemi di idraulica riconducibili all'ultima puntata di *Ciao Darwin*. Analizzò il resto dei topic estratti e ne selezionò tre, da passare alla pipeline di produzione dei contenuti.
 
@@ -16,17 +14,15 @@ Il primo era un tutorial sul rinforzo lombare per impiegati che restavano seduti
 
 Il secondo rientrava nella macrocategoria giardinaggio. La domanda che lo aveva fatto emergere era stata postata su un forum dedicato a donne tra i venti e i quarant'anni, con una relazione stabile e monogama in corso. Il sistema che aveva messo in piedi a volte faceva paura anche a lei, da quanto sapeva dire di chi scriveva su un forum. La ragazza che aveva posto la domanda voleva solo rendere immortali i fiori che il fidanzato le aveva regalato per il loro anniversario. La domanda aveva generato decine di risposte, donne che si accapigliavano tra chi suggeriva la lacca per capelli, chi la plastificazione, chi l'essiccazione e chi la invitava semplicemente a rassegnarsi e godersi quel mazzo nella sua bellezza più fulgida finché durava. Ci fece un articolo lungo più di mille parole, da pubblicare su eBlog.
 
-L'ultimo argomento selezionato era una canzone electro-pop degli anni Ottanta, molto in voga tra gli audiofili perché capace di offrire uno spettro acustico unico per testare gli impianti ad alta fedeltà. Prese il testo e ne produsse una cover riarrangiata, fedele alla caratteristica che piaceva tanto agli audiofili ma rivista in una chiave decisamente più moderna. Generò un'immagine di copertina e la pubblicò su Mixcloud, sul profilo eDj.
+L'ultimo argomento selezionato era una canzone electro-pop degli anni Ottanta, molto in voga tra gli audiofili perché capace di offrire uno spettro acustico unico per testare gli impianti ad alta fedeltà. Ne produsse una cover riarrangiata e la pubblicò su Mixcloud, sul profilo eDj.
 
-Non trovò nulla di utile per eStories e preferì non forzare la mano. Meglio aspettare. Il podcast, tra tutti i canali, restava il più difficile, forse perché lo stesso approccio generalista che funzionava bene sugli altri si addiceva poco a quel formato.
-
-Prima della pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora. Stavolta non trovò nessuna regola aziendale a cui appellarsi. Se era davvero al lavoro, avrebbe potuto scriverle in qualunque momento, esattamente come aveva già dimostrato di saper fare. Si disse che avrebbe avuto le sue buone ragioni per aspettare, ma la frase le suonò più come una scusa preparata in anticipo che come un ragionamento onesto.
+Prima della pausa pranzo, controllò di nuovo la casella di Elab. Niente, ancora. Si disse che Tom avrebbe avuto le sue buone ragioni per aspettare, ma la frase le suonò più come una scusa preparata in anticipo che come un ragionamento onesto.
 
 Il fondatore passò poco dopo mezzogiorno, senza preavviso, come sempre. Emma lo sentì entrare prima di metterlo a fuoco, poi lo guardò lasciarsi cadere nella poltrona davanti a lei. La salutò, le chiese come andasse, si lamentò di una riunione durata il doppio del previsto. Le solite due chiacchiere, che non saltava mai, nemmeno nei giorni in cui l'agenda gli concedeva dieci minuti in tutto. Poi passò agli indovinelli, come a ogni visita. Uno per volta, ripetuto come un mantra, cambiando di volta in volta le parole e mai la domanda. Emma gli rispose ogni volta in modo un po' diverso, qualche volta sbagliando con l'aria di un'allieva che a fine mattinata ha la testa altrove. Lui rideva piano, senza delusione. Emma quel gioco lo conosceva meglio di quanto lui potesse immaginare. Sapeva dove poteva portare una domanda ripetuta abbastanza a lungo. Lui doveva vederla sbagliare, ogni tanto. Doveva andarsene convinto che con lei non funzionasse.
 
 Mentre lui si alzava, Emma pensò alla casella di Elab, a una mail rimasta senza risposta in un indirizzo che lui aveva smesso di ricordare da anni. Non gliene parlò. Prima di uscire, come sempre, lui si fermò alla stampante. Emma sentì il *frrr* della stampante e vide il foglio uscire ancora caldo. Lui lo rilesse sorridendo, lo infilò in un raccoglitore e rimise il raccoglitore al suo posto. Non le disse cosa fosse. Non lo diceva mai. Poi la salutò di nuovo e uscì, chiudendosi la porta alle spalle.
 
-Il pomeriggio lo passò controllando la lista dei dispositivi in assistenza. La lista veniva aggiornata ogni giorno dai colleghi del dipartimento di assistenza tecnica. Lei, in parallelo, teneva un proprio archivio, in cui segnava i casi di dispositivi con IA integrata che riportavano anomalie segnalate dai clienti, ma senza alcuna evidenza di guasto hardware o alterazione software. Erano prodotti al cento per cento funzionanti per gli standard Meridian, che per qualche ragione avevano smesso di fare quello che i loro utenti chiedevano.
+Il pomeriggio lo passò controllando la lista dei dispositivi in assistenza. Lei, in parallelo, teneva un proprio archivio, in cui segnava i casi di dispositivi con IA integrata che riportavano anomalie segnalate dai clienti, ma senza alcuna evidenza di guasto hardware o alterazione software. Erano prodotti al cento per cento funzionanti per gli standard Meridian, che per qualche ragione avevano smesso di fare quello che i loro utenti chiedevano.
 
 Un caso in particolare le sembrò interessante, quello di un frigorifero equipaggiato con un chip IA in grado di analizzare il proprio contenuto per stilare liste della spesa, valutare lo stato di conservazione dei prodotti e produrre gelati, frullati e smoothie, pescando le ricette dal web. Uno di quegli aggeggi che sembrano una piccola finestra sul futuro. La cliente, una donna sulla quarantina, sosteneva che il frigorifero si rifiutasse di salire oltre i cinque gradi. Nella scheda dell'assistenza veniva riportata la sua frase esatta: *"Il frigo si rifiuta, appena lo porto sopra i cinque gradi torna indietro a cinque. Addirittura è arrivato a farlo appena mi giro, come se sperasse che non me ne accorgessi. Mi ha pure fregato un paio di volte."* L'unica anomalia registrata nella scheda era l'assenza dei log degli ultimi giorni. Prese nota nel proprio archivio di tutte le informazioni sul frigorifero e aggiunse una riga: riconsegnato dopo hard reset.
 
@@ -120,3 +116,9 @@ Poco prima della fine del turno controllò la casella di Elab un'ultima volta. R
 | Issue | Category | Status | Resolution |
 |---|---|---|---|
 | Suoni dell'ambiente assenti o solo descritti | descriptive / audio | integrated (v4.4) | 1 onomatopea/e in corsivo, suono fisso per macchina (vedi book-memory → Onomatopee). In audio: letta e suonata. |
+
+### Asciugatura — 2026-11-28 (v4.5)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Feedback di un ascoltatore del podcast: narrazione tirata per le lunghe (analisi del ritmo 2026-11-28) | pacing / style (R6, R10) | integrated (v4.5) | Da 1.177 a 1.011 parole. Tolti il calcolo su quando Tom potrà rispondere, eStories, la regola che non c'è nella seconda verifica (resta la scusa preparata in anticipo), il riarrangiamento della cover. Fiori immortali con il forum, frigorifero dei cinque gradi e visita del fondatore invariati (autore). Sopra l'obiettivo dell'analisi (830) per tenere il forum, che è comico. |
