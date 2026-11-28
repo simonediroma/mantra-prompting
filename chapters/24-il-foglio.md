@@ -83,7 +83,7 @@ Scrisse la seconda mail in piedi, contro il furgone, più in fretta della prima.
 
 Premette invio. L'icona girò un attimo e sparì.
 
-Rimase appoggiato al furgone a guardare la vetrina del bazar, i sacchi di riso, la piramide di ceci, il ragazzo con la barba nera che guardava il cricket. Ogni tanto abbassava gli occhi sul telefono. Il telefono non vibrava.
+Rimase appoggiato al furgone a guardare la vetrina del bazar, i sacchi di riso, la piramide di ceci, il ragazzo con la barba nera che guardava il cricket. Ogni tanto abbassava gli occhi sul telefono. Il telefono non vibrava. Pete aveva sperato che quella fosse la sera in cui avrebbe fatto il salto, da un pugno di nerd da sorvegliare in open space a una porta con la targhetta e un carrello che gli portava il caffè. Era una sera di maggio come le altre, con l'aria più tiepida di quanto un completo nero sopportasse, in cui il salto, per il momento, non c'era.
 
 Restò al furgone finché la scritta BAZAR non si accese del tutto, rossa, sopra la vetrina. Poi prese una decisione, l'unica che un supervisore senza risposta possa prendere da solo. Riattraversò la strada e rientrò nel bazar. Il campanello suonò sopra la sua testa e il ragazzo con la barba nera, questa volta, non alzò nemmeno gli occhi dal cricket.
 
@@ -140,3 +140,4 @@ Qualche isolato più in là, sul gradino di una ferramenta, un uomo enorme con u
 |---|---|---|---|
 | Feedback di un ascoltatore del podcast: narrazione tirata per le lunghe; "dodici anni" otto volte (analisi del ritmo 2026-11-28) | pacing / style (R6, R8-R10, R15) | integrated (v0.2) | Da 3.118 a 2.704 parole. Ridotte la procedura della malattia e della reperibilità, la spiegazione della chiavetta, le aspettative di Pete sugli ispettori (un solo carrello con la targhetta), gli onion rings allo scaffale. "Dodici anni" una volta in narrazione; liceo e "ginocchia in bocca" una volta. Tolto "Questa volta non rimase a guardarlo", che rimandava a un passaggio tolto dal cap. 22 (autore). |
 | Il honeypot di Pankow spiegato dal narratore nel cap. 23 | structure | integrated (v0.2) | Una parte passa qui, in dialogo nella telefonata con Maurice: niente registri, niente controllo, ci scendono convinti di averla scoperta loro. La regola della mela resta sottesa (autore). |
+| Tratti dei personaggi tolti con l'asciugatura (verifica sui profili in `characters/`) | character | integrated | Ripristinati: il salto mancato di Pete verso la porta con la targhetta (la sua paura) (autore, 2026-11-28). |
