@@ -1,7 +1,7 @@
 ---
 episode: 19
 title: "Capitolo 19 — Il meeting"
-description: "Alle tre Tom ed Emma si incontrano per la prima volta, mentre qualcuno li guarda da dietro una telecamera con sette scatti a disposizione. A voce, una consulenza tecnica impeccabile; su un blocco di fogli, tutto il resto. Chiude il Libro 1."
+description: "Alle tre Tom ed Emma si incontrano per la prima volta, mentre qualcuno li guarda da dietro una telecamera con sette scatti a disposizione. A voce, una consulenza tecnica impeccabile; su un blocco di fogli, tutto il resto."
 source: chapters/19-il-meeting.md
 status: "approved"
 recap: "Tom ha chiesto a Emma di vedersi di persona, lei ha mandato un invito per le tre e Pete si è segnato in calendario lo stesso appuntamento."
