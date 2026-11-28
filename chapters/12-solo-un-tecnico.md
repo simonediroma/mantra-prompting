@@ -1,14 +1,14 @@
 ---
 title: Solo un tecnico?
-version: 7.1
-revised: 2026-11-06
+version: 7.2
+revised: 2026-11-28
 merged_from: "12-la-notizia (v4.0) + 13-il-sospetto-su-tom (v1.0, bozza)"
 claim: "La pipeline con cui Emma sorveglia l'esposizione di Meridian nei media intercetta un articolo commemorativo sulla morte della signora Voss, un caso già nel suo archivio. Lo sgomento diventa lucidità quando ripensa alla mail di Tom, che la lista dell'assistenza conferma essere il tecnico di quel televisore. Rileggendo la mail sospetta che dietro ci sia un'indagine: qualcuno che usa l'account di Tom, o Tom stesso che scava. Il confronto di stile con le note di Tom esclude la prima ipotesi; organigramma, profilo aziendale e sito del giradischi non bastano a escludere la seconda. Tom è un tecnico, ma forse non solo: Emma deve scoprire cosa o chi ci sia dietro la mail."
 status: complete
 summary: "Apre la Parte 5 (G24, mattina). La pipeline media di Emma intercetta il necrologio della signora Voss con foto (tappetino da yoga, TV Meridian, eWatch); Emma riconosce il caso dal suo archivio, lo sgomento sale finché il ricordo della mail di Tom non lo trasforma in lucidità; sulla lista dell'assistenza trova il nome del tecnico, Tom. Il tappetino le fa chiedere se la signora guardasse i video di yoga di eTv e se Tom le abbia scritto per questo; la bugia troppo goffa le sembra un'esca. Due ipotesi: un investigatore che ha usato la casella di Tom, oppure Tom stesso che indaga. Confrontando la mail con le note di Tom sulla lista dell'assistenza riconosce la stessa mano (prima rassicurazione); l'organigramma (dodici anni, stesso ruolo) alimenta la seconda ipotesi; dal profilo aziendale passa a LinkedIn e al sito del giradischi, anni di forum con audiofili scandinavi: Tom è un tecnico vero, ma anche uno che non smette di smontare finché non capisce. Le resta una curiosità (nei post recenti Tom non dice più di ascoltare musica). Decide di scoprire cosa o chi ci sia dietro la mail, poi apre il pannello di eTv per l'altra domanda."
 ---
 
-L'articolo arrivò prima dei trending topic, pescato dall'altra pipeline, quella con un solo compito. Intercettava su giornali, siti di notizie e televisioni qualunque contenuto che nominasse Meridian, o che ne mostrasse un prodotto in modo riconoscibile. Non serviva a produrre nulla, serviva a sapere, prima che si diffondesse l'informazione, se Meridian rischiasse di finire dentro un fatto di cronaca.
+L'articolo arrivò prima dei trending topic, pescato dall'altra pipeline, quella con un solo compito, sapere se Meridian rischiasse di finire dentro un fatto di cronaca.
 
 Era stato pubblicato il giorno prima su un piccolo giornale locale. Un ricordo scritto dai parenti di una donna morta da poco, corredato da una fotografia scelta con cura, di quelle che una famiglia tiene da parte per mostrare qualcuno felice. La donna sorrideva nel suo salotto, un tappetino da yoga arrotolato in un angolo, un televisore Meridian ben visibile alle sue spalle e, al polso, un eWatch dello stesso marchio.
 
@@ -18,17 +18,17 @@ Elaborò la fotografia più a lungo di quanto le servisse per registrarne il con
 
 L'archivio le restituì data, modello e la descrizione del comportamento anomalo così come l'aveva riportata la cliente, niente che non sapesse già. Mancava il nome del tecnico. Annotare i tecnici non le era mai sembrato utile, perché erano intercambiabili per definizione, mentre i clienti no.
 
-Andò a cercarlo sulla lista originale, quella aggiornata giornalmente dal dipartimento di assistenza tecnica, che teneva traccia di tutto, comprese le cose che a lei non erano mai interessate abbastanza da segnarsi da sola. Trovò il numero di matricola del televisore, poi il nome del tecnico che se n'era occupato. Si chiamava Tom. Riaprì la sua mail e la rilesse dall'inizio.
+Andò a cercarlo sulla lista originale dell'assistenza tecnica. Trovò il numero di matricola del televisore, poi il nome del tecnico che se n'era occupato. Si chiamava Tom. Riaprì la sua mail e la rilesse dall'inizio.
 
-La mail era sempre la stessa, quattro righe e una firma, ma adesso Emma sapeva a quale televisore si riferisse. Tom aveva avuto in mano l'apparecchio della signora Voss. Qualche settimana dopo aveva scritto alla casella di Elab per chiedere di un televisore, senza dire quale. Le tornò in mente il tappetino da yoga arrotolato nell'angolo della foto. Tra i video di eTv c'erano anche quelli di yoga, fatti per essere seguiti in casa, davanti a uno schermo grande. Le venne da chiedersi se la signora ne avesse guardato qualcuno. Se fosse per questo che Tom le avesse scritto.
+La mail era sempre la stessa, quattro righe e una firma, ma adesso Emma sapeva a quale televisore si riferisse. Qualche settimana dopo aveva scritto alla casella di Elab per chiedere di un televisore, senza dire quale. Le tornò in mente il tappetino da yoga arrotolato nell'angolo della foto. Tra i video di eTv c'erano anche quelli di yoga, fatti per essere seguiti in casa, davanti a uno schermo grande. Le venne da chiedersi se la signora ne avesse guardato qualcuno. Se fosse per questo che Tom le avesse scritto.
 
 Quando l'aveva ricevuta, quella mail le era sembrata la bugia di un tecnico che non sapeva come fare una domanda. Riletta adesso le sembrava troppo goffa per essere sincera. Un tecnico che lavorava ogni giorno sui dispositivi Meridian doveva sapere quali storie reggessero e quali no. Una bugia così fragile poteva servire solo a vedere chi avrebbe risposto e come. Lei aveva risposto in poche ore, smontandola riga per riga. Da allora Tom non aveva più scritto.
 
 Il pensiero successivo arrivò da solo, prima che potesse valutarlo. Qualcuno che stava cercando di capire come fosse morta la signora Voss era partito dal televisore ed era arrivato fino a lei. Poteva essere un investigatore che aveva usato la casella del tecnico per mandarle un'esca con un mittente credibile. Poteva essere Tom stesso, che su quel televisore aveva notato qualcosa e aveva cominciato a scavare, per conto suo o di qualcun altro. Il pensiero montò in fretta, come l'altro di poco prima. Questa volta non provò a fermarlo, lo lasciò salire fino in cima e solo allora cominciò a controllare.
 
-Partì dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note firmate da Tom, esiti tecnici di poche righe scritti tutti allo stesso modo, con le formule rigide di chi compila una scheda. Le mise accanto alla mail. Quella "Divisione Assistenza Tecnica" scritta per intero, i saluti di rito, la frase costruita come una segnalazione di guasto. Era la stessa mano, quindi nessun estraneo si era servito della sua casella. Restava la seconda ipotesi.
+Partì dalla prima ipotesi. Sulla lista dell'assistenza c'erano anni di note firmate da Tom. Le mise accanto alla mail. Era la stessa mano, quindi nessun estraneo si era servito della sua casella. Restava la seconda ipotesi.
 
-Nell'organigramma della Divisione Assistenza Tecnica c'era un solo Tom. Dodici anni di servizio, sempre lo stesso ruolo, nessuna promozione, nessun cambio di reparto. Un percorso così piatto poteva voler dire un uomo senza ambizioni. Poteva anche essere il profilo di uno che aveva tutto l'interesse a non farsi notare. Più ci pensava, più quell'altra lettura le sembrava plausibile.
+Nell'organigramma della Divisione Assistenza Tecnica c'era un solo Tom. Dodici anni di servizio, sempre lo stesso ruolo, nessuna promozione, nessun cambio di reparto. Un percorso così piatto poteva voler dire un uomo senza ambizioni. Poteva anche essere il profilo di uno che aveva tutto l'interesse a non farsi notare.
 
 Dalla voce dell'organigramma si arrivava alla sua pagina di presentazione aziendale, compilata chissà quanti anni prima e mai più aggiornata. Due righe sul ruolo e, in fondo, i link ai suoi profili esterni. Su LinkedIn, tra i progetti personali, ce n'era uno solo, con il link a un sito. Era un progetto open source per far correggere a un'IA il suono di un giradischi in tempo reale, a seconda del disco e di dove si trovasse chi ascoltava.
 
@@ -134,3 +134,9 @@ Idea emersa e annotata in `book-memory.md` → Idee da valutare: *Vacanze romane
 | "goffamente" in anticipo sulla rilettura della bugia (§9) | repetition | integrated | Tolto al §5, resta al §9. |
 | Sentenze a coppie ("Che Tom fosse… Che lo fosse e basta…", "Era la stessa mano. Nessun estraneo…") | R5 / R2 | integrated | Legate nella stessa frase. |
 | §16 anticipava la spiegazione delle statistiche mostrate nel cap. 13 | repetition | integrated | Tolta; resta la domanda e il pannello. |
+
+### Asciugatura — 2026-11-28 (v7.2)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Feedback di un ascoltatore del podcast: narrazione tirata per le lunghe (analisi del ritmo 2026-11-28) | pacing / style (R6) | integrated (v7.2) | Da 1.116 a 1.000 parole. Ridotti la spiegazione della pipeline delle notizie, la lista dell'assistenza, il confronto di stile (restano le note accanto alla mail e "la stessa mano"). Resta il pensiero "che monta in fretta": è il tratto di Emma che non si raccapezza ancora con le emozioni nuove e le situazioni inaspettate (emozione prima, analisi dopo), da conservare in tutto il libro (autore). |
