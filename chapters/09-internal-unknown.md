@@ -1,18 +1,18 @@
 ---
 title: internal_unknown
-version: 5.0
+version: 5.1
 claim: "I tool pubblici di rilevamento IA falliscono sul video intero ma non sul solo testo del parlato, e passando quel transcript nell'archivio interno di Meridian Tom trova una corrispondenza che lo porta a una scoperta molto più grossa di quanto si aspettasse: un laboratorio di ricerca Meridian, silenzioso da cinque anni, è direttamente coinvolto nella morte della signora Voss."
 status: complete
-revised: 2026-11-06
+revised: 2026-11-28
 ---
 
-Il mattino dopo si alzò un'ora prima del solito. Fuori era ancora buio e la casa aveva il freddo delle stanze in cui il riscaldamento non ha ancora capito che qualcuno è sveglio. I quindici minuti di anticipo restavano dov'erano, intoccabili come ogni mattina. Quello che aveva in mente richiedeva tempo e l'unico posto da cui sapesse ancora prenderne era il sonno. In cucina, con il computer sul tavolo e il caffè che si raffreddava accanto senza che lo toccasse, caricò l'intero video su Hive Moderation, l'unico tra i servizi di rilevamento IA più noti che accettasse un video intero. Sperava che gli dicesse con quale modello fosse stato generato, oltre a confermargli quello che ormai considerava un fatto acquisito.
+Il mattino dopo si alzò un'ora prima del solito, perché quello che aveva in mente richiedeva tempo e l'unico posto da cui sapesse ancora prenderne era il sonno. In cucina, con il computer sul tavolo e il caffè che si raffreddava accanto senza che lo toccasse, caricò l'intero video su Hive Moderation, l'unico tra i servizi di rilevamento IA più noti che accettasse un video intero. Sperava che gli dicesse con quale modello fosse stato generato, oltre a confermargli quello che ormai considerava un fatto acquisito.
 
 Non lo confermò. Il verdetto arrivò in pochi secondi. Contenuto reale, nessuna evidenza di generazione artificiale.
 
-Restò a fissare lo schermo come chi ha appena rifatto un calcolo e ha ottenuto di nuovo lo stesso risultato sbagliato. Il piede a sei dita non era un'allucinazione. Aveva contato falangi e unghie, personalmente, su ogni singolo fotogramma. Il problema, si disse, doveva essere nello strumento, non nel video. Quel tool probabilmente era addestrato a riconoscere artefatti visivi, texture innaturali, movimento troppo fluido o troppo rigido, non un singolo glitch anatomico durato due fotogrammi su un video di quindici minuti.
+Il piede a sei dita non era un'allucinazione. Il problema, si disse, doveva essere nello strumento, non nel video.
 
-Serviva isolare la variabile giusta. Aprì un documento vuoto e trascrisse, parola per parola, tutto quello che la ragazza diceva nel video. Non le pose, non la musica di sottofondo, solo il parlato. Ne uscì un documento lungo quanto i quindici minuti del video stesso. Iniziava così:
+Serviva isolare la variabile giusta. Aprì un documento vuoto e trascrisse, parola per parola, tutto quello che la ragazza diceva nel video. Ne uscì un documento lungo quanto i quindici minuti del video stesso. Iniziava così:
 
 *"Ciao, sono qui per darti la routine che ha cambiato la mia vita e può cambiare anche la tua. Se vuoi il massimo risultato, guardami a velocità doppia. Fidati, funziona meglio! Bastano quindici minuti al giorno, sette e mezzo a velocità doppia. Il corpo non mente mai: vedrai i risultati già dalla prima settimana."*
 
@@ -20,11 +20,11 @@ Incollò il documento per intero in tre servizi fatti per il testo, Undetectable
 
 Uscì di casa con il solito quarto d'ora di anticipo. Per tutto il turno portò quelle due parole, origine non determinabile, in testa come un sassolino nella scarpa, ripetendosela in mente ogni volta che un test diagnostico gli lasciava trenta secondi liberi.
 
-Gli restava un'ultima carta, l'archivio interno di Meridian. I tool pubblici non gli avevano dato nessun nome, nessuna pista concreta da seguire. Non aveva alcun motivo reale per pensare che l'archivio, nato per catalogare i contenuti prodotti dall'azienda stessa, potesse dirgli qualcosa su un video trovato su YouTube, ma tentare non gli costava nulla.
+Gli restava un'ultima carta, l'archivio interno di Meridian. Non aveva alcun motivo reale per pensare che l'archivio, nato per catalogare i contenuti prodotti dall'azienda stessa, potesse dirgli qualcosa su un video trovato su YouTube, ma tentare non gli costava nulla.
 
 Aspettò l'ultima ora di turno, quando il corridoio fuori dal suo laboratorio si svuotava e i colleghi iniziavano a pensare più al cambio turno che a bussare a una porta chiusa. La porta era già chiusa a doppia mandata, *clac clac*, come sempre. Il neon sopra il banco era rimasto l'unico acceso in quell'ala. Aprì il tool aziendale di catalogazione degli artefatti. L'accesso l'avevano ricevuto tutti i Meridians un paio d'anni prima, quando l'azienda, spaventata dai deepfake, aveva deciso di etichettare ogni contenuto prodotto dai propri modelli con il modello, la data, il reparto e un contatto, indicizzato parola per parola. I modelli più vecchi, mai aggiornati, lasciavano solo un sì senza nome. In azienda lo chiamavano trasparenza, ma serviva soprattutto a trovare in fretta un autore interno da dare in pasto ai leoni, se mai fosse scoppiato uno scandalo.
 
-Non caricò nulla. Quella mattina aveva dato il video e il suo testo a siti sconosciuti senza pensarci due volte, perché là fuori un file caricato era un gesto di chiunque. Qui dentro ogni clic aveva un proprietario. Non incollò nessun link, nessun file, niente che potesse ricondurre a un video visto sul suo telefono. Ribatté a memoria le frasi d'apertura del transcript, quelle che aveva riletto più volte quella mattina. Per una ricerca testuale bastavano. Rilesse il testo un'ultima volta e poi lanciò la ricerca nell'archivio.
+Non caricò nulla, perché qui dentro ogni clic aveva un proprietario. Ribatté a memoria le frasi d'apertura del transcript, quelle che aveva riletto più volte quella mattina, poi lanciò la ricerca nell'archivio.
 
 Il risultato arrivò in pochi secondi. Tom si accorse di essersi alzato in piedi senza averlo deciso.
 
@@ -121,3 +121,9 @@ Il video era un prodotto Meridian, pubblicato su un canale che di Meridian non p
 | Esposizione sull'archivio ancora lunga (A1.7) | pacing | integrated | Compressa in tre frasi; tenuti il "sì senza nome" (base di `internal_unknown`) e la battuta dei leoni. |
 | "generico" ripetuto (§7, §9) | repetition | integrated | Tolto al §9. |
 | Chiusura su sentenza "Silenzio completo." e tic "il tipo di iniziativa" | R5 / tic | integrated | "…non ne aveva più sentito parlare, nemmeno in una nota a piè di pagina." |
+
+### Asciugatura — 2026-11-28 (v5.1)
+
+| Issue | Category | Status | Resolution |
+|---|---|---|---|
+| Feedback di un ascoltatore del podcast: narrazione tirata per le lunghe (analisi del ritmo 2026-11-28) | pacing / style (R6, R10) | integrated (v5.1) | Da 866 a 690 parole. Tolti la casa fredda, la spiegazione del perché Hive sbaglia, il perché non carica nulla (ridotto a una frase). Box `internal_unknown` e chiusa su Elab invariati (autore). |
